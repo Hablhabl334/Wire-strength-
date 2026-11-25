@@ -8,6 +8,11 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from metadata import build_description, build_tags
 
 def access_token():
+    _rt = os.environ["YT_REFRESH_TOKEN"]; _cid = os.environ["YT_CLIENT_ID"]
+    # Shape-only diagnostics: lengths and a public fragment, never values.
+    print("pre-flight diag: refresh_token len=%d, refresh-shaped=%s, client_id len=%d, client_id mid=%s" % (
+        len(_rt), _rt.startswith("1//"), len(_cid),
+        _cid.split("-")[1][:4] if "-" in _cid else "?"))
     data = urllib.parse.urlencode({
         "client_id": os.environ["YT_CLIENT_ID"],
         "client_secret": os.environ["YT_CLIENT_SECRET"],
