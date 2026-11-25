@@ -1,0 +1,444 @@
+{
+ "badge": "EP 69 - SHOULDER HOLD TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "THE PLAN"
+ ],
+ "description": "Hold your arms out at shoulder height with a light bottle in each hand and beat the clock. That burn grades the four small tendons that keep your shoulder in its socket. Here is what your hold time says about your rotator cuff, why it matters more than your delts, and the training week that rebuilds it.",
+ "hashtags": [
+  "shoulder hold test",
+  "rotator cuff",
+  "tendon training",
+  "shoulder strength",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "id": "069",
+ "scenes": [
+  {
+   "asset": "ren_wall_slide.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT BOTTLES, ARMS STRAIGHT"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ARMS AT SHOULDER HEIGHT"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SHRUGGING = TEST OVER"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "It grades your rotator cuff tendons."
+     ],
+     "pos": "br",
+     "title": "ONE NUMBER"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STOP AT GOOD BURN, NOT PAIN"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Grab two light bottles. | Half a liter each. | Stand tall. | Arms out to the sides. | Straight, at shoulder height. | Palms facing down. | And start your clock. | Hold them there. | Do not shrug. | Do not lean back. | Do not bend the elbows. | The bottles feel light. | For about twenty seconds. | Then your shoulders | start to burn and shake. | Your arms get heavy. | Like someone is | slowly sitting on them. | Got your TIME? | Remember it. | That time grades | your ROTATOR CUFF. | Four small tendons | that run your shoulder. | At the end | I will tell you | what your time means. | Almost nobody trains these.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED = FIXABLE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO SHRUGGING ALLOWED"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "CUFF OF A THROWING ATHLETE",
+     "pos": "br",
+     "text": "2 MIN+"
+    }
+   ],
+   "big": "90 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "ARMS HELD AT SHOULDER HEIGHT",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ninety seconds with your arms at shoulder height, bottles steady, no shrugging and no leaning back to cheat the lever. Under forty-five seconds, your rotator cuff tendons are simply untrained, and the deep burn you felt is what a neglected system sounds like when it finally gets asked to work. Between forty-five and ninety, the cuff is waking up and learning to hold your shoulder together under fatigue. Over two minutes, you own the cuff of a throwing athlete, the kind that keeps a shoulder stable for a whole game. This test does not care how wide your shoulders look. It measures the small cables inside the joint, and those cables decide whether the joint works at all.",
+   "section": "THE NUMBER",
+   "sub": "under 45: untrained cuff - over 2 min: athlete cuff",
+   "type": "card"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A BALL BALANCED ON A TEASPOON"
+    },
+    {
+     "asset": "ren_wall_slide.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Four tendons pull the ball",
+      "into the socket from all sides."
+     ],
+     "pos": "br",
+     "title": "THE CUFF'S REAL JOB"
+    },
+    {
+     "at": 19,
+     "kind": "stat",
+     "label": "TENDONS CENTERING THE JOINT",
+     "pos": "tr",
+     "text": "4"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STABILITY BEFORE SIZE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look inside the shoulder. It is a strange joint. The ball of your arm bone is large, and the socket it sits in is tiny and shallow, like a golf ball balanced on a teaspoon. Nothing about the bones keeps it in place. What keeps it centered is the rotator cuff: four muscles whose tendons wrap around the joint and pull the ball into the socket from every side, every time you move your arm. Your big deltoid gets the credit for shoulder size, but it is a mover, not a stabilizer. When the cuff is weak, the ball drifts and grinds with every press and pull you do. When the cuff is strong, the joint stays centered and everything you train works better and hurts less. Stability is not the boring part of shoulder training. It is the foundation of it. Here is the detail that changes how you train. The cuff does not work in big efforts. It works in small corrections, hundreds of times per movement, adjusting the ball's position by millimeters. Training it with long, light holds matches how it actually earns its living.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TENDONS LOVE LONG, LIGHT LOADS"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "HEAVY + RARE",
+       35,
+       "red"
+      ],
+      [
+       "LIGHT + OFTEN",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CUFF ADAPTATION BY TRAINING STYLE"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Small tendons rebuild on frequent,",
+      "moderate tension, not max effort."
+     ],
+     "pos": "br",
+     "title": "THE FREQUENCY RULE"
+    },
+    {
+     "asset": "ren_pushup_back_top.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LITTLE AND OFTEN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is how these particular tendons like to be trained, because they break the usual rules. The rotator cuff is a small system with a modest blood supply, and it rebuilds best on frequent, moderate work rather than rare, brutal sessions. Long holds at light loads, done often, give its cells the steady strain signal they need to lay down new collagen. This is why the hold test doubles as the perfect training tool: the test is the exercise. It is also why heavy overhead pressing alone never fixes a weak cuff. The big muscles take over, the small tendons hide, and the gap between your movers and your stabilizers quietly grows until the joint complains. Little and often is not soft advice. For this system, it is the science. Notice what this means for your pressing. Every overhead press you will ever do is built on this foundation. A stronger cuff does not just protect the joint; it gives the big muscles a stable platform to push from, and pressing numbers climb on top of it.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_back_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR BACK TELLS THE STORY"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Cuff strength shows up as",
+      "posture you do not think about."
+     ],
+     "pos": "br",
+     "title": "THE QUIET SIGNAL"
+    },
+    {
+     "asset": "shoulder_anatomy_plate.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ROUNDED SHOULDERS = TIRED CUFF"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STRONG CUFF = OPEN FRAME"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Watch somebody with a trained cuff and you will notice something subtle. Their shoulders sit back and down without any effort, their chest stays open, and their arms hang relaxed instead of rolled forward. That posture is not a habit they practice. It is what happens when the tendons holding the shoulder can do their job all day without getting tired. The rolled-forward shoulder of the untrained guy is often just a cuff that gives up by noon. His stabilizers fatigue, the ball drifts forward in the socket, and the whole frame caves in behind it. You can cue posture all day and it will not survive tired tendons. Train the cuff, and the posture starts keeping itself. You can test this today. Do the hold in the morning and notice your shoulders at dinner. On days the cuff is trained, the whole frame sits differently. That daily feedback loop is addictive, and it is how small tendons quietly rebuild your posture.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_slide.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR JOINTS TAKE LESS LOAD"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "HEAVY PRESSER",
+       45,
+       "red"
+      ],
+      [
+       "YOU",
+       80,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CLEAN REPS BEFORE CUFF FATIGUE"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Less bodyweight means your cuff",
+      "can be trained more often."
+     ],
+     "pos": "br",
+     "title": "THE RECOVERY EDGE"
+    },
+    {
+     "asset": "shoulder_anatomy_plate.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = MORE FREQUENCY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now your advantage. Frequency is the currency this system runs on, and frequency is exactly what a light body buys. Every press, dip and pull you do loads your cuff with a share of your bodyweight. The heavy guy's cuff absorbs far more per rep, fatigues faster, and needs more rest between sessions. Yours takes a smaller hit every single time, which means you can train the cuff four or five days a week while he manages two. Over a month, that is double the tendon-building sessions. The big guy's advantage is load. Your advantage is repetition, and for small tendons like these, repetition wins. This is one of the clearest places on your whole body where being light is not a limitation. It is the strategy.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_slide.webp",
+   "check": 3,
+   "exercise": "WALL SLIDES",
+   "music": "drive",
+   "narration": "Now we train it together. Back flat on the wall, arms in a goalpost, slide them up and down slowly. Three rounds, forty seconds each. Small range, perfect control.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "THE PLAN",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HOLDS 4-5 DAYS A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "CHASING PRESSING MAXES"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ADD 5 SECONDS, NOT WEIGHT"
+    },
+    {
+     "asset": "ren_wall_slide.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SHARP PINCH = STOP"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is your week. Four or five short sessions beat one long one. Session template: the hold test at eighty percent of your max time, three rounds. Wall slides like the ones you just did, slow and controlled. And light rotations: elbow tucked at your side, bent ninety degrees, rotating a light bottle outward against gravity. Progress by adding five seconds, never by grabbing heavier bottles. The deep burn is the training working. But learn the stop signals: a sharp pinch in the top of the shoulder, pain that shoots down the arm, or an ache that lingers for days after every session. If shoulder pain persists like that, get it checked by a professional. Shoulders are complicated joints, and a real diagnosis protects everything else you are building. Keep a pair of light bottles where you will actually see them. Cuff training fails from forgetting, not from difficulty. Two minutes while the kettle boils beats a perfect program you do twice a month.",
+   "section": "THE PLAN",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A STARTING LINE, NOT A VERDICT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under forty-five seconds: your cuff is untrained, not broken, and it will respond to frequent light work faster than almost any system on your body. Forty-five to ninety: you are building, and your shoulders are probably already sitting better by the end of the day. Over two minutes: you are wired, with a cuff that throwing athletes would respect. Whatever you scored, it is a starting line. Train the plan for thirty days and run this test again, same bottles, same height, same rules. Put your seconds in the comments, just the number, and we compare on retest day.",
+   "section": "THE PLAN",
+   "sub": "same test, same rules - compare the number",
+   "type": "card"
+  },
+  {
+   "asset": "ren_wall_slide.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SUBSCRIBE FOR RETEST DAY"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now | we run this test again. | Same bottles, same height. | Bring a longer hold. | Your shoulders will sit differently. | Subscribe so you | do not miss retest day. | This is {channel}. | Train the cable.",
+   "section": "THE PLAN",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "shoulder hold test",
+  "rotator cuff",
+  "tendon training",
+  "shoulder strength",
+  "shoulder stability",
+  "wall slides",
+  "bodyweight shoulders",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "shoulder_anatomy_plate.webp",
+  "big": "90 SEC",
+  "hook": "YOUR SHOULDERS ARE LOOSE"
+ },
+ "title": "Your Shoulder Hold Test Reveals the Truth About Your rotator cuff tendons",
+ "v5": true
+}

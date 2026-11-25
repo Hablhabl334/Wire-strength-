@@ -1,0 +1,486 @@
+{
+  "id": "099",
+  "v5": true,
+  "title": "Why Your biceps tendon Matter More Than Muscle (The biceps tendon training Episode)",
+  "description": "The biceps is the most famous muscle in the body, but its strength is delivered by a tendon most people never think about until it hurts. The towel curl test grades that cable with nothing but a towel and a bar. Get your number, learn the supination secret, and train the hook that moves the load.",
+  "tags": [
+    "towel curls",
+    "biceps tendon",
+    "bicep curl test",
+    "chin-ups",
+    "tendon training",
+    "biceps training",
+    "elbow tendon",
+    "skinny guy fitness"
+  ],
+  "hashtags": [
+    "towel curls",
+    "biceps tendon",
+    "bicep curls",
+    "tendon training",
+    "chin ups",
+    "calisthenics"
+  ],
+  "category": "tendons",
+  "badge": "EP 99 - BICEPS TENDON TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE BICEPS CABLE",
+    "YOUR CURLS"
+  ],
+  "thumb": {
+    "asset": "ren_pullup_top.webp",
+    "big": "10 REPS",
+    "hook": "TOWEL CURL TRUTH",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pullup_mid.webp",
+        "ren_pullup_top.webp"
+      ],
+      "cycle": 2.4,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Loop a towel | over a bar. | Grip both ends. | Palms facing you. | Arms fully straight. | Feet on the floor. | Lean back slightly. | Now curl yourself up. | Hands toward your forehead. | Slow and strict. | Lower back down. | Three seconds down. | That is ONE rep. | No kicking allowed. | No bouncing allowed. | Count your clean reps. | Stop at form failure. | Or at fifteen. | Write the number down. | Keep it safe. | At the end | I will explain | what it grades.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "TOWEL OVER THE BAR",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "PALMS FACING YOU",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "THREE SECONDS DOWN",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 16,
+          "kind": "chip",
+          "text": "STOP AT FORM FAILURE",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "NOWHERE TO HIDE",
+          "lines": [
+            "Your bodyweight is the weight.",
+            "The tendon is the grade."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "10 REPS",
+      "label": "THE LINE BETWEEN SHOW AND WIRED",
+      "sub": "under 4: untrained cable - over 12: hook of steel",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Ten strict towel curls is where a show muscle becomes a wired one. Under four, your biceps tendon is untrained, and untrained is fixable with patient, regular work. Four to ten means the cable delivers but fades under control, which is why your chin-ups stall halfway up. Over twelve, you own a hook of steel, the kind of tendon climbers and gymnasts build without ever touching a dumbbell. Understand what the towel did here. It removed every machine, every plate, and every excuse, and it graded the exact chain your pulling strength runs on: hand, wrist, biceps tendon, shoulder. One weak link and the rep count tells on it.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNTRAINED = FIXABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "10 REPS = WIRED",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "12+",
+          "label": "HOOK OF STEEL",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "elbow_anatomy_plate.webp",
+      "section": "THE BICEPS CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look at where the biceps actually ends. The famous muscle belly sits up on your arm, but its force leaves through a single stout tendon that dives past your elbow and anchors into the forearm bone. That anchor is the whole business. When it pulls, it does two jobs at once: it bends the elbow, and it rotates the forearm so your palm turns up, a motion called supination. This is why the biceps is really a screwdriver as much as a hook. It is also why this tendon is a common injury site in strong people. All the glory of the muscle is delivered through one modest cable at the elbow, and cables, not bellies, are what tear. That dual job explains a training detail most people get wrong. Curls done with the wrist bent or the palm half turned quietly unload the tendon and shift work to smaller forearm muscles. Keep the palm fully facing you and the wrist firm, and the same weight becomes a completely different exercise for the cable.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "ONE TENDON PAST THE ELBOW",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 15,
+          "kind": "fact",
+          "title": "HOOK AND SCREWDRIVER",
+          "lines": [
+            "It bends the elbow.",
+            "It turns the palm up."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "THE ANCHOR IS THE BUSINESS",
+          "pos": "tr"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "CABLES TEAR, NOT BELLIES",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "section": "THE BICEPS CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the training secret hidden in that anatomy. Because the biceps tendon also rotates the forearm, it gets loaded hardest when the palm faces you and the elbow bends under control, exactly the towel curl you just did and exactly the chin-up grip most people avoid in favor of the easier pull-up grip. Slow eccentrics, the three second lowering, are the tendon's favorite teacher, because the cable adapts to tension held while lengthening. Fast, swinging reps teach it nothing except how to complain near the elbow. Two lifters can do the same number of curls and walk away with completely different tendons. The difference is never the weight. It is the tempo and the grip. There is a reason physical therapists test this tendon with a slow lowering and not a fast lift. The lowering is where the cable experiences its highest organized tension, and organized tension is the language tendons learn from. Speak it three times a week and the cable gets fluent.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "PALMS UP LOADS THE CABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "SLOW LOWERING IS THE TEACHER",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "TENDON ADAPTATION",
+          "items": [
+            [
+              "SLOW + PALMS UP",
+              85,
+              "cyan"
+            ],
+            [
+              "FAST + SWINGING",
+              25,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "TEMPO AND GRIP",
+          "lines": [
+            "Same curls.",
+            "Completely different tendons."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "CHIN-UP GRIP IS TENDON WORK",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "section": "THE BICEPS CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The towel deserves its own paragraph, because it quietly solves three problems at once. First, it makes your grip the fuse in the circuit: if your hands slip, the set ends, so the forearms train honestly alongside the biceps. Second, it lets you scale the load with your feet, stepping closer to vertical when you are fresh and further back as you improve, no plates required. Third, it punishes cheating instantly, because any kick or bounce shows up as the towel swinging. A ten dollar towel over any bar in your life just became a complete biceps tendon laboratory. The gym industry will not advertise that. This channel will, every single week.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "GRIP IS THE FUSE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "FEET SET THE LOAD",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "CHEATING SWINGS THE TOWEL",
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "A TEN DOLLAR LABORATORY",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE TOWEL RULE",
+          "lines": [
+            "If it swings,",
+            "you cheated."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_hang_side_relaxed.webp",
+      "section": "THE BICEPS CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Audit this cable in the grocery store. Carrying bags with bent elbows, hauling a suitcase up stairs, holding a child on one arm: all of it is the biceps tendon working isometrically, holding a load at a fixed angle while you walk. People notice their arms tire on carries long before they notice anything in the gym, and that tiredness is the tendon and its muscle sharing a long, honest shift. This is also why the towel curl transfers so well to real life. It trains the exact pattern: grip hard, elbow bent, load held and moved under control. Add the chin-up hangs from the protocol and you are training both ends of the carry, the moving part and the holding part. Six weeks from now, the bags will feel lighter, and nothing about the bags will have changed.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "CARRIES ARE TENDON SHIFTS",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "elbow_anatomy_plate.webp"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "HOLDING IS HALF THE JOB",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "fact",
+          "title": "MOVING + HOLDING",
+          "lines": [
+            "Curls train the movement.",
+            "Hangs train the hold."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "chip",
+          "text": "THE BAGS WILL FEEL LIGHTER",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pullup_mid.webp",
+        "ren_pullup_top.webp"
+      ],
+      "cycle": 2.4,
+      "section": "YOUR CURLS",
+      "check": 3,
+      "music": "dark",
+      "narration": "Now the advantage. | Towel curls scale | with bodyweight. | Your weight is light. | So strict reps exist. | The heavy guy tears | towels and grips fail. | He cannot practice this. | Not with clean form. | You can practice daily. | Perfect tempo every rep. | Tendons love exactly that. | Frequent, strict, submaximal. | His problem is load. | Your gift is practice. | Practice builds cables. | Cables build arms. | In that order.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LIGHT = STRICT REPS EXIST",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "HE CANNOT PRACTICE THIS",
+          "lines": [
+            "His grip fails first.",
+            "Yours gets daily reps."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "PRACTICE BUILDS CABLES",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 16,
+          "kind": "chip",
+          "text": "CABLES BUILD ARMS",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pullup_mid.webp",
+      "exercise": "TOWEL CURLS",
+      "work": 30,
+      "rest": 30,
+      "rounds": 4,
+      "section": "YOUR CURLS",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Four rounds of towel curls, thirty seconds of strict reps, thirty seconds of rest. Palms facing you, three seconds down, no swinging the towel. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "YOUR CURLS",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your week. Towel curls three times a week, three sets, always two reps shy of failure. Add chin-up grip dead hangs twice a week, twenty to thirty seconds, to teach the tendon to hold at full stretch. Progress by stepping your feet further from the bar before you ever add a backpack, because angle is your weight stack. Keep one full easy day between sessions at the start, since this tendon complains quietly and late. And respect the warning sign specific to this cable. Pain deep in the front of the elbow crease, or a sudden pop sensation there, is a stop and check it signal, and if elbow pain persists, see a professional before you curl again. Photograph your arms relaxed, once a month, same light, same distance. Tendon driven changes show up first as shape and definition around the elbow and upper forearm, weeks before the tape measure admits anything is happening.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "3X A WEEK, 2 REPS SHY",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "CHIN-UP HANGS 2X A WEEK",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "SKIP: SWINGING REPS",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "ANGLE IS YOUR WEIGHT STACK",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "FRONT OF ELBOW PAIN = STOP",
+          "lines": [
+            "This cable complains quietly.",
+            "Listen the first time."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "10+",
+      "label": "THE RETEST LINE IN 30 DAYS",
+      "sub": "under 4: untrained - 4 to 10: building - over 10: wired",
+      "section": "YOUR CURLS",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under four: your biceps tendon is untrained, and the towel will fix that faster than any machine in the building. Four to ten: you are building, and the chin-up hangs are your next level. Over ten: your hook is wired, and every pull you do from now on runs on a cable you can trust. Put your number in the comments. Just the number. We retest in thirty days, same towel, same grip, same three second lowering. Strict counts double.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNTRAINED IS FIXABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "elbow_anatomy_plate.webp",
+      "section": "YOUR CURLS",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The most famous muscle in the body is only as good as the cable that delivers it, and today you graded yours honestly. Curl strict, hang often, and in thirty days we count again. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "CURL STRICT, HANG OFTEN",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "TRAIN THE CABLE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

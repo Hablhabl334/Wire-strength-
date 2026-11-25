@@ -1,0 +1,386 @@
+{
+ "badge": "EP 39 - THE REAL CALF",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CABLE",
+  "YOUR NUMBER"
+ ],
+ "description": "Your calf muscle gets the credit and the blame, but it is not the part that matters. Run the single-leg test again and then learn why the Achilles tendon, a cable with no size to brag about, decides your strength, your spring, and your speed. Here is the case for training the cable instead of chasing the muscle.",
+ "hashtags": [
+  "calf raises",
+  "achilles tendon",
+  "calf strength",
+  "tendon over muscle",
+  "single leg test",
+  "skinny guy fitness"
+ ],
+ "id": "039",
+ "scenes": [
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG. FULL RANGE."
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Deep stretch at the bottom.",
+      "Full height at the top."
+     ],
+     "pos": "br",
+     "title": "THE RULES"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "BOUNCED REPS DO NOT COUNT"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Back to the step edge. One foot, heel hanging off, fingertips on the wall for balance. Lower into the deepest stretch you own, then press to the highest point you can reach. Count clean reps until full height is gone. That is your SINGLE-LEG CALF RAISE NUMBER, and today it is evidence in a case most lifters have backwards. Ask anyone why their calves are weak and they will point at the muscle: too small, bad genetics, will not grow. Almost nobody points at the cable underneath it. By the end of this video you will understand why the muscle is the supporting actor in your lower leg, why the tendon does the heavy work of your athletic life, and why that is the best news a skinny guy can hear. Keep your number. We grade it at the end.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "25 = TRAINED"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "SPRING TERRITORY",
+     "pos": "br",
+     "text": "40+ REPS"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE NUMBER GRADES THE CABLE"
+    }
+   ],
+   "big": "25 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN ROPE AND SPRING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The line is where it was. Twenty-five clean single-leg reps marks a trained calf system. Under ten, the system is untrained. Ten to twenty-five, it is under construction. Over forty with a pause at the top, you own a spring. But notice the wording: the number grades the system, and the system is mostly cable. Today we open it up and look.",
+   "section": "THE NUMBER",
+   "sub": "under 10: untrained system - over 40: spring territory",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALL MUSCLE, GIANT CABLE"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Running loads it with many times bodyweight.",
+      "Walking bills it every single step."
+     ],
+     "pos": "br",
+     "title": "THE WORKLOAD"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO OTHER TENDON WORKS THIS HARD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Consider the actual workload of your lower leg. When you run, the force passing through your Achilles tendon reaches many times your bodyweight with every stride. When you climb stairs, jump, or even walk briskly, the same cable takes the strain thousands of times a day. Now look at the muscle feeding it: a modest sheet of tissue you could cover with your hand. The muscle is not built to carry that workload directly. It is built to tension the cable, and the cable, the thickest tendon in your body, is built to carry it. This is the division of labor the mirror hides from you. Muscle is the motor, small and replaceable in the story. Tendon is the structure, and structures decide what a system can actually do. A bigger motor on a soft cable still leaks force. A modest motor on a stiff cable moves like a spring. One more proof lives in the rehab clinic. When an Achilles tendon is injured, clinicians do not rebuild it by growing the calf muscle first. They load the tendon itself, slowly and progressively, because the cable is the structure that must be restored before anything else matters. The muscle follows the cable back to work, not the other way around. Rehab learned decades ago what this episode is telling you: in the lower leg, the tendon is the main character.",
+   "section": "THE CABLE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SIZE AND STIFFNESS ARE DIFFERENT"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "CALF SIZE",
+       30,
+       "red"
+      ],
+      [
+       "TENDON STIFFNESS",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT PREDICTS THE SPRING"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STIFFNESS IS TRAINABLE"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Collagen answers slow, heavy load.",
+      "The cable rebuilds on schedule."
+     ],
+     "pos": "br",
+     "title": "THE BUILD RULE"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "This is why the genetics complaint about calves misses the point twice. First, the visible size of the calf is heavily inherited, which is why some people chase it for years with little to show. Second, and decisively, the performance of the calf is not inherited to anywhere near the same degree, because tendon stiffness answers to training in almost everyone. Slow, heavy loading tells the collagen to rebuild thicker and stiffer, and it obeys on a schedule measured in weeks. The guy with small calves and a stiff Achilles will out-spring, out-last, and out-climb the guy with big calves and a soft one, in every test that involves the ground. One of them trained the part that shows. The other trained the part that works. Your test number knows which one you have been.",
+   "section": "THE CABLE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT FRAME, FULL SIGNAL"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Single-leg work loads the cable hard.",
+      "No gym required, no size required."
+     ],
+     "pos": "br",
+     "title": "YOUR POSITION"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY CALVES CAN WIN"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "For the skinny guy, this episode is a verdict in his favor. You cannot quickly change the calf genetics you were handed, and you do not need to. The trainable part of the system, the cable, is where performance lives, and it does not care how your legs look in shorts. Your lighter frame even helps the training itself: single-leg raises load your Achilles with your full bodyweight on one side, a serious signal, while sparing you the joint cost a heavier lifter pays for the same work. The fitness world told you to envy the muscle. The anatomy says envy nothing. Build the cable, and the small calf becomes the spring that bigger men wish they had bought instead of size.",
+   "section": "THE CABLE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_achilles_profile.webp",
+   "section": "THE CABLE",
+   "check": 2,
+   "music": "dark",
+   "narration": "Let me separate the two calves you actually own, because they split the work in a way that matters. The surface muscle, the one that gives the calf its shape, is a sprinter: powerful, fast, and quick to tire. Underneath it sits a deeper, flatter muscle built for endurance, the one that works all day while you stand and walk. Both feed the same Achilles tendon. Here is the part that should reframe your training: the mirror only grades the surface sprinter. Your test grades the whole system, deep muscle and cable included, which is why the number and the reflection so often disagree. A man can carry impressive surface calves over a soft deep system and fail this test early. Another can look unremarkable and press out forty slow reps, because everything under the surface is built. You already know which athlete wins on the ground. The test simply refuses to be fooled by the wrapping, and that refusal is its greatest gift to a skinny guy.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "TWO CALVES, ONE CABLE",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "SURFACE VS DEEP",
+     "lines": [
+      "The mirror grades the surface.",
+      "The test grades the system."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THE NUMBER IS NOT FOOLED",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "text": "BUILT UNDERNEATH",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "check": 3,
+   "exercise": "SLOW CALF RAISE",
+   "music": "drive",
+   "narration": "Train with me. Up for three, down for three, full stretch at the bottom. Forty-five seconds of slow work, short rest, three rounds. The cable is listening. Go.",
+   "rest": 15,
+   "rounds": 3,
+   "section": "YOUR NUMBER",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLOW AND HEAVY WINS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "CHASING THE PUMP"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "JUDGING BY THE MIRROR"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "JUDGE BY THE NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Three sessions of slow single-leg work, weaker leg first, three seconds up and three down, adding load from a backpack when bodyweight gets easy. Finish each session with slow lowering-only reps off the step, the eccentric work tendons respond to best. Three mistakes keep cables soft. Chasing the pump with fast, light sets trains the muscle's burn and tells the collagen nothing. Judging progress in the mirror measures the one part of the system that barely matters. And skipping the deep stretch at the bottom removes the hardest-loaded position of the entire rep. Judge this program by your test number and your spring, never by your reflection. The cable keeps honest books, and it pays out in force. Keep the two numbers side by side in your log: your calf measurement if you insist on taking one, and your single-leg rep count. Watch which one predicts your spring, your stairs, and your running over the next ninety days. The experiment runs itself, and the cable wins it every time.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "YOUR NUMBER",
+   "card": "bignum",
+   "check": 3,
+   "label": "WHAT YOUR NUMBER MEANS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under ten: an untrained cable under a willing muscle, the fastest fix in this series. Ten to twenty-five: the system is rebuilding and the spring is tightening. Over twenty-five slow, full-range reps: you own the part of the calf that actually performs, whatever the mirror says about the rest. Write it down. Retest in thirty days at the same tempo, and put your reps in the comments. Just the number. Cables do not lie, and they do not care about genetics.",
+   "section": "YOUR NUMBER",
+   "sub": "under 10: untrained - 10 to 25: building - over 25: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "SAME TEST, NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of slow work, then the same step and a bigger number. If this episode changed which part of your leg you train, subscribe, because every video here starts with a number and ends with a stronger one. This is {channel}. Train the cable.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "calf raises",
+  "achilles tendon",
+  "calf strength",
+  "single leg calf raise",
+  "tendon training",
+  "calf genetics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_achilles_profile.webp",
+  "big": "25 REPS",
+  "hook": "TENDON OVER MUSCLE"
+ },
+ "title": "Why Your Achilles tendon Matter More Than Muscle (The calf raises Episode)",
+ "v5": true
+}

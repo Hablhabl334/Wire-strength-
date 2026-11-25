@@ -1,0 +1,444 @@
+{
+ "badge": "EP 68 - NECK HOLD TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "THE PLAN"
+ ],
+ "description": "Lie down, tuck your chin, lift your head and hold it against the clock. That hold grades the small tendons that carry your head all day. Here is what your neck hold time says about those cables, why a strong neck is hidden armor for a skinny guy, and the gentle plan that builds it safely.",
+ "hashtags": [
+  "neck hold test",
+  "neck training",
+  "tendon training",
+  "neck strength",
+  "posture",
+  "skinny guy fitness"
+ ],
+ "id": "068",
+ "scenes": [
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIE FLAT, CHIN TUCKED"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HEAD ONE INCH UP"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HEAD DROPS = TEST OVER"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "It grades the tendons holding your head."
+     ],
+     "pos": "br",
+     "title": "ONE NUMBER"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BREATHE THE WHOLE TIME"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Lie on your back. | Flat on the floor. | Tuck your chin slightly. | Like making a double chin. | Now lift your head. | Just an inch up. | Keep the chin tucked. | And start your clock. | Breathe normally. | Do not hold your breath. | Your head weighs | about five kilograms. | It feels light. | For about fifteen seconds. | Then the front | of your neck starts | to shake and burn. | Got your TIME? | Remember it. | That time grades | your NECK TENDONS. | The small cables | that carry your head | every waking hour. | At the end | I will tell you | what your time means. | Most necks are | completely untrained.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHAKING = UNTRAINED, NOT WEAK"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CHIN TUCKED THE WHOLE TIME"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "NECK OF A COMBAT ATHLETE",
+     "pos": "br",
+     "text": "2 MIN+"
+    }
+   ],
+   "big": "60 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "HEAD HOLD WITH THE CHIN TUCKED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Sixty seconds holding your head an inch off the floor, chin tucked, breathing normally the whole time. Under thirty seconds, the tendons at the front of your neck are simply untrained, and the shaking you felt is exactly what an untrained cable looks like under its first real load. Between thirty and sixty, the system is waking up and learning to hold tension. Over two minutes, you own the neck of a combat athlete, built to hold a head steady under real force. This test does not measure toughness or pain tolerance. It measures a small group of tendons that almost nobody trains on purpose, and it grades them without mercy.",
+   "section": "THE NUMBER",
+   "sub": "under 30: untrained neck - over 2 min: combat neck",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A BOWLING BALL ON A ROPE BRIDGE"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Neck tendons hold the head",
+      "and protect the nerves inside."
+     ],
+     "pos": "br",
+     "title": "TWO JOBS AT ONCE"
+    },
+    {
+     "at": 19,
+     "kind": "stat",
+     "label": "YOUR HEAD, CARRIED ALL DAY",
+     "pos": "tr",
+     "text": "~5 KG"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SMALL CABLES, HUGE JOB"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at what your neck actually is. Your head weighs about as much as a bowling ball, and it balances on a column of small bones, discs and tendons no thicker than your fingers. Those tendons do two jobs at once. They hold your head up against gravity all day, and they guard the spinal cord and nerves passing through the middle of it all. When the tendons and the deep muscles around them are strong, your head sits balanced and your posture almost takes care of itself. When they are weak, your head drifts forward hour by hour, and the cables at the back of your neck spend all day overstretched and complaining. That forward drift is the default posture of modern life, and an untrained neck has no defense against it. Consider how unfair the job is. The tendons are small, the head is heavy, and the shift never ends. Even in sleep your neck only partly rests. No other cable group in your body works a schedule like that, and none gets less training in return.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORWARD HEAD = LONGER LEVER"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "BALANCED HEAD",
+       30,
+       "cyan"
+      ],
+      [
+       "FORWARD HEAD",
+       80,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "LOAD ON THE NECK TENDONS"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Every inch forward multiplies",
+      "the load the tendons must hold."
+     ],
+     "pos": "br",
+     "title": "THE LEVER PROBLEM"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "POSITION IS A TRAINING TOOL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the physics nobody explains. Your head is a weight on a lever. Balanced over your shoulders, your neck tendons hold about five kilograms. Let it drift a few inches forward, the way it does over a phone, and the lever multiplies that load two or three times over. Your tendons do not get to choose. They hold whatever your posture hands them, for hours, without rest. This is why gentle isometric holds work so well for the neck. They train the tendon in exactly the currency it spends all day: steady, moderate tension, held for time. No heavy weights, no sudden movements, nothing extreme. Just the cable, under honest load, learning to do its job again. This is why small position changes feel so dramatic. Moving your screen up a few centimeters shortens the lever for eight hours a day. Your tendons cannot tell the difference between a training hold and a posture habit. Both are just load, repeated. Make the repeated load a good one.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GENTLE ISOMETRICS ONLY"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Steady pressure, zero movement.",
+      "The safest way to load a neck."
+     ],
+     "pos": "br",
+     "title": "THE NECK RULE"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NO WEIGHTS HANGING FROM THE HEAD"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SLOW PROGRESS WINS HERE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The neck deserves its own safety rule, so hear it clearly. This is the one area of your body where we never chase maximal loads. No weights hanging from your head, no partner pushing against it, no sudden twists under tension. The structures here are too important and too close to your nervous system for games. The good news is that the neck responds beautifully to the safest training there is: gentle isometrics. Your own hand provides the resistance, you control every gram of it, and the tendon gets its signal without anything moving at all. Slow progress is not a compromise here. For the neck, slow progress is the entire strategy, and it works better than the aggressive stuff ever did. There is a reason physical therapists start almost every stiff, achy neck with exactly this kind of work. It is measurable, it is gentle, and it respects the tissue. If it is good enough for clinics, it is good enough for your living room floor.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A THIN NECK LOOKS FRAGILE"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "UNTRAINED NECK",
+       35,
+       "red"
+      ],
+      [
+       "TRAINED NECK",
+       75,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "HEAD STABILITY UNDER FORCE"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "A trained neck changes how",
+      "your whole frame reads."
+     ],
+     "pos": "br",
+     "title": "THE ARMOR EFFECT"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY + STRONG NECK = ARMOR"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now your advantage, and for a skinny guy this one is personal. A thin, untrained neck is the one place where a light frame genuinely looks fragile, and it is also the fastest place to change that impression. The neck is a small system. It does not need years of mass building to transform. A few months of consistent holds thicken the tendons, wake up the deep muscles, and pull your head back over your shoulders where it belongs. Wrestlers and fighters have known this forever: a trained neck reads as armor, no matter how lean the rest of the frame is. You cannot quickly become a heavy man. You can quickly become a man whose head sits like it is bolted on. That is the trade this episode offers you.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "check": 3,
+   "exercise": "CHIN TUCK HOLD",
+   "music": "drive",
+   "narration": "Now we train it together. Same position as the test, chin tucked, head an inch up. Twenty seconds on, twenty off, three rounds. Keep breathing. Gentle and steady wins here.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "THE PLAN",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HOLDS, 3 DAYS A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "MAX EFFORT NECK WORK"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HAND RESISTANCE, ALL 4 DIRECTIONS"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "DIZZINESS = STOP IMMEDIATELY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is your week, and it is deliberately gentle. Three days a week: the chin tuck hold you just did, plus hand-resistance isometrics. Palm on your forehead, press at half effort for ten seconds. Palm behind your head, same thing. Palm on each side, same thing. Four directions, two rounds, never more than half effort. Add five seconds a week to the hold, nothing more. Now the important part. Stop immediately if you ever feel dizziness, pain shooting into an arm, or numbness in your hands. And if neck pain persists, radiates, or follows any kind of accident, get it checked by a professional before training it. Necks are not the place for guessing, and a real diagnosis is always worth more than a video. Track your hold time weekly, not daily. The neck rewards patience and punishes greed faster than any other area you will train on this channel.",
+   "section": "THE PLAN",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A STARTING LINE, NOT A VERDICT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under thirty seconds: your neck tendons are untrained, not damaged, and gentle holds will change them quickly. Thirty to sixty: you are building, and your posture is probably already starting to feel different by the end of the day. Over two minutes: you are wired, with the head stability of a combat athlete. Whatever you scored, treat it as a starting line. Train the gentle plan for thirty days and run the test again, same floor, same tuck, same rules. The neck responds fast when you respect it. Put your seconds in the comments, just the number, and we compare on retest day.",
+   "section": "THE PLAN",
+   "sub": "same test, same rules - compare the number",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SUBSCRIBE FOR RETEST DAY"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now | we run this test again. | Same floor, same tuck. | Bring a longer hold. | Your posture will show it. | Subscribe so you | do not miss retest day. | This is {channel}. | Train the cable.",
+   "section": "THE PLAN",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "neck hold test",
+  "neck training",
+  "tendon training",
+  "neck strength",
+  "posture correction",
+  "chin tuck",
+  "combat neck",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "spine_anatomy_plate.webp",
+  "big": "60 SEC",
+  "hook": "YOUR NECK IS UNARMORED"
+ },
+ "title": "Your Neck Hold Time Reveals the Truth About Your neck tendons",
+ "v5": true
+}

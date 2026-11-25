@@ -1,0 +1,408 @@
+{
+ "badge": "EP 55 - THE PUSH-UP TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE DRIVE",
+  "YOUR NUMBER"
+ ],
+ "description": "Forty clean push-ups is the line, but the number is not really grading your chest. It grades the tendon chain and the nerve drive that fires it. Here is why your last reps die in the cables, and the exact protocol that moves your number in thirty days.",
+ "hashtags": [
+  "push-up test",
+  "push-up number",
+  "hidden strength",
+  "calisthenics",
+  "tendon training",
+  "bodyweight strength"
+ ],
+ "id": "055",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANDS UNDER SHOULDERS"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CHEST TO A FIST = ONE REP"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NO SNAKING, NO HALF REPS"
+    },
+    {
+     "at": 24,
+     "kind": "fact",
+     "lines": [
+      "The set ends when the chain",
+      "can no longer pass force."
+     ],
+     "pos": "br",
+     "title": "FORCE HAS TO TRAVEL"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Get on the floor. | Hands under shoulders. | Body in one line. | Head to heels. | Lower down slowly. | Chest to a fist. | Press back up. | Arms fully straight. | That counts one. | Keep them coming. | Same depth every rep. | Same speed every rep. | Stop when form breaks. | No snaking hips. | No half reps. | That final number? | That is your number. | Write it down. | Do not pad it. | Your number is not | a chest measurement. | It is a force test. | Every single rep | sends force through | wrists, elbows, shoulders. | The chain decides | when the set ends. | Most guys blame | the wrong muscle. | Keep your number. | At the end | I will decode it. | What it really says | about your drive.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "40 CLEAN = WIRED"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "UNDER 15 = DRIVE UNTRAINED"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "ELITE BODYWEIGHT PRESSING",
+     "pos": "tr",
+     "text": "60+"
+    }
+   ],
+   "big": "40 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN PRESSING AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Forty clean push-ups, full depth, no rest, is where a normal press becomes a wired one. Under fifteen means the drive is untrained, and that is good news, because drive is the fastest quality a beginner owns. Fifteen to forty means the system is building and your reps will climb every single week you feed it. Over sixty with strict form puts you in a small club, because at that point it is no longer about muscle size at all. It is about how much force your chain can pass, rep after rep, without leaking. The mirror cannot measure that. This floor test can.",
+   "section": "THE NUMBER",
+   "sub": "under 15: drive untrained - 15 to 40: building - 60 plus: elite pressing",
+   "type": "card"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRIST, ELBOW, SHOULDER"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "The triceps tendon is the",
+      "last bridge before the press."
+     ],
+     "pos": "br",
+     "title": "THE LAST BRIDGE"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORCE LEAKS AT JOINTS"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE NUMBER GRADES THE BRIDGES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Follow one rep and watch where the force has to travel. Your hands press the floor, and the load enters through your wrists. It crosses the elbow, where the triceps tendon anchors the pressing muscle to the bone of your forearm. Then it crosses the shoulder, where a whole cuff of tendons keeps the joint centered while the chest and triceps do the visible work. Three bridges, and every bridge is a tendon. Muscle produces the force, but tendons decide how much of it actually arrives. A stiff, well-built tendon passes force like a solid bar. A soft, untrained one stretches and swallows it, the way a loose rope wastes a pull. That is why two guys with the same chest size can be twenty reps apart. One of them owns bridges. The other owns leaks. Your push-up number is grading the bridges, and bridges can be rebuilt.",
+   "section": "THE DRIVE",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REP 30 IS A NERVE PROBLEM"
+    },
+    {
+     "asset": "ren_pushup_mid.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "FRESH DRIVE",
+       100,
+       "cyan"
+      ],
+      [
+       "REP 15",
+       72,
+       "gold"
+      ],
+      [
+       "REP 30",
+       45,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FORCE OUTPUT ACROSS THE SET"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DRIVE IS TRAINABLE SPEED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the second hidden system, and it explains the last ten reps. Every rep starts as an electrical order. Your nervous system recruits motor units, small bundles of muscle fiber, and fires them together to produce force. Early in the set, recruitment is nearly total and the reps feel crisp. As the set goes on, the signal fatigues. Fewer units answer the call, the ones still firing have to work harder, and each rep gets a little slower and a little shakier. By rep thirty, your chest has not run out of muscle. Your drive has run out of volunteers. This is fantastic news for a skinny guy, because drive responds to training faster than size does. Frequent, crisp, submaximal sets teach the system to recruit more and fatigue less. That is a software upgrade, and software upgrades do not need protein shakes or a bulk. They need reps with intent.",
+   "section": "THE DRIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "THIS IS A DRIVE FAILURE, NOT LAZINESS"
+    },
+    {
+     "asset": "ren_pushup_top.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE BOTTOM INCH IS THE TEST"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "OWN THE BOTTOM, OWN THE NUMBER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at where reps actually die. Almost nobody fails a push-up at the top, with straight arms. They fail in the bottom inch, chest hovering over the floor, where the tendons are stretched the longest and the drive has to restart the whole load from zero. That sticking point is the real test inside the test. It is measuring how much force your chain can produce from its weakest position, with stretched cables and a tired signal. And here is the honest part: the guy shaking in the bottom inch is not lazy and he is not weak. His system is simply untrained at producing force from the bottom. The fix is specific, and it is almost unfair how well it works. Pause reps. One second dead stop at the bottom of every rep in training, so the chain learns to fire from zero, with no bounce and no help. Own the bottom inch for a month and the number takes care of itself.",
+   "section": "THE DRIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY KILO LESS = MORE REPS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "MORE CLEAN REPS PER SESSION",
+     "pos": "br",
+     "text": "x2"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BUILT FOR VOLUME"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now your advantage, because this test is rigged in your favor and nobody told you. A push-up moves about two thirds of your body weight. A lighter guy presses less absolute load on every rep, so he can do more reps, more sets, and more total practice before his chain wears out. Practice is what builds drive. Volume is what builds tendons. The heavy guy gets a harder workout from the same floor, but he also gets less training done before he is finished. You get the opposite deal. Your sessions can be longer, your frequency can be higher, and your recovery between sets is faster. The skinny frame is not a disadvantage in bodyweight pressing. It is a volume machine wearing a disguise.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PAUSE PUSH-UPS",
+   "music": "drive",
+   "narration": "Now press with me. One second dead stop at the bottom of every rep. Thirty seconds on, thirty off, four rounds. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "YOUR NUMBER",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DAILY SETS AT HALF YOUR MAX"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SNAKING COUNTS AS ZERO"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MAXING OUT EVERY DAY"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CRISP REPS BUILD DRIVE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is your week. Every day, spread five sets of half your max through the day, every rep crisp, every bottom paused for a breath. If you tested twenty, your sets are ten clean reps, done fresh, hours apart. Twice a week, finish with the pause sets you just did with me. The drive adapts to frequency, so the daily half-sets matter more than any single heroic workout. Three mistakes keep this number frozen for most guys. Snaked reps, where the hips lead and the chest follows, which should count as zero. Bouncing out of the bottom, which deletes the exact position the test is grading. And maxing out every day, which turns training into a test you keep failing at the same number. Train crisp and often. Test once a month. The number moves when the system underneath it changes, and now you know exactly which system that is.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED DRIVE = FASTEST FIX"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY - SAME FLOOR, SAME RULES",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under fifteen: your drive is untrained, and that is the fastest fix in this entire series, because software upgrades come in weeks, not months. Fifteen to forty: you are building, and your only job is more crisp reps on more days. Over forty with a dead-stop bottom: your chain is wired, and you press with a system most bigger guys genuinely do not have. Whatever your number is, put it in the comments. Just the number. We retest in thirty days, same floor, same rules, full depth on every rep.",
+   "section": "YOUR NUMBER",
+   "sub": "under 15: untrained - 15 to 40: building - over 40: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "UNTIL THE RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "DEAD STOP AT THE BOTTOM"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, same fist under the chest, and we see what your drive is worth. Subscribe, because the next test needs no floor at all, just one leg and a clock. This is {channel}. Train the cable.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "push-up test",
+  "push-up challenge",
+  "how many push-ups",
+  "calisthenics",
+  "chest workout",
+  "tendon training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_top.webp",
+  "big": "40 REPS",
+  "hook": "YOUR REAL NUMBER"
+ },
+ "title": "Your Push-Up Number Reveals Your Hidden Strength",
+ "v5": true
+}

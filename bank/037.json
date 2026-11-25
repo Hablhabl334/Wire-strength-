@@ -1,0 +1,386 @@
+{
+ "badge": "EP 37 - THE WALL SIT TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE KNEES",
+  "YOUR TIME"
+ ],
+ "description": "A wall, a right angle, and a clock. Your wall sit time grades the knee tendons that decide how long your legs can hold force without moving. Here is the depth that makes the test honest, why the shaking starts, and the isometric method that builds knees of cable.",
+ "hashtags": [
+  "wall sit",
+  "knee tendons",
+  "wall sit test",
+  "isometric legs",
+  "quad endurance",
+  "skinny guy fitness"
+ ],
+ "id": "037",
+ "scenes": [
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BACK FLAT. KNEES AT 90."
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Thighs parallel to the floor.",
+      "Higher is a different, easier test."
+     ],
+     "pos": "br",
+     "title": "THE ANGLE RULE"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HANDS ON THIGHS = OVER"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Back flat against a wall. Walk your feet out and slide down until your knees bend at ninety degrees, thighs parallel to the floor, ankles under your knees. Arms crossed or hanging, never resting on your thighs. Start your clock. The moment you push yourself up or slide out of the angle, your time is over. That is your WALL SIT TIME. The first thirty seconds feel like nothing. Then the front of your thighs starts to burn, the shaking arrives, and the wall becomes the hardest place in your house. What most people never learn is that the wall sit is not really testing your thigh muscles. It is testing the tendon that anchors them, and how long that cable can hold a fixed load. Keep your number. At the end, I will tell you what it grades.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "2 MIN = TRAINED"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "CABLE KNEE TERRITORY",
+     "pos": "br",
+     "text": "4+ MIN"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHAKY IS A STARTING POINT"
+    }
+   ],
+   "big": "2 MIN",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN BURN AND CABLE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Two minutes at a true ninety degrees is where a casual wall sit becomes a trained one. Under one minute, the knee system is untrained and the tendon is soft. One to two minutes, the muscle endures but the cable still fades. Past four minutes without sliding, you hold knees that most lifters never build.",
+   "section": "THE NUMBER",
+   "sub": "under 1 min: untrained knees - over 4 min: cable knees",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE TENDON ANCHORS IT ALL"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Quads pull through the kneecap.",
+      "The patellar tendon takes the strain."
+     ],
+     "pos": "br",
+     "title": "THE ANCHOR"
+    },
+    {
+     "asset": "ren_wall_sit.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HELD LOAD, ZERO ESCAPE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the front of your knee. Your thigh muscle does not attach to your shin directly. It pulls on a tendon that runs through your kneecap and anchors below it, the patellar tendon, and every gram of force your quads produce passes through that one cable. In a wall sit, that cable holds a fixed, heavy load with no rest and no escape, because nothing ever moves. This is isometric loading, and it is one of the kindest and most effective signals a tendon can receive: deep tension, steady angle, no impact. Clinicians use exactly this kind of hold in knee tendon rehab because the tissue responds so well to it. When your legs started shaking, your muscles were cycling tired fibers in and out, but the cable never got a break. Your time is the story of how long that cable can hold its line. There is a mental detail in this test worth naming. The wall sit removes every distraction: no reps to count, no weight to watch, nothing to do but hold. That emptiness is why people quit early. The body is rarely finished when the mind gets bored of the burn. Learning to sit inside that discomfort calmly is a trainable skill, and it transfers to every hard effort you will ever do, because the quit signal almost always arrives before the true limit does.",
+   "section": "THE KNEES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANGLE IS THE DOSAGE"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "HIGH SIT",
+       200,
+       "red"
+      ],
+      [
+       "TRUE 90 DEGREES",
+       95,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SECONDS BY HONESTY"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DEEPER ANGLE, DEEPER SIGNAL"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Strength grows at the held angle.",
+      "Ninety degrees is the standard dose."
+     ],
+     "pos": "br",
+     "title": "THE DOSING RULE"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Here is why the angle rule matters so much. Slide up just a few centimeters and the load on the patellar tendon drops dramatically, which is why a high sit can last three times as long and prove almost nothing. The tendon dose is set by the angle, and ninety degrees is the standard prescription. Isometric strength also grows most at the angle you train, so the deep sit builds exactly the position where squats and stairs load your knees hardest in daily life. This is the quiet bargain of the wall sit: no equipment, no movement, no audience, and in exchange one of the most honest tendon-building signals available anywhere. Your time at the true angle is the only version of this number worth writing down.",
+   "section": "THE KNEES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS MASS ON THE CABLE"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "The load is your bodyweight.",
+      "Lighter frame, longer holds."
+     ],
+     "pos": "br",
+     "title": "THE LIGHT ADVANTAGE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = MORE MINUTES"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage is built into the furniture. A wall sit loads your knee tendons with your own bodyweight, held at the worst angle, so total mass decides how fast the cable fades. The heavy lifter parks far more weight on a similar-sized tendon and slides down the wall minutes earlier, quads screaming, regardless of how impressive his legs look standing up. You hold less. That buys you longer quality holds, more sessions per week, and more total isometric signal for your knees to rebuild from. Endurance at a fixed angle is a tendon event, not a size event, and tendon events keep favoring the lean frame in this entire series. The wall is one of the few judges in fitness that scores your build as an asset.",
+   "section": "THE KNEES",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE KNEES",
+   "check": 2,
+   "music": "dark",
+   "narration": "Here is how the wall sit quietly upgrades the rest of your training. The bottom of a squat is where most lifters are weakest and least confident, and it is weak partly because their knees have never spent real time loaded at that angle. Weeks of wall sits change the neighborhood. The patellar tendon stiffens, the quads learn to produce force without movement, and the position itself stops feeling like a warning zone. Then squats start rising out of a bottom that feels owned instead of borrowed. Stairs get easier. Getting up from low chairs stops being a negotiation. This is the unglamorous truth about isometric work: it does not photograph well, it does not trend, and it builds the exact positions that daily life and heavy training both run on. The wall is not a punishment corner. It is a workshop where knees are rebuilt at the angle that matters most.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "OWN THE BOTTOM",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THE TRANSFER",
+     "lines": [
+      "Squats rise from owned depth.",
+      "Stairs stop negotiating."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THE WORKSHOP WALL",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "text": "ANGLE BY ANGLE",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "check": 3,
+   "exercise": "WALL SIT",
+   "music": "drive",
+   "narration": "Sit with me. Back flat, knees at ninety, arms off your thighs. Forty-five seconds on the clock. Breathe and hold the angle. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "YOUR TIME",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRUE 90, EVERY SET"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "CREEPING UP THE WALL"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HANDS PRESSING THIGHS"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ADD 10 SECONDS A WEEK"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Five short wall sit sessions, three holds each, every hold at a true ninety degrees. Work at about two-thirds of your max time and rest fully between holds. When two minutes feels stable, add a second angle below it rather than chasing endless minutes. Three mistakes keep knees soft. Creeping up the wall as fatigue builds quietly cuts the dose in half. Pressing your hands into your thighs offloads the tendon you are trying to train. And treating the wall sit as a punishment to survive once a month gives slow tissue no rhythm to adapt to. Tendons love schedules. Add about ten seconds to your best hold each week, and the shaking turns into stillness, then into boredom, which is what mastery feels like at a wall. When two minutes at ninety degrees becomes genuinely comfortable, do not just chase five. Add a second, deeper angle for shorter holds, and let the tendon map a new position. A knee that owns two angles is worth more than a party trick at one, and your squats will report the difference within the month.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "YOUR TIME",
+   "card": "bignum",
+   "check": 3,
+   "label": "WHAT YOUR NUMBER MEANS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under one minute: untrained knees, and daily holds at the true angle will move this quickly. One to two minutes: real endurance, with the cable still under construction. Over two minutes at an honest ninety degrees: your knees hold force like equipment, and everything from squats to stairs gets easier behind them. Write it down. Retest in thirty days against the same wall, and put your time in the comments. Just the number. Walls do not lie.",
+   "section": "YOUR TIME",
+   "sub": "under 1 min: untrained - 1 to 2 min: building - over 2 min: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "SAME TEST, NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of honest angles, then the same wall and a longer clock. If this test graded knees you have been guessing about, subscribe, because every video here starts with a number and ends with a stronger one. This is {channel}. Train the cable.",
+   "section": "YOUR TIME",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "wall sit",
+  "knee tendons",
+  "wall sit test",
+  "isometric training",
+  "patellar tendon",
+  "quad endurance",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_wall_sit.webp",
+  "big": "2 MIN",
+  "hook": "THE WALL NEVER LIES"
+ },
+ "title": "Stop Doing wall sit Wrong: Train Your knee tendons Instead",
+ "v5": true
+}

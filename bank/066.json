@@ -1,0 +1,447 @@
+{
+ "badge": "EP 66 - KNEE BEND TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "THE PLAN"
+ ],
+ "description": "Bend your knees forward over your toes, heels flat, and count how many clean reps you own in sixty seconds. That number grades the thickest cable in your leg. Here is what your score says about your patellar tendon, why it matters more than your quads, and the exact training week that raises it.",
+ "hashtags": [
+  "knee bend test",
+  "patellar tendon",
+  "tendon training",
+  "knees over toes",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "id": "066",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HEELS FLAT, KNEES FORWARD"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "60 SECONDS ON THE CLOCK"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "FORM BREAKS = TEST OVER"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "It grades your patellar tendon."
+     ],
+     "pos": "br",
+     "title": "ONE NUMBER"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 2.4,
+   "music": "dark",
+   "narration": "Stand tall. | Feet hip width. | Heels flat down. | Now bend your knees. | Slide them forward. | Over your toes. | Slow and controlled. | Three seconds down. | As deep as possible. | Heels stay glued. | Count every rep. | You have sixty seconds. | Form breaks, test ends. | Burning quads are fine. | Sharp pain is not. | Got your NUMBER? | Write it down. | That number grades | your PATELLAR TENDON. | The thickest cable | in your whole leg. | At the end | I will tell you | what your score means. | And how to raise it. | Most skinny guys | fail this test. | For one fixable reason.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED = FIXABLE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO BOUNCING AT THE BOTTOM"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "WIRED KNEES TERRITORY",
+     "pos": "br",
+     "text": "15+"
+    }
+   ],
+   "big": "15 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "CLEAN KNEE BENDS IN 60 SECONDS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifteen slow knee bends in sixty seconds, heels flat, knees traveling forward over your toes, no bouncing at the bottom and no hands helping. Under eight, your patellar tendon is simply untrained, and untrained is the easiest problem in the world to fix. Between eight and fifteen, the cable is waking up and starting to stiffen under load. Over fifteen with perfect control, you own knees that most bigger guys quietly envy, because muscle is easy to build and tendon is not. This test does not care how your legs look in shorts. It measures the cable underneath the muscle, and the cable is what actually moves you.",
+   "section": "THE NUMBER",
+   "sub": "under 8: untrained tendon - over 15: wired knees",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "QUAD - KNEECAP - TENDON - SHIN"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Tendons rebuild in response to load.",
+      "Slow tension is the signal."
+     ],
+     "pos": "br",
+     "title": "LIVING TISSUE"
+    },
+    {
+     "at": 19,
+     "kind": "stat",
+     "label": "CARRIES MULTIPLE TIMES YOUR WEIGHT",
+     "pos": "tr",
+     "text": "2 FINGERS WIDE"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LOAD BUILDS THE CABLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the knee. Your quad muscle pulls on your kneecap, your kneecap pulls on a thick band of tendon, and that tendon anchors into your shin. Every step, squat and jump you have ever taken went through this one cable. It is about as wide as two of your fingers and it handles forces several times your bodyweight without complaining, as long as it is trained. Here is what most people never learn. A tendon is not a rope that wears out. It is living tissue that rebuilds itself in response to load. Give it slow, heavy, controlled tension and it lays down new collagen, gets stiffer, and transmits force faster. Ignore it, and it stays soft while your muscles grow around it, which is exactly how strong-looking legs end up slow and sore. Think of the kneecap as a pulley sitting inside the cable. It changes the direction of the pull and gives your quad leverage it could never get on its own. That clever design is exactly why the tendon below it works so hard, and why training it pays off in every movement your legs make.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORCE TRAVELS THROUGH THE TENDON"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "SOFT TENDON",
+       40,
+       "red"
+      ],
+      [
+       "STIFF TENDON",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FORCE THAT REACHES THE GROUND"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "A soft tendon absorbs your power.",
+      "A stiff one delivers it."
+     ],
+     "pos": "br",
+     "title": "THE FORCE LEAK"
+    },
+    {
+     "asset": "ren_squat_bottom.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STIFF = FAST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the part nobody tells skinny guys. Muscle is only half the machine. When you push into the ground, your quad produces force, but that force has to travel through the tendon before it moves your body. A soft, untrained tendon stretches and soaks up the force like a worn elastic band, and by the time it tightens, your moment is gone. A stiff, trained tendon passes the force through almost instantly, like a steel cable. That is why some light guys explode off the ground while heavier guys with bigger legs move like they are running in sand. Researchers who load tendons with slow heavy training see the same pattern again and again: the tendon stiffens measurably in a matter of weeks, and power rises with it, even when muscle size barely changes. This is also why two people can have the same leg size and completely different jump heights. The muscle is the engine size. The tendon is the transmission. A big engine with a slipping transmission loses to a smaller engine that puts every bit of its power down.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MYTH: KNEES NEVER PASS TOES"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Sudden spikes and sloppy landings.",
+      "Not forward travel itself."
+     ],
+     "pos": "br",
+     "title": "WHAT TENDONS HATE"
+    },
+    {
+     "asset": "ren_wall_sit.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRADUAL LOAD = THE STIMULUS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PROGRESS SLOWLY, ALWAYS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "You have probably heard that knees traveling over toes is dangerous. That idea kept a generation of lifters from ever loading the patellar tendon where it actually works. Here is the honest version. Your knee bends forward every time you walk downstairs, get out of a chair, or land from a jump. The tendon is built for exactly that direction of load. What tendons hate is not position, it is surprise: sudden spikes, sloppy landings, and going from zero training to maximal effort in one weekend. Gradual forward knee travel, progressed slowly, is the stimulus the tendon needs to rebuild. Avoiding it forever does not protect your knees. It just guarantees the cable stays weak while everything around it gets stronger. Your daily life already agrees. Nobody climbs stairs with their knees pinned back. The movement was never the enemy. The enemy is doing too much of it, too soon, with no build-up behind it.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT = MORE CLEAN REPS"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "HEAVY GUY",
+       45,
+       "red"
+      ],
+      [
+       "YOU",
+       80,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CLEAN REPS BEFORE FORM BREAKS"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Tendons adapt to quality work.",
+      "You can deliver more of it."
+     ],
+     "pos": "br",
+     "title": "THE VOLUME GAP"
+    },
+    {
+     "asset": "ren_split_squat_top.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = MORE PRACTICE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now your advantage, because you have a real one here. Every knee bend you do costs you less than it costs a heavy guy. Your tendon sees a lighter load per rep, which sounds like a weakness until you realize what it buys you: more clean reps before your form breaks, more sessions per week before the tendon needs a rest, and far less joint stress while you build. Tendons adapt to the total quality work they receive, and the light guy can simply deliver more of it. The heavy guy grinds out five ugly reps and needs two days off. You do fifteen clean ones today, and you can come back tomorrow and do them again. Over thirty days, that volume gap is the whole game.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "check": 3,
+   "exercise": "SPANISH SQUAT HOLD",
+   "music": "drive",
+   "narration": "Now we train it together. Back against the wall, knees forward over your toes, sit into the hold and stay there. Forty seconds on, twenty off, three rounds. Breathe slow. The tendon is working.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "THE PLAN",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "3 SESSIONS A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BOUNCING FOR REPS"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ADD DEPTH OR REPS, NOT BOTH"
+    },
+    {
+     "asset": "ren_wall_sit.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SHARP PAIN = STOP"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is your week. Three sessions, never on back-to-back days, because tendons rebuild slower than muscles and they need the gap. Session one: slow knee bends, three seconds down, three seconds up, three sets of eight. Session two: the Spanish squat hold you just did, building toward forty-five seconds. Session three: split squats, slow and deep, letting the front knee travel. Add a little depth or one rep each week, never both. Mild burning and effort are fine. Sharp pain is a stop signal, not a challenge. And if knee pain sticks around for weeks, swells, or starts changing how you walk, get it checked by a professional instead of training through it. That is not weakness, that is how you stay in the game for years. Write your session numbers down. Tendon progress is slow enough that your memory will lie to you, but a notebook never does. Four weeks of small, recorded progress is what a rebuilt tendon actually looks like.",
+   "section": "THE PLAN",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A STARTING LINE, NOT A VERDICT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under eight: you are not weak, you are untrained, and untrained tendons respond faster than almost anything else in your body. Eight to fifteen: you are building, the cable is laying down new collagen every single week. Over fifteen: you are wired, and your knees will keep proving it every time you jump, land, or climb. Whatever you scored, it is a starting line, not a verdict on you. Train the plan for thirty days and run this exact test again, same heels, same clock, same rules. Then put both numbers side by side. That gap is the truth about your tendon, and it will be bigger than you expect. Put your number in the comments, just the number, so we can compare on retest day.",
+   "section": "THE PLAN",
+   "sub": "same test, same rules - compare the number",
+   "type": "card"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SUBSCRIBE FOR RETEST DAY"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now | we run this test again. | Same heels, same clock. | Bring a bigger number. | Your knees will feel different. | Subscribe so you | do not miss retest day. | This is {channel}. | Train the cable.",
+   "section": "THE PLAN",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "knee bend test",
+  "patellar tendon",
+  "tendon training",
+  "knees over toes",
+  "spanish squat",
+  "bodyweight legs",
+  "knee strength",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "15 REPS",
+  "hook": "KNEES DON'T LIE"
+ },
+ "title": "Your Knee Bend Test Reveals the Truth About Your patellar tendon",
+ "v5": true
+}

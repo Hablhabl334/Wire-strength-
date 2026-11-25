@@ -1,0 +1,444 @@
+{
+ "badge": "EP 72 - WRIST LEVER TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "THE PLAN"
+ ],
+ "description": "Hold a broomstick at its very end and keep it level against the clock. That wobble grades the tendons that run your wrist and hand. Here is what your lever time says about those cables, why a light object at a long lever exposes them completely, and the training week that makes your wrists unshakeable.",
+ "hashtags": [
+  "wrist lever test",
+  "wrist tendons",
+  "tendon training",
+  "wrist strength",
+  "grip strength",
+  "skinny guy fitness"
+ ],
+ "id": "072",
+ "scenes": [
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRIP THE VERY END"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FOREARM LEVEL, STICK LEVEL"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "STICK TIPS = TEST OVER"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "It grades your wrist tendons."
+     ],
+     "pos": "br",
+     "title": "ONE NUMBER"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WORSE SIDE IS YOUR SCORE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Grab a broomstick. | Or a light stick. | Grip the very end. | The last few centimeters. | Arm straight ahead. | Forearm level. | Stick pointing forward. | Now keep it level. | Start your clock. | Do not choke up. | Do not let it tip. | It weighs almost nothing. | And yet it pulls. | The far end wants down. | Your wrist starts to shake. | The stick begins to wander. | Got your TIME? | Test the other side. | Your worse side counts. | That time grades | your WRIST TENDONS. | The cables that aim | every grip you make. | At the end | I will tell you | what your time means. | Nobody trains these. | Everybody uses them.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHAKING = UNTRAINED, NOT WEAK"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO CHOKING UP THE STICK"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "WRISTS OF A CLIMBER",
+     "pos": "br",
+     "text": "40+ SEC"
+    }
+   ],
+   "big": "20 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "HOLDING A LONG LEVER LEVEL",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twenty seconds holding a long lever perfectly level, forearm steady, no tipping, no sliding your hand up the stick to shorten the fight. Under ten seconds, your wrist tendons are simply untrained, and the wandering stick is what an unpracticed cable looks like under torque. Between ten and twenty, the system is waking up and learning to stabilize against a lever. Over forty seconds, you own the wrists of a climber, the kind that stay silent and steady under loads that make other people shake. This test does not care about your grip strength records. It measures the small tendons that aim and stabilize your hand, and it exposes them with nothing but a stick and physics.",
+   "section": "THE NUMBER",
+   "sub": "under 10: untrained wrists - over 40: climber wrists",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR HAND HAS NO ENGINE"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Wrist tendons are cables from",
+      "forearm muscles to your fingers."
+     ],
+     "pos": "br",
+     "title": "REMOTE CONTROL HANDS"
+    },
+    {
+     "at": 19,
+     "kind": "stat",
+     "label": "TENDONS CROSSING YOUR WRIST",
+     "pos": "tr",
+     "text": "20+"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE WRIST IS A JUNCTION"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at your wrist like an engineer would. Your hand has almost no muscle of its own. The engines live in your forearm, and more than twenty tendons cross your wrist like cables through a junction box, pulling your fingers open and closed and steering your hand in every direction. That design keeps your hand light and fast, but it makes the wrist the busiest tendon crossing in your whole body. Every grip, every push-up, every hang, every key you turn sends force through those cables. When they are trained, your hand feels connected and precise, like a tool. When they are not, the whole system wobbles at the junction, and strength built elsewhere leaks away before it ever reaches your fingers. This junction design explains a strange fact: your fingers can be incredibly precise and incredibly strong at the same time, because the engines sit safely up in the forearm while the cables do the delicate work. It is the same reason puppet strings run far from the puppet. Distance is control.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TORQUE = FORCE TIMES LEVER"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "SHORT GRIP",
+       30,
+       "red"
+      ],
+      [
+       "END GRIP",
+       90,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "LOAD ON THE WRIST TENDONS"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "A light stick at full length",
+      "loads the tendon like real weight."
+     ],
+     "pos": "br",
+     "title": "PHYSICS DOES THE LOADING"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LEVERS ARE FREE WEIGHTS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is why a feather-light stick destroys your wrist in twenty seconds. Torque is force multiplied by distance. A small weight held close is a small problem. The same weight at the end of a long lever multiplies into a serious load, and your wrist tendons pay all of it. This is the cheapest strength lab you will ever own: slide your hand one centimeter and the load changes, no plates, no gym, no cost. It is also why levers are honest. You cannot momentum your way through a static hold, and you cannot hide behind a stronger muscle group. The tendon either holds the line or the stick tips. Physics grades you, and physics does not accept excuses. Athletes who live on levers understand this in their bones. Climbers, gymnasts, and martial artists all build wrist tendons that laugh at loads which fold beginners instantly. None of them started with special equipment. They started with sticks, bars, and patience, exactly like this test.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STABILITY IN EVERY DIRECTION"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Wrist tendons stabilize up, down,",
+      "and side to side, all at once."
+     ],
+     "pos": "br",
+     "title": "FOUR-WAY CABLES"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "TRAINING GRIP ONLY"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "AIM THE HAND, NOT JUST CLOSE IT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Most grip training only teaches your hand to close. But look at what your wrist tendons actually do all day: they stabilize the hand up, down, and side to side while the fingers work. Carrying a suitcase, holding a plank, controlling a tool, catching yourself on a railing: all of it is stabilization, not squeezing. That is why people with huge grip numbers sometimes still have wrists that ache and wobble under real life loads. They trained the close and skipped the aim. The lever test grades the aim. Train it, and something satisfying happens: every other exercise you do gets quieter and more solid, because the junction between your arm and your hand finally stops leaking force. There is a simple daily check. Hold a full mug of water at arm's length without the surface rippling. That tiny steadiness is wrist tendon control doing its job in real life. Train the lever, and a hundred small daily moments get quieter and surer.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALL TENDONS, FAST RECOVERY"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "HEAVY WRISTS",
+       40,
+       "red"
+      ],
+      [
+       "YOUR WRISTS",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SESSIONS PER WEEK YOU CAN HANDLE"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Lighter daily loads mean",
+      "your wrist tendons recover faster."
+     ],
+     "pos": "br",
+     "title": "THE FREQUENCY EDGE"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = MORE PRACTICE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now your advantage. Wrist tendons are small, and small tendons recover quickly, especially when the body they serve is light. Your daily life loads your wrists with less bodyweight than a heavy guy's: every push-up, every hang, every time you press yourself out of a chair costs you less. That lower daily bill means you arrive at training fresher and can practice lever work almost daily without digging a recovery hole. Tendons grow on exactly that schedule: frequent, moderate, well-recovered sessions. The heavy guy trains his wrists twice a week because he must. You can train yours five times because you can. Over a season, that gap in practice turns into a gap in the cables themselves.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "check": 3,
+   "exercise": "LEVER HOLDS",
+   "music": "drive",
+   "narration": "Now we train it together. Same stick, grip two centimeters in from the end. Twenty seconds level, each side, three rounds. If it tips, reset and go again. Steady wins.",
+   "rest": 15,
+   "rounds": 3,
+   "section": "THE PLAN",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHORT HOLDS, MOST DAYS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "MAX LEVER EVERY DAY"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLIDE OUT 1 CM PER WEEK"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TRAIN ROTATIONS TOO"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is your week. Short lever sessions on most days: three holds per side at a grip you can control, plus slow rotations, turning the stick like a doorknob against its own weight. Slide your grip out one centimeter a week, no faster, because tendon collagen rebuilds on a schedule of weeks, not days. Mix in your normal grip work, and let the wrist work ride along in the gaps of your day; it takes three minutes. Expect the shake to quiet down before the time jumps, that is the nervous system learning first and the tendon following. A mild deep ache after sessions is normal. Sharp pain on one side of the wrist, clicking with pain, or numbness in the fingers is not: rest it, and if it persists, get it looked at by a professional. Rotate the work through the week: level holds one day, slow rotations the next, support holds on your hands the third. The wrist answers to variety because its job description is variety.",
+   "section": "THE PLAN",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A STARTING LINE, NOT A VERDICT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under ten seconds: your wrist tendons are untrained, not weak, and levers will change them faster than almost any tool you own. Ten to twenty: you are building, and the shake is already turning into steadiness. Over forty: you are wired, with wrists that stay silent under loads that expose everyone else. Whatever you scored, it is a starting line. Train the plan for thirty days and run the test again, same stick, same end grip, same rules. Put your seconds in the comments, just the number, and we compare on retest day.",
+   "section": "THE PLAN",
+   "sub": "same test, same rules - compare the number",
+   "type": "card"
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SUBSCRIBE FOR RETEST DAY"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now | we run this test again. | Same stick, same grip. | Bring a steadier hold. | Your hands will feel connected. | Subscribe so you | do not miss retest day. | This is {channel}. | Train the cable.",
+   "section": "THE PLAN",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "wrist lever test",
+  "wrist tendons",
+  "tendon training",
+  "wrist strength",
+  "grip strength",
+  "forearm training",
+  "lever holds",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_wrist_lever.webp",
+  "big": "20 SEC",
+  "hook": "YOUR WRISTS WOBBLE"
+ },
+ "title": "Your Wrist Lever Test Reveals the Truth About Your wrist tendons",
+ "v5": true
+}

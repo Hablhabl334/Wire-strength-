@@ -1,0 +1,472 @@
+{
+ "badge": "EP 1 - THE BALANCE TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "ANKLE NERVES",
+  "THE FIX LIST"
+ ],
+ "description": "Stand on one leg and start the clock. Your balance time is not a muscle test, it is a nerve test, and five common mistakes quietly switch your ankle sensors off. Here is what your number really measures, why it drops so fast, and the fix list that moves it in weeks.",
+ "hashtags": [
+  "balance test",
+  "ankle stability",
+  "proprioception",
+  "balance training",
+  "calisthenics",
+  "bodyweight training"
+ ],
+ "id": "001",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO EQUIPMENT NEEDED"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE FOOT. ONE CLOCK."
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "WRITE IT DOWN",
+     "pos": "tr",
+     "text": "YOUR TIME"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Your ankle runs on nerves,",
+      "not just muscle."
+     ],
+     "pos": "br",
+     "title": "THE HIDDEN SYSTEM"
+    },
+    {
+     "at": 30,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "5 MISTAKES AHEAD"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand up. | Right now. | Bare feet, | flat floor. | Lift one foot | just off the ground. | Knee soft, | not locked. | Eyes forward, | arms relaxed. | Start your clock. | Stay as long | as you can | without touching down. | No holding the wall. | No hopping in circles. | One honest attempt. | That is your number. | Got it? | Remember it. | Because this simple test | measures something | your muscles cannot fake. | Deep inside your ankle | sits a nerve network | that decides | if you stand strong | or fold in seconds. | And almost everyone | trains it wrong. | Five mistakes, | to be exact. | Today we name them. | We fix them. | And at the end, | your number gets | its real meaning.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EYES OPEN. NO TOUCHES."
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "ELITE CONTROL",
+     "pos": "br",
+     "text": "60+ SEC"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED = FIXABLE"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NERVES LEARN FAST"
+    }
+   ],
+   "big": "30 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN WOBBLY AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Thirty seconds on one leg, eyes open, no touches. That is the mark of an ankle that reports to its brain fast and clearly. Under fifteen seconds, your ankle nerves are simply untrained, and untrained is the best problem to have, because nerves learn fast. Between fifteen and thirty, the system is waking up. Over sixty, you own a level of control most people never build, because most people never test it. Whatever your number was, hold onto it. In a few minutes you will see the machinery underneath it, and the five mistakes that keep it low.",
+   "section": "THE NUMBER",
+   "sub": "under 15: untrained ankles - over 60: elite control",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NOT A HINGE. A SENSOR STATION."
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Your body's position sense.",
+      "It runs without you thinking."
+     ],
+     "pos": "br",
+     "title": "PROPRIOCEPTION"
+    },
+    {
+     "asset": "ren_balance_test.webp",
+     "at": 18,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "stat",
+     "label": "CORRECTED BEFORE YOU NOTICE",
+     "pos": "br",
+     "text": "2 MM"
+    },
+    {
+     "at": 34,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LATE SIGNAL = FALL"
+    },
+    {
+     "at": 40,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SIZE CANNOT FIX SPEED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look closer at the ankle. It is not a hinge that just bends. It is a sensor station. Wrapped around the joint are tiny receptors that measure stretch, pressure and position, hundreds of times per second. This sense has a name: proprioception. Every receptor fires signals up the nerves of your leg to your brain, and your brain answers instantly, firing tiny corrections in the muscles around the ankle. Lean two millimeters too far, and the system pulls you back before you ever notice. When those sensors are sharp, you look steady without trying. When they are dull, the corrections arrive late, the lean grows, and down goes the foot. Muscle size cannot fix a late signal. A bigger muscle with slow information still falls. That is why your balance time is really a nerve test wearing a muscle costume. And it is why the mistakes coming later matter so much: most of them are not strength mistakes at all. They are ways people accidentally switch these sensors off. These receptors do not wear out from use. They dull from disuse, from years of flat floors, thick shoes and chairs doing the balancing for you. Every barefoot minute on real ground is a small deposit back into the system, and deposits are all this test ever asks for.",
+   "section": "ANKLE NERVES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NERVES ADAPT IN WEEKS"
+    },
+    {
+     "at": 11,
+     "items": [
+      [
+       "MUSCLE SIZE",
+       25,
+       "red"
+      ],
+      [
+       "NERVE SPEED",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT TRAINING MOVES FIRST"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 19,
+     "kind": "swap"
+    },
+    {
+     "at": 27,
+     "kind": "stat",
+     "label": "EYES CLOSED, MOST DROP HERE",
+     "pos": "tr",
+     "text": "1/3"
+    },
+    {
+     "at": 35,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "VISION IS A CRUTCH"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the good news hidden in the science. Nerves adapt faster than muscle. Grow a muscle and you wait months. Sharpen a nerve pathway and you can feel it in weeks, sometimes days. Every wobble you survive teaches the pathway. Every correction that works gets reinforced, like a trail walked twice a day. This is why balance is one of the fastest numbers on this channel to move. There is a catch, though. Your brain cheats. Given the chance, it balances with your eyes, locking onto a fixed point and letting vision do the work. That is useful in daily life, but it means the ankle sensors can stay lazy while your time looks decent. The eyes-closed version of this test removes the cheat, and most people collapse to a third of their time. Keep that in mind. A strong score with eyes open is a good start. A strong score with eyes closed means the ankle itself is wired. There is a training shortcut hidden in that fact. Short exposures beat long ones. Ten honest wobbles spread across a day teach the pathway more than one exhausted session, because fresh nerves learn and tired nerves merely survive.",
+   "section": "ANKLE NERVES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY STEP IS A TEST"
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Sport is falling, caught well.",
+      "Ankles do the catching."
+     ],
+     "pos": "br",
+     "title": "CONTROLLED FALLING"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 13,
+     "kind": "swap"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BEST INFORMED WINS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A WINDOW INTO EVERYTHING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Step back from the test for a moment and look at where this skill actually lives. Every staircase, every icy pavement, every trail with loose stones is a balance exam you never signed up for. Athletes know it too: change of direction in any sport is just controlled falling, caught by ankles that report fast. The people who look gifted on their feet are rarely the strongest in the room. They are the best informed, step after step, by sensors the rest of the room never trained. Your thirty seconds on one leg is a window into all of it, which is why this humble test opens the entire channel.",
+   "section": "ANKLE NERVES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT = SMALLER CORRECTIONS"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 11,
+     "kind": "pip",
+     "label": "ANKLES WIN RACES",
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "items": [
+      [
+       "LIGHT FRAME",
+       80,
+       "cyan"
+      ],
+      [
+       "HEAVY FRAME",
+       45,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "tr",
+     "title": "SAME NERVES, DIFFERENT LOAD"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOUR FRAME IS AN EDGE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the part nobody tells skinny guys. In balance, light is not a weakness. It is physics working for you. Every correction your ankle makes fights the weight stacked above it. Less weight above the joint means smaller forces, smaller leans, and corrections that arrive in time. A heavy lifter with huge legs is steering a truck. You are steering a bicycle. Given the same nerve training, the lighter frame usually wins this test, and it is not close. This is a pattern you will see across this whole channel: the tests that ignore the mirror reward the body you already have. Your job is not to become someone else. Your job is to wire the frame you own until its numbers embarrass the bigger guys. It is also why your balance age and your real age can sit decades apart, in your favor, if you keep paying the system its daily two minutes.",
+   "section": "ANKLE NERVES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "check": 3,
+   "exercise": "SINGLE-LEG BALANCE",
+   "music": "drive",
+   "narration": "Now we build it together. One foot down, knee soft, eyes forward. Thirty seconds a side, twice through. Touch down and you reset, not quit. Breathe. Go.",
+   "rest": 10,
+   "rounds": 4,
+   "section": "THE FIX LIST",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "LOCKED KNEE"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HOLDING THE WALL"
+    },
+    {
+     "asset": "ren_balance_test.webp",
+     "at": 19,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "STARING AT YOUR FOOT"
+    },
+    {
+     "at": 29,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HOLDING YOUR BREATH"
+    },
+    {
+     "at": 36,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "TESTING, NOT TRAINING"
+    },
+    {
+     "at": 41,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "2 MIN A DAY FIXES IT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the five mistakes destroying your ankle nerves. Mistake one: locking the knee straight. A locked knee switches the ankle sensors down and turns balance into a stack of bones. Keep it soft. Mistake two: holding the wall the whole time. Support teaches your brain to wait for rescue instead of correcting, so use one fingertip at most, then none. Mistake three: staring at your foot. Looking down bends your neck, shifts your weight, and feeds the brain the wrong picture. Eyes on a fixed point ahead. Mistake four: holding your breath. Breath holding tenses everything and shakes the frame. Slow breathing keeps the corrections smooth. Mistake five, the big one: only ever testing, never training. A test once a month changes nothing. Two minutes a day rewires the pathway. Avoid these five, and your number has nowhere to go but up. One more practical note. Train on a hard floor, near a wall you may touch but not hold. Barefoot is best, because the sole of the foot is a sensor too, and thick cushioned shoes muffle it like gloves on a pianist.",
+   "section": "THE FIX LIST",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Under 15: asleep, not broken.",
+      "Over 30: wired."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME FOOT. SAME FLOOR."
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, back to your number. Under fifteen seconds: your ankle nerves are untrained, not broken. The pathway is there, it is just asleep, and the fix list you just heard is the alarm clock. Fifteen to thirty: the system is waking up, and a few weeks of daily practice usually pushes you over the line. Thirty to sixty: you are wired. Your ankle reports fast and your brain trusts it. Over sixty, especially with eyes closed anywhere near ten, you are in rare territory. Write your number in the comments. Just the number. Then retest in thirty days, same foot, same floor, same rules, and watch what trained nerves do to a clock. Post it as a pair when you retest: old number, new number. Those pairs are the proof this system works.",
+   "section": "THE FIX LIST",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "2 MIN A DAY"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "COMMENT YOUR NUMBER",
+     "pos": "tl",
+     "text": "BALANCE TEST"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "bl",
+     "text": "TRUST THE NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your homework is two minutes a day, one foot at a time, while the kettle boils or the game loads. In thirty days we run this test again, and your clock will tell a different story. If you want every test that matters, subscribe. This is {channel}. Train the cable.",
+   "section": "THE FIX LIST",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "balance test",
+  "single leg balance",
+  "ankle stability",
+  "proprioception",
+  "balance training",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "violet",
+  "asset": "ren_balance_test.webp",
+  "big": "30 SEC",
+  "hook": "5 BALANCE KILLERS"
+ },
+ "title": "5 balance test Mistakes That Are Destroying Your ankle nerves",
+ "v5": true
+}

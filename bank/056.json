@@ -1,0 +1,402 @@
+{
+ "badge": "EP 56 - THE BALANCE TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SENSORS",
+  "YOUR TIME"
+ ],
+ "description": "Stand on one leg and start the clock. Your balance time is a live readout of the nerve sensors in your ankles, and it predicts far more than wobbling. Here is the thirty-second line, the science of the sensors, and the drill that doubles your time.",
+ "hashtags": [
+  "balance test",
+  "single leg balance",
+  "hidden strength",
+  "ankle stability",
+  "calisthenics",
+  "proprioception"
+ ],
+ "id": "056",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BAREFOOT, FLAT FLOOR"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "ARMS OUT = CLOCK STOPS"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WOBBLE IS DATA"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Your ankle reports its position",
+      "hundreds of times per minute."
+     ],
+     "pos": "br",
+     "title": "A LIVE FEED"
+    },
+    {
+     "at": 30,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand up. Bare feet, flat floor, nothing to grab. Lift one foot just off the ground, knee soft, eyes open, and start the clock. Now stand there. The rule is simple: when the raised foot touches down, or your arms windmill to save you, the clock stops. That number is your single-leg balance time, and I want the honest one, not the one where you hopped around the room for an extra ten seconds. Test both legs, because they will not match, and the weaker one is the one that matters. Here is what you just measured. It was not leg strength. Your leg barely worked. You measured a live feed of nerve sensors in your ankle reporting your position to your brain, and your brain correcting it, hundreds of times a minute. Every wobble was a correction arriving slightly late. Keep your number, and keep the weaker leg's number too. At the end of this video I will tell you exactly what they say about your ankles, and why this quiet little test predicts injuries better than any mirror ever will.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 SEC = WIRED ANKLES"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "UNDER 10 = SENSORS ASLEEP"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "ATHLETE-LEVEL ANKLE CONTROL",
+     "pos": "tr",
+     "text": "60 SEC"
+    }
+   ],
+   "big": "30 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN WOBBLY AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Thirty seconds per leg, eyes open, no touches, is where normal balance becomes wired balance. Under ten seconds means the sensors in that ankle are mostly asleep, and that is far more common than people think, even in guys who train. Ten to thirty means the feed works but the corrections arrive late, which is exactly the zone where ankles get rolled on stairs, curbs, and court edges. Over sixty seconds per leg, you hold the kind of ankle control gymnasts and fighters build on purpose. Notice what this line is not made of. Not muscle. Not size. Signal speed. And signal speed is the most trainable thing on this entire channel.",
+   "section": "THE NUMBER",
+   "sub": "under 10 sec: sensors asleep - 10 to 30: building - over 60: athlete control",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SENSORS IN EVERY LIGAMENT"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "The ankle reports position,",
+      "pressure, and speed - constantly."
+     ],
+     "pos": "br",
+     "title": "PROPRIOCEPTION"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A FEED, NOT A FEELING"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE BRAIN TRUSTS FAST FEEDS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Inside your ankle ligaments and joint capsules sit tiny sensors with a long name: proprioceptors. Their job is to report, nonstop, exactly where your joint is, how fast it is moving, and how much pressure it is under. That report travels up the nerves to your brain, which compares it with what your eyes see and your inner ear feels, then fires corrections down to the small muscles around the ankle. All of that happens faster than conscious thought, which is why you cannot think your way to better balance. You can only train the feed. When the feed is sharp, corrections arrive early and tiny, and you look rock solid. When the feed is dull, corrections arrive late and oversized, and you get the windmill arms and the desperate hop. Your balance time is simply how long your feed stays sharp before errors pile up. It is a nerve test wearing a leg costume.",
+   "section": "THE SENSORS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE OLD SPRAIN DULLS THE FEED"
+    },
+    {
+     "asset": "achilles_anatomy_plate.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "NEVER SPRAINED",
+       38,
+       "cyan"
+      ],
+      [
+       "ONE OLD SPRAIN",
+       19,
+       "gold"
+      ],
+      [
+       "REPEAT SPRAINS",
+       11,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "BALANCE TIME BY ANKLE HISTORY"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A DULL FEED CAN BE RETRAINED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is why one leg is almost always worse. When you sprain an ankle, you do not just stretch ligaments. You damage the sensors inside them, and the feed from that ankle comes back quieter and slower, sometimes for years after the pain is gone. Balance researchers see it constantly: people with one old sprain stand measurably worse on that leg, and that same leg is the one that rolls again. It is not bad luck. It is a bad feed. The brain cannot correct what it cannot feel, so the ankle drifts too far, too fast, and by the time the alarm arrives, body weight has already won. The hopeful part is that this is a software problem. The sensors that remain can be retrained to report louder and faster, and the brain can learn to listen to them again. That retraining is boring, simple, and works at any age. We are about to do some of it together.",
+   "section": "THE SENSORS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIX YOUR EYES ON ONE SPOT"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLOSE YOUR EYES = LEVEL TWO"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMOVE A SENSE, TRAIN THE REST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "There is a simple way to prove the sensors run the show. Stand on one leg and fix your eyes on one spot on the wall. Feel how the wobble shrinks. Your eyes were doing half the balancing work, feeding the brain a second, slower report to check the ankle against. Now close your eyes, carefully, near something you can grab. Most people lose half their time instantly. Nothing about your muscles changed. You just removed one feed and exposed how much the ankle feed was carrying, or failing to carry. This is also the training dial. Eyes open on the floor is level one. Eyes closed is level two. A cushion or pillow under the foot is level three, because the surface stops giving clean pressure information and the ankle sensors have to work alone. Train at the level where you wobble but survive. That wobble is not failure. The wobble is the workout, because every correction is a rep for the feed.",
+   "section": "THE SENSORS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO WEIGHT TO HIDE BEHIND"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "BALANCE COSTS A LIGHT BODY NOTHING",
+     "pos": "br",
+     "text": "0 KG"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PURE SIGNAL, NO EXCUSES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage here is total, because balance is the purest signal test on this channel. There is no weight to lift, no mass to move, nothing for a big body to be better at. A heavy guy's extra kilos actually work against him, because every correction has to move more mass with the same size sensors. Your light frame corrects cheap and fast, which means you get more quality corrections per minute of practice than he does. Skinny guys who train this look unfair within a month: still on a train, still on one leg tying a shoe, still when the bus brakes. It is not a party trick. It is a nervous system that reports early and corrects early, and it protects every other test on this channel, because ankles that feel the ground feed everything above them.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "check": 3,
+   "exercise": "SINGLE-LEG BALANCE",
+   "music": "drive",
+   "narration": "Now balance with me. Thirty seconds per leg, two rounds, eyes on one spot. Wobble all you want, just do not touch down. Go.",
+   "rest": 15,
+   "rounds": 2,
+   "section": "YOUR TIME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "2 MINUTES A DAY, BAREFOOT"
+    },
+    {
+     "asset": "ren_balance_test.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "ONLY TRAINING THE GOOD LEG"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SHOES ON A CUSHION = MIXED SIGNALS"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE WEAK LEG GETS DOUBLE WORK"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is your week, and it is the cheapest protocol on this channel. Two minutes a day, barefoot, while you brush your teeth or wait for food to heat. One minute per leg at the level where you wobble but survive, and the weak leg always goes first while you are fresh. When a level gets easy, remove a sense: eyes closed, or stand on a folded towel. Three mistakes waste this training for most people. Only practicing the good leg because it feels better, which widens the exact gap that gets ankles hurt. Wearing shoes, which muffle the pressure sensors in the foot before the signal even starts. And treating it like a party trick to max out once, instead of a daily feed to sharpen. Two honest minutes a day. That is the whole program, and in thirty days your weaker leg will not feel like a stranger anymore.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ASLEEP SENSORS = FASTEST FIX"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT BOTH NUMBERS"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY - BOTH LEGS, SAME FLOOR",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under ten seconds on either leg: the sensors are asleep, and asleep sensors are the fastest fix in this series, because the hardware is already there. Ten to thirty: the feed works and your job is daily wobble practice until the corrections arrive early. Over thirty per leg with a small gap between sides: your ankles are wired, and they will quietly protect every jump, sprint, and landing you ever do. Put both numbers in the comments, left and right. Just the numbers. We retest in thirty days, same floor, barefoot, and the gap between your legs is the score that matters most.",
+   "section": "YOUR TIME",
+   "sub": "under 10: asleep - 10 to 30: building - over 30 even: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "UNTIL THE RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CLOSE THE GAP"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, both legs, and we close the gap between them. Subscribe, because the next test takes these same ankles and turns them into a spring. This is {channel}. Train the cable.",
+   "section": "YOUR TIME",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "balance test",
+  "single leg balance",
+  "proprioception",
+  "ankle stability",
+  "balance training",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_balance_test.webp",
+  "big": "30 SEC",
+  "hook": "DON'T FALL OVER"
+ },
+ "title": "Your Single-Leg Balance Time Reveals Your Hidden Strength",
+ "v5": true
+}

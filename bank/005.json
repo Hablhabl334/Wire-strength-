@@ -1,0 +1,486 @@
+{
+ "badge": "EP 5 - THE DIP TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "SHOULDER CABLES",
+  "YOUR VERDICT"
+ ],
+ "description": "Two chairs and your bodyweight: how many clean dips can you do? That number quietly grades the tendons that cross your shoulder, the cables your pressing strength hangs from. Run the test, learn what limits your reps before your muscles do, and get the protocol that builds dip-proof shoulders.",
+ "hashtags": [
+  "dip test",
+  "parallel bar dips",
+  "shoulder tendons",
+  "bodyweight dips",
+  "triceps tendon",
+  "calisthenics"
+ ],
+ "id": "005",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO CHAIRS OR BARS"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FULL BODYWEIGHT PRESS"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "WRITE IT DOWN",
+     "pos": "tr",
+     "text": "YOUR REPS"
+    },
+    {
+     "at": 19,
+     "kind": "fact",
+     "lines": [
+      "Your shoulders grade this test.",
+      "Muscles just do the work."
+     ],
+     "pos": "br",
+     "title": "WHAT THE NUMBER GRADES"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 2.4,
+   "music": "dark",
+   "narration": "Set up two bars. | Or two sturdy chairs. | Grip them. | Lift yourself up. | Arms straight. | Now lower slowly | until your shoulders | drop below | your elbows. | Press back up. | That is one. | Count clean reps | until your form breaks. | No bouncing. | No half reps. | That count | is your number. | Got it? | Remember it. | Because the dip | looks like | a chest exercise, | but your muscles | are not | the limiting part. | The cables | crossing your shoulder | decide how deep | you can go, | how often, | and how safely. | Today they get graded.",
+   "poses": [
+    "ren_dip_top.webp",
+    "ren_dip_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CLEAN REPS ONLY"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "DIP-PROOF SHOULDERS",
+     "pos": "br",
+     "text": "20+ REPS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LOW NUMBER = CLEAR PATH"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DEPTH YOU CAN CONTROL"
+    }
+   ],
+   "big": "12 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN FRAGILE AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twelve clean dips, full depth you can control, no bouncing at the bottom. Under five, your shoulder tendons are new to this load and your pressing strength is built on sand. Five to eleven, the cables are adapting and the reps are real. Over twenty, you own shoulders that can press your bodyweight all day. Depth matters more than the count, by the way. A shallow dip grades your ego. A controlled dip to elbow height grades the tendons that actually protect your shoulder. Whatever your number, it is honest data, and honest data is what we train from.",
+   "section": "THE NUMBER",
+   "sub": "under 5: fragile cables - over 20: dip-proof shoulders",
+   "type": "card"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A BUSY INTERSECTION"
+    },
+    {
+     "asset": "ren_dip_bottom.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Four cuff tendons steer the ball.",
+      "Every dip loads all of them."
+     ],
+     "pos": "br",
+     "title": "THE SHOULDER CROSSING"
+    },
+    {
+     "at": 22,
+     "kind": "stat",
+     "label": "OF YOUR WEIGHT ON THE CABLES",
+     "pos": "br",
+     "text": "FULL BODY"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEPTH = TENDON LOAD"
+    },
+    {
+     "at": 37,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CONTROLLED DEPTH BUILDS THEM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the shoulder like an engineer. It is the most mobile joint you own, a ball balanced on a shallow socket, and that freedom has a price: the ball is held in place almost entirely by tendons. Four rotator cuff tendons steer it from behind while the big chest and triceps tendons power the front. Every dip asks all of them to work at once, under your full bodyweight, at the deepest angle pressing ever reaches. Go too deep too fast and the front cables take a stretch they are not ready for. That is why dips have a bad reputation in careless hands. Trained gradually, though, the same load is the teacher: tendon tissue thickens, the cuff gets stronger, and the joint becomes stable exactly where it used to feel fragile. One rule above all: sharp, pinching shoulder pain is a stop sign. If it persists, get it checked by a professional before you dip again. There is a second job those cuff tendons do during the dip that nobody talks about: they keep the ball of your shoulder centered while the big muscles pull it in different directions. When the cuff is weak, the ball wanders, tissues get pinched, and pressing starts to feel crunchy. When the cuff is trained, the same dip feels smooth and strangely safe. Smooth is not a luxury. Smooth is the sensation of a joint being steered properly under load.",
+   "section": "SHOULDER CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_bottom.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE BOTTOM IS THE TEST"
+    },
+    {
+     "asset": "shoulder_anatomy_plate.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "BOUNCED REPS",
+       25,
+       "red"
+      ],
+      [
+       "3-SECOND LOWERS",
+       90,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT THE TENDON FEELS"
+    },
+    {
+     "at": 24,
+     "kind": "stat",
+     "label": "LOWERING BUILDS THE CABLE",
+     "pos": "tr",
+     "text": "SLOW DOWN"
+    },
+    {
+     "at": 32,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE PRESS IS THE PRIZE"
+    },
+    {
+     "at": 39,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EARN YOUR DEPTH"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the part of the dip that actually builds you: the lowering. When you descend slowly, the chest and triceps tendons lengthen under load, and that slow stretch under tension is one of the strongest signals tendon tissue responds to. Bounce out of the bottom and you skip the signal and gamble the joint instead. This is why two people can do the same twelve reps and get completely different shoulders from them. One pressed. The other trained. Earn your depth in stages: first own the top hold, then partial lowers, then full controlled reps. Each stage gives the cables weeks to remodel before the load grows. Tendons remodel slower than muscles, so the dip rewards the patient and punishes the rushed. That patience is a skill, and today it is part of your grade. Depth deserves one more honest word. The right depth for you is the deepest position you can lower into slowly, with your shoulders away from your ears and zero pinch. For some bodies that is elbow height. For others it is a little less, for now. Anatomy varies, and the test respects that: it grades control at your honest depth, not a photograph from someone else's body.",
+   "section": "SHOULDER CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHY DIPS, NOT JUST PUSH-UPS"
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Push-ups grade the middle.",
+      "Dips grade the deep end."
+     ],
+     "pos": "br",
+     "title": "THE DEEP END"
+    },
+    {
+     "asset": "ren_dip_bottom.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GYMNASTS START HERE"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "OWN BOTH ENDS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "A fair question: why test dips when push-ups already grade pressing? Because the dip asks a question the push-up cannot. It takes the shoulder into its deepest loaded angle, the bottom of the press, where the chest tendon is fully stretched and the cuff must steer hardest. Push-ups grade the middle of the range. Dips grade the dangerous end of it. A body that owns both ends owns the whole press. That is why gymnasts, who live on straight and bent-arm support, treat dips as a foundation rather than an accessory. Your number today is a report on the end of the range most people never visit, let alone train.",
+   "section": "SHOULDER CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS WEIGHT PER REP"
+    },
+    {
+     "asset": "ren_dip_bottom.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "LIGHT BODY",
+       85,
+       "cyan"
+      ],
+      [
+       "HEAVY BODY",
+       45,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CLEAN REPS PER SET"
+    },
+    {
+     "at": 24,
+     "kind": "stat",
+     "label": "MORE PRACTICE, LESS DAMAGE",
+     "pos": "tr",
+     "text": "DAILY REPS"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BUILT FOR THIS TEST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your advantage, as always, is arithmetic. A dip lifts your whole body, so a lighter body means every rep is a smaller bill for the shoulder cables to pay. Heavy guys pay more per rep, fatigue sooner, and their form rots while the tendons are still loaded, which is exactly when shoulders get hurt. You can practice more often, with cleaner reps, and recover between sessions faster. Volume of good practice is how tendons are built, and your frame gives you volume for free. Plenty of strong bench pressers cannot do twelve honest dips. Their muscles are big and their shoulder cables are untested. This test does not grade the muscle. It grades the wiring and the cables, and there your body is not behind at all. Chasing another man's depth is how shoulders get hurt. Owning your own is how they get built.",
+   "section": "SHOULDER CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "check": 3,
+   "exercise": "DIPS",
+   "music": "drive",
+   "narration": "Train with me. Forty seconds of clean dips, slow lowers, full control. Rest, repeat. If the reps die, hold the top position. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "YOUR VERDICT",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_dip_bottom.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "BOUNCING THE BOTTOM"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HALF REPS"
+    },
+    {
+     "asset": "shoulder_anatomy_plate.webp",
+     "at": 19,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SHRUGGING TO YOUR EARS"
+    },
+    {
+     "at": 29,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "3-SECOND LOWERS"
+    },
+    {
+     "at": 36,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TOP HOLDS ON OFF DAYS"
+    },
+    {
+     "at": 41,
+     "kind": "chip",
+     "pos": "br",
+     "text": "3 SESSIONS A WEEK"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The protocol is simple and strict. Three sessions a week, never to failure. Mistake one is bouncing out of the bottom: it skips the building signal and shocks the front of the shoulder. Mistake two is half reps that never reach elbow height: they grade nothing and build less. Mistake three is shrugging up to your ears as you tire, which dumps the work into your neck and off the cables that need it. Instead: lower for a slow three seconds, press hard, stop two reps before failure. On off days, just hold the top position for time. That quiet isometric hold is tendon food. Add one rep a week when you can, and let depth come to you over the month, never chase it in a day. If chairs are your setup, test them like an engineer: sit hard, push down, rock them. The dip forgives many things, but furniture failure is not one of them. Parallel bars, a kitchen counter corner or two heavy chairs that cannot slide are the standard for a reason.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Under 5: cables are new.",
+      "Over 12: wired pressing."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CLEAN REPS ONLY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under five: your shoulder cables are beginners, and that is useful news, because the path from here is short and clear. Five to eleven: the tendons are adapting, and slow lowers will carry you over the line. Twelve to nineteen: you are wired, pressing your bodyweight through shoulders that can take it. Twenty and beyond: your pressing base is stronger than most lifters twice your size. Comment your number, just the reps. Retest in thirty days, same setup, same depth rules. If the count climbs and the depth feels safer, your cables are doing exactly what cables do when you train them right. Post the pair at retest: old reps, new reps, same depth rules. Shoulder progress you can count is shoulder progress you can trust.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_bottom.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLOW DOWN TO BUILD UP"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "COMMENT YOUR NUMBER",
+     "pos": "tl",
+     "text": "DIP TEST"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "bl",
+     "text": "TRUST THE NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Slow lowers, clean reps, depth earned week by week. That is the whole secret, and in thirty days your count will show it. Subscribe for more tests that grade the cables, not the costume. This is {channel}. Train the cable.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "dip test",
+  "how many dips",
+  "parallel bar dips",
+  "shoulder tendon strength",
+  "bodyweight pressing",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_dip_top.webp",
+  "big": "12 REPS",
+  "hook": "SHOULDER CABLES"
+ },
+ "title": "Your Dip Number Reveals the Truth About Your shoulder tendons",
+ "v5": true
+}

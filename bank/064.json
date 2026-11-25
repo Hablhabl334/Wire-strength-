@@ -1,0 +1,409 @@
+{
+ "badge": "EP 64 - THE FINGER HANG TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE PULLEYS",
+  "YOUR TIME"
+ ],
+ "description": "Hang from a ledge by your fingertips and start the clock. Your finger hang time grades the smallest, most honest tendons in your body, the flexor cables and pulleys climbers build careers on. Here is the twenty-second line and the patient way to reach it.",
+ "hashtags": [
+  "finger hang",
+  "finger strength",
+  "climbing grip",
+  "hidden strength",
+  "calisthenics",
+  "tendon training"
+ ],
+ "id": "064",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEDGE, DOORFRAME, OR STAIR EDGE"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FIRST KNUCKLES ONLY"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "PALMS ON THE LEDGE = DIFFERENT TEST"
+    },
+    {
+     "at": 24,
+     "kind": "fact",
+     "lines": [
+      "No bar to wrap. No thumb to help.",
+      "Fingertips carry everything."
+     ],
+     "pos": "br",
+     "title": "THE SMALLEST EXAM"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Find a ledge. | A doorframe top. | A stair edge. | Something solid. | Hook your fingers over it. | First knuckles only. | Fingertips curled hard. | Now lift your feet. | Hang from your fingers. | Start your clock. | No palms helping. | No thumbs locking. | Just eight fingertips | and the cables | that pull them. | The burn comes fast. | The fingers open slowly. | Like they are deciding | without asking you. | Stop when you drop. | That time is | your finger hang time. | Write it down. | It will be small. | Everyone's is. | This is the smallest | most honest exam | your tendons will take. | No big muscles | can rescue you here. | Keep your number. | At the end | I will tell you | what it grades.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "20 SEC = SERIOUS FINGERS"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "UNDER 5 = EVERYONE'S START"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "CLIMBER-GRADE FINGER TENDONS",
+     "pos": "tr",
+     "text": "45 SEC"
+    }
+   ],
+   "big": "20 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN SLIPPING AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, and it respects how hard this test is. Twenty seconds on your fingertips is serious finger strength, the kind that turns heads in climbing gyms. Under five seconds is where essentially every human starts, including strong lifters, because nothing in normal training loads the fingers this way. Five to twenty means the cables and pulleys are building, and your time will climb steadily with patient work. Over forty-five seconds, your fingers hold a grade of tendon that people dedicate years to, and it transfers to everything a hand can grab. Do not judge this number against your bar hang. A full-hand hang is a group project. This is eight fingertips, alone, with nowhere to hide.",
+   "section": "THE NUMBER",
+   "sub": "under 5 sec: everyone's start - 5 to 20: building - over 45: climber grade",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE MUSCLE IS IN THE FOREARM"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Each finger is pulled by cables",
+      "running the length of the forearm."
+     ],
+     "pos": "br",
+     "title": "LONG CABLES, SMALL ENDS"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORCE CONCENTRATES AT THE TIPS"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE TIME GRADES THE CABLES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Understand the machine you just hung from. Your fingers have no meaningful muscle in them. The engines sit in your forearm, big flexor muscles whose tendons travel down through your wrist, along each finger, and anchor at the fingertips. When you hang, your entire body weight pours through those long cables and concentrates at the smallest ends of the system, the last joints of eight fingers. That concentration is what makes this test so pure and so humbling. A dead hang spreads load across your whole hand and lets the thumb help. A finger hang removes every helper and asks the cables alone to hold you. The burn you felt deep in your forearms was the engines. The slow, uninvited opening of your fingers was the cables reaching their current limit. Both are trainable, but they train on different clocks, and confusing the two clocks is how fingers get hurt. We will respect both clocks in this episode.",
+   "section": "THE PULLEYS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PULLEYS PIN THE CABLES DOWN"
+    },
+    {
+     "asset": "forearm_anatomy_plate.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "MUSCLE GAINS",
+       30,
+       "gold"
+      ],
+      [
+       "TENDON + PULLEY GAINS",
+       120,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "DAYS TO NOTICEABLE CHANGE"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLOW SYSTEM, PERMANENT RESULTS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the anatomy that decides how you are allowed to train this. Your finger tendons do not float free inside the finger. They are lashed to the bones by a series of small fibrous rings called pulleys, and those pulleys are what let you curl your fingers hard without the tendon bowing out like a guitar string. The pulleys are the thinnest, slowest-adapting part of the whole chain. Muscle gets stronger in weeks because it is flooded with blood. Tendons and pulleys get a trickle, so they rebuild over months. This is the famous climber's lesson, usually learned the hard way: your muscles will beg for more finger training long before your pulleys can survive it. The smart play is almost insultingly patient. Short hangs, well below your max, full recoveries, and days off between sessions. The results come slower than muscle gains and stay longer than muscle gains, because you are not building a pump. You are building infrastructure.",
+   "section": "THE PULLEYS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "OPEN HAND VS CRIMP"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "OPEN HAND = THE SAFE DEFAULT"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "FULL CRIMP ON DAY ONE"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FINGERS STRAIGHT-ISH, LOAD HONEST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "One technique choice matters more than everything else in this test: how your fingers sit on the ledge. In an open-hand position, the fingers stay relatively long, the middle joints bend gently, and the load spreads across the whole cable system. In a full crimp, the fingertips bend sharply, the thumb locks over the top, and the load concentrates savagely on one small pulley in each finger. Crimping is stronger today and more expensive tomorrow, which is why climbers treat it like a spice and not a staple. For this test and this training block, use the open hand. Fingers hooked, joints gently bent, no thumb lock. Your time will be a little lower and your pulleys will survive to see next month, which is the entire point. The test measures the system you are building for years, not the trick that wins one afternoon. Train the position you can repeat a thousand times, because a thousand repetitions is roughly what a pulley needs to become a different structure.",
+   "section": "THE PULLEYS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS BODY ON THE SAME CABLES"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE CLIMBER'S BUILD, BY THE NUMBERS",
+     "pos": "br",
+     "text": "-20 KG"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LIGHT IS THE FINGER BUILD"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage here is the purest one on this channel. A finger hang hangs your whole body from the smallest tendons you own, so the load per cable is almost entirely decided by your body weight. Twenty kilos less body is twenty kilos less poured through eight fingertips, which is the difference between a pulley that gets trained and a pulley that gets torn. Look at the best finger athletes alive. Climbers who hang one-armed from a single finger's edge are, almost without exception, built exactly like you: light, lean, nothing extra. They are not light by accident or by diet fashion. Light is the engineering requirement of the sport. Your frame meets the requirement already. The only thing standing between you and a respectable finger hang is a patient schedule and the discipline to stop every set early. The heavy guy envies your cables more than you know, because he can never unload his without losing the muscle he trains for.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "check": 3,
+   "exercise": "FINGER HANGS",
+   "music": "drive",
+   "narration": "Now hang with me. Fingertips on the ledge, open hand, feet up. Seven seconds on, fifty off, five rounds. Easy does it. Go.",
+   "rest": 50,
+   "rounds": 5,
+   "section": "YOUR TIME",
+   "type": "timer",
+   "work": 7
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 DAYS A WEEK, ALWAYS FRESH"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "MAX HANGS EVERY DAY"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "CRIMPING TO BEAT THE CLOCK"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STOP TWO SECONDS EARLY, ALWAYS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is your week, and it is the most conservative protocol on this channel on purpose. Three days a week, five hangs of about seven seconds at an effort that feels like a seven out of ten, with a full minute of rest, always stopping two seconds before you think you would drop. Every week, add one second to the hangs, never more. Three mistakes end finger journeys early. Max hangs every day, which loads pulleys on a muscle schedule and tears them on a tendon schedule. Crimping to beat the clock, trading a pulley for a personal record. And training through deep finger joint aches, which are the system's only warning light. If a finger ever pops, swells, or aches into the next day, stop loading it, and if finger pain persists, see a professional before you hang again. Your pulleys cannot speak. The ache is their voice. Listen the first time.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SMALL NUMBER, REAL SYSTEM"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY - SAME LEDGE, SAME GRIP",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under five seconds: you are standing exactly where every climber in history started, and the only way from here is up. Five to twenty: the cables and pulleys are building, and your job is patience measured in single seconds per week. Over twenty with an open hand: your fingers are wired, and you own a grade of tendon that most people do not even know exists. Whatever your number is, put it in the comments. Just the number. We retest in thirty days, same ledge, same open hand, and we measure the slowest, most honest system in your body.",
+   "section": "YOUR TIME",
+   "sub": "under 5: the start - 5 to 20: building - over 20: wired fingers",
+   "type": "card"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "UNTIL THE RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "OPEN HAND, PATIENT LOAD"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ledge, same open hand, and we time the cables again. Subscribe, because next we go to the biggest tendon you own and test it the slow way, heel first. This is {channel}. Train the cable.",
+   "section": "YOUR TIME",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "finger hang",
+  "finger strength",
+  "climbing grip",
+  "fingerboard",
+  "pulley training",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_finger_hang.webp",
+  "big": "20 SEC",
+  "hook": "FINGERS ONLY"
+ },
+ "title": "Your Finger Hang Time Reveals the Truth About Your finger tendons",
+ "v5": true
+}

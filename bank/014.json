@@ -1,0 +1,455 @@
+{
+ "badge": "EP 14 - THE VERTICAL JUMP TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SPRING",
+  "YOUR HEIGHT"
+ ],
+ "description": "Stand next to a wall and jump. That number is not about your legs being big or small - it is about how stiff the spring in your ankle is. Here is how to measure your vertical properly, what your height says about your Achilles, and the exact week of training that builds the spring.",
+ "hashtags": [
+  "vertical jump",
+  "jump higher",
+  "achilles tendon",
+  "tendon training",
+  "calisthenics",
+  "skinny fitness",
+  "jump test"
+ ],
+ "id": "014",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "JUST A WALL"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TWO MARKS"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Two marks on a wall.",
+      "One honest number."
+     ],
+     "pos": "tr",
+     "title": "THE TEST"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WRITE YOUR NUMBER DOWN"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO APPS NEEDED"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a wall. Stand sideways next to it, reach up as high as you can, and touch the wall at the very top of your reach. That first mark is your standing reach. Now step half a step back, dip down fast, and jump as high as you possibly can. Touch the wall at the very peak of the jump and make your second mark. The distance between those two marks is your vertical jump height. No guessing, no apps, no expensive equipment. Just two marks and one honest number, in centimeters or inches. If you have no chalk, wet your fingertips first. Water leaves a mark that lasts just long enough. Write your number down and keep it somewhere safe, because at the end of this video I am going to tell you exactly what that number says about the spring hidden inside your ankle, and why it matters far more than the size of your legs.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "50 CM = SPRINGY"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SOFT = UNTRAINED, NOT BROKEN"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "ELITE BOUNCE TERRITORY",
+     "pos": "tr",
+     "text": "60+ CM"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NOT A LEG-SIZE TEST"
+    }
+   ],
+   "big": "50 CM",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN SOFT AND SPRINGY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line most people never hear about. Fifty centimeters is where an average jump becomes a springy one. Under thirty-five, your spring is soft, and soft is not a life sentence, it is simply untrained. Between thirty-five and fifty, the spring is waking up and starting to hand energy back to you. Over sixty, you own a bounce that most heavy lifters will never have, because their spring has to launch a much bigger body. Understand what this test really measures. It does not measure how big your legs are. It measures how well the cable in your ankle stores energy and throws it back at the ground. That is a completely different quality from muscle size, and it is trainable at any weight.",
+   "section": "THE NUMBER",
+   "sub": "under 35 cm: soft spring - over 60 cm: elite bounce",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE BIGGEST SPRING YOU OWN"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "The snap-back costs no energy.",
+      "The spring pays, not the muscle."
+     ],
+     "pos": "br",
+     "title": "FREE POWER"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STIFFNESS = ENERGY RETURNED"
+    },
+    {
+     "at": 27,
+     "kind": "stat",
+     "label": "ENERGY AN EFFICIENT ACHILLES RETURNS",
+     "pos": "br",
+     "text": "90%+"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SOFT SPRINGS LEAK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the back of your ankle. That thick cord running from your calf down into your heel bone is the Achilles tendon, the biggest spring in your entire body. When you dip down before a jump, you stretch that spring and load it with energy, exactly like pulling back a slingshot. When you leave the ground, the spring snaps back and returns that energy for free. Your muscles did not create that part of the power. The spring gave it back. The quality that decides everything here is stiffness. A stiff spring returns almost everything it stores. A soft spring leaks energy into wobble and heat, and your muscles pay the difference. Studies of tendon elasticity show that an efficient Achilles returns over ninety percent of the energy it absorbs during a jump. A soft one might hand back barely half. Same legs. Same effort. A completely different jump, decided by a cable most people never think about.",
+   "section": "THE SPRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MOTOR + TRANSMISSION"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "SOFT SPRING",
+       45,
+       "red"
+      ],
+      [
+       "STIFF SPRING",
+       90,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME CALVES, DIFFERENT SPRING"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SIZE IS NOT THE GEARBOX"
+    },
+    {
+     "at": 30,
+     "kind": "fact",
+     "lines": [
+      "Equal muscle, unequal jump.",
+      "The difference is the spring."
+     ],
+     "pos": "br",
+     "title": "THE HIDDEN GAP"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Here is the part nobody tells skinny guys. Your jump is a partnership between two very different parts. The calf muscle is the motor. It is small, and on a lean frame it will always look small, no matter how hard you train it. But the tendon is the transmission, and the transmission decides how much of the motor's power actually reaches the ground. Two guys can have the exact same calf size and jump twenty centimeters apart, purely because one spring is stiff and the other is soft. This is why some light guys seem to float and some big guys stay glued to the floor. Muscle size is the engine you can see. Tendon stiffness is the gearbox you cannot see. And here is the good news: gearboxes respond to training in a way that has nothing to do with how much you weigh or how big you look in a mirror. The spring does not care about your shirt size. It only cares about the load you feed it.",
+   "section": "THE SPRING",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "POWER-TO-WEIGHT IS THE GAME"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THE RETURN ON YOUR TRAINING",
+     "pos": "br",
+     "text": "2X"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR SPRINGS ARRIVE FRESH"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LIGHT IS AN ADVANTAGE HERE"
+    },
+    {
+     "asset": "ren_jump_peak.webp",
+     "at": 26,
+     "kind": "pip",
+     "pos": "tr"
+    }
+   ],
+   "check": 2,
+   "music": "drive",
+   "narration": "Now the advantage, and it is a real one. A spring does not care about absolute power. It cares about power compared to the weight it has to launch. You are lighter. So every unit of stiffness you build has less mass to move, and the same spring training that adds five centimeters to a heavy guy can add ten to you. Heavy jumpers also pay a hidden tax you never see. Their tendons spend all day carrying a big body around, so they arrive at every session already loaded and half tired. Yours arrive fresh. Fresh springs adapt faster, because the training load is a bigger event for them. This is why the highest jumpers in sport are rarely the biggest men in the room. They are the ones whose springs match their weight perfectly. Your build is not the obstacle here. For this one quality, your build is the shortcut.",
+   "section": "THE SPRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COLLAGEN = THE ROPE FIBERS"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Muscles adapt in weeks.",
+      "Tendons rebuild for months."
+     ],
+     "pos": "br",
+     "title": "SLOW CHEMISTRY"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HEAVY + SLOW = THE SIGNAL"
+    },
+    {
+     "at": 25,
+     "kind": "stat",
+     "label": "THE REAL TENDON TIMELINE",
+     "pos": "br",
+     "text": "MONTHS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "So how does a spring actually get stiffer? Inside the tendon, fibers of collagen are laid down and cross-linked, like ropes being twisted tighter and tighter together. Heavy, slow loading is the signal that tells your body to add more of those cross-links. That is why light, bouncy reps alone never finish the job, and why the slow calf work in your week matters just as much as the hops. This remodeling is slow chemistry, not soreness. A muscle can feel different in a week. A tendon quietly rebuilds for months, which is why the people who win at this are the ones who keep feeding the spring long after the excitement fades. You are not behind. You are just early in a process most people quit.",
+   "section": "THE SPRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "POGO HOPS",
+   "music": "drive",
+   "narration": "Now we load the spring together. Small, quick hops, ankles stiff, barely leaving the ground. Twenty seconds on, forty seconds off, four rounds. Stay tall, stay bouncy, land quiet. Go.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "YOUR HEIGHT",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REST DAYS ARE BUILDING DAYS"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "br",
+     "text": "3 SESSIONS A WEEK"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DEEP SLOW DIP = LEAKED SPRING"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "DAILY SPRING WORK TEARS IT DOWN"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FLAT SHOES, FULL ENERGY"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Three sessions, never on back-to-back days, because tendons rebuild slower than muscles and they need the gap between sessions to get stiffer. Session one is the pogo hops you just did with me. Session two is slow calf raises, three seconds up and three seconds down, until the spring burns deep in the ankle. Session three is five maximal jumps with full rest between them, quality over quantity, every jump an attempt at your best mark. Now the three mistakes that kill this faster than anything. Sinking into a deep, slow squat before you jump leaks the spring, so dip quick and shallow instead. Training the spring every single day tears it down instead of building it up, because the cable adapts on rest days, not training days. And soft, cushioned shoes eat the energy before your tendon can store it, so jump in flat shoes or barefoot whenever you can.",
+   "section": "YOUR HEIGHT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SOFT = FASTEST GAINS"
+    },
+    {
+     "asset": "ren_jump_peak.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "Under 35: soft, not stuck.",
+      "Over 50: protect the spring."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under thirty-five centimeters: your spring is soft and untrained, and honestly, that is the best news on this list, because soft springs improve the fastest in the first month. Thirty-five to fifty: the spring is building, and one focused month of work will show up clearly on that wall. Over fifty: your spring is wired, and your job now is to protect it and add strength slowly on top of it. Whatever your number is, put it in the comments. Just the number, nothing else. In thirty days we run this exact test again, same wall, same two marks, and the wall will tell us both what your spring really did.",
+   "section": "YOUR HEIGHT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME WALL. NEW NUMBER."
+    },
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUBSCRIBE FOR THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, that wall will tell the truth again. Same test, same marks, brand new number. Subscribe so you do not miss the retest, and bring your spring with you. This is {channel}. Train the cable.",
+   "section": "YOUR HEIGHT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "vertical jump",
+  "jump higher",
+  "achilles tendon",
+  "tendon stiffness",
+  "calisthenics test",
+  "skinny guy fitness",
+  "plyometrics",
+  "jump test"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "50 CM",
+  "hook": "JUMP LIKE A SPRING"
+ },
+ "title": "Your Vertical Jump Height Reveals the Truth About Your Achilles stiffness",
+ "v5": true
+}

@@ -1,0 +1,391 @@
+{
+ "badge": "EP 35 - THE TOWEL HANG TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE FINGERS",
+  "YOUR TIME"
+ ],
+ "description": "A bar is easy to grip. A towel is not. Your towel hang time exposes the finger tendons that regular hangs let off the hook. Here is why the towel changes everything, what your seconds say about the deepest grip you own, and the progression that builds fingers like hooks.",
+ "hashtags": [
+  "towel hang",
+  "finger strength",
+  "finger tendons",
+  "grip test",
+  "forearm training",
+  "skinny guy fitness"
+ ],
+ "id": "035",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE TOWEL. TWO HANDS."
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "WRAPPING = CHEATING"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "lines": [
+      "Grip the ends, never wrap.",
+      "Slipping is part of the test."
+     ],
+     "pos": "tr",
+     "title": "THE GRIP RULE"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Drape a towel over a bar. | Grab one end in each hand. | Just the ends. | No wrapping around your palms. | Now lift your feet | and hang. | Start your clock. | The second you slip off, | your time is over. | That is your TOWEL HANG TIME. | It will shock you. | Guys who hang a minute | on a solid bar | slide off a towel | in fifteen seconds. | Same arms. | Same body. | Completely different test. | The towel removes | every easy part | of the grip | and bills your fingers | for the difference. | Keep your number. | At the end of this video | I will tell you | what it grades.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 SEC = HOOKS"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "CLIMBER TERRITORY",
+     "pos": "br",
+     "text": "60+ SEC"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLIPPING FAST IS NORMAL"
+    }
+   ],
+   "big": "30 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN GRIP AND HOOKS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Thirty seconds on a towel is where a normal grip becomes finger hooks. Under ten seconds, your finger tendons are untrained, which describes almost everyone who has only ever held bars. Ten to thirty, the deep grip is waking up. Over sixty seconds, you hang with the kind of fingers climbers build over years.",
+   "section": "THE NUMBER",
+   "sub": "under 10: untrained fingers - over 60: climber territory",
+   "type": "card"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE LAST JOINT DECIDES"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "A bar rests in the palm.",
+      "A towel hangs from the fingertips."
+     ],
+     "pos": "br",
+     "title": "WHY THE TOWEL WINS"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEEP FLEXORS DO THIS WORK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at what changes on a towel. A solid bar sits deep in your palm, and your strongest finger joints close around it like a clamp. A towel never sits anywhere. It slides, bunches, and hangs your whole body from the last joints of your fingers. The load moves to a smaller, deeper set of tendons, the ones that curl your fingertips, and those tendons are the least trained tissue in most hands. Every bar workout lets them coast. The towel gives them the full bill. That is why strong bar-hangers slide off so fast: their grip is real, but it is shallow, built on the easy joints. Finger tendons, like every cable in this series, answer to progressive load. They just need a test honest enough to bill them, and the towel is that test. One more difference hides in the skin itself. On a bar, friction is constant and predictable. On a towel, the fabric shifts, bunches, and slowly rotates, so your fingers must constantly re-grip at a microscopic level. Those tiny corrections are extra tendon work that never shows up in the time, which is why towel hangs leave your forearms burning in a place bar hangs never reach. The instability is not a flaw in the test. It is the test.",
+   "section": "THE FINGERS",
+   "type": "art"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO FLEXOR SYSTEMS"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "BAR HANG",
+       60,
+       "red"
+      ],
+      [
+       "TOWEL HANG",
+       25,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SECONDS BY GRIP DEPTH"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BOTH SYSTEMS ARE TRAINABLE"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Deep flexors live higher in the forearm.",
+      "Their tendons run to your fingertips."
+     ],
+     "pos": "br",
+     "title": "THE ANATOMY"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Your forearm actually runs two grip systems. One flexor group curls the middle joints of your fingers, the grip you use on bars and handles. A second, deeper group curls only the fingertips, and it is the system that decides towel hangs, climbing holds, and every grip that starts slipping. The two systems even live at different depths in the forearm, with separate tendons arriving at different joints. Training bars forever develops the first system and leaves the second near its untrained baseline, which is why the gap between your bar time and towel time is so embarrassing. It is not weakness. It is an unopened account. The deep system responds to the same rules as the rest: frequent, progressive, honest load, and a few weeks of it changes the reading completely.",
+   "section": "THE FINGERS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS WEIGHT PER FINGER"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "The load is split across ten fingers.",
+      "A lighter body loads each one less."
+     ],
+     "pos": "br",
+     "title": "THE LIGHT MATH"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = LONGER HOLDS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "And your advantage shows up in the fingers too. A towel hang splits your bodyweight across ten fingertips, so every kilogram you do not carry is load your deep tendons never have to hold. The heavy lifter with the famous bar grip hangs far more weight from the same small joints, and his deep system, usually just as untrained as yours, fails under a bigger bill. You get longer holds, more practice sets, and faster signal to the exact tendons this test grades. Finger strength is a climber's game, and climbers are built like you: light frames, enormous tendon strength, nothing wasted. This test was quietly designed for your body type all along.",
+   "section": "THE FINGERS",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE FINGERS",
+   "check": 2,
+   "music": "dark",
+   "narration": "Here is the honest warning that comes with this test, and it matters. Finger tendons run through tight pulley systems in your hands, and those pulleys dislike sudden, maximal loading they are not prepared for. That is why the progression in this video is built on submaximal sets and gradual towel thinning, not daily hero attempts. Climbers, who load fingertips harder than anyone, build their finger strength over seasons, adding small increments and resting the tissue between hard days. Borrow their patience. Warm your hands up with easy bar hangs first, keep the first weeks almost boringly comfortable, and let the deep system thicken at its own pace. If a finger ever aches deep in the joint rather than in the forearm muscle, back off and let it settle; if that ache persists, see a professional and get it checked. Tendons that are respected become hooks. Tendons that are rushed become a story about the season you lost.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "PULLEYS DISLIKE SURPRISES",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THE CLIMBER RULE",
+     "lines": [
+      "Small increments, full rest.",
+      "Seasons, not weeks."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "BORING FIRST WEEKS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "text": "RESPECTED TENDONS LAST",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "check": 3,
+   "exercise": "TOWEL HANG",
+   "music": "drive",
+   "narration": "Hang with me. Grab the ends, lift your feet, breathe. Twenty seconds on the clock. If you slip, reset and go again inside the round. Go.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "YOUR TIME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THICKER TOWEL = EASIER"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "WRAPPING THE TOWEL"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MAX SLIPS EVERY DAY"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ADD 3 SECONDS A WEEK"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Hang from the towel four days a week, in sets of half your max time, always stopping before the slip. Start with a thick towel if your time is under ten seconds, because a thicker bundle is a bigger handle and an easier bill. Move to a thinner towel as the seconds climb. Three mistakes keep fingers shallow. Wrapping the towel around your palms turns the test back into a bar hang and bills nobody. Chasing a max slip every day frays the small tendons before they can rebuild. And skipping the bar work entirely is its own error: the two grip systems are partners, not rivals, so keep one bar session in the week. Add about three seconds a week and the hooks build themselves. Test with the same towel every month, washed or not, because fabric changes the friction and friction changes the number. Your monthly max is an audit of the deep system, and audits only mean something when the conditions match. Same towel, same bar, same rules, and the seconds will tell you the truth about your fingers. One more detail for the log: note which hand slips first. Almost everyone has a weaker deep system on one side, and giving that hand one extra short set per session closes the gap within a month or two. Balanced hooks are safer hooks, especially when a real-world grip has to hold on the first try.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "YOUR TIME",
+   "card": "bignum",
+   "check": 3,
+   "label": "WHAT YOUR NUMBER MEANS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under ten seconds: your deep grip is untrained, the normal result for a bar-only lifter, and the fastest gap you will ever close. Ten to thirty: the fingertips are waking up and the systems are starting to work as partners. Over thirty seconds on a standard towel: you hold with fingers that change every pulling exercise you do. Write it down. Retest in thirty days on the same towel, and put your seconds in the comments. Just the number. Towels do not lie.",
+   "section": "YOUR TIME",
+   "sub": "under 10: untrained - 10 to 30: building - over 30: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "SAME TEST, NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of honest hanging, then the same towel and a longer clock. If this test billed fingers you did not know you were skipping, subscribe, because every video here starts with a number and ends with a stronger one. This is {channel}. Train the cable.",
+   "section": "YOUR TIME",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "towel hang",
+  "finger strength",
+  "grip strength",
+  "finger tendons",
+  "towel pull-ups",
+  "climbing grip",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_finger_hang.webp",
+  "big": "30 SEC",
+  "hook": "THE TOWEL TEST"
+ },
+ "title": "Stop Doing towel hang Wrong: Train Your finger tendons Instead",
+ "v5": true
+}

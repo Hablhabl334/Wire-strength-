@@ -1,0 +1,386 @@
+{
+ "badge": "EP 31 - THE HORSE STANCE TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE STANCE",
+  "YOUR TIME"
+ ],
+ "description": "Martial artists held this stance for hours to build legs that never quit. Your horse stance time grades the hip and knee tendons that hold you low and stable. Here is the depth that makes the test honest, why your legs shake, and the old method that builds unshakeable legs without a single weight.",
+ "hashtags": [
+  "horse stance",
+  "leg endurance",
+  "knee tendons",
+  "hip strength",
+  "isometric training",
+  "skinny guy fitness"
+ ],
+ "id": "031",
+ "scenes": [
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FEET WIDE. SINK LOW."
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Thighs parallel is the line.",
+      "Above it, the clock is kind."
+     ],
+     "pos": "br",
+     "title": "THE DEPTH RULE"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "RISING UP = TIME OVER"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand with your feet wide, about twice your shoulder width. Turn your toes slightly out. Now sink straight down until your thighs run parallel to the floor, back tall, hands wherever you like. Start your clock. The moment your thighs rise above parallel, your time is over. That is your HORSE STANCE TIME. It sounds simple, and for the first twenty seconds it is. Then the shaking starts, the burn climbs, and your legs begin negotiating with you to stand up. Martial artists have used this exact stance for centuries, not as a warm-up, but as the main event. What they understood is that the stance is not really a muscle test. It is a tendon test performed in public. Keep your number. At the end, I will tell you what it grades.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "2 MIN = TRAINED"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "OLD-SCHOOL TERRITORY",
+     "pos": "br",
+     "text": "5+ MIN"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHAKY IS UNTRAINED, NOT WEAK"
+    }
+   ],
+   "big": "2 MIN",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN SHAKY AND SET",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Two minutes at full depth is where a casual stance becomes a trained one. Under one minute, the system is untrained and the tendons are soft. One to two minutes, the muscles endure but the cables still fade. Past five minutes, you hold the kind of leg base old martial artists were famous for, and almost nobody trains anymore.",
+   "section": "THE NUMBER",
+   "sub": "under 1 min: untrained base - over 5 min: old-school base",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HELD LOAD, ZERO MOVEMENT"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Isometrics load tendon deeply.",
+      "No movement does not mean no work."
+     ],
+     "pos": "br",
+     "title": "THE ISOMETRIC SECRET"
+    },
+    {
+     "asset": "ren_horse_stance.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SHAKE IS THE SIGNAL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at what the stance actually loads. At parallel depth, your knees and hips sit bent under your full bodyweight, and nothing moves. Your quadriceps and glutes fire constantly, but the quiet heroes are the tendons: the patellar tendon below your kneecap and the tendon network around your hips, holding tension minute after minute. This is an isometric load, muscle working without movement, and isometrics are one of the most tendon-friendly signals known. They load the collagen fibers hard, at a fixed angle, with zero impact and zero bouncing. The shaking you felt is not weakness leaving your body. It is your nervous system cycling tired motor units in and out while the tendons keep holding the line. Old stances were never about suffering. They were a delivery system for deep tendon load, disguised as tradition. One more thing the stance quietly trains: your feet and ankles. Holding depth on a wide base forces the small muscles of your feet to grip the floor and your ankles to stabilize the whole structure from the ground up. Weak feet make wobbly stances, and wobbly stances leak the very tension your tendons are supposed to receive. The stance fixes the chain from the floor upward, in the order the body actually uses it.",
+   "section": "THE STANCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANGLE-SPECIFIC STRENGTH"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "WEEK 1",
+       45,
+       "red"
+      ],
+      [
+       "WEEK 8",
+       150,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SECONDS AT DEPTH"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HELD ANGLES GET STRONG"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Strength grows near the held angle.",
+      "Depth you own becomes depth you keep."
+     ],
+     "pos": "br",
+     "title": "THE ADAPTATION"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Here is the science that makes the stance more than a tradition. Isometric training builds strength most powerfully at and near the angle you hold. Hold parallel depth for weeks and your legs do not just endure longer, they become genuinely stronger in the bottom ranges of squats and lunges, the exact ranges most lifters are weakest. The tendon side adapts too. Long holds under steady tension are a proven way to remodel tendon stiffness and are even used in tendon rehab programs, because the collagen gets a clear, patient signal. Your stance time is therefore two readings in one: how much isometric strength your legs own at depth, and how well the cables around your knees and hips handle sustained load. Both readings are trainable, and both start moving the week you begin.",
+   "section": "THE STANCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS MASS TO HOLD"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "The load is your bodyweight.",
+      "Lighter legs hold longer."
+     ],
+     "pos": "br",
+     "title": "THE LIGHT ADVANTAGE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = LONGER HOLDS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "And once again, the light frame wins quietly. The horse stance holds your own bodyweight at the hardest angle, so every kilogram matters for every second. A heavier lifter sinks the same depth under far more load, and his clock runs out sooner no matter how big his thighs look. You hold less. That means longer quality holds, more sessions per week without wrecked legs, and more isometric signal reaching your tendons. There is a reason the legendary stance holders of old martial arts were wiry men, not giants. Endurance at depth is a tendon and patience game, and both favor the lean build you already have. The mirror will never show you this advantage. The clock shows it every time.",
+   "section": "THE STANCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "section": "THE STANCE",
+   "check": 2,
+   "music": "dark",
+   "narration": "There is a breathing skill hidden inside this stance, and the old teachers knew it. When the burn climbs, beginners hold their breath, and the moment they hold it, their depth quietly rises and their time collapses. The stance is only truly held when you can breathe slowly through it: long exhales, ribs moving, legs still burning at the same depth. Breath control under load is a nervous system skill, and it is half of what separates a two-minute hold from a five-minute one. Try this in your next session: count your exhales instead of watching the clock. Ten slow breaths is a target your mind can hold long after it has given up on seconds. The martial artists who held this stance for an hour were not enduring more pain than you. They were managing the same pain with better breathing, one exhale at a time, while their tendons collected the load. Master the breath, and the stance stops being a fight and becomes a practice.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "BREATHE OR RISE",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THE BREATH RULE",
+     "lines": [
+      "Held breath collapses depth.",
+      "Slow exhales extend the hold."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "COUNT EXHALES, NOT SECONDS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "text": "PAIN, MANAGED",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "check": 3,
+   "exercise": "HORSE STANCE",
+   "music": "drive",
+   "narration": "Sink with me. Feet wide, thighs parallel, back tall. Forty-five seconds on the clock. Breathe slow and stay low. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "YOUR TIME",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DAILY SHORT HOLDS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HALF DEPTH ALL SET"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ONE HERO SESSION A WEEK"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ADD 10 SECONDS A WEEK"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Sink into the stance every day, in short holds you can finish with good depth. Three holds of half your max time, resting as long as you need between them. On the weekend, one honest max test. Three mistakes keep stances shaky forever. Living at half depth trains half the angle and never touches the deep tendons. Letting your knees cave inward unloads the hips and stresses the joint instead of the cables, so push them out over your toes. And one heroic weekly session is too little signal for slow tissue. Tendons remodel under frequent, patient load. Add about ten seconds to your total daily hold time each week, and the shaking turns into stillness on a schedule older than any gym. Write your depth on the calendar too, not just your time. A stance that lasts ninety seconds at true parallel is worth more than three minutes of slow rising, and your log should reward the honest version. Depth first, duration second, and the tendons will take care of the rest of the story.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "YOUR TIME",
+   "card": "bignum",
+   "check": 3,
+   "label": "WHAT YOUR NUMBER MEANS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under one minute: an untrained base, and daily short holds will move this faster than any leg day. One to two minutes: real endurance, with the deep-angle strength still on the table. Over two minutes at honest parallel depth: you own a base most lifters never build, because they will not sit still long enough to earn it. Write it down. Retest in thirty days at the same depth, and put your time in the comments. Just the number. Stances do not lie.",
+   "section": "YOUR TIME",
+   "sub": "under 1 min: untrained - 1 to 2 min: building - over 2 min: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "SAME TEST, NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of sitting low, then the same stance and a longer clock. If this test graded legs you have been guessing about, subscribe, because every video here starts with a number and ends with a stronger one. This is {channel}. Train the cable.",
+   "section": "YOUR TIME",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "horse stance",
+  "leg endurance",
+  "isometric training",
+  "knee tendons",
+  "hip strength",
+  "martial arts stance",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_horse_stance.webp",
+  "big": "2 MIN",
+  "hook": "THE STANCE TEST"
+ },
+ "title": "Stop Doing horse stance Wrong: Train Your hip and knee tendons Instead",
+ "v5": true
+}

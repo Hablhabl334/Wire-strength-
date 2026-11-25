@@ -1,0 +1,486 @@
+{
+  "id": "092",
+  "v5": true,
+  "title": "Stop Doing knee tendon training Wrong: Train Your patellar tendon Instead",
+  "description": "One tendon below your kneecap multiplies the force of your whole thigh, and almost nobody trains it on purpose. The slow knee bend test grades it rep by rep. Get your number, learn why the patellar tendon is the lever cable of the leg, and start loading it the way it actually adapts.",
+  "tags": [
+    "patellar tendon",
+    "knee bend test",
+    "knee tendons",
+    "split squat",
+    "tendon training",
+    "knees over toes",
+    "jumper's knee",
+    "skinny guy fitness"
+  ],
+  "hashtags": [
+    "patellar tendon",
+    "knee strength",
+    "knees over toes",
+    "tendon training",
+    "split squat",
+    "calisthenics"
+  ],
+  "category": "tendons",
+  "badge": "EP 92 - PATELLAR TENDON TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE KNEE CABLE",
+    "YOUR BEND"
+  ],
+  "thumb": {
+    "asset": "ren_split_squat_bottom.webp",
+    "big": "10 REPS",
+    "hook": "KNEES KEEP SCORE",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_split_squat_top.webp",
+        "ren_split_squat_bottom.webp"
+      ],
+      "cycle": 2.6,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Stand tall. | One foot forward. | One foot back. | Hands on hips. | Now lower slowly. | Count three seconds down. | Knee travels forward. | Over your toes. | Front heel stays down. | Stop at the bottom. | Where thigh meets parallel. | Stand back up. | That is ONE rep. | Same leg again. | No bouncing allowed. | No pushing off | the back leg. | Count your perfect reps. | Stop when form breaks. | Or at fifteen. | Do the other leg. | Write down the lower number. | That is your score. | Keep it safe. | At the end | I explain what | it really means.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SPLIT STANCE, HANDS ON HIPS",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "THREE SECONDS DOWN",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "KNEE OVER TOES = THE POINT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 17,
+          "kind": "chip",
+          "text": "STOP WHEN FORM BREAKS",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "fact",
+          "title": "YOUR WORSE LEG IS YOUR SCORE",
+          "lines": [
+            "The strong leg has been",
+            "covering for it for years."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "10 REPS",
+      "label": "THE LINE BETWEEN FRAGILE AND WIRED",
+      "sub": "under 5: untrained cable - over 12: jumper's knees",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Ten slow, perfect knee bends on your weaker leg is where a fragile knee becomes a wired one. Under five, your patellar tendon is untrained, and untrained is the most fixable diagnosis there is. Five to ten means the cable works but fades under control, which is exactly when knees start complaining on stairs. Over twelve, you hold the kind of tendon that jumpers and sprinters build their careers on. Notice what this test never asks about: size. Your thigh can look any way it wants. The clock and the tempo only grade the cable, and the cable is what actually delivers force to the ground.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNTRAINED = FIXABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "10 REPS = WIRED",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "12+",
+          "label": "JUMPER'S KNEES",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "section": "THE KNEE CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look at the front of your knee. Your thigh muscle ends in a tendon that grips the kneecap, and below the kneecap, the patellar tendon runs down to your shin bone. The kneecap is not just a shield. It is a pulley. It holds the tendon away from the joint so every pull gets multiplied, like moving a rope further from the hinge of a door. When you bend your knee slowly over your toes, you are loading that pulley system with most of your bodyweight through a very small cable. That is why this little tendon gets sore in jumpers, and why it gets dramatically stronger when you train it with patience instead of avoiding it. This is also why the tendon thickens visibly in people who train it for a season. Jumpers and weightlifters carry a patellar tendon you can almost see working under the skin, and that thickness is not decoration. It is cross section, and cross section is capacity, the physical record of every slow rep they ever did.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE KNEECAP IS A PULLEY",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_split_squat_bottom.webp"
+        },
+        {
+          "at": 15,
+          "kind": "fact",
+          "title": "FORCE MULTIPLIER",
+          "lines": [
+            "The pulley moves the rope",
+            "away from the hinge."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "SMALL CABLE, HUGE LOAD",
+          "pos": "tr"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "LOAD IT, DON'T AVOID IT",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_split_squat_bottom.webp",
+      "section": "THE KNEE CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is what the research on this tendon keeps showing. Patellar tendons respond best to heavy, slow loading and to long isometric holds, the exact recipe used in clinics for jumper's knee. The tendon adapts by getting stiffer and thicker, but it adapts on a slower schedule than muscle, because its blood supply is poor. Muscle upgrades in weeks. Tendon upgrades in months. That is not bad news, it is a planning instruction: the person who starts tendon work today beats the person who starts when pain forces them to. Your knee bend number is the scoreboard for that slow, permanent upgrade, and slow permanent upgrades are exactly what this channel is built on.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HEAVY AND SLOW WINS",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "ISOMETRICS: THE CLINIC RECIPE",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "ADAPTATION SPEED",
+          "items": [
+            [
+              "MUSCLE",
+              80,
+              "red"
+            ],
+            [
+              "TENDON",
+              35,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "SLOW IS PERMANENT",
+          "lines": [
+            "Muscle fades in weeks off.",
+            "Tendon keeps its gains."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "START BEFORE PAIN DECIDES",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_sit.webp",
+      "section": "THE KNEE CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now the myth that keeps this tendon weak. For years people were told the knee must never travel past the toes, so they trained around the exact position that loads the patellar tendon most. Here is the honest version. Knees over toes is not damage, it is dosage. A deep, controlled knee bend is a high dose, a shallow one is a low dose, and like any dose, you build up to it. The people who get hurt are not the ones who visit the position. They are the ones who arrive there suddenly, under fatigue, with a tendon that has never been introduced to it. Your test today was the introduction. The protocol coming up is the build up.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "MYTH: NEVER PAST THE TOES",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "TRUTH: IT IS DOSAGE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "DEEP = HIGH DOSE",
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "SUDDEN + TIRED = TROUBLE",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE KNEE RULE",
+          "lines": [
+            "Positions don't injure.",
+            "Unprepared tendons do."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_split_squat_top.webp",
+      "section": "THE KNEE CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Audit this tendon in your real life and you will find it on the stairs. Going downstairs is a slow knee bend done one leg at a time, which means your staircase is a daily patellar tendon test you never signed up for. People who dread the descent, who turn sideways, who haul themselves down the railing, are usually not weak in the thigh. They are undertrained in the cable at exactly the tempo stairs demand. The way down is an eccentric contraction, muscle lengthening under load, and it is the tendon's home turf. Train the slow bend in your living room and the stairs quietly change from obstacle to warmup. This is the pattern with every test in this season: the number is never really about the test. It is about the hundred daily moments the test was secretly measuring.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "STAIRS ARE A DAILY TEST",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "THE RAILING IS A REPORT CARD",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "fact",
+          "title": "DOWN IS ECCENTRIC",
+          "lines": [
+            "Stairs demand the tempo",
+            "this tendon trains best."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "chip",
+          "text": "THE TEST MEASURES YOUR WEEK",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_split_squat_top.webp",
+        "ren_split_squat_bottom.webp"
+      ],
+      "cycle": 2.6,
+      "section": "YOUR BEND",
+      "check": 3,
+      "music": "dark",
+      "narration": "Now the advantage. | Your light frame gives. | Bodyweight is enough. | The dose is perfect. | A heavy guy overloads | this tendon fast. | His knees complain early. | He has to ration. | You can train | almost every day. | Slow reps, clean reps. | The tendon drinks it up. | Frequency beats load here. | And frequency is free. | Your legs look light. | The cable does not care. | It only counts tension. | And time under tension. | Give it both. | Watch the number climb.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BODYWEIGHT = PERFECT DOSE",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "FREQUENCY BEATS LOAD",
+          "lines": [
+            "Heavy knees ration this work.",
+            "Yours can do it daily."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "THE CABLE COUNTS TENSION",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 17,
+          "kind": "chip",
+          "text": "NOT APPEARANCES",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_split_squat_bottom.webp",
+      "exercise": "SLOW KNEE BENDS",
+      "work": 30,
+      "rest": 30,
+      "rounds": 4,
+      "section": "YOUR BEND",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Four rounds of slow knee bends, thirty seconds per leg, thirty seconds of rest between rounds. Three seconds down, knee traveling forward, heel glued down. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_sit.webp",
+      "section": "YOUR BEND",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your week. Slow knee bends three times a week, three sets per leg, always stopping two reps before form breaks. Add wall sit holds on the off days, forty five seconds with your knees bent deep, to feed the tendon its isometric medicine. Progress one variable at a time: first tempo, then depth, then a backpack with books. Never chase all three in the same week. One warning that matters with this tendon. Front of knee pain that lingers, sharpens, or changes how you walk is not toughness points, and if it persists, see a professional and get a real diagnosis before you load it harder. Film one set a week from the side if you can. The camera catches the bounce and the back leg cheating long before you feel them, and honest footage makes the retest impossible to argue with.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "3X A WEEK, SLOW REPS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "WALL SITS ON OFF DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "SKIP: BOUNCING REPS",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "TEMPO, DEPTH, THEN LOAD",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "TENDON RULE",
+          "lines": [
+            "Lingering pain is data.",
+            "Get it checked, then train."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "10+",
+      "label": "THE RETEST LINE IN 30 DAYS",
+      "sub": "under 5: untrained - 5 to 10: building - over 10: wired",
+      "section": "YOUR BEND",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under five: your patellar tendon is untrained, and this is the most responsive cable in your whole lower body once you start feeding it slow reps. Five to ten: you are building, and the wall sits will push you over the line. Over ten: your knees are wired, and depth plus load are your next frontier. Put your number in the comments, weaker leg, just the number. We retest in thirty days with the same three second tempo. No bouncing your way to a fake score.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNTRAINED IS FIXABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "section": "YOUR BEND",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Every jump, sprint, and stair you will ever climb passes through this one small cable. Train it slowly, train it often, and it will carry you for decades. Retest in thirty days. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "SLOW AND OFTEN",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "TRAIN THE CABLE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "id": "098",
+  "v5": true,
+  "title": "Why Your ankle tendons Matter More Than Muscle (The ankle tendon training Episode)",
+  "description": "Every landing you will ever make is decided in the first tenth of a second by your ankle tendons. The hop test counts how fast and honest yours are, inside one small square. Get your number, learn why ankles are springs with steering, and start training both.",
+  "tags": [
+    "ankle hop test",
+    "ankle tendons",
+    "ankle stability",
+    "ankle strength",
+    "tendon training",
+    "plyometrics",
+    "sprain prevention",
+    "skinny guy fitness"
+  ],
+  "hashtags": [
+    "ankle strength",
+    "hop test",
+    "ankle stability",
+    "tendon training",
+    "plyometrics",
+    "calisthenics"
+  ],
+  "category": "tendons",
+  "badge": "EP 98 - ANKLE HOP TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE ANKLE CABLES",
+    "YOUR HOPS"
+  ],
+  "thumb": {
+    "asset": "ren_jump_peak.webp",
+    "big": "25 HOPS",
+    "hook": "ANKLES KEEP SCORE",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Stand on one leg in the middle of an imaginary square, about the size of a bathroom tile. Now hop in place, small and quick, staying inside your square, landing on the ball of your foot and springing straight back up. For thirty seconds, count your hops. The rules are strict: if your foot drifts out of the square, if your other foot touches down, or if you need a big arm swing to rescue your balance, the count stops there. This is not a fitness test, it is a reaction test. Every hop asks your ankle tendons to catch your whole body, organize it, and return it, in about a quarter of a second. Do both legs and write down the lower number. Keep it. At the end I will tell you what it grades.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ONE LEG, ONE SMALL SQUARE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "30 SECONDS OF QUICK HOPS",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "FOOT TOUCHES DOWN = COUNT STOPS",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "SMALL, QUICK, QUIET LANDINGS",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "A QUARTER SECOND PER CATCH",
+          "lines": [
+            "Catch, organize, return.",
+            "That is the whole job."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "25 HOPS",
+      "label": "THE LINE BETWEEN WOBBLY AND WIRED",
+      "sub": "under 15: wobbly springs - over 32: court ankles",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Twenty five controlled hops in thirty seconds is where a wobbly ankle becomes a wired one. Under fifteen, your ankle tendons are untrained for reaction work, and untrained is fixable with embarrassingly little training. Fifteen to twenty five means the springs work but the steering fades as you tire, which is exactly when ankles roll in real games. Over thirty two, you have court ankles, the kind that land all day without drama. Notice what this number really measures: not strength in the slow sense, but speed of organization. Your muscles are almost certainly strong enough. The question the test asks is whether the tendon system can deploy that strength fast enough to matter.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "WOBBLY = FIXABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "25 HOPS = WIRED",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "32+",
+          "label": "COURT ANKLES",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "achilles_anatomy_plate.webp",
+      "section": "THE ANKLE CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look at the ankle as a system. The Achilles runs down the back as the main spring. Two tendon groups run down each side, behind the ankle bones, acting as guy wires that keep the joint tracking straight while the spring works. Ligaments sense position and report to the brain, and the whole crew has to fire in the right order within milliseconds of touchdown. When any part is slow, the ankle rolls, and the famous sprained ankle is usually not bad luck. It is a slow system meeting a fast moment. Your hop test grades the whole crew at working speed, which is why thirty seconds of small hops tells you more about your ankles than an hour of slow exercises ever could. The system even has a preferred warmup, and it is embarrassingly simple: a minute of easy two leg hops before anything fast. Temperature and timing both rise quickly in tendon tissue, and the crew you grade cold in this test is noticeably sharper after sixty seconds of gentle bouncing.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "ONE SPRING, TWO GUY WIRES",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_balance_test.webp"
+        },
+        {
+          "at": 15,
+          "kind": "fact",
+          "title": "MILLISECONDS MATTER",
+          "lines": [
+            "The crew must fire in order",
+            "before the roll begins."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "SPRAINS ARE SLOW SYSTEMS",
+          "pos": "tr"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "GRADED AT WORKING SPEED",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "THE ANKLE CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the cycle nobody warns you about. One sprain stretches the sensors in the ligaments, the reports to the brain get quieter, the tendons react a fraction slower, and the next sprain gets easier. Weak ankles sprain, and sprained ankles get weaker. The exit from the cycle is not a brace, it is retraining the reaction system with exactly the kind of small, fast, controlled contacts you did today. Balance work sharpens the sensors. Hopping retrains the response. Tendons stiffen with progressive load, and the whole crew gets its timing back. Research on ankle rehab is unusually clear on this point: the people who retrain balance and reaction sprain far less often than the people who only rest.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SPRAIN, SLOWER, SPRAIN AGAIN",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "THE CYCLE HAS AN EXIT",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "AFTER RETRAINING",
+          "items": [
+            [
+              "BALANCE + HOPS",
+              70,
+              "cyan"
+            ],
+            [
+              "REST ONLY",
+              30,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "BRACES HOLD, TRAINING FIXES",
+          "lines": [
+            "Support is borrowed.",
+            "Reaction is owned."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "RETRAIN THE RESPONSE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise_front.webp",
+      "section": "THE ANKLE CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "There is a second job your ankle tendons do that nobody talks about: they decide how much energy every landing costs you. A stiff, well timed ankle returns most of the landing force into the next movement, so running feels springy and cheap. A soft, slow ankle absorbs the force in the muscles instead, so the same run feels like work. This is why two people with identical fitness can finish the same game with completely different legs. One paid for every landing in elastic refunds. The other paid in muscle fatigue. Your hop number is a window into which economy you are running, and the beautiful part is that the economy upgrades with training at any age.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "SOFT ANKLE = EXPENSIVE LANDINGS",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "STIFF ANKLE = REFUNDS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "SPRINGY IS AN ECONOMY",
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "SAME GAME, DIFFERENT LEGS",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE ANKLE RULE",
+          "lines": [
+            "Absorb less.",
+            "Return more."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "THE ANKLE CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Audit where your ankles actually live. City life has quietly removed every interesting surface from under them: flat floors, flat sidewalks, flat shoes, elevators instead of stairs. The ankle crew evolved on ground that tilted, slipped, and surprised it, and it stays sharp by being surprised in small, safe doses. This is why trail walkers and court players keep resilient ankles into old age while careful flat ground walkers roll theirs stepping off a curb. The curb is not dangerous. The untrained reaction system is. You do not need a mountain to fix it. Grass, gravel, a garden path, any honest surface in sensible shoes gives the crew its small daily surprises, and your hop training gives it the speed. Surfaces teach the sensors. Hops teach the response. Together they rebuild the ankle you thought you had lost.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "FLAT WORLD, SOFT ANKLES",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_balance_test.webp"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "THE CURB IS NOT DANGEROUS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "fact",
+          "title": "SURFACES + SPEED",
+          "lines": [
+            "Ground teaches the sensors.",
+            "Hops teach the response."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "chip",
+          "text": "SMALL SURPRISES, DAILY",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "YOUR HOPS",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now the skinny advantage, and landing is where it shines brightest. Every hop loads the ankle with a multiple of bodyweight, and your multiple is multiplied by a smaller number. Less force per landing means more quality hops per session, faster recovery between sessions, and a tendon system that can be trained almost daily without complaint. The heavy athlete has to schedule ankle work carefully around the damage of his own mass. You can sprinkle it into every day like seasoning. Over a month, that frequency gap becomes a stiffness gap, and over a season it becomes the difference between the ankle that rolls in the big moment and the one that saves it.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SMALLER MULTIPLE, MORE HOPS",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "fact",
+          "title": "FREQUENCY IS SEASONING",
+          "lines": [
+            "A little every day",
+            "beats a lot once a week."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "THE ANKLE THAT SAVES IT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "RECOVER OVERNIGHT, REPEAT",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_jump_peak.webp",
+      "exercise": "ANKLE HOPS",
+      "work": 20,
+      "rest": 20,
+      "rounds": 4,
+      "section": "YOUR HOPS",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Four rounds of single leg hops, twenty seconds per leg, twenty seconds of rest between rounds. Small, quick, quiet landings inside your square. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "YOUR HOPS",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your week. Hop practice four times a week, three short sets per leg, always stopping while the landings are still quiet and inside the square. Add single leg balance work on the other days, one minute per side, eyes forward, letting the ankle crew make its thousand tiny corrections. Progress by shrinking the square before you ever hop higher, because control is the skill and height is the reward. One warning. An ankle that is freshly sprained, swollen, or painful to hop on is not a training partner yet, and if ankle pain or repeated rolling persists, see a professional and get the joint properly assessed.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "HOPS 4X A WEEK, SHORT SETS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "BALANCE ON THE OTHER DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "SKIP: HOPPING ON A SWOLLEN ANKLE",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "SHRINK THE SQUARE FIRST",
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "QUIET LANDINGS ONLY",
+          "lines": [
+            "Noise is the ankle",
+            "asking for help."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "25+",
+      "label": "THE RETEST LINE IN 30 DAYS",
+      "sub": "under 15: untrained - 15 to 25: building - over 25: wired",
+      "section": "YOUR HOPS",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under fifteen: your ankle crew is untrained for reaction work, and a month of small hops will surprise you. Fifteen to twenty five: you are building, and the shrinking square is your next level. Over twenty five: your ankles are wired, springs with steering, ready for real speed work. Put your number in the comments, weaker leg, just the number. We retest in thirty days, same square, same rules, quieter landings.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNTRAINED IS FIXABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise_front.webp",
+      "section": "YOUR HOPS",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Every landing of your life is decided by this crew in a quarter of a second. Train it small and often, and in thirty days we count the hops again. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "SMALL AND OFTEN",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "TRAIN THE CABLE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

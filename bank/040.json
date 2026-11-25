@@ -1,0 +1,429 @@
+{
+ "badge": "EP 40 - THE PUSH-UP TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDONS",
+  "YOUR NUMBER"
+ ],
+ "description": "Your push-up number is not really a chest test. It is a test of the two cables that carry every rep, the chest and triceps tendons, and today you find out what your number says about them and how to raise it in thirty days.",
+ "hashtags": [
+  "push-up test",
+  "push-up number",
+  "calisthenics test",
+  "chest tendon",
+  "bodyweight strength",
+  "skinny guy strength",
+  "tendon training"
+ ],
+ "id": "040",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO GYM NEEDED"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLEAN REPS ONLY"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "A half rep is a lie",
+      "you tell yourself."
+     ],
+     "pos": "tr",
+     "title": "COUNT HONESTLY"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REMEMBER YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Get on the floor. | Hands under your shoulders. | Body in one line. | Now do push-ups. | Clean ones only. | Chest near the floor. | Arms fully straight. | Count every single rep. | Stop when form breaks. | That number is yours. | Write it down. | Most guys guess theirs. | You will KNOW yours. | And here is the twist. | This test is NOT | really about muscle. | It measures your TENDONS. | Two cables per arm. | At the end today | I tell you exactly | what your number means. | Keep it ready. | One more rule. | No bouncing reps. | No half reps. | Every rep identical. | Same speed down. | Same pause below. | That is a test.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED = FIXABLE"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "25 CLEAN = TRAINED"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "ELITE ENGINE TERRITORY",
+     "pos": "tr",
+     "text": "40+ REPS"
+    }
+   ],
+   "big": "25 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN SOFT AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twenty-five clean push-ups is where an average floor press becomes a trained one. Under ten, your cables are simply untrained, and untrained is the most fixable problem in fitness. Between ten and twenty-five, the system is waking up. Over forty, you own a pressing engine most bigger guys cannot match, because their extra size costs them reps instead of buying them. Hold your number against that line, and keep watching, because the reason behind it changes how you should train.",
+   "section": "THE NUMBER",
+   "sub": "under 10: untrained cables - over 40: elite engine",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MUSCLE PULLS, TENDON DELIVERS"
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Muscle is the engine.",
+      "Tendon is the gearbox."
+     ],
+     "pos": "br",
+     "title": "THE TRANSMISSION"
+    },
+    {
+     "asset": "ren_pushup_mid.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "CHEST + TRICEPS TENDONS",
+     "pos": "tr",
+     "text": "2 CABLES"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SPONGY = FORCE LEAKING"
+    },
+    {
+     "at": 34,
+     "items": [
+      [
+       "STIFF TENDON",
+       90,
+       "cyan"
+      ],
+      [
+       "SOFT TENDON",
+       55,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "tr",
+     "title": "FORCE DELIVERY"
+    },
+    {
+     "at": 40,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LOAD BUILDS THE CABLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the bottom of the rep. Your chest muscle is not attached to your arm bone directly. It hands its force to a tendon, a flat white cable, and that cable pulls the bone. Your triceps does the same on the back of the arm. Every push-up you have ever done traveled through those two cables. Muscle is the engine, but the tendon is the transmission, and a soft transmission wastes engine power on every single rep. When a tendon is compliant, it stretches and soaks up force before the bone ever moves. When it is stiff and trained, force arrives instantly and the rep feels snappy instead of spongy. That spongy feeling near failure is rarely your muscle quitting first. It is the cables losing tension under load, rep after rep, until the force leaks faster than you can make it. Tendons answer to load exactly like ropes under tension. Load them often and they remodel thicker, stiffer, and better organized. Ignore them and they stay soft, no matter how hard the muscle above them works. Notice where each cable works hardest. The chest tendon takes its biggest load at the bottom, stretched across the shoulder while the muscle fights to reverse the rep. The triceps tendon takes over near the top, locking the elbow straight against full tension. A complete push-up trains both ends of the system in a single movement. A partial push-up trains neither end properly.",
+   "section": "THE TENDONS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FAILURE STARTS AT THE BOTTOM"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Trained tendons return energy.",
+      "Untrained tendons absorb it."
+     ],
+     "pos": "br",
+     "title": "THE SPRING EFFECT"
+    },
+    {
+     "asset": "ren_pushup_top.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 24,
+     "kind": "stat",
+     "label": "TENDON ADAPTATION TIMELINE",
+     "pos": "tr",
+     "text": "WEEKS"
+    },
+    {
+     "at": 31,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FULL RANGE = FULL DOSE"
+    },
+    {
+     "at": 37,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE TEST IS THE TRAINING"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Watch what actually fails in a max set. The first reps are tall and fast. Then the bottom of each rep gets slower, the pause down there gets longer, and the press turns into a grind. That slowdown is the stretch position loading your tendons like springs. A trained tendon stores energy at the bottom and hands some of it back on the way up. An untrained one just stretches and gives nothing back, so your muscle pays full price for every inch. This is also why tendon training runs on a different clock than muscle training. Muscle recovers and adapts in days. Tendon collagen rebuilds over weeks and months, which is why people who only chase a pump never fix the leak. The good news is that the push-up itself is nearly perfect tendon medicine. Full range, bodyweight load, and a loaded stretch at the bottom, repeated cleanly. The dose is not complicated. It is the reps you already counted this morning, done with tension and done often. There is one more catch worth knowing. Tendons respond best to load they can organize against, which means slow, controlled tension beats frantic reps. A two-second lowering phase gives the collagen fibers time to align with the force instead of scattering under it. That is why grinding out ugly speed reps builds a pump and very little else.",
+   "section": "THE TENDONS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "label": "OF BODYWEIGHT PER REP",
+     "pos": "tr",
+     "text": "~65%"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "REPS ARE THE CURRENCY"
+    },
+    {
+     "at": 16,
+     "items": [
+      [
+       "LIGHT FRAME",
+       120,
+       "cyan"
+      ],
+      [
+       "HEAVY FRAME",
+       70,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "tr",
+     "title": "CLEAN REPS PER SESSION"
+    },
+    {
+     "at": 23,
+     "kind": "fact",
+     "lines": [
+      "More reps per session.",
+      "More cycles per cable."
+     ],
+     "pos": "br",
+     "title": "THE SKINNY ADVANTAGE"
+    },
+    {
+     "at": 30,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOUR BUILD IS THE SHORTCUT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the part nobody tells a skinny guy. A push-up presses roughly two thirds of your bodyweight. That sounds like a disadvantage until you flip it around. Your lighter frame means you can collect far more clean reps per session than a heavy guy can, and reps are the currency tendons are paid in. Every extra quality rep is another loading cycle telling those cables to rebuild stiffer. The heavy guy's set ends early because his muscle is hauling more mass. Your set keeps going, and the cables get the longer workout. This is why light athletes so often end up with freakish bodyweight numbers. It is not magic and it is not genetics. It is more practice reps at the exact load their tendons need, accumulated quietly, week after week. Your build is not the obstacle here. Used properly, it is the shortcut. Think about training age in reps instead of years. A light trainee can bank thousands more clean pressing reps in a year than a heavy trainee doing the same program. Tendons keep that ledger honestly. Every one of those reps is a small deposit, and the interest shows up as stiffness, speed, and a number that keeps climbing.",
+   "section": "THE TENDONS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Train with me. Four rounds. Thirty seconds of clean push-ups, thirty seconds of rest. Stop two reps before failure every round. Chest down, arms straight. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "YOUR NUMBER",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HALF REPS"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SAGGING HIPS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DAILY MAX TESTS"
+    },
+    {
+     "at": 28,
+     "kind": "chip",
+     "pos": "br",
+     "text": "5 SETS x HALF YOUR MAX"
+    },
+    {
+     "at": 34,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FREQUENT + SUBMAXIMAL + CLEAN"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week, and here are the three mistakes that keep numbers frozen. Mistake one is the half rep, chest floating high, arms never straight. It feels productive and trains almost nothing, because the tendon never reaches the loaded bottom position. Mistake two is the sagging middle, hips dropping while the chest rises. That turns one straight cable line into a broken hinge. Mistake three is testing every day at maximum. Tendons rebuild between sessions, and daily max attempts spend the adaptation before it lands. Instead, spread five easy sets through your day, each one half of your max number, clean and crisp. That is it. Frequent, submaximal, perfect reps. Add one rep to your test every week and the cables will quietly rewrite what your arms can deliver. Here is how the week actually looks. Pick five moments in your day, after waking, before lunch, whenever you pass the same doorway. Drop down, do your half-max set, and walk away fresh. Nothing burns, nothing fails, and by bedtime you have done more clean reps than most gym sessions contain. On day seven, rest completely. The rebuilding happens then.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 10: UNWIRED"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "10-25: WAKING UP"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "WIRED TERRITORY",
+     "pos": "tr",
+     "text": "25-40"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY - SAME FLOOR, SAME RULES",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under ten: you are not weak, you are unwired, and that is the fastest category to escape. Ten to twenty-five: the cables are waking up and the transmission is tightening. Twenty-five to forty: you are wired, and your reps are arriving at full power. Over forty: elite engine, full stop. Whatever your number was today, write it in the comments. Just the number. In thirty days we run this exact test again, same floor, same rules, and you will watch the cables prove what they built. Numbers do not care about mirrors. That is why we trust them. And if your number embarrassed you a little today, good. An honest low number is worth more than a flattering guess, because now the training has a target and the retest has a story.",
+   "section": "YOUR NUMBER",
+   "sub": "comment your number below - then beat it",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NEXT TEST COMING"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRUST THE NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same test, same rules, and a number that tells the truth about your cables. Subscribe so you do not miss the retest or the next test in this series. This is {channel}. Train the cable.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "push-up test",
+  "push up max",
+  "calisthenics test",
+  "tendon training",
+  "chest tendon",
+  "bodyweight strength",
+  "skinny guy fitness",
+  "push-up challenge"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_top.webp",
+  "big": "25 REPS",
+  "hook": "THE HONEST NUMBER"
+ },
+ "title": "Why Your chest and triceps tendons Matter More Than Muscle (The push-up max Episode)",
+ "v5": true
+}

@@ -1,0 +1,480 @@
+{
+  "id": "100",
+  "v5": true,
+  "title": "Why Your elbow tendons Matter More Than Muscle (The elbow tendon training Episode)",
+  "description": "Your elbow is the crossroads where the biceps, triceps, and forearm tendons all meet, and the squeeze test grades the whole junction at once. Get your seconds, learn why elbow pain is almost always a tendon story, and start loading the crossroads the smart way.",
+  "tags": [
+    "elbow squeeze test",
+    "elbow tendons",
+    "tennis elbow",
+    "golfer's elbow",
+    "isometric training",
+    "tendon training",
+    "forearm tendons",
+    "skinny guy fitness"
+  ],
+  "hashtags": [
+    "elbow health",
+    "isometric training",
+    "grip strength",
+    "tendon training",
+    "tennis elbow",
+    "calisthenics"
+  ],
+  "category": "tendons",
+  "badge": "EP 100 - ELBOW TENDON TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE ELBOW CABLES",
+    "YOUR SQUEEZE"
+  ],
+  "thumb": {
+    "asset": "ren_grip_squeeze.webp",
+    "big": "45 SEC",
+    "hook": "ELBOWS KEEP SCORE",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Take a soft ball, a rolled towel, or a pillow, and trap it in the crease of one elbow. Now squeeze your forearm toward your upper arm as hard as you honestly can, crushing the ball in the fold of the joint, and start your clock. Your job is to hold a true maximum squeeze, not a comfortable one. The test ends when the pressure clearly fades, when you start using your other hand or your body to help, or when the ball starts escaping the crease. Somewhere in the first half minute you will feel the whole neighborhood working: biceps, forearm, the tendons on both sides of the elbow, all pulling into one junction. Write down your seconds. Keep your number. At the end I will tell you why this simple squeeze grades more tissue than any other test in the season.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BALL IN THE ELBOW CREASE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRUE MAXIMUM SQUEEZE",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "HELPING HAND = CLOCK STOPS",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "THE WHOLE NEIGHBORHOOD WORKS",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "ONE JUNCTION, EVERY CABLE",
+          "lines": [
+            "This grades the crossroads,",
+            "not a single muscle."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "45 SEC",
+      "label": "THE LINE BETWEEN ACHY AND WIRED",
+      "sub": "under 20: overloaded junction - over 70: iron crossroads",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Forty five seconds of true squeeze is where an achy junction becomes a wired one. Under twenty, the tendons around your elbow are undertrained for the loads your hands already ask of them, which is the classic recipe for elbow pain. Twenty to forty five means the system works but fades, and fading junctions complain during gripping, carrying, and pressing. Over seventy, you own an iron crossroads that most manual workers would respect. This number matters beyond the test itself, because the elbow is where the upper body's force changes direction, and a junction that fades early makes everything downstream of it weaker than it should be.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "ACHY = TRAINABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "45 SEC = WIRED",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "70+",
+          "label": "IRON CROSSROADS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "elbow_anatomy_plate.webp",
+      "section": "THE ELBOW CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look at the elbow as a map. The biceps tendon plugs in just below the crease at the front. The triceps tendon anchors on the point at the back. The forearm's flexor tendons share one common anchor on the inside bump of the elbow, and the extensors share another on the outside bump. Four systems, one small joint, all of them crossing within a few centimeters of each other. When you squeezed that ball, you tensioned the entire map at once, which is why the burn felt like it came from everywhere. It also explains why elbow problems are so common and so confusing. Pain at this junction can belong to any of four cables, and each one wants a slightly different kind of training.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "FOUR SYSTEMS, ONE JOINT",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 15,
+          "kind": "fact",
+          "title": "THE CROSSROADS MAP",
+          "lines": [
+            "Biceps front, triceps back,",
+            "forearms on both bumps."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "PAIN HERE HAS FOUR SUSPECTS",
+          "pos": "tr"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "THE SQUEEZE TENSIONS ALL OF THEM",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "section": "THE ELBOW CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the fact that reframes most elbow pain. The famous tennis elbow and golfer's elbow are not really elbow problems and they are rarely inflammation problems. They are tendon capacity problems at those shared anchors: the cable was asked for more than it had been trained to give, week after week, until it started protesting. The treatment that research keeps supporting is not rest forever and it is not a magic injection. It is progressive tendon loading, especially isometrics and slow eccentrics, dosed patiently for months. Your squeeze test doubles as the entry level of that exact therapy. The same hold that graded your junction today is the first exercise used to rebuild it. Testing and training are the same movement here, and that is not a coincidence.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "NOT INFLAMMATION, CAPACITY",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "ISOMETRICS ARE THE ENTRY DOSE",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "WHAT REBUILDS THE ANCHOR",
+          "items": [
+            [
+              "PROGRESSIVE LOADING",
+              80,
+              "cyan"
+            ],
+            [
+              "REST FOREVER",
+              25,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "TEST = TRAINING",
+          "lines": [
+            "The grading hold is also",
+            "the rebuilding hold."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "MONTHS, NOT DAYS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "section": "THE ELBOW CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now the connection to the rest of your training. Every grip you own loads the elbow anchors, because the forearm muscles that close your hand are born on those two bumps of bone. Every curl loads the front anchor. Every press loads the back one. The elbow is not a bystander in your program, it is the toll plaza for the entire upper arm, and its tendons collect a fee on every rep you do anywhere else. This is why smart trainees treat elbow capacity as a budget. Spend it progressively and the budget grows. Blow it all in one heroic weekend and the junction sends you the bill for months. Your squeeze number is your current budget, written in seconds.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "EVERY REP PAYS THE TOLL",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "HEROIC WEEKENDS BLOW THE BUDGET",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "GRIP IS BORN AT THE ELBOW",
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "PROGRESSIVE SPENDING GROWS IT",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "YOUR BUDGET IN SECONDS",
+          "lines": [
+            "Today's number is",
+            "what the junction can afford."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "elbow_anatomy_plate.webp",
+      "section": "THE ELBOW CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the audit that explains most elbow flare ups. Plot your week honestly and you will usually find the same shape: five quiet days of almost no elbow load, then one heroic weekend of moving furniture, gardening, or a new sport. The junction does not mind work. It minds spikes. Tendon capacity grows like a savings account, a little at a time, and a spike spends money the account does not have yet. This is why the daily two minute squeeze matters more than it looks. It raises the baseline a fraction every day, so the weekend stops being a spike and becomes just a slightly bigger day. Trainees who understand dosing almost never get elbow pain, not because they are careful, but because their baseline is so high that normal life never reaches it. Build the baseline and the junction stops sending invoices.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "FIVE QUIET DAYS, ONE HEROIC WEEKEND",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "THE JUNCTION MINDS SPIKES",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "fact",
+          "title": "CAPACITY IS A SAVINGS ACCOUNT",
+          "lines": [
+            "Daily deposits, small ones.",
+            "Weekends stop being spikes."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "chip",
+          "text": "RAISE THE BASELINE",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "section": "YOUR SQUEEZE",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your skinny advantage at the elbow, and it is a sneaky one. Isometric tendon training works at almost any load, and the loads a light guy generates with squeezes, levers, and hangs land exactly in the productive zone for these small tendons. The heavy, strong guy often overshoots: his everyday training already taxes the anchors near their limit, so his elbows live one bad weekend away from a flare up. Yours have headroom, and headroom is where patient, daily, submaximal work compounds quietly. Add the fact that elbow isometrics take two minutes and zero equipment, and this becomes the easiest tendon habit on the whole channel to keep for a year.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "YOUR LOADS LAND IN THE ZONE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "fact",
+          "title": "HEADROOM COMPOUNDS",
+          "lines": [
+            "His anchors live at the limit.",
+            "Yours get to grow quietly."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "TWO MINUTES, ZERO EQUIPMENT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "THE EASIEST HABIT TO KEEP",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_grip_squeeze.webp",
+      "exercise": "ELBOW SQUEEZE",
+      "work": 30,
+      "rest": 15,
+      "rounds": 4,
+      "section": "YOUR SQUEEZE",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Four rounds of elbow squeezes, thirty seconds per arm, fifteen seconds of rest between rounds. Ball in the crease, honest maximum pressure, breathe out slowly. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "section": "YOUR SQUEEZE",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your week. Squeeze holds once a day, three rounds per arm, at a strong but controlled effort, never grinding through sharp pain. Add wrist levers twice a week to load the forearm anchors from their other end, and keep your normal pulling and pressing, just honest about tempo. Progress by seconds first: when forty five feels easy, squeeze a firmer ball before you chase anything fancier. Expect this junction to improve quietly over months, not dramatically over days, and judge it by the retest, not by daily feelings. The warning, clearly: elbow pain that persists for weeks, pain with numbness or tingling in the hand, or weakness that is getting worse \u2014 see a professional if it persists, and get a real assessment.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "SQUEEZES DAILY, BOTH ARMS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "WRIST LEVERS 2X A WEEK",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "SKIP: GRINDING THROUGH SHARP PAIN",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "SECONDS FIRST, FIRMER BALL LATER",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "TINGLING = GET ASSESSED",
+          "lines": [
+            "Numbness is not a",
+            "training variable."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "45+",
+      "label": "THE RETEST LINE IN 30 DAYS",
+      "sub": "under 20: untrained - 20 to 45: building - over 45: wired",
+      "section": "YOUR SQUEEZE",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your seconds. Under twenty: your junction is undertrained, and daily squeezes are the easiest fix on this channel. Twenty to forty five: you are building, and the firmer ball is your next level. Over forty five: your crossroads is wired, and every arm exercise you do just became more productive. Put your seconds in the comments. Just the number. We retest in thirty days, same ball, same honest maximum, and the junction will have a bigger budget.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNTRAINED IS FIXABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "elbow_anatomy_plate.webp",
+      "section": "YOUR SQUEEZE",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Four cable systems meet at your elbow, and today you graded all of them with one squeeze. Two minutes a day keeps the crossroads rich. Retest in thirty days and bring me a bigger budget. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "TWO MINUTES A DAY",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "TRAIN THE CABLE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

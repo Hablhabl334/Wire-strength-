@@ -1,0 +1,472 @@
+{
+ "badge": "EP 2 - BALANCE, DONE RIGHT",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "ANKLE NERVES",
+  "THE RIGHT WAY"
+ ],
+ "description": "Most people train balance completely backwards: they stand still like a statue and wonder why nothing improves. Your ankle nerves do not learn from standing still, they learn from correcting. Run the test, learn what the nerves actually need, and train balance the way your nervous system understands.",
+ "hashtags": [
+  "balance training",
+  "ankle nerves",
+  "proprioception",
+  "single leg balance",
+  "nerve training",
+  "calisthenics"
+ ],
+ "id": "002",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME TEST AS ALWAYS"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE FOOT. ONE CLOCK."
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "WRITE IT DOWN",
+     "pos": "tr",
+     "text": "YOUR TIME"
+    },
+    {
+     "at": 23,
+     "kind": "fact",
+     "lines": [
+      "The usual training is backwards.",
+      "Today we flip it."
+     ],
+     "pos": "br",
+     "title": "YOU TRAIN IT WRONG"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NERVES FIRST TODAY"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "You know the drill. | Stand up. | One foot down, | one foot floating. | Knee soft. | Eyes forward. | Clock running. | Stay up | as long as you can | without touching down. | No wall. | No hopping. | One clean attempt. | That number | is your starting point. | Now, be honest. | If you train balance, | you probably | stand like a statue | and wait. | That is exactly | how most people | were taught. | And it is | almost completely wrong. | Your ankle nerves | do not learn | from standing still. | They learn | from correcting. | Today you get | the number, | the machinery, | and the right way | to train it.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EYES OPEN. NO TOUCHES."
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "ELITE CONTROL",
+     "pos": "br",
+     "text": "60+ SEC"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A TRAINABLE NUMBER"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WEEKS, NOT MONTHS"
+    }
+   ],
+   "big": "30 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN WOBBLY AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line again, because it matters. Thirty seconds, one leg, eyes open, no touches. Under fifteen seconds means the ankle nerves are untrained, and that is a training problem, not a talent problem. Fifteen to thirty means the system works but corrects late. Over sixty means your ankles report faster than most people will ever need. The beautiful part: this is one of the quickest numbers a skinny guy can move, because nerves sharpen in weeks when you train them the way they actually learn. Standing still is not that way.",
+   "section": "THE NUMBER",
+   "sub": "under 15: untrained ankles - over 60: elite control",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SENSORS FIRST, MUSCLE SECOND"
+    },
+    {
+     "at": 11,
+     "kind": "fact",
+     "lines": [
+      "Corrections are the lesson.",
+      "Stillness teaches nothing."
+     ],
+     "pos": "br",
+     "title": "HOW NERVES LEARN"
+    },
+    {
+     "asset": "ren_balance_test.webp",
+     "at": 19,
+     "kind": "swap"
+    },
+    {
+     "at": 27,
+     "kind": "stat",
+     "label": "CORRECTIONS PER MINUTE OF WOBBLE",
+     "pos": "br",
+     "text": "100s"
+    },
+    {
+     "at": 35,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WOBBLE IS THE WORKOUT"
+    },
+    {
+     "at": 41,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FEED THE SENSORS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Understand what your ankle nerves actually do. Sensors in the joint and the muscles around it report your position constantly. When you lean, they fire. Your brain reads the signal and orders a correction: a squeeze in the calf, a shift in the foot, a nudge at the hip. That loop, sensor to brain to muscle, is the skill. Now think about statue training. If you stand perfectly still, the loop fires almost nothing. No lean, no signal, no correction, no lesson. You are practicing the one thing your body already knows. Real balance training feeds the loop problems to solve: small leans, slow reaches, head turns, weight shifts. Every solved problem thickens the pathway a little. The wobble is not failure. The wobble is the workout itself, the exact moment the nerve learns its job. There is one more layer to the loop. The brain does not just react to the ankle; it predicts. With practice it builds a model of your body and pre-loads the corrections it expects to need, which is why trained balance starts to look calm. Prediction is faster than reaction, and prediction is only built from thousands of small solved problems, never from standing still.",
+   "section": "ANKLE NERVES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE STATUE PROBLEM"
+    },
+    {
+     "at": 11,
+     "items": [
+      [
+       "STANDING STILL",
+       15,
+       "red"
+      ],
+      [
+       "SMALL CORRECTIONS",
+       90,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "NERVE SIGNALS FIRED"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 19,
+     "kind": "swap"
+    },
+    {
+     "at": 27,
+     "kind": "stat",
+     "label": "OF BALANCE IS SIGNAL SPEED",
+     "pos": "tr",
+     "text": "90%"
+    },
+    {
+     "at": 34,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HARDER IS NOT BETTER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "This is also why the usual progressions backfire. People make balance harder by removing information: eyes closed on day one, standing on a pillow, standing on a wobble board. Harder, yes. Better, no. When the brain loses the floor signal entirely, it stops training the ankle and starts surviving with the hips and arms. You get better at flailing, not at balancing. The right order is the opposite. Keep the floor signal clean and add small challenges the ankle can actually solve: turn your head slowly, reach one arm out, lift a light object, close your eyes for three seconds at a time. Each one is a question the sensors can answer. Answer enough questions, and the pathway gets fast. Fast pathways are what the clock measures. Notice what this means for testing day. A single test after a week of statue standing tells you almost nothing, because the pathway was never fed. Test after a week of corrections and the number moves, not because you got stronger, but because the model in your brain finally has data worth predicting from.",
+   "section": "ANKLE NERVES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE 4-WEEK SHAPE"
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Clumsy, calmer, jump, boring.",
+      "Boring means wired."
+     ],
+     "pos": "br",
+     "title": "WEEK BY WEEK"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "A COMMON WEEK-3 JUMP",
+     "pos": "tr",
+     "text": "+50%"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BORING IS THE GOAL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is what a month of right-way training actually looks like, week by week. Week one feels clumsy: the corrections are late, the foot slaps down, and two minutes feels long. Week two, the head turns stop being scary, because the loop has solved them a few hundred times. Week three is where the test number jumps, sometimes by half, as prediction takes over from reaction. Week four feels strangely boring, and boring is the sound of a wired system: the ankle handles in silence what used to take your whole attention. None of this requires talent. It requires repetitions of the right problem, which is the entire philosophy of this channel in one small skill.",
+   "section": "ANKLE NERVES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS MASS TO CORRECT"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 11,
+     "kind": "pip",
+     "label": "BUILT FOR QUICK FEET",
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "items": [
+      [
+       "LIGHT FRAME",
+       85,
+       "cyan"
+      ],
+      [
+       "HEAVY FRAME",
+       50,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "tr",
+     "title": "CORRECTION SPEED"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TRAIN YOUR EDGE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "And here is your edge again. Corrections are a race against your own bodyweight. The lean starts, the sensors fire, and the muscles have to move whatever mass sits above the ankle before the lean wins. A lighter frame gives the loop a head start on every single rep. Heavy guys can build great balance too, but they are paying a tax on every correction that you simply do not pay. This channel exists because of tests like this one: honest numbers where the skinny body is not behind, it is built for the job. Train the nerves the right way, and this becomes one of your showcase numbers, the one that makes bigger guys ask how you did it. And prediction has a beautiful side effect: it frees your attention. Beginners spend all their focus on not falling. Wired balancers chat, look around and breathe while the loop runs itself in the background.",
+   "section": "ANKLE NERVES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "check": 3,
+   "exercise": "BALANCE CORRECTIONS",
+   "music": "drive",
+   "narration": "Train it with me. One foot down. Reach one arm out slowly, come back, reach the other way. Small leans, constant corrections. Thirty seconds a side. Go.",
+   "rest": 10,
+   "rounds": 4,
+   "section": "THE RIGHT WAY",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "STATUE STANDING"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "EYES CLOSED, DAY ONE"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 18,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEAD TURNS"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SLOW REACHES"
+    },
+    {
+     "at": 34,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE FINGERTIP, THEN NONE"
+    },
+    {
+     "at": 39,
+     "kind": "chip",
+     "pos": "br",
+     "text": "2 MIN A DAY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "So here is the right way, as a simple week. Stop doing statue stands and stop doing eyes-closed heroics on day one. Instead, train corrections. Day by day: stand on one leg and turn your head slowly left and right. Reach one arm forward, then out to the side, staying tall. Shift your weight in small circles and catch yourself early. If you need support, one fingertip on the wall, and fewer fingers every few days. Two minutes a day is enough, split however you like. Single-leg calf raises twice a week make the corrections stronger once the signals are fast. That is the whole system: signal first, strength second, difficulty last. In thirty days, the test tells you if it worked, and it will not be subtle. A final detail for your week: finish each mini-session with ten slow seconds on your weaker side, even if the plan says otherwise. The weaker ankle is where falls are born, and it learns fastest precisely because it starts furthest behind.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Under 15: train corrections.",
+      "Over 30: wired."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SIGNAL. THEN STRENGTH."
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Back to your number. Under fifteen: your sensors are asleep and statue training was never going to wake them. Corrections will. Fifteen to thirty: the loop works, it is just slow, and small daily challenges are exactly the medicine. Thirty to sixty: you are wired, and the eyes-closed test is your next mountain. Over sixty: your ankles are an asset most athletes never build. Put your number in the comments, just the number, and retest in thirty days after training the right way. Same foot, same floor, same rules. The difference between the two numbers is the whole lesson of this video. Post the pair at retest, old number and new number together. The gap between them is the most honest progress photo you will ever take.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CORRECTIONS, NOT STATUES"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "COMMENT YOUR NUMBER",
+     "pos": "tl",
+     "text": "BALANCE TEST"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "bl",
+     "text": "TRUST THE NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Two minutes a day. Head turns, reaches, small leans, early catches. That is the homework, and in thirty days your clock will show you a nervous system that learned. Subscribe if you want the tests that reward wiring over size. This is {channel}. Train the cable.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "balance training",
+  "ankle nerves",
+  "proprioception training",
+  "single leg balance",
+  "how to improve balance",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "violet",
+  "asset": "ren_balance_test.webp",
+  "big": "30 SEC",
+  "hook": "TRAIN THE NERVES"
+ },
+ "title": "Stop Doing balance test Wrong: Train Your ankle nerves Instead",
+ "v5": true
+}

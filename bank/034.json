@@ -1,0 +1,391 @@
+{
+ "badge": "EP 34 - THE PUSH-UP TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CABLES",
+  "YOUR NUMBER"
+ ],
+ "description": "Everyone does push-ups, almost nobody does them at full depth. Your strict push-up number grades the chest and triceps tendons that every press depends on. Here is the depth rule that makes the count honest, what your reps reveal about your cables, and the tempo method that turns a schoolyard exercise into tendon training.",
+ "hashtags": [
+  "push-up test",
+  "push-ups",
+  "triceps tendons",
+  "pressing strength",
+  "strict push-ups",
+  "skinny guy fitness"
+ ],
+ "id": "034",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEST TO A FIST"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HALF REPS = HALF TRUTH"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "lines": [
+      "Chest to fist height: one rep.",
+      "Nose-diving does not count."
+     ],
+     "pos": "tr",
+     "title": "THE DEPTH RULE"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 2.4,
+   "music": "dark",
+   "narration": "Place a fist under your chest. | Or a small book. | Hands flat, | body in one line. | Lower down slowly | until your chest | touches the fist. | Press back up | to straight arms. | That is one rep. | No sagging hips. | No half-depth bouncing. | Count clean reps | until you cannot press out | with a straight body. | That number | is your PUSH-UP NUMBER. | It is probably lower | than the number | you tell people. | Almost everyone's is. | The fist does not flatter. | Keep your number. | At the end of this video | I will tell you | what it grades.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 = TRAINED"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "PRESSING TERRITORY",
+     "pos": "br",
+     "text": "50+ REPS"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LOW NUMBER = FAST GAINS"
+    }
+   ],
+   "big": "30 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN CASUAL AND TRAINED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Thirty strict, full-depth push-ups is where casual pressing becomes trained pressing. Under fifteen, the system is untrained and gains come fast. Fifteen to thirty, the muscle endures but the tendons still fade first. Over fifty strict reps, you press on cables that will serve every heavy lift you ever attempt.",
+   "section": "THE NUMBER",
+   "sub": "under 15: untrained system - over 50: pressing territory",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE BOTTOM IS THE TEST"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Deepest angle, longest stretch.",
+      "Tendons load hardest at the bottom."
+     ],
+     "pos": "br",
+     "title": "WHERE FORCE PEAKS"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAGGING = CORE CHECKED OUT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Watch where a strict push-up is actually decided. Not at the top, where the arms are stacked and the load feels light. At the bottom, chest hovering, elbows bent deep, the tendons of your chest and triceps sit stretched under load at their longest working length. That position is the test inside the test. It is where soft tendons fold, where reps turn shaky, and where the body starts hunting for shortcuts like sagging hips or a bouncing chest. Those shortcuts are your core and cables filing a report: the deep position is undertrained. And that is good news, because the bottom position is trainable like everything else. Pause there, load there, own there, and the whole rep transforms. A push-up is not one exercise. It is a chain of angles, and your number is set by the weakest angle you visit. There is also a hidden gift in the strict push-up: it is a moving plank. Every rep forces your deep core to hold your body in one line while your arms work, which means pressing strength and spine stability get trained in the same set. Sloppy push-ups with sagging hips delete that gift entirely. Strict ones collect it on every rep, which is one more reason the honest version of this exercise outperforms the impressive-looking one.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TEMPO EXPOSES THE TRUTH"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "FAST AND SHALLOW",
+       45,
+       "red"
+      ],
+      [
+       "SLOW AND DEEP",
+       30,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "REPS BY HONESTY"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLOW REPS GRADE TENDONS"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Half reps train half the cable.",
+      "Depth plus tempo equals signal."
+     ],
+     "pos": "br",
+     "title": "THE SIGNAL RULE"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Here is the uncomfortable arithmetic of push-ups. A fast, shallow set of forty-five can hide less tendon strength than a slow, deep set of thirty. Speed and short range let momentum and the strongest angles do the work while the weak angles coast. Slow the rep down and deepen it, and there is nowhere left to hide: every angle gets loaded, every cable gets its signal. This is why two people with the same max can have completely different pressing futures. One has been training the full cable for years. The other has been training the top half and a story. Tendons keep the real score, and they only count the reps that reach them. Depth plus tempo is the whole secret, and it costs nothing but honesty.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS BODY TO PRESS"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Push-ups lift about two-thirds of you.",
+      "Lighter frame, cleaner reps."
+     ],
+     "pos": "br",
+     "title": "THE MATH AGAIN"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = PERFECT REPS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "And the skinny math applies here too. A push-up presses roughly two-thirds of your bodyweight. The heavier lifter presses more absolute load, which sounds like an advantage until fatigue arrives and his form dissolves into sagging, bouncing half reps. Your lighter load lets you keep perfect depth and tempo deep into a set, which means more of your reps actually reach your tendons. Quality reps are the currency tendons accept. A lean lifter doing thirty textbook reps deposits more signal than a heavy lifter surviving fifty sloppy ones. The mirror says he is winning. The cables keep a different ledger, and in that ledger, clean reps from a light frame compound faster.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_mid.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "narration": "When strict reps stall, most people add more of the same and stall harder. The smarter move is to change the angle, because your cables adapt to the exact positions you load. Elevate your feet and the top of the chest and the front of the shoulders take a bigger share. Slow the descent to five seconds and the bottom position gets a double dose. Pause with your chest a centimeter off the floor and the weakest angle in the rep becomes the strongest part of your training. Each variation is a different letter sent to the same tendons, and tendons, like muscles, grow bored of one repeated message. Rotate one variation every two weeks while keeping the strict test form untouched, and your monthly retest will keep surprising you. This is the real secret behind people who seem to gain forever on basic exercises: the exercise never changes, but the angle, the tempo, and the pause keep moving the load to fresh tissue.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "CHANGE THE ANGLE",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THREE LEVERS",
+     "lines": [
+      "Feet up: new share of load.",
+      "Slow down: double bottom dose."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "ROTATE EVERY 2 WEEKS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "text": "SAME TEST, FRESH SIGNAL",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Press with me. Three seconds down, pause at the fist, press up strong. Thirty seconds of strict reps, then rest. Four rounds. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "YOUR NUMBER",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PAUSE AT THE BOTTOM"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BOUNCING OFF THE CHEST"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SAGGING HIPS"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ADD 2 REPS A WEEK"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Three sessions of strict sets, always stopping one rep before your form breaks. Every rep takes three seconds down, pauses one heartbeat at the fist, and presses up under control. When thirty strict reps get comfortable, elevate your feet before you chase more reps, because a new angle is a new signal. Three mistakes keep push-ups dishonest. Bouncing off the chest deletes the bottom position, the exact angle your tendons need most. Sagging hips move the load off your pressing cables and onto your lower back. And maxing out every day leaves the slow tissues no time to rebuild between signals. Add about two clean reps a week, keep the depth sacred, and the number takes care of itself. Keep one honest max test per month, performed exactly like your first test, same fist, same tempo rules. Everything else in the month is training; that one set is the audit. When the audit number climbs, the system is working, and when it stalls, change the angle before you change the effort. One more upgrade when the basics are truly yours: weighted push-ups with a loaded backpack, kept at the same strict tempo. Load is the final lever after depth, tempo, and angle are all owned, and pulling it too early is how good form goes to die. Earn the weight with thirty perfect reps, then take it.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "YOUR NUMBER",
+   "card": "bignum",
+   "check": 3,
+   "label": "WHAT YOUR NUMBER MEANS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under fifteen: an untrained pressing system, and strict tempo work will move it within weeks. Fifteen to thirty: the engine is solid and the bottom position is your frontier. Over thirty strict reps with a pause at the fist: you own pressing cables that most lifters never bother to build. Write it down. Retest in thirty days with the same fist under your chest, and put your reps in the comments. Just the number. Depth does not lie.",
+   "section": "YOUR NUMBER",
+   "sub": "under 15: untrained - 15 to 30: building - over 30: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "SAME TEST, NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of honest reps, then the same fist and a bigger number. If this test graded cables you have been flattering, subscribe, because every video here starts with a number and ends with a stronger one. This is {channel}. Train the cable.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "push-ups",
+  "push-up test",
+  "strict push-ups",
+  "triceps tendons",
+  "pressing strength",
+  "push-up form",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_pushup_bottom.webp",
+  "big": "30 REPS",
+  "hook": "YOUR NUMBER SHOWS"
+ },
+ "title": "Stop Doing push-up max Wrong: Train Your chest and triceps tendons Instead",
+ "v5": true
+}

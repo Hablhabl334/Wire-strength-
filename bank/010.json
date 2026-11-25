@@ -1,0 +1,487 @@
+{
+ "badge": "EP 10 - THE PUSH-UP TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE PUSHING CABLES",
+  "YOUR VERDICT"
+ ],
+ "description": "Get down and press: how many clean push-ups can you do in one set? Everyone has a number, and it quietly grades the tendons of your chest and triceps that carry every press. Run the test, learn why your reps die where they do, and get the protocol that turns a skinny guy's push-up into a serious number.",
+ "hashtags": [
+  "push-up test",
+  "how many push-ups",
+  "push-up number",
+  "triceps tendon",
+  "chest tendon",
+  "calisthenics"
+ ],
+ "id": "010",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "JUST THE FLOOR"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CHEST TO FLOOR, FULL LOCKOUT"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "WRITE IT DOWN",
+     "pos": "tr",
+     "text": "YOUR REPS"
+    },
+    {
+     "at": 19,
+     "kind": "fact",
+     "lines": [
+      "Every rep hangs on two cables.",
+      "The clock counts them all."
+     ],
+     "pos": "br",
+     "title": "WHAT THE COUNT GRADES"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 2.4,
+   "music": "dark",
+   "narration": "Get on the floor. | Hands under shoulders. | Body in one line. | Lower your chest | all the way down. | Press all the way up. | That is one. | Count clean reps | in one single set | until your form breaks. | No sagging hips. | No half reps. | That count | is your number. | Got it? | Remember it. | Everyone on earth | has a push-up number, | and almost nobody | knows what | it really measures. | Your chest pushes | through a tendon. | Your arms straighten | through a tendon. | When the reps die, | one of those cables | is usually | the real reason. | Today they get graded.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE SET. NO RESTING."
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "SERIOUS BODYWEIGHT PRESSING",
+     "pos": "br",
+     "text": "60+ REPS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EVERY NUMBER TRAINS UP"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FORM DECIDES THE GRADE"
+    }
+   ],
+   "big": "40 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN ORDINARY AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Forty clean push-ups in one set, chest down, arms locked at the top, body straight throughout. Under fifteen, your pushing system is untrained, whatever your arms look like in a shirt. Fifteen to forty, the muscles work and the cables are learning. Over sixty, you own pressing endurance that most gym members cannot match at any size. Be strict with yourself on form, because the test is only honest at full range. A set of sixty half reps grades nothing but optimism. Your real number, counted cleanly, is the most useful fitness data most people ever collect on themselves.",
+   "section": "THE NUMBER",
+   "sub": "under 15: untrained pushing - over 60: serious pressing endurance",
+   "type": "card"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TRICEPS CABLE"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Triceps straighten the elbow.",
+      "One tendon delivers all of it."
+     ],
+     "pos": "br",
+     "title": "ONE CABLE PER ARM"
+    },
+    {
+     "at": 22,
+     "kind": "stat",
+     "label": "OF BODYWEIGHT PER PRESS",
+     "pos": "br",
+     "text": "~2/3"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CHEST CABLE WORKS TOO"
+    },
+    {
+     "at": 37,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LATE REPS GRADE THE CABLES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Follow the force through one rep. Your hands press the floor with roughly two-thirds of your bodyweight. The chest muscles pull your upper arms across your body, delivering their force through a thick tendon into the arm bone. The triceps straighten your elbows, and every bit of that force funnels through a single tendon behind the elbow. Early reps are easy because the muscles are fresh and the load is shared. Late reps are a different test: the muscles fade, the tempo slows, and the tendons carry a rising share of each press. That burning slowdown near failure is the cables working at their honest limit. It is also why the push-up is such a good tendon test disguised as a fitness test. It loads both pushing cables, near bodyweight, for as many reps as they can organize. The chest tendon has a second, quieter job: it helps stabilize the front of your shoulder while the arm moves, which is why a lifetime of honest push-ups tends to produce shoulders that feel solid in every direction. The push-up is not just a chest exercise wearing a simple costume. It is a full pressing system, wrist to shoulder to trunk, and the test grades the whole assembly line at once, which is exactly what a good test should do.",
+   "section": "THE PUSHING CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHY FORM BREAKS FIRST"
+    },
+    {
+     "asset": "elbow_anatomy_plate.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "FRESH REPS",
+       90,
+       "cyan"
+      ],
+      [
+       "REPS NEAR FAILURE",
+       35,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FORCE PER REP"
+    },
+    {
+     "at": 24,
+     "kind": "stat",
+     "label": "WHERE SETS GO TO DIE",
+     "pos": "tr",
+     "text": "THE BOTTOM"
+    },
+    {
+     "at": 32,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAGGING = SYSTEM OVERLOAD"
+    },
+    {
+     "at": 39,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE BOTTOM BUILDS THE CABLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Watch where sets actually die. Almost nobody fails at the top of a push-up. They fail at the bottom, chest hovering, unable to start the press. That sticking point is where the chest tendon is stretched longest and the triceps cable works at its worst angle. Sagging hips are your nervous system cheating the angle, shortening the lever to survive. None of this is a character flaw. It is physics locating your weakest link with total precision. Training follows from the diagnosis: pause briefly at the bottom of your reps and the weakest position becomes the strongest teacher. Slow negatives load the same spot under control. The bottom of the push-up is where skinny guys quietly build pressing cables that outlast men with far bigger chests. Tempo changes the grade more than people expect. A set done at a steady one-second-down, one-second-up rhythm is a different and harder test than a set bounced through at double speed, even at the same rep count. Momentum is a loan the muscles take from the tendons, and the clock on this channel does not accept borrowed reps. Pick a rhythm, keep it for the whole set, and your number becomes data instead of theater.",
+   "section": "THE PUSHING CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHY MILITARIES TEST IT"
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Slow the reps,",
+      "and the lying stops."
+     ],
+     "pos": "br",
+     "title": "CADENCE TELLS TRUTH"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO EQUIPMENT. NO EXCUSES."
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A NUMBER YOU CAN DEFEND"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is a reason militaries test this exercise and not the bench press. The push-up needs no equipment, no spotter and no setup, scales from a wall to one arm, and grades the exact quality field fitness runs on: moving your own body, repeatedly, under control. Cadence tests in basic training exist because officers learned long ago that raw rep counts invite bouncing and lying. Slow the cadence and the truth comes out. Your test today used the same honesty rules for the same reason. A number you can defend, at a rhythm you can repeat, is worth more than any inflated count, because it is the number your training actually has to beat.",
+   "section": "THE PUSHING CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS WEIGHT PER REP"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "items": [
+      [
+       "LIGHT BODY",
+       85,
+       "cyan"
+      ],
+      [
+       "HEAVY BODY",
+       50,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CLEAN REPS PER SET"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "label": "MORE VOLUME PER WEEK",
+     "pos": "tr",
+     "text": "RECOVERY"
+    },
+    {
+     "at": 30,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "VOLUME BUILDS THE NUMBER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your advantage is, once again, the arithmetic of bodyweight. Two-thirds of a light body is a smaller load than two-thirds of a heavy one, so your cables pay less per rep and recover faster between sets. That means more total quality reps per week, and push-up numbers are built by exactly that: accumulated clean volume. Heavy guys often stall because each max set costs them days. You can practice daily in small doses and watch the count climb like a savings account. There is a reason military and martial arts traditions, full of lean athletes, worship this exercise. It rewards the body that can practice the most. That body is yours. Same exercise, same rhythm, every test: that is what makes thirty-day comparisons worth anything at all.",
+   "section": "THE PUSHING CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Press with me. Forty seconds of clean push-ups, chest down, full lockout, pause a heartbeat at the bottom. Rest and repeat. Go.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "YOUR VERDICT",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HALF REPS"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SAGGING HIPS"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 19,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PAUSE AT THE BOTTOM"
+    },
+    {
+     "at": 29,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SMALL SETS ALL DAY"
+    },
+    {
+     "at": 36,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STOP 2 REPS EARLY"
+    },
+    {
+     "at": 41,
+     "kind": "chip",
+     "pos": "br",
+     "text": "VOLUME IS THE PROGRAM"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The protocol is volume with manners. Mistake one: half reps that never touch the bottom range, skipping the exact position that builds the cables. Mistake two: sagging hips, which is your body voting to quit while your arms keep working. Mistake three: one weekly max set and six days of nothing. Instead, spread small sets through the day, each ending two reps before failure, each rep pausing a heartbeat at the bottom. This is the grease-the-groove method, and push-ups respond to it better than almost any exercise on earth. Your weekly total climbs, your cables adapt to constant quality load, and the max test quietly rises in the background. Test honestly once a week. Train a little every day. One more tool for the toolbox: when a set is going well, finish with three extra slow negatives, lowering for five seconds each after your last full rep. Those final controlled descents load the cables at their freshest fatigue point and are worth more than another sloppy set. Then stop. The program works because you can repeat it tomorrow.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Under 15: cables are new.",
+      "Over 40: wired pressing."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CLEAN REPS ONLY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under fifteen: your pushing cables are beginners, and daily small sets will move you faster than you expect. Fifteen to forty: the system works, and volume is the lever that pushes you over the line. Forty to sixty: you are wired, pressing with endurance most lifters never build. Over sixty: your number is a flex no mirror can argue with. Comment your reps, just the number, clean reps only. Retest in thirty days, same rules, chest down and locked out. When the count jumps, remember what grew: not just muscle. The cables learned to carry you. Post the pair at retest: old reps, new reps. Push-up pairs climb so reliably that this test becomes most people's first proof the system works.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A LITTLE, EVERY DAY"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "COMMENT YOUR NUMBER",
+     "pos": "tl",
+     "text": "PUSH-UP TEST"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "bl",
+     "text": "TRUST THE NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Small sets, full range, a pause at the bottom. That is the whole program, and thirty days of it rewrites your number. Subscribe for the tests that grade what is under the skin. This is {channel}. Train the cable.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "push-up test",
+  "how many push ups",
+  "push up endurance",
+  "triceps tendon strength",
+  "bodyweight pressing",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_pushup_mid.webp",
+  "big": "40 REPS",
+  "hook": "YOUR REAL NUMBER"
+ },
+ "title": "Your Push-Up Number Reveals the Truth About Your chest and triceps tendons",
+ "v5": true
+}

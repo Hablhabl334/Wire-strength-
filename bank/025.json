@@ -1,0 +1,451 @@
+{
+ "badge": "EP 25 - THE JUMP MISTAKES",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEAKS",
+  "YOUR HEIGHT"
+ ],
+ "description": "Your jump is leaking. Five common mistakes drain the spring in your ankle before you ever leave the ground, and most jumpers make at least three of them. Retest your vertical, find your leaks, and fix them in the order that wins the most centimeters.",
+ "hashtags": [
+  "vertical jump",
+  "jump higher",
+  "achilles tendon",
+  "plyometrics",
+  "tendon training",
+  "jump mistakes",
+  "athletic training"
+ ],
+ "id": "025",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME WALL, SAME MARKS"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THIS IS YOUR BEFORE"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Jump once, fresh.",
+      "This number is the baseline."
+     ],
+     "pos": "tr",
+     "title": "THE RETEST"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BEST OF THREE, FULL REST"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Back to the wall. You know this test: reach up, make your first mark, dip, jump, make your second, and measure the distance between them. Run it the same way as always, because today this number is not the verdict. It is the before picture. Take three attempts with a full minute of rest between them and keep the best one. That is the jump your current technique produces with your current spring. Now here is the promise of this video. Between that spring and that number, there are leaks, places where energy you already own escapes before it can become height. Most jumpers have at least three of the five leaks I am about to show you. Fix them in the right order, and the same legs, with the same muscles, will post a bigger number within weeks, before the tendon itself has even changed.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "5 LEAKS, ONE SPRING"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TECHNIQUE GAINS COME FIRST"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "THE TYPICAL COST OF ALL FIVE",
+     "pos": "tr",
+     "text": "5-10 CM"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FREE CENTIMETERS, NO NEW MUSCLE"
+    }
+   ],
+   "big": "+10 CM",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHAT THESE LEAKS ARE COSTING YOU",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is what is at stake. Added together, the five leaks in this video typically cost a jumper five to ten centimeters. That is not a rounding error. That is the entire gap between an average vertical and a springy one, hiding inside technique you already have the strength to fix. This is also why leak repair comes before spring building in any smart order of operations. Tendon stiffness takes months to grow. A leak can be closed in a single session, the moment you understand where the energy was going. Think of it like a bucket with holes. Yes, you could spend months carrying more water. Or you could spend one afternoon patching holes and keep the water you already carry. Today we patch holes. The spring training from the earlier episode still matters, but it matters second.",
+   "section": "THE NUMBER",
+   "sub": "fix all five: most jumpers gain 5-10 cm in a month",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ENERGY DECAYS AS HEAT"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Stretch the spring, use it fast.",
+      "Wait, and the power fades."
+     ],
+     "pos": "br",
+     "title": "THE CLOCK INSIDE THE SPRING"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FAST DIP, FAST RETURN"
+    },
+    {
+     "at": 27,
+     "kind": "stat",
+     "label": "HOW LONG THE SPRING HOLDS ITS CHARGE",
+     "pos": "br",
+     "text": "~1 SEC"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY PAUSE IS A WITHDRAWAL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "To understand the leaks, understand the spring's one weakness. When you dip down, your Achilles stretches and stores elastic energy. But that energy is not stored like money in a bank. It decays, bleeding off as heat and tissue creep, and within about a second a large share of it is simply gone. The spring is a battery with a terrible shelf life. Jump the instant the dip ends and you spend the full charge. Pause at the bottom to gather yourself, admire the view, or bounce twice, and you jump on whatever charge remains, which is a fraction of what you loaded. Almost every leak in this video is a version of this single crime: giving the spring time, or a detour, to lose its charge. Keep that picture in your head, a battery draining in real time, and the five fixes will feel less like coaching tips and more like physics.",
+   "section": "THE LEAKS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ARMS ARE FREE CENTIMETERS"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "ALL 5 LEAKS",
+       60,
+       "red"
+      ],
+      [
+       "LEAKS FIXED",
+       100,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "JUMP HEIGHT INDEX"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SWING ADDS REAL HEIGHT"
+    },
+    {
+     "at": 29,
+     "kind": "fact",
+     "lines": [
+      "Arms swing, body follows.",
+      "Dead arms tax the legs."
+     ],
+     "pos": "br",
+     "title": "THE UPPER BODY SHARE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "One leak deserves its own scene because jumpers never believe it: your arms. A vigorous, well-timed arm swing contributes a real, measurable share of jump height, commonly around ten percent, by pulling the body upward at takeoff and loading the legs harder during the dip. Jump with your arms hanging dead, or pinned stiffly at your sides, and your legs must produce that missing share alone. They cannot, so the mark drops. The fix is embarrassingly simple. Reach down as you dip, then throw both arms up violently as you jump, reaching for the mark with intent. Sprinters and volleyball players drill this until it is automatic. Most casual jumpers have never been told it exists, and they leave free centimeters on the table every single attempt. When we list the five leaks shortly, count the arm swing as leak number three, and fix it first if it is yours, because it pays instantly.",
+   "section": "THE LEAKS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RECYCLE, DO NOT RECREATE"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Land, load, launch.",
+      "One motion, no waiting."
+     ],
+     "pos": "br",
+     "title": "THE REBOUND SYSTEM"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "QUIET FEET = KEPT ENERGY"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "LOUD LANDINGS ARE LEAKS YOU CAN HEAR"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "There is a deeper principle under all five leaks, and athletes in every jumping sport live by it. Your body prefers to recycle energy rather than create it. Land from a jump and the Achilles loads like a spring being wound by your own falling weight. Take off again instantly and that wound energy joins the new jump for free. Wait, stomp, or land flat and stiff, and the energy dies as sound and heat in your shoes. Watch how sprinters and basketball players move between efforts: quiet feet, instant rebounds, nothing wasted. They are not being stylish. They are running an energy recycling system, and the system only works when the timing is tight and the contacts are soft. Every drill in your training week exists to tune that system. The wall test simply measures how well yours is tuned today.",
+   "section": "THE LEAKS",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TECHNIQUE SHOWS UP FAST ON YOU"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LESS MASS HIDES FEWER ERRORS"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "RETURN ON A FIXED LEAK",
+     "pos": "tr",
+     "text": "2X"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LIGHT JUMPERS PATCH FASTER"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR ERRORS ARE CHEAP TO FIX"
+    }
+   ],
+   "check": 2,
+   "music": "drive",
+   "narration": "Here is why this episode favors you specifically. Leaks are percentage crimes. They steal a share of whatever your spring produces. On a heavy jumper, a fixed leak is buried under the sheer cost of moving his mass, and the improvement hides inside his noise. On you, the spring's whole output goes toward a light load, so every recovered percent shows up on the wall as clean, visible centimeters. Your technique errors are also cheaper to retrain. Lighter limbs are easier to re-time, re-angle and re-swing, and your nervous system can rehearse far more quality jumps per session before fatigue smears the pattern. The big guy needs months of spring building to gain what you can gain this month by patching holes. Different bodies, different fastest road. Yours runs through technique first, and that road is short.",
+   "section": "THE LEAKS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "COUNTER JUMPS",
+   "music": "drive",
+   "narration": "Now jump with me, leak-free. Quick shallow dip, arms thrown up, land quiet like a cat. Fifteen seconds of perfect jumps, forty-five seconds of rest, five rounds. Go.",
+   "rest": 45,
+   "rounds": 5,
+   "section": "YOUR HEIGHT",
+   "type": "timer",
+   "work": 15
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "LEAK 1: THE DEEP SLOW DIP"
+    },
+    {
+     "asset": "ren_jump_peak.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "LEAK 2: THE PAUSE AT THE BOTTOM"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "LEAK 3: DEAD ARMS"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "LEAK 4: THE LOUD FLAT LANDING"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "LEAK 5: TESTING TIRED"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here they are, the five leaks, in the order they drain you. Leak one: the deep, slow dip. Sinking into a full squat takes so long that the spring's charge decays before you use it. Dip shallow and quick, a quarter squat at most. Leak two: the pause at the bottom. Even half a second of gathering yourself is a withdrawal from the battery. The dip and the jump are one motion, down and up like a bouncing ball. Leak three: dead arms, which we covered, worth around ten percent by itself. Leak four: the loud, flat landing. Landing stiff and noisy means your springs are not recycling energy, and it trains your body to distrust the bounce. Land quiet, through the forefoot, ready to rebound. Leak five: testing tired and jumping every day. Max jumps are a skill performed fresh. A fatigued test measures your fatigue, and daily max attempts leave the spring too drained to adapt. Fix them in order, one per week, and retest between each fix.",
+   "section": "YOUR HEIGHT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME LEGS, BIGGER NUMBER"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN THE FULL RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Leaks fixed: the spring shows.",
+      "Then we build the spring itself."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number, the before picture. Whatever it says today, it is not your spring's report card yet. It is your spring plus your leaks, and the leaks are the cheap part. If you found three or more leaks in your jumping, and most people do, your honest expectation is a visibly higher mark within a month without gaining a gram of muscle. If you found only one, congratulations, your technique is already clean and your road is the slower spring-building one. Either way, put your number in the comments, and tell us how many leaks you caught. In thirty days we return to this wall, patch-check every fix, and then start the longer work of building the spring itself.",
+   "section": "YOUR HEIGHT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME WALL. HIGHER MARK."
+    },
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUBSCRIBE FOR THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wall, same marks, higher line. Subscribe so you do not miss the retest, and bring your patched spring. This is {channel}. Train the cable.",
+   "section": "YOUR HEIGHT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "vertical jump mistakes",
+  "jump higher",
+  "achilles stiffness",
+  "jump training",
+  "plyometrics mistakes",
+  "calisthenics",
+  "vertical test",
+  "skinny athlete"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "+10 CM",
+  "hook": "FIX THE LEAKS"
+ },
+ "title": "5 vertical jump Mistakes That Are Destroying Your Achilles stiffness",
+ "v5": true
+}

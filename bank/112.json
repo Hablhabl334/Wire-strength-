@@ -1,0 +1,483 @@
+{
+ "badge": "EP 112 - THE LEDGE HANG TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE PULLEYS",
+  "YOUR TIME"
+ ],
+ "description": "Climbers trust their lives to a system of tiny pulleys inside their fingers, and you have the same system, untrained. Today you hang from a thin edge, get your number, and learn why the smallest hardware in your hand decides the biggest grips you own.",
+ "hashtags": [
+  "finger hang",
+  "pulleys",
+  "tendon training",
+  "climbing grip",
+  "calisthenics"
+ ],
+ "id": "112",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIND A THIN, STURDY EDGE"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FINGERTIPS ONLY, OPEN HAND"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "UNTIL YOU SLIP OFF",
+     "pos": "tr",
+     "text": "YOUR TIME"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "lines": [
+      "No thumb lock. No palm.",
+      "Just fingers on the edge."
+     ],
+     "pos": "br",
+     "title": "THE EDGE IS THE EXAM"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMEMBER YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Find a thin edge. | A door frame top, | a sturdy shelf, | anything your fingertips grip. | Fingers only on it. | Open hand, relaxed thumb. | No palm helping you. | Now lift your feet | and start the clock. | Hold until you slip. | That time is yours. | It will feel short. | Shorter than the bar hang. | That is the point. | The thin edge removes | every comfortable lie. | Write your number down. | Before this video ends | I will tell you | what it reveals about | the smallest hardware | in your entire hand. | Hardware climbers trust | with their whole lives.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHORT = UNTRAINED, NOT BROKEN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "CLIMBER TERRITORY",
+     "pos": "br",
+     "text": "30+ SEC"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE EDGE GRADES HARDER"
+    }
+   ],
+   "big": "15 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE ON A THIN EDGE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, and it is humbler than the bar hang line. Fifteen seconds on a thin edge is where untrained fingers end and climbing hardware begins. Under eight, your finger pulleys have never been loaded on purpose, and they are the standard factory model. Over thirty, you hold what recreational climbers build over seasons of deliberate work. Do not compare this number to your bar hang and feel worse. The edge is a harder exam on purpose. It removes the palm, removes the thumb's help, and asks the pulley system one question with nowhere to hide.",
+   "section": "THE NUMBER",
+   "sub": "under 8: factory model fingers - over 30: climber territory",
+   "type": "card"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR TENDONS RUN THROUGH PULLEYS"
+    },
+    {
+     "asset": "forearm_anatomy_plate.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Ligament pulleys pin the tendon",
+      "against the bone, joint by joint."
+     ],
+     "pos": "br",
+     "title": "THE PULLEY SYSTEM"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO PULLEY, NO GRIP"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 26,
+     "kind": "swap"
+    },
+    {
+     "at": 31,
+     "kind": "stat",
+     "label": "PULLEYS PER FINGER",
+     "pos": "br",
+     "text": "5"
+    },
+    {
+     "at": 36,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SMALL PARTS, TOTAL RESPONSIBILITY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the anatomy that makes climbers obsessive. The tendon that closes your finger runs from your forearm all the way to the fingertip, and along the finger it passes through a series of small ligament rings called pulleys. Their job is simple and total: they pin the tendon tight against the bone, so when the tendon pulls, the finger curls instead of the tendon lifting away like a bowstring. Without the pulleys, your grip would be weak no matter how strong the forearm engine was, because the force would leave the system at every joint. Each finger has five main pulleys, and the middle ones carry enormous loads in a hang. On a thick bar, your palm and skin share the work and the pulleys get an easy day. On a thin edge, the load concentrates exactly where the pulleys live. That is why climbers, whose sport is this exact problem, talk about their fingers the way engineers talk about rigging. Your ledge hang is a rigging inspection. The seconds you hold are the pulleys reporting their condition.",
+   "section": "THE PULLEYS",
+   "type": "art"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "OPEN HAND VS CRIMP"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Open hand shares the load.",
+      "The crimp concentrates it."
+     ],
+     "pos": "br",
+     "title": "TWO GRIPS, TWO EXAMS"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "items": [
+      [
+       "OPEN HAND",
+       45,
+       "cyan"
+      ],
+      [
+       "FULL CRIMP",
+       95,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "LOAD ON THE MIDDLE PULLEY"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN OPEN FIRST"
+    },
+    {
+     "at": 34,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EARN THE CRIMP LATER"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "There are two ways to hold an edge, and the difference matters. The open hand, which this test uses, drapes the fingers over the edge with the joints extended, sharing the load across the whole system. The crimp, which climbers use on tiny holds, folds the fingers and wraps the thumb over the top, multiplying force and multiplying pulley load with it. The crimp is powerful and it is the grip that injures people, because it asks the middle pulley to hold loads it was never gradually prepared for. So the rule on this channel is simple. We train and test open-handed, always, until the base system is strong. The open hand builds the same pulleys at sane loads, and it has a wonderful side effect: it makes your everyday grip feel superhuman, because daily life is almost entirely open-hand work. Earn the boring grip first. The dramatic one can wait until the hardware deserves it.",
+   "section": "THE PULLEYS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINGERS ADAPT LIKE CLIMBERS' DO"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "lines": [
+      "Studies of climbers show",
+      "thicker tendons and pulleys."
+     ],
+     "pos": "br",
+     "title": "THE CLIMBER EVIDENCE"
+    },
+    {
+     "at": 22,
+     "kind": "stat",
+     "label": "OF DELIBERATE FINGER TRAINING",
+     "pos": "tr",
+     "text": "SEASONS"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOUR HANDS HAVE THE SAME BLUEPRINT"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Here is the hopeful science. When researchers image the hands of experienced climbers, they find exactly what this channel predicts: thicker finger tendons, stronger pulley tissue, and bones that have remodeled around the loads. The human finger is not a finished product. It is a system that rebuilds itself around whatever you repeatedly ask of it. Climbers are not born with different hands. They are ordinary hands that received an extraordinary signal, a few times a week, for years. That is the most encouraging fact in this whole series for a skinny guy. You do not need a climber's body to build a climber's fingers. You need a climber's patience, applied to an edge, at loads your current hardware can survive. The blueprint is already installed in your hands. It is just waiting for the signal. And the signal does not need to be dramatic. In the studies of finger training that climbers actually use, the winning programs look almost boring from the outside: short hangs, long rests, a handful of sessions a week, progressed by seconds across months. The tissue cannot tell the difference between a famous protocol and a consistent one. It only counts load and time. Give it both, patiently, and the inspection numbers climb.",
+   "section": "THE PULLEYS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS WEIGHT ON THE SAME PULLEYS"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "LIGHT",
+       16,
+       "cyan"
+      ],
+      [
+       "HEAVY",
+       10,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "EDGE HANG, FIRST TEST (SEC)"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Your full weight, divided by",
+      "eight small pulley systems."
+     ],
+     "pos": "tr",
+     "title": "YOUR WEIGHT IS THE LOAD"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SKINNY = SAFER FINGER TRAINING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the skinny advantage, and on the edge it is a safety advantage, the best kind. A finger hang loads your pulleys with your bodyweight, all of it, divided across eight small systems. For a heavy man, a beginner's hang is already a near-injury load, which is why big guys tear up their fingers when they copy climber training. For you, the same hang is a firm but survivable signal. You can train the exact system climbers train, at a fraction of the risk, simply because the load hanging off your pulleys is smaller. Lightness is not the reason your fingers are weak. It is the reason you can afford to make them strong.",
+   "section": "THE PULLEYS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "check": 3,
+   "exercise": "LEDGE HANG",
+   "music": "drive",
+   "narration": "Now we load the pulleys together. Fingertips on the edge, open hand, feet up. Twelve seconds. Long rest, shake the hands, go again. Four rounds. Stop two seconds before you would slip. The hardware sets the schedule. Go.",
+   "rest": 48,
+   "rounds": 4,
+   "section": "YOUR TIME",
+   "type": "timer",
+   "work": 12
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REST DAYS ARE TRAINING DAYS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "CRIMPING AS A BEGINNER"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ADDING WEIGHT IN WEEK ONE"
+    },
+    {
+     "at": 27,
+     "kind": "fact",
+     "lines": [
+      "Open hand. Bodyweight only.",
+      "Progress is seconds, not kilos."
+     ],
+     "pos": "br",
+     "title": "THE PULLEY RULES"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "+1 SECOND A WEEK"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. The four rounds you just did, three days a week maximum, with full rest days between, because pulley tissue rebuilds slower than your motivation recovers. Now the mistakes, and fingers forgive less than any other system in this series. Mistake one: crimping. Thumb over the top, fingers folded. That grip is off limits until you own thirty open-hand seconds. Mistake two: adding weight early. Your bodyweight is the program. When fifteen seconds becomes forty, the edge gets thinner, never the belt heavier. Mistake three: ignoring a tender pulley that stays sore into the next day. Back off a full level, and if finger pain persists, see a professional before you hang again. One second a week is the pace. It sounds like nothing, and it is exactly how climbers are made.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNWIRED, NOT WEAK"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SECONDS"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Under 8: factory model.",
+      "Over 30: climber territory."
+     ],
+     "pos": "br",
+     "title": "YOUR VERDICT"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST - SAME EDGE, OPEN HAND",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under eight seconds: factory model fingers, never loaded on purpose, and now they finally have a program. Eight to fifteen: the pulleys are waking up and the edge is getting friendlier. Over fifteen: trained hardware, ahead of almost every man you know. Over thirty: climber territory, and your smallest parts are officially your strongest argument. Put your seconds in the comments. Just the number. In thirty days we come back to this same edge, open-handed, and inspect the rigging again.",
+   "section": "YOUR TIME",
+   "sub": "comment your seconds below - then beat them",
+   "type": "card"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "label": "THE RETEST",
+     "pos": "tr",
+     "text": "DAY 30"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now the edge will still be thin, but the hardware holding you to it will not be the same. Subscribe so the retest finds you, and leave today's seconds in the comments where you cannot hide from them. This is {channel}. Train the cable.",
+   "section": "YOUR TIME",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "finger hang",
+  "finger pulleys",
+  "climbing grip",
+  "tendon training",
+  "finger strength",
+  "grip strength",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_grip_closeup.webp",
+  "big": "15 SEC",
+  "hook": "THIN EDGE ONLY"
+ },
+ "title": "Your Finger Hang Time Reveals Your Hidden Strength",
+ "v5": true
+}

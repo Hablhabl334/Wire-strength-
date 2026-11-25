@@ -1,0 +1,386 @@
+{
+ "badge": "EP 28 - THE CALF RAISE TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SPRING",
+  "YOUR NUMBER"
+ ],
+ "description": "One leg, one step edge, and a slow count. Your single-leg calf raise number reveals whether your Achilles tendon is a stiff spring or a loose rope. Here is what your reps say about the strongest tendon in your body, and the tempo that turns it into a spring.",
+ "hashtags": [
+  "calf raise test",
+  "achilles tendon",
+  "calf strength",
+  "tendon training",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "id": "028",
+ "scenes": [
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG. ONE STEP."
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Full stretch at the bottom.",
+      "Full height at the top."
+     ],
+     "pos": "br",
+     "title": "THE RULES"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NO BOUNCING"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand on the edge of a step. One foot only, heel hanging off the back, fingertips on a wall for balance. Lower your heel below the step slowly, then press up as high as you can go. That is one rep. Count clean reps until your heel cannot reach full height anymore. No bouncing at the bottom, no half reps at the top. The number you finish with is your SINGLE-LEG CALF RAISE NUMBER. Most people are stunned by how fast one leg runs out, even people who train calves with two legs every week. The gap between your two legs together and one leg alone is not a muscle gap. It is a tendon gap. Keep your number. At the end, I will tell you what it says about the strongest tendon you own.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "25 = TRAINED"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "SPRING TERRITORY",
+     "pos": "br",
+     "text": "40+ REPS"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A LOW NUMBER IS DATA"
+    }
+   ],
+   "big": "25 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN ROPE AND SPRING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twenty-five clean reps on one leg is where a normal calf becomes a trained one. Under ten, the system is untrained and the spring is slack. Ten to twenty-five, the muscle works but the tendon is still soft. Over forty with a pause at the top, you own a spring that most bigger guys never build.",
+   "section": "THE NUMBER",
+   "sub": "under 10: untrained spring - over 40: spring territory",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THICKEST TENDON YOU OWN"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "It can handle over a ton of force.",
+      "It returns energy with every step."
+     ],
+     "pos": "br",
+     "title": "THE ACHILLES"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MUSCLE PULLS. TENDON LAUNCHES."
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the back of your ankle. Running down into your heel is the Achilles tendon, the thickest and strongest tendon in your entire body. Your calf muscle is only the engine. This tendon is the transmission. When you walk, run, or jump, the calf pulls, the tendon stretches like a loaded spring, and then it snaps back and returns most of that energy for free. A stiff tendon returns energy fast and wastes nothing. A soft, untrained tendon stretches too far, returns energy late, and leaks force with every step. That leak is what your test just measured. When your reps died early, your muscle was not empty. Your spring had gone slack, and a slack spring cannot pass force no matter how hard the engine pulls. This is why some small calves out-jump huge ones. One more fact about this tendon. It is not just a cable, it is a battery saver. Every step you take, the Achilles stores part of the landing energy and returns it to push you forward, which is a large reason walking costs humans so little energy compared to other animals. A stiffer, healthier spring makes every mile cheaper. Runners with efficient springs literally spend less energy at the same speed, which is tendon stiffness paying a dividend on every single stride.",
+   "section": "THE SPRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TEMPO IS THE DIAL"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "FAST REPS",
+       8,
+       "red"
+      ],
+      [
+       "SLOW REPS",
+       25,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME MUSCLE, DIFFERENT SIGNAL"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLOW = TENDON SIGNAL"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Collagen rebuilds between sessions.",
+      "Stiffness is built, not born."
+     ],
+     "pos": "br",
+     "title": "THE BUILD RULE"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Here is the detail that changes everything. Tendon does not respond to the same training as muscle. Muscle loves fast, heavy, exhausting work. Tendon rebuilds its collagen when load is held and moved slowly, giving the fibers time under real tension. Bounce your calf raises and the muscle does the work while the tendon rides along. Slow the rep down, three seconds up and three seconds down, and the tendon finally receives the signal to rebuild itself stiffer. Researchers who study tendons keep landing on the same point: the stiffness is trainable at almost any age, but only with patient, progressive load. Your test number is not a verdict on your genetics. It is a reading of how much slow loading your spring has received, which is a number you control completely.",
+   "section": "THE SPRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS WEIGHT ON THE SPRING"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Same tendon size, lighter load.",
+      "More quality reps per session."
+     ],
+     "pos": "br",
+     "title": "THE LIGHT ADVANTAGE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = MORE REPS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "And here is your advantage, because there is one. A calf raise lifts your entire body on one tendon. The heavier the body, the fewer clean reps before the spring fades. You carry less weight into every single rep, which means more quality reps per session, more slow-loading signal per week, and faster stiffness gains than the heavy guy grinding out sloppy doubles. This is the hidden tax big lifters pay on every bodyweight test, and the hidden discount you get. The spring does not care how your calves look in shorts. It only knows load, tempo, and time. On all three, a light frame is a training advantage, if you use it on purpose.",
+   "section": "THE SPRING",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_achilles_profile.webp",
+   "section": "THE SPRING",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now, the story your two legs tell separately. Almost everyone has one spring tighter than the other, and your test exposes it instantly when you run it on both sides. A gap of a few reps is completely normal. A gap of ten or more is a warning: one tendon is doing less work, which means the other is doing more, in every run and every jump you take. Imbalances like that are where overuse problems quietly begin, months before anything hurts. The fix is not complicated. Always start calf work with the weaker leg, match its reps exactly with the stronger one, and never let the strong side do extra. Within a couple of months the gap usually closes, and both springs end up stiffer than the strong one was. Symmetry is not vanity. For tendons, symmetry is load management, and load management is how cables survive decades of training. Your future knees and ankles will thank you for catching the gap early, while it is still just a number and not yet a pain.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "TEST BOTH SIDES",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THE GAP RULE",
+     "lines": [
+      "A few reps: normal.",
+      "Ten or more: fix it first."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "WEAK SIDE FIRST",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "text": "SYMMETRY = SAFETY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "check": 3,
+   "exercise": "SINGLE-LEG CALF RAISE",
+   "music": "drive",
+   "narration": "Train with me. One leg, three seconds up, three seconds down. Forty seconds of work, short rest, three rounds. Slow is the point. Go.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "YOUR NUMBER",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "3 SECONDS UP, 3 DOWN"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BOUNCING = MUSCLE ONLY"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SKIP THE STRETCH PAUSE"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BOTH LEGS, EVERY WEEK"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Three sessions, both legs, always the weaker leg first. Every rep follows the same tempo: three seconds up, a full stop at the top, three seconds down into a deep stretch. When twenty-five slow reps get easy, hold a backpack or a water jug to add load. Three mistakes undo most people. Bouncing out of the bottom turns the set into muscle work and starves the tendon. Skipping the bottom stretch removes the exact position where the tendon loads hardest. And training calves only when you remember them gives the collagen no consistent signal to rebuild. Tendons adapt slower than muscles, so judge this in weeks, not days. Steady tempo, steady weeks, and the spring tightens on schedule. Track the two legs as separate athletes. Write down each side's number every week, and let the weaker side set the volume for both. The day both sides match at twenty-five slow reps, your springs are not just stronger, they are balanced, and balanced springs are the ones that last for years.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "YOUR NUMBER",
+   "card": "bignum",
+   "check": 3,
+   "label": "WHAT YOUR NUMBER MEANS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under ten: your spring is untrained, and slow reps will move you faster than you expect. Ten to twenty-five: the engine is fine and the transmission is catching up. Over twenty-five with a pause at the top: you are building a spring most people will never own. Write your number down. Retest in thirty days at the same tempo, and put your reps in the comments. Just the number. Springs do not lie.",
+   "section": "YOUR NUMBER",
+   "sub": "under 10: untrained - 10 to 25: building - over 25: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "SAME TEST, NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of slow reps, then the same step and the same count. If this test showed you a spring you have been neglecting, subscribe, because every video here starts with a number and ends with a stronger one. This is {channel}. Train the cable.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "calf raises",
+  "achilles tendon",
+  "single leg calf raise",
+  "calf strength test",
+  "tendon training",
+  "bodyweight strength",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_calf_raise.webp",
+  "big": "25 REPS",
+  "hook": "ONE LEG TELLS ALL"
+ },
+ "title": "Stop Doing calf raises Wrong: Train Your Achilles tendon Instead",
+ "v5": true
+}

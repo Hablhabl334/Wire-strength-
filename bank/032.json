@@ -1,0 +1,386 @@
+{
+ "badge": "EP 32 - THE PLANK TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE WIRING",
+  "YOUR TIME"
+ ],
+ "description": "The plank is not an ab exercise, it is a wiring test. Your plank time shows whether your deep core nerves fire fast enough to keep your spine safe under load. Here is the form that makes the clock honest, what your seconds say about your nervous system, and the drill that switches your core on.",
+ "hashtags": [
+  "plank test",
+  "core strength",
+  "deep core",
+  "nerve training",
+  "plank time",
+  "skinny guy fitness"
+ ],
+ "id": "032",
+ "scenes": [
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ELBOWS DOWN. CLOCK ON."
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Hips sag or rise: time over.",
+      "One straight line is the test."
+     ],
+     "pos": "br",
+     "title": "THE LINE RULE"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SAGGING = SYSTEM OFF"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Elbows under your shoulders, forearms flat, legs straight behind you. Press the floor away and make one straight line from your head to your heels. Start your clock. The moment your hips sag toward the floor or pike up toward the ceiling, your time is over. That is your PLANK TIME. Most people quit this test long before their muscles are truly empty, and that is the first clue about what the plank actually measures. It is not an ab contest. It is a wiring test. Your deep core is run by nerves that must fire in the right order, hundreds of times a minute, to keep your spine in line. When the wiring tires, the line breaks, and the clock stops. Keep your number. At the end, I will tell you what it says about your nervous system.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "2 MIN = WIRED"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "ELITE WIRING TERRITORY",
+     "pos": "br",
+     "text": "4+ MIN"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EARLY SAG = UNTRAINED NERVES"
+    }
+   ],
+   "big": "2 MIN",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN OFFLINE AND ONLINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Two minutes in one unbroken line is where a casual core becomes a wired one. Under one minute, the deep system is untrained and switches off early. One to two minutes, the signal works but fades under fatigue. Past four minutes with perfect form, your wiring holds a standard most gym cores never reach.",
+   "section": "THE NUMBER",
+   "sub": "under 1 min: system offline - over 4 min: elite wiring",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEEP MUSCLES FIRE FIRST"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Deep core fires before you move.",
+      "That timing is trainable."
+     ],
+     "pos": "br",
+     "title": "THE FIRING ORDER"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SPINE SAFETY IS A TIMING GAME"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the wiring under the surface. Wrapped around your spine are deep, small muscles that most people never see in the mirror. Their job is not to move you. Their job is to fire a fraction of a second before you move, bracing each segment of your spine like hands steadying a stack. Researchers found this firing order years ago: in a healthy system, the deep core switches on first, then the big surface muscles move the load. In an untrained or tired system, the order scrambles. The big muscles yank first and the stabilizers arrive late, and that delay is when backs get hurt. Your plank is a live reading of that timing. The moment your line broke, your stabilizers were not out of strength. They were out of coordination. And coordination, unlike raw size, is pure nervous system, and nervous systems learn fast. There is a simple test-within-the-test that proves the wiring point. Mid-plank, lift one foot a few centimeters off the floor. If your hips instantly twist and drop, your deep system was barely holding the pattern with four supports. A wired core barely notices the missing foot. That tiny lift is the difference between a brace that looks right and a brace that actually works under real, uneven loads.",
+   "section": "THE WIRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_sag.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SAG IS A SIGNAL DROP"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "SURFACE ABS",
+       60,
+       "red"
+      ],
+      [
+       "DEEP CORE ON",
+       150,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SECONDS BY SYSTEM"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FORM BREAK = DATA, NOT FAILURE"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Short perfect holds beat long sloppy ones.",
+      "The nervous system learns the pattern you repeat."
+     ],
+     "pos": "br",
+     "title": "THE LEARNING RULE"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Here is why the sag matters more than the seconds. When your hips dropped, your deep system stopped firing in sequence, and your body folded at the exact segment that lost its brace. A sloppy extra minute after that point teaches your nerves the wrong pattern, holding a broken line with the wrong muscles. Short, perfect holds teach the opposite lesson. This is the core principle of nerve training: the nervous system automates whatever you repeat, right or wrong. Ten perfect twenty-second planks wire the firing order deeper than one ugly three-minute survival. Your test time is not a character grade. It is a snapshot of how long your wiring can hold its pattern under load, and patterns are the fastest thing in fitness to improve.",
+   "section": "THE WIRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO BULK TO BRACE WITH"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Big lifters brace with mass.",
+      "You brace with timing alone."
+     ],
+     "pos": "br",
+     "title": "THE LEAN ADVANTAGE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = PURE SIGNAL"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Here is the skinny advantage in this test, and it is a strange one. Heavy lifters can fake core stability with mass, bracing a big torso against a belt and momentum. You cannot fake anything. With less mass to hide behind, your plank is a pure reading of firing order, the cleanest possible feedback. That purity is a training gift. Every wobble tells you the truth instantly, every perfect hold reinforces the exact pattern your spine needs, and your nervous system gets cleaner information per rep than a bulky lifter ever receives. The guys who look like they have core strength often have core assistance. Yours, when it comes, will be the real system, wired in properly, and it will protect every lift you ever do.",
+   "section": "THE WIRING",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "THE WIRING",
+   "check": 2,
+   "music": "dark",
+   "narration": "Let me show you where this wiring pays rent outside the plank. Every time you lift something heavy, catch yourself from a stumble, or get bumped in sport, your deep core faces the same exam: fire first, in order, or let the spine take the hit. People with wired systems pass that exam thousands of times a year without thinking about it. People with scrambled firing order fail it occasionally, and the failures are called tweaks, pulls, and bad backs. This is why physiotherapists who treat back pain so often end up teaching the same lesson this test grades: not bigger abs, but earlier, better-timed deep ones. The plank is the simplest classroom for that lesson ever invented. No equipment, no movement, nothing to hide behind, just your nervous system holding a line while a clock grades its timing. Train the timing here, and it follows you into every lift, every sprint, and every awkward box you will ever carry up a flight of stairs.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "FIRE FIRST, MOVE SECOND",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THE DAILY EXAM",
+     "lines": [
+      "Every lift tests the order.",
+      "Wired systems pass silently."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "TIMING OVER SIZE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "text": "THE SIMPLEST CLASSROOM",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "check": 3,
+   "exercise": "PLANK",
+   "music": "drive",
+   "narration": "Hold with me. One straight line, breathe slow, ribs down. Forty seconds on the clock, perfect form only. If the line breaks, reset and rejoin. Go.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "YOUR TIME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHORT PERFECT HOLDS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SAGGING SURVIVAL MINUTES"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HOLDING YOUR BREATH"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BREATHE BEHIND THE BRACE"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Five short sessions of perfect holds: sets of half your max time, stopped the second the line wavers, resting fully between sets. Breathe slowly the whole time, because a brace you cannot breathe behind is useless in real lifting. Three mistakes keep cores offline. Grinding through sagging minutes wires the broken pattern deeper. Holding your breath turns the hold into a pressure trick instead of a stability skill. And planking once a week gives the nervous system too little practice to automate anything. Nerves learn by frequency, not by suffering. Short holds, perfect lines, most days. Within weeks the firing order becomes automatic, and automatic is the whole point: a core that switches on by itself, before every movement, for the rest of your training life. Add one variation when straight planks get easy: the long-lever plank, walking your elbows a few centimeters forward. The line gets dramatically harder to hold without adding a single second, and the deep system gets a louder signal per set. Harder positions, not just longer ones, are how wiring keeps improving after the first month.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "YOUR TIME",
+   "card": "bignum",
+   "check": 3,
+   "label": "WHAT YOUR NUMBER MEANS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under one minute: the deep system is offline, and short perfect holds will switch it on within weeks. One to two minutes: the wiring works and now needs endurance. Over two minutes in one unbroken line: you hold a core standard that protects everything else you train. Write it down. Retest in thirty days with the same strict line rule, and put your seconds in the comments. Just the number. Wiring does not lie.",
+   "section": "YOUR TIME",
+   "sub": "under 1 min: offline - 1 to 2 min: building - over 2 min: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "SAME TEST, NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of perfect lines, then the same clock and a longer hold. If this test showed you a system that has been offline, subscribe, because every video here starts with a number and ends with a stronger one. This is {channel}. Train the cable.",
+   "section": "YOUR TIME",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "plank",
+  "plank test",
+  "core strength",
+  "deep core muscles",
+  "nerve training",
+  "spine stability",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "violet",
+  "asset": "ren_plank_hold.webp",
+  "big": "2 MIN",
+  "hook": "IS YOUR CORE ON"
+ },
+ "title": "Stop Doing plank hold Wrong: Train Your deep core nerves Instead",
+ "v5": true
+}

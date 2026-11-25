@@ -1,0 +1,482 @@
+{
+ "badge": "EP 101 - THE FINGER HANG TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CABLES",
+  "YOUR TIME"
+ ],
+ "description": "Your fingers have almost no muscle in them, yet they decide how much of you a bar can hold. Today you hang by your fingertips, get your number, and learn why the cables in your forearm matter more than any muscle you can flex in a mirror.",
+ "hashtags": [
+  "finger hang",
+  "grip strength",
+  "tendon training",
+  "finger strength",
+  "calisthenics"
+ ],
+ "id": "101",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINGERS ONLY"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO PALM, NO THUMB"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "WRITE IT DOWN",
+     "pos": "tr",
+     "text": "YOUR TIME"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "lines": [
+      "No mirror. No flex.",
+      "Just fingertips and seconds."
+     ],
+     "pos": "br",
+     "title": "THE CLOCK IS THE JUDGE"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMEMBER YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Find a thick bar. | Or a sturdy ledge. | Grip it with fingers only. | No palm on top. | No thumb wrapped over. | Just eight fingertips. | Now lift your feet. | And start the clock. | Hold on as long | as you possibly can. | Your forearms will burn. | Your fingers will shake. | That shaking is data. | When you finally drop, | that number is yours. | Write it down. | Do not improve it. | Do not round it. | Before this video ends | I will tell you | exactly what it means. | Most guys fail this | faster than they expect. | And the reason why | has nothing to do | with weak muscles.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED = FIXABLE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "CLIMBER-GRADE",
+     "pos": "br",
+     "text": "30+ SEC"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SIZE GETS NO VOTE"
+    }
+   ],
+   "big": "20 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN SOFT AND STEEL",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twenty seconds on your fingertips is where soft hands end and steel cables begin. Under ten seconds, your finger tendons have simply never been asked to work, and unasked cables stay thin. Over thirty, you hold a grip level that climbers spend years building on purpose. Notice what never appears in this test. Muscle size. It does not get a vote. A bigger forearm photographs well, but the clock only measures what your tendons can actually deliver, second after second, without letting go.",
+   "section": "THE NUMBER",
+   "sub": "under 10: unbuilt cables - over 30: climber-grade fingers",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINGERS: ALMOST NO MUSCLE"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "The forearm pulls the cable.",
+      "The cable moves the finger."
+     ],
+     "pos": "br",
+     "title": "MOTOR AND CABLE"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TENDON = PERMANENT HARDWARE"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 26,
+     "kind": "swap"
+    },
+    {
+     "at": 31,
+     "kind": "stat",
+     "label": "FOR MEASURABLE STIFFNESS GAINS",
+     "pos": "br",
+     "text": "WEEKS"
+    },
+    {
+     "at": 36,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CABLES OVER SIZE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look inside the forearm, because that is where this test is really decided. Your fingers contain almost no muscle at all. Every squeeze, every grip, every hang is powered from here, where the real engines live. From those engines, long tendons run through your wrist and out into each finger, like cables running from a motor to the hook of a crane. When you hang by your fingertips, the muscle only pulls for a moment. The tendon does the holding, second after second. And here is what nobody tells skinny guys. Muscle is fast, flashy tissue. It grows quickly and it shrinks quickly. Tendon is the slow, permanent hardware underneath. Load it heavily and it thickens. Load it patiently and it stiffens. Studies on tendon training show stiffness can climb measurably within weeks when the load is heavy and the holds are long. That is why a wiry climber with ordinary arms out-hangs a bodybuilder with huge ones. His muscles are smaller. His cables are thicker. One man trained the engine he could see in the mirror. The other trained the cable that actually holds him up.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO DIFFERENT CLOCKS"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Tendon repairs on a delay.",
+      "Hard days need full rest."
+     ],
+     "pos": "br",
+     "title": "SLOW BLOOD, SLOW BUILD"
+    },
+    {
+     "asset": "ren_hang_side_active.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 24,
+     "items": [
+      [
+       "MUSCLE",
+       85,
+       "red"
+      ],
+      [
+       "TENDON",
+       40,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHO ADAPTS FIRST"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHAT TENDON BUILDS, IT KEEPS"
+    },
+    {
+     "at": 35,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "OWN IT, DON'T RENT IT"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Now the part that changes how you train. Muscle and tendon adapt on completely different clocks. Muscle has a rich blood supply, so it repairs fast and grows fast. Tendon is pale, dense and poorly supplied, so it rebuilds slowly, sometimes taking a full day or more to finish responding to one hard session. This is why your forearms feel ready again tomorrow but your fingers still feel tired two days later. The muscle recovered. The cable is still under construction. It also means tendon training cannot be rushed with enthusiasm. You build it with heavy holds, full rest between hard days, and boring consistency. The good news is that what tendon builds, it keeps. Collagen laid down in the cable stays there, which is why old climbers keep crushing grips decades after their muscle peaks. Train the fast tissue and you rent your strength. Train the slow tissue and you own it. Your hang time today is simply a receipt showing which tissue you have been paying for.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FOUR FINGERS, UNEQUAL SHARES"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "lines": [
+      "Ring and little finger",
+      "carry more than you think."
+     ],
+     "pos": "br",
+     "title": "THE POWER PAIR"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "label": "SETS THE LIMIT FOR THE HAND",
+     "pos": "tr",
+     "text": "1 FINGER"
+    },
+    {
+     "at": 29,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NO HIDING AT THE FINGERTIPS"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "One more layer before we train. Your four fingers do not share the work equally. The index and middle fingers are the precision pair, built for control. The ring and little fingers are the power pair, and together they supply a huge share of your total grip force. Most untrained hands have a lazy little finger that contributes almost nothing, which means a quarter of the cable system never gets loaded. When you hang by your fingertips, there is nowhere for a lazy finger to hide. Every finger either pulls its share or the hand peels open. That is also why the shake starts in one finger first. Watch which one lets go next time you test. That finger is your weakest cable, and it sets the limit for the whole hand. The fix is not complicated. Train the hang, and every finger is forced to show up. There are no assistant muscles to borrow from out at the fingertips.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT = LONGER HANGS"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "LIGHT",
+       90,
+       "cyan"
+      ],
+      [
+       "HEAVY",
+       40,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WEEKLY QUALITY HANGS"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "No plates needed.",
+      "Just show up and hold."
+     ],
+     "pos": "tr",
+     "title": "YOUR WEIGHT IS THE PROGRAM"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SKINNY = MORE PRACTICE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the skinny advantage, and it is bigger in this test than in almost any other. A fingertip hang is your bodyweight divided across eight small cables. The lighter you are, the less each cable carries, which means you can hang longer, repeat more often, and stack far more quality training per week than a heavy guy can. The heavy guy tears his skin and overloads his fingers in two sessions. You can practice almost daily. Tendons respond to exactly that pattern: frequent, heavy, repeatable loading. So the thing that looks like your weakness, low bodyweight, is actually the perfect training weight for building finger cables. The big guys have to add plates to make hangs hard. You just have to show up and hold on.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "FINGER HANG",
+   "music": "drive",
+   "narration": "Now we build it together. Fingertips on the bar, feet up, fifteen seconds. Rest, shake the hands out, and go again. Four rounds. Keep the shoulders quiet and let the cables do the talking. Go.",
+   "rest": 45,
+   "rounds": 4,
+   "section": "YOUR TIME",
+   "type": "timer",
+   "work": 15
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "4 DAYS A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "DAILY MAX HANGS"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "IGNORING MORNING STIFFNESS"
+    },
+    {
+     "at": 27,
+     "kind": "fact",
+     "lines": [
+      "Short. Heavy. Repeatable.",
+      "Stop 2 seconds before failure."
+     ],
+     "pos": "br",
+     "title": "THE RECIPE"
+    },
+    {
+     "at": 33,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "+1 SECOND A WEEK"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Four days a week, do the four rounds you just did, fingertip hangs of fifteen seconds, and stop every set two seconds before you would fall. Short, heavy, repeatable. That is the whole recipe. Now the mistakes that stall everyone. Mistake one: testing your maximum every single day. A max hang is a measurement, not a workout, and daily maxes keep the tendon in a permanent state of repair. Mistake two: training through sharp finger pain. Tendons complain quietly at first, with stiffness in the morning, and that is your signal to take an extra rest day, not a reason to quit. Mistake three: only training the full grip. Wrap a towel over the bar or use a thicker edge sometimes, and use a thinner one other days, so every part of the finger learns to hold. Keep the sessions boring. Boring is what collagen understands. Add one second a week and the cable quietly becomes a different cable.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNWIRED, NOT WEAK"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SECONDS"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Under 10: unwired.",
+      "Over 30: climber-grade."
+     ],
+     "pos": "br",
+     "title": "YOUR VERDICT"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST - SAME BAR, SAME GRIP",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under ten seconds: you are not weak, you are unwired, and this is the fastest cable you will ever build. Ten to twenty: the cables are awake and responding. Over twenty: you hold what most gym guys never will. Over thirty: climber territory, and your fingers are officially the strongest part of your frame. Whatever your number is, put it in the comments. Just the seconds. In thirty days we run this exact test again, same bar, same grip, and we compare.",
+   "section": "YOUR TIME",
+   "sub": "comment your seconds below - then beat them",
+   "type": "card"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "label": "THE RETEST",
+     "pos": "tr",
+     "text": "DAY 30"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now we hang from this same bar and count again, and the second number never lies about the work. Subscribe so the retest finds you, and leave today's seconds in the comments where you cannot hide from them. This is {channel}. Train the cable.",
+   "section": "YOUR TIME",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "finger hang",
+  "finger tendons",
+  "grip strength",
+  "tendon training",
+  "forearm tendons",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_finger_hang.webp",
+  "big": "20 SEC",
+  "hook": "FINGERS ONLY"
+ },
+ "title": "Why Your finger tendons Matter More Than Muscle (The finger tendon training Episode)",
+ "v5": true
+}

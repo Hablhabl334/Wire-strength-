@@ -1,0 +1,409 @@
+{
+ "badge": "EP 58 - THE TOWEL HANG TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE FINGERS",
+  "YOUR TIME"
+ ],
+ "description": "Drape a towel over a bar and hang from the cloth. Your towel hang time strips away every trick a bar lets you use and grades your finger tendons raw. Here is the thirty-second line, why the cloth wins against most grips, and how to build yours.",
+ "hashtags": [
+  "towel hang",
+  "grip strength",
+  "finger tendons",
+  "hidden strength",
+  "calisthenics",
+  "dead hang"
+ ],
+ "id": "058",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TOWEL OVER THE BAR"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FEET OFF = CLOCK ON"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NO WRAPPING THE CLOTH TWICE"
+    },
+    {
+     "at": 24,
+     "kind": "fact",
+     "lines": [
+      "No bar. No thumb lock.",
+      "Just fingers against fabric."
+     ],
+     "pos": "br",
+     "title": "NOTHING TO CHEAT WITH"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Drape a towel. | Over a bar. | Both ends even. | Grip one end. | In each hand. | Squeeze the cloth. | Lift your feet. | Now hang. | Arms straight. | Shoulders quiet. | Start your clock. | The cloth will slide. | A millimeter at a time. | Your fingers will burn. | Your grip will open. | Fight it slowly. | Stop when you drop. | Or slide too far. | That time is | your towel hang time. | Write it down. | This test is rude. | A bar helps you. | Cloth never does. | No thumb lock. | No perfect grip. | Just finger tendons | against moving fabric. | Most grips die | in twenty seconds. | Keep your number. | At the end | I will tell you | what it exposes.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 SEC = SERIOUS FINGERS"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "UNDER 10 = HONEST STARTING POINT"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "CLIMBER-GRADE FINGER TENDONS",
+     "pos": "tr",
+     "text": "60 SEC"
+    }
+   ],
+   "big": "30 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN SLIPPING AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, and it is lower than you hope, because this test is honest. Thirty seconds on the towel is serious finger strength, the kind grapplers and climbers respect. Under ten seconds is where almost everyone starts, including guys who can dead hang for a full minute, because the bar was doing half their work and the towel just fired it. Ten to thirty means the finger tendons are building and the cloth slides slower every week. Over sixty seconds, your fingers hold a grade of tendon most gyms never produce, because almost nobody trains grip against a surface that fights back. Do not compare this number to your bar hang. Compare it to itself, in thirty days.",
+   "section": "THE NUMBER",
+   "sub": "under 10 sec: honest start - 10 to 30: building - over 60: climber grade",
+   "type": "card"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FORCE IS ALL TENDON"
+    },
+    {
+     "asset": "forearm_anatomy_plate.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Fingers have almost no muscle.",
+      "Tendons pull them like puppet strings."
+     ],
+     "pos": "br",
+     "title": "PUPPET STRINGS"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ON CLOTH, STRINGS DO EVERYTHING"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE TOWEL GRADES THE STRINGS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at your hand and understand what the towel just exposed. Your fingers contain almost no muscle at all. The muscles live in your forearm, and they close your fingers the way strings work a puppet, through long tendons that run across the wrist and down each finger. On a bar, that system gets help. The bar is thick, stable, and perfectly shaped for the hand, and your thumb locks over your fingers like a seatbelt. On a towel, every one of those helpers disappears. The grip surface is thin, it moves, and your thumb has nothing to lock against. All that remains is raw tendon force, squeezing cloth that is actively trying to slide out of your fist. That is why strong bar hangers get humbled in fifteen seconds. Their strength was real, but a third of it belonged to the bar. The towel only ever grades the strings.",
+   "section": "THE FINGERS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SLIDE IS THE REAL ENEMY"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "BAR HANG",
+       60,
+       "cyan"
+      ],
+      [
+       "TOWEL HANG",
+       22,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME GUY, SAME WEEK"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FRICTION IS A SKILL ISSUE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the detail that decides your time, and most people never notice it. On the towel, you rarely fail because your fingers cannot squeeze hard enough. You fail because the cloth slides a little with every micro-adjustment, your grip walks down the towel, and once your hands reach the ends, there is nothing left to hold. Friction is the real test. A dry, thick towel grips back. A thin, worn one is ice. Skin moisture, chalk, even how you first grab the cloth all move your number by seconds, which is why the retest rules at the end are so strict. It also means the towel hang trains something a bar never can: the skill of holding a grip that is escaping. Climbers call this contact strength. Fighters call it gi grip. Whatever the name, it is tendon force plus friction management, and it only exists in people who train against surfaces that do not cooperate.",
+   "section": "THE FINGERS",
+   "type": "art"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PULLEYS KEEP TENDONS CLOSE"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TENDONS ADAPT SLOWER THAN MUSCLE"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "CRANKING MAX HANGS DAILY"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SHORT HANGS, FULL RECOVERY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "One piece of anatomy keeps this test safe when you respect it. Your finger tendons do not run in a straight tunnel. They are held against the finger bones by small fibrous rings called pulleys, and those pulleys let you make a tight fist without the tendon bowing away from the bone. Climbers injure pulleys when they load fingers at maximum, cold, every day, because tendon tissue rebuilds slower than muscle and the pulley is the thinnest part of the system. So hear this clearly. The towel hang is trained with short hangs and full recovery, never daily max attempts. Eight to fifteen seconds at a hard but controlled effort, rest a full minute, repeat. If a finger ever pops, aches deep in the joint, or stays sore into the next day, back off, and if finger pain persists, see a professional before you load it again. Tendons reward patience with years of strength. They punish impatience all at once.",
+   "section": "THE FINGERS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS WEIGHT ON THE CLOTH"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "LONGER HANGS, MORE TENDON PRACTICE",
+     "pos": "br",
+     "text": "x2"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LIGHT GUYS OWN THIS TEST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the advantage, and on this test it is enormous. A towel hang hangs your entire body from your two smallest muscle groups. Every kilo you do not carry is a kilo your finger tendons never have to hold against sliding cloth. A heavy guy with huge forearms often loses to a light guy with average ones, because the load-to-tendon ratio is what decides the time, and yours is the best ratio in the room. This is why climbers, the undisputed kings of finger tendons, are almost all built like you. They are not light because climbing made them light. They dominate because light is the correct build for finger strength. Your frame is not the reason your towel time is small today. Your untrained pulleys are, and those respond to exactly the patient loading we are about to do.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "TOWEL HANG",
+   "music": "drive",
+   "narration": "Now hang with me. Towel over the bar, squeeze hard, feet up. Ten seconds on, fifty off, five rounds. Fight the slide. Go.",
+   "rest": 50,
+   "rounds": 5,
+   "section": "YOUR TIME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 DAYS A WEEK, NEVER DAILY"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "MAX HANGS EVERY DAY"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "A DIFFERENT TOWEL EVERY TEST"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SAME TOWEL, SAME GRIP, SAME RULES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is your week. Three days a week, the towel session you just did with me: five hangs of ten seconds, a full minute of rest between them, always stopping two seconds before you would drop. On the other days, leave the fingers alone. Tendon tissue rebuilds on rest days, not on willpower. Every week, add two seconds to the hangs, never more. Three mistakes wreck this test for most people. Max hangs every day, which loads pulleys faster than they can rebuild. Testing with a different towel each time, which turns your score into a fabric review instead of a tendon measurement. And grabbing the towel differently each session, high one day and low the next. Same towel, same grip, same rules, every single time. Boring controls are what make the number mean something, and the number is the whole point.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EVERYONE STARTS UNDER 10"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY - SAME TOWEL, SAME BAR",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under ten seconds: welcome to the honest club, because this is where every strong grip actually starts. Ten to thirty: your finger tendons are building, and the slide is slowing down week by week. Over thirty: your fingers are wired, and you hold a grade of grip that transfers to bars, ropes, collars, and anything else a hand can close on. Whatever your number is, put it in the comments. Just the number. We retest in thirty days, same towel, same bar, same grip, and we find out what your pulleys have been building.",
+   "section": "YOUR TIME",
+   "sub": "under 10: honest start - 10 to 30: building - over 30: wired fingers",
+   "type": "card"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "UNTIL THE RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SAME TOWEL, SAME GRIP"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same towel over the same bar, and we measure the strings again. Subscribe, because next we leave the bar behind and find out how high your spring can throw you. This is {channel}. Train the cable.",
+   "section": "YOUR TIME",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "towel hang",
+  "grip strength test",
+  "finger strength",
+  "towel pull-ups",
+  "dead hang",
+  "climbing grip",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_grip_closeup.webp",
+  "big": "30 SEC",
+  "hook": "NO BAR. JUST CLOTH"
+ },
+ "title": "Your Towel Hang Time Reveals Your Hidden Strength",
+ "v5": true
+}

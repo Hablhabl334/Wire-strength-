@@ -1,0 +1,480 @@
+{
+  "id": "091",
+  "v5": true,
+  "title": "Stop Doing hip tendon training Wrong: Train Your hip tendons Instead",
+  "description": "Your hips are the biggest joint in the body and the one your chair is quietly switching off. The leg swing test counts how alive your hip tendons still are, in thirty seconds, with nothing but a wall. Get your swing number, meet the cables that connect your legs to your spine, and start switching them back on.",
+  "tags": [
+    "leg swing test",
+    "hip tendons",
+    "hip flexors",
+    "hip mobility",
+    "tendon training",
+    "sprint mechanics",
+    "iliopsoas",
+    "skinny guy fitness"
+  ],
+  "hashtags": [
+    "leg swings",
+    "hip mobility",
+    "hip flexors",
+    "tendon training",
+    "sprint mechanics",
+    "calisthenics"
+  ],
+  "category": "tendons",
+  "badge": "EP 91 - HIP TENDONS: SWING TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE HIP CABLES",
+    "YOUR SWING"
+  ],
+  "thumb": {
+    "asset": "ren_lsit.webp",
+    "big": "20 SWINGS",
+    "hook": "HIPS RUN EVERYTHING",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_lsit.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Stand tall beside a wall, one hand resting on it for balance. Lift one leg slightly and swing it forward and backward like a pendulum, smooth and relaxed, building up to your biggest comfortable swing. For thirty seconds, count the full swings, forward and back counting as one. The rule is strict: your chest stays tall, your pelvis stays quiet, and only the leg moves. The moment your whole body starts rocking to cheat the range, the rep does not count. Do both sides and write down the lower number, because the lower side is your honest score. Most people have never once tested the joint that walking, running, and kicking all depend on. Keep your number. At the end I will tell you what it means.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ONE HAND ON THE WALL",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "30 SECONDS, COUNT FULL SWINGS",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "TORSO ROCKING = NO REP",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "YOUR WORSE SIDE IS YOUR SCORE",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "THE PENDULUM RULE",
+          "lines": [
+            "The leg swings.",
+            "The body does not."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "20 SWINGS",
+      "label": "THE LINE BETWEEN STIFF AND WIRED",
+      "sub": "under 12: chair hips - over 28: dancer hips",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Twenty clean swings in thirty seconds is where stiff chair hips become wired ones. Under twelve, your hip tendons have gone quiet after years of sitting, and quiet is fixable. Between twelve and twenty, the cables work but they are slow and short, which is why your stride feels choppy when you try to run. Over twenty eight, you have the loose, fast hips of a dancer or a sprinter. The beautiful thing about this number is that it measures two things at once: how far the tendon system lets the leg travel, and how smoothly it hands the leg back and forth. Both of those are trainable, and both start changing within weeks.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "CHAIR HIPS = FIXABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "20 SWINGS = WIRED",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "28+",
+          "label": "DANCER HIPS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE HIP CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look at where the hip actually connects. Your main hip flexor starts up on your spine, travels through the pelvis, and anchors to the top of your thigh bone through a thick tendon. It is the only muscle group that directly links your legs to your backbone. Around the back, the glute tendons anchor into the same joint from the other side. Every step you take is these two cable systems trading pulls across the hip, like two hands passing a rope. When the front cable gets short and weak from sitting, the back cable has to work overtime, and your lower back pays the bill. The leg swing test reads the whole trade. A big, easy swing means both sides of the rope are doing their jobs.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "SPINE TO THIGH: ONE LONG CABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_horse_stance.webp"
+        },
+        {
+          "at": 16,
+          "kind": "fact",
+          "title": "TWO HANDS, ONE ROPE",
+          "lines": [
+            "Front cable pulls the leg up.",
+            "Back cable drives it down."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "chip",
+          "text": "YOUR BACK PAYS FOR LAZY HIPS",
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "THE SWING READS THE WHOLE TRADE",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_horse_stance.webp",
+      "section": "THE HIP CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the science most training skips. Tendons do not just connect things, they set the speed of the joint. A stiff, well trained hip tendon snaps the leg through its swing with elastic energy, the same way a bowstring fires an arrow. A soft, untrained one absorbs the energy instead, and your muscles have to pay full price for every stride. Sprinters are not fast only because of big muscles. They are fast because their hip cables are stiff enough to recycle energy at high speed. Your swing test is really a stiffness test wearing a simple disguise. Count the swings and you are counting how much free energy your hips give back to you with every step. Coaches measure this in sprinters by how little their hips give away at top speed, because a hip that leaks energy cannot be hidden at full pace. Yours leaks or returns on every step you take, not just the fast ones.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "TENDONS SET JOINT SPEED",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "STIFF CABLE = FREE ENERGY",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "ENERGY PER STRIDE",
+          "items": [
+            [
+              "WIRED HIPS",
+              75,
+              "cyan"
+            ],
+            [
+              "CHAIR HIPS",
+              30,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "THE DISGUISE",
+          "lines": [
+            "A swing count is really",
+            "a stiffness measurement."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "SPRINTERS RECYCLE ENERGY",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "THE HIP CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now the mistake almost everyone makes. People feel stiff hips and they attack them with hard stretching, yanking the leg into range and holding on for dear life. Tendons hate that approach. A tendon is not a rubber band you bully longer, it is a cable you teach to be strong at length. The teaching signal is load, applied through the range, over and over. Swings, deep squats, and split squats all tell the hip cables the same clear story: get strong here, get comfortable here. Stretching alone tells them nothing about strength, which is why stretched people often stay weak at exactly the ranges they stretched. Train the cable under load and the range shows up as a side effect.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "YANKING STRETCHES = WRONG SIGNAL",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "LOAD TEACHES THE CABLE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "STRONG AT LENGTH",
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "RANGE IS A SIDE EFFECT",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE HIP RULE",
+          "lines": [
+            "Do not bully the cable.",
+            "Teach it."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "THE HIP CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the audit nobody does. Count your sitting hours today, honestly, including the car, the desk, the couch, and the phone in bed. For most people it lands between eight and twelve. Every one of those hours parks the hip in the same bent position, with the front cable shortened and unloaded, and tissue quietly remodels around whatever position you feed it most. This is why standing desks alone do not fix hips: standing still is just sitting with extra steps. The cable does not need a new chair, it needs range and load, delivered in small doses across the day. A minute of swings after every sitting block is not a workout, it is an interruption, and interruptions are what this tissue actually responds to. Your swing number this morning was basically a report on your chair. The good news is that reports can change faster than furniture.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "COUNT YOUR SITTING HOURS",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "STANDING DESKS DON'T FIX IT",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "fact",
+          "title": "INTERRUPTIONS ARE THE DOSE",
+          "lines": [
+            "The cable needs range and load,",
+            "sprinkled across the day."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 34,
+          "kind": "chip",
+          "text": "YOUR NUMBER REPORTS YOUR CHAIR",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_lsit.webp",
+      "section": "YOUR SWING",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Time for the skinny advantage, and this one is big. Swinging a leg costs energy in proportion to how heavy the leg is. Your legs are light, which means you can stack high quality swings every single day without trashing the joint, and your hip tendons get the frequent signal they respond to best. The heavy guy has to ration this work. You do not. There is a second gift too: with less mass around the hip, the tendon has less tissue to drag through the range, so your mobility returns visibly faster. People will call it flexibility. You will know it is a light frame training a cable the smart way, daily, while everyone else is still shopping for a stretching program.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LIGHT LEGS SWING CHEAP",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "fact",
+          "title": "FREQUENCY WINS HERE",
+          "lines": [
+            "Hip tendons love daily signals.",
+            "Light legs can give them."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "NO RATIONING YOUR REPS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "MOBILITY RETURNS FASTER",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_lsit.webp",
+      "exercise": "LEG SWINGS",
+      "work": 30,
+      "rest": 15,
+      "rounds": 4,
+      "section": "YOUR SWING",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Four rounds of leg swings, thirty seconds each side, fifteen seconds of rest between rounds. Tall chest, quiet pelvis, biggest smooth swing you own. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_horse_stance.webp",
+      "section": "YOUR SWING",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your week. Leg swings every morning, two sets of thirty seconds per side, before the chair gets its hours in. Add split squats twice a week, slow on the way down, letting the front hip learn strength at length. Stand up and swing for one minute after every long sitting block, no exceptions on work days. Progress by range first and speed second: a bigger swing beats a faster sloppy one every time. One honest warning. A pinching feeling deep in the front of the hip is a stop signal, not a stretch target, and if hip pain keeps showing up week after week, see a professional and have it looked at properly. Keep a small note on your phone with both sides' numbers each week. The gap between sides is your early warning system, and it should shrink as the weeks pass.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "SWINGS EVERY MORNING",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "SPLIT SQUATS 2X A WEEK",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "SKIP: YANKING STRETCHES",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "RANGE FIRST, SPEED SECOND",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "PINCH = STOP",
+          "lines": [
+            "Front of hip pinching",
+            "is information, not weakness."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "20+",
+      "label": "THE RETEST LINE IN 30 DAYS",
+      "sub": "under 12: untrained - 12 to 20: building - over 20: wired",
+      "section": "YOUR SWING",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your swing. Under twelve: your hip cables are untrained and chair shaped, and the morning swings will start changing that within two weeks. Twelve to twenty: you are building, and the split squats are your next level. Over twenty: your hips are wired, and speed work is yours to take. Put your number in the comments, the worse side, just the number. We retest in thirty days. Bring the same wall, the same rules, and a bigger swing.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNTRAINED IS FIXABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "YOUR SWING",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your hips connect your engine to the road, and today you found out whether that connection is live. Swing every morning, and in thirty days we count again. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "SWING EVERY MORNING",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "TRAIN THE CABLE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

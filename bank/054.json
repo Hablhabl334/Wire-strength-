@@ -1,0 +1,413 @@
+{
+ "badge": "EP 54 - THE PULL-UP TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CHAIN",
+  "YOUR NUMBER"
+ ],
+ "description": "Your pull-up number is a full-chain report card, from your finger tendons to your lats. Here is the ten-rep line, why sets really end in the cables and not the back, and the negative protocol that builds your number in thirty days.",
+ "hashtags": [
+  "pull-up test",
+  "pull-ups",
+  "hidden strength",
+  "calisthenics",
+  "tendon training",
+  "bodyweight strength"
+ ],
+ "id": "054",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PALMS AWAY, FULL HANG"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CHIN OVER = ONE REP"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NO KICKING, NO SWINGING"
+    },
+    {
+     "at": 24,
+     "kind": "fact",
+     "lines": [
+      "Fingers, forearms, elbows, lats.",
+      "The weakest link sets your number."
+     ],
+     "pos": "br",
+     "title": "ONE CHAIN"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 2.5,
+   "music": "dark",
+   "narration": "Find a bar. | Grip it wide. | Palms facing away. | Hang at the bottom. | Arms fully straight. | Now pull up. | Chin over the bar. | That counts one. | Lower down slowly. | All the way down. | Pull again. | Count every clean rep. | Stop when form breaks. | No kicking. | No swinging. | No half reps. | That final number? | That is your number. | Write it down. | Do not inflate it. | Your number is not | a measure of muscle. | It is a measure | of the whole chain. | Fingers to forearms. | Forearms to elbows. | Elbows to lats. | One weak link | ends the set. | Most guys guess wrong | about why they stall. | It is rarely | the lats alone. | Keep your number. | At the end | I will decode it. | Exactly what it means | about your tendons.",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "10 CLEAN = WIRED"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "0 TO 2 = UNTRAINED CHAIN"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "ELITE RELATIVE STRENGTH",
+     "pos": "tr",
+     "text": "10+"
+    }
+   ],
+   "big": "10 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN PULLING AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten clean pull-ups is where a normal back becomes a wired one. Zero to two reps means the chain is untrained, and for a skinny guy that is the best starting position there is, because every link responds fast. Three to nine means the chain is building and your number will climb steadily if you feed it the right work. Ten or more dead-hang reps puts your relative strength ahead of almost every big guy in the gym, because he has to pull a heavier body with the same size cables. This test weighs nothing but you, and it grades the whole chain at once. That is why it never lies.",
+   "section": "THE NUMBER",
+   "sub": "0 to 2: chain untrained - 3 to 9: building - 10 plus: elite relative strength",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORCE STARTS IN THE FOREARM"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Force is handed joint to joint.",
+      "Tendons make every handoff."
+     ],
+     "pos": "br",
+     "title": "THE RELAY"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRIP FADES = SET OVER"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOUR NUMBER GRADES THE WORST LINK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Follow the force. Your fingers close on the bar, but your fingers have almost no muscle of their own. The pull comes from your forearm, travels down long tendons into the hand, then crosses the elbow, where those same cables anchor to bone, and only then reaches the big muscles of your back. A pull-up is not one muscle doing a trick. It is a relay, and the baton is force. Every handoff in that relay is a tendon crossing a joint, and tendons are where force leaks. If your grip fades at rep six, the set is over, even if your lats had four more reps in them. If your elbows ache and your forearms pump up like balloons, the chain is telling you which links are underbuilt. The number on your test is not grading your back. It is grading the worst handoff in the whole relay, and that is exactly why it is so useful.",
+   "section": "THE CHAIN",
+   "type": "art"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SETS DIE FROM THE HAND BACKWARDS"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "items": [
+      [
+       "GRIP + FOREARM",
+       55,
+       "cyan"
+      ],
+      [
+       "ELBOW + ARMS",
+       28,
+       "gold"
+      ],
+      [
+       "BACK",
+       17,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHY SETS END FIRST"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ENGINE VS TRANSMISSION"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Watch what happens when sets actually end. In most failed pull-up sets, the back is not the first thing to quit. The grip opens, the forearms flood, or the elbow starts to complain, and the rep dies from the hand backwards. Coaches see it every week: a guy whose lats are strong enough for twelve reps stops at seven because the cables in front of the lats gave out first. This is the part of training the mirror cannot show you. Muscle gets the credit because muscle is what you can see, but the visible part is only the engine. The tendons are the transmission, and a powerful engine with a slipping transmission goes nowhere. Your pull-up number is a transmission test. When we train it, we will not just chase a bigger engine. We will rebuild every handoff in the chain, starting from the fingers.",
+   "section": "THE CHAIN",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BOTTOM: THE STRETCHED LINKS"
+    },
+    {
+     "asset": "ren_hang_side_relaxed.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TOP: THE SHORTEST, WEAKEST ANGLE"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HALF REPS = HALF A CHAIN"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NEGATIVES LOAD EVERY LINK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the two ends of the rep, because they test different links. At the bottom, in the dead hang, the load sits on your grip, your shoulder tendons, and the long cables of the arm at full stretch. This is where tendons learn to hold tension without tearing the signal apart. At the top, chin over the bar, the elbow is fully bent and the forearm tendons are working at their shortest, weakest angle, which is why the last two inches are where reps go to die. A complete pull-up trains the chain at every length. Half reps train half the chain and leave the ends weak, and the ends are exactly where your test number comes from. This is also why negatives work so well, and we are about to use them. Lowering slowly loads every link in the chain, in order, under control, for longer than any single pull ever could.",
+   "section": "THE CHAIN",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE LOAD IS ONLY YOU"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "MORE REPS PER WORKOUT, SAME EFFORT",
+     "pos": "br",
+     "text": "x2"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LIGHT = BUILT FOR THIS TEST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the advantage, and this one is pure physics. A pull-up moves your body and nothing else. Every kilo you do not carry is a kilo the chain never has to lift, which means a light guy gets more reps, more total practice, and more chain-building volume out of the same workout than a heavy guy ever can. There is a reason elite gymnasts and climbers are built like you and not like bodybuilders. Relative strength is their whole sport. Your low body weight is not the reason your number is small today. Your untrained chain is, and chains train fast. The heavy guy envies your starting point more than you envy his arms, because he can never diet his way to your leverage without losing the muscle he is proud of. You are already at your fighting weight. All that is left is to wire the chain.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "check": 3,
+   "exercise": "PULL-UP NEGATIVES",
+   "music": "drive",
+   "narration": "Now we build the chain. Jump up, chin over the bar, then lower for five slow seconds. Thirty seconds on, thirty off, four rounds. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "YOUR NUMBER",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HALF YOUR MAX, ALL DAY"
+    },
+    {
+     "asset": "ren_pullup_mid.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HALF REPS TRAIN HALF THE CHAIN"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "KIPPING = MOMENTUM, NOT FORCE"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FREQUENCY BUILDS TENDONS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is your week. Four days a week, do grease-the-groove sets: half your max, spread through the day, always fresh, never to failure. If your test was four reps, that means sets of two, five or six times a day, every rep perfect from a dead hang. Twice a week, finish with the negatives you just did with me. The chain adapts to frequency better than to exhaustion, because tendons rebuild from repeated clean tension, not from being destroyed once. Three mistakes stall this number for most guys. Half reps that never train the ends of the chain. Kipping and swinging, which replace tendon force with momentum. And testing your max every workout, which turns training into a weekly disappointment. Build the chain daily at half effort. Test it once a month at full effort. That rhythm is boring, and it is exactly why it works.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED CHAIN = FASTEST GAINS"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY - SAME BAR, SAME RULES",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Zero to two: the chain is untrained, and an untrained chain is the fastest thing in fitness to improve, because every link adapts at once. Three to nine: you are building, and your only job is more clean reps spread across more days. Ten or more: your chain is wired, and you pull with a transmission most gym guys will never own. Whatever your number is, put it in the comments. Just the number. We retest in thirty days, same bar, same rules, full hang at the bottom and chin over at the top.",
+   "section": "YOUR NUMBER",
+   "sub": "0 to 2: untrained - 3 to 9: building - 10 plus: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "UNTIL THE RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FULL HANG, CHIN OVER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same bar, and we find out what your chain is really made of. Subscribe, because next we take the chain down to its smallest links and test your fingers on a towel. This is {channel}. Train the cable.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "pull-up test",
+  "pull-up number",
+  "how many pull-ups",
+  "calisthenics",
+  "back strength",
+  "tendon training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pullup_top.webp",
+  "big": "10 REPS",
+  "hook": "PULL YOUR WEIGHT"
+ },
+ "title": "Your Pull-Up Number Reveals Your Hidden Strength",
+ "v5": true
+}

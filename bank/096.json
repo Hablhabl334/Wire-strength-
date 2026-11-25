@@ -1,0 +1,480 @@
+{
+  "id": "096",
+  "v5": true,
+  "title": "Stop Doing wrist tendon training Wrong: Train Your wrist tendons Instead",
+  "description": "Your grip is only as strong as the wrist it hangs from, and a simple stick exposes the truth in sixty seconds. The wrist lever test grades the small tendons that transfer all your forearm power. Get your count, learn why wrists are the leak in most grips, and start plugging it.",
+  "tags": [
+    "wrist lever test",
+    "wrist tendons",
+    "wrist strength",
+    "forearm training",
+    "grip strength",
+    "tendon training",
+    "wrist mobility",
+    "skinny guy fitness"
+  ],
+  "hashtags": [
+    "wrist strength",
+    "forearm training",
+    "grip strength",
+    "tendon training",
+    "wrist lever",
+    "calisthenics"
+  ],
+  "category": "tendons",
+  "badge": "EP 96 - WRIST LEVER TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE WRIST CABLES",
+    "YOUR LEVER"
+  ],
+  "thumb": {
+    "asset": "ren_wrist_lever.webp",
+    "big": "20 REPS",
+    "hook": "WRISTS KEEP SCORE",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Take a broom handle or a sturdy stick and grip it right at the very end, like holding a hammer by the tip of its handle. Hold your forearm out horizontal, and slowly lever the stick upward until it points at the ceiling, then lower it back down with control. That is one rep. For sixty seconds, count the clean levers you can do with one hand, no swinging, no helping with the other hand, and no letting the stick crash down. The weight is tiny, but the leverage is brutal, and somewhere around rep ten your wrist will start filing formal complaints. Do both hands and write down the lower count. Keep your number. At the end I will tell you what it reveals about the cables that run your grip.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "GRIP THE VERY END",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "60 SECONDS, ONE HAND",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "SWINGING = NO REP",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "TINY WEIGHT, BRUTAL LEVERAGE",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "THE WEAKER HAND IS YOUR SCORE",
+          "lines": [
+            "It has been leaking force",
+            "on every grip you own."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "20 REPS",
+      "label": "THE LINE BETWEEN LEAKY AND WIRED",
+      "sub": "under 10: leaky wrists - over 26: blacksmith wrists",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Twenty clean levers in a minute is where a leaky wrist becomes a wired one. Under ten, your wrist tendons are untrained, and untrained is fixable faster here than almost anywhere else in the body. Ten to twenty means the cables work but wobble under leverage, which is exactly when grips fail at the end of a heavy set. Over twenty six, you have the wrists of a blacksmith, the kind built by years of tool work. This test is beloved by climbers and arm wrestlers for one reason: it cannot be faked by big muscles. Leverage grades the tendons, and the tendons either deliver or they fold.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "LEAKY = FIXABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "20 REPS = WIRED",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "26+",
+          "label": "BLACKSMITH WRISTS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "section": "THE WRIST CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look inside your forearm. Nearly twenty tendons cross your wrist, flexors on the palm side that close your hand, extensors on the back side that open it and hold it steady. Every gram of grip strength you produce in the forearm has to cross this one narrow bridge to reach your fingers. If the wrist bends, folds, or wobbles under load, force leaks out at the bridge no matter how strong the engine behind it is. That is why your dead hang and your curls both secretly depend on this test. The wrist is not a joint you train for looks. It is the toll booth every unit of hand strength pays to get through, and today you counted how well yours is staffed.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "20 TENDONS CROSS ONE BRIDGE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 15,
+          "kind": "fact",
+          "title": "THE TOLL BOOTH",
+          "lines": [
+            "All grip force crosses",
+            "the wrist to reach fingers."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "WOBBLE = LEAKED FORCE",
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "STAFF THE BRIDGE",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "section": "THE WRIST CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the science of why levers work. Tendons adapt to the highest tension they regularly meet, and leverage is a tension multiplier you can carry in a broom closet. A stick that weighs almost nothing produces serious tendon tension because the load sits far from the joint, the same reason a long wrench turns a stubborn bolt. Training with leverage lets a skinny guy load his wrist tendons hard without owning a single weight plate. It also trains both directions honestly: the lift loads the cables one way, and the slow lowering loads them while they lengthen, which is the exact stress tendons meet when a grip starts to slip. Two directions, one stick, zero excuses. Arm wrestlers, who live and die by this exact bridge, train levers year round and treat wrist position as sacred. A match at the table is usually lost the moment one wrist bends back, because the moment the bridge folds, the stronger arm behind it stops mattering entirely.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LEVERAGE MULTIPLIES TENSION",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "A BROOM CLOSET GYM",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "TENDON TENSION",
+          "items": [
+            [
+              "LONG LEVER",
+              85,
+              "cyan"
+            ],
+            [
+              "DUMBBELL CURL",
+              45,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "BOTH DIRECTIONS COUNT",
+          "lines": [
+            "Lift loads them short.",
+            "Lowering loads them long."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "ZERO EQUIPMENT, REAL LOAD",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "section": "THE WRIST CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now the modern problem. Your wrists were built for climbing, gripping, and tool work, and they now spend their days tapping glass. Typing and scrolling ask the wrist cables for almost nothing, so they quietly downsize to match, while the positions stay bent for hours. Then you walk into training and ask those same cables to stabilize a dead hang or a push-up, and they are simply not staffed for the request. Wrist pain in push-ups, wobbly grips, forearms that tire before the back does: these are usually not injuries. They are undertrained tendons meeting their first real week of work. The answer is not rest forever. The answer is graded leverage, a little more each week, until the bridge is strong again.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "GLASS TAPPING TRAINS NOTHING",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "GRADED LEVERAGE IS THE FIX",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "BUILT FOR TOOLS, USED FOR PHONES",
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "A LITTLE MORE EACH WEEK",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE WRIST RULE",
+          "lines": [
+            "Not injured. Undertrained.",
+            "Grade the load up."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "section": "THE WRIST CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Audit your wrists across one normal day. They hold a phone at a bent angle for hours, tap a keyboard in a fixed position, carry bags with the joint cocked back, and then get asked to stabilize your entire body in a push-up. The cables adapt to what they practice, and what they practice now is stillness in bent positions. That is why the lever test shocks people: the wrist looks fine, does its office job fine, and then folds under the first honest leverage it has met in years. The fix is embarrassingly available. A stick lives in every home, the exercise takes a minute, and the tissue answers quickly because it was never broken, only benched. Unbench it, and notice how many other lifts quietly improve when the bridge stops leaking.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "BENT AND STILL, ALL DAY",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_wrist_lever.webp"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "NOT BROKEN, JUST BENCHED",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "fact",
+          "title": "THE BRIDGE EFFECT",
+          "lines": [
+            "Fix the wrist and the hang,",
+            "the curl, the press improve."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 29,
+          "kind": "chip",
+          "text": "A STICK LIVES IN EVERY HOME",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "section": "YOUR LEVER",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your skinny advantage at the wrist. Forearm and wrist training is the fastest visual payoff on a lean frame, because there is almost no fat between the tendons and the world. When a heavy guy trains wrists, the change hides under a layer of mass for months. When you train them, the cables themselves start showing within weeks: the forearm sharpens, the wrist thickens, and your handshake changes. There is a performance gift too. Wrist tendons recover quickly and tolerate daily practice, so your light frame can stack the frequent, moderate sessions this tissue loves most. Small joint, fast feedback, daily training. This is one of the best deals on the channel.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "NOTHING HIDES YOUR PROGRESS",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "fact",
+          "title": "THE FASTEST VISUAL PAYOFF",
+          "lines": [
+            "Cables show through",
+            "a lean frame in weeks."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "DAILY PRACTICE TOLERATED",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "SMALL JOINT, FAST FEEDBACK",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_wrist_lever.webp",
+      "exercise": "WRIST LEVERS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "YOUR LEVER",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Three rounds of wrist levers, forty seconds per hand, twenty seconds of rest between rounds. Up slow, down slower, and keep the forearm dead still. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "section": "YOUR LEVER",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your week. Wrist levers once a day, two sets per hand, stopping two reps before the wobble takes over. Add reverse levers twice a week, stick pointing down, to train the extensor side that everyone forgets. Squeeze work pairs perfectly here: a ball or a towel, hard five second squeezes, ten reps, most days. Progress by gripping one centimeter further from the end of the stick each week, because leverage is your weight stack. One warning. Wrist pain that is sharp, one sided, or still there after two easier weeks is worth real attention, so see a professional and get it checked rather than levering through it.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "LEVERS DAILY, BOTH HANDS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "REVERSE LEVERS 2X A WEEK",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "SKIP: SWINGING THE STICK",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "1 CM FURTHER = MORE LOAD",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "ONE-SIDED PAIN = GET CHECKED",
+          "lines": [
+            "Wrists talk early.",
+            "Listen early too."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "20+",
+      "label": "THE RETEST LINE IN 30 DAYS",
+      "sub": "under 10: untrained - 10 to 20: building - over 20: wired",
+      "section": "YOUR LEVER",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under ten: your wrist cables are untrained, and this is one of the fastest numbers on the channel to double. Ten to twenty: you are building, and the reverse levers will balance the system. Over twenty: your wrists are wired, and every grip you own just got more honest. Put your number in the comments, weaker hand, just the number. We retest in thirty days with the same stick and the same grip position. No moving closer to cheat.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNTRAINED IS FIXABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "section": "YOUR LEVER",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your grip hangs from your wrist, and today you graded the bridge it crosses. Lever a little every day, and in thirty days we count again. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "LEVER A LITTLE DAILY",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "TRAIN THE CABLE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

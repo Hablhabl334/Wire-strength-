@@ -1,0 +1,446 @@
+{
+ "badge": "EP 73 - HEEL DROP TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "THE PLAN"
+ ],
+ "description": "Rise onto one foot and count your slow, controlled calf raises. That number grades the strongest tendon in your body. Then we go through the five training mistakes that quietly destroy the Achilles, including the popular one almost every runner makes, and the simple protocol that rebuilds the cable instead.",
+ "hashtags": [
+  "achilles tendon",
+  "heel drop test",
+  "tendon training",
+  "calf raises",
+  "running injuries",
+  "skinny guy fitness"
+ ],
+ "id": "073",
+ "scenes": [
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE FOOT ON A STEP EDGE"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "UP WITH TWO, DOWN WITH ONE"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "BOUNCING = REP DOES NOT COUNT"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "It grades your Achilles tendon."
+     ],
+     "pos": "br",
+     "title": "ONE NUMBER"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TEST BOTH SIDES"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Stand on a step. | One foot on the edge. | Heel hanging off. | Rise up with two feet. | Shift onto one. | Now lower down slowly. | Three full seconds. | Heel below the step. | That is one rep. | Start your clock. | Count your clean reps. | Up with two. | Down with one. | No bouncing at the bottom. | No rushing the drop. | Your calf will burn. | Your ankle will shake. | The weaker side | will announce itself. | Got your NUMBER? | Write it down. | That number grades | your ACHILLES TENDON. | The strongest cable | in your entire body. | And in this episode | we cover the five mistakes | that quietly destroy it. | One of them | is probably yours.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEAK SIDE = YOUR REAL SCORE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "3 SECONDS DOWN, EVERY REP"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "ACHILLES OF A SPRINTER",
+     "pos": "br",
+     "text": "25+"
+    }
+   ],
+   "big": "15 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "SLOW SINGLE-LEG HEEL DROPS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifteen slow single-leg heel drops, three seconds down, heel dropping below the step, no bounce at the bottom. Under eight, your Achilles is simply untrained for its size, and the shake in your ankle is a giant cable that has never been asked to work slowly. Between eight and fifteen, the tendon is waking up and learning to carry you one leg at a time. Over twenty-five, you own the Achilles of a sprinter, a cable that stores and returns energy like a spring made of steel. This test does not care how your calves look. It measures the tendon underneath them, and in this episode you will learn the five mistakes that keep that tendon weak, sore, and stuck, no matter how hard you train.",
+   "section": "THE NUMBER",
+   "sub": "under 8: untrained giant - over 25: sprinter spring",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THICKER THAN YOUR THUMB"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "It stores energy like a spring",
+      "and returns it every step."
+     ],
+     "pos": "br",
+     "title": "A LIVING SPRING"
+    },
+    {
+     "at": 19,
+     "kind": "stat",
+     "label": "LOAD IN A SINGLE RUNNING STEP",
+     "pos": "tr",
+     "text": "UP TO 8X BODYWEIGHT"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BUILT FOR ENORMOUS FORCE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at this tendon with the respect it deserves. The Achilles is the thickest and strongest tendon in your body, the combined cable of your calf muscles, anchoring into your heel bone. When you run, it handles loads up to eight times your bodyweight in a single step, hundreds of times in a row, without complaint. But its real genius is not strength, it is spring. The Achilles stretches as your foot lands, stores the energy like a drawn bow, and returns most of it into your next step for free. That recycling system is a large part of why humans can run for hours. When the tendon is healthy, it is the best spring you own. When it is mistreated, it becomes the loudest complainer in your body, and it complains in a very specific language: stiffness first thing in the morning. The Achilles also has a quirk worth knowing. Its fibers spiral as they descend, like a twisted rope, which helps it store energy and share load between the two calf muscles. A twisted spring is an efficient spring, but it also means one-sided weakness shows up fast. Your test probably just showed you which side twists better.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MORNING STIFFNESS = THE REPORT CARD"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "IGNORED SIGNALS",
+       30,
+       "red"
+      ],
+      [
+       "READ + ADJUSTED",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "TENDONS THAT RECOVER FULLY"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "A healthy Achilles warms up in",
+      "minutes. A struggling one takes longer."
+     ],
+     "pos": "br",
+     "title": "THE 10-MINUTE RULE"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LISTEN BEFORE YOU LOAD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Before the mistakes, learn to read the tendon, because it files a report every morning. A healthy Achilles might feel stiff for a few steps and then disappear completely. A struggling one stays stiff and achy for ten minutes or more, and that duration is the grade. Tendon specialists use this morning check the way engineers use a stress gauge: it tells you whether yesterday's load was absorbed or is still being paid for. If the stiffness is getting shorter week by week, your training dose is right. If it is getting longer, the tendon is falling behind, no matter how good the workouts feel. This single habit, checking before you load, prevents more Achilles problems than any exercise ever invented. Now, the five mistakes that make the report worse. Keep a simple note on your phone: morning stiffness, scored out of ten, every day for the thirty days of this block. It takes five seconds and it turns guessing into data. Tendons speak quietly. Written numbers are how you hear them.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MISTAKE 1: BOUNCING REPS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "MISTAKE 2: STRAIGHT KNEE ONLY"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Two calf muscles, two angles.",
+      "Train both or build half a tendon."
+     ],
+     "pos": "br",
+     "title": "THE BENT-KNEE GAP"
+    },
+    {
+     "asset": "ren_calf_raise_front.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLOW + BENT = COMPLETE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Mistake one: bouncing. Fast, springy calf raises feel powerful, but the bounce lets momentum and the stretch reflex do the work while the tendon coasts. The tendon rebuilds under slow tension, especially slow lowering, and bouncing deletes exactly that part of the rep. Mistake two: only training with a straight knee. Your calf is two muscles sharing one tendon. The big outer muscle works with a straight knee, but the deep soleus, which does most of the work in running and walking, only loads properly with the knee bent. Straight-knee-only training builds half a tendon and leaves the deep half soft. If your calf work never includes bent-knee raises and holds, you have found one of your leaks. Slow down, bend the knee, and the whole cable starts getting the message.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT ANKLES, HUGE SPRING"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "HEAVY RUNNER",
+       50,
+       "red"
+      ],
+      [
+       "YOU",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "ACHILLES LOAD PER STEP"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Less bodyweight per step means",
+      "more steps to train the spring."
+     ],
+     "pos": "br",
+     "title": "THE VOLUME EDGE"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = SPRING ADVANTAGE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now your advantage, because the Achilles is where skinny guys quietly win. The tendon's load is a multiple of bodyweight, which means your spring carries less absolute force with every step than a heavy runner's does. You can accumulate more steps, more hops, and more slow heel drops before the tendon needs a day off, and volume is what rebuilds tendon. Look at the build of elite distance runners and sprinters: light frames, enormous Achilles tendons relative to their size. The tendon is the star of that build, not the muscle around it. You already have the light frame. Avoid the five mistakes, train the slow work, and your Achilles becomes the biggest relative spring in the room.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "check": 3,
+   "exercise": "HEEL DROPS",
+   "music": "drive",
+   "narration": "Now we train it together. Up with two feet, down with one, three seconds down. Eight reps each side, two rounds. Slow is the whole point. Let the tendon do the work.",
+   "rest": 30,
+   "rounds": 2,
+   "section": "THE PLAN",
+   "type": "timer",
+   "work": 50
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MISTAKE 3: STRETCHING IT COLD + HARD"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "MISTAKE 4: HILLS + SPRINTS TOO SOON"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MISTAKE 5: IGNORING MORNING STIFFNESS"
+    },
+    {
+     "asset": "achilles_anatomy_plate.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LOAD SLOW, PROGRESS SLOWER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Mistake three: aggressive stretching of a cold, irritated tendon. Pulling hard on a grumpy Achilles first thing in the morning compresses and yanks the exact tissue that is asking for a break. Warm it with gentle load instead. Mistake four: the weekend spike. Hills, sprints, and a new sport all multiply Achilles load, and stacking them in one week is the classic way this tendon breaks down. Add one stress at a time. Mistake five you already know: ignoring the morning report until the tendon forces you to listen. The fix for all five is the same boring protocol: slow heel drops three days a week, straight knee and bent knee, adding reps before load, and letting the morning check set your pace. And if Achilles pain persists for weeks, swells, or you ever feel a sudden pop or weakness in the calf, stop and get it checked by a professional. That is not caution, that is protecting the strongest cable you own. One more dosing detail. The heel drop works best when the tendon gets a day to answer it. Collagen construction peaks after the session, not during it, so the rest day is literally when your new tendon gets built. Skipping rest days is skipping the building.",
+   "section": "THE PLAN",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A STARTING LINE, NOT A VERDICT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under eight: your Achilles is untrained for its size, and slow heel drops will change it within weeks. Eight to fifteen: you are building, and the spring is starting to store and return energy the way it was designed to. Over twenty-five: you are wired, with a cable most athletes would trade for. Whatever you scored, check which of the five mistakes sounded familiar, because fixing one mistake is worth a month of extra reps. Train the protocol for thirty days and run the test again, same step, same tempo, same rules. Put your number in the comments, just the number, and we compare on retest day.",
+   "section": "THE PLAN",
+   "sub": "same test, same rules - compare the number",
+   "type": "card"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SUBSCRIBE FOR RETEST DAY"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now | we run this test again. | Same step, same tempo. | Bring a bigger number. | Your spring will feel different. | Subscribe so you | do not miss retest day. | This is {channel}. | Train the cable.",
+   "section": "THE PLAN",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "achilles tendon",
+  "heel drop test",
+  "tendon training",
+  "calf raises",
+  "eccentric training",
+  "running form",
+  "achilles pain",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_eccentric_drop.webp",
+  "big": "15 REPS",
+  "hook": "YOUR SPRING IS DYING"
+ },
+ "title": "5 Achilles training Mistakes That Are Destroying Your Achilles tendon",
+ "v5": true
+}

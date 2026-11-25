@@ -1,0 +1,480 @@
+{
+  "id": "093",
+  "v5": true,
+  "title": "Stop Doing neck tendon training Wrong: Train Your neck tendons Instead",
+  "description": "Your head weighs as much as a bowling ball and your neck tendons hold it up all day, yet nobody trains them. The neck hold test times the cable system your posture depends on. Get your seconds, learn why a trained neck changes how your whole frame looks, and start gently.",
+  "tags": [
+    "neck hold test",
+    "neck tendons",
+    "neck training",
+    "posture",
+    "deep neck flexors",
+    "tendon training",
+    "chin tuck",
+    "skinny guy fitness"
+  ],
+  "hashtags": [
+    "neck training",
+    "neck strength",
+    "posture",
+    "tendon training",
+    "chin tuck",
+    "calisthenics"
+  ],
+  "category": "tendons",
+  "badge": "EP 93 - NECK TENDON HOLD TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE NECK CABLES",
+    "YOUR TIME"
+  ],
+  "thumb": {
+    "asset": "ren_wall_slide.webp",
+    "big": "60 SEC",
+    "hook": "STRONG NECK STRONG FRAME",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Stand with your back flat against a wall, feet a step away from it. Tuck your chin slightly, like you are making a double chin on purpose, and press the back of your head gently into the wall. Now hold that press and start your clock. The pressure should feel like a firm push, about half of your maximum, never a strain. Your job is to keep the press honest: the second your head slides, your chin pokes forward, or the pressure fades to nothing, the clock stops. Most people discover in the first twenty seconds that the front of their neck has muscles they have never once used on purpose. Write down your seconds. Keep your number. At the end I will tell you what it reveals about the cables holding your head up.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BACK FLAT, CHIN TUCKED",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "PRESS AT HALF EFFORT",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "CHIN POKES OUT = CLOCK STOPS",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "HALF EFFORT, FULL HONESTY",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "A GENTLE TEST",
+          "lines": [
+            "This grades endurance,",
+            "not bravery. Never strain."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "60 SEC",
+      "label": "THE LINE BETWEEN SLOUCHED AND WIRED",
+      "sub": "under 25: screen neck - over 90: wrestler's base",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Sixty seconds of honest head press is where a screen neck becomes a wired one. Under twenty five, the deep cables at the front of your neck are asleep, and your head has been hanging off ligaments and habit for years. Twenty five to sixty means the system works but quits early, which is why your posture collapses by the end of every workday. Over ninety, you have the base that wrestlers and racing drivers build on purpose. This number is not about toughness. It is about whether the smallest, most important tendon system in your body can do its all day job without quitting.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "SCREEN NECK = FIXABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "60 SEC = WIRED",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "90+",
+          "label": "WRESTLER'S BASE",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE NECK CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look at what your head sits on. Your skull balances on a stack of small bones, and it weighs about as much as a bowling ball. That ball is held in place almost entirely by soft tissue: deep flexor muscles and their tendons at the front, extensor cables at the back, all of them making tiny corrections thousands of times a day. There is no lock, no brace, no resting shelf. When the front cables are weak, the head drifts forward, the back cables strain to hold the extra leverage, and your shoulders round to help. A forward head is rarely a bone problem. It is a cable endurance problem, and your hold time just measured it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "YOUR HEAD = A BOWLING BALL",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "fact",
+          "title": "NO SHELF, ONLY CABLES",
+          "lines": [
+            "Balance is soft tissue",
+            "working all day long."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "chip",
+          "text": "FORWARD HEAD = ENDURANCE PROBLEM",
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "YOUR TIME MEASURED IT",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE NECK CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the load math nobody shows you. With your head balanced over your spine, the neck cables manage its true weight, roughly five kilos. Tip the head forward the way you do over a phone, and leverage multiplies the effective load two or three times over. Your neck tendons spend the whole day holding a weight you never agreed to lift, at an angle you never notice. That is why untrained necks ache by evening even though you never worked out. The fix is not a better chair. The fix is a cable system strong enough that the multiplied load feels easy. Endurance first, because the neck's real job is not one big lift. It is ten thousand small ones. Office workers in posture studies routinely spend six or more hours a day in that multiplied load position. Nobody's neck was designed to be exempt from arithmetic, and the bill always arrives, either as evening aches or as a hold time under twenty five seconds.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BALANCED: ABOUT 5 KILOS",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "PHONES MULTIPLY THE LOAD",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "EFFECTIVE NECK LOAD",
+          "items": [
+            [
+              "BALANCED HEAD",
+              5,
+              "cyan"
+            ],
+            [
+              "PHONE HEAD",
+              15,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "THE REAL JOB",
+          "lines": [
+            "Not one big lift.",
+            "Ten thousand small ones."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "ENDURANCE FIRST, ALWAYS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "THE NECK CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Most neck advice gets the direction wrong. People stretch the back of the neck harder, buy taller pillows, and blame the chair. Meanwhile the actual weak link, the deep flexors at the front, never gets a single training rep. It is like treating a sagging bridge by polishing the towers instead of tensioning the cables. The wall press you did today is the correct signal: gentle, sustained load that teaches the front cables to hold the head where it belongs. Small daily doses beat heroic weekend sessions here, because this system was built for endurance, and endurance is trained by frequency. Five calm minutes a day will do what an hour of stretching never could.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "STRETCHING ONLY = WRONG TARGET",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "LOAD THE FRONT CABLES",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "GENTLE AND SUSTAINED",
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "FREQUENCY BUILDS ENDURANCE",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE NECK RULE",
+          "lines": [
+            "Five calm minutes daily",
+            "beat an hour of stretching."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE NECK CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "One more audit, and it happens while you sleep. Your neck cables hold your head for sixteen waking hours, and then your pillow decides their night shift. A pillow that is too tall parks the front cables shortened for eight hours. One that is too flat leaves the back cables holding the weight of a tilted head until morning. You wake up inside whatever position you outsourced the night to, which is why so many people start the day stiff before they have done anything at all. You do not need a special product. You need a pillow that keeps your head roughly level with your spine, and a neck strong enough that small imperfections stop mattering. That is the real goal of the holds: not a perfect setup, but a cable system with enough margin that normal life, bad chairs, long flights, and cheap pillows all become rounding errors.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE NIGHT SHIFT IS 8 HOURS",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_wall_slide.webp"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "MORNING STIFFNESS IS A CLUE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "fact",
+          "title": "MARGIN IS THE GOAL",
+          "lines": [
+            "Strong cables make bad chairs",
+            "and cheap pillows irrelevant."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 34,
+          "kind": "chip",
+          "text": "LEVEL HEAD, QUIET NECK",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "YOUR TIME",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now the skinny advantage, and this one shows in the mirror. On a lean frame, the neck is the highest visibility muscle you own. A trained neck thickens the one place that sits above every collar, and it changes your silhouette more per centimeter than any other training you can do. Big guys hide a weak neck inside a big frame. You cannot hide yours, which sounds harsh until you flip it: you also cannot hide your progress. Every week of holds will be visible. Add the posture effect, head up and shoulders back, and the same light frame suddenly reads as athletic instead of tired. Your neck is the cheapest visual upgrade in your entire body.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HIGHEST VISIBILITY ON A LEAN FRAME",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "fact",
+          "title": "NOWHERE TO HIDE",
+          "lines": [
+            "Weak shows. So does strong.",
+            "Every week will be visible."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "CHEAPEST VISUAL UPGRADE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "POSTURE CHANGES THE SILHOUETTE",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_wall_slide.webp",
+      "exercise": "NECK HOLD",
+      "work": 20,
+      "rest": 20,
+      "rounds": 4,
+      "section": "YOUR TIME",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Four rounds of gentle head presses against the wall, twenty seconds on, twenty seconds off. Chin tucked, pressure at half effort, breathing slow the whole time. Go."
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "YOUR TIME",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your week, and the first rule is gentleness. Wall presses once a day, four short holds, always at half effort, never grinding. Add chin tucks at your desk, ten slow reps whenever you remember, to teach the front cables their job during real life. Raise your screen if you can, and give the cables a fair angle to work at. Progress by adding seconds, never by pressing harder. Now the warning, and with the neck it is not decoration. Dizziness, pain shooting into the arm, or numbness in the hands means stop today, and if neck pain persists or keeps returning, see a professional before you train it again. Necks reward respect.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "DAILY HOLDS, HALF EFFORT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "CHIN TUCKS AT YOUR DESK",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "SKIP: PRESSING MAX HARD",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "ADD SECONDS, NOT FORCE",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "STOP SIGNALS",
+          "lines": [
+            "Dizziness or arm pain",
+            "means stop and get checked."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "60+",
+      "label": "THE RETEST LINE IN 30 DAYS",
+      "sub": "under 25: untrained - 25 to 60: building - over 60: wired",
+      "section": "YOUR TIME",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your seconds. Under twenty five: your front neck cables are untrained, and gentle daily holds will change this number faster than you expect. Twenty five to sixty: you are building, and desk chin tucks are your secret weapon. Over sixty: your neck is wired, a base most people never build in their lives. Put your seconds in the comments. Just the number. We retest in thirty days, same wall, same half effort, and I expect a bigger number with better posture attached.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNTRAINED IS FIXABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "YOUR TIME",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your head sits on cables, and today you found out if they are working. Five calm minutes a day, and in thirty days we count again. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "FIVE CALM MINUTES A DAY",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "TRAIN THE CABLE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

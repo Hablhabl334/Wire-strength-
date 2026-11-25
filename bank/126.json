@@ -1,0 +1,462 @@
+{
+ "badge": "EP 126 - THE KNEE PAIN TEST",
+ "category": "healing",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE HEALING",
+  "YOUR GRADE"
+ ],
+ "description": "One leg, one slow knee bend, one honest pain number. Your single-leg squat test reads the state of your patellar tendon better than any mirror. Here is the pain line rehab uses, why tendons heal so slowly, and the isometric protocol that loads the tendon without flaring it.",
+ "hashtags": [
+  "kneepain",
+  "patellartendon",
+  "tendonhealing",
+  "jumpersknee",
+  "isometrics",
+  "kneerehab"
+ ],
+ "id": "126",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG. NO WEIGHTS."
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STOP AT FIRST PAIN"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "YOUR PAIN NUMBER",
+     "pos": "tr",
+     "text": "0-10"
+    },
+    {
+     "at": 19,
+     "kind": "fact",
+     "lines": [
+      "Not a stop sign. Not a green light.",
+      "A measurement."
+     ],
+     "pos": "br",
+     "title": "PAIN IS DATA"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIND THE EXACT DEPTH"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REMEMBER YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Stand on one leg. | Other foot behind you. | Hands on your hips. | Now bend the knee. | Slowly. | Like a small squat. | Stop when pain starts, | or form falls apart. | How deep could you go? | And how much pain? | Zero means nothing. | Ten means the worst. | Say your PAIN NUMBER. | Out loud. | Right now. | No bar. | No weights. | Just one leg, | one knee, | and the truth. | Most guys guess wrong | about their own knees. | They train through pain. | Or they fear all pain. | Both slow the healing. | This test separates them. | Go down once more. | Slower this time. | Find the exact depth | where the ache appears. | That depth is data. | That pain is data. | Keep your number safe. | At the end, | I grade it honestly.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "0-3 = WORKING ZONE"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "6+ = BACK OFF"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Baseline by tomorrow morning,",
+      "or yesterday was too much."
+     ],
+     "pos": "tr",
+     "title": "THE 24-HOUR RULE"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PAIN DURING + PAIN AFTER"
+    }
+   ],
+   "big": "3 / 10",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE PAIN LINE FOR TRAINING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line rehab actually uses. Pain at THREE out of ten or under, while the tendon is loaded, is the working zone for most tendon programs. Four or five means caution: the load is probably more than the tissue can bank today. Six and above means back off and rebuild the dose. And the second half of the rule matters just as much: whatever you do today, your knee should feel back to its normal baseline by tomorrow morning. Pain that is still elevated the next day means yesterday was too much, no matter how good it felt at the time.",
+   "section": "THE NUMBER",
+   "sub": "0-3: the working zone - 4-5: caution - 6+: back off",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KNEECAP TO SHIN: ONE BAND"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Poor blood supply.",
+      "Slow supplies, slow repairs."
+     ],
+     "pos": "br",
+     "title": "WHY TENDONS HEAL SLOWLY"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SEVERAL TIMES BODYWEIGHT"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 22,
+     "kind": "swap"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LOAD IS THE SIGNAL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the front of your knee. The thick band running from your kneecap down into your shin is the PATELLAR TENDON, and it takes a beating every time you jump, land, or climb stairs. It can carry several times your bodyweight in a single landing. But here is the catch that explains everything: tendons have a POOR BLOOD SUPPLY compared to muscle. Muscle is plumbed like a city. Tendon is more like a desert road, with supplies arriving slowly. That is why a strained muscle feels better in two weeks, while an angry tendon can grumble for months. The tendon is not lazy. It is simply supplied slowly, so its repair crew works slowly. There is one more twist. The patellar tendon does not work alone: it is the final link of the strongest chain in your body, the quadriceps, and every signal that chain sends ends up in this band. Weak quads, tired quads, or a sudden quad workload all present their bill at the same small address, just below your kneecap. Healing a tendon means feeding that slow crew the one signal it understands: the right amount of LOAD, repeated patiently.",
+   "section": "THE HEALING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HOLDS THAT QUIET PAIN"
+    },
+    {
+     "asset": "knee_anatomy_plate.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "items": [
+      [
+       "REST ONLY",
+       30,
+       "red"
+      ],
+      [
+       "MANAGED LOAD",
+       80,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "TWO ROADS, ONE KNEE"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Steady holds can calm tendon pain",
+      "for hours in many people."
+     ],
+     "pos": "tr",
+     "title": "THE ISOMETRIC EFFECT"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REST FEELS SAFE. LOAD HEALS."
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the part nobody tells you. When researchers put people with patellar tendon pain on ISOMETRIC holds, long, steady contractions with no movement, many reported their pain dropping for hours afterward. The hold seems to quiet the pain signal while still loading the tendon, which makes it the perfect first tool: load without the flare. Compare the two roads. The complete-rest road feels safe, but an unloaded tendon actually gets weaker and less organised, so the pain comes back the moment you use the knee again. The managed-load road keeps the tissue fed, graded, and slowly stronger. Same knee, same tendon, completely different month. There is a third road, and it is the one most people actually take: the yo-yo. Two weeks of heroic training, one bad flare, a month of fear, repeat. The tendon never gets a steady signal, so it never files a steady adaptation. Tendons are bureaucrats. They approve consistent paperwork and they ignore drama completely. Rest feels like healing. Load is healing, dosed right.",
+   "section": "THE HEALING",
+   "type": "art"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REACTIVE FIRST, BREAKDOWN LATER"
+    },
+    {
+     "asset": "ren_wall_sit.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "lines": [
+      "A reactive tendon settles fast.",
+      "A broken-down one takes months."
+     ],
+     "pos": "br",
+     "title": "EARLY IS CHEAP"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TOMORROW MORNING TELLS MORE"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOU TESTED EARLY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One more layer, because your test number only makes sense with it. Tendon trouble usually moves along a CONTINUUM. First the tendon gets reactive: swollen, sensitive, complaining after a sudden spike in jumping or squatting. That stage settles fastest, if you calm the load down for a short while. Ignore the spike and keep hammering, and the tissue starts to break down in patches, which takes much longer to remodel. The same knee pain can be a two-week story or a six-month story, and the difference is mostly how early you start respecting the signal. Your single-leg number, plus how the knee feels tomorrow morning, tells you roughly where on that road you are standing. Early is cheap. Late is expensive. You tested today, so you are early.",
+   "section": "THE HEALING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LOAD SCALES WITH BODYWEIGHT"
+    },
+    {
+     "asset": "ren_split_squat_top.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "PRECISE DOSING, OFTEN",
+     "pos": "br",
+     "text": "SMALL STEPS"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Less load per rep.",
+      "More reps per week."
+     ],
+     "pos": "tr",
+     "title": "THE SKINNY ADVANTAGE"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BUILT FOR REHAB DOSING"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "And here is your advantage, because you are not carrying much of you. Every isometric hold and every slow squat loads the tendon in proportion to BODYWEIGHT. A heavier guy's knee absorbs far more force on the exact same exercise, which makes his dosing clumsy: easy to overshoot, hard to fine-tune. Your lighter frame is a precision instrument. You can load the tendon in small, exact steps, hold the pain line at three, and repeat the dose often, because each session costs your joints less. Rehab rewards the person who can dose precisely and recover quickly. That is literally the skinny build. The guys who struggle most with tendon rehab are the ones whose bodyweight makes every rep a maximal event. Yours never is.",
+   "section": "THE HEALING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "check": 3,
+   "exercise": "WALL SIT HOLD",
+   "music": "drive",
+   "narration": "Now load it with me. Back on the wall, knees at a comfortable bend, pain at three or less. Forty-five seconds on, thirty off, three rounds. Breathe slow. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "YOUR GRADE",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HOLDS DAILY, SQUATS 3X WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HARD STRETCHING THE TENDON"
+    },
+    {
+     "asset": "knee_anatomy_plate.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "REST A MONTH, THEN BINGE"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CHECK TOMORROW BEFORE ADDING"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SWELLING OR LOCKING = GET SEEN"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your week, in plain order. Every day, two or three isometric holds like the one we just did, because frequent small doses suit tendon tissue. Three times a week, slow split squats or slow squats, three seconds down, three seconds up, stopping the set while pain stays at three or under. Now the mistakes that stall knees. Mistake one: stretching the painful tendon hard, which compresses it and often makes it angrier. Mistake two: total rest for a month, then one huge game of football. Mistake three: adding load because today felt good, before checking tomorrow morning. And the honest line: if your knee pain came from a fall or a twist, if it swells, locks, or gives way, or if it persists, see a professional if it persists beyond a few weeks of careful loading. That needs hands and eyes on it, not a video.",
+   "section": "YOUR GRADE",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "6+ = ISOMETRICS ONLY"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "REACTIVE: MANAGED LOAD",
+     "pos": "br",
+     "text": "3-5"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "0-2 DEEP = HEALING WELL"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "THEN WE GRADE IT AGAIN",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your grade. If your test pain was six or higher, your tendon is overloaded right now: drop to isometrics only, and let it calm down before anything dynamic. Three to five means a reactive tendon that is asking for managed load, exactly the protocol you now have. Zero to two, at a deep knee bend, means your tendon is handling load well and healing is winning; keep building slowly. None of these grades is a life sentence. Tendons remodel for months, and every week of correct dosing shows up in this test. Put your pain number in the comments. Just the number. We retest in thirty days.",
+   "section": "YOUR GRADE",
+   "sub": "pain 6+: overloaded - 3-5: reactive - 0-2 at depth: healing well",
+   "type": "card"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SAME TEST, SAME RULES"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NEXT: THE MORNING TENDON"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Thirty days from now, same leg, same slow bend, and we grade that tendon again. Subscribe, because next we test the tendon that complains before your feet even hit the floor in the morning. This is {channel}. Train the cable.",
+   "section": "YOUR GRADE",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "knee pain test",
+  "patellar tendon",
+  "tendon healing",
+  "jumper's knee",
+  "isometric training",
+  "knee rehab",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "green",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "0-10",
+  "hook": "GRADE YOUR KNEE"
+ },
+ "title": "Your Knee Pain Test Reveals the Truth About Your patellar tendon healing",
+ "v5": true
+}

@@ -1,0 +1,468 @@
+{
+ "badge": "EP 23 - THE PUSH-UP TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE PRESS CABLES",
+  "YOUR REPS"
+ ],
+ "description": "Chest to a fist's height, full lockout, no hiding at the top. Your strict push-up max is a tendon test disguised as a chest exercise. Here is the honest protocol, what your number says about your pressing cables, and the five mistakes that turn fifty potential reps into five.",
+ "hashtags": [
+  "push-ups",
+  "push-up test",
+  "calisthenics",
+  "chest workout",
+  "tendon training",
+  "bodyweight training",
+  "push-up challenge"
+ ],
+ "id": "023",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "JUST THE FLOOR"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE STRAIGHT LINE"
+    },
+    {
+     "at": 11,
+     "kind": "fact",
+     "lines": [
+      "Chest low. Lockout full.",
+      "No rest at the top."
+     ],
+     "pos": "tr",
+     "title": "THE STRICT PUSH-UP"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FIST HEIGHT AT THE BOTTOM"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STOP WHEN FORM BREAKS"
+    }
+   ],
+   "check": 0,
+   "cycle": 2.4,
+   "music": "dark",
+   "narration": "Get into position. | Hands under shoulders. | Body one straight line, | head to heels. | Lower yourself | until your chest | reaches a fist's height | from the floor. | Press back up | to a full lockout. | That is one rep. | No pausing | at the top. | No sagging | in the middle. | Keep going, strict, | until your form | starts to break. | That final count | is your push-up max. | Write it down. | At the end, | I will show you | why this simple test | grades your tendons | more than your chest.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "40 REPS = WIRED"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "UNDER 15 = UNTRAINED, NOT SMALL"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "ELITE BODYWEIGHT PRESS",
+     "pos": "tr",
+     "text": "50+ REPS"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STRICT REPS ONLY COUNT"
+    }
+   ],
+   "big": "40 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN AVERAGE AND WIRED PRESSING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Forty strict push-ups is where average pressing becomes wired pressing. Under fifteen, your pressing cables are untrained, and that reflects your practice history, not your frame's potential. Fifteen to twenty-nine means the system is building and the reps are staying clean deeper into the set. Thirty to forty-nine puts you ahead of most people who train in gyms, because the bench press never asked their tendons to work like this. Over fifty strict, you own endurance pressing that carries into everything from dips to handstands. Notice what strictness did again. Full range, full lockout, no resting at the top probably cut your playground number in half. What remains is the truth, and the truth is the only number that can grow on schedule.",
+   "section": "THE NUMBER",
+   "sub": "under 15: untrained cables - over 50: elite bodyweight press",
+   "type": "card"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO TENDONS RUN THE PRESS"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Chest and triceps pull cables.",
+      "Cables do the pressing."
+     ],
+     "pos": "br",
+     "title": "THE PRESS CHAIN"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE BOTTOM LOADS THEM MOST"
+    },
+    {
+     "at": 27,
+     "kind": "stat",
+     "label": "OF YOUR BODYWEIGHT, EVERY REP",
+     "pos": "br",
+     "text": "2/3"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LOCKOUT STACKS THE JOINTS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at what actually presses you up. Your chest muscle pulls through the pectoral tendon into your upper arm. Your triceps pull through their tendon across the back of the elbow. Every push-up is those two cables transmitting force while your body tries to fold at the hips. The load is not trivial: a standard push-up presses roughly two thirds of your bodyweight through your hands, and the deepest part of the rep, chest near the floor, is where tendon tension peaks. The lockout at the top matters too, because it teaches the whole chain to finish, stacking the joints so the cables can hand the load to your skeleton for a split second. A push-up max is therefore not really a chest test. It is a repeated tendon test at two-thirds bodyweight, dozens of times in a row, and the cables' endurance is what your number reports. There is one more player worth naming: the front of your shoulder, where the chest tendon anchors. It is the reason elbow position matters so much in this exercise, and why the next scenes will keep returning to where your elbows point.",
+   "section": "THE PRESS CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORM BREAKS IN A PATTERN"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "HALF RANGE",
+       45,
+       "red"
+      ],
+      [
+       "FULL STRICT RANGE",
+       65,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SHARE OF BODYWEIGHT PRESSED"
+    },
+    {
+     "asset": "ren_pushup_mid.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TEMPO IS THE TENDON DOSE"
+    },
+    {
+     "at": 29,
+     "kind": "fact",
+     "lines": [
+      "Fast reps borrow momentum.",
+      "Slow reps pay the cables."
+     ],
+     "pos": "br",
+     "title": "WHY TEMPO RULES"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Watch a long push-up set closely and you will see failure arrive in a pattern. First the hips start to sag, quietly shifting load away from the press and into the lower back. Then the range shortens, a centimeter at a time, as the body negotiates a cheaper rep. Finally the lockout disappears, and the set becomes a series of bounces in the middle range where the tendons do the least work. None of this is laziness. It is a smart body protecting tired cables. But it means the last third of most people's sets trains almost nothing, which is why our test ends when form breaks. The tempo matters for the same reason. A controlled two-second lower keeps tension on the cables the whole way down. A dropped rep borrows gravity and momentum and pays the tendons in pennies. Strict tempo is not about looking disciplined. It is about making every rep a full dose.",
+   "section": "THE PRESS CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CHEAPEST GYM ON EARTH"
+    },
+    {
+     "asset": "elbow_anatomy_plate.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Floor, gravity, honesty.",
+      "Everything else is optional."
+     ],
+     "pos": "tr",
+     "title": "WHY THIS TEST SURVIVES"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ZERO SETUP, ZERO EXCUSES"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TEST ANYWHERE, FOREVER"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "There is a reason this test has survived a century of fitness fads. It needs no equipment, no gym, no spotter and no setup, which means it can be repeated under identical conditions for the rest of your life. A test you can run anywhere, anytime, in ninety seconds, is a test you will actually run, and the number you track monthly is worth more than a perfect laboratory measurement you take once. The push-up also scales silently with you. As your body changes, the load changes with it, so the test stays honest across years of training in a way that fixed weights never do. Treat it as your permanent pressing benchmark. Every other pressing exercise you ever learn, dips, bench, handstand work, will report back to this number eventually. It is the oldest gauge on the dashboard, and it still works.",
+   "section": "THE PRESS CABLES",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MORE REPS BEFORE FATIGUE"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ENDURANCE FAVORS THE LIGHT"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "lines": [
+      "Two-thirds of less",
+      "is still less."
+     ],
+     "pos": "tr",
+     "title": "THE MATH OF LIGHT"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "40 STRICT IS YOUR TERRITORY"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "VOLUME IS YOUR SUPERPOWER"
+    }
+   ],
+   "check": 2,
+   "cycle": 2.4,
+   "music": "drive",
+   "narration": "Now your advantage. | Two thirds of your bodyweight | is simply less | than two thirds of his. | So your cables | survive more reps | before fatigue wins. | More strict reps | means more tendon dose | in every session. | The heavy guy's set | dies at twenty, | flooded and burning. | Yours is still clean | at thirty-five. | This is an endurance game, | and endurance games | are won by the light. | Forty strict reps | is not a dream number | for your build. | It is the expected result | of honest practice.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE PRESS CABLES",
+   "type": "anim"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Now press with me. Strict reps, chest low, full lockout, no resting at the top. Thirty seconds on, sixty seconds off, four rounds. Clean over quick. Go.",
+   "rest": 60,
+   "rounds": 4,
+   "section": "YOUR REPS",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HALF REPS = HALF A TEST"
+    },
+    {
+     "asset": "ren_pushup_top.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SAGGING HIPS UNLOAD THE PRESS"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ELBOWS AT 90 = SHOULDER TAX"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BOUNCING SKIPS THE DOSE"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HANDS UNDER SHOULDERS, LINE STRAIGHT"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here are the five mistakes destroying your chest and triceps tendons. First, half reps. If the chest never gets low and the arms never lock, the cables train a middle slice and the ends stay weak forever. Second, sagging hips, which quietly moves the work from your pressing chain to your lower back. Keep the glutes squeezed and the line straight. Third, elbows flared out to ninety degrees, which shifts stress into the front of the shoulder. Keep them around forty-five degrees, like an arrow shape from above. Fourth, bouncing off the bottom or off the floor itself, which replaces tendon tension with momentum at the exact moment tension should peak. Fifth, speed for its own sake. Racing reps are a party trick. Slow, strict reps are the training. Remember, the tendon cannot count. It can only feel load and time, so give it both, every rep.",
+   "section": "YOUR REPS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 15 = FASTEST GAINS"
+    },
+    {
+     "asset": "ren_pushup_top.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "Under 15: the cables are asleep.",
+      "Over 40: add harder variations."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under fifteen strict: your pressing cables are asleep, and this band improves faster than any other in the series, sometimes by several reps a week. Fifteen to twenty-nine: the chain is building and your sets are staying honest deeper than before. Thirty to forty-nine: you press better than most gym members, full stop. Fifty and beyond: your endurance pressing is elite for bodyweight work, and your next frontier is harder variations, not more reps. Whatever your number is, put it in the comments. Just the number. In thirty days we get back on this floor and count again, same strict rules, and your cables will give their report. Fresh day, honest counting, no warm-up sets beforehand.",
+   "section": "YOUR REPS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME FLOOR. MORE REPS."
+    },
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUBSCRIBE FOR THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, same strict rules, more reps. Subscribe so you do not miss the retest, and bring your press. This is {channel}. Train the cable.",
+   "section": "YOUR REPS",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "push-ups",
+  "push-up test",
+  "push-up mistakes",
+  "triceps tendons",
+  "chest strength",
+  "calisthenics",
+  "max push-ups",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_top.webp",
+  "big": "40 REPS",
+  "hook": "STRICT OR ZERO"
+ },
+ "title": "5 push-up max Mistakes That Are Destroying Your chest and triceps tendons",
+ "v5": true
+}

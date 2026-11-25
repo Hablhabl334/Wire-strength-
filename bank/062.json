@@ -1,0 +1,403 @@
+{
+ "badge": "EP 62 - THE DIAMOND PUSH-UP TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "YOUR NUMBER"
+ ],
+ "description": "Move your hands together and the push-up becomes an elbow exam. Your diamond push-up number reads the triceps tendon, the last bridge between your arm and real pressing power. Here is the twenty-rep line and how to rebuild the bridge in thirty days.",
+ "hashtags": [
+  "diamond push-ups",
+  "triceps tendon",
+  "push-up test",
+  "hidden strength",
+  "calisthenics",
+  "elbow strength"
+ ],
+ "id": "062",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANDS TOGETHER, THUMBS TOUCHING"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CHEST TO HANDS = ONE REP"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ELBOWS FLARING = DIFFERENT TEST"
+    },
+    {
+     "at": 24,
+     "kind": "fact",
+     "lines": [
+      "Same floor. Same body.",
+      "One hand position changes the exam."
+     ],
+     "pos": "br",
+     "title": "THE HANDS MOVE THE LOAD"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Get on the floor. | Hands together now. | Under your sternum. | Thumbs and fingers touching. | Forming a diamond. | Body in one line. | Lower down slowly. | Chest to your hands. | Elbows tracking back. | Not flaring out. | Press back up. | Arms fully straight. | That counts one. | Keep them coming. | Same depth every rep. | Stop when form breaks. | That final number? | That is your number. | Compare it honestly | to your normal push-ups. | It will be lower. | Much lower, probably. | That gap is the lesson. | You moved your hands | a few inches in. | And the whole test | moved to one tendon. | The one behind | your elbow. | Keep your number. | And keep the gap. | At the end | I will decode both.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "20 CLEAN = TENDON WIRED"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "UNDER 8 = BRIDGE UNTRAINED"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "ELITE CLOSE-GRIP PRESSING",
+     "pos": "tr",
+     "text": "35+"
+    }
+   ],
+   "big": "20 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN PRESSING AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twenty clean diamond push-ups is where normal pressing becomes wired pressing. Under eight means the triceps tendon is untrained, and that is the standard result for guys who only ever press wide. Eight to twenty means the bridge is building and your elbow is learning to carry real load. Over thirty-five strict reps puts you in rare company, because close-grip pressing at that level demands a tendon most lifters never specifically build. Expect this number to sit near half of your normal push-up score. That ratio is healthy. If your diamond number is less than a third of your wide number, the gap itself is the diagnosis: your chest has been carrying a tendon that never got trained.",
+   "section": "THE NUMBER",
+   "sub": "under 8: bridge untrained - 8 to 20: building - over 35: elite pressing",
+   "type": "card"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TENDON BEHIND THE ELBOW"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "The triceps is three muscles.",
+      "They share one tendon, one bridge."
+     ],
+     "pos": "br",
+     "title": "THREE MUSCLES, ONE BRIDGE"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ALL FORCE CROSSES HERE"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE NUMBER GRADES THE BRIDGE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the back of your elbow. The triceps is not one muscle. It is three, fanning out across the back of your arm, and all three of them pour their force into a single flat tendon that anchors on the point of your elbow. Every close-grip press you will ever do crosses that one bridge. In a wide push-up, the chest and shoulders share the load and the bridge carries a fraction. Slide your hands together and the geometry changes brutally. The chest loses its leverage, the elbows bend deeper, and the triceps tendon becomes the main road the force has to travel. That is why the diamond version humbles strong pressers. Their engine is fine. The bridge was never built to carry the whole convoy. Your diamond number is the bridge's load rating, measured in reps, and like every tendon on this channel, it can be rebuilt with the right kind of patience.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEEPER BEND = LONGER STRETCH"
+    },
+    {
+     "asset": "elbow_anatomy_plate.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "WIDE PUSH-UP",
+       100,
+       "cyan"
+      ],
+      [
+       "DIAMOND PUSH-UP",
+       52,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME GUY, TWO NUMBERS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE GAP IS THE DIAGNOSIS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The gap between your two push-up numbers deserves its own minute, because it is the most useful free diagnostic in pressing. A wide push-up and a diamond push-up use the same body, the same floor, and mostly the same muscles. The only thing that changes is which tendons carry the load and at what angles. So when the diamond number collapses to a third of the wide number, nothing about your effort or toughness changed. You simply found the bridge that training forgot. Tendons adapt to the exact angles and loads they are fed, no more and no less. Years of wide pressing built wide-pressing tendons. The close angles stayed soft because nothing ever asked them to work. This is the deep rule of this whole season: your strength is not one thing. It is a map of every angle you have loaded, and every test we run is just reading a different square of the map. The diamond reads the square behind your elbow, and for most guys it is embarrassingly blank.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SHAKY ELBOWS = TENDON SIGNAL"
+    },
+    {
+     "asset": "ren_pushup_top.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE BOTTOM IS THE EXAM ROOM"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PAUSES REBUILD THE BRIDGE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Watch the bottom of a diamond rep and you will see the tendon working its hardest shift. The elbow is bent to its deepest angle, the triceps tendon is stretched across the joint under load, and the press has to restart from the position of maximum stretch and minimum leverage. This is where reps shake, stall, and die, and it is not a character flaw. It is the bridge at its weakest span. The training answer is the same one this channel keeps giving you, because tendons keep asking for the same thing: pause there. A dead stop of one second at the bottom of training reps forces the tendon to organize force from a standstill, with no bounce and no momentum, exactly the skill the test measures. It also slows the rep down enough for the tendon to feel heavy, clean load, which is the only language it rebuilds from. Chase the burn with fast, bouncy reps and the muscle gets a workout while the bridge gets nothing. Slow down, pause at the bottom, and the bridge finally gets its mail.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS BODY = MORE BRIDGE REPS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "MORE CLOSE-GRIP VOLUME PER WEEK",
+     "pos": "br",
+     "text": "x2"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LIGHT PRESSERS BUILD FASTER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage here follows the same arithmetic as every floor test on this channel. A diamond push-up moves roughly two thirds of your body weight through one tendon bridge. Lighter body, less load per rep, more reps before the bridge fatigues, and more quality practice per session. The heavy presser gets a harder single workout and a longer recovery. You get frequency, and tendons are frequency animals. They rebuild from many clean, moderate loads spread across the week, not from one weekly demolition. There is a second gift hidden in your build. Skinny arms are usually honest arms: there is little muscle mass to disguise a weak tendon with, so your test number tells the truth early, while the problem is still small and cheap to fix. The big guy finds out about his bridge when it starts hurting. You found out from a number, on a Tuesday, for free.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "DIAMOND PAUSE PRESS",
+   "music": "drive",
+   "narration": "Now press with me, diamond style. One second dead stop at the bottom of every rep. Thirty seconds on, thirty off, four rounds. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "YOUR NUMBER",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HALF-MAX SETS, SPREAD ALL DAY"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "ELBOWS FLARED WIDE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "FAST BOUNCY REPS ONLY"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SLOW BOTTOMS BUILD BRIDGES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is your week. Four days a week, grease-the-groove diamond sets at half your max, spread through the day, every bottom paused. If you tested twelve, your sets are six perfect reps, done fresh, hours apart. Twice a week, the pause sets you just did with me. The tendon behind your elbow rebuilds from frequency and patience, not from being punished. Three mistakes keep this bridge weak. Flaring the elbows wide, which quietly turns the test back into a chest exercise and lets the tendon off the hook. Bouncing fast reps that train the muscle's burn while the tendon coasts. And ignoring elbow pain signals: a deep ache at the point of the elbow that lingers into the next day means reduce the load, and if elbow pain persists, see a professional before you keep pressing on it. Tendons whisper before they shout. Your job is to listen while it is still whispering.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BLANK SQUARE = FASTEST GAIN"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY - SAME FLOOR, SAME DIAMOND",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under eight: the bridge is untrained, and a blank square on the map is the fastest gain there is, because every session writes on empty paper. Eight to twenty: you are building, and your job is paused bottoms and frequent small sets. Over twenty with strict form: your triceps tendon is wired, and your pressing has a foundation most lifters never bother to pour. Put your number in the comments, and your wide push-up number next to it. Just the numbers. We retest in thirty days, same floor, same diamond, and we watch the gap close.",
+   "section": "YOUR NUMBER",
+   "sub": "under 8: untrained - 8 to 20: building - over 20: wired bridge",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "UNTIL THE RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CLOSE THE GAP"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, hands together, and we read the bridge again. Subscribe, because next we squeeze the truth out of the elbow itself, and it has been keeping secrets. This is {channel}. Train the cable.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "diamond push-ups",
+  "triceps tendon",
+  "close grip push-ups",
+  "push-up test",
+  "elbow strength",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_pushup_bottom.webp",
+  "big": "20 REPS",
+  "hook": "DIAMONDS TEST TENDONS"
+ },
+ "title": "Your Diamond Push-Up Number Reveals the Truth About Your triceps tendon",
+ "v5": true
+}

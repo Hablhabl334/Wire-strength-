@@ -1,0 +1,444 @@
+{
+ "badge": "EP 70 - TOE RAISE TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "THE PLAN"
+ ],
+ "description": "Stand with your back to a wall and lift the front of your feet as many times as you can in a minute. That simple count grades the tendons running down the front of your shin. Here is what your toe raise number says about those forgotten cables, why they protect every step you take, and the week of training that builds them.",
+ "hashtags": [
+  "toe raise test",
+  "tibialis training",
+  "tendon training",
+  "foot strength",
+  "ankle strength",
+  "skinny guy fitness"
+ ],
+ "id": "070",
+ "scenes": [
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BACK AGAINST THE WALL"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HEELS DOWN, TOES TO THE SKY"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HEELS LIFT = REP DOES NOT COUNT"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "It grades the tendons on your shin."
+     ],
+     "pos": "br",
+     "title": "ONE NUMBER"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FULL RANGE, EVERY REP"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Stand with your back | against a wall. | Feet a step forward. | Heels on the floor. | Now lift your toes. | Pull the front | of your feet up. | Toward your shins. | As high as possible. | Lower them slowly. | That is one rep. | Start your clock. | You have sixty seconds. | Count every clean rep. | Heels stay down. | No rocking back. | No bouncing. | The front of your shins | will start to burn. | That burn is famous. | Got your NUMBER? | Write it down. | That number grades | your FOOT TENDONS. | And the shin muscle | nobody ever trains. | At the end | I will tell you | what your number means.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE SHIN BURN IS NORMAL"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SLOW LOWERING COUNTS DOUBLE"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "SHINS OF A TRAIL RUNNER",
+     "pos": "br",
+     "text": "35+"
+    }
+   ],
+   "big": "25 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "CLEAN TOE RAISES IN 60 SECONDS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twenty-five clean toe raises in sixty seconds, full range, heels glued, no rocking your body to steal momentum. Under twelve, the tendons running down the front of your shin are simply untrained, and the fierce burn you felt is what a neglected cable feels like on its first day of work. Between twelve and twenty-five, the system is waking up and learning to pull its weight. Over thirty-five, you own the shins of a trail runner, built to handle thousands of steps on rough ground without complaining. This test does not care about your calf size. It measures the forgotten half of your lower leg, the half that lifts your foot every single step you take.",
+   "section": "THE NUMBER",
+   "sub": "under 12: untrained shins - over 35: trail runner shins",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY LEG HAS TWO ENGINES"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Your calf pushes you forward.",
+      "Your shin tendon clears the ground."
+     ],
+     "pos": "br",
+     "title": "PUSH AND CLEAR"
+    },
+    {
+     "at": 19,
+     "kind": "stat",
+     "label": "STEPS A DAY NEEDING CLEARANCE",
+     "pos": "tr",
+     "text": "8,000"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TRAIN BOTH DIRECTIONS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at your lower leg properly, maybe for the first time. It has two engines, not one. At the back, your calf and Achilles tendon push you forward and launch every step. At the front, a muscle called the tibialis anterior runs down your shin, and its tendon crosses your ankle to lift the front of your foot. That lift is called clearance, and without it your toes would drag on every step. You take thousands of steps a day, and every single one needs both engines: push from the back, clear from the front. Almost everyone trains the push. Almost nobody trains the clear. That imbalance is exactly why the front of the shin burns like fire the first time you ask it to work. It has been a passenger for your entire life. The two engines also share one tendon highway at the ankle, passing each other like traffic in both directions. When one side is far weaker than the other, the strong side starts compensating, and compensation is where aches are born. Balance is not a luxury down here. It is the design.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE ECCENTRIC BRAKE"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "WEAK SHIN TENDON",
+       40,
+       "red"
+      ],
+      [
+       "TRAINED SHIN TENDON",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CONTROL WHEN YOUR FOOT LANDS"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Your shin tendon lowers your foot",
+      "after every heel strike."
+     ],
+     "pos": "br",
+     "title": "THE QUIET JOB"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CONTROL = PROTECTION"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the shin tendon's second job, the one that protects you. When your heel strikes the ground, your foot wants to slap down flat. The tibialis tendon stops that by lowering your forefoot under control, thousands of times a day, like a brake cable easing a weight to the floor. When that tendon is weak, the foot slaps, the shin absorbs shock it was never meant to take, and runners end up with the famous ache along the front of the leg. Training toe raises is not cosmetic work on a tiny muscle. It is upgrading the brake system of every step you take. Tendons respond to the same rule here as everywhere else on your body: slow, progressive load, repeated for weeks, and the cable gets thicker, stiffer, and far better at its job. This braking job is also why the shin tendon matters for speed, not just health. A foot that lands under control is a foot that leaves the ground on time. Sloppy landings leak the spring your Achilles worked to load. The front and back of your leg are one system, and the test grades the half everyone forgets.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE LOWERING IS THE TRAINING"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Three seconds down beats",
+      "three extra sloppy reps."
+     ],
+     "pos": "br",
+     "title": "TEMPO BUILDS TENDON"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DROPPING THE FOOT = WASTED REP"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "UP FAST, DOWN SLOW"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One detail decides whether this exercise builds tendon or just makes you tired: the lowering. Anyone can flick their toes up. The tendon adapts when you lower the foot slowly, fighting gravity for a full three seconds, because that eccentric tension is the strongest rebuilding signal a tendon knows. This is the same principle behind heel drops for the Achilles and slow negatives everywhere else on this channel. The pattern never changes. Muscles like reps. Tendons like time under controlled tension, especially on the way down. So when you train this week, cut your reps in half if you have to, but never cut the lowering short. Ten slow reps will rebuild more cable than thirty fast ones. There is a reason this tempo rule appears in almost every episode of this season. Tendons are slow tissue. They do not read effort, they read strain over time. Give them seconds, not flashes, and they answer with collagen.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT FEET, CHEAP STEPS"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "HEAVY RUNNER",
+       45,
+       "red"
+      ],
+      [
+       "YOU",
+       80,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SHIN FATIGUE OVER 10,000 STEPS"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Lighter legs ask less of",
+      "the shin tendon per step."
+     ],
+     "pos": "br",
+     "title": "THE STEP ECONOMY"
+    },
+    {
+     "asset": "ren_calf_raise_front.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = EFFICIENT STEPS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now your advantage. Every step you take asks your shin tendon to lift and lower a foot, and your foot is attached to a lighter leg than the heavy guy's. That means less load per step, less fatigue per kilometer, and a tendon that can handle far more training volume before it needs rest. Trail and ultra runners figured this out long ago: the athletes who move efficiently for hours are rarely the biggest ones. They are the ones whose small tendons never quit. You start this game with the efficient frame already built. Your shin tendon is simply untrained, and untrained is the most fixable condition there is. A few weeks of toe raises and the forgotten half of your lower leg starts pulling its weight on every step.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "check": 3,
+   "exercise": "TOE RAISES",
+   "music": "drive",
+   "narration": "Now we train it together. Back on the wall, heels down, toes to the sky. Forty-five seconds of slow reps, fifteen to rest, three rounds. Up fast, down slow. Feel the shins light up.",
+   "rest": 15,
+   "rounds": 3,
+   "section": "THE PLAN",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TOE RAISES, 3 DAYS A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SKIPPING THE LOWERING"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ADD REPS BEFORE WEIGHT"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BAREFOOT WALKS COUNT TOO"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is your week. Three sessions of toe raises, exactly like the block you just did, and add two reps per session before you ever add weight. On the days between, walk. Walking is the shin tendon's natural training ground, and a ten minute barefoot walk on grass asks it to work in ways no wall exercise can copy. If you run, keep your mileage steady while these tendons catch up; they adapt slower than your fitness does, and patience now is what keeps the front of your shins quiet later. The burn during training is normal and even welcome. What you should respect is a sharp, localized pain along the shin bone that shows up earlier every run. That pattern deserves rest and, if it persists, a professional opinion. Expect the burn to move. Week one, it is all shin. By week four, the same reps feel strangely easy, and that is the tendon and its muscle finally sharing the work like they were designed to.",
+   "section": "THE PLAN",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A STARTING LINE, NOT A VERDICT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under twelve: your shin tendons are untrained passengers, and the good news is they respond to training within weeks. Twelve to twenty-five: you are building, and every session is teaching the front of your leg to finally pull its weight. Over thirty-five: you are wired, with foot clearance that trail runners spend seasons chasing. Whatever you scored, it is a starting line, not a verdict. Train the plan for thirty days and run the test again, same wall, same clock, same rules. Put your number in the comments, just the number, and we compare on retest day.",
+   "section": "THE PLAN",
+   "sub": "same test, same rules - compare the number",
+   "type": "card"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SUBSCRIBE FOR RETEST DAY"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now | we run this test again. | Same wall, same clock. | Bring a bigger number. | Your steps will feel cleaner. | Subscribe so you | do not miss retest day. | This is {channel}. | Train the cable.",
+   "section": "THE PLAN",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "toe raise test",
+  "tibialis anterior",
+  "tendon training",
+  "foot strength",
+  "ankle strength",
+  "shin strength",
+  "tibialis raises",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_calf_raise_front.webp",
+  "big": "25 REPS",
+  "hook": "YOUR SHINS ARE ASLEEP"
+ },
+ "title": "Your Toe Raise Number Reveals the Truth About Your foot tendons",
+ "v5": true
+}

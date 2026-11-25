@@ -1,0 +1,386 @@
+{
+ "badge": "EP 36 - THE JUMP TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SPRING",
+  "YOUR HEIGHT"
+ ],
+ "description": "Chalk your fingers, reach, and jump. Your vertical jump height measures the stiffness of your Achilles tendon, the spring that decides how much force ever leaves the ground. Here is how to test it honestly, why muscle size is not the limiting factor, and the hopping method that stiffens the spring.",
+ "hashtags": [
+  "vertical jump",
+  "jump higher",
+  "achilles stiffness",
+  "vertical jump test",
+  "plyometrics",
+  "skinny guy fitness"
+ ],
+ "id": "036",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHALK. REACH. JUMP."
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Standing reach first.",
+      "Jump reach minus standing reach."
+     ],
+     "pos": "br",
+     "title": "THE MEASURE"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "RUNNING START = DIFFERENT TEST"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Chalk your fingertips, or wet them. Stand side-on to a wall and reach as high as you can with one arm, feet flat. Mark that point. That is your standing reach, and it does not count. Now stand a step away, dip fast, swing your arms, and jump as high as you possibly can, marking the wall at the top. Measure the gap between the two marks. That gap, in centimeters, is your VERTICAL JUMP HEIGHT. No running start, no steps in. Three attempts, take the best. Most people have never measured this honestly, because the number it reports is not really about their legs. It is a stiffness reading on the most important spring in the body. Keep your number. At the end, I will tell you what it grades.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "50 CM = SPRINGY"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "SERIOUS SPRING TERRITORY",
+     "pos": "br",
+     "text": "70+ CM"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LOW JUMP = SOFT SPRING"
+    }
+   ],
+   "big": "50 CM",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN SOFT AND SPRINGY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifty centimeters is where a normal jump becomes a springy one. Under thirty-five, the spring is soft and leaks force on every landing. Thirty-five to fifty, the system works but the stiffness is unfinished. Past seventy centimeters from a standstill, you leave the ground with a spring most athletes never build.",
+   "section": "THE NUMBER",
+   "sub": "under 35: soft spring - over 70: serious spring",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE DIP LOADS THE SPRING"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Force goes into the tendon first.",
+      "The tendon decides what returns."
+     ],
+     "pos": "br",
+     "title": "THE BOUNCE MODEL"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STIFF SPRING, FAST RETURN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at what a jump really is. When you dip down, your bodyweight crashes into your Achilles tendon and stretches it like a spring being pulled. A fraction of a second later, that spring recoils and throws the energy back into the ground. Your muscles add force, but the tendon decides how much of the total ever becomes height. A soft tendon stretches too far and gives the energy back late, after your body has already started rising, and the difference is simply lost. A stiff tendon barely stretches, snaps back instantly, and returns nearly everything while adding the muscle force on top. That is why your jump is a stiffness test wearing a costume. Two people with identical leg muscles can jump fifteen centimeters apart, and the gap lives almost entirely in a few centimeters of tissue behind the ankle. It helps to know the spring has a partner. Your calf muscle does not just pull the tendon; it also tunes it, contracting to set the stiffness before your foot ever leaves the ground. Jumpers are not just born with better springs. Their nervous systems learn to pre-tune the spring in the split second before takeoff, which is a trainable skill hiding inside what looks like pure talent. Every hop you practice teaches that tuning, whether you feel it or not.",
+   "section": "THE SPRING",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SIZE IS NOT STIFFNESS"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "BIG CALVES",
+       42,
+       "red"
+      ],
+      [
+       "STIFF SPRING",
+       58,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "JUMP HEIGHT IN CM"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SPRINGS BEAT SIZE"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Muscle adds force slowly.",
+      "Tendon returns force instantly."
+     ],
+     "pos": "br",
+     "title": "THE SPEED GAP"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Here is the comparison that breaks the gym myth. Put a heavy lifter with huge calves next to a lean jumper with unremarkable legs, and the lean jumper wins the wall test embarrassingly often. Muscle produces force slowly, over tenths of a second. A jump gives it almost no time: the whole ground contact in a fast dip lasts about as long as a blink. Tendon returns force instantly, because a spring needs no time to think. So the jump rewards the tissue that works at spring speed, not the tissue that poses well. Your test number is really asking one question: how much of your dip comes back before your feet leave the floor? Everything else, the squats, the size, the effort, is supporting cast for a few centimeters of Achilles.",
+   "section": "THE SPRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS MASS TO LAUNCH"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "The spring lifts your bodyweight.",
+      "Lighter load, faster recoil."
+     ],
+     "pos": "br",
+     "title": "THE LAUNCH MATH"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = BUILT TO JUMP"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "And then there is the math that favors you completely. The spring has to launch your bodyweight, and only your bodyweight. A heavier athlete loads a similar-sized tendon with far more mass, so more of his recoil is spent just moving himself. You ask your spring to launch less, which means more of its snap becomes height. This is why the great jumpers of every sport look the way you do: lean, light, and spring-loaded, with calves that would lose a bodybuilding contest and win every wall test ever held. Your build is not a jumping handicap waiting to be fixed with size. It is the jumping build, waiting for its spring to be stiffened.",
+   "section": "THE SPRING",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE SPRING",
+   "check": 2,
+   "music": "dark",
+   "narration": "Let me clear up the two jump myths that waste the most training time. Myth one: you need to get much stronger in the squat before your jump can move. Squat strength helps, but plenty of strong squatters jump poorly because their springs leak the force their muscles produce. Myth two: jumping is mostly technique. Technique arranges the takeoff, but it cannot return energy your tendon failed to store. The honest model is a pipeline: muscles produce force, the tendon stores and returns it, and technique aims the result. A leak anywhere in the pipeline caps the whole system, and in most recreational athletes the leak is the middle stage, the one nobody trains because nobody can see it in a mirror. Your wall test found the leak in thirty seconds. The hops in this video are how you seal it, one sharp contact at a time, until the pipeline runs clean from muscle to sky.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "TWO MYTHS, ONE PIPELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THE PIPELINE",
+     "lines": [
+      "Muscle produces. Tendon returns.",
+      "Technique only aims it."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THE LEAK IS THE MIDDLE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "text": "SEAL THE LEAK",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "POGO HOPS",
+   "music": "drive",
+   "narration": "Bounce with me. Ankles stiff, tiny hops, barely leaving the ground, like the floor is hot. Twenty seconds on, rest, four rounds. Quiet landings. Go.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "YOUR HEIGHT",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHORT GROUND CONTACT"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SINKING INTO LANDINGS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MAX JUMPS EVERY DAY"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STIFFNESS IN WEEKS, NOT DAYS"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Three sessions of low, stiff hops: pogo hops and short skipping, always with minimal ground contact and quiet landings. The cue is simple: the floor is hot, get off it. Keep the volume modest and the quality perfect, because springs are trained by sharp signals, not exhaustion. Three mistakes soften springs. Sinking deep into every landing turns the drill into slow muscle work and teaches the tendon to give. Chasing max jumps daily never lets the collagen rebuild between sessions, and tendon adapts between sessions, not during them. And adding heavy calf work on the same days muddies the signal: springs want their own day. Give the tissue patient weeks, and the recoil sharpens like a tool being honed. Measure your jump monthly, always with the same warm-up, because springs read differently cold and tired. Three attempts, best one counts, same wall, same chalk. A centimeter a month sounds slow until you do the yearly math, and yearly math is the only math tendons have ever cared about. One more surface note for your training: springs read best on firm ground. Thick, soft mats eat part of the recoil and teach your tendon a slower lesson. Do your hops on hard floor or thin shoes, where every bit of returned energy is yours to feel and to use.",
+   "section": "YOUR HEIGHT",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "YOUR HEIGHT",
+   "card": "bignum",
+   "check": 3,
+   "label": "WHAT YOUR NUMBER MEANS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your height. Under thirty-five centimeters: a soft spring, and the most responsive starting point in this entire series. Thirty-five to fifty: a working spring with stiffness still on the table. Over fifty from a standstill: you leave the ground on equipment most athletes never develop. Write it down. Retest in thirty days on the same wall, and put your centimeters in the comments. Just the number. Springs do not lie.",
+   "section": "YOUR HEIGHT",
+   "sub": "under 35: soft - 35 to 50: building - over 50: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "SAME TEST, NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of sharp hops, then the same wall and a higher mark. If this test measured a spring you did not know you owned, subscribe, because every video here starts with a number and ends with a stronger one. This is {channel}. Train the cable.",
+   "section": "YOUR HEIGHT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "vertical jump",
+  "jump higher",
+  "achilles tendon",
+  "vertical jump test",
+  "plyometric training",
+  "spring stiffness",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_jump_peak.webp",
+  "big": "50 CM",
+  "hook": "MEASURE YOUR SPRING"
+ },
+ "title": "Stop Doing vertical jump Wrong: Train Your Achilles stiffness Instead",
+ "v5": true
+}

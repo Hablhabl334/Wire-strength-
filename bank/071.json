@@ -1,0 +1,447 @@
+{
+ "badge": "EP 71 - TOWEL CURL TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "THE PLAN"
+ ],
+ "description": "Loop a towel around a post, lean back, and curl your own bodyweight for sixty seconds. That count grades the tendon that runs the length of your biceps. Here is what your towel curl number says about that cable, why it decides how strong your arms really are, and the training week that builds it.",
+ "hashtags": [
+  "towel curl test",
+  "biceps tendon",
+  "tendon training",
+  "arm strength",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "id": "071",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TOWEL AROUND A STURDY POST"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LEAN BACK, ARMS STRAIGHT"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HIPS BENDING = TEST OVER"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "It grades your biceps tendon."
+     ],
+     "pos": "br",
+     "title": "ONE NUMBER"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLOW LOWERING, EVERY REP"
+    }
+   ],
+   "check": 0,
+   "cycle": 2.0,
+   "music": "dark",
+   "narration": "Loop a towel | around a post. | Grip both ends. | Walk your feet forward. | Lean your body back. | Arms fully straight. | Body one straight line. | Now curl yourself in. | Hands to your forehead. | Lower back slowly. | Three seconds down. | That is one rep. | Start your clock. | You have sixty seconds. | Count every clean rep. | Hips stay locked. | No bouncing. | No jerking. | Your arms will burn. | Your elbows will talk. | Got your NUMBER? | Write it down. | That number grades | your BICEPS TENDON. | The cable that runs | your whole arm. | At the end | I will tell you | what your score means.",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED = FIXABLE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BODY STRAIGHT THE WHOLE SET"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "ARMS THAT OUTLAST THE GYM",
+     "pos": "br",
+     "text": "20+"
+    }
+   ],
+   "big": "15 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "CLEAN TOWEL CURLS IN 60 SECONDS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifteen clean towel curls in sixty seconds, body straight as a board, hands finishing at your forehead, every lowering under control. Under eight, your biceps tendon is simply untrained, and the wobble in your arms is what a soft cable looks like under honest load. Between eight and fifteen, the tendon is waking up and starting to stiffen through the whole curl. Over twenty, you own arms that outlast most gym guys, because their curls end when the muscle tires, and yours end when a trained tendon says so. This test does not care how your arms look in a shirt. It measures the cable that connects them to your shoulder, and that cable decides what your arms can actually do.",
+   "section": "THE NUMBER",
+   "sub": "under 8: untrained tendon - over 20: outlast the gym",
+   "type": "card"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE TENDON, TWO HEADS"
+    },
+    {
+     "asset": "forearm_anatomy_plate.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "The long head tendon travels",
+      "through your shoulder joint itself."
+     ],
+     "pos": "br",
+     "title": "A TENDON THROUGH THE JOINT"
+    },
+    {
+     "at": 19,
+     "kind": "stat",
+     "label": "THE TENDON'S ROUTE TO THE SHOULDER",
+     "pos": "tr",
+     "text": "FULL ARM"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EVERY CURL LOADS IT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at your biceps properly. The muscle you see has two heads, and the long head's tendon does something remarkable: it travels up through the inside of your shoulder joint before anchoring at the top of the socket. That means every curl you have ever done loads a tendon that runs the entire length of your arm and threads through your shoulder. When that tendon is trained, it does more than curl weight. It helps hold your shoulder together at the top, working quietly alongside the rotator cuff. When it is untrained, it becomes the weak link of the whole chain: the muscle is willing, the weight is ready, and the cable in between is the thing that complains. Your arms are only ever as strong as this one tendon allows them to be. Notice what that route means for training. A tendon that crosses two joints gets loaded differently at every angle. Shoulder back, elbow bent, elbow straight: the cable sees a new stress each time. Variety is not decoration for this tendon. It is how you build the whole length of it instead of one strong inch.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE LOWERING BUILDS THE CABLE"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "LIFTING ONLY",
+       40,
+       "red"
+      ],
+      [
+       "LIFT + SLOW LOWER",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "TENDON SIGNAL PER REP"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Tendons rebuild strongest under",
+      "slow, controlled lengthening."
+     ],
+     "pos": "br",
+     "title": "THE ECCENTRIC RULE"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "3 SECONDS DOWN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the rule that builds this tendon, because it is not the lifting. When you curl the weight up, your muscle does most of the talking. When you lower it slowly, the tendon takes the strain while it lengthens, and that eccentric tension is the strongest rebuilding signal a tendon can receive. This is why the towel curl is such a perfect tool: your bodyweight sets the load, and you control the lowering to the exact second. Three seconds down, every rep, no exceptions. Research on tendon training keeps landing on the same answer: heavy, slow, controlled lengthening is what makes collagen reorganize and stiffness climb. Fast, bouncy reps train your ego. Slow lowerings train the cable. Choose which one you are here for. The towel makes this even better. Unlike a dumbbell, your bodyweight cannot be dropped, cheated, or swung without your whole frame knowing. Every wobble shows up in the rep. The tendon gets honest information on every lowering, and honest information is what tissue adapts to.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR GRIP IS PART OF THE TEST"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "A slipping grip ends the set",
+      "before the tendon is trained."
+     ],
+     "pos": "br",
+     "title": "THE HIDDEN LIMIT"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "CHALKING UP TO SKIP GRIP WORK"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STRONG HANDS, HONEST CURLS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One honest warning about this test: your grip is part of it. The towel does not care about your biceps if your hands open first. That is not a flaw in the test, it is information. Your forearm tendons and your biceps tendon work as one chain every time you pull anything, and the chain reports its weakest link without lying. If your grip failed before your arms did, you just learned what to train alongside the curls: hangs, squeezes, and time holding your own bodyweight. This channel treats the chain as one system, because your body does. A strong biceps tendon fed by a weak grip is a sports car with bicycle tires. Build the whole chain and every number on it climbs together. This is also why towel work has survived a century of gym fads. Wrestlers and strongmen used it because it refuses to let one link hide. Modern equipment isolates. The towel integrates. For tendon training, integration is the point.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BODYWEIGHT IS YOUR DIAL"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "HEAVY GUY",
+       40,
+       "red"
+      ],
+      [
+       "YOU",
+       80,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CLEAN REPS BEFORE FORM BREAKS"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Feet closer = heavier curl.",
+      "Feet back = lighter. Instant scaling."
+     ],
+     "pos": "br",
+     "title": "THE BUILT-IN SCALE"
+    },
+    {
+     "asset": "ren_pullup_mid.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = PERFECT LOAD RANGE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now your advantage, and the towel curl shows it perfectly. Your bodyweight is the resistance, and your bodyweight is light. That sounds like a limitation until you see what it buys: a load you can adjust by centimeters. Step your feet forward and the curl gets heavier. Step back and it gets lighter. You own a perfectly scaled tendon trainer that a heavier guy cannot copy, because his minimum load is his whole heavy body, and it is often too much for clean reps from day one. You can live in the exact zone where form stays perfect and the tendon gets its signal, session after session. Tendons do not need maximal load. They need the right load, repeated. Being light hands you the right load for free.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "check": 3,
+   "exercise": "TOWEL CURLS",
+   "music": "drive",
+   "narration": "Now we train it together. Same setup as the test, a little less lean. Eight slow curls, three seconds down, rest, and go again. Three rounds. Keep the body straight.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "THE PLAN",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "3 SESSIONS A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "ADDING LEAN EVERY SESSION"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE NOTCH HARDER PER WEEK"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REST DAYS ARE TENDON DAYS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is your week. Three towel curl sessions, with a full rest day between them, because the biceps tendon rebuilds on the off days, not during the work. Session one: test pace, clean reps, note your number. Session two: slower, three seconds down on every rep, even if the count drops. Session three: one notch more lean, feet a few centimeters further forward. Progress one notch a week, never more, because tendons adapt on a schedule of weeks while muscles adapt in days, and outrunning your tendon is how elbows start to ache. A deep burn in the biceps is the work. A sharp pinch at the front of the shoulder or a deep ache inside the elbow is information: back off the lean, slow down, and let the cable catch up. Film one set a week from the side. You are looking for the straight body line and the slow lowering. What the camera shows in ten seconds will coach you better than a month of guessing. If that ache keeps showing up for weeks, get it checked by a professional instead of negotiating with it.",
+   "section": "THE PLAN",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A STARTING LINE, NOT A VERDICT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under eight: your biceps tendon is untrained, not weak, and slow towel work will move you within weeks. Eight to fifteen: you are building, and the cable is stiffening through the whole range of the curl. Over twenty: you are wired, with arms that keep producing force long after bigger arms have faded. Whatever you scored, it is a starting line. Train the plan for thirty days and run this test again, same towel, same post, same lean. Put your number in the comments, just the number, and we compare on retest day.",
+   "section": "THE PLAN",
+   "sub": "same test, same rules - compare the number",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SUBSCRIBE FOR RETEST DAY"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now | we run this test again. | Same towel, same post. | Bring a bigger number. | Your arms will feel different. | Subscribe so you | do not miss retest day. | This is {channel}. | Train the cable.",
+   "section": "THE PLAN",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "towel curl test",
+  "biceps tendon",
+  "tendon training",
+  "arm strength",
+  "bodyweight curls",
+  "eccentric training",
+  "bigger arms",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_pullup_top.webp",
+  "big": "15 REPS",
+  "hook": "YOUR ARMS ARE LYING"
+ },
+ "title": "Your Towel Curl Test Reveals the Truth About Your biceps tendon",
+ "v5": true
+}

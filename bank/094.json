@@ -1,0 +1,480 @@
+{
+  "id": "094",
+  "v5": true,
+  "title": "Stop Doing shoulder tendon training Wrong: Train Your rotator cuff tendons Instead",
+  "description": "Your shoulder is a ball balanced on a golf tee, and four small tendons called the rotator cuff keep it there. The wall hold test times them honestly. Get your seconds, learn why the cuff matters more than the deltoid you can see, and start steering your shoulders properly.",
+  "tags": [
+    "rotator cuff",
+    "shoulder hold test",
+    "shoulder tendons",
+    "wall slides",
+    "shoulder stability",
+    "tendon training",
+    "shoulder health",
+    "skinny guy fitness"
+  ],
+  "hashtags": [
+    "rotator cuff",
+    "shoulder health",
+    "wall slides",
+    "tendon training",
+    "shoulder stability",
+    "calisthenics"
+  ],
+  "category": "tendons",
+  "badge": "EP 94 - ROTATOR CUFF HOLD TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE CUFF",
+    "YOUR HOLD"
+  ],
+  "thumb": {
+    "asset": "ren_wall_slide.webp",
+    "big": "60 SEC",
+    "hook": "SHOULDERS DON'T LIE",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Stand with your back against a wall, heels, hips, and head all touching it. Raise your arms into a goalpost shape, elbows bent, the backs of your arms and hands pressed into the wall. Now slide both arms slowly upward, keeping every point of contact, until they are as straight overhead as you can honestly get them. Hold that top position and start your clock. The test ends the moment your lower back arches off the wall, your wrists peel away, or your arms drift forward to escape. Most people feel the deep burn within thirty seconds, in muscles they cannot name and have never trained. Write down your seconds. Keep your number. At the end I will tell you what it says about the four tendons steering your shoulder.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "GOALPOST AGAINST THE WALL",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "SLIDE UP, THEN HOLD",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "BACK ARCHES = CLOCK STOPS",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "CONTACT POINTS NEVER LIE",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "THE DEEP BURN",
+          "lines": [
+            "That is the cuff.",
+            "You have never trained it directly."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "60 SEC",
+      "label": "THE LINE BETWEEN LOOSE AND WIRED",
+      "sub": "under 25: loose steering - over 90: pilot's shoulders",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Sixty seconds in the top position is where loose steering becomes wired. Under twenty five, your rotator cuff tendons are undertrained, and your shoulder is being steered by hope and big muscles. Twenty five to sixty means the cuff works but fades, which is when shoulders start clicking and aching during pressing. Over ninety, you own the kind of shoulder control that overhead athletes spend careers building. Notice again what the test ignores: your deltoid size. The mirror muscle can look impressive while the steering system underneath is running on fumes, and this number sniffs that out in one minute.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "LOOSE STEERING = FIXABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "60 SEC = WIRED",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "90+",
+          "label": "PILOT'S SHOULDERS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "shoulder_anatomy_plate.webp",
+      "section": "THE CUFF",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look at the design of your shoulder. The ball of your arm bone sits on a socket so shallow it is basically a golf ball on a tee, built for huge range of motion and terrible natural stability. What keeps the ball centered is the rotator cuff: four muscles whose tendons wrap the joint like fingers cupping a ball, squeezing it into the socket every time you move your arm. Your deltoid is the engine that lifts. The cuff is the steering and the suspension. When the cuff tendons are weak, the ball wanders as you lift, tissues get pinched in the gap, and the shoulder that looked fine in the mirror starts complaining at night. Your hold test timed the steering crew, not the engine. Surgeons who repair shoulders describe the cuff the same way pilots describe landing gear: small, unglamorous, and the thing everything else depends on when conditions get rough. You never notice it while it works. You notice nothing else when it fails.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "A GOLF BALL ON A TEE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_wall_slide.webp"
+        },
+        {
+          "at": 15,
+          "kind": "fact",
+          "title": "FOUR FINGERS CUP THE BALL",
+          "lines": [
+            "The cuff squeezes the joint",
+            "centered on every rep."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "DELTOID LIFTS, CUFF STEERS",
+          "pos": "tr"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "WEAK CUFF = WANDERING BALL",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "THE CUFF",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the part the fitness world gets backwards. It trains the shoulder from the outside in, chasing the round deltoid look, while the cuff responds to the opposite kind of work: light loads, high control, long holds, and full contact positions like today's test. Tendon research keeps landing on the same recipe for the cuff: isometrics and slow eccentrics build tendon stiffness without grinding the joint. The cuff also recovers fast, because its daily job is endurance, not max strength. That is why a one minute hold grades it so well. It is not a strength test at all. It is an endurance test for the tendons that decide whether your shoulder ages well or falls apart at forty.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LIGHT LOAD, HIGH CONTROL",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "ISOMETRICS BUILD THE CUFF",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "WHAT THE CUFF NEEDS",
+          "items": [
+            [
+              "HOLDS + CONTROL",
+              85,
+              "cyan"
+            ],
+            [
+              "HEAVY PRESSING",
+              30,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "AN ENDURANCE SYSTEM",
+          "lines": [
+            "The cuff works all day.",
+            "Train it like it works."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "AGES WELL OR FALLS APART",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "shoulder_anatomy_plate.webp",
+      "section": "THE CUFF",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now connect it to the exercise you already love on this channel. The dead hang is secretly one of the best cuff positions in bodyweight training, because a passive hang lets the joint open up while the cuff learns to center the ball under load. Wall slides teach the upward steering. Hangs teach the downward control. Between the two of them, a skinny guy with no equipment covers nearly the whole cuff syllabus with furniture he already owns. The mistake is skipping both and going straight to heavy pressing, which is like tuning a car engine while the steering wheel is loose. Steering first, engine second. That order will keep your shoulders training for decades instead of years.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "PRESSING FIRST = LOOSE STEERING",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "HANGS + SLIDES = THE SYLLABUS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "STEERING BEFORE ENGINE",
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "DECADES, NOT YEARS",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE SHOULDER RULE",
+          "lines": [
+            "Center the ball first.",
+            "Then add power."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "shoulder_anatomy_plate.webp",
+      "section": "THE CUFF",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Audit the cuff in your kitchen. Reaching the top shelf, lifting a pan with one hand, pulling a heavy door toward you: every one of those asks the four cuff tendons to center the ball while bigger muscles do the visible work. When the cuff is trained, you never think about any of it. When it is not, the shoulder starts sending small invoices: a pinch at a certain angle, an ache after painting a ceiling, a night side you learn to avoid sleeping on. None of those are old age arriving early. They are a steering system asking for its first real training block. The good news hidden in the anatomy is that the cuff is built from endurance tissue, and endurance tissue improves on almost any consistent schedule. You do not need the perfect program. You need the wall, the hang bar, and a month of showing up.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "TOP SHELF = CUFF EXAM",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_hang_side_relaxed.webp"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "SMALL ACHES ARE INVOICES",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "fact",
+          "title": "ENDURANCE TISSUE",
+          "lines": [
+            "It improves on almost",
+            "any consistent schedule."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 35,
+          "kind": "chip",
+          "text": "WALL, BAR, ONE MONTH",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_hang_side_active.webp",
+      "section": "YOUR HOLD",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your skinny advantage at the shoulder. Cuff work is about control, not load, and control is the one currency a light body is rich in. Your arms weigh less, so your cuff can hold positions longer, practice more days per week, and groove perfect steering without the joint getting beaten up. The heavy guy's cuff is already working overtime just managing his mass in daily life. Yours has the spare capacity to actually train. And here is the visual secret: a wired cuff pulls the shoulder ball back and down into its strongest position, which makes even a lean chest and back look wider and more athletic. Steering is posture, and posture is the frame everything hangs on.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "CONTROL IS THE CURRENCY",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "fact",
+          "title": "SPARE CAPACITY AGAIN",
+          "lines": [
+            "His cuff manages mass.",
+            "Yours gets to train."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "WIRED CUFF = WIDER LOOK",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "STEERING IS POSTURE",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_wall_slide.webp",
+      "exercise": "WALL SLIDE HOLD",
+      "work": 30,
+      "rest": 20,
+      "rounds": 4,
+      "section": "YOUR HOLD",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Four rounds of wall slide holds, thirty seconds in the top position, twenty seconds of rest. Every contact point glued to the wall, breathing slow, no arching. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "YOUR HOLD",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your week. Wall slide holds once a day, four short rounds, chasing contact points instead of height. Add a passive dead hang most days, thirty seconds of letting the shoulders open and center. When the top position gets easy, slow the slide itself down to ten seconds up and ten seconds down. Never turn this into a pressing contest, because the cuff grows from control, not from suffering. The warning matters here too. Shoulder pain that is sharp, that wakes you at night, or that keeps returning whenever you press is not a training plateau, and if it persists, see a professional and get the joint properly assessed.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "HOLDS EVERY DAY",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "DEAD HANGS MOST DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "SKIP: PRESSING THROUGH PAIN",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "SLOW THE SLIDE TO PROGRESS",
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "NIGHT PAIN = GET CHECKED",
+          "lines": [
+            "Shoulders that wake you",
+            "need a professional eye."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "60+",
+      "label": "THE RETEST LINE IN 30 DAYS",
+      "sub": "under 25: untrained - 25 to 60: building - over 60: wired",
+      "section": "YOUR HOLD",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your seconds. Under twenty five: your cuff is untrained, and daily holds will rewrite this number within a month. Twenty five to sixty: you are building, and the slow slide is your next level. Over sixty: your steering is wired, the foundation every pressing milestone will stand on. Put your seconds in the comments. Just the number. We retest in thirty days, same wall, same contact points, and this time the wall will not win.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNTRAINED IS FIXABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "shoulder_anatomy_plate.webp",
+      "section": "YOUR HOLD",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your shoulder is a ball on a tee held steady by four small cables, and now you know their honest grade. Hold daily, hang often, and in thirty days we time it again. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "HOLD DAILY, HANG OFTEN",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "TRAIN THE CABLE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

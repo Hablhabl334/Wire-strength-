@@ -1,0 +1,390 @@
+{
+ "badge": "EP 30 - THE DIP TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SHOULDERS",
+  "YOUR NUMBER"
+ ],
+ "description": "Two chairs and your bodyweight are enough to grade your pressing tendons. Your dip number shows whether your shoulders are built on stiff cables or soft tissue. Here is the depth that makes the test honest, what your reps reveal about your shoulder tendons, and the progression that builds pressing power without a bench.",
+ "hashtags": [
+  "dip test",
+  "dips",
+  "shoulder tendons",
+  "pressing strength",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "id": "030",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO CHAIRS. NO EXCUSES."
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HALF DEPTH = HALF TRUTH"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "lines": [
+      "Upper arm parallel: one rep.",
+      "Shallow reps do not count."
+     ],
+     "pos": "tr",
+     "title": "THE DEPTH RULE"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 2.6,
+   "music": "dark",
+   "narration": "Set two chairs apart. | Grip the tops, | arms straight, | and lift your feet. | Lower your body slowly | until your upper arms | run parallel to the floor. | That depth is the rule. | Press back up | to straight arms. | That is one rep. | Count every clean rep | until you cannot press out. | No bouncing at the bottom. | No half depth at the top. | The number you finish with | is your DIP NUMBER. | Most people guess theirs | is twice the real one. | The chairs tell the truth. | Keep your number. | At the end of this video | I will tell you | what it grades.",
+   "poses": [
+    "ren_dip_top.webp",
+    "ren_dip_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "15 = TRAINED"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "PRESSING TERRITORY",
+     "pos": "br",
+     "text": "30+ REPS"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LOW NUMBER = ROOM TO GROW"
+    }
+   ],
+   "big": "15 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN SOFT AND STRONG",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifteen strict dips is where casual pressing becomes trained pressing. Under five, the whole shoulder system is untrained, which is the fastest place to improve from. Five to fifteen, the muscle works but the tendons lag behind. Over thirty at full depth, you press with cables most bench pressers never build.",
+   "section": "THE NUMBER",
+   "sub": "under 5: untrained system - over 30: pressing territory",
+   "type": "card"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FOUR SMALL CABLES STEER IT"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "The ball must stay centered.",
+      "Small tendons do the steering."
+     ],
+     "pos": "br",
+     "title": "THE SHOULDER PROBLEM"
+    },
+    {
+     "asset": "ren_dip_bottom.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEPTH LOADS THE STEERING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your shoulder is a design compromise. The ball of your arm bone sits in a socket so shallow it looks like a golf ball on a tee, and the only things keeping it centered while you press are four small muscles and their tendons, the rotator cuff. Every dip asks those small cables to steer the ball while your chest and triceps drive the load. At the bottom of a strict dip, shoulders stretched and loaded, the steering system works its hardest. That is exactly where soft tendons get exposed. If your reps turned shaky, shallow, or painful at depth, the big muscles were rarely the limit. The steering cables were. And steering cables follow the same rule as every tendon in your body: progressive load makes them stiffer, stronger, and far more reliable under pressure. One more structure deserves respect here. The long tendon of your biceps runs through the front of your shoulder and helps hold the ball in its socket while you press. It is a common source of front-shoulder ache in dippers who progress too fast, and another reason slow descents and honest depth beat ego loading every single time. Protect it, and it will protect every press you ever do for the rest of your life.",
+   "section": "THE SHOULDERS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLOW NEGATIVES BUILD CABLES"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "MUSCLE-FIRST",
+       10,
+       "red"
+      ],
+      [
+       "TENDON-FIRST",
+       25,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "STRICT REPS BY APPROACH"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DEPTH IS EARNED, NOT FORCED"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Eccentric load signals collagen.",
+      "Depth returns as cables adapt."
+     ],
+     "pos": "br",
+     "title": "THE BUILD RULE"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Here is how the cables actually get built. The lowering half of the dip, the eccentric, is where tendon receives its strongest rebuilding signal, because the fibers are loaded while they lengthen. Control the descent for three seconds and every rep becomes tendon training, not just muscle work. This is also why depth must be earned instead of forced. A stiff, adapted shoulder system lets you sink deep with control. A soft one complains, and pushing through sharp pain teaches it nothing. Train the depth you own, load it slowly, and the range extends itself as the collagen remodels. Week by week the bottom position stops feeling dangerous and starts feeling powerful, because the steering system finally matches the engine driving it.",
+   "section": "THE SHOULDERS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_bottom.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BODYWEIGHT IS YOUR LOAD"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Lighter frame, cleaner depth.",
+      "More strict reps per session."
+     ],
+     "pos": "br",
+     "title": "THE LIGHT ADVANTAGE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = MORE REPS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "And here is the skinny advantage again, hiding in plain sight. A dip presses your entire body. Every extra kilogram a heavier lifter carries is a kilogram his shoulder cables must steer at the deepest, hardest angle. You press less total weight, which means cleaner depth, more strict reps per session, and more tendon signal per week. The big guy grinding out five shallow, shaky reps is not training his steering system. He is surviving it. You can train yours rep after rep with perfect depth. On bodyweight pressing, the light frame is not the handicap it looks like. It is the better training tool.",
+   "section": "THE SHOULDERS",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_dip_top.webp",
+   "section": "THE SHOULDERS",
+   "check": 2,
+   "music": "dark",
+   "narration": "There is a warm-up that tells you whether your shoulders are ready to dip that day, and it takes twenty seconds. Stand with your back against a wall and slide your arms up overhead, keeping your ribs down and your forearms touching the wall. If they glide to the top smoothly, your steering system is awake and your depth will be there. If they stick, flare, or pinch halfway, your shoulders are asking for a lighter day, and the smart move is negatives and partial depth instead of a max set. Athletes in overhead sports check their shoulders like pilots check instruments before a flight, because the shoulder that fails a dip is rarely the one that failed suddenly. It was sending small signals for weeks. The wall slide is how you read those signals before the chairs read them for you. Do it before every pressing session for a month, and you will learn your shoulders' language fluently. Two minutes of checking saves two months of rehab, and that trade is available to you every single session.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE 20-SECOND CHECK",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THE WALL SLIDE",
+     "lines": [
+      "Smooth glide: green light.",
+      "Pinch halfway: lighter day."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "READ THE SIGNALS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "text": "PILOTS CHECK INSTRUMENTS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_dip_bottom.webp",
+   "check": 3,
+   "exercise": "DIPS",
+   "music": "drive",
+   "narration": "Press with me. Lower for three seconds, press up strong. Thirty seconds of strict reps, then rest. Four rounds. Depth you own only. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "YOUR NUMBER",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "3-SECOND DESCENT"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "DROPPING INTO DEPTH"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SHARP PAIN = STOP"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ADD A REP A WEEK"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Three pressing sessions, always fresh, never to total failure. Every rep descends for three seconds, pauses a heartbeat at your honest depth, and presses up strong. When fifteen strict reps get comfortable, slow the descent to five seconds before you add any weight. Three mistakes wreck dip progress. Dropping into the bottom turns the stretch into a yank on unprepared tissue. Forcing depth your shoulders do not own yet loads the steering cables at their weakest angle. And training through sharp, pinching pain is never toughness, it is damage; if pain persists, see a professional and get it checked. Muscle soreness is fine. Joint pain is information. Listen to it, train the range you own, and add about a rep a week. Log your depth, not just your reps. A small mark on the chair leg at your best honest depth turns progress into something you can see, and the day the mark moves down an inch, your cables have officially remodeled. Small signals, read early, are the cheapest coaching in the world, and your log is where those signals live. One more sign your cables are adapting: the warm-up sets start feeling lighter before your max ever moves. Trust that signal. Tendons often upgrade quietly for two or three weeks, and then the rep count jumps all at once, as if the work suddenly started counting. It was counting the whole time.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "YOUR NUMBER",
+   "card": "bignum",
+   "check": 3,
+   "label": "WHAT YOUR NUMBER MEANS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under five: the system is untrained, and negatives alone will double it within a month. Five to fifteen: the engine is fine, the steering is catching up, and slow descents are your fastest route. Over fifteen strict, full-depth reps: your shoulders press on cables that will carry serious training for years. Write it down. Retest in thirty days between the same two chairs, and put your reps in the comments. Just the number. Depth does not lie.",
+   "section": "YOUR NUMBER",
+   "sub": "under 5: untrained - 5 to 15: building - over 15: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "SAME TEST, NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of slow descents, then the same chairs and a bigger number. If this test graded shoulders you have been guessing about, subscribe, because every video here starts with a number and ends with a stronger one. This is {channel}. Train the cable.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "dips",
+  "dip test",
+  "shoulder tendons",
+  "bodyweight pressing",
+  "parallel bar dips",
+  "calisthenics test",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_dip_bottom.webp",
+  "big": "15 REPS",
+  "hook": "DIPS DON'T LIE"
+ },
+ "title": "Stop Doing dip max Wrong: Train Your shoulder tendons Instead",
+ "v5": true
+}

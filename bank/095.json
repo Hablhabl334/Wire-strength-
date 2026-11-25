@@ -1,0 +1,489 @@
+{
+  "id": "095",
+  "v5": true,
+  "title": "Stop Doing triceps tendon training Wrong: Train Your triceps tendon Instead",
+  "description": "Locking out a push-up is not a muscle trick, it is a tendon delivery, and the diamond push-up grades it rep by rep. Get your number, meet the triceps tendon behind your elbow, and learn why the last ten centimeters of every press belong to the cable, not the muscle.",
+  "tags": [
+    "diamond push-ups",
+    "triceps tendon",
+    "push-up test",
+    "lockout strength",
+    "tendon training",
+    "triceps training",
+    "elbow tendon",
+    "skinny guy fitness"
+  ],
+  "hashtags": [
+    "diamond push-ups",
+    "triceps",
+    "push-up test",
+    "tendon training",
+    "lockout strength",
+    "calisthenics"
+  ],
+  "category": "tendons",
+  "badge": "EP 95 - TRICEPS TENDON TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE TRICEPS CABLE",
+    "YOUR NUMBER"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_mid.webp",
+    "big": "15 REPS",
+    "hook": "DIAMONDS DON'T LIE",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Get on the floor. | Hands under your chest. | Thumbs and fingers touching. | Form a small diamond. | Body in one line. | Lower down slowly. | Chest toward your hands. | Elbows track back. | Not out wide. | Press all the way up. | Lock the elbows fully. | That is ONE rep. | No half reps. | No sagging hips. | Count your clean reps. | Stop when lockout fails. | Or form breaks down. | Write the number down. | Keep it safe. | At the end | I will tell you | what it grades.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DIAMOND UNDER YOUR CHEST",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "ELBOWS TRACK BACK",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "FULL LOCKOUT OR NO REP",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 17,
+          "kind": "chip",
+          "text": "STOP WHEN LOCKOUT FAILS",
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "fact",
+          "title": "THE LAST CENTIMETERS COUNT",
+          "lines": [
+            "This test grades lockout,",
+            "not the easy middle."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "15 REPS",
+      "label": "THE LINE BETWEEN SOFT AND WIRED",
+      "sub": "under 6: untrained cable - over 20: lockout machine",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Fifteen strict diamond push-ups is where a soft lockout becomes a wired one. Under six, your triceps tendon is untrained, and untrained is fixable with weeks, not years. Six to fifteen means the cable delivers force but fades at the top, which is why your normal push-ups stall two centimeters from straight arms. Over twenty, you own a lockout that most gym goers never build, because almost nobody trains the last part of the press on purpose. The diamond shape is not a gimmick. It moves the work onto the triceps and its tendon, and it grades them with nowhere to hide.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNTRAINED = FIXABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "15 REPS = WIRED",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "20+",
+          "label": "LOCKOUT MACHINE",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "elbow_anatomy_plate.webp",
+      "section": "THE TRICEPS CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look at the back of your elbow. Your triceps is a big three headed muscle, but all of its force funnels into one flat tendon that anchors on the bony point of your elbow. Every pressing movement you will ever do ends with that tendon pulling your forearm straight. Think of the muscle as the engine and the tendon as the driveshaft. A strong engine with a soft driveshaft still loses power at the wheel, and in pressing, the wheel is the lockout. When people say the top of the push-up feels strangely hard compared to the bottom, they are feeling the moment the load transfers onto this cable at its weakest angle. Train the cable, and the top of every press changes character. There is a simple way to feel this transfer happen. Press up halfway and pause, then finish the rep slowly and notice where the effort migrates as your arms straighten. That migration is the load changing hands, from the broad middle of the muscle to the narrow cable at the elbow, and it happens on every press you will ever do.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THREE HEADS, ONE TENDON",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_dip_top.webp"
+        },
+        {
+          "at": 15,
+          "kind": "fact",
+          "title": "ENGINE AND DRIVESHAFT",
+          "lines": [
+            "Muscle makes the force.",
+            "Tendon delivers it."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "LOCKOUT IS TENDON TERRITORY",
+          "pos": "tr"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "SOFT DRIVESHAFT LOSES POWER",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_dip_bottom.webp",
+      "section": "THE TRICEPS CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the mechanics most programs miss. A tendon delivers force best when it is stiff, because a stiff cable wastes less of the muscle's pull on stretching itself. At the lockout, your elbow is nearly straight, the muscle is at a short length, and almost everything depends on how directly the tendon transmits what is left. That is why two people with the same arm size can have wildly different diamond numbers. One has been training the delivery system with slow reps and full lockouts. The other trained the middle of the movement and skipped the end. The test you just did measures the delivery system, and the delivery system is trainable at any age, with nothing but the floor. Lockout training has an old school name in gymnastics: straight arm strength's finishing school. Rings athletes build legendary triceps tendons not with machines but with thousands of perfectly straight, fully locked positions held under control. Your diamond test is the floor version of the same school, and the tuition is just tempo.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "STIFF CABLE WASTES LESS",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "LOCKOUT = WEAKEST ANGLE",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "FORCE THAT ARRIVES",
+          "items": [
+            [
+              "TRAINED CABLE",
+              90,
+              "cyan"
+            ],
+            [
+              "SOFT CABLE",
+              60,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "SAME ARM, DIFFERENT NUMBER",
+          "lines": [
+            "Size is not delivery.",
+            "Delivery is trainable."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "TRAIN THE END OF THE PRESS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_dip_top.webp",
+      "section": "THE TRICEPS CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "This is also why dips belong in the same conversation. A dip loads the triceps tendon through a deeper elbow bend, and the slow lower half of a dip is one of the best tendon teachers in bodyweight training. The rule that protects you is tempo. Tendons adapt to load they can organize: controlled, repeatable, with a pause where the stretch is deepest. They get irritated by the opposite: bouncing, yanking, and max attempts under fatigue. If your elbows have ever ached after sloppy pressing, that was the tendon filing a complaint about your tempo, not about the exercise. Fix the tempo and the same movements become the medicine.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "BOUNCING = TENDON COMPLAINT",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "SLOW + PAUSED = MEDICINE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "DEEP BEND, SLOW LOWER",
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "TEMPO IS THE SAFETY SYSTEM",
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "fact",
+          "title": "THE ELBOW RULE",
+          "lines": [
+            "The exercise is fine.",
+            "Your tempo was the problem."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_back_top.webp",
+      "section": "THE TRICEPS CABLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Audit the lockout in your real life. Pushing a heavy door, pressing yourself up off the floor, closing a car trunk, the last shove that gets a stuck window moving: all of them finish in the same final centimeters your diamond test graded. Daily life is full of lockouts, and it grades them without mercy or warmup. This is why people with soft triceps tendons describe their arms as strong but unreliable, good in the middle of movements and strangely weak at the end of them. The tendon is the reason, and it is also the opportunity, because end range strength is one of the most trainable qualities you own. Every protocol in this episode is aimed at those final centimeters. Own them in training, and a hundred small daily moments quietly change character.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "DAILY LIFE GRADES LOCKOUTS",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "STRONG MIDDLE, WEAK END",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "fact",
+          "title": "END RANGE IS TRAINABLE",
+          "lines": [
+            "The final centimeters respond",
+            "to focused work fast."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "STRONG BUT UNRELIABLE = TENDON",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 29,
+          "kind": "chip",
+          "text": "OWN THE LAST CENTIMETERS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "YOUR NUMBER",
+      "check": 3,
+      "music": "dark",
+      "narration": "Now the advantage. | Diamonds grade bodyweight. | Your body is light. | So you get reps. | Reps are tendon food. | The heavy guy grinds. | Three ugly reps. | Then his elbows shout. | You can practice | perfect lockouts daily. | Volume with control. | That is the recipe. | His mass is load. | Your mass is practice. | Practice wins tendons. | Every single week. | Keep the reps pretty. | The cable is listening.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LIGHT BODY = MORE REPS",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "REPS ARE TENDON FOOD",
+          "lines": [
+            "He grinds three ugly ones.",
+            "You stack perfect ones daily."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "PRACTICE WINS TENDONS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 16,
+          "kind": "chip",
+          "text": "KEEP THE REPS PRETTY",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_mid.webp",
+      "exercise": "DIAMOND PUSH-UPS",
+      "work": 30,
+      "rest": 30,
+      "rounds": 4,
+      "section": "YOUR NUMBER",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Four rounds of diamond push-ups, thirty seconds of work, thirty seconds of rest. Slow lower, full lockout, stop the set the moment the lockout gets soft. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_weak.webp",
+      "section": "YOUR NUMBER",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is your week. Diamond push-ups three times a week, always leaving two clean reps in the tank. Add slow dips twice a week if you have two chairs, three seconds down, pause, press. Finish every session with five single lockout holds: press to straight arms and squeeze for five seconds at the top. Progress by reps first, then by slowing the lowering phase to four seconds. One warning, and elbows are famous for it. Pain at the back of the elbow that lingers into the next day means the dose was too big, and if elbow pain persists despite two easier weeks, see a professional and get it checked before you push again. Keep a simple log of your best strict set each week. Tendon progress is slow enough to feel invisible day to day, and the log is how you prove to yourself that the cable is actually changing.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "3X A WEEK, 2 REPS IN RESERVE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "SLOW DIPS 2X A WEEK",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "SKIP: GRINDING FAILED REPS",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "REPS, THEN TEMPO",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "NEXT-DAY PAIN = DOSE TOO BIG",
+          "lines": [
+            "Tendons report late.",
+            "Listen to the report."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "15+",
+      "label": "THE RETEST LINE IN 30 DAYS",
+      "sub": "under 6: untrained - 6 to 15: building - over 15: wired",
+      "section": "YOUR NUMBER",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under six: your triceps tendon is untrained, and the lockout holds will move this number within weeks. Six to fifteen: you are building, and slow dips are your next level. Over fifteen: your lockout is wired, the end of every press you own from now on. Put your number in the comments. Just the number. We retest in thirty days, same diamond, same strict lockout, and soft reps do not count twice.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNTRAINED IS FIXABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "YOUR NUMBER",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The last ten centimeters of every press belong to a cable most people never train. You just graded yours, and now you know the recipe. Retest in thirty days and bring me a lockout. Subscribe so you do not miss it. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "OWN THE LOCKOUT",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "TRAIN THE CABLE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

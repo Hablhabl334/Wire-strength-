@@ -1,0 +1,446 @@
+{
+ "badge": "EP 76 - ELBOW SQUEEZE TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "THE PLAN"
+ ],
+ "description": "Squeeze a rolled towel hard for three seconds at a time and count your reps for a minute. That count grades the tendons anchored around your elbow. Then we expose the five mistakes behind most elbow tendon pain, including the gripping habit that overloads the outside of the elbow, and the isometric protocol that calms it down and rebuilds it.",
+ "hashtags": [
+  "elbow tendons",
+  "tennis elbow",
+  "tendon training",
+  "grip strength",
+  "forearm training",
+  "skinny guy fitness"
+ ],
+ "id": "076",
+ "scenes": [
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ROLLED TOWEL IN YOUR HAND"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ELBOW BENT, ARM BY YOUR SIDE"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HALF SQUEEZES DO NOT COUNT"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "It grades your elbow tendons."
+     ],
+     "pos": "br",
+     "title": "ONE NUMBER"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NOTE ANY ELBOW ACHE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Grab a rolled towel. | Or a soft ball. | Arm by your side. | Elbow bent ninety degrees. | Now squeeze it hard. | Maximum grip. | Hold three seconds. | Release fully. | That is one rep. | Start your clock. | Sixty seconds. | Count your full squeezes. | Every rep maximum. | Every release complete. | Your forearm will pump. | Your grip will fade. | Pay attention to | the outside of your elbow. | Any ache there matters. | Got your NUMBER? | Write it down. | And write down | how your elbow felt. | That number grades | your ELBOW TENDONS. | The anchors of | your entire grip. | In this episode | the five mistakes | behind most elbow pain.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FADING GRIP = HONEST GRADE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FULL RELEASE BETWEEN REPS"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "GRIP OF A MANUAL WORKER",
+     "pos": "br",
+     "text": "28+"
+    }
+   ],
+   "big": "20 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "MAX SQUEEZES IN 60 SECONDS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twenty maximum squeezes in sixty seconds, three seconds each, with a full release between reps and no fade in force at the end. Under twelve, the tendons around your elbow are simply untrained for grip work, and the early fade you felt is a cable system running out of capacity. Between twelve and twenty, the anchors are building and your grip is starting to last. Over twenty-eight, you own the elbow tendons of a manual worker, built by thousands of honest contractions. This test does not care about your one-rep grip record. It measures whether the tendons at your elbow can fund a full minute of real work, and in this episode you will learn the five mistakes that bankrupt them.",
+   "section": "THE NUMBER",
+   "sub": "under 12: anchors underfunded - over 28: manual worker grip",
+   "type": "card"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO ANCHOR POINTS RUN EVERYTHING"
+    },
+    {
+     "asset": "forearm_anatomy_plate.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Nearly every forearm tendon",
+      "anchors within a thumb's width of your elbow."
+     ],
+     "pos": "br",
+     "title": "THE JUNCTION OF GRIP"
+    },
+    {
+     "at": 19,
+     "kind": "stat",
+     "label": "OF YOUR GRIP'S FORCE PASSES HERE",
+     "pos": "tr",
+     "text": "100%"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SMALL AREA, TOTAL TRAFFIC"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at your elbow like a map of anchor points. Almost every muscle in your forearm attaches within a thumb's width of this one joint. The extensors that open your hand and stabilize your wrist anchor on the outside bump of the elbow. The flexors that close your fist anchor on the inside. Every grip you have ever made, every bar you have hung from, every bag you have carried sent its force through these two small patches of tendon. That concentration is the elbow's genius and its weakness. A huge amount of traffic passes through a very small toll booth. When the load is gradual, the anchors thicken and handle it for a lifetime. When the load spikes or never varies, the toll booth is where the queue, and then the pain, begins. The inside and outside anchors also explain why elbow pain seems to pick a side. Gripping with the wrist extended loads the outside anchor. Gripping heavy with the wrist flexed leans on the inside one. Same joint, two different toll booths, and your habits decide which one gets the traffic jam.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRIP FORCE IS BORN HERE"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "UNTRAINED ANCHORS",
+       35,
+       "red"
+      ],
+      [
+       "TRAINED ANCHORS",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "GRIP ENDURANCE BY ANCHOR STRENGTH"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Your fingers are strong when",
+      "their anchors can fund the work."
+     ],
+     "pos": "br",
+     "title": "THE FUNDING RULE"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ENDURANCE IS AN ANCHOR QUALITY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is why your squeeze count faded. A single maximum grip is mostly muscle and nerve. A minute of maximum grips is a funding problem. Each contraction spends force, and the tendons at the elbow are the account it is drawn from. Untrained anchors run dry quickly: the signal stays willing, but the tissue cannot sustain the output, and the reps get weaker no matter how hard you try. Trained anchors fund contraction after contraction, because tendon stiffness wastes less energy and the tissue tolerates the repeated load. This is the same pattern as every test in this season, showing up at a new address. The muscle gets the glory. The tendon decides how long the glory lasts. Train the anchor, and endurance appears almost like magic, except it is not magic. It is capacity. Manual workers are the natural experiment here. Carpenters, mechanics, and climbers build elbow anchors over years of varied, gradual gripping, and their grip endurance embarrasses gym athletes with far bigger arms. The difference is not talent. It is thousands of funded contractions, deposited a few at a time.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MISTAKE 1: WHITE-KNUCKLE EVERYTHING"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "MISTAKE 2: ONE ELBOW ANGLE ONLY"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Maximal gripping on every task",
+      "keeps the anchors permanently overdrawn."
+     ],
+     "pos": "br",
+     "title": "THE OVERDRAFT HABIT"
+    },
+    {
+     "asset": "elbow_anatomy_plate.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "GRIP AS HARD AS NEEDED, NO MORE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Mistake one: white-knuckle gripping through life. Many guys grip everything at maximum: the bar, the bag, the steering wheel, the handshake. That habit keeps the elbow anchors under constant maximal tension with zero recovery, like redlining an engine in every gear. Grip as hard as the task needs, not as hard as you can. Mistake two: training grip at only one elbow angle. Tendons adapt where they are loaded, and a grip built only with the elbow bent stays weak with the arm straight, which is where carrying, hanging, and most real work happens. Vary the angle: bent, half-straight, straight. The anchors thicken along the whole map instead of at one address, and the elbow stops having a position where it is secretly fragile.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR LOADS ARE NATURALLY SMALLER"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "HEAVY LIFTER",
+       40,
+       "red"
+      ],
+      [
+       "YOU",
+       80,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "GRIP SESSIONS PER WEEK YOU CAN FUND"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Lighter bodyweight means every hang",
+      "costs your elbows less."
+     ],
+     "pos": "br",
+     "title": "THE RECOVERY DIVIDEND"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = MORE GRIP PRACTICE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now your advantage. Your elbows pay for your grip work in bodyweight currency. Every hang, every carry, every pull costs a lighter guy less at the anchor points, which means your tendons recover faster and can fund more practice per week. Grip endurance is a volume game, and volume is the game light bodies win. The heavy lifter must ration his grip work because every session overdraws the account. You can do short grip work almost daily and stay in credit. Over a season, that difference compounds into anchors that simply do not fade, while his fade by the third set. Being light does not limit your grip. Properly trained, it is the reason your grip can outlast men twice your size.",
+   "section": "THE TENDON",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "check": 3,
+   "exercise": "ISOMETRIC SQUEEZE HOLDS",
+   "music": "drive",
+   "narration": "Now we train it together. Squeeze the towel at seventy percent and hold. Forty-five seconds, rest, switch the effort, three rounds. Steady pressure, no shaking. This is the tendon's favorite medicine.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "THE PLAN",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MISTAKE 3: WRIST COCKED BACK UNDER LOAD"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "MISTAKE 4: SUDDEN GRIP VOLUME SPIKES"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MISTAKE 5: SKIPPING ISOMETRICS"
+    },
+    {
+     "asset": "forearm_anatomy_plate.webp",
+     "at": 21,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HOLDS CALM IT, LOAD BUILDS IT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Mistake three: letting your wrist cock back under load. A bent-back wrist stretches the outside anchors on every grip, multiplying their strain without adding any strength. Keep the wrist neutral and the same grip costs the tendon far less. Mistake four: the sudden spike. A new sport, a moving day, a weekend of gripping and climbing after months of none. Tendons forgive gradual and punish sudden; build volume like a ramp, not a cliff. Mistake five: skipping isometrics, the one tool elbow tendons respond to best. Long, steady holds like the block you just did are famous in tendon rehab for calming irritated elbows while they rebuild capacity. And the standing rule of this season: if elbow pain persists for weeks, spreads, or starts weakening your grip in daily life, get it checked by a professional. Elbow tendons heal well when the diagnosis is right. Add one small habit: finish grip sessions with the opposite motion. After hard squeezing, open your hand against a rubber band or your other hand's resistance. Balanced anchors share the traffic, and shared traffic is what keeps a toll booth from becoming a bottleneck.",
+   "section": "THE PLAN",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A STARTING LINE, NOT A VERDICT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under twelve: your elbow anchors are underfunded, not damaged, and steady holds plus gradual volume will rebuild them. Twelve to twenty: you are building, and your grip is starting to last the full minute. Over twenty-eight: you are wired, with anchors that fund work like a manual trade. Whatever you scored, and whatever your elbow reported during the test, treat both as information. Train the plan for thirty days and run the test again, same towel, same angle, same clock. Put your number in the comments, just the number, and we compare on retest day.",
+   "section": "THE PLAN",
+   "sub": "same test, same rules - compare the number",
+   "type": "card"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SUBSCRIBE FOR RETEST DAY"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now | we run this test again. | Same towel, same angle. | Bring a stronger minute. | Your grip will stop fading. | Subscribe so you | do not miss retest day. | This is {channel}. | Train the cable.",
+   "section": "THE PLAN",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "elbow tendons",
+  "tennis elbow",
+  "tendon training",
+  "grip endurance",
+  "forearm training",
+  "isometric holds",
+  "grip strength",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_grip_squeeze.webp",
+  "big": "20 REPS",
+  "hook": "YOUR GRIP GOES BROKE"
+ },
+ "title": "5 elbow tendon training Mistakes That Are Destroying Your elbow tendons",
+ "v5": true
+}

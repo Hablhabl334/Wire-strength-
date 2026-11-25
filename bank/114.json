@@ -1,0 +1,482 @@
+{
+ "badge": "EP 114 - THE STEP-DOWN TEST",
+ "category": "tendons",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE BRAKES",
+  "YOUR REPS"
+ ],
+ "description": "Jumping is easy. Landing is the skill, and it belongs to one tendon below your kneecap. Today you step down from a stair on one leg against the clock, learn why braking beats bouncing, and start building the patellar tendon that catches your whole life.",
+ "hashtags": [
+  "step down test",
+  "patellar tendon",
+  "tendon training",
+  "landing mechanics",
+  "calisthenics"
+ ],
+ "id": "114",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STAND ON A LOW STEP"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LOWER ON ONE LEG, SLOWLY"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "COUNT CLEAN STEP-DOWNS",
+     "pos": "tr",
+     "text": "60 SEC"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "lines": [
+      "Heel of the free leg kisses",
+      "the floor. Then back up."
+     ],
+     "pos": "br",
+     "title": "CONTROL THE WHOLE WAY DOWN"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMEMBER YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Stand on a low step, | sideways to the edge, | one foot near the drop. | Shift onto that leg. | Now lower yourself down | slowly, on one leg, | until the free heel | just kisses the floor. | Then press back up | to the top again. | That is one rep. | Knee tracking straight ahead, | hips staying level, | no pushing off the floor. | Count your clean reps | in sixty seconds flat. | Then switch your legs | and count again honestly. | The smaller number counts. | Write it down now. | Before this video ends | I will tell you | why this quiet test | grades the tendon | that catches your life.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WOBBLY = TRAINABLE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LANDING LIKE A CAT",
+     "pos": "br",
+     "text": "20+ REPS"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BRAKES BEFORE BOUNCE"
+    }
+   ],
+   "big": "14 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN WOBBLY AND CATCHING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fourteen clean step-downs in a minute is where a wobbly knee becomes a catching one. Under nine, your patellar tendon is negotiating every landing instead of controlling it, and the wobble you feel is the negotiation failing. Over twenty, you own brakes that land like a cat: quiet, level, repeatable. Notice what this test refuses to measure. It does not care how high you jump or how much you squat. It measures the skill your knees actually use in real life, which is catching your bodyweight, one leg at a time, without falling apart.",
+   "section": "THE NUMBER",
+   "sub": "under 9: negotiating landings - over 20: landing like a cat",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY LANDING IS A BRAKING EVENT"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "The patellar tendon catches",
+      "the thigh's force and slows it."
+     ],
+     "pos": "br",
+     "title": "THE BRAKE PAD"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MUSCLES JUMP, TENDONS LAND"
+    },
+    {
+     "asset": "ren_wall_sit_front.webp",
+     "at": 26,
+     "kind": "swap"
+    },
+    {
+     "at": 31,
+     "kind": "stat",
+     "label": "RUN THROUGH THIS TENDON",
+     "pos": "br",
+     "text": "ALL OF IT"
+    },
+    {
+     "at": 36,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NO BRAKES, NO ATHLETE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the truth about movement that gyms rarely teach. Muscles are famous for producing force: jumping, sprinting, lifting. But every one of those actions ends with the opposite problem. Something has to absorb the force, slow it down, and stop it safely. That job belongs to the tendons, and at the knee it belongs to one tendon in particular. When you land from a jump, come down a stair, or cut direction in a game, your thigh muscle fires while lengthening, and its force passes through the patellar tendon, which works like the brake pad of the leg. A strong brake pad catches the load early, spreads it over time, and keeps the joint tracking straight. A weak one lets the knee dive inward, the hip drop, and the load slam into the joint surfaces instead. Coaches have a saying: anyone can jump. Landing is the skill. Your step-down number is a landing grade, performed slowly enough that you can watch your own brakes work, rep by rep, with nowhere for bad habits to hide. And here is the encouraging mathematics of braking. The force of a landing does not change, but the time you take to absorb it changes everything. Spread the same force over twice the time and the peak load on the joint roughly halves. A trained tendon is, quite literally, a machine for buying time, and time is the difference between a landing that builds you and a landing that bills you.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WOBBLE IS THE DIAGNOSIS"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Knee dives in, hip drops:",
+      "the brake is late, not weak."
+     ],
+     "pos": "br",
+     "title": "LATE BRAKES WOBBLE"
+    },
+    {
+     "asset": "knee_anatomy_plate.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "items": [
+      [
+       "LATE BRAKE",
+       40,
+       "red"
+      ],
+      [
+       "EARLY BRAKE",
+       90,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FORCE CAUGHT SMOOTHLY (%)"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TIMING IS TRAINABLE"
+    },
+    {
+     "at": 34,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SLOW REPS TEACH THE TIMING"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Watch your own test footage in your mind for a moment. When the knee wobbles inward during a step-down, most people assume the leg is weak. Usually it is not weak. It is late. The brake engaged a fraction of a second after the load arrived, and the joint had to wobble to buy time. Timing, not raw strength, is what separates the smooth step-down from the shaky one, and timing is gloriously trainable. Slow reps are the classroom. At a three-second tempo, your nervous system has time to find the knee's path, correct it, and groove it, rep after rep. Then, when life asks for the same movement at full speed, on a wet stair or a dark trail, the pattern is already installed. This is why rehab specialists use the step-down both to diagnose knees and to rebuild them. It exposes the timing and then it teaches the timing, in the same quiet movement.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STAIRS ARE THE DAILY EXAM"
+    },
+    {
+     "asset": "ren_split_squat_top.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "lines": [
+      "Thousands of single-leg brakes",
+      "hide inside an ordinary week."
+     ],
+     "pos": "br",
+     "title": "YOUR LIFE IS THE PROGRAM"
+    },
+    {
+     "at": 22,
+     "kind": "stat",
+     "label": "OF STAIRS A WEEK, AVERAGE",
+     "pos": "tr",
+     "text": "100s"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MASTER THE MOVEMENT YOU LIVE IN"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Consider how much of your life this one movement secretly is. Every staircase is dozens of single-leg braking events. Every curb, every hill descent, every time you step off a bus or out of a truck, the same pattern runs. The average person performs this exact test, untrained and ungraded, hundreds of times a week. That is an enormous amount of practice being done either well or badly, with the tendon adapting to whichever version you repeat. This is the optimistic way to see your number. You are not starting a new skill from zero. You are upgrading a movement you already perform constantly, and every staircase in your life becomes free training the moment your form is installed. Few investments pay out that often. Master the step-down and you have quietly upgraded hundreds of weekly reps you were going to do anyway.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LANDING LIGHT IS A LIGHT MAN'S GAME"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "LIGHT",
+       16,
+       "cyan"
+      ],
+      [
+       "HEAVY",
+       11,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CLEAN STEP-DOWNS (AVG)"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Less mass to catch,",
+      "more reps to perfect the catch."
+     ],
+     "pos": "tr",
+     "title": "YOUR WEIGHT IS THE LOAD"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SKINNY = QUIETER LANDINGS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the skinny advantage at the brake pedal. Catching a landing means absorbing your own mass, and the arithmetic is not subtle: less mass, less to catch, more clean reps before fatigue corrupts the pattern. Heavy athletes generate heroic forces and their knees pay heroic prices for them, which is why landing mechanics are a full-time job in professional sport. You get to perfect the same skill at a discount, stacking quality reps while bigger men are rationing theirs. Quiet landings are a light man's natural sport. Train the brakes and you will move through the world making less noise and taking less damage than men twice your size.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "check": 3,
+   "exercise": "STEP DOWNS",
+   "music": "drive",
+   "narration": "Now we install the brakes together. On the step, lower slowly, heel kisses the floor, press back up. Forty-five seconds, fifteen to rest, three rounds, weak leg first. Knee straight ahead, hips level. If the wobble wins, the set ends. Go.",
+   "rest": 15,
+   "rounds": 3,
+   "section": "YOUR REPS",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRADE BY THE NEXT MORNING"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "PUSHING OFF THE FLOOR"
+    },
+    {
+     "asset": "ren_wall_sit.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "KNEE DIVING INWARD"
+    },
+    {
+     "at": 27,
+     "kind": "fact",
+     "lines": [
+      "Touch, don't push. Track straight.",
+      "Mild ache ok, lingering is not."
+     ],
+     "pos": "br",
+     "title": "THE BRAKE RULES"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "+1 CLEAN REP A WEEK"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. The three rounds you just did, three days a week, plus one rule for daily life: every staircase, taken slowly, on purpose, for the first week, until the pattern owns itself. Now the mistakes. Mistake one: pushing off the floor with the free foot. The heel kisses the floor, it does not launch you. Mistake two: the knee diving inward as you tire. End the set there; you are rehearsing the injury pattern, not the fix. Mistake three: ignoring the next morning. Mild ache that settles is training data. Knee pain that lingers or keeps building week after week is a stop sign, and if knee pain persists, see a professional and have it properly assessed. One extra clean rep a week is the pace. Brakes, like all safety equipment, are built before you need them.",
+   "section": "YOUR REPS",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNWIRED, NOT WEAK"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SMALLER NUMBER"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Under 9: negotiating landings.",
+      "Over 20: landing like a cat."
+     ],
+     "pos": "br",
+     "title": "YOUR VERDICT"
+    }
+   ],
+   "big": "DAY 30",
+   "card": "bignum",
+   "check": 3,
+   "label": "RETEST - SAME STEP, SAME TEMPO",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number, grading the weaker leg as always. Under nine: your brakes negotiate every landing, and the wobble is the receipt. Nine to fourteen: the catch is engaging, timing is improving. Over fourteen: quiet, level, repeatable landings. Over twenty: cat territory, and your knees have become the most trustworthy joint in your body. Put the smaller number in the comments. Just the reps. In thirty days we step down again and re-grade the brakes.",
+   "section": "YOUR REPS",
+   "sub": "comment your smaller number - then beat it",
+   "type": "card"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "label": "THE RETEST",
+     "pos": "tr",
+     "text": "DAY 30"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now the same step will feel like a different test, because the brakes doing it will be different brakes. Subscribe so the retest finds you, and leave the smaller number in the comments where you cannot hide from it. This is {channel}. Train the cable.",
+   "section": "YOUR REPS",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "step downs",
+  "patellar tendon",
+  "landing mechanics",
+  "tendon training",
+  "knee stability",
+  "eccentric training",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "14 REPS",
+  "hook": "BRAKE WITH ONE LEG"
+ },
+ "title": "Your Knee Bend Test Reveals Your Hidden Strength",
+ "v5": true
+}

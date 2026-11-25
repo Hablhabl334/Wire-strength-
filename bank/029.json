@@ -1,0 +1,391 @@
+{
+ "badge": "EP 29 - THE DEAD HANG TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CABLES",
+  "YOUR TIME"
+ ],
+ "description": "Everyone trains the hang wrong: swinging up, chalking excuses, quitting at the burn. Your dead hang time measures the grip tendons that carry every pull you will ever do. Here is the form that makes the test honest, what your seconds really mean, and the hanging protocol that rewires your grip.",
+ "hashtags": [
+  "dead hang",
+  "grip strength",
+  "grip tendons",
+  "hang test",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "id": "029",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FEET OFF. CLOCK ON."
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SWINGING = CHEATING"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "lines": [
+      "Still body, straight arms.",
+      "The clock counts honesty only."
+     ],
+     "pos": "tr",
+     "title": "THE HONEST HANG"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Find a bar. | Jump up and grab it. | Palms facing away. | Hands shoulder width apart. | Let your feet leave the floor. | Now freeze. | No swinging. | No kicking. | No bending your arms. | Just hang there, | completely still, | and start your clock. | The second your hands open, | your time is done. | That stillness is the point. | A swinging hang hides weak tendons. | A still hang exposes them. | Whatever your clock says, | that is your DEAD HANG TIME. | Keep the number. | At the end of this video | I will tell you | exactly what it grades.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "60 SEC = WIRED"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "RARE GRIP TERRITORY",
+     "pos": "br",
+     "text": "90+ SEC"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LOW TIME = UNTRAINED"
+    }
+   ],
+   "big": "60 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN SOFT AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Sixty seconds of still hanging is where an average grip becomes a trained one. Under thirty seconds, your grip tendons are simply untrained, and untrained responds faster than any other starting point. Thirty to sixty, the cables are waking up. Past ninety seconds, your hands hold a grade of grip that most strong-looking lifters cannot match.",
+   "section": "THE NUMBER",
+   "sub": "under 30: untrained cables - over 90: rare grip",
+   "type": "card"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINGERS HAVE NO ENGINE"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Forearm pulls. Tendon delivers.",
+      "Fingers only hold the hook."
+     ],
+     "pos": "br",
+     "title": "THE DELIVERY SYSTEM"
+    },
+    {
+     "asset": "forearm_anatomy_plate.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY PULL RIDES THESE CABLES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look closely at your hand. There is almost no muscle inside your fingers. Squeeze as hard as you can and notice where the work happens: your forearm. Your fingers are hooks, and the muscles that close them live far up your arm, connected by long tendons that run through your wrist like cables through a tunnel. Every pull-up, every deadlift, every carried bag rides on those cables. A dead hang loads them with your entire bodyweight and gives them nowhere to hide. When your grip failed, it was rarely your fingers giving up. It was the cable system reaching the limit of its current stiffness and strength. And like every cable under regular tension, it adapts. Load it often and it thickens. Ignore it and it stays exactly as soft as the day you first grabbed a bar. There is a second system the hang trains that nobody talks about: your shoulders. A proper dead hang lets your shoulder blades ride up and stretches the whole joint into its full overhead position, a range most adults slowly lose without noticing. Healthy shoulders need that range, and the hang maintains it as a free side effect of grip training. Climbers and gymnasts guard that overhead range their whole careers, because once it is gone, pressing and pulling both suffer. Your daily hang is quietly protecting it while you chase the grip number.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STILL BEATS SWINGING"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "SWINGING",
+       35,
+       "red"
+      ],
+      [
+       "DEAD STILL",
+       60,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SECONDS BY FORM"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "CHALK HIDES THE TRUTH"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Grip is a tendon reading.",
+      "Tendons answer frequent load."
+     ],
+     "pos": "br",
+     "title": "WHAT THE CLOCK GRADES"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "This is why form changes the reading so much. A swinging hang lets momentum carry you through the hardest seconds and lets your shoulders cheat the load. A still hang sends every gram through the tendons for the entire clock. Same person, same day, wildly different numbers. That difference is the whole lesson: the dead hang is not a party trick, it is a measurement of a cable system. And cable systems respond to a specific kind of training. Tendons do not grow from one heroic effort. They remodel under frequent, moderate tension, the kind you can give them in a doorway every single day. Grip researchers and climbers figured this out long ago. Small hangs, often, rebuild the delivery system. One max attempt a month tells it nothing.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHTER BODY, LONGER HANG"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "The load is your bodyweight.",
+      "Less body = more hang time."
+     ],
+     "pos": "br",
+     "title": "THE MATH FAVORS YOU"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = MORE PRACTICE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now the advantage, and this one is pure math. The load in a dead hang is your own body. A heavier lifter hangs more kilograms from the same size tendons, so his clock runs out faster and his practice sets stay short. You hang less. Your tendons carry a lighter total load, which means longer holds, more total practice per session, and more remodeling signal per week. Climbers understand this instinctively: the best of them are light, wiry, and tendon-strong, not bulky. Your build is the climbing build. Every day you hang, you collect practice reps the big guy cannot, and grip is a skill of accumulated seconds. The clock rewards the body you already have.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "narration": "Let me give you the progression ladder, because the gap between ten seconds and sixty is climbed in rungs, not leaps. Rung one is the supported hang: feet resting lightly on a box, taking just enough weight that you can hold forty seconds with perfect stillness. Rung two is the full hang in short sets, ten to fifteen seconds, repeated many times a day. Rung three adds the active hang, pulling your shoulder blades down and together without bending your arms, which wakes up the back muscles that protect your shoulders. Rung four is the one-arm assisted hang, one hand on the bar and one on a towel, shifting weight across week by week. Most people stall because they jump from rung one to a max attempt and call the fall a plateau. It is not a plateau. It is a missing ladder. Write your current rung on the calendar and stay there until it feels easy. Climb the rungs in order, and sixty seconds stops being a talent and becomes a schedule.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "RUNGS, NOT LEAPS",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THE LADDER",
+     "lines": [
+      "Supported. Full. Active. One-arm.",
+      "Skip a rung, stall a month."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "CLIMB IN ORDER",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "text": "60 SEC IS A SCHEDULE",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Hang with me now. Jump up, freeze, breathe slow. Thirty seconds on the clock. Shoulders quiet, body still. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "YOUR TIME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DAILY SHORT HANGS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SWINGING UP TO THE BAR"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MAX ATTEMPTS ONLY"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ADD 5 SECONDS A WEEK"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week. Hang every day, but never to failure on weekdays. Find a time around half of your max and collect it in short sets spread through the day: morning, after work, before bed. Save one honest max test for the weekend. Three mistakes keep grips soft. Swinging up to the bar starts every set with hidden momentum. Chasing a new max every session fries the fingers and teaches the tendons nothing. And hanging once a week is below the frequency tendons need to remodel. They are slow tissue with a fast forgetting curve. Frequent easy tension is the signal. Add roughly five seconds to your total daily hang time each week, and the cables thicken on a schedule you can set your watch by. Keep a hang log for the first month. Total seconds per day is the only number that matters early on, and watching it climb from sixty to three hundred is the motivation that carries you through the slow weeks. Tendons reward accountants. Be one, and the clock will eventually confess what the work has built. One more habit separates the climbers from the crowd: they hang on rest days too, gently, the way you would brush your teeth. Easy daily tension is not training stress, it is maintenance, and cables under maintenance never go back to being soft.",
+   "section": "YOUR TIME",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "YOUR TIME",
+   "card": "bignum",
+   "check": 3,
+   "label": "WHAT YOUR NUMBER MEANS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under thirty seconds: untrained cables, the best starting point there is, because daily hangs move this number within two weeks. Thirty to sixty: the system is waking up and frequency is all you need. Over sixty, still and strict: you hold a grip grade that transfers to every pull you will ever train. Write it down. Retest in thirty days on the same bar, and put your seconds in the comments. Just the number. Cables do not lie.",
+   "section": "YOUR TIME",
+   "sub": "under 30: untrained - 30 to 60: building - over 60: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "SAME TEST, NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of quiet hanging, then the same bar and a longer clock. If this test graded a system you have been ignoring, subscribe, because every video here starts with a number and ends with a stronger one. This is {channel}. Train the cable.",
+   "section": "YOUR TIME",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "dead hang",
+  "grip strength",
+  "dead hang test",
+  "grip tendons",
+  "hanging benefits",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_hang_side_active.webp",
+  "big": "60 SEC",
+  "hook": "HANG AND KNOW"
+ },
+ "title": "Stop Doing dead hang Wrong: Train Your grip tendons Instead",
+ "v5": true
+}

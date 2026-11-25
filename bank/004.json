@@ -1,0 +1,487 @@
+{
+ "badge": "EP 4 - THE DEAD HANG TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CABLES",
+  "YOUR VERDICT"
+ ],
+ "description": "Grab a bar and hang until your grip gives out. That time is not really about your hands, it is about the tendons that run from your forearm to your fingers and how much load they can hold. Run the test, see what the clock is actually grading, and learn the hanging protocol that builds grip cables fast.",
+ "hashtags": [
+  "dead hang",
+  "grip strength",
+  "dead hang test",
+  "forearm training",
+  "tendon training",
+  "calisthenics"
+ ],
+ "id": "004",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANY BAR WORKS"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FULL BODYWEIGHT"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "WRITE IT DOWN",
+     "pos": "tr",
+     "text": "YOUR TIME"
+    },
+    {
+     "at": 19,
+     "kind": "fact",
+     "lines": [
+      "The clock grades tendons,",
+      "not hand size."
+     ],
+     "pos": "br",
+     "title": "WHAT THE CLOCK GRADES"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Find a bar. | Jump up. | Grip it hard. | Arms straight. | Feet off the floor. | Start your clock. | Now just hang. | No swinging. | No bent elbows. | Hang until | your grip gives out. | That time | is your number. | Got it? | Remember it. | Because this test | looks like | a hand test, | but it is not. | Your fingers | have almost | no muscle in them. | The real workers | are the cables | running from | your forearm | to your fingertips. | Today the clock | grades those cables. | And at the end, | your number | gets its verdict.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ARMS STRAIGHT. NO SWING."
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "ELITE GRIP TERRITORY",
+     "pos": "br",
+     "text": "90+ SEC"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED = FIXABLE"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CABLES ADAPT TO LOAD"
+    }
+   ],
+   "big": "60 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN WEAK AND WIRED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Sixty seconds of clean hanging is where an untrained grip becomes a trained one. Under thirty seconds, your grip tendons are simply new to load, and new is fixable. Thirty to sixty, the cables are waking up and learning their job. Over ninety, you hold a grip that most bigger guys never build, because most bigger guys never hang. Notice the honesty of this test. The bar does not care about your sleeves or your mirror. It asks one question: how long can your cables carry you? Your number is the answer, and answers can be trained.",
+   "section": "THE NUMBER",
+   "sub": "under 30: untrained cables - over 90: elite grip",
+   "type": "card"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINGERS: ALMOST NO MUSCLE"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Forearm pulls the cable.",
+      "The cable closes the finger."
+     ],
+     "pos": "br",
+     "title": "THE CHAIN"
+    },
+    {
+     "at": 22,
+     "kind": "stat",
+     "label": "PULLS ON EVERY FINGER CABLE",
+     "pos": "br",
+     "text": "YOUR WEIGHT"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FOREARM = THE ENGINE"
+    },
+    {
+     "at": 37,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CABLES THICKEN UNDER LOAD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the hand honestly. Your fingers are almost pure bone, skin and tendon. There is barely any muscle in them to train. The muscles that close your hand live in your forearm, and they reach your fingers through long tendons, cables that slide through the wrist and attach at each fingertip. When you hang, your entire bodyweight hangs off those cables. And cables answer load the way rope does: under repeated tension, the body lays down more material. The tendon gets thicker, stiffer and better at holding. This is slow biology, tendons adapt more slowly than muscles, but it is reliable biology. It is also why squeezing toys and light grippers never build a real hang. The cable only upgrades when the load is serious, and your own bodyweight is the most serious load a grip can get. One more thing the hang quietly trains: your forearms learn to share work between the deep finger flexors and the wrist stabilizers, so the load spreads across the whole system instead of burning out one cable. That sharing is why experienced hangers look relaxed at times that make beginners shake. Relaxation here is not the absence of effort. It is effort, perfectly distributed.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FOREARM ENGINE ROOM"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "LIGHT GRIPPERS",
+       20,
+       "red"
+      ],
+      [
+       "BODYWEIGHT HANGS",
+       90,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT THE CABLE FEELS"
+    },
+    {
+     "at": 24,
+     "kind": "stat",
+     "label": "FOR CABLES TO ADAPT",
+     "pos": "tr",
+     "text": "DAILY LOAD"
+    },
+    {
+     "at": 32,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SHOULDERS GET QUIETER TOO"
+    },
+    {
+     "at": 39,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HANGING BUILDS MORE THAN GRIP"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is more hanging off this bar than grip. A dead hang puts your shoulders in their fullest overhead position, gently loading the tendons and tissues that most desk bodies never stretch or strengthen. It teaches your shoulder blades to sit quiet under load, which is the base of every pull you will ever do. And it trains something invisible: your nervous system's trust. The first hangs end early partly because your brain panics and orders a release. Hang daily, and the brain learns the position is safe, letting the cables work closer to their real limit. That is why beginners often double their hang time in the first weeks. The tendons did not transform overnight. The wiring stopped quitting early. Both parts keep improving for months after that, which makes this one of the highest-return habits on this channel. Grip also has a famous party trick worth knowing: it tracks with overall body strength better than almost any other single measure, which is why researchers use it as a quick health marker in big population studies. Nobody fully agrees why, but a body that maintains a strong grip tends to be a body that still loads itself in daily life. Your hang time is a rough window into that whole picture.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE MOST USED STRENGTH"
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Carries, climbs, tools, rails.",
+      "All forearm tendons."
+     ],
+     "pos": "br",
+     "title": "EVERYDAY GRIP"
+    },
+    {
+     "asset": "ren_dead_hang.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIRST STRENGTH LOST WITH AGE"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TRAIN WHAT LIFE USES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Take this test out of the gym for a second. Grip is the most used strength in daily life and the least trained. Suitcases, jars, tools, carrying a child, holding a railing on a moving train: all of it is forearm tendons doing quiet work. It is also the strength people lose first as they age, because modern life keeps removing reasons to hold anything heavy. The dead hang is the antidote in its purest form: your full weight, your two hands, no machinery between you and the truth. Ten honest seconds added to this number is ten seconds of capability added to every carry, climb and hold in your actual life.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS WEIGHT, LONGER HANGS"
+    },
+    {
+     "asset": "ren_hang_side_active.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "LIGHT BODY",
+       90,
+       "cyan"
+      ],
+      [
+       "HEAVY BODY",
+       40,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "HANG TIME BY BODYWEIGHT"
+    },
+    {
+     "at": 24,
+     "kind": "stat",
+     "label": "MORE TRAINING PER WEEK",
+     "pos": "tr",
+     "text": "MORE REPS"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SKINNY IS AN EDGE HERE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the skinny advantage, and on this test it is enormous. Hanging is a strength-to-weight contest. Every kilo you do not carry is load your cables never feel. A heavy guy with strong hands fights his own mass on every second of the clock. You fight far less, so you hang longer, recover faster, and can train the position almost daily without beating yourself up. More quality hangs per week means faster tendon adaptation. This is why climbers, gymnasts and fighters are rarely the biggest people in the room: their sports grade the same ratio this test does. Your frame was built for this number. The only thing missing is the training, and that part is entirely in your control. So the number on your clock is doing double duty: grading your cables today, and hinting at the training age of your whole body.",
+   "section": "THE CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Now hang with me. Thirty seconds. Arms straight, shoulders quiet, breathe slow. This is the exact position that builds the cables. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "YOUR VERDICT",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HANG EVERY DAY"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "ONE MAX HANG A WEEK"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 19,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STOP 10 SEC EARLY"
+    },
+    {
+     "at": 29,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ADD ACTIVE HANGS"
+    },
+    {
+     "at": 36,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GREASE THE GROOVE"
+    },
+    {
+     "at": 41,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "CHALK AND GLOVES EARLY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the protocol that moves the number. Hang a little, often. Several short hangs spread through the day beat one heroic hang to failure, because tendons grow from total quality load, not from suffering. Stop each hang about ten seconds before your grip would fail, and your forearms stay fresh enough to repeat it tomorrow. Build to a few minutes of total hanging a day. Twice a week, add active hangs: from the straight-arm position, pull your shoulder blades down without bending the elbows, hold five seconds, release. That teaches the shoulders their job for pull-ups later. Skip gloves, they steal the signal from your hands. Chalk if the bar is slippery, nothing more. Simple, daily, boring, and in thirty days your first number will look like a different person's. One practical upgrade once sixty seconds feels friendly: hang from thicker bars or towels sometimes, and let one hand do slightly more of the work by shifting your weight toward it. Small asymmetries, trained gently, are how two-hand hangs grow into the one-hand world without wrecking your shoulders.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Under 30: untrained cables.",
+      "Over 60: you own it."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "JUST THE SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Under thirty seconds: your cables are untrained, not weak in any permanent way, and daily hanging usually moves this number fast. Thirty to sixty: the tendons are adapting and the wiring is calming down. Sixty to ninety: you are wired, holding a grip most gym members cannot match. Over ninety: elite territory, the kind of grip that shows up in every pull, carry and climb you ever do. Put your seconds in the comments. Just the number. Retest in thirty days, same bar, same rules, and let the clock grade the cables again. Numbers do not lie, and this one is about to improve. Post it as a pair at retest: old seconds, new seconds. Grip progress is slow, steady and incredibly satisfying to watch in pairs.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A LITTLE, OFTEN"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "COMMENT YOUR NUMBER",
+     "pos": "tl",
+     "text": "DEAD HANG"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "bl",
+     "text": "TRUST THE NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Hang a little every day, stop before failure, and let the cables do their slow, reliable work. In thirty days we hang again and compare clocks. Subscribe for the tests that grade what actually matters. This is {channel}. Train the cable.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "dead hang",
+  "grip strength",
+  "dead hang benefits",
+  "forearm tendons",
+  "how to hang longer",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_dead_hang.webp",
+  "big": "60 SEC",
+  "hook": "HOW LONG?"
+ },
+ "title": "Your Dead Hang Time Reveals the Truth About Your grip tendons",
+ "v5": true
+}

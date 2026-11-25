@@ -1,0 +1,391 @@
+{
+ "badge": "EP 33 - THE PULL-UP TEST",
+ "category": "tests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CHAIN",
+  "YOUR NUMBER"
+ ],
+ "description": "Half reps and swinging have been lying to you about your pull-up. Your strict pull-up number grades the whole chain from your fingers to your lats, and the elbow tendons in between. Here is the form that makes the count honest, what your reps reveal, and the method that builds a real pull-up from zero.",
+ "hashtags": [
+  "pull-up test",
+  "pull-ups",
+  "elbow tendons",
+  "back strength",
+  "strict pull-ups",
+  "skinny guy fitness"
+ ],
+ "id": "033",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEAD HANG START"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "KIPPING = NOT A REP"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "lines": [
+      "Chin over bar: one rep.",
+      "Bent-arm starts do not count."
+     ],
+     "pos": "tr",
+     "title": "THE STRICT RULE"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Grab the bar. | Hang at straight arms. | Completely still. | Now pull. | Chest rises, | chin clears the bar, | and lower back down | to straight arms again. | That is one rep. | No kicking. | No swinging. | No bent-arm starts. | Count clean reps | until you cannot clear it. | That number | is your PULL-UP NUMBER. | Most guys overestimate it | by about double, | because half reps | and momentum | have been lying to them | for years. | The strict count | tells the truth. | Keep your number. | At the end of this video | I will tell you | what it grades.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "10 = TRAINED"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "CHAIN COMPLETE TERRITORY",
+     "pos": "br",
+     "text": "20+ REPS"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ZERO IS A STARTING POINT"
+    }
+   ],
+   "big": "10 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN STARTER AND STRONG",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten strict pull-ups is where a beginner back becomes a trained one. Zero to two, the chain is untrained and every link needs work, which is normal and fixable. Three to ten, the big muscles pull but the smaller links limit you. Over twenty strict reps, you own a pulling chain that most lifters never finish building.",
+   "section": "THE NUMBER",
+   "sub": "0 to 2: untrained chain - over 20: elite chain",
+   "type": "card"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY LINK TAKES THE LOAD"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Force enters at the fingers.",
+      "It exits through the lats."
+     ],
+     "pos": "br",
+     "title": "THE CHAIN"
+    },
+    {
+     "asset": "ren_pullup_mid.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ELBOWS ARE THE MIDDLE LINK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Follow the force through a pull-up. It enters at your fingers, rides the grip tendons through your forearms, crosses your elbows through the tendons of your biceps and brachialis, and only then reaches the big muscles of your back. A chain moves only as much load as its weakest link allows, and in most pull-ups the lats are not the weak link. The middle links are. Your elbow tendons handle enormous bending forces on every rep, and they adapt slower than muscle because their blood supply is poorer. That is why so many people feel pull-ups in their elbows long before their back gets tired, and why progress stalls even when the big muscles are willing. Train the whole chain patiently, and the number climbs. Train only the strong links, and the weak ones set your ceiling forever. Notice, too, where the pull-up starts: not in your back, but in your shoulder blades. The first few centimeters of a strict rep are your lower traps and lats switching on to pull the shoulders down out of the hang. Skip that initiation by bending your arms early, and the elbows absorb work the back was built for. A strict start is not pedantry. It is load management for the middle links of the chain.",
+   "section": "THE CHAIN",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NEGATIVES TRAIN EVERY LINK"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "PARTIAL REPS",
+       3,
+       "red"
+      ],
+      [
+       "FULL CHAIN WORK",
+       12,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "STRICT REPS BY METHOD"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLOW LOWERING = TENDON WORK"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "The chain adapts link by link.",
+      "The slowest tissue sets the pace."
+     ],
+     "pos": "br",
+     "title": "THE PACING RULE"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Here is how a chain actually gets built. The lowering phase of the pull-up, the negative, loads every link under control, and it works even before you can do a single full rep. Jump to the top, lower for five full seconds, and your grip, elbows, and back all receive the signal in one movement. This is why negatives are the classic road from zero to one, and from five to ten. The chain adapts link by link, and the slowest tissue, usually the elbow tendons, sets the pace of the whole project. Respect that pace and progress feels almost boring, right up until your strict number has doubled. Rush it with swinging reps and heavy kipping, and the middle links complain with the deep elbow ache every puller knows. If that ache ever persists, see a professional and get it checked before you load it again.",
+   "section": "THE CHAIN",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY REP LIFTS LESS"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Pull-ups reward low bodyweight.",
+      "Strength-to-weight is the real score."
+     ],
+     "pos": "br",
+     "title": "THE RATIO GAME"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = HIGH RATIO"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now the advantage, and on pull-ups it is enormous. A pull-up is a strength-to-weight contest, and you are built for it. Every rep lifts your entire body, so a heavier lifter needs far more absolute strength to score the same number. Your lighter frame turns the same back and arm strength into more reps, cleaner reps, and faster progress up the chain. This is why gymnasts and climbers, the strict pull-up royalty of the world, are lean almost without exception. The event itself selects for your build. What the mirror calls a lack of size, the bar calls an ideal ratio. Train the chain with patience and the pull-up becomes the lift where skinny guys stop apologizing and start demonstrating.",
+   "section": "THE CHAIN",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE CHAIN",
+   "check": 2,
+   "music": "dark",
+   "narration": "Let me name the plateaus honestly, because every puller meets them. The first plateau is zero to one, and it is a strength problem: the chain simply cannot move the load yet, and negatives plus hangs are the honest cure. The second plateau lives around five reps, and it is usually a tendon and volume problem: the big muscles are ready for more, but the elbow links need weeks of frequent, moderate work before they allow it. The third plateau sits near twelve, and it is a weight problem in disguise, because at that level your strict number moves more with body composition than with any program. Knowing which plateau you are standing on saves you months of applying the wrong cure. Strength plateaus want intensity. Tendon plateaus want patience and frequency. Weight plateaus want the kitchen, not the bar. Diagnose first, and the chain starts moving again, because you finally pushed on the link that was actually stuck.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THREE PLATEAUS",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "NAME YOUR PLATEAU",
+     "lines": [
+      "Zero to one: strength.",
+      "Five: tendons. Twelve: weight."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "DIAGNOSE BEFORE YOU PUSH",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "text": "PUSH THE STUCK LINK",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "check": 3,
+   "exercise": "PULL-UP NEGATIVES",
+   "music": "drive",
+   "narration": "Pull with me. Jump to the top, lower for five slow seconds. Thirty seconds of work, full rest, four rounds. Control is everything. Go.",
+   "rest": 60,
+   "rounds": 4,
+   "section": "YOUR NUMBER",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "GREASE THE GROOVE"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "EVERY SET TO FAILURE"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SWINGING REPS"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMALL SETS, ALL DAY"
+    }
+   ],
+   "check": 3,
+   "music": "dark",
+   "narration": "Here is your week, and the method has a name: grease the groove. Several times a day, do a set of half your max, fresh and perfect, then walk away. Small sets, spread out, never to failure. The chain learns the pattern and the tendons get frequent, moderate load, which is exactly their favorite signal. Three mistakes stall pull-ups for years. Training every set to failure teaches sloppy endings and exhausts the middle links. Swinging reps steal the load from the muscles and dump it on the joints. And skipping the dead hang start inflates your number while your bottom position stays weak. Keep every rep strict, keep every set fresh, and add reps to your week slowly. The chain rewards patience with interest. One final rule for the log book. Test your max once a month, never more. The max is a measurement, not a workout, and chains are built by the hundreds of fresh, submaximal reps you do between measurements. Build in the dark, measure in the light, and let the monthly number simply report what the quiet work already decided.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "YOUR NUMBER",
+   "card": "bignum",
+   "check": 3,
+   "label": "WHAT YOUR NUMBER MEANS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Zero to two: an untrained chain, and negatives plus daily small sets will build your first five faster than you think. Three to ten: the engine works, the links are catching up, and strict volume is your road. Over ten strict reps with a dead hang start: you own a pulling chain most lifters only talk about. Write it down. Retest in thirty days on the same bar, and put your reps in the comments. Just the number. Chains do not lie.",
+   "section": "YOUR NUMBER",
+   "sub": "0 to 2: untrained - 3 to 10: building - over 10: wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "SAME TEST, NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of patient chain work, then the same bar and a bigger number. If this test graded links you have been ignoring, subscribe, because every video here starts with a number and ends with a stronger one. This is {channel}. Train the cable.",
+   "section": "YOUR NUMBER",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "pull-ups",
+  "pull-up test",
+  "strict pull-ups",
+  "elbow tendons",
+  "back strength",
+  "pull-up progression",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_pullup_top.webp",
+  "big": "10 REPS",
+  "hook": "THE PULL-UP TRUTH"
+ },
+ "title": "Stop Doing pull-up max Wrong: Train Your lat and elbow tendons Instead",
+ "v5": true
+}
