@@ -1,0 +1,368 @@
+{
+  "id": "370",
+  "v5": true,
+  "title": "A Skinny Guy Did the L-sit for 30 Days (His hip flexors Changed)",
+  "description": "The L-sit humiliates almost everyone on day zero. Thirty days of compression work later, we retest. Find your starting version, learn why your hip flexors are the most undertrained muscles you own, and see what a month of lifting your own legs can build.",
+  "tags": [
+    "l-sit",
+    "30 day challenge",
+    "hip flexors",
+    "l-sit test",
+    "compression strength",
+    "calisthenics",
+    "core training"
+  ],
+  "hashtags": [
+    "l-sit",
+    "30 days",
+    "hip flexors",
+    "calisthenics",
+    "experiment",
+    "compression"
+  ],
+  "category": "experiments",
+  "badge": "EP 370 - 30 DAYS OF L-SIT",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_lsit.webp",
+    "big": "10 SEC",
+    "hook": "THE HARDEST 10",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_lsit.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Day zero is the most humbling test in this series, so respect it. Sit on the floor, legs straight out in front, hands flat beside your hips. Press down, straighten your arms, and try to lift your straight legs until your body makes the letter L. Time whatever happens. For most untrained guys, what happens is nothing: zero seconds, legs glued to the floor, hip flexors screaming at a load they have never met. If that is you, your official day-zero test is the tuck version: knees bent, lift and hold, timed. Write down your version and your seconds, whether that is a three-second full L, a fifteen-second tuck, or a flat zero. For thirty days our subject trains the exact system this test exposes. On day thirty, the floor gives its second verdict. Keep your number. Zero is a perfectly good place to start an experiment.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HANDS DOWN, LEGS STRAIGHT",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "0 SEC",
+          "label": "THE NORMAL DAY ZERO",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "hip_joint_plate.webp"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "ZERO IS A STARTING POINT",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "10 SEC",
+      "label": "THE REAL L-SIT LINE",
+      "sub": "0-3: normal start - 10: a real L-sit - 20+: advanced compression",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The bands are brutal because the position is brutal. Zero to three seconds is where humanity starts; the lift demands strength in a position no daily activity ever visits. Ten seconds of true L-sit, legs straight and horizontal, is a real skill, the point where the hip flexors and core work as one machine. Twenty seconds and beyond is advanced compression strength, rare at any body size. The experiment question: starting from wherever day zero finds you, tuck, zero, or three seconds, what can thirty days of daily compression work actually buy?",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "HUMANITY STARTS AT ZERO",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "DAILY COMPRESSION WORK",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "20+ SEC",
+          "label": "ADVANCED COMPRESSION",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "hip_joint_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "The L-sit is a hip flexor exam wearing a core exercise's name. Your hip flexors, led by the psoas and the front-of-thigh muscles, are the only engines that can lift your straight legs toward horizontal, and the L-sit asks them to do it in their shortest, weakest position, with the legs acting as a long, heavy lever. Here is the scandal: in a desk-shaped life, the hip flexors are the most undertrained major muscles in the body. They spend the day shortened in a chair, which feels like work but is not; a muscle held short and passive is not being strengthened, it is being shelved. Then we ask it to perform the hardest lift in calisthenics and act surprised at the zero. Meanwhile the abs' real job in the L-sit is not lifting; it is bracing the pelvis still so the flexors have a fixed platform to pull from. Platform plus engines: that is compression strength, and almost nobody trains it on purpose.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "PLATFORM PLUS ENGINES",
+          "lines": [
+            "Abs hold the pelvis.",
+            "Flexors lift the legs."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_lsit.webp"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "SHELVED, NOT STRENGTHENED",
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "bars",
+          "title": "WHAT THE L-SIT NEEDS",
+          "items": [
+            [
+              "HIP FLEXORS",
+              90,
+              "cyan"
+            ],
+            [
+              "ABS ALONE",
+              35,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 34,
+          "kind": "chip",
+          "text": "THE HARDEST LIFT IN THE ROOM",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_lsit.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "Two gates decide your L-sit before strength even votes. Gate one is hamstring length: straight legs can only rise as far as the backs of your thighs allow, and a guy who cannot touch his toes is trying to lift his legs against his own brakes. Gate two is the compression pattern itself: the nerve skill of folding at the hips while keeping the legs straight and the spine tall, a coordination most bodies have literally never performed. This is why crunches do not transfer to the L-sit. A crunch trains spinal flexion, curling up. The L-sit trains hip flexion with a braced spine, a different pattern, different engines, different skill. The good news hidden in the gates: both are fast adapters. Hamstrings lengthen measurably in weeks of patient stretching, and the compression pattern, like every nerve skill in this series, improves fastest at the beginning, when it is newest. Day zero's zero is mostly locked gates, not a life sentence.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "TWO GATES: LENGTH + PATTERN",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "CRUNCHES DON'T TRANSFER",
+          "lines": [
+            "Different pattern.",
+            "Different engines."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 29,
+          "kind": "mark",
+          "text": "LOCKED GATES, NOT A SENTENCE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_lsit.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The protocol attacks all three fronts daily, in about ten minutes. First, holds on a ladder: tuck holds until they pass twenty seconds, then one-leg-extended holds, then full L-sit attempts, always stopping each hold while the position is still honest. Second, compression lifts: seated on the floor, hands beside the hips, lift one straight leg, then both, for slow reps; this is the exact engine pattern, loaded manageably. Third, the gate work: gentle hamstring stretching after the holds, never before, while the muscles are warm. Every fourth day is lighter: mobility and easy tucks only, because the hip flexors are small muscles being asked to learn a huge job, and they consolidate like everything else, between sessions. Progress is measured in versions and seconds, both logged. The ladder is the program: wherever you stand on it, the next rung is always visible, and thirty days is long enough to climb several.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HOLDS, LIFTS, GATE WORK",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "STRETCH AFTER, NEVER BEFORE",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_leg_swing.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "THE LADDER IS THE PROGRAM",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 29,
+          "kind": "stat",
+          "text": "10 MIN",
+          "label": "A DAY, EVERY DAY",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_lsit.webp",
+      "exercise": "L-SIT HOLDS",
+      "work": 15,
+      "rest": 45,
+      "rounds": 4,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Ladder time with me. Four rounds: fifteen seconds in your current version, tuck, one-leg, or full, then forty-five seconds of rest and shaking the legs out. Hands pressed hard into the floor, chest tall. Honest positions only; the rung you own is the rung you train. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_leg_swing.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The month climbed the ladder exactly as advertised. Week one lived in the tuck: shaky, short, with the hip flexors complaining in a dialect of burn our subject had never heard before, proof the engines had genuinely never worked. Week two, the tuck passed twenty seconds and the first one-leg holds appeared, one straight leg hovering while the other stayed tucked, doing more work than it admitted. Week three, the hamstrings began signing the paperwork: seated forward reach improved, and with it, the straight legs in the lifts rose higher. Week four brought the moment the whole experiment exists for: the first true L-sit seconds, legs straight, body an honest letter L, counted out loud. Not many seconds. But the distance from zero to some is the largest distance in this entire series, and it was crossed in thirty days.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: THE TUCK SHAKES",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: ONE LEG EXTENDS",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_lsit.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "ZERO TO SOME",
+          "lines": [
+            "The largest distance",
+            "in this whole series."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 29,
+          "kind": "mark",
+          "text": "AN HONEST LETTER L",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_lsit.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty, floor, hands down, legs straight, clock running. The pattern for this protocol: tuck starters typically own a twenty-to-thirty-second tuck and their first real one-leg or full seconds by day thirty; zero starters usually reach strong tucks and hovering one-leg holds; and anyone who began with a few shaky seconds is commonly flirting with the ten-second line. Read yours by version first, seconds second: a higher rung at five seconds beats a lower rung at twenty, because the ladder is the progress. Under the ten-second full line after an honest month simply means keep climbing; the flexors were shelved for years and thirty days is their first term, not their graduation. Put your version and seconds in the comments. Just the numbers. The floor will be there in thirty days.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "VERSION FIRST, SECONDS SECOND",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "hip_joint_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "SAME FLOOR, NEW LETTER",
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "COMMENT VERSION + SECONDS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_lsit.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Thirty days woke the most shelved muscles you own and taught them the hardest lift in the room. Whatever rung you reached, you now own a ladder most guys never step on. Keep climbing it daily and the seconds will follow. Retest in thirty days and bring me your version and your number. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "OWN THE LADDER",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

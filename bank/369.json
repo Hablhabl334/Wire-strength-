@@ -1,0 +1,382 @@
+{
+  "id": "369",
+  "v5": true,
+  "title": "A Skinny Guy Did squats for 30 Days (His knee and hip tendons Changed)",
+  "description": "Thirty days of daily bodyweight squats with a strict max test at both ends. Count your full-depth max, meet the knee and hip tendon system that powers it, and see what a month of squatting every day does to the number and the legs behind it.",
+  "tags": [
+    "squats",
+    "30 day challenge",
+    "knee tendons",
+    "squat test",
+    "bodyweight squats",
+    "calisthenics",
+    "leg training"
+  ],
+  "hashtags": [
+    "squats",
+    "30 days",
+    "knee tendons",
+    "calisthenics",
+    "experiment",
+    "squat test"
+  ],
+  "category": "experiments",
+  "badge": "EP 369 - 30 DAYS OF SQUATS",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_squat_bottom.webp",
+    "big": "30 REPS",
+    "hook": "FULL DEPTH ONLY",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_squat_top.webp",
+        "ren_squat_mid.webp",
+        "ren_squat_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Feet shoulder width. | Sit down deep. | Hips below knees. | Heels stay down. | Stand tall. | Repeat without stopping. | Strict tempo. | No bouncing. | Count your max. | That is day zero. | Write it down. | For thirty days | our subject squats daily. | Sets below max, | spread through the day. | On day thirty | we count again. | Same depth rules. | Keep your number. | Your legs are | about to testify.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY ZERO: MAX SQUATS",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "HIPS BELOW KNEES",
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "NO BOUNCING, NO RESTING",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 16,
+          "kind": "fact",
+          "title": "THE EXPERIMENT",
+          "lines": [
+            "Daily sets, below max.",
+            "The count decides."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "30 REPS",
+      "label": "THE FULL-DEPTH THIRTY",
+      "sub": "under 15: legs asleep - 30: working legs - 60+: engine room",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Read your max against the line. Under fifteen full-depth reps means the leg system, muscles and tendons together, is essentially untrained, the default for a desk-shaped life. Thirty continuous reps is working legs: the engine room is staffed. Sixty and beyond is serious local endurance, the kind that changes how stairs, hills and long days feel. The experiment question is what thirty days of daily, submaximal squatting does to a full-depth max, and what changes in the knee and hip cables while the count climbs.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "UNDER 15 = DESK-SHAPED",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "DAILY, BELOW MAX",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "60+",
+          "label": "ENGINE ROOM STAFFED",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "A squat is a tendon relay. At the bottom, your quadriceps tendon and the patellar tendon below the kneecap are loaded like drawn bowstrings, storing the force of your descent. At the hip, the glute tendons anchor the most powerful muscles you own into the pelvis, and they fire to start the stand. Every rep hands force from ankle to knee to hip through this chain of cables, and the chain is only as strong as its least-trained link. Knee and hip tendons adapt the way tendons everywhere do: slowly, in response to repeated loading through range, becoming stiffer and more capable across months. Bodyweight squats are the perfect first language for teaching them, because the load is exactly you, the range is full, and the frequency can be daily without wrecking recovery. There is a detail in the relay worth watching: the bottom position. In the deepest part of the squat, the knee tendons are at their longest and the load is at its most honest, which is why this channel insists on full depth. A half squat is a half message: the top half of the range gets educated while the bottom half, where stairs, chairs and real life actually happen, stays untaught. Depth is not machismo. Depth is curriculum, the part of the lesson where the tendons learn their hardest job. A skinny guy's leg tendons are not fragile. They are uneducated, and thirty days is a full term of school.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "fact",
+          "title": "A TENDON RELAY",
+          "lines": [
+            "Ankle to knee to hip.",
+            "Force handed up the chain."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "hip_joint_plate.webp"
+        },
+        {
+          "at": 29,
+          "kind": "chip",
+          "text": "BOWSTRINGS AT THE BOTTOM",
+          "pos": "br"
+        },
+        {
+          "at": 40,
+          "kind": "bars",
+          "title": "THE CHAIN'S LINKS",
+          "items": [
+            [
+              "ANKLE",
+              65,
+              "gold"
+            ],
+            [
+              "KNEE",
+              80,
+              "cyan"
+            ],
+            [
+              "HIP",
+              90,
+              "white"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 51,
+          "kind": "chip",
+          "text": "UNEDUCATED, NOT FRAGILE",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "Be honest about what high-rep bodyweight squats build, because this channel does not sell magic. They build local endurance: the ability to keep producing force rep after rep. They build tendon capacity and joint tolerance through full range. They build the groove, the nerve pattern of sitting deep and standing tall, until depth stops being a negotiation. What they do not build, past the beginner stage, is maximum strength; for that, the legs eventually need heavier loads, harder variations, split squats and hinges. But here is the sequence that matters: the beginner who skips the endurance-and-tendon term arrives at heavy training with cables that cannot cash the cheques his muscles write. Thirty days of daily squats is not the whole leg program. It is the foundation pour, and foundations are not glamorous. They are just the thing everything else stands on.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "ENDURANCE, TENDONS, GROOVE",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "NOT MAGIC, A FOUNDATION",
+          "lines": [
+            "Heavy work comes later.",
+            "Cables must cash the cheques."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_squat_top.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "DEPTH STOPS NEGOTIATING",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_mid.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The protocol mirrors the push-up economy, translated for legs. Take your day-zero max, take sixty percent of it, and perform four to six sets of that number across the day, five or six days a week, every rep to full depth at a controlled tempo. Twice a week, swap one day's sets for split squats, the hip tendons' favourite teacher, a few honest sets per leg. Once a week, the max test, logged. When the daily sets start feeling short, add two reps per set the next week. The rules that protect the experiment: heels down always, knees tracking over toes, and any sharp knee pain stops the day, because tendon training should feel like work in the muscle, never like a hot point in the joint. If pain in a knee persists beyond the session, that is a professional's department, not a comment section's. Train hard, but route pain correctly.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "60% SETS, ACROSS THE DAY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "SPLIT SQUATS TWICE A WEEK",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_split_squat_bottom.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "HEELS DOWN, ALWAYS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "SHARP PAIN STOPS THE DAY",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_squat_mid.webp",
+      "exercise": "BODYWEIGHT SQUATS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 4,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Squat with me, foundation rules. Four rounds: forty seconds of full-depth squats at your own strict tempo, twenty seconds to breathe and shake the legs. Heels down, chest proud, hips below knees every single rep. The cables are in school. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The month, week by week. Week one, the legs burned early and the stairs at work became a daily reminder that something was being trained. Week two, the burn moved later; the same sets took longer to bite, and the depth, which used to require a conscious fight, started happening by itself. Week three, the daily totals had quietly doubled from week one, and the split squat days exposed, then began closing, a left-right gap nobody knew existed. Week four felt almost administrative: sets, reps, log, done, while the weekly max tests kept posting their small, stubborn increases. Legs adapt to this work with a particular honesty: no pump illusions, no mirror tricks, just a number that rises because the whole chain, muscle, tendon and groove, is measurably more capable than it was.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: STAIRS TESTIFY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: DEPTH BY ITSELF",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "CHAIN-WIDE GAINS",
+          "lines": [
+            "Muscle, tendon, groove.",
+            "All measurably better."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "NO MIRROR TRICKS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty, max test, full depth, no stopping. The pattern for beginners on this protocol: maxes commonly climb by half to double across the month, twenties becoming forties, because the beginner's squat is limited by everything at once, and everything improves at once. Read yours: still under twenty after an honest month means the daily dose was too small; the legs need more total reps, not more rest days. Twenty to forty-five, the engine room is staffed and the tendons are in school and passing. Past fifty continuous full-depth reps, your legs own an endurance base that will support every heavier thing this channel asks of them later. Put your max in the comments. Just the number. Thirty days from now, we count again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "EVERYTHING IMPROVES AT ONCE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "hip_joint_plate.webp"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "FULL DEPTH, NO STOPPING",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR MAX",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Thirty days of squats built the foundation every future leg session will stand on: tendons that cash cheques, a groove that finds depth by itself, and a number that proves it. Keep the depth honest and the days frequent. Retest in thirty days and bring me your count. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE FOUNDATION POUR",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

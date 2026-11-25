@@ -1,0 +1,474 @@
+{
+ "id": "261",
+ "v5": true,
+ "title": "Stop Doing dead hang endurance Wrong: Train Your grip tendons Instead",
+ "description": "One heroic max hang a week is the wrong way to build hang endurance, and it is why your two-minute test never moves. Here is the test, the tendon-first method that actually builds it, and the daily cluster system skinny guys can recover from and heavy guys cannot.",
+ "tags": [
+  "dead hang training",
+  "hang endurance method",
+  "grip tendons",
+  "two minute hang",
+  "cluster hangs",
+  "calisthenics grip",
+  "hang protocol"
+ ],
+ "hashtags": [
+  "dead hang",
+  "hang training",
+  "grip tendons",
+  "endurance",
+  "calisthenics",
+  "forearm training"
+ ],
+ "category": "grip",
+ "badge": "EP 261 - HANGS, DONE RIGHT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CABLES",
+  "THE RIGHT WAY"
+ ],
+ "thumb": {
+  "asset": "ren_hang_side_relaxed.webp",
+  "big": "120 SEC",
+  "hook": "YOUR WEEKLY MAX IS USELESS",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a bar. | Grip it overhand. | Shoulder width apart. | Hang with straight arms. | Feet off the ground. | And start the clock. | No swinging. | No kicking. | Just hang. | Stay until you drop. | Or your grip opens. | That time is your NUMBER. | The two-minute hang test. | Write the number down. | If you have trained | hangs before, | and the number never moved, | your method was the problem. | At the end | of this video | I will show you | the wrong way | almost everyone trains this. | And the tendon way | that actually builds it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "NO GYM NEEDED",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "STRAIGHT ARMS ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "120 SEC",
+     "label": "THE TARGET",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "REMEMBER YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "THE WRONG WAY AHEAD",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "120 SEC",
+   "label": "THE TWO-MINUTE LINE",
+   "sub": "under 45: untrained - 90+: wired cables - 120: elite",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. One hundred and TWENTY seconds on the bar. Under forty-five, the grip cables are untrained and this test is the easiest win in your training life. Forty-five to ninety: building, but the fade still owns you. Ninety to one-twenty: wired, a hang that turns heads in any gym. Two full minutes: elite tendon territory. Last time we tested this, we talked about mistakes. Today is about method, because most men do not fail this test from five small errors. They fail it from one big one: they train endurance like it is a strength contest, once a week, to total failure, and their tendons never get the message.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "text": "45 SEC = UNTRAINED",
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "text": "90+ SEC",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "METHOD, NOT EFFORT",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The wrong way looks like this. Monday, fired up, you hang until your fingers peel off the bar. Wednesday your forearms still feel wooden. By next Monday you repeat it, get roughly the same time, and conclude your grip is just bad. Here is what actually happened inside the tissue. A max hang floods the forearm, occludes its blood flow and piles up damage signals. Muscle forgives that in two days. TENDON does not. Tendon tissue rebuilds on a slower clock, and a weekly sledgehammer mostly teaches it to endure insults, not to grow capacity. Endurance is capacity. You built none, because you never gave the tissue a repeatable, survivable signal. There is a reason the sledgehammer feels productive while it fails: it is dramatic. A max hang gives you a story, a shaking forearm, a number to chase. Clusters give you none of that theatre, just a quiet accumulation of minutes the tissue actually converts. Training history is full of this trade. The athletes with the freakish endurance numbers, climbers, rowers, grapplers, built them on mountains of submaximal work that would bore a camera to death. Drama is for test day. The other twenty-nine days belong to the boring arithmetic of capacity.",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "THE WEEKLY SLEDGEHAMMER",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 30,
+     "kind": "fact",
+     "title": "CAPACITY, NOT INSULTS",
+     "lines": [
+      "Muscle forgives in two days.",
+      "Tendon rebuilds on a slower clock."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 42,
+     "kind": "chip",
+     "text": "A SURVIVABLE SIGNAL",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The tendon way inverts everything. Instead of one hang to failure, you do many hangs you could beat: clusters. Fifty percent of your max, rest, repeat, spread across the day and the week. The forearm gets its blood-flow lesson without the flood. The brain gets its safety lesson without the panic. And the total weekly time under tension, the number that actually drives endurance adaptation, quietly becomes five times larger than the sledgehammer ever delivered. Climbers built the best grip endurance on earth this way, greasing the groove with easy reps, and their tendons test like steel cables for a reason. One adjustment makes clusters work even better: vary the grip slightly across the week. Overhand on Monday, a fatter bar or a towel on Wednesday, active hangs on Friday. The tendons are the same, but the exact fibres and angles rotate, spreading the adaptation and the wear. It is the same principle as the lever's two directions: a system trained from one angle is a system with one strong room in a large house. Rotate the stress and the whole house gets built.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "text": "CLUSTERS, NOT SLEDGEHAMMERS",
+     "pos": "tr"
+    },
+    {
+     "at": 12,
+     "kind": "bars",
+     "title": "WEEKLY TIME UNDER TENSION",
+     "items": [
+      [
+       "DAILY CLUSTERS",
+       300,
+       "cyan"
+      ],
+      [
+       "WEEKLY MAX",
+       60,
+       "red"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "text": "5X",
+     "label": "THE REAL DIFFERENCE",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "EASY REPS, STEEL CABLES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 36,
+     "kind": "swap",
+     "asset": "ren_hang_side_relaxed.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The second half of the wrong way is position. Most men only ever hang PASSIVE: shoulders up by their ears, body dangling off the joints, grip doing everything. The tendon way splits the hang in two. Active hangs, shoulders pulled down and lats engaged, teach the whole chain to share the load and protect the shoulder. Passive hangs, fully relaxed, teach the grip to work alone and the mind to stay calm. Train only passive and your shoulders pay rent your grip should be paying. Train only active and the grip never gets its solo exam. The method needs both, on different days, for different jobs. Track the right number while you do all this. Not your max, which you test monthly, but your weekly cluster minutes: total time hanging at fifty percent across the week. Write it in a log. When that number climbs from ten minutes to twenty to thirty, your max has no choice but to follow, the way a river follows rain. Most men track the flood and ignore the rainfall, then wonder why the river never rises.",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TWO HANGS, TWO JOBS",
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "title": "ACTIVE SHARES, PASSIVE EXAMINES",
+     "lines": [
+      "Active: the chain shares the load.",
+      "Passive: the grip works alone."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 27,
+     "kind": "swap",
+     "asset": "ren_hang_side_tuck.webp"
+    },
+    {
+     "at": 38,
+     "kind": "mark",
+     "text": "BOTH, ON DIFFERENT DAYS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Breathing is the third piece, and it sounds like a joke until you test it. A held breath raises pressure, spikes tension everywhere and convinces your brain the hang is an emergency. Emergency brains cut grip signals early, we have covered that fade before. The tendon way breathes on purpose: slow exhales through the hang, shoulders soft, jaw loose. It feels wrong to relax while hanging from your fingers. It is also worth fifteen to twenty seconds on test day, because a calm nervous system lets the cables spend everything they actually have.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "HELD BREATH = EMERGENCY",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "fact",
+     "title": "SLOW EXHALES BUY SECONDS",
+     "lines": [
+      "A calm brain stops rationing the signal.",
+      "Relaxed hangers outlast tense ones."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "swap",
+     "asset": "ren_hang_side_relaxed.webp"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "RELAX TO LAST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE RIGHT WAY",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now the skinny advantage. | Clusters need recovery. | Recovery is your superpower. | Your forearms are small. | Small forearms clear waste fast. | You can hang daily. | Heavy guys cannot. | Their max hangs linger | for three sore days. | Yours clear by tomorrow. | So your weekly volume | doubles theirs, easily. | Endurance is a volume trophy. | And the volume crown | fits the skinny guy. | Train like it is yours.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "RECOVERY IS YOUR SUPERPOWER",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "DAILY",
+     "label": "HEAVY GUYS CANNOT",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "ENDURANCE IS A VOLUME TROPHY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "text": "TRAIN LIKE IT IS YOURS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_relaxed.webp",
+   "exercise": "CLUSTER HANG",
+   "work": 20,
+   "rest": 40,
+   "rounds": 4,
+   "section": "THE RIGHT WAY",
+   "check": 3,
+   "music": "drive",
+   "narration": "Hang with me, the tendon way. Twenty seconds on, forty off, four rounds, nowhere near failure. Breathe out slowly the whole hang. Easy reps build steel cables. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE RIGHT WAY",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So here is the right way, the whole method on one page. Test once a month, never weekly. Train clusters at half your max, most days, always stopping with seconds in the bank. Split your hangs: active days for the chain, passive days for the grip. Breathe out slowly under the bar like you are bored. Add one longer hang each week, still short of failure, to stretch the capacity. And keep the sledgehammer in the drawer: failure is a test, and you do not get stronger by re-taking the exam. Do this for thirty days and your retest will not creep. It will jump, because for the first time your tendons got a signal written in their own language: frequent, survivable, patient tension.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "TEST MONTHLY, TRAIN DAILY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "WEEKLY MAX TO FAILURE",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "SECONDS IN THE BANK",
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_hang_side_relaxed.webp"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "text": "FAILURE IS A TEST, NOT TRAINING",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 27,
+     "kind": "stat",
+     "text": "FREQUENT + SURVIVABLE",
+     "label": "THE TENDON LANGUAGE",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE RIGHT WAY",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your number, and now you know what it has been waiting for. Under forty-five seconds: untrained cables, and clusters will move you within two weeks. Forty-five to ninety: BUILDING, and the method change is your missing piece. Ninety to one-twenty: WIRED, and the last stretch is patience, not effort. Two minutes: elite, built by somebody who trained tendons like tendons. Put your seconds in the comments, just the number. In thirty days we run this test again, and the jump will be the method's signature, not your suffering's.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE METHOD WAS MISSING",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_hang_side_relaxed.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "YOUR VERDICT",
+     "lines": [
+      "Under 45: untrained, not weak.",
+      "Over 90: patience is the last piece."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "text": "COMMENT YOUR SECONDS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "section": "THE RIGHT WAY",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days of easy reps and slow exhales, and the bar will meet a grip it has not met before. Subscribe, because every week we test another cable the mirror cannot see. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "A NEW CABLE EVERY WEEK",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_hang_side_relaxed.webp"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": "374",
+  "v5": true,
+  "title": "I Did do 100 squats Every Day for 30 Days (What Happened to My knee and hip tendons)",
+  "description": "One hundred full-depth squats, every day, for thirty days. Max test on day zero and day thirty, and an honest account of what three thousand squats do to the knee and hip tendon system, the legs, and the person.",
+  "tags": [
+    "100 squats",
+    "30 day challenge",
+    "knee tendons",
+    "squats daily",
+    "squat volume",
+    "calisthenics",
+    "leg endurance"
+  ],
+  "hashtags": [
+    "100 a day",
+    "30 days",
+    "squats",
+    "calisthenics",
+    "experiment",
+    "knee tendons"
+  ],
+  "category": "experiments",
+  "badge": "EP 374 - 100 SQUATS A DAY",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_squat_mid.webp",
+    "big": "100 / DAY",
+    "hook": "EVERY SINGLE DAY",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_squat_top.webp",
+        "ren_squat_mid.webp",
+        "ren_squat_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Feet shoulder width. | Sit down deep. | Hips below knees. | Heels stay down. | Stand fully tall. | Now keep going. | No stopping. | No bouncing. | Count your max. | That is day zero. | Write it down. | Starting today, | one hundred squats, | every single day, | for thirty days. | Three thousand total. | Full depth, always. | On day thirty | we count the max again. | Same strict rules. | Keep your number. | The month starts now.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY ZERO: MAX SQUATS",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "FULL DEPTH, ALWAYS",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "3,000 TOTAL COMING",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "THE EXPERIMENT",
+          "lines": [
+            "One hundred a day.",
+            "Thirty days straight."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "100 / DAY",
+      "label": "3,000 SQUATS IN A MONTH",
+      "sub": "the volume road, honestly tested",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Frame the experiment before it frames you. A hundred squats a day is not a workout; it is a weather system moving into your legs' life. The questions are specific. What does daily volume do to the knee and hip tendon system, which usually gets rest days in sensible programs? What happens to the max number when the legs never fully stop being a little bit trained and a little bit tired? And what breaks first: the body, or the streak? Thirty days, full depth, no skipped days. The max test at the end grades the whole philosophy.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "A WEATHER SYSTEM FOR LEGS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "BODY OR STREAK: WHAT BREAKS?",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "3,000",
+          "label": "FULL-DEPTH REPS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "Daily squatting puts the knee and hip tendon system on a schedule it was not consulted about. Every squat loads the quad and patellar tendons at the knee and the glute tendons at the hip, and three thousand reps means three thousand loading cycles with, at most, a night's sleep between shifts. Tendons are living tissue with a slow metabolism: after hard loading, their building and breakdown run a race over the following day or two, and the net result depends on whether the dose left room for building to win. This is the volume experiment's central tension. Moderate daily doses can keep the race positive, especially in a young, untrained system with enormous room to adapt. Greedy doses flip it. The protocol therefore guards the dose jealously: full depth but controlled tempo, sets spread so no single session is a siege, and one deliberately lighter day each week. The tendons are the experiment's real subjects. The squats are just how we interview them.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "BUILDING VS BREAKDOWN",
+          "lines": [
+            "A daily race in the tissue.",
+            "The dose decides the winner."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "hip_joint_plate.webp"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "3,000 LOADING CYCLES",
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "bars",
+          "title": "THE DOSE LEDGER",
+          "items": [
+            [
+              "MODERATE DAILY",
+              75,
+              "cyan"
+            ],
+            [
+              "GREEDY DAILY",
+              30,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 34,
+          "kind": "chip",
+          "text": "GUARD THE DOSE",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "What daily volume buys, when the dose is right, is a quality heavy training cannot: total groove ownership. By rep one thousand, the squat pattern is no longer something you perform; it is something your nervous system owns outright, depth automatic, knees tracking without supervision, the bottom position as comfortable as standing. Movement is also joint food: every full-range rep cycles fluid through the knees and hips, and a joint moved through its range three thousand times in a month is a joint that has been thoroughly maintained. The honest limits deserve their sentence too: bodyweight volume stops adding maximum strength fairly quickly, and legs built by hundreds alone eventually need heavier, harder work to keep growing. But as a foundation term, a month of daily hundreds teaches tendons, joints and nerves a curriculum no other month teaches. The max test will show the endurance chapter. The groove chapter shows every day after.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "TOTAL GROOVE OWNERSHIP",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "fact",
+          "title": "MOVEMENT IS JOINT FOOD",
+          "lines": [
+            "Full range, cycled daily.",
+            "Thoroughly maintained joints."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "ren_squat_top.webp"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "A FOUNDATION TERM",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_mid.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The delivery system makes or breaks this month. One hundred a day, in sets of ten to twenty-five, full depth, controlled tempo, spread across the day or in one honest session, your choice, but the same choice most days, because rhythm is the streak's bodyguard. Non-negotiables: heels down, knees tracking out over the toes, chest proud, and depth that never negotiates downward as the month gets tired. One day a week is the light day: fifty reps, slow and perfect, the tendons' scheduled maintenance window. The stop rules outrank everything: sharp knee pain, not burn, not fatigue, pain, ends the day and buys a professional opinion if it persists. And the psychological rule that saves more streaks than any other: the day's hundred can always be finished in sets of ten. Nobody fails a hundred squats. They fail the idea that it must be done in twenty-five-rep sets to count. It counts however it is honestly done.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "SETS OF 10-25, YOUR RHYTHM",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "ONE LIGHT DAY: 50, SLOW",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "ren_split_squat_top.webp"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "SETS OF 10 ALWAYS WORK",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "SHARP PAIN ENDS THE DAY",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_squat_mid.webp",
+      "exercise": "BODYWEIGHT SQUATS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 5,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Bank twenty of today's hundred with me. Five rounds: forty seconds of full-depth squats, twenty to breathe. Heels down, hips below knees, tempo you could defend in slow motion. Four rounds of this, twice a day, is the whole experiment. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The month, as the legs reported it. Week one, the legs were heavy residents: stairs negotiated, chairs chosen carefully, the daily hundred a genuine appointment with discomfort. Week two, something shifted in the arithmetic of effort: the hundred stopped being an event and became a chore, in the best sense, like dishes, unglamorous and simply done. Week three, the groove chapter opened: depth arrived without warm-up negotiations, the bottom position felt like a resting place, and the light days started feeling like gifts the tendons visibly enjoyed. Week four was pure accounting: the streak intact, twenty-nine hundred reps in the ledger, and a pair of legs that had forgotten what untrained felt like. The tendons' report, for the record: no complaints filed, which in tendon language is a five-star review. Dose guarded, race won.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: HEAVY RESIDENTS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: EVENT BECOMES CHORE",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "NO COMPLAINTS FILED",
+          "lines": [
+            "In tendon language,",
+            "a five-star review."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 29,
+          "kind": "mark",
+          "text": "DOSE GUARDED, RACE WON",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty, max test, full depth, no stopping. The pattern for daily-hundred months in beginners: the max commonly climbs by half or more, twenties becoming forties, because the test is an endurance exam and endurance is exactly what three thousand reps teach. The deeper verdict is about the system, though: knee and hip tendons that were loaded daily, at a guarded dose, came out more capable, not less, which is why the light day and the tempo rules are not decorations on this protocol; they are the protocol. Read yours: a modest climb with bulletproof groove means the month bought quality; a huge climb means your legs were starving for exactly this. Either way, the next road is heavier work, and your tendons are now qualified to take it. Put your max in the comments. Just the number. Three thousand reps will do that to a number.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "AN ENDURANCE EXAM, ACED",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "hip_joint_plate.webp"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "FULL DEPTH, NO STOPPING",
+          "pos": "br"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "COMMENT YOUR MAX",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Three thousand squats later, the lesson stands: a guarded daily dose turns the squat from an exercise into an owned movement, and tendons rise to a rhythm they can trust. Keep the depth, respect the dose, and the legs keep the change. Retest in thirty days and bring me your max. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "A RHYTHM TENDONS TRUST",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

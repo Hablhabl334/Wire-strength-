@@ -1,0 +1,421 @@
+{
+ "id": "388",
+ "v5": true,
+ "title": "I Tested calf raises for 30 Days (The Results Surprised Me)",
+ "description": "Thirty days of calf raises, tested with single-leg reps on day zero and day thirty. The calf raise looks like a mirror exercise, but the real trainee is the Achilles tendon, the strongest cable in your body. Take the test, learn what the Achilles does with daily load, follow the plan, and compare your numbers.",
+ "tags": [
+  "calf raises",
+  "achilles tendon",
+  "calf training",
+  "single leg calf raise",
+  "30 day challenge",
+  "calisthenics",
+  "ankle strength"
+ ],
+ "hashtags": [
+  "calf raises",
+  "achilles tendon",
+  "30 day challenge",
+  "calf workout",
+  "calisthenics",
+  "leg day"
+ ],
+ "category": "experiments",
+ "badge": "EP 388 - CALF RAISES, TESTED",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_calf_raise.webp",
+  "big": "30 DAYS",
+  "hook": "CALF RAISES TESTED",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test. Stand on one leg on a step, heel hanging off the edge, fingertips on a wall for balance only. Rise all the way up onto your toes, lower all the way down until your heel drops below the step, and count full, slow reps until you cannot reach the top. That count is your NUMBER. Test both legs, write down the weaker. In thirty days we run the same test, and I will show you what daily calf work did to the strongest tendon in your body. Keep your number close. Most skinny guys are stunned by how fast the weaker leg quits.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "FULL RANGE, SLOW REPS",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "WRITE DOWN THE WEAKER LEG",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Calf raises every day.",
+      "30 days. One retest."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THE WEAKER LEG QUITS FAST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR REPS",
+   "label": "YOUR DAY-ZERO CALF NUMBER",
+   "sub": "under 8: untrained - 12 to 20: building - over 25: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is how to read your number. Under eight full reps on your weaker leg means the calf and Achilles system is untrained, which is the default for guys who skip legs, meaning most guys. Twelve to twenty is the building zone, a system that works but has never been asked for much. Over twenty five slow, full-range reps puts you in wired territory, with an Achilles that handles serious load. What the count really measures is how much force your calf can push through the Achilles tendon, repeatedly, before the system fades. That tendon is the star of this month. In thirty days we count again, same step, same rules.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "FORCE THROUGH THE ACHILLES",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "25+ REPS",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "THE DEFAULT IS UNTRAINED",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "achilles_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the Achilles, because this tendon is not like the others. It is the thickest, strongest tendon in your body, the cable that joins your calf muscles to your heel bone, and it works like a spring. Every step you take stretches it and snaps it back, returning energy for free. In a calf raise, you load that spring directly: the calf contracts, the Achilles transmits the force, your whole body rises on a cable an inch thick. Daily loading tells the tendon to thicken its collagen and stiffen, and a stiffer Achilles is a better spring and a stronger lift. Here is the part people miss: calves look small because much of their power lives in this cable, not in muscle bulk. Train the cable daily for a month and the reps climb in a way that surprises everyone who judged this exercise by the mirror.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE STRONGEST CABLE YOU OWN",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_achilles_profile.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "A SPRING, NOT A ROPE",
+     "lines": [
+      "It stores and returns energy.",
+      "Every step you take."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "POWER LIVES IN THE CABLE",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "STIFFER SPRING, STRONGER LIFT",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_eccentric_drop.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The secret weapon in this experiment is the LOWERING. When you lower your heel slowly below the step, the calf and Achilles work while lengthening, an eccentric load, and eccentric loading is the most studied tendon stimulus there is. Physios have used slow heel drops for Achilles problems for decades, because the tendon responds to that controlled lengthening by rebuilding its collagen in an organised way. Your daily raises contain both halves of the medicine: a strong rise and a slow, honest lower. There is also a range effect. Working through the full range, heel below the step to toes at the top, trains the system at lengths that half-rep calf work never touches. What surprised me in testing this is how much of the gain was in the bottom half of the rep, the part everyone skips. The retest counts full reps only, and full reps are where the month hides its results.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE LOWERING IS THE MEDICINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_calf_raise.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "ECCENTRIC: THE STUDIED STIMULUS",
+     "lines": [
+      "Slow lengthening under load.",
+      "Rebuilds collagen in order."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "CALF TEST GROWTH",
+     "items": [
+      [
+       "DAY 0",
+       9,
+       "red"
+      ],
+      [
+       "DAY 30",
+       24,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "GAINS HIDE IN THE BOTTOM HALF",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "FULL REPS ONLY COUNT",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise_front.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage in calf work is that your test load is your own body, and your body is light. A single-leg calf raise asks the Achilles to lift you, once per rep, and a lighter you means more quality reps before fatigue and more training days before the tendon needs rest. The heavy guy's calf experiment becomes an every-other-day experiment by week two. Yours stays daily, and daily is where tendon adaptation compounds. There is a second edge: skinny calves are honest calves. With little fat around the ankle, your Achilles is right there under the skin, easy to load, easy to feel working, and easy to keep in perfect alignment. You will feel within three days whether your reps are clean. That feedback loop is worth a week of training by itself.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "LIGHT BODY, DAILY DOSE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_calf_raise.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "HONEST CALVES",
+     "lines": [
+      "The tendon is easy to feel.",
+      "Alignment is easy to keep."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "DAILY IS WHERE IT COMPOUNDS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "FEEDBACK WORTH A WEEK",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_calf_raise.webp",
+   "exercise": "CALF RAISES",
+   "work": 45,
+   "rest": 15,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Raise with me. Three rounds on the step, slow up, slower down, heel below the edge every rep. Fingertips on the wall for balance only. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_achilles_profile.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. Your daily dose is three sets of calf raises, and form is the whole game. Week one: two legs together on the step, three sets of twelve, three seconds up and three seconds down, full range every rep. Week two: shift weight toward one leg, two sets of ten per side, and pause one second at the very top. Week three: true single-leg work, three sets of eight to twelve per leg, and slow the lowering to four seconds, because this is the week the tendon gets its strongest signal. Week four: keep the single-leg work crisp, add a backpack with books if your reps passed twenty, and taper in the last three days to one easy set. Day thirty: same step, weaker leg, one max set of full reps. The form rules that decide everything: straight knee for the main work, no bouncing at the bottom, and the heel must drop below the step on every rep. A calf raise without the drop is half an exercise wearing a full costume.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: TWO LEGS, SLOW",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "3 SECONDS UP, 3 DOWN",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 3: SINGLE LEG, 4-SECOND LOWER",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE DROP IS HALF THE EXERCISE",
+     "lines": [
+      "Heel below the step.",
+      "Every single rep."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "NO BOUNCING AT THE BOTTOM",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: WEAKER LEG, MAX SET",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "25 REPS",
+     "label": "THE WIRED LINE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same step, weaker leg, full reps only. Here is how the results usually read. Most skinny guys go from under ten reps to somewhere between twenty and thirty, because the starting system was untrained and the Achilles answers daily load honestly. If you crossed twenty five, your Achilles has become a genuinely strong spring, and you will feel it in jumps, sprints and stairs. If your reps climbed but the weaker leg still trails badly, you found the real homework: another month with the weaker leg first, every session. If your number stalled, audit the range before the effort: half reps at double speed is the classic way to train hard and gain nothing. Put both numbers in the comments, weaker leg, day zero and day thirty. The calf is the muscle everyone mocks, right up until the test.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME STEP. WEAKER LEG.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_eccentric_drop.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "20 TO 30 REPS",
+     "label": "THE USUAL RESULT",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "AUDIT THE RANGE FIRST",
+     "lines": [
+      "Half reps, double speed.",
+      "The classic zero-gain pattern."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise_front.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days of slow raises, and the strongest cable in your body gets stronger. Keep a step in your life, keep the lowering honest, and subscribe for the next test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "KEEP THE LOWERING HONEST",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "THE STRONGEST CABLE",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

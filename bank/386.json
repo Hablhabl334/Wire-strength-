@@ -1,0 +1,431 @@
+{
+ "id": "386",
+ "v5": true,
+ "title": "What 30 Days of grip work Does to a Skinny Guy",
+ "description": "What actually happens to a skinny guy's hands after thirty days of grip work? This experiment tests finger hangs on day zero and day thirty and follows the finger tendons week by week, including the week where nothing seems to happen. Take the test, learn the mechanism, follow the plan, and compare your numbers.",
+ "tags": [
+  "grip work",
+  "skinny guy",
+  "finger hang",
+  "grip strength",
+  "30 day challenge",
+  "finger tendons",
+  "calisthenics"
+ ],
+ "hashtags": [
+  "grip strength",
+  "skinny guy fitness",
+  "30 day challenge",
+  "finger hang",
+  "calisthenics",
+  "grip training"
+ ],
+ "category": "experiments",
+ "badge": "EP 386 - SKINNY GRIP MONTH",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_finger_hang.webp",
+  "big": "30 DAYS",
+  "hook": "SKINNY GUY GRIP",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Day zero. | Before any training. | We take the test. | The finger hang. | Fingertips on the bar. | Not your whole hand. | Just the last joints. | Hang, start your clock. | Drop when you slip. | That is your NUMBER. | Write it down. | It will feel tiny. | Tiny is honest. | In thirty days | we run it again. | After daily grip work | built for skinny hands. | Keep your number close. | Let us begin.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "JUST THE LAST JOINTS",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "text": "TINY IS HONEST",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "WRITE IT DOWN",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Daily grip work, skinny edition.",
+      "30 days. One retest."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "KEEP YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR TIME",
+   "label": "YOUR DAY-ZERO FINGER HANG",
+   "sub": "under 5 sec: untrained - 8 to 15 sec: building - over 20 sec: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Under five seconds is where almost every skinny guy starts the finger hang, and there is no shame in it, because fingertips were never asked to hold a body before. Eight to fifteen seconds means your finger tendons have some training history. Over twenty seconds on fingertips alone puts you in wired territory that climbers respect. What the clock measures here is the purest tendon test on this channel: no palm, no wrapping, just the finger flexor cables and the small pulleys that hold them against the bone. Your number is the before photo of those cables. Thirty days from now, same bar, same fingertips, we take the after.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE PUREST TENDON TEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "20+ SEC",
+     "label": "CLIMBER TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "NO SHAME IN FIVE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at what a fingertip hang actually loads. When only your last finger joints hold the bar, the flexor tendons in your fingers carry forces several times larger than the weight they hold, because the leverage is terrible and the tendons work like cables over pulleys. Small rings of tissue called PULLEYS hold those tendons tight against your finger bones, and the whole system, tendon and pulley together, is what climbers spend years building. For a skinny guy this system is a gift waiting to be claimed. Your fingers are not buried under heavy hands, your bodyweight is low, and the tendons respond to daily moderate tension by thickening their collagen and stiffening, exactly like every cable on this channel. The difference between your day-zero slip and a climber's casual hang is not talent. It is a thousand days of tension. You are starting with thirty.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "TERRIBLE LEVERAGE, HUGE FORCE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE PULLEY SYSTEM",
+     "lines": [
+      "Tendons ride over pulleys.",
+      "Climbers build this for years."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "FORCES MULTIPLY AT FINGERTIPS",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "A THOUSAND DAYS VS THIRTY",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is what the thirty days actually look like from inside the tendon, week by week. Week one is mostly nerves: your brain learns to recruit the finger flexors together instead of letting the weakest finger quit first, and your time jumps. Week two feels like nothing is happening, and this is the week most people quit. Inside, collagen turnover has sped up, breakdown and building running neck and neck. Week three is when the building starts winning: new collagen laid along the line of pull, the cable measurably stiffer, and your hang time climbs again, this time on tissue, not just wiring. Week four consolidates. The lesson of this experiment is that tendon progress is not a straight line. It is a jump, a plateau, and a climb, and the plateau is where the real construction happens. Skinny guys who understand the plateau finish the month. Everyone else quits in week two with a story about genetics.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "JUMP, PLATEAU, CLIMB",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE WEEK TWO TRAP",
+     "lines": [
+      "Nothing feels different.",
+      "Construction is loudest then."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "FINGER HANG BY WEEK",
+     "items": [
+      [
+       "WEEK 1",
+       8,
+       "red"
+      ],
+      [
+       "WEEK 4",
+       21,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "THE PLATEAU BUILDS",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "FINISHERS BEAT GENETICS STORIES",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_spread.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Let us state the skinny advantage in grip plainly, because it is the biggest one on this channel. Grip strength is the rare physical quality where being light is pure profit. Your hands must hold YOUR weight, not a fixed barbell, so a lighter body is a lighter exam. Meanwhile the loads that build the tendons, hangs and holds with your own frame, are perfectly scaled to you automatically. Add one more detail: skinny hands are usually lean hands, with tendons close to the surface and little fat padding the grip, so your contact with the bar is honest and your feedback is clear. The heavy guy is training grip through oven mitts. You are training it bare-handed, with a lighter load and better information. Thirty days of that is not a fair fight, and the retest will show it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "LIGHT IS PURE PROFIT HERE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_farmer_carry.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "PERFECTLY SCALED LOADS",
+     "lines": [
+      "Your frame sets the dose.",
+      "Automatically, every day."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "BARE-HANDED FEEDBACK",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "NOT A FAIR FIGHT",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_finger_hang.webp",
+   "exercise": "FINGER HANG",
+   "work": 15,
+   "rest": 45,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Hang with me, fingertips only. Four short rounds, long rests. This is heavy work for small cables, so respect the rest. If a finger feels tweaky, we stop. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_farmer_carry.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days, built to survive the week two plateau. Five minutes a day, three rotating tools. Week one: open-hand hangs on the bar, four sets of twenty seconds, plus farmer holds on the other days. This builds the base before fingertips get their turn. Week two: introduce fingertip hangs at half your bodyweight, feet lightly on a chair, three sets of ten seconds, and keep the farmer work going. The chair is not cheating; it is dosing. Week three: fingertip hangs at full weight for short sets, towel hangs for variety, and finger spreading work every session to balance the flexors. Week four: your hardest week of quality hangs, then taper in the last three days to easy open-hand holds. Day thirty: fingertips, same bar, one max hang. The rules that protect small cables: warm up with easy hangs first, never jump straight to fingertips cold, and any sharp pain inside a finger joint ends fingertip work for the week, because pulleys heal slowly and complain quietly. Keep a simple tally in a notebook: the date, the tool, and your best hang or hold of the day. Thirty rows of tallies become the evidence you will reread in the plateau week, when feelings say nothing is working and the numbers say otherwise.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: OPEN-HAND BASE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "FINGERTIPS COME LATER",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: THE CHAIR DOSES",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "PULLEYS COMPLAIN QUIETLY",
+     "lines": [
+      "Sharp finger pain ends the week.",
+      "Warm up before fingertips."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "NEVER FINGERTIPS COLD",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: ONE MAX HANG",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "20 SEC",
+     "label": "THE WIRED LINE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_farmer_carry.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Fingertips on the same bar, one max hang. Here is what thirty days does to a skinny guy, in the usual order. The typical result is a tripling: five seconds becomes fifteen, eight becomes twenty five, because the starting system was untrained and the dose was daily. If you crossed twenty seconds, your finger tendons and pulleys have entered territory that takes most people a year of casual climbing to reach. If your number only doubled, you probably spent week two doubting instead of dosing, and the plateau still took its tax. If a finger forced you to modify, that is data too: your pulleys have a speed limit, and smart skinny guys train at it, not through it. Put both numbers in the comments. Day zero and day thirty. Small numbers, huge story, and your hands will tell it every time you grab anything from now on.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME BAR. SAME FINGERTIPS.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "3X THE TIME",
+     "label": "THE TYPICAL RESULT",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE PLATEAU TAX",
+     "lines": [
+      "Doubting weeks still cost dose.",
+      "Finishers get the climb."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days, and a skinny guy's hands stop being an apology and start being a weapon. Keep the hangs in your week, respect the small cables, and subscribe for the next experiment. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "HANDS BECOME A WEAPON",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "RESPECT SMALL CABLES",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT EXPERIMENT SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

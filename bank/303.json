@@ -1,0 +1,432 @@
+{
+ "badge": "EP 303 - THE PROTEIN NUMBER",
+ "category": "skinnyfat",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "PROTEIN SIGNALS",
+  "THE VERDICT"
+ ],
+ "description": "Count yesterday's protein honestly and you will know why your muscles stay silent while your waist grows. Learn the protein number that switches muscle protein signals on, and the simple daily system that hits it without a diet.",
+ "hashtags": [
+  "protein intake",
+  "muscle protein synthesis",
+  "skinny fat fix",
+  "body recomp",
+  "high protein",
+  "calisthenics"
+ ],
+ "id": "303",
+ "scenes": [
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YESTERDAY. EVERY MEAL."
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ESTIMATE LOW, NOT HIGH"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Most guys overestimate by half."
+     ],
+     "pos": "br",
+     "title": "THE HONEST COUNT"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE THE TOTAL DOWN"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Yesterday. | Every meal. | Every snack. | Count the protein. | Grams, roughly. | Eggs, meat, dairy. | Bread and rice count little. | Be honest, estimate low. | Add it all up. | That total is yours. | Write it down. | It is probably half | of what you think. | At the end | I tell you | what your number means. | Your waist already knows.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "1.6 G PER KILO = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "UNDER 60 G = BUILDING BLOCKED"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "SIGNALS FULLY ON",
+     "pos": "tr",
+     "text": "2 G/KG"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME FOOD. DIFFERENT DESTINATION."
+    }
+   ],
+   "big": "112 G",
+   "card": "bignum",
+   "check": 1,
+   "label": "GRAMS WHERE MUSCLE SIGNALS SWITCH ON",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, and it is a formula, not a guess. Take your bodyweight in kilos and multiply by one point six. For a seventy-kilo skinny-fat guy, that is about one hundred and twelve grams of protein a day. Under sixty grams total, your muscles are being asked to build with half the bricks missing, and they simply refuse. Between sixty and your target, the signal switches on but flickers, strong after one meal and silent after the next. At the target and above, muscle protein synthesis gets a full green light all day. Here is the part that should bother you: the calories you ate yesterday were enough. They just went to the wrong address, because protein decides the address.",
+   "section": "THE NUMBER",
+   "sub": "under 60 g: building blocked - at 1.6 g/kg: signals on",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PROTEIN IS THE BUILD ORDER"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "No bricks, no building.",
+      "The crew goes home."
+     ],
+     "pos": "br",
+     "title": "SYNTHESIS NEEDS BRICKS"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR MUSCLE IS A CONSTRUCTION SITE"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TRAINING ORDERS. PROTEIN DELIVERS."
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MISSING DELIVERY = STORAGE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Understand what protein actually does and the skinny-fat mystery solves itself. Training sends an order: build muscle here. Protein is the delivery of bricks that the order needs. Muscle protein synthesis, the actual construction, only runs when both show up: the signal from training and the amino acids from food. Miss the delivery and the crew goes home, but here is the cruel part: the calories from that meal do not go home with them. Energy that is not claimed by muscle gets stored, and on a skinny-fat body it is stored in the one place with unlimited parking, your waist. This is why two guys can eat the same lunch and one builds an arm while the other builds a belly. The difference is rarely appetite or discipline. It is whether muscle placed an order that day and whether protein delivered the bricks. Your protein number is a delivery report. Low number, missed deliveries, and a warehouse growing around your middle while the construction sites sit quiet. There is one more delivery detail worth knowing. Protein eaten around training lands on a system that is already listening, because the session raised the muscle's sensitivity to amino acids for many hours afterward. You do not need a stopwatch or a shake sprinted down in a locker room. You need the next normal meal to be an anchored one, and the day's total to be a number you chose on purpose instead of a surprise you discovered in this test.",
+   "section": "PROTEIN SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEUCINE PULLS THE TRIGGER"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FULL PROTEIN DAYS",
+       88,
+       "cyan"
+      ],
+      [
+       "LOW PROTEIN DAYS",
+       42,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SIGNAL STRENGTH BY INTAKE"
+    },
+    {
+     "asset": "ren_farmer_carry.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE BIG DINNER CANNOT COVER 3 MEALS"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SPREAD IT. TRIGGER IT 3 TIMES."
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Deeper now, to the actual trigger. Inside your muscle, a pathway called mTOR watches for one amino acid above all others: leucine. When leucine crosses a threshold in a meal, roughly two to three grams of it, mTOR fires and synthesis starts. Below the threshold, almost nothing happens, no matter how virtuous the meal felt. This is why the total is only half the story and the distribution is the other half. One giant protein dinner fires the trigger once. Three normal meals with a real protein source fire it three times, and three firings build more muscle than one, even at the same daily total. It is also why so many skinny-fat guys who swear they eat enough protein are telling the truth about dinner and lying about the day. Breakfast was coffee and bread. Lunch was rice and sauce. The trigger fired once, at night, and the other two meals were delivered straight to storage with no order placed against them. And when you shop for those anchors, shop by leucine per bite, not by habit. Greek yogurt, eggs, cottage cheese, chicken, fish and lean beef all carry the trigger in normal portions. A protein bar with nine grams and a sugar habit does not, no matter what the wrapper promises in capital letters.",
+   "section": "PROTEIN SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_punch.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR APPETITE IS SMALL. USE IT."
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Protein first on the plate.",
+      "Everything else after."
+     ],
+     "pos": "br",
+     "title": "THE SMALL-STOMACH EDGE"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EVERY GRAM WORKS DOUBLE"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO FORCE-FEEDING REQUIRED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the advantage, because skinny guys always assume their small appetite is the curse. Flip it. The heavy guy bulking has to force-feed himself past fullness and gains fat with every surplus gram. You need no surplus at all. At maintenance calories with protein at target, a light body recomps: muscle claims the bricks, fat pays the small energy bill, and your waist shrinks while your arms grow. Your small stomach stops being a problem the moment protein goes first on the plate, because the target fits inside the appetite you already have. One hundred and twelve grams is four normal protein portions. No shakes required, no force-feeding, no misery. Just ordering your plate like the muscle placed the order, because now it does.",
+   "section": "PROTEIN SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE ANCHOR MEAL FIXES THE DAY"
+    },
+    {
+     "asset": "ren_thumb_press.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "lines": [
+      "Anchor breakfast at 30 g.",
+      "The day builds itself."
+     ],
+     "pos": "br",
+     "title": "THE BREAKFAST LEVER"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EGGS, GREEK YOGURT, CHEESE"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FRONT-LOAD THE TRIGGER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The single highest-leverage change in this entire episode is breakfast, so let us stay on it. For most skinny-fat guys, breakfast is the missed delivery: sweet, fast, and nearly protein-free, which means the first synthesis window of the day closes unused while the calories still count. Fix breakfast and the whole day reorganizes behind it, because hitting thirty grams before ten in the morning makes the remaining eighty grams feel easy instead of desperate. Three eggs and Greek yogurt gets you there. So does a cheese omelette, or last night's leftovers eaten without apology. Front-loading protein also steadies your appetite for the rest of the day, which quietly protects the waist from the evening snack raid that ruins so many recomp attempts. One anchored meal, chosen once, repeated daily. That is the whole trick, and tricks you repeat beat plans you admire.",
+   "section": "PROTEIN SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "check": 3,
+   "exercise": "BODYWEIGHT SQUATS",
+   "music": "drive",
+   "narration": "Train with me. Four rounds, forty seconds of squats, twenty seconds of rest. Every rep is an order placed. After this, you eat like you mean it. Go.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "THE FIX",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANCHOR 3 MEALS AT 30 G+"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PROTEIN FIRST ON THE PLATE"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GREEK YOGURT = THE CHEAT CODE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "ONE PROTEIN DINNER = ONE FIRING"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "COUNTING 'ROUGHLY ENOUGH' LIES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your system for the week, built to survive real life. Anchor three meals, each with at least thirty grams of protein, and stop negotiating the rest. Put the protein on the plate first and eat it first, so a small appetite never leaves it behind. Keep one zero-effort backup in the fridge at all times: Greek yogurt, eggs, or cheese, for the days that go sideways. Weigh nothing. Just count portions for seven days until your eye learns what thirty grams looks like, then trust the eye. The mistakes that kill this: the one-protein-dinner pattern, which fires the trigger once and stores two meals. Guessing your intake instead of counting for one honest week. And chasing exotic supplements while breakfast is still coffee and toast. Count for a week, anchor three meals, and your number stops being an opinion.",
+   "section": "THE FIX",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER TARGET = EXPLAINS THE WAIST"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "COUNT AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "GRAMS, NOT FEELINGS"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "THEN WE COUNT AGAIN",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under sixty grams: your muscles placed orders all month and the bricks never came, and your waist has been storing the undelivered energy. That is not a character flaw, it is a delivery problem. Sixty to your target: the signal fires but flickers, and distribution is your fix. At or above one point six grams per kilo: your protein signals are fully on, and if the mirror still lags, we look at training and sleep, not your plate. Put yesterday's honest total in the comments. Just the number. In thirty days we count again, and grams do not care about feelings.",
+   "section": "THE VERDICT",
+   "sub": "blocked / flickering / fully on - count it again in 30 days",
+   "type": "card"
+  },
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE THE NUMBER ON THE FRIDGE"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "RETEST DAY",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUBSCRIBE FOR THE NEXT TEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Write your target number on the fridge where the food decisions happen. Thirty days from now we count again, and the new total will tell us if the deliveries finally match the orders. If this helped, subscribe for the next test. This is {channel}. Train the cable.",
+   "section": "THE VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "protein number",
+  "protein intake",
+  "muscle protein synthesis",
+  "skinny fat",
+  "body recomposition",
+  "high protein diet",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_towel_curl.webp",
+  "big": "112 G",
+  "hook": "YOUR PROTEIN NUMBER"
+ },
+ "title": "Your Protein Number Reveals Your Hidden Strength",
+ "v5": true
+}

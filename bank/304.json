@@ -1,0 +1,431 @@
+{
+ "badge": "EP 304 - PROTEIN, EVERY MEAL",
+ "category": "skinnyfat",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "PROTEIN SIGNALS",
+  "THE VERDICT"
+ ],
+ "description": "Your daily protein total can look fine while two of your three meals fire no muscle signal at all. Test your per-meal spread, learn the leucine threshold, and fix the distribution that decides whether food builds muscle or belly.",
+ "hashtags": [
+  "protein distribution",
+  "leucine threshold",
+  "skinny fat fix",
+  "body recomp",
+  "muscle protein",
+  "meal protein"
+ ],
+ "id": "304",
+ "scenes": [
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE MEALS. THREE NUMBERS."
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BREAKFAST COUNTS DOUBLE"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Totals hide the truth."
+     ],
+     "pos": "br",
+     "title": "THE SPREAD TEST"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE ALL THREE DOWN"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Yesterday again. | But split it. | Protein at breakfast. | Protein at lunch. | Protein at dinner. | Three separate numbers. | Write all three down. | Most guys have one big one. | And two embarrassing ones. | The total hides it. | The spread exposes it. | Keep your three numbers. | At the end | I tell you | which meal is broken. | It is usually breakfast.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "25-30 G = ONE FULL FIRING"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "UNDER 10 G = MEAL STORED"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "ALL THREE MEALS FIRING",
+     "pos": "tr",
+     "text": "3 FIRINGS"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME TOTAL. TRIPLE SIGNAL."
+    }
+   ],
+   "big": "30 G",
+   "card": "bignum",
+   "check": 1,
+   "label": "PER MEAL WHERE THE SIGNAL FIRES",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, per meal this time. A meal needs roughly twenty-five to thirty grams of protein to fully fire the muscle-building signal. Under ten grams, the meal barely whispers, and its calories are escorted to storage almost unopposed. One meal above thirty and two below ten is the classic skinny-fat pattern: one firing a day, two storage runs. Three meals at thirty is the same food budget producing triple the signal. Read your three numbers against that line and you will see your whole physique explained on one line of paper. The dinner number is almost never the problem. The problem is the two quiet meals nobody audits.",
+   "section": "THE NUMBER",
+   "sub": "one firing / two firings / three firings - the spread decides",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TRIGGER IS PER MEAL"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Synthesis runs a few hours.",
+      "Then it needs a new signal."
+     ],
+     "pos": "br",
+     "title": "WHY SPREAD WINS"
+    },
+    {
+     "asset": "ren_pinch_hold.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EXTRA PROTEIN PAST THE TRIGGER WAITS"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "3 MODERATE BEATS 1 GIANT"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR BODY CANNOT BANK AMINOS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why does the spread matter so much? Because muscle protein synthesis is not a savings account. After a meal fires the signal, synthesis runs for a few hours and then winds down, and it will not restart until a new threshold of amino acids arrives. Eat ninety grams at dinner and the trigger fires once, hard, and the surplus amino acids beyond the threshold are mostly burned or converted, not banked for tomorrow's breakfast. Your body cannot store amino acids the way it stores fat. There is no protein warehouse. There is only today's deliveries, arriving meal by meal. That single fact explains the entire skinny-fat plateau of the guy who eats a mountain at night and swears his protein is fine. His total is fine. His timing is a desert with one oasis. Spread the same grams across three meals and each one becomes its own construction shift, three crews working instead of one crew working a double shift and sleeping through the morning. There is also a ceiling worth respecting at the other end. Past roughly forty grams in one sitting, the extra amino acids mostly get burned or converted rather than building more muscle, which means the mountain meal is not even efficient on its own terms. It is a bonfire of bricks. The desert meals starve, the mountain meal wastes, and only the middle path, three honest hills, converts the full grocery bill into tissue.",
+   "section": "PROTEIN SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEUCINE IS THE SPARK PLUG"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "3 BALANCED MEALS",
+       90,
+       "cyan"
+      ],
+      [
+       "1 GIANT MEAL",
+       48,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "DAILY SYNTHESIS BY SPREAD"
+    },
+    {
+     "asset": "ren_farmer_carry.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DAIRY, EGGS, MEAT: HIGH LEUCINE"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ANCHOR EACH MEAL TO A SOURCE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The spark plug of the whole system is leucine, the amino acid that trips the mTOR switch. Dairy, eggs, meat and fish are rich in it, which is why thirty grams from those sources fires the signal so reliably. Plant-heavy meals can work too, they just need bigger portions or smart combinations to reach the same leucine. Now compare the two eating days honestly. Day one: toast and coffee, a rice-heavy lunch, a feast at night. Day two: the same total protein split into three anchored meals. Research on protein distribution shows day two produces measurably more synthesis across twenty-four hours. Nothing about the food changed. Only the schedule did. For a skinny-fat guy this is free muscle, the rarest kind: no extra calories, no extra cost, no extra appetite required. Just the same bricks delivered when the crews are actually on site. Keep one more scheduler's trick in reserve for chaotic days. If a meal is going to be small no matter what, make it small but dense: a yogurt, a glass of milk, a handful of cheese. A fifteen-gram meal fires a partial signal and keeps the crew from fully clocking out, which is infinitely better than the zero-gram meals your current pattern calls lunch.",
+   "section": "PROTEIN SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOU ALREADY EAT ENOUGH. RE-TIME IT."
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "The fix costs zero calories."
+     ],
+     "pos": "br",
+     "title": "THE FREE FIX"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SMALL APPETITE, PERFECT SPREAD"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO FORCE-FEEDING. JUST TIMING."
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your advantage here is almost unfair. The big guy fixing his distribution has to move enormous meals around and usually ends up eating more. You fix yours by moving food you already eat from one pile into three. A small appetite, spread evenly, beats a big appetite dumped once a day, and that sentence should be printed on every skinny-fat kitchen wall. You do not need a bigger stomach. You need a better timetable for the stomach you have. Most recomp advice tells skinny guys to eat more, which fails by Friday. This fix asks you to eat the same, earlier and oftener, which succeeds because it asks for nothing you do not already have.",
+   "section": "PROTEIN SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BREAKFAST IS THE BROKEN MEAL"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "lines": [
+      "Overnight fast ends.",
+      "First signal matters most."
+     ],
+     "pos": "br",
+     "title": "THE MORNING WINDOW"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 G BEFORE 10 AM"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FIX ONE MEAL, FIX THE DAY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Let us put a spotlight on the broken meal, because for nine out of ten skinny-fat guys it is breakfast. You wake up after eight hours of fasting, which means your body spent the last part of the night in a mild breakdown state, using its own tissue to keep the lights on. The first meal decides how fast that reverses. A sweet, low-protein breakfast leaves the breakdown running until lunch, so your day starts with a four-hour storage-and-breakdown window, and no dinner can buy those hours back. A thirty-gram breakfast flips the switch within the hour. Eggs, Greek yogurt, cheese, leftover chicken, it does not matter which, it matters that the trigger fires early. Fix the morning and two things happen at once: synthesis starts hours sooner, and your appetite steadies so lunch builds instead of compensating. One meal, fixed once, repeated forever.",
+   "section": "PROTEIN SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "check": 3,
+   "exercise": "SPLIT SQUATS",
+   "music": "drive",
+   "narration": "Train with me. Four rounds. Thirty seconds of split squats each side, twenty seconds of rest. Slow down, full control. Then go eat a real breakfast tomorrow. Go.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "THE FIX",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_thumb_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MOVE 20 G TO BREAKFAST"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ANCHOR EACH MEAL TO ONE SOURCE"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PREP THE MORNING THE NIGHT BEFORE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "DINNER MOUNTAINS CANNOT COVER DESERTS"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SKIPPING LUNCH = 2 STORAGE RUNS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The fix for this week is surgical. Take twenty grams of protein from your giant dinner and move them to breakfast. Nothing added, nothing bought, just moved. Then give every meal one named anchor: eggs at breakfast, chicken or fish at lunch, whatever you love at dinner. Prep the morning anchor the night before, because willpower at seven in the morning is a rumor. The mistakes that keep guys stuck: building an even bigger dinner mountain to compensate, which only fires the same single trigger harder. Skipping lunch entirely and calling it fasting, which turns the whole afternoon into a storage run. And counting the day as a success because the total looked right, when the spread was one firing and two whispers. Totals flatter. Spreads tell the truth. Fix the spread and the same food starts building a different body.",
+   "section": "THE FIX",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COUNT THE FIRINGS, NOT JUST GRAMS"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "WRITE THREE NUMBERS",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR THREE NUMBERS"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BREAKFAST / LUNCH / DINNER"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "THEN WE WRITE THREE NUMBERS AGAIN",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your three numbers. If only dinner fired: your muscle got one construction shift a day and your waist collected the other two meals. That pattern alone can hold a smart, hard-training guy skinny-fat for years. If two meals fired: you are close, and breakfast is almost certainly your missing shift. If all three fired at thirty grams or more: your distribution is fully wired, and your remaining levers are training load and sleep. Put your three numbers in the comments, breakfast, lunch, dinner, just the grams. In thirty days we write them again, and three honest numbers will show whether your signals finally work the full day.",
+   "section": "THE VERDICT",
+   "sub": "one firing / two firings / three firings - spread is truth",
+   "type": "card"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE NUMBERS ON THE FRIDGE"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "RETEST DAY",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUBSCRIBE FOR THE NEXT TEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Write the three numbers where you eat, not where you train. Thirty days from now we split the day again, and the spread will tell us if your muscle signals finally work all three shifts. If this helped, subscribe for the next test. This is {channel}. Train the cable.",
+   "section": "THE VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "protein distribution",
+  "leucine",
+  "meal timing protein",
+  "skinny fat",
+  "body recomposition",
+  "muscle protein synthesis",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_tabletop_press.webp",
+  "big": "30 G",
+  "hook": "PROTEIN PER MEAL"
+ },
+ "title": "Your Protein Number Reveals the Truth About Your muscle protein signals",
+ "v5": true
+}

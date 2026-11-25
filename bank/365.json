@@ -1,0 +1,368 @@
+{
+  "id": "365",
+  "v5": true,
+  "title": "A Skinny Guy Did jumping for 30 Days (His Achilles stiffness Changed)",
+  "description": "Thirty days of jump training, measured the honest way: a wall, a mark, and a tape. Get your vertical jump height on day zero, learn how Achilles stiffness turns your calf into a spring, and see what a month of quality jumping adds to the mark.",
+  "tags": [
+    "jump height",
+    "30 day challenge",
+    "achilles stiffness",
+    "vertical jump test",
+    "plyometrics",
+    "calisthenics",
+    "spring training"
+  ],
+  "hashtags": [
+    "jump test",
+    "30 days",
+    "achilles",
+    "calisthenics",
+    "experiment",
+    "vertical jump"
+  ],
+  "category": "experiments",
+  "badge": "EP 365 - 30 DAYS OF JUMPING",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_jump_peak.webp",
+    "big": "40 CM",
+    "hook": "TEST YOUR SPRING",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Day zero needs a wall and something to mark with: chalk, tape, wet fingertips, anything. Stand sideways to the wall, reach as high as you can with one arm, and mark that point: your standing reach. Now step back, dip, swing, and jump as high as you possibly can, marking the wall at the top. Measure between the two marks. That distance, in centimetres, is your vertical jump, and it is the purest power test a skinny guy can take, because it weighs your strength against your own body in real time. Take three attempts, keep the best, write it down. For thirty days our subject trains the spring behind that number. On day thirty, same wall, same rules. Keep your centimetres; the wall is keeping them too.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "REACH MARK, THEN JUMP MARK",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "BEST OF 3",
+          "label": "YOUR DAY-ZERO NUMBER",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_achilles_profile.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "THE WALL KEEPS SCORE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "40 CM",
+      "label": "THE SKINNY GUY JUMP LINE",
+      "sub": "under 30: spring asleep - 40+: honest bounce - 55+: springs loaded",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Read day zero here. Under thirty centimetres is a sleeping spring: the strength may exist, but the system is not returning energy, it is leaking it. Thirty to forty is the average untrained range, a spring that works but wastes. Forty-plus is honest bounce, the level where the Achilles and the technique are cooperating. Fifty-five and beyond is loaded-spring territory, rare without training. The experiment's question: in thirty days of low-volume, high-quality jumping, how many centimetres can a sleeping spring recover, and what inside the ankle actually changes to pay for them?",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "UNDER 30 = LEAKING ENERGY",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "QUALITY, NOT VOLUME",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "55+ CM",
+          "label": "LOADED SPRING",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "achilles_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "A jump is two events wearing one costume. On the way down into the dip, your Achilles tendon stretches like a spring being wound, storing energy from your falling bodyweight. On the way up, if the timing is right, the spring recoils and hands that energy back for free, on top of whatever your muscles produce. The property that decides how much comes back is stiffness: a stiff spring returns energy fast and completely, a soft one absorbs it and pays back late, when the jump is already over. This is what Achilles stiffness means, and it is trainable, because tendons remodel toward the demands placed on them. Jump training is spring school: every quality repetition teaches the tendon to wind and release faster, and teaches your nervous system to time the dip so the release lands inside the jump instead of after it. Muscle makes the force. Stiffness decides how much of the force you keep.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "WIND AND RELEASE",
+          "lines": [
+            "The dip winds the spring.",
+            "The recoil pays you back."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_achilles_profile.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "STIFF SPRING = FULL REFUND",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "ENERGY RETURNED",
+          "items": [
+            [
+              "SOFT SPRING",
+              45,
+              "red"
+            ],
+            [
+              "STIFF SPRING",
+              85,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "chip",
+          "text": "MUSCLE MAKES IT, STIFFNESS KEEPS IT",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "big_vs_lean_jump.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "Now the skinny guy's secret in this test: jumping is a power-to-weight exam, and you arrive with the weight half already aced. The heavy lifter produces more absolute force, but he must launch more absolute man. Your force has less to carry, so every improvement in spring quality shows up in centimetres faster. Technique is the other free lunch. A faster, shallower dip keeps the spring's energy from leaking. A violent arm swing adds measurable height. Landing the timing, dip, swing, extension, as one snap instead of three separate efforts is worth centimetres that no muscle could buy in a month. This is why jump experiments flatter beginners: the early gains are coordination and stiffness, the fast-adapting systems, arriving together in the same thirty days. You are not building a bigger engine in a month. You are stopping the leaks in the one you have.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "POWER-TO-WEIGHT EXAM",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "THE FREE LUNCH",
+          "lines": [
+            "Faster dip. Violent swing.",
+            "One snap, not three efforts."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_jump_peak.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "STOPPING LEAKS, NOT BUILDING ENGINES",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The protocol respects the spring: three jump days a week, never back to back, because tendons and joints pay for plyometrics in recovery. Each session is short and sharp: a warm-up of easy hops, then sets of three to five maximal jumps, countermovement jumps, pogo hops for the ankles, and a few single-leg hops in later weeks, with long rests and a hard rule: the session ends the moment jump height visibly drops. Fatigued jumping teaches slow, soft springs, the exact opposite of the experiment. Two other days carry the support work: the slow calf raises you met in the Achilles experiment, because muscle strength feeds the spring's engine. Total jumps per week stay low, in the dozens, not the hundreds. Quality is the entire bet. Thirty days of crisp, fully-recovered, maximal-intent jumps against a wall that never lies about the result.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "3 DAYS, NEVER BACK TO BACK",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "SETS OF 3-5, LONG RESTS",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "ren_sprint.webp"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "STOP WHEN HEIGHT DROPS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "stat",
+          "text": "DOZENS / WEEK",
+          "label": "NOT HUNDREDS",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_jump_peak.webp",
+      "exercise": "COUNTER JUMPS",
+      "work": 20,
+      "rest": 40,
+      "rounds": 4,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Jump with me, spring rules. Four rounds: twenty seconds of tall, snappy jumps, forty seconds of full rest. Every jump maximal intent, every landing quiet and springy. When the height dies, the set dies. Wind the spring, let it pay you back. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_sprint.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The month in four acts. Week one was coordination school: the dip got faster, the arms learned their timing, and the wall mark crept up before any tissue had time to change, pure leak repair. Week two, the pogo hops started feeling like bouncing instead of jumping, the first sign the ankles were returning energy instead of absorbing it. Week three brought the honest tendon work's patience: no soreness chased, no volume added, just crisp sessions, and the mark kept climbing in small, stubborn centimetres. Week four, the retest loomed and the jumps had a sound to them, that quiet, elastic snap that soft springs never make. The lesson of the month: a spring is not built in a session. It is tuned, session by session, and tuning looks boring right up until the tape measure testifies.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: LEAK REPAIR",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: BOUNCING, NOT JUMPING",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "big_vs_lean_jump.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "TUNED, NOT BUILT",
+          "lines": [
+            "Session by session.",
+            "The tape testifies."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 29,
+          "kind": "mark",
+          "text": "THE ELASTIC SNAP",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty, same wall, three attempts, best mark counts. The pattern for untrained guys who jump with quality for a month: three to six centimetres is the honest harvest, most of it from timing and stiffness rather than new muscle, and it is real height, repeatable on any given day, not a one-off fluke. Read your result: under thirty still means the spring sleeps; check the dip speed and keep tuning. Thirty to forty-five, the spring is awake and working. Past forty-five after one month, your Achilles is becoming an asset other athletes train years for. Put your centimetres in the comments. Just the number. In thirty days the wall will be there, and it remembers exactly where your fingers reached.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "+3 TO 6 CM: THE HONEST HARVEST",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_achilles_profile.webp"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "BEST OF 3, SAME WALL",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR CENTIMETRES",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "big_vs_lean_jump.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Thirty days did not build a bigger engine. They stopped the leaks in the spring you already owned, and the wall paid out the difference in centimetres. Keep the jumps crisp, keep the tendon fed, and the mark keeps climbing. Retest in thirty days and bring me your number. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "STOP THE LEAKS",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

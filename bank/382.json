@@ -1,0 +1,466 @@
+{
+ "id": "382",
+ "v5": true,
+ "title": "I Did stand on one leg for 5 minutes Every Day for 30 Days (What Happened to My ankle nerves)",
+ "description": "Five minutes of single-leg standing every day for thirty days. Balance looks like nothing, but it is a high-speed nerve skill run by your ankles, and the day-30 retest measures it in seconds. Take the day-zero test, learn how your ankle nerves keep you upright, follow the progression plan, and compare your two times.",
+ "tags": [
+  "balance training",
+  "single leg balance",
+  "ankle stability",
+  "proprioception",
+  "30 day challenge",
+  "balance test",
+  "calisthenics"
+ ],
+ "hashtags": [
+  "balance training",
+  "single leg",
+  "30 day challenge",
+  "ankle stability",
+  "proprioception",
+  "balance test"
+ ],
+ "category": "experiments",
+ "badge": "EP 382 - ONE-LEG EVERY DAY",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_balance_test.webp",
+  "big": "5 MIN A DAY",
+  "hook": "ONE LEG EVERY DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test. Stand tall, lift one foot clear of the floor, fold your arms, and start the clock. The test ends when the lifted foot touches down, your arms unfold to save you, or you hop. That time is your NUMBER. Test both legs and write down the worse one, because the worse leg is the honest one. In thirty days we run the same test, and I will show you what five daily minutes did to the nerves in your ankles. Keep your number close. Most people discover their balance is half what they believed, and that discovery is free information.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "ARMS FOLDED, FOOT UP",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "WRITE DOWN THE WORSE LEG",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "5 minutes on one leg daily.",
+      "30 days. One retest."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "FREE INFORMATION",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR TIME",
+   "label": "YOUR DAY-ZERO BALANCE NUMBER",
+   "sub": "under 10 sec: untrained - 20 to 40 sec: building - over 60 sec: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is how to read that number. Under ten seconds per leg means your balance wiring is untrained, which is common, fixable, and honestly a little dangerous, because ankles that cannot correct fast are ankles that roll. Twenty to forty seconds is the building zone, where most people land after a week of practice. Over sixty seconds with folded arms, your ankles are running a correction system most adults have lost. Whatever your worse leg gave you, that is the baseline. In thirty days we measure it again, same rules, same folded arms, and the difference is the experiment's whole result.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE WORSE LEG IS HONEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "60+ SEC",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "UNTRAINED IS FIXABLE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ankle_ligament_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the ankle, because standing on one leg is an ankle skill wearing a balance costume. Your ankle is wrapped in ligaments, and inside those ligaments live tiny sensors that report the joint's position and speed to your brain, hundreds of times a second. That sense is called PROPRIOCEPTION. When you start to tip, the sensors fire, the brain calculates, and the small muscles around the ankle and shin correct you, all before you consciously notice. Wobbling is not failure. Wobbling is the system practising its corrections. Every sway in your daily five minutes is a rep for those sensors and the nerves that carry their messages. Thirty days of reps, and the messages get faster, the corrections get smaller, and the standing gets strangely calm.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "AN ANKLE SKILL IN DISGUISE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_balance_test.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "PROPRIOCEPTION",
+     "lines": [
+      "Sensors in the ligaments.",
+      "Position reports, hundreds per second."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "WOBBLING IS PRACTISING",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "CORRECTIONS GET SMALLER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the deeper science of why this trains so fast. Balance is a loop with three inputs: the sensors in your ankles, your inner ear, and your eyes. Standing practice with folded arms forces the ankle input to carry more of the load, and the loop adapts by weighting that input higher and processing it faster. This is pure nervous system training. No muscle needs to grow, no tendon needs to thicken, which is why balance improves in days where strength takes weeks. The research on ankle training is unusually clear on one point: regular single-leg work sharpens these reflexes and makes ankle sprains less likely, because a faster correction catches the roll before the ligament takes the damage. You are not just learning to stand still. You are installing a faster alarm system in the joint that saves you on stairs, trails and icy mornings.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A LOOP WITH THREE INPUTS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_toe_raise.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "PURE NERVE TRAINING",
+     "lines": [
+      "No muscle needs to grow.",
+      "That is why it is fast."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "BALANCE GROWTH",
+     "items": [
+      [
+       "DAY 0",
+       12,
+       "red"
+      ],
+      [
+       "DAY 30",
+       75,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "A FASTER ALARM SYSTEM",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "CATCH THE ROLL EARLY",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "One more layer before the plan, because the foot itself is part of the alarm system and nobody trains it. Inside your foot are small muscles that grip the ground, spread your toes and stiffen your arch. Coaches call the skill the short foot: without curling your toes, you draw the ball of your foot toward your heel and feel the arch lift. A foot that can do this gives the ankle a stable, honest platform to balance on, and its sensors report from a firm base instead of a collapsing one. Spend one of your five daily minutes barefoot, practising the short foot and letting your toes spread and grip. It feels like nothing and it changes the quality of every second that follows. Balance is usually taught from the ankle up. This month, we also build it from the ground up.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE FOOT IS PART OF IT",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_toe_raise.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "THE SHORT FOOT",
+     "lines": [
+      "Arch lifts, toes stay long.",
+      "A firm base for sensors."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "ONE BAREFOOT MINUTE",
+     "pos": "tr"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "BUILT FROM THE GROUND UP",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage in balance is simple physics. There is less of you to correct. A lighter body swaying on one ankle makes smaller errors, and smaller errors need smaller, quicker corrections, so your practice stays in the zone where the nerves learn fastest. Heavy beginners spend their five minutes stepping off and restarting, which is practice at falling. You spend yours actually balancing, accumulating clean seconds. There is a second edge: skinny guys often have stiffer, less cushioned ankles from years of light loading, and stiff ankles report position changes crisply. Your hardware is already a good sensor. This month just upgrades the software that reads it, five minutes at a time.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "LESS OF YOU TO CORRECT",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_toe_raise.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "THE SKINNY EDGE",
+     "lines": [
+      "Smaller errors, faster learning.",
+      "More clean seconds banked."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "SOFTWARE UPGRADE MONTH",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "YOUR SENSORS ARE CRISP",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_balance_test.webp",
+   "exercise": "SINGLE-LEG STAND",
+   "work": 60,
+   "rest": 15,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Balance with me. Three rounds, alternating legs. Arms folded, eyes soft, breathe. If you touch down, just lift again and keep the clock honest. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_toe_raise.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. Your daily dose is five minutes of single-leg standing, split between both legs. Week one: flat floor, eyes open, arms folded if you can, free arms if you must, and bank your five minutes in comfortable pieces near a wall for safety. Week two: same five minutes, now with your gaze fixed on one spot, then slow head turns while you stand, because moving the eyes makes the ankles work harder. Week three: add difficulty, not time. Stand on a folded towel, close your eyes for the last ten seconds of each hold, or reach the free leg in different directions like a clock face. Week four: keep the five minutes at your hardest level, and taper in the last three days to easy flat-floor stands. Day thirty: same test, arms folded, worse leg, one max time. The safety rules are non-negotiable: practise near support, never on a chair or anything raised, and stop if an ankle is genuinely injured, because this trains nerves, not courage.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: FLAT FLOOR, NEAR A WALL",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "BOTH LEGS, EVERY DAY",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: HEAD TURNS",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "DIFFICULTY, NOT TIME",
+     "lines": [
+      "Week 3 adds challenge.",
+      "The dose stays 5 minutes."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "NEVER ON ANYTHING RAISED",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: WORSE LEG, MAX TIME",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "60 SEC",
+     "label": "THE WIRED LINE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same floor, folded arms, worse leg, one max time. Here is how the results usually read. Most people multiply their day-zero time by three to five in this month, the biggest multiplier of any experiment on this channel, because nerves are the fastest learners you own. If you crossed sixty seconds, your ankle alarm system is officially wired, and you will feel it on stairs and uneven ground for years. If your gain was modest, check whether you actually progressed the difficulty, because five easy minutes repeated thirty times teaches the first week thirty times. The system adapts to challenge, not to attendance alone. Put both numbers in the comments. Day zero and day thirty, worse leg. Two small numbers that describe a completely rebuilt reflex.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME FLOOR. WORSE LEG.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_toe_raise.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "3X TO 5X",
+     "label": "THE USUAL MULTIPLIER",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "CHALLENGE, NOT ATTENDANCE",
+     "lines": [
+      "Easy minutes teach week one.",
+      "Thirty times over."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Five quiet minutes a day, and your ankles learn to catch you before you fall. Keep the practice, keep progressing it, and subscribe to run the next experiment with me. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "FIVE QUIET MINUTES",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "KEEP PROGRESSING IT",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT EXPERIMENT SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

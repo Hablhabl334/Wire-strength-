@@ -1,0 +1,413 @@
+{
+  "id": "358",
+  "v5": true,
+  "title": "Your Arm-to-Waist Ratio Reveals Your Hidden Strength",
+  "description": "One division tells the truth about your upper body: your flexed arm divided by your waist. Take both measurements, learn the ratio bands, and get the plan that moves the top number up and the bottom number down.",
+  "tags": [
+    "arm to waist ratio",
+    "arm measurement",
+    "skinny fat arms",
+    "bicep training",
+    "forearm training",
+    "calisthenics",
+    "arm size"
+  ],
+  "hashtags": [
+    "arm ratio",
+    "skinny fat",
+    "arms",
+    "waist",
+    "calisthenics",
+    "forearms"
+  ],
+  "category": "skinnyfat",
+  "badge": "EP 358 - THE ARM RATIO TEST",
+  "checklist": [
+    "THE RATIO TEST",
+    "THE NUMBER",
+    "ARM SIGNALS",
+    "YOUR VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_towel_curl.webp",
+    "big": "0.45",
+    "hook": "ARMS VS WAIST",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_towel_curl.webp",
+      "section": "THE RATIO TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Grab a tape measure, or a piece of string and a ruler. First measurement: your arm, flexed, at the biggest point of the bicep, arm bent and squeezed hard. Write the centimetres down. Second measurement: your waist, at the navel, standing relaxed, breathing out like normal, no sucking in and no pushing out. Write that down too. Now divide: arm divided by waist. A thirty-two centimetre arm on an eighty centimetre waist gives you 0.40. That single decimal is the most honest upper-body number a skinny fat guy can own, because it cannot be flattered by a pump, a good angle, or a kind scale. Keep your ratio. At the end I will tell you which band you live in, and exactly which side of the division to attack first.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FLEXED ARM, RELAXED WAIST",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "ARM / WAIST",
+          "label": "ONE DECIMAL, NO LIES",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "WRITE BOTH NUMBERS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "0.45",
+      "label": "THE RATIO THAT READS AS BUILT",
+      "sub": "under 0.38: hidden - 0.38-0.44: building - 0.45+: arms win",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line the mirror uses. Under 0.38, your arms disappear into your silhouette; the waist is winning the comparison and the eye files you as soft. Between 0.38 and 0.44 you are visibly building, the arms start to argue with the waist. At 0.45 and above, the argument is over: arms that size, on a waist that trim, read as built on any body, at any height. Notice the beautiful part: the ratio has two doors. Grow the arm, or shrink the waist, and the number moves either way. You are never stuck attacking just one side.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "0.45 = ARMS WIN",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "TWO DOORS, ONE NUMBER",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "stat",
+          "text": "0.38",
+          "label": "WHERE ARMS DISAPPEAR",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "section": "ARM SIGNALS",
+      "check": 2,
+      "music": "dark",
+      "narration": "Why does this ratio run your appearance? Because arms are the most inspected muscle you own. They are visible in every shirt, every photo, every handshake-distance conversation, and the eye never judges them alone: it judges them against the waist beside them. That comparison is a signal system. A solid arm on a trim waist signals a body where training energy went to muscle. A similar arm floating over a wide waist signals the opposite, fairly or not. Now the training side: your arm muscles respond to signals like every other muscle, but they are small, so their signal needs to be frequent and progressive rather than heroic. The biceps and triceps grow from hard, repeated tension they can recover from, two or three times a week. And the cables matter here too: the forearm tendons decide how much load your hands can pass to the arm in every row, curl and hang. Weak cables cap the signal before the arm ever hears it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "JUDGED AS A PAIR",
+          "lines": [
+            "Nobody sees your arm alone.",
+            "They see it against your waist."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "SMALL MUSCLE, FREQUENT SIGNAL",
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "bars",
+          "title": "THE RATIO BANDS",
+          "items": [
+            [
+              "HIDDEN",
+              38,
+              "red"
+            ],
+            [
+              "BUILDING",
+              70,
+              "gold"
+            ],
+            [
+              "BUILT",
+              95,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 35,
+          "kind": "chip",
+          "text": "CABLES CAP THE SIGNAL",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_towel_curl.webp",
+      "section": "ARM SIGNALS",
+      "check": 2,
+      "music": "calm",
+      "narration": "Let us kill a myth with your own two numbers. A thirty-eight centimetre arm sounds bigger than a thirty-four. But put the thirty-eight on a ninety-five centimetre waist and the thirty-four on a seventy-four waist, and ask the mirror which man looks built. The thirty-four wins, and it is not close: his ratio is 0.46, the other's is 0.40. Raw arm size is a number for your notebook. The ratio is the number the world sees. This is also why chasing arm size with a bulk is a trap for skinny fat guys: the arm grows a centimetre while the waist grows four, and the ratio, the only score that matters, goes down. Every arm plan on this channel is therefore a two-front war: direct arm work to raise the top number, and the recomp habits, protein, walking, sleep, to lower the bottom one. Attack both, and the decimal moves twice as fast.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "stat",
+          "text": "0.46 vs 0.40",
+          "label": "THE SMALLER ARM WINS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "BULKING CAN LOWER YOUR SCORE",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "TWO-FRONT WAR",
+          "lines": [
+            "Grow the top number.",
+            "Shrink the bottom one."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "THE DECIMAL IS THE SCORE",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pinch_hold.webp",
+      "section": "ARM SIGNALS",
+      "check": 2,
+      "music": "dark",
+      "narration": "There is a silent partner in this ratio that almost nobody trains: the forearm. Look at your arm in a short sleeve. Half of what shows below the sleeve is forearm, and the forearm is the part visible even in a long sleeve, at the wrist and hand. A trained forearm, thick through the top and strong in the fingers, changes the read of the entire arm, because the eye follows the limb from the hand upward. Forearms also carry a gift: they recover fast and respond to frequent, grippy work: carries, hangs, pinch holds, towel curls. The wrist itself is bone and will not grow, so forget it. Everything above the wrist is trainable, and it is the most undertrained real estate on the skinny fat body. Your ratio counts the bicep. Your silhouette counts the whole arm.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "HALF THE ARM IS FOREARM",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_thumb_press.webp"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "UNDER-TRAINED REAL ESTATE",
+          "lines": [
+            "Fast to recover.",
+            "Fast to respond."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "TRAIN ABOVE THE WRIST",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_farmer_carry.webp",
+      "section": "ARM SIGNALS",
+      "check": 2,
+      "music": "calm",
+      "narration": "Your advantage in this test is sitting in the denominator. The bulky guy chasing this ratio has to shrink a waist in the high nineties, a project of many months, before his arms get credit. Your waist starts in the seventies or low eighties. Modest arm growth, one or two centimetres across a season, plus two or three centimetres off the waist, and your ratio leaps a full band. The skinny fat starting point, the one everyone mocks, is mathematically the fastest seat in this particular race. You are not behind. You are standing closer to the line than the big guy, with smaller, cheaper improvements needed on both sides of the division. Ratios reward the lean starter. That is you.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "YOUR WAIST STARTS SMALL",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 14,
+          "kind": "fact",
+          "title": "THE FAST SEAT",
+          "lines": [
+            "Small gains.",
+            "Full band jump."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "mark",
+          "text": "RATIOS REWARD THE LEAN",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_towel_curl.webp",
+      "exercise": "TOWEL CURLS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "ARM SIGNALS",
+      "check": 3,
+      "music": "drive",
+      "narration": "Now raise the top number. Towel curls with me, three rounds, forty seconds on. Squeeze the towel like it owes you money, curl slow, lower slower. Your forearms and biceps get the signal together. This is ratio work. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The weekly plan for the ratio. Two direct arm signals a week, never on back-to-back days: one session of curls and press-down patterns, one session built on rows and hangs that load the arms through the cables. Finish one session with forearm work: carries or towel curls until the grip is honestly done. On the waist side, nothing exotic: the recomp base of protein, walking and sleep, which you already know moves the denominator a centimetre at a time. Now the measurement mistakes, because this test is easy to fake to yourself. Measuring the arm pumped after training adds a centimetre that is not yours yet. Measuring the waist sucked-in invents a waist you do not own. And measuring daily turns a monthly trend into daily noise and daily doubt. Measure cold, honest, and once a month. The ratio rewards patience and punishes theatre.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "2 ARM SIGNALS / WEEK",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_farmer_carry.webp"
+        },
+        {
+          "at": 16,
+          "kind": "mark",
+          "text": "MEASURING PUMPED",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "MEASURING SUCKED-IN",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "chip",
+          "text": "COLD, HONEST, MONTHLY",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_towel_curl.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "So, your ratio. Under 0.38: your arms are hidden, not small, and the fastest first move is usually the waist, because centimetres leave it faster than they arrive on the arm. Between 0.38 and 0.44: you are building, and the plan is simply both fronts at once, month after month. At 0.45 or above: your arms win their comparison, and your job is to defend the waist while the arms keep creeping. Wherever you landed, the number is a compass, not a grade. Put your ratio in the comments. Just the number, two decimals. In thirty days we divide again, and the decimal will have moved.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "A COMPASS, NOT A GRADE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE DIVIDE AGAIN",
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "mark",
+          "text": "COMMENT YOUR RATIO",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "One division, two doors, and both of them are open to you. Grow the arm, shrink the waist, and let the decimal tell the story your mirror has been garbling. Retest in thirty days and bring me the new ratio. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "TWO DOORS, BOTH OPEN",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

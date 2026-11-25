@@ -1,0 +1,405 @@
+{
+  "id": "354",
+  "v5": true,
+  "title": "Stop Doing posture and the belly Wrong: Train Your pelvis position Instead",
+  "description": "You cannot stretch your way out of a tilted pelvis; you have to train it level. Take the neutral-hold test, learn the chain of muscles that owns your pelvis position, and get the exact weekly plan that levels the bowl.",
+  "tags": [
+    "pelvic tilt fix",
+    "posture training",
+    "anterior pelvic tilt",
+    "skinny fat belly",
+    "glute training",
+    "calisthenics",
+    "posture"
+  ],
+  "hashtags": [
+    "pelvis position",
+    "posture fix",
+    "pelvic tilt",
+    "skinny fat",
+    "glute training",
+    "calisthenics"
+  ],
+  "category": "skinnyfat",
+  "badge": "EP 354 - TRAIN THE TILT",
+  "checklist": [
+    "THE TILT TEST",
+    "THE NUMBER",
+    "THE PELVIS CHAIN",
+    "YOUR VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_wall_slide.webp",
+    "big": "30 SEC",
+    "hook": "TRAIN THE TILT",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "THE TILT TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Back against the wall again: heels, hips and head touching, feet slightly out. First, flatten your lower back into the wall until the gap behind it almost disappears. Then let it arch away. That rocking motion is a pelvic tilt, and you just did both directions. Now the real test. Find the middle: the position where exactly one finger fits behind your lower back. That is neutral. Start a clock and hold neutral while breathing normally, without your ribs flaring or your knees bending. How many seconds before the position drifts? That number, your neutral-hold time, is the true measure of whether you own your pelvis or it owns you. Keep it. At the end, I will show you the chain of muscles that number depends on.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FIND NEUTRAL FIRST",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "1 FINGER",
+          "label": "THE NEUTRAL GAP",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_hip_rotation.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "HOLD IT, BREATHING",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "30 SEC",
+      "label": "HOLDING NEUTRAL IS THE TEST",
+      "sub": "under 10: no control yet - 30+: the pelvis is yours",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Under ten seconds of neutral hold means your pelvis position is currently run by habit and furniture, not by you. Ten to thirty seconds means the control exists but fades fast, which is exactly why your posture looks fine in the morning and gone by dinner. Thirty seconds or more, breathing calmly the whole time, means you own the position, and your belly gets to live behind a level bowl all day. Unlike the finger gap, this number is pure skill and strength. It can be trained directly, and it moves fast.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "UNDER 10 = NO CONTROL YET",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "FINE AT 9AM, GONE BY DINNER",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "30+ SEC",
+          "label": "YOU OWN THE POSITION",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "hip_joint_plate.webp",
+      "section": "THE PELVIS CHAIN",
+      "check": 2,
+      "music": "dark",
+      "narration": "Your pelvis is held by a chain, four hands on one bowl. At the back, your glutes and hamstrings pull the bowl backward and down; they are the strongest hands you own. At the front, your deep abdominal wall pulls the bowl upward, like lifting the front edge of the bowl toward your ribs. Working against them, the hip flexors at the front pull the bowl forward and down, and the lower back muscles pull it forward from behind. Neutral is not a bone position you find once. It is a tug of war that your muscles win or lose every second of the day. Training pelvis position means strengthening the two hands that level the bowl, glutes and deep abs, while teaching the hip flexors to let go. Stretching alone fails because it only loosens one hand for an hour. Strength changes what the chain does all day.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "FOUR HANDS, ONE BOWL",
+          "lines": [
+            "Glutes pull back. Abs lift the front.",
+            "Flexors pull it forward."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "NEUTRAL = A TUG OF WAR",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "WHO LEVELS THE BOWL?",
+          "items": [
+            [
+              "GLUTES + ABS",
+              85,
+              "cyan"
+            ],
+            [
+              "HABIT + CHAIR",
+              60,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "STRENGTH BEATS STRETCHING",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE PELVIS CHAIN",
+      "check": 2,
+      "music": "calm",
+      "narration": "Here is the part most posture advice misses: position is a skill before it is a strength. Your nervous system holds a default setting for your pelvis, a position it returns to whenever you stop paying attention. That default was written by years of sitting. The good news is that defaults can be rewritten, and the pen is short, frequent practice. Five focused minutes of tilts and holds, done daily, teach the system more than one heroic core workout per week, because the system learns from repetition, not from exhaustion. This is also why your neutral-hold number matters more than any flexibility score. It measures the exact thing you are trying to change: how long the correct position survives without you thinking about it. Train the hold, and the default moves. When the default moves, your belly spends the whole day behind a level bowl, not just during your workout. And unlike a diet, a rewritten default does not rebound the week you relax, because you have changed what your body does when nobody is watching, which is most of the day.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "POSITION IS A SKILL",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "fact",
+          "title": "THE DEFAULT SETTING",
+          "lines": [
+            "Written by years of sitting.",
+            "Rewritten by daily minutes."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "swap",
+          "asset": "ren_leg_swing.webp"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "5 MINUTES DAILY > 1 HERO SESSION",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 36,
+          "kind": "chip",
+          "text": "TRAIN THE HOLD",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "THE PELVIS CHAIN",
+      "check": 2,
+      "music": "dark",
+      "narration": "If you sit for a living, the daily drill needs a partner: the hourly reset. Your hip flexors shorten in the shape of your chair, so every hour or so, stand up, squeeze your glutes hard for five seconds, let the front of your hips open, and take three slow breaths in your new, level position. It takes thirty seconds and nobody at work will even notice. Think of it as punctuation: the drill in the morning writes the sentence, and the resets stop the chair from erasing it by evening. Guys who only train posture at home are fighting eight hours of chair with five minutes of exercise. The reset evens the fight. Cheap, silent, and strangely addictive once your side photos start changing.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE HOURLY RESET",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "30 SEC",
+          "label": "EVERY HOUR, AT YOUR DESK",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "ren_hip_rotation.webp"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "STOP THE CHAIR ERASING IT",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_split_squat_top.webp",
+      "section": "THE PELVIS CHAIN",
+      "check": 2,
+      "music": "calm",
+      "narration": "Your advantage in this fight is your weight, or rather, your lack of it. The best pelvis-chain exercises are bodyweight patterns: split squats, hinges, bridges, dead bugs. A heavy guy needs a barbell to challenge his glutes; you can challenge yours in your living room tonight, because your muscles are untrained enough that your own body is a serious load. And because the loads are modest, you can practice these patterns often, which is exactly what a skill-based fix demands. Frequency beats intensity when you are rewriting a default. The skinny guy with a tilted pelvis is holding a winning ticket: the problem is muscular and habitual, not structural, and his training tool is free, portable and always loaded. All that is missing is the plan, and the plan is coming.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "YOUR BODY IS THE LOAD",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_split_squat_bottom.webp"
+        },
+        {
+          "at": 15,
+          "kind": "fact",
+          "title": "THE WINNING TICKET",
+          "lines": [
+            "Muscular and habitual.",
+            "Not structural."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "mark",
+          "text": "FREQUENCY BEATS INTENSITY",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_split_squat_top.webp",
+      "exercise": "SPLIT SQUATS",
+      "work": 30,
+      "rest": 20,
+      "rounds": 4,
+      "section": "THE PELVIS CHAIN",
+      "check": 3,
+      "music": "drive",
+      "narration": "Now train the strongest hand on the bowl. Split squats with me, thirty seconds a side, four rounds. Torso tall, pelvis level, front knee tracking straight. Feel the glute of the front leg do the work. This is the level-keeper, waking up. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_forward_fold.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "Here is the weekly plan, complete. Every morning, five minutes: slow pelvic tilts against the wall, dead bugs with a flat lower back, and glute bridges with a two-second squeeze at the top. Three days a week, train the chain properly: split squats, hip hinges and carries, always finishing with a neutral hold against the clock. Every working hour, the thirty-second desk reset. Now the mistakes that sabotage this plan. Stretching your hip flexors for a month without strengthening anything gives you an hour of freedom and a lifetime of tilt. Training abs with your back arched teaches the exact position you are trying to delete. And holding your breath during holds builds pressure, not control; the test is breathing in the position, so train breathing in the position. Simple plan, daily reps, thirty days. That is how a default gets rewritten.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "5 MINUTES, EVERY MORNING",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_hip_rotation.webp"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "STRETCHING ALONE",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "mark",
+          "text": "BREATHE IN THE POSITION",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 27,
+          "kind": "chip",
+          "text": "3 DAYS: TRAIN THE CHAIN",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "So, your neutral-hold number. Under ten seconds: no shame in it, it simply means the chain has never been trained, and untrained is the most fixable diagnosis there is. Ten to thirty: you have the strength but not the default yet; the daily drill is exactly your medicine. Over thirty with calm breathing: you own your pelvis, and from here the work is just keeping the chain strong as the rest of you grows. Run the plan and rerun this test against the same wall in thirty days. Put your seconds in the comments. Just the number. When it doubles, and for most guys it doubles, your side photo will look like a different person took it.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "UNTRAINED = FIXABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "SAME WALL, NEW NUMBER",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR SECONDS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_hip_rotation.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Stop stretching at the problem and start training the chain that owns it. Five minutes a day, three honest sessions a week, and your pelvis learns its new default. Retest your hold in thirty days and bring me the seconds. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "TRAIN THE CHAIN",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

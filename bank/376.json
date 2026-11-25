@@ -1,0 +1,481 @@
+{
+ "id": "376",
+ "v5": true,
+ "title": "I Did do 50 push-ups Every Day for 30 Days (What Happened to My chest tendons)",
+ "description": "Fifty push-ups a day for thirty days sounds simple, but the real story happens in the chest tendons, not the mirror. Take the day-zero test, learn why daily submaximal volume rewires the cables behind your press, follow the exact week-by-week plan, and see what the day-30 retest number really means.",
+ "tags": [
+  "push-ups",
+  "push-up challenge",
+  "30 day challenge",
+  "chest tendon",
+  "calisthenics",
+  "skinny guy fitness",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "push-up challenge",
+  "30 day challenge",
+  "push-ups",
+  "calisthenics",
+  "bodyweight training",
+  "skinny guy"
+ ],
+ "category": "experiments",
+ "badge": "EP 376 - 30 DAYS OF PUSH-UPS",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_mid.webp",
+  "big": "50 A DAY",
+  "hook": "PUSH-UPS EVERY DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Day zero. | Before any training. | We take the test. | Hands under your shoulders. | Body in one line. | Lower your chest down. | Until it nearly touches. | Push the floor away. | Count every clean rep. | Stop when form breaks. | That is your NUMBER. | Write it down. | Not your ego number. | Your honest number. | In thirty days | we run it again. | Same floor. Same rules. | And I will show you | what fifty daily push-ups | did to your TENDONS. | Keep your number close. | Let us begin.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "CHEST TO THE FLOOR",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "text": "STOP WHEN FORM BREAKS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "HONEST NUMBER ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "50 push-ups a day.",
+      "30 days. One retest."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "KEEP YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR MAX",
+   "label": "YOUR DAY-ZERO PUSH-UP NUMBER",
+   "sub": "under 10: untrained cables - 20 to 30: building - over 40: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is what that number actually is. It is not a grade and it is not your worth. It is a BASELINE, the starting pressure reading on your chest tendons and your pressing nerves. Under ten clean reps, the cables are simply untrained. Twenty to thirty, the system is waking up. Over forty, you already own pressing strength most people never build. Whatever you got, circle it. In thirty days we measure the same way and compare.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A BASELINE, NOT A GRADE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "DAY 30",
+     "label": "SAME TEST, SAME RULES",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "CIRCLE YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_45_mid.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Now the part nobody talks about. When you press, the muscle does not touch the bone directly. The force travels through TENDON, thick cables that anchor the chest and shoulder muscles to your skeleton. A push-up loads those cables with most of your bodyweight, rep after rep. Tendons respond to that load slowly and quietly. Their collagen fibres line up along the line of pull, the cable gets stiffer, and a stiffer cable wastes less force. That is why the first gains from daily push-ups are not size. They are TRANSMISSION. The same muscle suddenly delivers more of its power to the floor, because the cable between muscle and bone stopped leaking it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "MUSCLE PULLS THE CABLE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_pushup_back_top.webp"
+    },
+    {
+     "at": 11,
+     "kind": "fact",
+     "title": "THE CABLE RULE",
+     "lines": [
+      "Tendons adapt to load.",
+      "Stiffer cable, less wasted force."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "text": "FIRST GAINS = TRANSMISSION",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "swap",
+     "asset": "ren_pushup_weak.webp"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "text": "NOT SIZE. TRANSMISSION.",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front_top.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is why fifty a day works better than three hundred once a week. Tendon tissue rebuilds on a slow clock. After a hard session, collagen breakdown actually runs ahead of collagen building for the first day or so. Frequent MODERATE loading keeps the building signal switched on without digging a hole you cannot climb out of. Fifty clean reps, spread through the day in small sets, gives the cables a daily vote for stiffness while the muscle and nerves get daily practice at the skill of pressing. And pressing is a skill. Your nervous system learns to recruit the chest, shoulders and triceps together, in the right order, with less wasted effort. Thirty days of daily votes beats four heroic workouts, because the tissue you are training keeps a slow calendar.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "TENDONS KEEP A SLOW CALENDAR",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pushup_front.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "DAILY VOTES WIN",
+     "lines": [
+      "Moderate load, every day.",
+      "Skill and stiffness together."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "DAY 0 VS DAY 30",
+     "items": [
+      [
+       "DAY 0 MAX",
+       15,
+       "red"
+      ],
+      [
+       "DAY 30 MAX",
+       28,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "PRESSING IS A SKILL",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "FREQUENCY BEATS HEROICS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front_bottom.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "One more layer before the plan, because hand position quietly rewrites this whole experiment. A standard push-up, hands under shoulders, spreads the load across the chest tendons, the shoulder tendons and the triceps. Slide the hands wider and the chest cables take more of each rep. Bring them closer and the triceps and their tendons take over. For this month, keep one honest standard position, because the test uses it and consistency is what makes the numbers comparable. But notice your wrists while you train. The push-up loads the wrist in extension, and a stiff, complaining wrist will end more push-up experiments than weak chests ever will. Warm the wrists, spread the fingers wide, and grip the floor like you are trying to wrinkle it. Small details, but the month is made of daily reps, and daily reps amplify small details into results or into problems.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "ONE POSITION, ALL MONTH",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_pushup_45_mid.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "WRISTS END EXPERIMENTS",
+     "lines": [
+      "Warm them, spread the fingers.",
+      "Grip the floor hard."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "WIDTH MOVES THE LOAD",
+     "pos": "tr"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "SMALL DETAILS, DAILY AMPLIFIED",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_weak.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Now the skinny advantage, because this experiment is built for you. A push-up moves a percentage of your bodyweight. A lighter body means every rep is a smaller absolute load, which means you can repeat it daily without wrecking your joints or your recovery. The heavy guy doing fifty a day is pressing a small car and pays for it in sore elbows. You pay almost nothing. You can stack thirty days of clean signals while he is still icing his shoulders from week one. Light is not the weakness in this experiment. Light is the RECOVERY ADVANTAGE that lets the experiment run long enough to work.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "LIGHT = RECOVERABLE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_pushup_bottom.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "THE SKINNY EDGE",
+     "lines": [
+      "Same daily signal.",
+      "A fraction of the cost."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "30 CLEAN DAYS IN A ROW",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "JOINTS STAY QUIET",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pushup_mid.webp",
+   "exercise": "PUSH-UPS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Train with me. This is one slice of the daily fifty. Clean reps, full lockout, chest to the floor. When form breaks, rest, then finish the count. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_top.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. Week one: fifty reps a day in sets of five to eight, spread out whenever you pass the same spot in your home. Grease the groove, never to failure. Week two: same fifty, but slower. Three seconds down, pause at the bottom, press hard. Week three: fifty again, now in bigger sets, and add one true MAX SET every third day to check the trend. Week four: fifty a day with perfect form only, and on day twenty eight, taper to twenty easy reps. Day twenty nine is rest. Day thirty, same floor, same rules, one honest max set. The rules that protect the experiment: stop any set the moment your hips sag, keep one or two reps in the tank on daily sets, and if your wrists or shoulders complain, elevate your hands on a step and keep going. Consistency is the whole drug here. Miss a day and you do not punish yourself with double. You just continue.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: SETS OF 5 TO 8",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "NEVER TO FAILURE",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: SLOW IT DOWN",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE ONLY DRUG",
+     "lines": [
+      "Consistency. 30 days.",
+      "No heroic catch-up days."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "FORM BREAKS = SET OVER",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "WEEK 4: TAPER, THEN TEST",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "DAY 30",
+     "label": "ONE HONEST MAX SET",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_bottom.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same test. Here is how to read what happened. If your max jumped by five to fifteen reps, that is the classic pattern: the nerves learned the skill and the cables stiffened, exactly on schedule. If it jumped more, you were deeply untrained and the ceiling was low. If it barely moved, check your sleep and your protein before you blame the program, because daily pressing spends recovery like money. Whatever your number did, it told the truth. The mirror shows you almost nothing in thirty days. The NUMBER shows you everything. Put your day zero and your day thirty in the comments, both numbers, nothing else needed. We retest again in thirty more if you keep the habit.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME TEST. SAME RULES.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pushup_mid.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "+5 TO +15",
+     "label": "THE CLASSIC PATTERN",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "READ THE NUMBER",
+     "lines": [
+      "Mirror: almost nothing.",
+      "Number: the whole story."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_top.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days from now, the floor will tell you the truth again. Keep the fifty, keep the form, and let the cables do their slow work. Subscribe and run the next experiment with me. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "KEEP THE FIFTY",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "RETEST IN 30 DAYS",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT EXPERIMENT SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,432 @@
+{
+ "badge": "EP 317 - 5 BELLY MISTAKES",
+ "category": "skinnyfat",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "RECOMP SIGNALS",
+  "THE VERDICT"
+ ],
+ "description": "Five belly mistakes keep a skinny-fat waist over the line while the rest of the frame stays thin. Retest your waist-to-height ratio, find the errors feeding it, and run the stack that pulls the ratio under 0.50.",
+ "hashtags": [
+  "belly mistakes",
+  "waist to height",
+  "skinny fat fix",
+  "body recomp",
+  "belly fat",
+  "recomp signals"
+ ],
+ "id": "317",
+ "scenes": [
+  {
+   "asset": "ren_lsit.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WAIST DIVIDED BY HEIGHT"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MORNING. NAVEL. RELAXED."
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "The ratio remembers everything."
+     ],
+     "pos": "br",
+     "title": "THE DIVISION AGAIN"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE YOUR RATIO DOWN"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Tape measure. | Waist at the navel. | Morning, relaxed. | Your height, centimeters. | Divide. | That ratio is yours. | Write it down. | Five mistakes defend it. | You have met some already. | Together they form a wall. | At the end | I tell you | which ones guard yours. | The wall has doors. | Same conditions as always. | The wall is listening.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "0.50 = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "OVER 0.55 = THE WALL IS MANNED"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "RECOMP IS WINNING",
+     "pos": "tr",
+     "text": "0.45"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EVERY MISTAKE REMOVED MOVES IT"
+    }
+   ],
+   "big": "0.50",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE THE MISTAKES DEFEND",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The line is zero point five zero, waist under half your height, the border between a belly that leads the frame and a frame that leads the belly. This episode treats your ratio as a defended position: five mistakes stand guard over it, each one feeding the waist or starving the frame, and most skinny-fat men are running at least three of them simultaneously without knowing any of their names. That stacking is why single fixes disappoint. Remove one guard and two others hold the wall. Read your ratio, then walk the five with me and count your guards honestly. The verdict at the end is a removal order, sequenced so the wall actually falls instead of being repainted.",
+   "section": "THE NUMBER",
+   "sub": "the wall has five guards - count yours",
+   "type": "card"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WAIST IS A SUM, NOT A CURSE"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Five small inputs.",
+      "One visible output."
+     ],
+     "pos": "br",
+     "title": "THE SUM RULE"
+    },
+    {
+     "asset": "ren_hip_rotation.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO SINGLE VILLAIN. A COMMITTEE."
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMITTEES CAN BE DISBANDED"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIX THE SUM, NOT THE SYMPTOM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The principle first: your waist is a sum, not a curse. It is the visible total of small daily inputs: how much you sit, how you sleep, how your protein is spread, how your stress is managed, how loudly your muscles signal. No single input is dramatic, which is precisely why no single fix is dramatic either. The diet industry sells villain stories, one food, one hormone, one exercise, because villains are easy to sell against. Your waist has no villain. It has a committee, and committees are defeated by removing members until the quorum fails. That is the strategy of this episode and honestly of the whole season: identify the guards, remove them in the order that frees the most signal, and let the ratio fall as the sum changes. It is less exciting than a villain. It is also the only version that has ever worked past week six. One more committee member deserves a dishonorable mention: liquid calories, the only input that feeds the waist while bypassing every fullness signal you own. A daily sweet drink is a committee member with a permanent seat, small enough to be invisible and regular enough to be structural. You do not need to ban anything. You need to notice that the committee counts drinks as votes too, and it counts them daily.",
+   "section": "RECOMP SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GUARDS 1-2: CRUNCHES AND THE CRASH DIET"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FULL STACK",
+       88,
+       "cyan"
+      ],
+      [
+       "CRUNCHES + DIET ONLY",
+       30,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "RATIO CHANGE BY STRATEGY"
+    },
+    {
+     "asset": "ren_leg_swing.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SPOT REDUCTION IS A FAIRY TALE"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "CRASH DIETS SHRINK THE FRAME TOO"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Guard one: the crunch crusade. Hundreds of crunches build a small muscle under the fat while changing none of the signals that put the fat there, because spot reduction is a fairy tale the body never signed. Guard two: the crash diet. Slashing calories shrinks the waist and the frame together, muscle leaving with fat, so the ratio barely moves while you get weaker and hungrier, and the rebound restores the waist first. Both guards survive because they feel targeted: they attack the belly directly, emotionally satisfying and physiologically empty. The ratio does not grade effort or intention. It grades the sum, and the sum only moves when the signal stack moves: training that builds the frame, protein that feeds it, steps and sleep and stress work that tilt storage toward burning. Direct attacks fail. Surrounding the position works. Guard three has a second weapon worth disarming while we are here: the flattened glute. Hours of sitting do not just switch enzymes off, they teach the glutes to under-recruit, a pattern lifters call gluteal amnesia, which quietly transfers their work to your lower back and hamstrings. The post-meal walk and the movement timer wake them back up, and a base that fires properly changes the denominator of your ratio from the inside.",
+   "section": "RECOMP SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_sag.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GUARDS 3-4: THE CHAIR AND THE WEEKEND"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Eight seated hours undo",
+      "one training hour's message."
+     ],
+     "pos": "br",
+     "title": "THE CHAIR MATH"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "WEEKEND BINGES REFILL THE WEEK"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE WAIST KEEPS A 7-DAY BOOK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Guard three: the chair. Eight or more seated hours a day switch off the fat-handling enzymes and flatten the glutes that were supposed to widen your frame's base, so the chair feeds the numerator and starves the denominator of your ratio simultaneously. It is the only guard working both sides of the division against you. Guard four: the weekend refill. Five disciplined days can be fully refunded by two days of eating and drinking like the project is over, and the waist, which keeps a seven-day book and respects no weekdays-only stories, files the average. Neither guard requires a personality transplant to remove: a movement timer and a standing habit for the chair, a protein-first floor and one planned indulgence instead of a two-day collapse for the weekend. Small locks on big doors.",
+   "section": "RECOMP SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GUARD 5: IMPATIENCE"
+    },
+    {
+     "asset": "ren_toe_raise.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "lines": [
+      "The ratio moves monthly.",
+      "Quitting is weekly."
+     ],
+     "pos": "br",
+     "title": "THE TIMELINE TRAP"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "2 CM IS A SHORT WALK. WALK IT."
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOUR DISTANCE IS THE SMALLEST IN THE GYM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Guard five is the one protecting all the others: impatience. The ratio moves on a monthly clock, tissue being what it is, but the modern skinny-fat guy audits it weekly, finds noise, and abandons working systems in week three, one week before the first real reading. Every guard in this episode survives longer because impatience keeps firing the generals. Remember the arithmetic from the ratio episode: your distance to the line is often two centimeters, the smallest distance in the entire gym, a distance heavy men would trade a year for. Two centimeters, removed by a committee being disbanded one member at a time, on a monthly clock, by a man who finally stopped auditing weekly. That is not a hard transformation. It is a short walk taken slowly, and the only way to fail it is to stop walking.",
+   "section": "RECOMP SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "check": 3,
+   "exercise": "PLANK",
+   "music": "drive",
+   "narration": "Train with me. Three rounds, forty-five seconds of plank, ribs down, hard brace, thirty seconds of rest. The frame is being built while the waist gets its notice. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "THE FIX",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_lsit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REMOVE ONE GUARD PER WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ORDER: CHAIR, PROTEIN, SLEEP, WEEKEND, CRASH"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MEASURE MONTHLY ONLY"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "ADDING CRUNCHES TO A MANNED WALL"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "AUDITING THE RATIO WEEKLY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The removal order, one guard per week so the wall actually falls. Week one, the chair: movement timer and a post-meal walk. Week two, the protein spread, anchored at three meals. Week three, sleep: fixed wake time and the caffeine cutoff. Week four, the weekend floor. The crash diet and the crunch crusade are not scheduled for removal, they are simply retired today, replaced by maintenance calories and full-body signals. Measure the ratio monthly and only monthly, and let the committee discover its quorum is gone at the next reading. The mistake about the mistakes is sequencing them by guilt instead of leverage. The chair goes first because it works both sides of the division. Leverage first, always.",
+   "section": "THE FIX",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COUNT THE GUARDS ON YOUR WALL"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "DIVIDE AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR RATIO"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "AND YOUR GUARD COUNT"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "THEN WE DIVIDE AND COUNT AGAIN",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your ratio and your guards. Over zero point five five with four or five guards: the wall is fully manned, and the four-week removal order is your entire program, no additions needed. Near the line with two or three guards: remove the chair first and expect the crossing within two readings. Under the line already: your committee is disbanded, keep the stack and let the frame widen the margin. Put your ratio in the comments, and your guard count beside it. Two numbers. In thirty days we divide and count again, and the pair of them together will tell the whole story of your recomp signaling in one line.",
+   "section": "THE VERDICT",
+   "sub": "wall manned / crossing soon / committee gone - count guards",
+   "type": "card"
+  },
+  {
+   "asset": "ren_lsit.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REMOVAL ORDER ON THE FRIDGE"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "RETEST DAY",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUBSCRIBE FOR THE NEXT TEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Write the removal order where you plan your week. Thirty days from now we divide again, and two decimals will report whether the wall still stands. If this helped, subscribe for the next test. This is {channel}. Train the cable.",
+   "section": "THE VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "belly mistakes",
+  "waist to height ratio",
+  "belly fat",
+  "skinny fat",
+  "body recomposition",
+  "recomp signals",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_lsit.webp",
+  "big": "0.50",
+  "hook": "5 BELLY MISTAKES"
+ },
+ "title": "5 the skinny fat belly Mistakes That Are Destroying Your recomp signaling",
+ "v5": true
+}

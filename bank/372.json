@@ -1,0 +1,368 @@
+{
+  "id": "372",
+  "v5": true,
+  "title": "A Skinny Guy Did wall sit for 30 Days (His knee tendons Changed)",
+  "description": "Thirty days of wall sits, the quietest hard exercise in the world. Time your max hold on day zero, learn what isometric loading does to your knee tendons, and see what a month of sitting against a wall does to the clock.",
+  "tags": [
+    "wall sit",
+    "30 day challenge",
+    "knee tendons",
+    "wall sit test",
+    "isometrics",
+    "calisthenics",
+    "quad training"
+  ],
+  "hashtags": [
+    "wall sit",
+    "30 days",
+    "knee tendons",
+    "calisthenics",
+    "experiment",
+    "isometric"
+  ],
+  "category": "experiments",
+  "badge": "EP 372 - 30 DAYS OF WALL SITS",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_wall_sit.webp",
+    "big": "90 SEC",
+    "hook": "DON'T SLIDE",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_wall_sit.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Day zero needs a wall and a clock. Back flat against the wall, walk your feet out and slide down until your thighs are parallel to the floor and your knees sit at ninety degrees, knees over ankles, hands off your legs. Start the clock. Hold until you slide, shake apart, or your thighs simply file for divorce. That time is your number, and for most untrained guys it lands between thirty and sixty humbling seconds. The wall sit looks like doing nothing, which is why it is the most underestimated test in this series: nothing about it can be faked, paced, or technique-cheated. It is you, gravity, and one fixed angle, negotiating. Write your seconds down. For thirty days our subject sits against this wall daily. On day thirty, the negotiation resumes. Keep your number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THIGHS PARALLEL, HANDS OFF",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "30-60 SEC",
+          "label": "THE HUMBLING NORMAL",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_wall_sit_front.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "NOTHING CAN BE FAKED",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "90 SEC",
+      "label": "THE QUIET 90 LINE",
+      "sub": "under 45: knees untaught - 90: solid base - 3 min: statue",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The bands for a ninety-degree wall sit. Under forty-five seconds: the quad and knee tendon system is untaught, and stairs probably negotiate with you too. Ninety seconds is a solid base, the point where the position stops being an emergency and becomes a hold. Three minutes is statue territory, a level of isometric strength most people never build because nobody trains stillness on purpose. The experiment question: what does thirty days of daily submaximal holds do to a max hold, and what is changing inside the knee tendons while the clock stretches?",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "UNDER 45 = UNTAUGHT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "STILLNESS, TRAINED ON PURPOSE",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "3 MIN",
+          "label": "STATUE TERRITORY",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "The wall sit is an isometric: maximum effort, zero movement. Your quadriceps are contracting as hard as they can while their length never changes, and all that force pours into the tendon chain of the knee: the quad tendon above the kneecap, the patellar tendon below it, anchoring the whole engine to the shin. Here is why tendons love this strange exercise. Tendon building responds strongly to sustained tension: long, heavy holds give the cable a clear, uninterrupted message, load me, at exactly the angle where knee tendons do their daily work. The famous wall-sit shake is the nervous system cycling motor units, fresh fibres rotating in as others fatigue, a visible flicker of your muscles' shift changes. And isometric strength is famously specific: you get strongest at and near the angle you train, which is why the protocol visits a couple of depths instead of only one. Ninety degrees is the headline angle for knees: stairs, chairs, squats all pass through its neighbourhood.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "MAXIMUM EFFORT, ZERO MOVEMENT",
+          "lines": [
+            "All force, no motion.",
+            "The tendon hears it clearly."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_wall_sit_front.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "SUSTAINED TENSION = TENDON FOOD",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "WHERE THE FORCE GOES",
+          "items": [
+            [
+              "QUAD MUSCLE",
+              75,
+              "cyan"
+            ],
+            [
+              "KNEE TENDONS",
+              85,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "chip",
+          "text": "THE SHAKE = SHIFT CHANGES",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_sit_front.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "Isometrics carry a second reputation worth knowing: they are the loading style clinicians reach for around sensitive knees, because a fixed angle can be dosed precisely, heavy tension with no grinding movement through the joint. Our subject's knees are healthy, just untrained, but the same property makes the wall sit the safest hard leg exercise in this whole series: if ninety degrees ever feels like too much, a higher sit is a lighter dose, adjustable by centimetres. The wall sit also tells the truth about a hidden variable: breathing under load. Beginners hold their breath and their position together, and both collapse at once. Trained holders breathe slowly while the thighs burn, because bracing and breathing have learned to coexist. Watch for that in your own test: the moment you realise you have not breathed for twenty seconds, you have found one of the exact things thirty days will fix.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "DOSED BY CENTIMETRES",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "BREATHING UNDER LOAD",
+          "lines": [
+            "Beginners hold both.",
+            "Holders breathe through it."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "THE SAFEST HARD LEG WORK",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_sit.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The protocol: daily holds at sixty to seventy percent of your day-zero max. Test at fifty seconds and your working holds are thirty to thirty-five. Do three to five of them a day, in one session or spread, resting until the shake fully leaves between holds. Most holds live at ninety degrees; every third day, one hold is taken a little higher and one a little lower, so the tendon gets educated across the neighbourhood, not just at one address. Twice a week, after the holds, a few sets of split squats keep the moving strength honest, because stillness is a teacher, not the whole school. Once a week, the max test, logged. Progress the simple way: when the working holds start feeling short, the max test will say so, and the percentages get recalculated. Thirty days of sitting still, harder than it sounds, measured to the second.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "60-70% HOLDS, DAILY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "VISIT OTHER DEPTHS",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_split_squat_bottom.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "STILLNESS IS A TEACHER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 29,
+          "kind": "stat",
+          "text": "3-5 HOLDS",
+          "label": "A DAY, EVERY DAY",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_wall_sit.webp",
+      "exercise": "WALL SIT",
+      "work": 45,
+      "rest": 15,
+      "rounds": 4,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Sit with me. Four rounds: forty-five seconds against the wall at ninety degrees, fifteen seconds standing to shake it out. Back flat, hands off the thighs, breathing slow and deliberate. If the shake wins early, stand, reset, and rejoin the next round. Stillness is the exercise. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_sit_front.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The month against the wall. Week one was a negotiation our subject kept losing at around the half-minute mark, thighs burning with a deep, spreading fire that dynamic exercises never quite reproduce. Week two, the breathing treaty was signed: slow breaths inside the burn, and the holds stretched as if by magic, though nothing magical had occurred; the system had simply stopped wasting itself on panic. Week three, the shake changed character, arriving later and finer, the sign of motor units rotating like professionals instead of rioting. Week four, the other depths paid their dividend: sitting higher or lower than ninety no longer felt like a foreign country. This is isometric adaptation's signature: the position stops being an event and becomes a place you can live. The knees, meanwhile, reported nothing but steadiness, which for tendon work is the best report there is.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: LOSING AT 30 SEC",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: THE BREATHING TREATY",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_wall_sit.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "FROM EVENT TO ADDRESS",
+          "lines": [
+            "The position becomes",
+            "a place you can live."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "STEADINESS IS THE REPORT",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_sit.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty, same wall, same angle, max hold. The pattern for this protocol: max holds commonly grow by two-thirds or more across the month, forties becoming eighties and nineties, because the beginner's wall sit is limited by coordination and panic as much as by strength, and both train fast. Read yours: under sixty after an honest month means the daily holds were too easy; recalculate the percentages from a fresh test. Sixty to a hundred and twenty, the knee tendon system is educated and the base is real. Past two minutes, you own isometric leg strength that transfers to every squat, stair and landing you will ever do. Put your seconds in the comments. Just the number. The wall is patient. It will be there in thirty days.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "PANIC TRAINS FAST",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "SAME WALL, SAME ANGLE",
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "COMMENT YOUR SECONDS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_sit.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Thirty days of sitting still taught the loudest lesson in the series: strength is not always moving. Load a tendon long and heavy at the angle of its life, and it answers. Keep the holds honest and the clock will keep stretching. Retest in thirty days and bring me your seconds. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "STRENGTH ISN'T ALWAYS MOVING",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

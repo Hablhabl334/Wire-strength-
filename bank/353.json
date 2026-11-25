@@ -1,0 +1,408 @@
+{
+  "id": "353",
+  "v5": true,
+  "title": "5 the 90-day recomp Mistakes That Are Destroying Your total body recomposition",
+  "description": "Ninety days can rebuild a skinny fat body, but only if you measure it honestly. Take your day-zero photos, waist and weight, and learn the five mistakes that quietly destroy a total body recomposition before it starts.",
+  "tags": [
+    "90 day recomp",
+    "photo test",
+    "body recomposition",
+    "skinny fat",
+    "recomp mistakes",
+    "calisthenics",
+    "waist measurement"
+  ],
+  "hashtags": [
+    "recomp",
+    "photo test",
+    "skinny fat",
+    "90 days",
+    "body recomposition",
+    "calisthenics"
+  ],
+  "category": "skinnyfat",
+  "badge": "EP 353 - THE 90-DAY PHOTO TEST",
+  "checklist": [
+    "THE PHOTO TEST",
+    "THE NUMBER",
+    "THE RECOMP",
+    "YOUR VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_horse_stance.webp",
+    "big": "90 DAYS",
+    "hook": "THE PHOTO TEST",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_horse_stance.webp",
+      "section": "THE PHOTO TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Today we take the only test that can judge a ninety-day rebuild. Stand in good light, phone at chest height, and take two photos: one from the front, relaxed, and one from the side, relaxed. No flexing, no sucking in, no favourite angle. Then measure your waist at the navel, breathing out normally, and write down that number in centimetres. Finally, weigh yourself once, in the morning, and write that down too. Three numbers and two photos: that is your day zero. It might not be pretty. It is not supposed to be. It is supposed to be honest, because in ninety days you will stand in the same light and take the same photos, and the comparison will tell you the truth that no scale can.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FRONT + SIDE, RELAXED",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "3 NUMBERS",
+          "label": "PHOTO, WAIST, WEIGHT",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "ren_pushup_front_top.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "DAY ZERO = HONEST",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "3 NUMBERS",
+      "label": "PHOTO, WAIST, WEIGHT",
+      "sub": "the scale alone lies - the trio never does",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Why three numbers instead of one? Because a recomposition moves two of them in opposite directions at once. Muscle creeps up while fat creeps down, and the scale, which only sees the total, can sit perfectly still while your body rebuilds itself underneath. Your waist tells the fat story. Your photos tell the shape story. Your weight just keeps the other two honest. Judge the ninety days by the trio, and you will never quit a working plan in week three because a bathroom scale shrugged at you.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "THE SCALE SEES ONLY TOTAL",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "WAIST = FAT STORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "90 DAYS",
+          "label": "JUDGED BY THE TRIO",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_weak.webp",
+      "section": "THE RECOMP",
+      "check": 2,
+      "music": "dark",
+      "narration": "Total body recomposition sounds impossible the first time you hear it: build muscle and lose fat at the same time. For an advanced lifter, it mostly is. For you, it is the most natural thing your body can do right now, and here is why. Your muscles are untrained, which makes them extremely sensitive to a training signal; they grow from almost any serious stimulus. And your body is already carrying stored energy around your waist, energy it can spend to fund that building work. The training provides the order: build here. The fat stores provide part of the budget. Protein provides the bricks. That is the whole machine. It is slower than a pure bulk or a pure cut, because the body is doing two jobs with one budget. But for a skinny fat beginner it is not a compromise. It is the fastest road to looking like a different person, because both problems get attacked every single week.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "THE RECOMP MACHINE",
+          "lines": [
+            "Training gives the order.",
+            "Fat stores fund part of the build."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_pushup_45_mid.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "UNTRAINED = SENSITIVE",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "WHO CAN RECOMP?",
+          "items": [
+            [
+              "ADVANCED LIFTER",
+              25,
+              "red"
+            ],
+            [
+              "SKINNY FAT BEGINNER",
+              90,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "chip",
+          "text": "TWO JOBS, ONE BUDGET",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE RECOMP",
+      "check": 2,
+      "music": "calm",
+      "narration": "Understand what the ninety days actually look like inside, so the quiet weeks do not fool you. In the first two weeks, most change is water and glycogen shifting around as training starts; photos barely move and that is normal. Weeks three to six are the strength window: your nervous system learns the movements, your numbers climb fast, and your waist usually starts its slow slide. Weeks seven to twelve are when the photos finally confess: shoulders a little wider, waist a little smaller, the shape changing at both ends. Notice what is not on this timeline: a dramatic weekly scale drop. A recomp that is working often shows a boring scale, a shrinking waist and climbing workout numbers. If you judge it by the scale alone, you will call a working plan broken. Judge it by the trio from your test, and you will see the machine running.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEKS 1-2: WATER",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEKS 3-6: STRENGTH",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_towel_curl.webp"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "THE HONEST TIMELINE",
+          "lines": [
+            "Photos confess last.",
+            "Around week seven to twelve."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "BORING SCALE = WORKING",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_sprint.webp",
+      "section": "THE RECOMP",
+      "check": 2,
+      "music": "dark",
+      "narration": "One more piece of the machine before the mistakes: where the energy actually goes. Every hard set you do makes the trained muscle hungry for the next day or two. It pulls glucose out of your blood to refill itself, and it takes amino acids out of your meals to rebuild. Multiply that by a whole body trained three times a week, and you have built a second destination for your food. Before training, extra energy had one main address: your waist. After training, it has two, and the muscle address pays better rent every month as the muscles grow. This is why the recomp accelerates in the second and third month for most guys. The engine you are building is also the engine that burns the fuel. Start it, feed it protein, and let it compound.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "A SECOND ADDRESS FOR FOOD",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_squat_bottom.webp"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "THE ENGINE EFFECT",
+          "lines": [
+            "The muscle you build",
+            "burns the fuel that feeds it."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "IT COMPOUNDS MONTHLY",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_towel_curl.webp",
+      "section": "THE RECOMP",
+      "check": 2,
+      "music": "calm",
+      "narration": "And here is the advantage nobody tells the skinny fat guy: you are the exact body this method was made for. The lean athlete cannot recomp; he has no fat budget to spend. The heavily overweight guy is usually told to just cut first. The advanced lifter's muscles are too stubborn to grow on a small budget. You sit in the one seat where both directions are open at the same time: sensitive muscles, available fuel, and a waist that gives the fat somewhere to leave from. Guys envy the naturally muscular beginner. They should envy you. Your starting position is the only one where a single ninety-day plan can make the mirror move at both ends at once. Do not waste the seat by running a bulk that fattens you or a cut that shrinks you. Recomp is not the slow option for your body. It is the only honest one.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE PERFECT SEAT",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "THE REFRAME",
+          "lines": [
+            "Sensitive muscles.",
+            "Available fuel. Both doors open."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "DON'T WASTE THE SEAT",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_squat_mid.webp",
+      "exercise": "BODYWEIGHT SQUATS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "THE RECOMP",
+      "check": 3,
+      "music": "drive",
+      "narration": "Now we start the ninety days with the engine itself. Three rounds with me. Forty seconds of squats, full depth, chest proud, twenty seconds to breathe. Legs are the biggest sugar-eating muscle you own. Wake them up. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_doorframe_row.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "Now the five mistakes that destroy a ninety-day recomp. Mistake one: eating in a big deficit. Slash calories hard and the body protects itself by refusing to build; you get smaller, not rebuilt. Mistake two: changing exercises every week, so no muscle ever receives a repeated, growing signal it can adapt to. Mistake three: weighing yourself every morning and letting normal water noise talk you out of a working plan. Mistake four: no protein target. Without a daily protein number, the bricks simply never arrive at the building site. And mistake five, the saddest one: quitting around day forty, in the quiet window after the strength jumps and before the photos confess. Almost every failed recomp I have ever seen died of one of these five, not of bad genetics. The plan works. These mistakes are what stop it working.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "BIG DEFICIT",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_farmer_carry.webp"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "NEW EXERCISES WEEKLY",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "mark",
+          "text": "DAILY WEIGH-INS",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 27,
+          "kind": "chip",
+          "text": "DAY 40 IS THE TRAP",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_horse_stance.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "So, your day-zero numbers. If your waist is well above half your height, fat loss is the senior partner in your recomp, and the waist number is the one to watch monthly. If your waist is moderate but your photos show no muscle anywhere, the training signal is the senior partner, and your workout numbers matter most. Either way, the verdict on today is the same: you now own a baseline, which puts you ahead of every guy who starts a transformation with nothing but hope and a mirror. Run the plan, take the same photos in the same light on day ninety, and compare. Put your waist number in the comments. Just the number. In ninety days, we read the trio again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "A BASELINE BEATS HOPE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pushup_front_top.webp"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "DAY 90",
+          "label": "SAME LIGHT, SAME PHOTOS",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR WAIST NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_front_top.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Ninety days from now, one of two things will be true: either you will have new photos, or you will have new excuses. The plan is simple, the mistakes are named, and your day zero is already done. Take the photos, start the clock, and let the trio judge. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "PHOTOS OR EXCUSES",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "DAY ZERO IS DONE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

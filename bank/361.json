@@ -1,0 +1,373 @@
+{
+  "id": "361",
+  "v5": true,
+  "title": "A Skinny Guy Did balance work for 30 Days (His ankle nerves Changed)",
+  "description": "Thirty days of daily balance work, one honest test at the start and the same test at the end. Score your single-leg balance with eyes open and eyes closed, learn the ankle nerve system that runs it, and see what a month of wobbling on purpose can change.",
+  "tags": [
+    "balance test",
+    "30 day challenge",
+    "ankle stability",
+    "balance training",
+    "single leg balance",
+    "calisthenics",
+    "proprioception"
+  ],
+  "hashtags": [
+    "balance",
+    "30 days",
+    "ankle nerves",
+    "calisthenics",
+    "experiment",
+    "single leg"
+  ],
+  "category": "experiments",
+  "badge": "EP 361 - 30 DAYS OF BALANCE",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_balance_test.webp",
+    "big": "8 SEC",
+    "hook": "EYES CLOSED",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Day zero of the experiment starts with the test, so take it now. Stand on one leg, arms crossed over your chest, eyes open, and time how long you last before the foot has to come down. Then the real test: same leg, same position, eyes closed. Time that too. Most guys are shocked by the gap between those two numbers, because with your eyes open, your vision does half the balancing for you. Eyes closed, the ankle has to do its own job, and for most untrained guys that job lasts less than ten seconds. Write both numbers down, for both legs. For the next thirty days, our subject trains his balance every day, and on day thirty we run this exact test again. Keep your numbers. The gap between them is the story.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ONE LEG, ARMS CROSSED",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "2 NUMBERS",
+          "label": "EYES OPEN, EYES CLOSED",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ankle_ligament_plate.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "THE GAP IS THE STORY",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "10 SEC",
+      "label": "EYES CLOSED IS THE REAL TEST",
+      "sub": "open: vision helps - closed: the ankle confesses",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Eyes open, under thirty seconds means the whole balance system is undertrained, ankles included. Eyes closed is the confession: under ten seconds, and your ankle nerves are mostly guessing, kept upright by your eyes doing overtime. Ten to twenty closed is a working system. Over twenty, your ankles report position like instruments. The experiment's question is simple: what does thirty days of deliberate wobbling do to the closed number, the one that cannot cheat?",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "CLOSED CAN'T CHEAT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "VISION DOES OVERTIME",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "20+ SEC",
+          "label": "INSTRUMENT-GRADE ANKLES",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ankle_ligament_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "Balance is not a muscle skill. It is a nerve system with muscles as its servants. Inside your ankle ligaments and the sole of your foot sit thousands of tiny sensors, constantly reporting the angle of the joint, the pressure under the foot, and how fast both are changing. Those reports race up the nerve pathways to your brain, which steers corrections back down to the small muscles around the ankle and hip. The whole loop runs many times per second, and you never feel it, until it fails and you are suddenly hugging a wall. Training balance is training that loop: sharper sensors, faster reports, calmer corrections. This is why the system in this experiment is called ankle nerves, not ankle muscles. The muscles were always strong enough to hold you. The information they were receiving was late, blurry, or both. Thirty days of practice is thirty days of upgrading the signal, and signals upgrade fast.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "A NERVE SKILL",
+          "lines": [
+            "Sensors report. Brain steers.",
+            "Muscles just obey."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "chip",
+          "text": "LATE, BLURRY SIGNALS",
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "bars",
+          "title": "THE BALANCE LOOP",
+          "items": [
+            [
+              "SENSORS",
+              70,
+              "gold"
+            ],
+            [
+              "NERVES",
+              85,
+              "cyan"
+            ],
+            [
+              "MUSCLES",
+              60,
+              "white"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 29,
+          "kind": "chip",
+          "text": "SIGNALS UPGRADE FAST",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "The eyes-closed part deserves its own explanation, because it is the heart of the experiment. Standing balance uses three information systems: vision, the inner ear, and the sensors in your joints and feet. Vision is the loudest of the three, and in modern life it does most of the work, because we live on flat floors in bright rooms. The ankle system, third in line, gets lazy. Close your eyes and you fire the loud system; suddenly the quiet one has to run the whole show, and you discover in eight seconds how undertrained it is. This matters beyond party tricks. The ankle system is the one that saves you on a dark stair, a wet pavement, a missed step off a curb, the moments when vision arrives too late. Training it is not circus work. It is insurance you install in your own legs.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THREE SYSTEMS, ONE LAZY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "WHY EYES CLOSED",
+          "lines": [
+            "Fire the loud system.",
+            "The quiet one must work."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_balance_test.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "INSURANCE IN YOUR LEGS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The protocol our subject ran is almost embarrassingly small: a few minutes a day, every day, for thirty days. Each session: stand on one leg for thirty seconds, then the other. Week one, eyes open, near a wall for safety. Week two, eyes open but turning the head slowly side to side, which disturbs the inner ear's easy answers. Week three, eyes closed for as long as possible, several attempts, chasing seconds. Week four, eyes closed plus tiny disturbances: reaching the arms, standing on a folded towel, anything that makes the ankle file more reports per second. Two rules governed everything: barefoot, because shoes muffle the sensors in the sole, and daily, because nerve systems learn from frequency, not from weekend heroics. Total training time across the whole month: under three hours. The question is what those three hours bought.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "MINUTES A DAY, DAILY",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "BAREFOOT, ALWAYS",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "swap",
+          "asset": "ren_toe_raise.webp"
+        },
+        {
+          "at": 21,
+          "kind": "stat",
+          "text": "<3 HRS",
+          "label": "TOTAL MONTHLY TRAINING",
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "FREQUENCY, NOT HEROICS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_balance_test.webp",
+      "exercise": "SINGLE-LEG BALANCE",
+      "work": 30,
+      "rest": 15,
+      "rounds": 4,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train it with me, exactly like the protocol. Four rounds: thirty seconds on one leg, fifteen to switch and breathe. Eyes open today, wall within reach. Feel the ankle making a hundred tiny corrections. That chatter is the system learning. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_toe_raise.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "Here is how the thirty days unfolded, week by week. Week one was humbling: the closed-eyes number lived in single digits, and the ankle shook like a phone on vibrate. The shaking is not weakness; it is the loop correcting late and overcorrecting, the signature of blurry reports. Week two, the eyes-open time doubled and the shaking calmed; the corrections got smaller and earlier. Week three, the closed number started its climb, ten seconds, fifteen, twenty, as the ankle system learned to run the show without vision. Week four brought the change nobody tested for: stairs in the dark, uneven ground, a bumped shoulder in a crowd, all handled without a thought. The system had stopped being an exercise and become a reflex. That transfer, from drill to daily life, is what nerve training is actually for.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: THE SHAKES",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: CALMER, EARLIER",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_balance_test.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "THE REAL PRIZE",
+          "lines": [
+            "From drill to reflex.",
+            "Handled without a thought."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "TRANSFER IS THE POINT",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty, same test, same rules. The pattern this experiment produces in untrained guys looks like this: eyes open roughly doubles, and the eyes-closed number, the honest one, typically climbs from single digits into the twenties. Our subject's ankle nerves did not get stronger. They got faster, clearer and calmer, which in a nerve system is the same as better. Read your own day zero against the bands: closed under ten means the system is asleep and this month is yours to take. Ten to twenty means awake but lazy. Over twenty, maintain it with a few minutes a week and spend your training time elsewhere. Put your eyes-closed number in the comments. Just the number. Thirty days from now, close your eyes and take it again.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "FASTER, CLEARER, CALMER",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ankle_ligament_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "SAME TEST, NEW NERVES",
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "COMMENT YOUR CLOSED NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Thirty days, three hours, one system upgraded for life. Your ankles were never weak; they were uninformed. Inform them daily and they will hold you anywhere. Retest in thirty days and bring me your closed-eyes number. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "UNINFORMED, NOT WEAK",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

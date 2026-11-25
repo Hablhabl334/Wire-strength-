@@ -1,0 +1,443 @@
+{
+ "badge": "EP 281 - YOUR CRUSH NUMBER",
+ "category": "grip",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE FADE CURVE",
+  "YOUR VERDICT"
+ ],
+ "description": "Thirty seconds, one tennis ball, every full crush you own. Your crush count is a report card for the whole closing system of your hand, and the way it fades tells the real story. Here is how to read your number, band by band, and how to move it.",
+ "hashtags": [
+  "crush grip",
+  "grip strength",
+  "hand strength",
+  "tendon training",
+  "forearm workout",
+  "calisthenics"
+ ],
+ "id": "281",
+ "scenes": [
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE BALL. THIRTY SECONDS. AGAIN"
+    },
+    {
+     "at": 6,
+     "kind": "fact",
+     "lines": [
+      "This time we grade the fade, not just the count."
+     ],
+     "pos": "br",
+     "title": "THE REPORT CARD"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FULL CRUSH OR IT DOESN'T COUNT"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WATCH YOUR LAST TEN SECONDS"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 0,
+   "music": "dark",
+   "narration": "Same test, new eyes. Grab your tennis ball and crush it as many times as you fully can in thirty seconds, but this time pay attention to the shape of the effort. How deep are the first five crushes? And how deep are the last five? A trained hand finishes almost where it started. An untrained hand starts strong and dissolves, each crush shallower than the one before, until the ball is barely denting. That fade is the real data. The count is just its summary. So crush, count, and notice where the fade begins. Got your number and your fade point? Keep both. At the end of this video I will read them like a report card, because that is exactly what they are.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED = FIXABLE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "ELITE HAND CABLES",
+     "pos": "br",
+     "text": "35+ REPS"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "25 = TRAINED"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "Deep at rep thirty = trained. Shallow = fading."
+     ],
+     "pos": "br",
+     "title": "DEPTH COUNTS TOO"
+    }
+   ],
+   "big": "25 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "FULL CRUSHES IN 30 SECONDS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line again, because it does not move: twenty-five full crushes in thirty seconds is trained territory. Under fifteen, the closing system is untrained, and untrained is fixable. Fifteen to twenty-five, the engine runs and the cables fade. Over thirty-five, depth survives to the final rep, and that is the signature of a wired hand. But today the count is only half your grade. Two men can both score twenty-two and be completely different athletes: one crushed deep until rep twenty and fell off a cliff, the other faded gently across the whole thirty seconds. The first has a power problem. The second has an endurance problem. They train differently. Hold your number and your fade point. Now let me show you the curve your hand just drew, and what each shape means.",
+   "section": "THE NUMBER",
+   "sub": "under 15: untrained cables - over 35: elite crush endurance",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY HAND DRAWS A CURVE"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Fresh force is muscle. Lasting force is cable."
+     ],
+     "pos": "br",
+     "title": "TWO FUELS, ONE HAND"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CLIFF = CABLES QUIT FIRST"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 28,
+     "kind": "swap"
+    },
+    {
+     "at": 34,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FLATTEN THE CURVE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the curve your thirty seconds just drew. It runs on two fuels. The first reps burn muscle fuel: fresh fibers, full blood flow, everything available. That fuel is generous and it lies to you, because it makes every hand feel strong for ten seconds. The later reps run on the cable system: tendons transmitting force through fatigued muscle, with waste products crowding the forearm and each stroke costing more than the last. When the curve falls off a cliff, it means the transmission quit before the engine did. Your muscles were still willing; the cables and their blood supply stopped delivering. When the curve slopes gently, the transmission is trained, and the hand spends its force evenly like a professional. This is the hidden strength in the episode title. It is not how hard you crush. It is how little your crush changes when the easy fuel runs out. Flatten the curve and the count takes care of itself. Two hands with the same peak can live in different worlds by rep twenty, and the curve is the map of which world you live in.",
+   "section": "THE FADE CURVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FADE IS A BLOOD FLOW STORY"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "STIFF CABLE",
+       85,
+       "cyan"
+      ],
+      [
+       "SOFT CABLE",
+       45,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FORCE LEFT AT REP 30"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "lines": [
+      "Efficient strokes leave more in the tank."
+     ],
+     "pos": "tr",
+     "title": "WHY STIFF LASTS"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 24,
+     "kind": "swap"
+    },
+    {
+     "at": 30,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ENDURANCE IS EFFICIENCY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the science under the curve. A working forearm is a crowded room. Every crush squeezes the muscles, and squeezed muscles squeeze their own blood vessels, so the harder you work, the less fresh blood arrives to clean up and refuel. Untrained cables make this worse in a subtle way: soft tendons stretch under load, so the muscle must shorten further to produce the same crush, spending more fuel per rep and crowding the room faster. Stiff, trained cables transmit force with less waste motion, so each crush is cheaper, the cleanup keeps pace longer, and the fade arrives late. That is why two hands with identical peak strength can finish fifteen reps apart. The test is not measuring your best crush. It is measuring your cheapest crush, repeated. Endurance is efficiency, and efficiency lives in the tendon. This is why the fade, not the peak, is the number coaches quietly write down.",
+   "section": "THE FADE CURVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR SHAPE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "CLIFF, SLOPE, OR FLAT",
+     "pos": "br",
+     "text": "3 SHAPES"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR SHAPE PICKS YOUR TRAINING"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "DIAGNOSE BEFORE YOU TRAIN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now read your own shape, because it chooses your training. If your crushes fell off a cliff somewhere in the middle, your peak is fine and your transmission is the project: you need the holds and the slow sets from the protocol in a moment. If your curve sloped down gently but your total was low, your transmission is honest and your engine is small: you need heavier crushing, a harder ball, more basic strength. If your curve was nearly flat and your count was high, you are wired, and your job is maintenance and a harder test object. Most people skip this reading entirely. They see one number, feel good or bad about it, and train at random. You now own the second number nobody else counts: the fade point. Between the count and the fade, your hand just told you exactly what it needs. That is what a real test is for.",
+   "section": "THE FADE CURVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT HANDS FADE SLOWER"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "MORE CLEAN REPS PER MINUTE",
+     "pos": "br",
+     "text": "FASTER RESET"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = CURVE ADVANTAGE"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 16,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "And the skinny edge in this test is the fade itself. A lighter forearm carries less tissue to feed, so the crowded-room problem arrives later and clears faster between sets. Your crushes reset closer to full depth while the big guy is still shaking blood back into a heavier arm. That means more of your training reps are high-quality reps, the kind that actually flatten curves. He brings a bigger first five. You bring a better last twenty-five. In a thirty-second test, and in a training month, the last twenty-five is where the grade is written.",
+   "section": "THE FADE CURVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "check": 3,
+   "exercise": "SLOW CRUSH SET",
+   "music": "drive",
+   "narration": "Now crush with me, slowly. Three seconds to close, three seconds to open, five reps. No bouncing, full depth every time. This is how curves get flattened. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "THE FADE CURVE",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLOW SETS TWICE A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "HOLD AT FULL CRUSH",
+     "pos": "br",
+     "text": "10 SEC"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ONLY EVER TESTING, NEVER TRAINING"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 22,
+     "kind": "swap"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STOP 2 REPS BEFORE THE CLIFF"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FLATTEN FIRST, COUNT SECOND"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is your week, matched to the diagnosis. Cliff hands train slow: two sessions of slow crush sets like the one we just did, three seconds closed, three seconds open, stopping two reps before the fade begins. You are teaching the cable to spend less per stroke. Low-count, gentle-slope hands train heavy: a firmer ball or a gripper, sets of eight hard crushes, full recovery between sets. Everyone finishes with ten-second full-crush holds, because the hold is where the transmission learns to stay open under pressure. Rest a day between sessions, always. And stop re-testing yourself every workout. A test is a measurement, not a training method, and hands that only ever test never get the patient weeks cables need to rebuild. Train the shape you found. The count is just the receipt that arrives later.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 15: UNWIRED, NOT WEAK"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Count the reps. Then grade the fade.",
+      "Both numbers are yours."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your report card. Under fifteen: you are not weak, you are unwired, and the next thirty days will move you faster than any other band. Fifteen to twenty-five: read your shape, train your shape, and the count climbs as the curve flattens. Over thirty-five with depth at the end: your closing system is genuinely trained, the kind of hand strength that never shows in a mirror and always shows in real life. Whatever your number is, it is a measurement of one trainable chain, not a grade on you. Drop your count in the comments, just the number, and if you are honest, add where your fade began. Retest in thirty days. Same ball, same rules, and this time watch the last ten seconds. That is where your progress will be standing.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "EVERY EPISODE",
+     "pos": "br",
+     "text": "1 TEST"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Same ball, same thirty seconds, thirty days from now: that is the retest. If this way of training makes sense to you, subscribe, because we test a new cable every episode. This is {channel}. Train the cable.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "crush grip",
+  "grip strength",
+  "hand strength",
+  "grip test",
+  "forearm training",
+  "tendon training",
+  "calisthenics"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_grip_squeeze.webp",
+  "big": "25 REPS",
+  "hook": "GRADE THE FADE"
+ },
+ "title": "Your Crush Test Reveals Your Hidden Strength",
+ "v5": true
+}

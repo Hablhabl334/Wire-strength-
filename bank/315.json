@@ -1,0 +1,433 @@
+{
+ "badge": "EP 315 - 5 MIRROR MISTAKES",
+ "category": "skinnyfat",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "BODY COMPOSITION",
+  "THE VERDICT"
+ ],
+ "description": "Five mirror mistakes make skinny-fat guys misread their own body composition for years. Run the mirror-versus-scale test, learn which instrument lies and when, and grade your recomp with numbers that cannot flatter you.",
+ "hashtags": [
+  "mirror vs scale",
+  "body composition",
+  "skinny fat fix",
+  "body recomp",
+  "progress tracking",
+  "mirror test"
+ ],
+ "id": "315",
+ "scenes": [
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SCALE FIRST. THEN MIRROR."
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME MORNING CONDITIONS"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Two instruments. One body.",
+      "They will disagree."
+     ],
+     "pos": "br",
+     "title": "THE TWO VERDICTS"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE BOTH DOWN"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Scale first. | Morning weight. | Write it down. | Now the mirror. | Front and side. | Rate what you see. | Zero to ten. | Honest, not kind. | Write that down too. | Two verdicts, one body. | They probably disagree. | One of them is lying. | At the end | I tell you | which one, and when. | Your progress depends on it.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME WEIGHT, NEW BODY = WINNING"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "JUDGING BY EITHER ALONE LIES"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "COMPOSITION CHANGED",
+     "pos": "tr",
+     "text": "±0 KG"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE RATIO SETTLES EVERY ARGUMENT"
+    }
+   ],
+   "big": "±0 KG",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE WEIGHT WHERE RECOMP HIDES",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the strangest line of the season: the same weight. A successful recomp can leave your scale weight almost unchanged for a month while a kilo of fat leaves and a kilo of muscle arrives, and both of your instruments will misreport it in opposite directions. The scale calls it failure, because it cannot see composition at all. The mirror calls it random, because it grades lighting, water, posture and mood along with tissue. Between them they have convinced a generation of skinny-fat men that nothing works. Something works. It is just invisible to a scale and unreliable in a mirror, which is why this channel grades everything with ratios and counts. Keep your two numbers from the test in front of you. We are about to retire both judges and appoint a better court.",
+   "section": "THE NUMBER",
+   "sub": "scale blind, mirror moody - the ratio settles it",
+   "type": "card"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COMPOSITION IS THE REAL VARIABLE"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Weight is one number.",
+      "Composition is the story."
+     ],
+     "pos": "br",
+     "title": "THE HIDDEN EXCHANGE"
+    },
+    {
+     "asset": "ren_hip_rotation.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FAT LEAVES QUIETLY. MUSCLE ARRIVES QUIETLY."
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE TAPE HEARS BOTH"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KILO FOR KILO, THE MIRROR CHANGES LAST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The concept that resolves the whole argument is body composition: not how much of you there is, but what the total is made of. A kilo of muscle is denser, smaller and more metabolically expensive than a kilo of fat, so exchanging one for the other shrinks your waist, firms your silhouette and raises your daily burn while the scale reads a perfect, lying zero. This exchange is the entire business model of recomposition, and it is nearly invisible week to week because both tissues move quietly. The tape measure hears both sides of the trade, which is why every test this season ends in a ratio or a count rather than a weight. The mirror eventually agrees, months later, all at once, in a photograph you did not pose for. Men quit in week five, one month before the photograph, because their two judges told them nothing was happening. Nothing was happening on the scale. Everything was happening in the composition. There is one more instrument worth graduating to when the tape has done its work: the training log itself. Strength rising on your key tests while the ratio falls is the one combination that cannot be faked by water, light or mood, because performance does not care how you slept last night nearly as much as the mirror does. When the log and the tape agree, the argument is over. When they disagree, the log usually finds the liar first.",
+   "section": "BODY COMPOSITION",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MISTAKES 1-2: THE DAILY WEIGH-IN"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "MONTHLY RATIO",
+       90,
+       "cyan"
+      ],
+      [
+       "DAILY MIRROR GRADE",
+       28,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "DECISIONS MADE CORRECTLY"
+    },
+    {
+     "asset": "ren_forward_fold.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WATER MOVES 2 KG. TISSUE MOVES GRAMS."
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "DAILY NUMBERS MAKE DAILY PANIC"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Mistake one: the daily weigh-in treated as a verdict. Water, glycogen, salt and digestion swing your weight by two kilos in a day, while real tissue moves in grams, so the daily number is ninety-five percent weather reported as climate. Mistake two: the daily mirror grade, the same error with worse lighting. Morning bloating, evening pump, a bad night's face: the mirror reports all of it as physique. Both mistakes share one root, measuring a slow variable at a fast frequency, and both produce the same behavior: panic adjustments. A crash diet after a heavy Monday. A binge after a light Friday. The system never runs long enough to work because the instruments keep interrupting it. Slow variables demand slow instruments: weekly averages for weight if you must, monthly ratios for truth. And understand the deepest reason daily grading fails: tissue change is slower than emotional change by an order of magnitude. Your mood can swing ten percent before breakfast. Your composition cannot swing one percent in a week. Any instrument read faster than the variable it measures returns pure noise, and decisions made on noise are how good systems get fired. Slow variable, slow instrument, calm operator. That is the whole method.",
+   "section": "BODY COMPOSITION",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MISTAKES 3-4: COMPARISON AND LIGHTING"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "You grade your chapter one",
+      "against their highlight reel."
+     ],
+     "pos": "br",
+     "title": "THE COMPARISON TRAP"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "THEIR ANGLE IS A LIE TOO"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COMPARE AGAINST YOUR OWN BASELINE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Mistake three: the comparison grade. Judging your front view against a stranger's best photograph, taken pumped, lit from above, dehydrated and chosen from two hundred attempts, is not measurement, it is self-harm with extra steps. Their angle is a lie too, just a better-produced one. Mistake four: changing the conditions. A different mirror, different light, post-workout instead of morning: every condition change manufactures fake progress or fake failure, and fake data is worse than no data because it steers real decisions. Fix the conditions like a scientist: same mirror, same light, same time, same state, once a month, front and side. Then the only comparison that has ever mattered becomes available, you against your own baseline, which is the one race you are actually entered in.",
+   "section": "BODY COMPOSITION",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MISTAKE 5: NO WRITTEN BASELINE"
+    },
+    {
+     "asset": "ren_lsit.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "lines": [
+      "Memory edits the past.",
+      "Paper refuses to."
+     ],
+     "pos": "br",
+     "title": "THE MEMORY EDIT"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NUMBERS WRITTEN BEAT FEELINGS REMEMBERED"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOUR BASELINE IS YOUR ONLY RIVAL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Mistake five completes the set: no written baseline. Without numbers recorded at the start, your memory becomes the archive, and memory is a corrupt archivist. It edits the past to match the present mood, so a bad week convinces you nothing has changed since January even when the tape said otherwise in March. Every test in this season exists to defeat that archivist: a number, written, dated, retested. The light frame gives you one more edge here, because composition changes show on it early in ratios even when the mirror is still undecided. Your waist can lose a centimeter while your face in the mirror looks identical, and the man with a baseline knows he is winning while the man without one quits. Write the baseline. It is the cheapest performance tool in this entire season and the one most men refuse to buy.",
+   "section": "BODY COMPOSITION",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Hang with me. Three rounds, forty-five seconds of dead hang, thirty seconds of rest. Grip, posture, patience. The slow variables are all training right now. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "THE FIX",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_hip_rotation.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BUILD THE SCORECARD: 4 NUMBERS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RATIO + TEST + STEPS + SLEEP"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MONTHLY PHOTOS, SAME CONDITIONS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "GRADING DAILY AND PANICKING WEEKLY"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "BORROWING OTHER MEN'S MIRRORS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The fix is a scorecard, four numbers, reviewed monthly like a business. Your waist-to-height ratio for composition. Your current test number for strength signals. Your step average for the fat-burning background. Your sleep score average for recovery funding. Add one photo set a month under identical conditions, filed and forgotten until review day. The mistakes about the mistakes: adding ten more metrics until tracking becomes a second job. And reviewing the scorecard in a bad mood at midnight, which is just the mirror mistake wearing a spreadsheet. Review it on the same calm morning you measure, decide one adjustment at most, and then close the book for a month. The system runs. The scorecard watches. Neither panics.",
+   "section": "THE FIX",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHEN THEY DISAGREE, TRUST THE TAPE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "FULL SCORECARD REVIEW",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR RATIO"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NOT YOUR WEIGHT. YOUR RATIO."
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "THEN THE SCORECARD REVIEWS ITSELF",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the disagreement from the test. If your weight is flat but your ratio improved: you are recomping, the exchange is happening, and anyone who tells you otherwise is reading the wrong instrument. If the weight dropped but the ratio stalled: you lost tissue you wanted to keep, and protein and training signals need attention. If both moved the wrong way: the scorecard will show which layer failed, steps, sleep, stress or signals. Put your waist-to-height ratio in the comments. Not your weight. Your ratio. Just the number. In thirty days the scorecard reviews itself, and composition, graded properly, stops being an argument and becomes a trend line.",
+   "section": "THE VERDICT",
+   "sub": "recomping / losing wrong tissue / layer failed - trust tape",
+   "type": "card"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BASELINE WRITTEN TODAY"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "RETEST DAY",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUBSCRIBE FOR THE NEXT TEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Write today's four numbers before you do anything else. Thirty days from now the scorecard speaks, and for the first time your progress will be a fact instead of a feeling. If this helped, subscribe for the next test. This is {channel}. Train the cable.",
+   "section": "THE VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "mirror vs scale",
+  "body composition",
+  "skinny fat",
+  "body recomposition",
+  "progress tracking",
+  "waist to height",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_dead_hang_front.webp",
+  "big": "1 PHOTO",
+  "hook": "MIRROR VS SCALE"
+ },
+ "title": "5 the mirror test Mistakes That Are Destroying Your body composition",
+ "v5": true
+}

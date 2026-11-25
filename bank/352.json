@@ -1,0 +1,410 @@
+{
+  "id": "352",
+  "v5": true,
+  "title": "5 posture and the belly Mistakes That Are Destroying Your pelvis position",
+  "description": "Your belly might not be fat at all. It might be your pelvis, tipped forward, pushing everything out front. Take the wall test, get your finger-gap number, and learn the five posture mistakes that keep the tilt locked in.",
+  "tags": [
+    "posture test",
+    "anterior pelvic tilt",
+    "skinny fat belly",
+    "pelvis position",
+    "posture mistakes",
+    "calisthenics",
+    "belly fix"
+  ],
+  "hashtags": [
+    "posture test",
+    "pelvic tilt",
+    "skinny fat",
+    "belly fix",
+    "posture",
+    "calisthenics",
+    "pelvis position"
+  ],
+  "category": "skinnyfat",
+  "badge": "EP 352 - THE POSTURE TEST",
+  "checklist": [
+    "THE POSTURE TEST",
+    "THE NUMBER",
+    "THE PELVIS",
+    "YOUR VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_hip_rotation.webp",
+    "big": "3 FINGERS",
+    "hook": "YOUR BELLY LIES",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_hip_rotation.webp",
+      "section": "THE POSTURE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Stand with your back against a wall. Heels, hips and the back of your head all touching it, feet a few centimetres out. Now slide one hand, palm down, into the space behind your lower back. Count how many fingers fit in that gap before it feels snug. One finger, maybe two, is a neutral pelvis. Three or more, and your pelvis is tipped forward, and that tip is pushing your belly out all day long. Now take a side photo of yourself standing relaxed. Look at where your belly sits compared to your chest. Keep your finger number and your photo. At the end I will tell you exactly what they mean, and which of the five mistakes is keeping you tilted.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "JUST A WALL",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "3 FINGERS",
+          "label": "TILTED PELVIS",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "TAKE THE PHOTO TOO",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "1 FINGER",
+      "label": "THE GAP BEHIND YOUR BACK",
+      "sub": "1 finger: neutral - 2: mild tip - 3+: your belly is lying",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. One finger of gap means your pelvis sits close to neutral, and your belly is mostly what it seems. Two fingers is a mild forward tip, the kind most desk workers carry without knowing. Three fingers or more means the tip is doing real cosmetic damage: your stomach is being pushed forward by your own skeleton, before a single gram of fat gets a say. Two men can carry the exact same fat and look completely different, purely because of this angle. The good news: an angle can be retrained.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "1 FINGER = NEUTRAL",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "ANGLE BEFORE FAT",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "3+",
+          "label": "THE BELLY LIES",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "hip_joint_plate.webp",
+      "section": "THE PELVIS",
+      "check": 2,
+      "music": "dark",
+      "narration": "Picture your pelvis as a bowl of water. When it sits level, the water stays in. Tip the bowl forward and the water spills out the front. Your organs, your stomach contents, everything soft in your middle rides inside that bowl. A forward-tipped pelvis literally pours your belly out in front of you, all day, in every shirt you own. At the same time the back of the bowl pinches down, which is why the lower back of a tilted guy looks over-arched and tense in his side photo. This is the hidden system behind the skinny fat belly that dieting never fixes. Guys cut calories, the scale drops, and the mirror barely changes, because the bowl is still tipped. Fat is only one layer of what you see in the mirror. Position is the other layer, and for a light guy it is often the bigger one. You cannot diet your way out of an angle.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "THE BOWL TEST",
+          "lines": [
+            "Pelvis = a bowl of water.",
+            "Tipped forward, it spills your belly out."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "POSITION, NOT JUST FAT",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "BELLY LOOK, SAME FAT",
+          "items": [
+            [
+              "NEUTRAL PELVIS",
+              40,
+              "cyan"
+            ],
+            [
+              "TILTED PELVIS",
+              85,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "mark",
+          "text": "YOU CAN'T DIET AN ANGLE",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE PELVIS",
+      "check": 2,
+      "music": "calm",
+      "narration": "So how does a pelvis get stuck forward? Mostly, it is taught. Sit for eight or ten hours and the muscles at the front of your hip, the hip flexors, spend the whole day shortened. Do that for years and they start treating short as normal, quietly pulling the front of the bowl down every time you stand up. Meanwhile the two muscle groups that should pull the bowl back into level, your glutes and your deep abs, get almost no work in a chair-shaped life. They do not disappear. They just fall asleep on the job. Tight front, sleepy back: the bowl tips, and it tips a little more every year. This is why the tilt is so common in skinny guys who work at desks. You do not need a gut to get it. You only need a chair, a screen, and time.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "SITTING SHORTENS THE FRONT",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "GLUTES ASLEEP ON THE JOB",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_wall_slide.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "THE CHAIN",
+          "lines": [
+            "Tight front. Sleepy back.",
+            "The bowl tips forward."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 29,
+          "kind": "chip",
+          "text": "A CHAIR CAN TILT YOU",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_leg_swing.webp",
+      "section": "THE PELVIS",
+      "check": 2,
+      "music": "dark",
+      "narration": "The tilt does not just change how you look standing still. It follows you into every workout. Squat with a tipped pelvis and the load shifts out of your glutes and into your lower back, so your leg day quietly becomes a back day. Train abs with a tipped pelvis and the front of your hip steals the work your abs were supposed to do, which is why a hundred crunches never taught your stomach to hold itself in. Even your breathing changes: a tipped bowl makes it harder for the diaphragm and the deep core to work as a team. Fix the angle and the same exercises suddenly start paying out to the right muscles. This is why position comes before programming on this channel. The best workout in the world cannot out-train a skeleton that starts every rep in the wrong place.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE TILT FOLLOWS YOU",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_hip_rotation.webp"
+        },
+        {
+          "at": 18,
+          "kind": "mark",
+          "text": "LEG DAY BECOMES BACK DAY",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "POSITION FIRST",
+          "lines": [
+            "Fix the angle.",
+            "Then the training pays out."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "THE PELVIS",
+      "check": 2,
+      "music": "calm",
+      "narration": "Here is your advantage, and it is a big one. The heavier a guy is, the more of his belly is genuinely fat, and the longer his road is. You are light. Your fat layer is thin, which means a huge share of what you see in the mirror is this angle, and angles can change in weeks, not seasons. No diet. No deficit. No waiting for kilos to fall off. Just wake up the muscles that level the bowl, teach the front of the hip to lengthen, and practice standing the new way until it becomes your default. Skinny fat guys who fix the tilt first often look like they lost five kilos before they lose a single one. The mirror was never only measuring fat. It was measuring geometry, and geometry is trainable.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "LIGHT = MOSTLY ANGLE",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_forward_fold.webp"
+        },
+        {
+          "at": 19,
+          "kind": "fact",
+          "title": "THE REFRAME",
+          "lines": [
+            "You may not need to lose fat first.",
+            "You need to level the bowl."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "WEEKS, NOT SEASONS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_hip_rotation.webp",
+      "exercise": "PELVIC TILTS",
+      "work": 30,
+      "rest": 15,
+      "rounds": 3,
+      "section": "THE PELVIS",
+      "check": 3,
+      "music": "drive",
+      "narration": "Now level the bowl with me. Back against the wall, three rounds. Thirty seconds of slow pelvic tilts: flatten your lower back into the wall, then release. Small movement, full control. This is the exact motion your pelvis has forgotten. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_forward_fold.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "Now the five mistakes that keep the tilt locked in. Mistake one: training only your abs, usually with endless crunches, while your glutes stay asleep. The bowl is held level from both sides, and you are only training one. Mistake two: stretching your glutes and hamstrings every day. Those are the muscles that pull the bowl back; making them longer and lazier is the opposite of the fix. Mistake three: dieting harder. Less fat on a tipped bowl still leaves a tipped bowl. Mistake four: sucking your stomach in all day instead of training the deep core to do its job automatically. And mistake five: never training the hinge, the deadlift pattern, in any form. Your glutes are the strongest level-keepers you own, and most skinny fat guys have never once asked them to work. Stop making these five, and the drills in this video finally get a chance to work.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "ABS ONLY",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_wall_slide.webp"
+        },
+        {
+          "at": 16,
+          "kind": "mark",
+          "text": "STRETCHING THE WRONG SIDE",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "DIETING AN ANGLE",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 29,
+          "kind": "chip",
+          "text": "TRAIN THE HINGE",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_hip_rotation.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "So, your finger number. One finger: your pelvis is basically honest, and your belly work is about fat and muscle, not geometry. Two fingers: a mild tip, the classic desk tilt, usually the fastest kind to retrain. Three or more: the angle is a major part of your mirror problem, and honestly, that is good news, because it is the fastest part to change. Do the tilt drills daily, train your glutes like you mean it, and rerun the wall test in thirty days. Put your finger number in the comments. Just the number. When it drops, your photo will show it before the scale notices anything.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ANGLE = FASTEST FIX",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 13,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN RE-MEASURE THE GAP",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "COMMENT YOUR FINGER NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Your belly was never only a fat story. Part of it is a bowl, tipped forward, spilling you out front. Level the bowl and the mirror changes before the scale does. Retest your gap in thirty days and bring me the new number. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LEVEL THE BOWL",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

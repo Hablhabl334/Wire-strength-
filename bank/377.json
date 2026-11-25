@@ -1,0 +1,475 @@
+{
+ "id": "377",
+ "v5": true,
+ "title": "I Did do pull-up singles all day Every Day for 30 Days (What Happened to My elbow tendons)",
+ "description": "One pull-up at a time, all day long, for thirty days. This grease-the-groove experiment loads the elbow tendons with perfect reps and zero exhaustion, and the day-30 retest shows what frequent singles do to your pull-up number. Take the day-zero test, learn the mechanism, follow the plan, and compare your numbers.",
+ "tags": [
+  "pull-ups",
+  "grease the groove",
+  "pull-up singles",
+  "elbow tendon",
+  "30 day challenge",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "pull-up challenge",
+  "grease the groove",
+  "pull-ups",
+  "calisthenics",
+  "30 day challenge",
+  "back workout"
+ ],
+ "category": "experiments",
+ "badge": "EP 377 - SINGLES ALL DAY",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pullup_top.webp",
+  "big": "1 REP",
+  "hook": "SINGLES ALL DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Day zero. | Before any training. | We take the test. | Grab the bar. | Palms facing away. | Hang at full stretch. | Pull your chin over. | Lower down slowly. | Count every clean rep. | Stop at failure. | That is your NUMBER. | Write it down. | Zero is fine. | Zero is a baseline. | In thirty days | we run it again. | Same bar. Same rules. | And I will show you | what singles all day | did to your ELBOWS. | Keep your number close. | Let us begin.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "FULL STRETCH TO CHIN OVER",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "text": "STOP AT FAILURE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "ZERO IS A BASELINE",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "One rep at a time.",
+      "All day. 30 days."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "KEEP YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR MAX",
+   "label": "YOUR DAY-ZERO PULL-UP NUMBER",
+   "sub": "0 to 2: untrained cables - 3 to 6: building - over 8: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is what that number means today. Zero to two reps means the pulling system is untrained, not broken, and untrained systems respond the fastest. Three to six means the cables and nerves are awake and ready for volume. Over eight, you are already wired, and this experiment will polish strength instead of building it. Whatever number you wrote down, that is the pressure reading on your elbow tendons and your back nerves on day zero. In thirty days we take the same reading, the same way, and the difference is the whole story.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A READING, NOT A VERDICT",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "DAY 30",
+     "label": "SAME READING, SAME WAY",
+     "pos": "br"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "text": "UNTRAINED RESPONDS FASTEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "elbow_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the elbow, because that is where this experiment lives. Every pull-up hangs your entire bodyweight from the tendons that cross this joint. The biceps tendon, the brachialis underneath it, and the forearm tendons all anchor around the elbow, and together they take the full load of you, every single rep. When you do one perfect single and walk away, the load is high but the fatigue is almost zero. The tendon gets a clean, strong signal: get stiffer, get thicker, handle this. It never gets the sloppy, exhausted reps that irritate it. Singles are how you send the tendon a HEAVY message without sending your joints a beating. Thirty days of heavy messages, and the cable remodels.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "FULL BODYWEIGHT, ONE JOINT",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pullup_top.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE SINGLE'S SECRET",
+     "lines": [
+      "High load. Near-zero fatigue.",
+      "Signal without the beating."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "HEAVY MESSAGE, CLEAN FORM",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "THE CABLE REMODELS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The method has a name: GREASE THE GROOVE. Strength is partly a skill, and skills improve with frequent, fresh practice. When you do a single pull-up every time you pass the bar, your nervous system rehearses the perfect pattern dozens of times a day: shoulder blades down, lats firing first, forearms locked, no swing. Fresh reps teach clean recruitment. Exhausted reps teach compensation. There is a second effect in the tendon itself. Tendons stiffen best under heavy load held briefly, and a maximal single is exactly that: a brief, near-maximal pull on the elbow cables, repeated across the whole day with full recovery between every dose. Volume without fatigue. Load without damage. That combination is rare in training, and it is why this odd little experiment outperforms hard workouts for a skinny guy with a bar.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "GREASE THE GROOVE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_hang_side_tuck.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "FRESH REPS TEACH",
+     "lines": [
+      "Clean pattern, dozens daily.",
+      "No compensation habits."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "bars",
+     "title": "DAY 0 VS DAY 30",
+     "items": [
+      [
+       "DAY 0 MAX",
+       3,
+       "red"
+      ],
+      [
+       "DAY 30 MAX",
+       7,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "LOAD WITHOUT DAMAGE",
+     "pos": "br"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "VOLUME WITHOUT FATIGUE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_relaxed.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "One more layer before the plan, because every pull-up is secretly two movements. The first movement is invisible: before your elbows bend, your shoulder blades must pull down and together, lifting your body the first few centimetres out of the dead hang. Coaches call it the scapular pull, and it is the difference between a pull-up that loads the back and a pull-up that grinds the shoulders and elbows. Singles are the perfect teacher of this hidden first rep, because you rehearse it fresh, dozens of times a day, at full quality. Each single begins with the blades, and by week two the pattern is carved in. When your max set arrives at the retest, watch the bottom of your reps. If the blades set first, every time, without thinking, the singles did their deepest work there.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "TWO MOVEMENTS IN ONE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "THE SCAPULAR PULL",
+     "lines": [
+      "Blades down before elbows bend.",
+      "The hidden first rep."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "REHEARSED FRESH, DOZENS DAILY",
+     "pos": "tr"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "CARVED IN BY WEEK TWO",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_mid.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Here is why this experiment favours the skinny guy shamelessly. A pull-up single costs you your bodyweight, once, for about three seconds. If you are light, that cost is small and the recovery is nearly instant. You can honestly do a single every twenty minutes all day and never feel trained. The heavy guy tries the same experiment and each single is a near-max effort that drains him by noon. Same bar, same rules, completely different price. Your lightness buys you the one thing this method runs on: FREQUENCY. And frequency, spread over thirty days, is what turns a two-rep max into a number you will not believe at the retest.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "LIGHT = CHEAP SINGLES",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_pullup_top.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "THE SKINNY EDGE",
+     "lines": [
+      "Same bar, same rules.",
+      "A fraction of the price."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "FREQUENCY IS THE FUEL",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "FRESH ALL DAY LONG",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pullup_top.webp",
+   "exercise": "PULL-UP SINGLES",
+   "work": 30,
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Train with me. Four perfect singles, one every round. Full stretch at the bottom, chin over the bar, slow lower. If a rep gets ugly, the set is done. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_relaxed.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. Rule one: a bar you pass all day, a door frame bar is perfect. Week one: one single every time you pass it, aiming for ten to fifteen singles a day, every rep perfect, always stopping far from failure. Week two: same habit, and now add a slow five second LOWERING to every third single, because the elbow tendons love controlled lowering. Week three: raise the daily total toward twenty singles, and once every three days, test a double, two clean reps, just to feel the trend. Week four: hold the habit, keep every rep crisp, and taper in the final three days to a few easy singles. Day thirty: rest the morning, then one honest max set, same bar, same rules. The warnings that keep your elbows happy: never grind a rep, never kip, and if the inside of your elbow starts to ache, cut the day in half and add more rest days, because tendons complain quietly before they complain loudly.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: 10 TO 15 SINGLES",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "EVERY REP PERFECT",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "WEEK 2: SLOW LOWERINGS",
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "fact",
+     "title": "TENDON WHISPERS",
+     "lines": [
+      "Elbows complain quietly first.",
+      "Halve the day if they ache."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "text": "NEVER GRIND A REP",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "text": "WEEK 4: TAPER, THEN TEST",
+     "pos": "br"
+    },
+    {
+     "at": 35,
+     "kind": "stat",
+     "text": "DAY 30",
+     "label": "ONE HONEST MAX SET",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same bar, same test. Read your result like this. If you started at zero to two and finished at four to six, that is the textbook outcome: the nerves learned the pattern and the elbow cables stiffened under thirty days of clean load. If you started higher and added two or three reps, that is a strong result at your level, because every rep above five is expensive. If your number did not move, the usual suspect is daily singles that crept too close to failure, turning a skill practice into a fatigue program. The fix is fewer, fresher singles, not more. Put both numbers in the comments. Day zero and day thirty. The pair of numbers is the whole experiment, and it tells the truth the mirror cannot.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME BAR. SAME TEST.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "+2 TO +4",
+     "label": "THE TEXTBOOK OUTCOME",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "IF IT STALLED",
+     "lines": [
+      "Singles crept too close to failure.",
+      "Fewer and fresher wins."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "One rep at a time, all day, for thirty days. That is all it takes to rebuild the cables in your elbows. Keep the bar up, keep the singles fresh, and subscribe for the next experiment. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "KEEP THE BAR UP",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "SINGLES STAY FRESH",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT EXPERIMENT SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

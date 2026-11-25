@@ -1,0 +1,368 @@
+{
+  "id": "375",
+  "v5": true,
+  "title": "I Did do 50 jumps Every Day for 30 Days (What Happened to My Achilles stiffness)",
+  "description": "Fifty jumps a day for thirty days: fifteen hundred landings on one spring. Wall test on day zero and day thirty, and an honest verdict on what daily jumping does to Achilles stiffness, including where the daily road argues with the rest-day road.",
+  "tags": [
+    "50 jumps",
+    "30 day challenge",
+    "achilles stiffness",
+    "jumps daily",
+    "vertical jump",
+    "calisthenics",
+    "plyometrics"
+  ],
+  "hashtags": [
+    "50 a day",
+    "30 days",
+    "jumping",
+    "calisthenics",
+    "experiment",
+    "achilles"
+  ],
+  "category": "experiments",
+  "badge": "EP 375 - 50 JUMPS A DAY",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_jump_peak.webp",
+    "big": "50 / DAY",
+    "hook": "EVERY SINGLE DAY",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Day zero is the wall test, same as the jumping experiment earlier this season, because the wall does not care which road you took to reach it. Standing reach marked first. Then three maximal jumps, best mark kept, the distance between the marks measured in centimetres. Write it down. Now the experiment, and it deliberately argues with its sibling: instead of three quality days a week with full rest between, this month jumps every single day. Fifty jumps a day, fifteen hundred in total, most of them deliberately submaximal, with true maximal jumping rationed to certain days. The question is pointed: can a spring be tuned daily, or does the Achilles need its days off the way the quality road insists? Fifteen hundred landings will answer. Keep your centimetres; the wall is already keeping them.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "REACH, JUMP, MEASURE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "1,500 LANDINGS",
+          "label": "THE MONTH'S TOTAL LOAD",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_achilles_profile.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "DAILY VS RESTED: THE ARGUMENT",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "50 / DAY",
+      "label": "1,500 JUMPS IN A MONTH",
+      "sub": "volume meets the spring - honestly",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Understand the design before judging it. Fifty daily jumps are not fifty maximal jumps; that experiment would end in week one with a tendon complaint. The fifty are a pyramid: light ankle hops at the base, submaximal countermovement jumps in the middle, and a small tip of true max jumps, and even the tip only appears on the days the protocol marks as quality days. The bet is that low-level daily bouncing tunes the spring's rhythm while the rationed max work drives the stiffness, and that the Achilles, dosed this carefully, can adapt without its traditional rest days. The wall test at day thirty, plus the tendon's own daily reports, will settle the bet.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "NOT 50 MAX JUMPS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "A PYRAMID, NOT A HAMMER",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "stat",
+          "text": "1,500",
+          "label": "LANDINGS, DOSED",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "achilles_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "The Achilles under daily jumping lives on a knife's edge that this experiment was built to map. Every landing loads the tendon with several times your bodyweight, wound and released in a fraction of a second; that is the stimulus that teaches stiffness, the spring's ability to return energy fast and fully. But tendon tissue runs a slow economy: after hard loading, its internal balance tips toward breakdown before building catches up over the next day or two. Rest days exist in jump programs precisely to let building win that race. Daily jumping does not repeal the economy; it has to outsmart it, keeping most days' loads low enough that the breakdown stays small, and concentrating the real stimulus into a few quality exposures the tissue can recover from while the light days merely rehearse the rhythm. Stiffness is the prize. Rhythm is the daily work. Confuse the two, dose every day like a test day, and the spring files its complaint in the only language it has.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "THE SLOW ECONOMY",
+          "lines": [
+            "Breakdown first, building after.",
+            "Dose decides the winner."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_achilles_profile.webp"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "SEVERAL TIMES BODYWEIGHT",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "THE DAILY LEDGER",
+          "items": [
+            [
+              "LIGHT DAY COST",
+              25,
+              "cyan"
+            ],
+            [
+              "MAX DAY COST",
+              90,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "chip",
+          "text": "STIFFNESS IS THE PRIZE",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "big_vs_lean_jump.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "What can daily work do that rested work cannot? Rhythm, mostly. The bounce of a good jump is a timing skill measured in milliseconds: ground contact short, ankle stiff at the right instant, the whole leg behaving like a pogo stick instead of a cushion. Skills like that love frequency. Fifty contacts a day is fifty daily rehearsals of the timing, and by week three the rehearsals compound into a quality no twice-weekly schedule installs as deeply: the bounce becomes the default way the leg meets the ground, visible in stairs, in curbs, in the little hop over a puddle. The rested road builds the same spring with bigger, rarer hammer blows and more recovery between them. Neither road is fake. They simply spend the month on different parts of the spring: this one on the rhythm and the low-level stiffness, the other on peak force and full recovery. The retest will show what the rhythm road bought in centimetres.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "RHYTHM LOVES FREQUENCY",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "fact",
+          "title": "THE POGO DEFAULT",
+          "lines": [
+            "Short contact, stiff ankle.",
+            "Rehearsed fifty times daily."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "swap",
+          "asset": "ren_jump_peak.webp"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "DIFFERENT PARTS OF THE SPRING",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The fifty, structured. Thirty are ankle hops: small, stiff, quiet bounces, the rhythm school. Fifteen are submaximal countermovement jumps at eighty percent effort, crisp but never grinding. Five are maximal jumps, and those five exist only on the two quality days each week; on the other five days, their slot is filled with five more easy hops, so the count never changes and the dose stays honest. Surface rule: forgiving ground, court, track, grass, never bare concrete in week one while the tendon files its first reports. Landing rule: quiet is correct; a loud landing is a soft spring leaking energy and a technique error to fix, not to repeat fifty times. And the stop rule that governs the whole month: morning Achilles stiffness that worsens three days running cuts the day to ankle hops only, and sharp tendon pain ends the experiment pending a professional's opinion. The streak serves the spring, never the reverse.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "30 HOPS + 15 SUBMAX + 5 MAX",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "MAX ONLY ON QUALITY DAYS",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_sprint.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "QUIET LANDING = CORRECT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "THE SPRING OUTRANKS THE STREAK",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_jump_peak.webp",
+      "exercise": "POGO JUMPS",
+      "work": 20,
+      "rest": 40,
+      "rounds": 5,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Bounce with me, rhythm school rules. Five rounds: twenty seconds of small, stiff, quiet pogo hops, forty seconds of rest. Ankles like springs, ground contact as short as you can make it, landing silent. This is the daily fifty's foundation. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_sprint.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The month, as the spring reported it. Week one brought the honest warning the protocol was designed around: morning Achilles stiffness, a few minutes of wooden ankles before the day loosened them, the tendon's invoice for fifteen hundred landings arriving in instalments. The dose rules earned their keep; the light days stayed light, and the stiffness plateaued instead of climbing. Week two, the rhythm arrived: ground contact felt shorter, the hops quieter, the bounce less like jumping and more like being returned by the floor. Week three, the quality days started posting bigger marks in practice, and the submaximal jumps had a snap that day one's max jumps never had. Week four was consolidation: the spring felt like equipment now, installed and maintained, and the only remaining question was the one the wall had been saving since day zero.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: WOODEN ANKLES",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: THE RHYTHM ARRIVES",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "big_vs_lean_jump.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "RETURNED BY THE FLOOR",
+          "lines": [
+            "Less jumping.",
+            "More bouncing."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "THE DOSE RULES EARNED IT",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty, same wall, three attempts, best mark. The pattern for the daily road: two to five centimetres is the typical harvest, a little less than the rested road's best months, a little more consistent day to day, because what daily work buys is a spring that shows up every morning, not only on rested ones. The honest verdict on the argument: the Achilles can be tuned daily, but only when most days are rhythm work and the max work stays rationed; dose it like a daily test and the tendon wins the argument the hard way. Read your number: under thirty still means rhythm first, keep hopping. Thirty to forty-five, the spring is awake and daily-proof. Past that, your Achilles is an asset with a maintenance schedule it trusts. Put your centimetres in the comments. Just the number. The wall remembers.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "A SPRING THAT SHOWS UP DAILY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_achilles_profile.webp"
+        },
+        {
+          "at": 18,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "BEST OF 3, SAME WALL",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "COMMENT YOUR CENTIMETRES",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "big_vs_lean_jump.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Fifteen hundred landings later, the spring is tuned, the rhythm is installed, and the argument is settled: daily works, if daily stays honest about dose. Keep the hops quiet and the max days rare, and the bounce stays yours. Retest in thirty days and bring me your centimetres. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAILY, DOSSED HONESTLY",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

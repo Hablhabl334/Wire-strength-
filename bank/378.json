@@ -1,0 +1,481 @@
+{
+ "id": "378",
+ "v5": true,
+ "title": "I Did hang for 60 seconds Every Day for 30 Days (What Happened to My grip tendons)",
+ "description": "One sixty-second hang a day for thirty days. The dead hang loads your grip tendons with your full bodyweight and asks them to adapt, and the day-30 retest shows exactly how much they did. Take the day-zero test, learn what is happening inside your forearms, follow the thirty-day plan, and compare your two numbers.",
+ "tags": [
+  "dead hang",
+  "grip strength",
+  "dead hang challenge",
+  "grip tendon",
+  "30 day challenge",
+  "calisthenics",
+  "forearm training"
+ ],
+ "hashtags": [
+  "dead hang",
+  "grip strength",
+  "30 day challenge",
+  "calisthenics",
+  "forearm workout",
+  "hang challenge"
+ ],
+ "category": "experiments",
+ "badge": "EP 378 - 60-SECOND HANGS",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_hang_side_active.webp",
+  "big": "60 SEC",
+  "hook": "HANG EVERY DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Day zero. | Before any training. | We take the test. | Grab a bar. | Hang from it. | Right now. | Arms straight, | feet off the ground, | and start your clock. | Hang until you drop. | That is your NUMBER. | Write it down. | In thirty days | we run it again. | Same bar. Same clock. | And I will show you | what one daily hang | did to your GRIP. | Keep your number close. | Let us begin.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "JUST A BAR + A CLOCK",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "text": "HANG UNTIL YOU DROP",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "WRITE IT DOWN",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "One 60-second hang daily.",
+      "30 days. One retest."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "text": "KEEP YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "60 SEC",
+   "label": "THE TARGET OF THIS EXPERIMENT",
+   "sub": "day 0 under 30: untrained - 30 to 60: building - over 60: the goal",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the shape of this experiment. Sixty seconds is the goal line, the hang time that separates an untrained grip from a trained one. If your day-zero number is under thirty seconds, your grip tendons are simply unwired, and unwired is the most fixable thing in the world. Between thirty and sixty, the cables are waking up. If you already hang past sixty, this month turns a good grip into a stubborn one. Your starting number is not the result. It is the BEFORE photo, and in thirty days we take the after.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "60 SEC = THE GOAL LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "DAY 0",
+     "label": "YOUR BEFORE PHOTO",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "UNWIRED IS FIXABLE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the hand, because the hand is lying to you. Your fingers contain almost no muscle at all. The muscles that close your fingers live in your FOREARM, and they reach into the hand through long tendons, cables that slide through your wrist every time you grip. A dead hang hangs your entire bodyweight from those cables. Nothing else you do at home loads them this completely. Under that tension, day after day, the tendon does what all cable does under honest load: it thickens its collagen, lines the fibres up, and gets STIFFER, so the same forearm muscle suddenly holds harder and longer. Your forearms are not getting much bigger this month. Your cables are getting better. That is a different kind of strong, and it is the kind that lasts.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "FINGERS: ALMOST NO MUSCLE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "THE CABLE RULE",
+     "lines": [
+      "Full bodyweight on the tendons.",
+      "Stiffer cable, longer hold."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "FOREARM = THE ENGINE",
+     "pos": "tr"
+    },
+    {
+     "at": 22,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "text": "BETTER CABLES, NOT BIGGER ARMS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Why does one hang a day move the number so fast? Two systems adapt at once. First, the nerves. Holding a bar is a skill of recruitment: your brain learns to fire the forearm muscles together and to keep firing as fatigue builds, instead of letting go at the first complaint. That neural learning is fast, and it explains the big early jumps. Second, the tendon. Collagen in tendon turns over slowly, and steady daily tension is the signal that tells it to lay down more material along the line of pull. One minute a day is a small dose, but it is a dose the tissue hears clearly because the load is your whole body. Thirty doses in thirty days. The early gains are the nerves learning. The later gains are the cable itself changing. Both show up in the same place: the clock.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "TWO SYSTEMS ADAPT",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_grip_squeeze.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "FAST, THEN SLOW",
+     "lines": [
+      "Nerves learn in days.",
+      "Collagen builds in weeks."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "HANG TIME GROWTH",
+     "items": [
+      [
+       "DAY 0",
+       25,
+       "red"
+      ],
+      [
+       "DAY 30",
+       65,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "ONE MINUTE, HEARD CLEARLY",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "BOTH SHOW ON THE CLOCK",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "One more layer before the plan, because how you hang matters as much as how long. A fully passive hang lets your shoulders drift up by your ears and your body sway and rotate slowly. That sway is not harmless. Every rotation twists your fingers a fraction looser, and your grip spends its budget fighting the twist instead of holding the bar. The fix is a whisper of activity: shoulder blades pulled slightly down, ribs quiet, body still, breathing slow through the nose. You are not doing a pull-up. You are organising the hang so the grip tendons get a clean, straight pull for the full minute. Stillness is a skill, and it is worth seconds all by itself. Most people who plateau at forty seconds do not have a grip problem. They have a stillness problem, and it is the easiest problem in this whole experiment to fix.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "STILLNESS IS WORTH SECONDS",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_dead_hang.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "THE SWAY TAX",
+     "lines": [
+      "Rotation loosens fingers.",
+      "Grip pays for body chaos."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "A WHISPER OF ACTIVITY",
+     "pos": "tr"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "ORGANISE THE HANG",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage in this experiment is almost unfair. The hang loads you with your own bodyweight, so a lighter body means a lighter daily dose on the fingers, the wrists and the shoulders. You can repeat that dose every single day and recover in your sleep. A heavy guy hangs with thirty extra kilos tearing at his grip; his daily hang becomes a weekly hang because his hands need the rest. You need almost none. Thirty unbroken days of signal is the entire experiment, and your light frame is what makes thirty unbroken days possible. In the dead hang, being light is not the handicap. It is the whole strategy.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "LIGHT = DAILY DOSE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_dead_hang_front.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "THE SKINNY EDGE",
+     "lines": [
+      "Same signal every day.",
+      "Recovery costs almost nothing."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "30 UNBROKEN DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "LIGHT IS THE STRATEGY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_relaxed.webp",
+   "exercise": "DEAD HANG",
+   "work": 45,
+   "rest": 15,
+   "rounds": 2,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Hang with me. Two rounds. Arms straight, shoulders quiet, breathe slow. If your grip slips before the beep, note the time and shake it out. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. Every day, one hang. Week one: hang for as long as you can up to sixty seconds, and if you drop early, rest ten seconds and finish the minute in pieces. The minute is the dose, however it is split. Week two: aim for one unbroken hang, and add a second shorter hang later in the day if your hands feel fresh. Week three: when sixty seconds feels solid, make it harder, not longer. Slower breathing, a thicker bar if you have one, or the last fifteen seconds on fewer fingers. Week four: hold the daily hang, keep it clean, and taper in the last three days to one easy thirty second hang. Day thirty: chalk up, same bar, one max hang. Two rules protect your hands. Dry hands and a firm bar, because slipping skin teaches nothing. And stop the day's hang if a finger joint aches sharply, because tendons adapt to tension, not to damage.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: THE MINUTE, SPLIT OK",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "THE MINUTE IS THE DOSE",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 3: HARDER, NOT LONGER",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "PROTECT THE HANDS",
+     "lines": [
+      "Dry hands, firm bar.",
+      "Sharp ache means stop."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "TENSION, NOT DAMAGE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: ONE MAX HANG",
+     "pos": "br"
+    },
+    {
+     "at": 33,
+     "kind": "stat",
+     "text": "60 SEC",
+     "label": "THE LINE TO CROSS",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same bar, same clock. Here is how the results usually read. Most skinny guys add twenty to forty seconds in this month, because the starting grip was untrained and the dose was daily. If you crossed sixty, your grip tendons have officially moved from unwired to wired, and every pulling exercise you own just got stronger. If you added only a little, look at your consistency first: this experiment pays for attendance, and five missed days is a sixth of the drug missing. If your number went backwards, your hands were under-recovered, and the fix is a hang every other day, not more effort. Put both numbers in the comments. Day zero, day thirty. Two numbers that prove what a minute a day can rebuild.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME BAR. SAME CLOCK.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "+20 TO +40 SEC",
+     "label": "THE USUAL RESULT",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "IT PAYS FOR ATTENDANCE",
+     "lines": [
+      "Missed days are missing dose.",
+      "Consistency is the drug."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang_front.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "One minute a day. That is the whole experiment, and the clock will prove what it built. Keep hanging, keep the number honest, and subscribe to run the next thirty days with me. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "ONE MINUTE A DAY",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "THE CLOCK PROVES IT",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT EXPERIMENT SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,444 @@
+{
+  "id": "351",
+  "v5": true,
+  "title": "Your Weekly Split Test Reveals Your Hidden Strength",
+  "description": "Your training week is hiding the reason your body will not change. Count the real signals each muscle got in the last seven days, test your push-up max, and learn the split rule that tells a muscle to grow. Then rebuild your week so every muscle hears it twice.",
+  "tags": [
+    "weekly split test",
+    "training split",
+    "skinny fat",
+    "recomp",
+    "workout frequency",
+    "calisthenics split",
+    "muscle signals",
+    "bodyweight training"
+  ],
+  "hashtags": [
+    "split test",
+    "skinny fat",
+    "recomp",
+    "training frequency",
+    "calisthenics",
+    "muscle signals",
+    "home workout"
+  ],
+  "category": "skinnyfat",
+  "badge": "EP 351 - THE SPLIT TEST",
+  "checklist": [
+    "THE SPLIT TEST",
+    "THE NUMBER",
+    "TRAINING SIGNALS",
+    "YOUR VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_top.webp",
+    "big": "2x / WEEK",
+    "hook": "THE SPLIT TEST",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE SPLIT TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Look at your week. | Not your mirror. | Your actual week. | How many days | did you train? | Now the real question. | How many times | did each muscle | get a REAL signal? | Write that number down. | Most skinny fat guys | train on feelings. | Three days one week. | Zero the next. | The muscle cannot read | your motivation. | It only reads signals. | Now drop down. | Max push-ups. | Clean ones only. | Chest to fist height. | Count every rep. | That is number two. | Keep both numbers safe. | At the end, | I show you | what they reveal | about your split.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "AUDIT YOUR WEEK",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "COUNT THE SIGNALS",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "WRITE IT DOWN",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "fact",
+          "title": "TWO NUMBERS",
+          "lines": [
+            "Days trained is not the test.",
+            "Signals per muscle is."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "2x / WEEK",
+      "label": "THE SIGNAL LINE FOR EVERY MUSCLE",
+      "sub": "under 1x: asleep - 2x: growing - 3x+: pro split",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line your week has to cross. Every muscle you own needs a real training signal at least twice in seven days. Once a week, the signal fades before the muscle finishes building. Three times, and you are running a split most big guys would respect. And your push-up number tells us if the signal is strong: under fifteen clean reps, the signal is weak no matter how often you train. Frequency times effort. That is the whole test.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "2x = THE LINE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "48 HRS",
+          "label": "THE BUILDING WINDOW",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "chip",
+          "text": "FREQUENCY x EFFORT",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "TRAINING SIGNALS",
+      "check": 2,
+      "music": "dark",
+      "narration": "Here is what a workout actually is. The session itself builds nothing. The session is a SIGNAL, a message sent down the nerves into the muscle: build here. After a hard session, that building signal switches on, stays high for roughly a day or two, then fades back to baseline. The muscle does its growing after the workout, while you eat and sleep, not while you sweat. This is why your split matters more than your motivation. Train a muscle once, and it spends five days of every week switched off. Train it twice, and the signal is alive most of the week. And it is not just muscle listening. The tendons, the cables that carry every rep, adapt to how often the signal arrives too. A skinny fat body is not broken. It is a body whose signals arrive too rarely, in the wrong places, while the food energy quietly parks itself around the waist. Fix the signal schedule, and the same body starts spending that energy on muscle instead.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "THE SIGNAL WINDOW",
+          "lines": [
+            "A workout builds nothing.",
+            "It sends the order to build."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_pushup_weak.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "WORKOUT = SIGNAL, NOT GROWTH",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "SIGNAL PER MUSCLE / WEEK",
+          "items": [
+            [
+              "1x",
+              35,
+              "red"
+            ],
+            [
+              "2x",
+              70,
+              "cyan"
+            ],
+            [
+              "3x",
+              100,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "stat",
+          "text": "24-48 HRS",
+          "label": "SIGNAL STAYS HIGH",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_45_mid.webp",
+      "section": "TRAINING SIGNALS",
+      "check": 2,
+      "music": "calm",
+      "narration": "So what does the research on frequency actually say? When the total weekly work is equal, splitting it across more days gives similar or slightly better growth than cramming it into one giant session. But the headline is not the real win for you. The real win is quality. One marathon session means your last exercises are performed tired, sloppy and weak. Three shorter sessions mean every set is done fresh, with full force and clean form. Fresh reps send a stronger signal per rep. There is a second effect nobody talks about. Trained muscle pulls sugar out of the blood every time it contracts hard. Signal a muscle on Monday and it spends the next two days hungrier for fuel. Signal everything twice a week and your whole body becomes a place where energy gets used, not stored. And there is a third effect, quieter than both: shorter sessions are sessions you actually finish. A plan you complete at ninety percent effort beats a heroic plan you abandon in week two, every single time, because the signal only counts if it keeps arriving. For a skinny fat guy, that is the difference between food becoming a belly and food becoming a build.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "bars",
+          "title": "SAME VOLUME, SPLIT UP",
+          "items": [
+            [
+              "1 LONG DAY",
+              55,
+              "red"
+            ],
+            [
+              "3 SHORT DAYS",
+              85,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "FRESH REPS > TIRED REPS",
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "swap",
+          "asset": "ren_pushup_back_top.webp"
+        },
+        {
+          "at": 32,
+          "kind": "fact",
+          "title": "THE REAL WIN",
+          "lines": [
+            "Shorter sessions.",
+            "Harder signals. Nothing wasted."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 39,
+          "kind": "chip",
+          "text": "MUSCLE EATS THE SUGAR",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_horse_stance.webp",
+      "section": "TRAINING SIGNALS",
+      "check": 2,
+      "music": "dark",
+      "narration": "Two templates pass this test, and both are simple. Template one: three full-body days, Monday, Wednesday, Friday. Every session touches push, pull, legs and core, so every muscle hears the signal three times a week. Template two: four days, upper body, lower body, rest, upper, lower. Every muscle gets exactly two strong signals, with more room to push each one harder. Which one is yours? Pick by recovery, not by ego. If your legs are still dead on Friday, you are a three-day guy for now. If you sleep well and the numbers keep climbing, take the four-day split. Both beat the classic bro split for a skinny fat body, because no muscle waits a full week to hear from you again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "3-DAY: FULL BODY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "4-DAY: UPPER / LOWER",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "ren_squat_bottom.webp"
+        },
+        {
+          "at": 21,
+          "kind": "mark",
+          "text": "PICK BY RECOVERY",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "stat",
+          "text": "7 DAYS",
+          "label": "EVERY MUSCLE, TWICE",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_front_top.webp",
+      "section": "TRAINING SIGNALS",
+      "check": 2,
+      "music": "calm",
+      "narration": "Now the part that should make you smile. Frequency is where the light guy wins. A heavy bodybuilder needs days to recover from the loads he moves, because every session costs him more tissue damage and more joint stress. You weigh less, your absolute loads are smaller, and your joints take a fraction of the beating. That means you can signal the same muscle again sooner, and again after that, while he is still icing his shoulders. Your problem was never effort. I have seen your kind of training log: brutal sessions, real sweat, real soreness. The effort was championship level. It was simply spaced like a holiday: one huge signal, then silence for six days. Spacing is a free fix. It costs no money, no supplements, no extra hours. Just move the same work across the week and let the signals stack.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "LIGHT = FAST RECOVERY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_pushup_front.webp"
+        },
+        {
+          "at": 16,
+          "kind": "fact",
+          "title": "THE REFRAME",
+          "lines": [
+            "The work was there.",
+            "The spacing was not."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "YOUR EFFORT WAS FINE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "chip",
+          "text": "SPACING IS FREE",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_mid.webp",
+      "exercise": "PUSH-UPS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "TRAINING SIGNALS",
+      "check": 3,
+      "music": "drive",
+      "narration": "Now feel a real signal. Three rounds with me. Forty seconds of clean push-ups, twenty seconds to breathe. Every rep full range, chest down, arms locked at the top. This is what twice a week has to feel like. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_doorframe_row.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "Here is the rebuild, starting this week. Write your seven days down and give every muscle two appointments it cannot miss. Keep the same exercises for at least a month, because a signal only grows when the muscle can compare it to last time. Add one rep or one small step of difficulty every week, and log every session in your phone, even the bad ones. Now the three mistakes that quietly kill splits. Training every session to total failure burns the signal out and wrecks your next appointment. Switching exercises every week means no muscle ever gets a repeated, growing signal. And skipping legs because they hide under trousers removes the biggest sugar-eating muscle group you own. Rows, presses, squats, hinges, carries: boring on paper, devastating across ninety days. Your split is a schedule of messages. Send them on time.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SAME LIFTS, MORE SIGNAL",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_towel_curl.webp"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "RANDOM WORKOUTS",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "mark",
+          "text": "LOG EVERY SESSION",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "chip",
+          "text": "LEGS ARE NOT OPTIONAL",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "So, your two numbers. If a muscle got one signal or less this week, it is not stubborn, it is unwired, and the fix is scheduling, not suffering. If most muscles heard from you twice and your push-up max sits between fifteen and twenty-five, you are building: the system is on, it just needs months. If you are already at two or three signals with a push-up max over twenty-five clean reps, your split is wired, and your only job is patience and progression. Put both numbers in the comments: signals per week, and your push-up max. Just the numbers. We rerun this exact audit in thirty days, and the week will tell the truth again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "UNWIRED = UNSCHEDULED",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_pushup_front_bottom.webp"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RE-AUDIT",
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "mark",
+          "text": "COMMENT BOTH NUMBERS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_45_mid.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Your split was never about days. It is about signals, spaced like a pro instead of bunched like a panic. Rebuild the week, run it for thirty days, and bring me both numbers again. If this way of training makes sense to you, subscribe, because we test a new system every episode. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SIGNALS, SPACED",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

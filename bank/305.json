@@ -1,0 +1,432 @@
+{
+ "badge": "EP 305 - THE STRESS BELLY TEST",
+ "category": "skinnyfat",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "STRESS HORMONES",
+  "THE VERDICT"
+ ],
+ "description": "Measure your waist morning and night and the gap exposes what stress is doing to your belly. Learn how cortisol parks fat on a light frame, and the downshift routine that tells your stress hormones to stand down.",
+ "hashtags": [
+  "stress belly",
+  "cortisol belly fat",
+  "skinny fat fix",
+  "body recomp",
+  "waist test",
+  "stress hormones"
+ ],
+ "id": "305",
+ "scenes": [
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TAPE MEASURE. TWICE TODAY."
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NAVEL LEVEL. RELAXED."
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "The gap is the message."
+     ],
+     "pos": "br",
+     "title": "MORNING VS MIDNIGHT"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE BOTH NUMBERS DOWN"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Tape measure. | Belly button level. | Morning, before food. | Measure your waist. | Relaxed, not sucked in. | Write that number. | Tonight, same spot. | Measure again before bed. | Write that number too. | Now subtract. | The gap is yours. | Most guys never look. | At the end | I tell you | what the gap means. | Your stress wrote it.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 1 CM = CALM SYSTEM"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "OVER 3 CM = STRESS IS STEERING"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "WAIST ON A LEASH",
+     "pos": "tr",
+     "text": "4+ CM"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME FOOD. BIGGER WAIST."
+    }
+   ],
+   "big": "2 CM",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE GAP WHERE STRESS SHOWS ITSELF",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. A calm body gains less than a centimeter at the waist across a normal day, just food and water passing through. A gap of two to three centimeters means your system is holding tension, fluid and undigested stress from morning to midnight. Over three, your stress hormones are not visiting anymore, they are steering, and they steer straight to the belly. Understand what this test really measures. It is not fat gained in a day, that is impossible. It is the visible signature of a body that never downshifts, and a body that never downshifts stores its fat in exactly one place. The gap is the smoke. Cortisol is the fire.",
+   "section": "THE NUMBER",
+   "sub": "under 1 cm: calm - over 3 cm: stress is steering",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MEET CORTISOL"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Belly fat has extra",
+      "cortisol receptors."
+     ],
+     "pos": "br",
+     "title": "THE STRESS MAGNET"
+    },
+    {
+     "asset": "ren_neck_hold.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ALARM MODE ALL DAY"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NOT MORE FOOD. MORE ALARM."
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE LIGHT FRAME SHOWS IT FIRST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now meet the hormone behind the gap. Cortisol is your alarm chemical, built for short emergencies: it frees energy fast so you can fight or run. The problem is what happens when the alarm never switches off. Chronically raised cortisol tells the body to keep fuel close to the center, and belly fat turns out to be specially built to listen: deep abdominal fat carries more cortisol receptors than fat almost anywhere else, so it grows first and shrinks last under stress. On a heavy frame this hides inside general size. On your light frame it is brutally visible: thin arms, thin legs, and a waist that looks borrowed from someone else. That mismatch is the skinny-fat signature, and very often it is not a food signature at all. It is an alarm signature. Poor sleep raises cortisol. So do endless caffeine, deadline dread, and training hard on an empty tank. The belly is not proof you eat too much. It is often proof your alarm runs too long, and alarms can be retrained. The receptor story has one more chapter. The enzyme system inside belly fat can also manufacture cortisol locally, regenerating it from its inactive form, which means a stressed man's waist can amplify the very signal that built it. This is why the belly of a chronically stressed light man can look so stubborn compared to the rest of him: it is not just receiving the alarm, it is rebroadcasting it. Calming the system upstream is how you switch off a transmitter you cannot argue with.",
+   "section": "STRESS HORMONES",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO SYSTEMS. ONE SWITCH."
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "RESTING STATE",
+       85,
+       "cyan"
+      ],
+      [
+       "ALARM STATE",
+       30,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "TIME SPENT RECOVERING"
+    },
+    {
+     "asset": "ren_neck_turn.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BREATHING IS THE MANUAL SWITCH"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LONG EXHALE = STAND DOWN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Underneath the hormone sits a switch you can touch. Your nervous system runs two modes: the alarm mode that spends energy, and the recovery mode that rebuilds, digests and burns fat quietly. Every system in this episode is downstream of that switch. Cortisol stays high while the alarm mode dominates, and the alarm mode dominates while your breathing stays fast and shallow, your jaw stays clenched, and your day has no edges. Here is the hopeful part: the switch has a manual override, and it is your exhale. Long, slow exhales are the direct signal the recovery mode uses, which is why every serious downshift practice on earth is built on breathing out slowly. Ten slow breaths will not fix your life. But they prove the switch works, and a switch you can flip on purpose, three times a day, starts to change which mode your body calls home. Your waist gap is the scoreboard of that battle. Notice, too, what the switch does to your training. A body stuck in alarm mode protects itself by blunting the response to exercise, storing more of each meal and repairing less of each session. The same workouts literally produce different tissue depending on which mode hosts them. Men blame their program for what their nervous system decided, which is why this channel tests the switch before it judges the split.",
+   "section": "STRESS HORMONES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NOTHING TO HIDE BEHIND"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "The light frame reports stress",
+      "faster than any scale."
+     ],
+     "pos": "br",
+     "title": "THE HONEST FRAME"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EARLY WARNING = EARLY FIX"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOUR SIGNAL ARRIVES FIRST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the strange advantage of your build. A heavy guy can carry a stress problem for years before it shows, padded and hidden. Your frame has no padding to hide behind, so your waist reports stress early, honestly, and in centimeters you can measure tonight. That makes you the first to know, and the first to know is the first who can fix it. Most men discover their stress belly at forty, in a doctor's office. You are discovering yours with a tape measure, in time to reverse it with sleep, walks and breathing instead of medication. The light frame is not the problem here. It is the early warning system the heavy guys wish they had. Read the warning, respect it, and your most visible flaw becomes your most useful instrument.",
+   "section": "STRESS HORMONES",
+   "type": "art"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLEEP IS THE MASTER VALVE"
+    },
+    {
+     "asset": "ren_wall_slide.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "lines": [
+      "One short night raises",
+      "next-day cortisol sharply."
+     ],
+     "pos": "br",
+     "title": "THE NIGHT SHIFT"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CAFFEINE AFTER NOON STEALS THE NIGHT"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FIX THE NIGHT, CALM THE DAY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "If cortisol has a master valve, it is last night's sleep. Even one short night measurably raises the next day's cortisol and hunger signals, and a week of short nights can park a stressed, hungry, storage-minded chemistry on a man who changed nothing about his food. This is why the waist gap test is so revealing: a big gap after a bad night is your chemistry showing its work. The chain is boring and total. Late caffeine shortens the night. The short night raises the alarm. The alarm parks the fuel centrally and drives the evening cravings that add the second centimeter. Break the chain at its first link and the rest of the chain never forms. The most powerful stress intervention in this episode is not a supplement or a retreat. It is a boring, protected, seven-to-eight-hour night, defended like training, because hormonally it is training.",
+   "section": "STRESS HORMONES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "check": 3,
+   "exercise": "WALL SIT BREATHING",
+   "music": "drive",
+   "narration": "Train with me. Three rounds. Sixty seconds in a wall sit, breathing out slowly the whole time, thirty seconds of rest. Isometric load plus long exhales. This is the downshift, practiced. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "THE FIX",
+   "type": "timer",
+   "work": 60
+  },
+  {
+   "asset": "ren_neck_turn.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 DOWNSHIFTS A DAY"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CAFFEINE CUTOFF AT NOON"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WALK AFTER THE BIGGEST MEAL"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SCROLLING IN BED = ALARM TRAINING"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "WEEKEND CATCH-UP SLEEP DOES NOT REPAY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your week plan has three moving parts, all cheap. First, schedule three downshifts a day: two minutes of slow exhales, in the morning, after work, and before bed, treated like appointments. Second, set a caffeine cutoff at noon, because afternoon caffeine is just borrowing tonight's sleep at terrible interest. Third, walk after your biggest meal, which calms blood sugar and the alarm together. The mistakes that keep the gap wide: scrolling in bed, which trains the alarm in the exact place recovery should live. Weekend catch-up sleep, which never repays a weekday debt. And trying to out-train a stress belly with more intensity, which adds alarm to alarm. You do not fix an alarm problem with more alarm. You fix it by proving to your nervous system, three times a day, that the emergency is over.",
+   "section": "THE FIX",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE GAP IS A STRESS REPORT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "MEASURE AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR GAP"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MORNING MINUS MIDNIGHT"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "THEN WE MEASURE THE GAP AGAIN",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your gap. Under one centimeter: your system downshifts well, and your belly has other explanations we will hunt in later tests. One to three: your alarm runs long, and sleep plus downshifts are your highest-value training this month. Over three: stress is steering, and no diet will out-argue a hormone, so the downshift plan is not optional homework, it is the program. Put your gap in the comments, morning minus midnight, just the number. In thirty days we measure again, and a shrinking gap means your stress hormones finally clocked out. If any tightness, pain or dizziness ever joins the picture, see a professional and get checked properly.",
+   "section": "THE VERDICT",
+   "sub": "calm / alarm runs long / stress steering - measure again",
+   "type": "card"
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME TAPE. SAME SPOT."
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "RETEST DAY",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUBSCRIBE FOR THE NEXT TEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Keep the tape measure somewhere you cannot ignore it. Thirty days from now we measure the gap again, morning and midnight, and the difference will grade your stress better than any mood journal. If this helped, subscribe for the next test. This is {channel}. Train the cable.",
+   "section": "THE VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "stress belly",
+  "cortisol",
+  "belly fat stress",
+  "skinny fat",
+  "body recomposition",
+  "waist measurement",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_forward_fold.webp",
+  "big": "2 CM",
+  "hook": "YOUR STRESS GAP"
+ },
+ "title": "Your Stress Belly Test Reveals the Truth About Your stress hormones",
+ "v5": true
+}

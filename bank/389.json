@@ -1,0 +1,476 @@
+{
+ "id": "389",
+ "v5": true,
+ "title": "I Tested dead hang for 30 Days (The Results Surprised Me)",
+ "description": "Thirty days of dead hangs, tested properly, with a twist: this round trains the active hang, shoulders engaged, not just passive hanging. Day zero and day thirty max hangs tell the story of what daily hanging does to grip tendons and shoulder control. Take the test, learn the mechanism, follow the plan, and compare your numbers.",
+ "tags": [
+  "dead hang",
+  "active hang",
+  "grip strength",
+  "shoulder health",
+  "30 day challenge",
+  "dead hang test",
+  "calisthenics"
+ ],
+ "hashtags": [
+  "dead hang",
+  "grip strength",
+  "30 day challenge",
+  "active hang",
+  "calisthenics",
+  "hang challenge"
+ ],
+ "category": "experiments",
+ "badge": "EP 389 - DEAD HANG, TESTED",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_hang_side_active.webp",
+  "big": "30 DAYS",
+  "hook": "DEAD HANG TESTED",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Day zero. | Before any training. | We take the test. | The max dead hang. | Grab a bar. | Arms fully straight. | Feet off the ground. | Start your clock. | Hang until you drop. | That is your NUMBER. | Write it down. | No swinging. No kicking. | Just you and gravity. | In thirty days | we run it again. | This time we train | the ACTIVE hang too. | Shoulders switched on. | Keep your number close. | Let us begin.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "ARMS FULLY STRAIGHT",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "text": "NO SWINGING, NO KICKING",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "JUST YOU AND GRAVITY",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Passive and active hangs daily.",
+      "30 days. One retest."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "text": "KEEP YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR TIME",
+   "label": "YOUR DAY-ZERO HANG NUMBER",
+   "sub": "under 20 sec: untrained - 30 to 50 sec: building - over 60 sec: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the honest reading of your day-zero hang. Under twenty seconds, your grip tendons are untrained and your shoulders have never been asked to hang, a completely normal starting point. Thirty to fifty seconds is the building zone, where daily work produces fast, satisfying jumps. Over sixty seconds, you are already wired, and this month's active hang work will add control on top of endurance. What the clock measures is a partnership: fingers and forearms providing the grip, shoulder muscles providing the position. Most hang training only trains the first partner. This experiment trains both, and the retest will show you the difference that makes.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A PARTNERSHIP IS MEASURED",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "60+ SEC",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "BOTH PARTNERS TRAINED",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the shoulder, because this is the half of hanging nobody explains. In a passive hang, your arms are straight and your shoulders shrug up toward your ears; your weight hangs from the joint's ligaments and the grip tendons alone. In an ACTIVE hang, you pull your shoulder blades down and together, lifting your body a few centimetres without bending your arms. Now the lats and the muscles around the shoulder blades carry part of the load, the joint sits centred and safe, and the grip tendons get help from above. The tendons still get their daily tension, that part does not change. What changes is the system around them: a shoulder that can organise itself under load. Thirty days of both hangs builds the cable and the crane that holds it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "PASSIVE VS ACTIVE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE SHOULDER'S JOB",
+     "lines": [
+      "Blades down, joint centred.",
+      "The grip gets help from above."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "CABLE AND CRANE",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "ORGANISED UNDER LOAD",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "What surprised me testing this is where the extra seconds came from. I expected the grip to be the whole story. Instead, the biggest jump came when the shoulders learned to stay active deep into the hang. Here is why. As your fingers tire, your body starts to swing and rotate slightly, and a passive shoulder lets that movement grow until it pries your fingers open. An active shoulder kills the swing at its source, so the grip spends its endurance on holding, not on fighting chaos. The grip tendons were never the only limit. They were paying for the shoulder's laziness. Train the shoulder to do its share and the same tendons suddenly last far longer. That is a systems gain, not a strength gain, and systems gains are the fastest kind there is. The clock at the retest will not tell you which partner improved. It will just show you a number that makes you stare.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WHERE THE SECONDS HID",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_hang_side_tuck.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE SWING TAX",
+     "lines": [
+      "Passive shoulders let you swing.",
+      "Swinging pries fingers open."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "MAX HANG GROWTH",
+     "items": [
+      [
+       "DAY 0",
+       28,
+       "red"
+      ],
+      [
+       "DAY 30",
+       75,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "SYSTEMS GAINS ARE FASTEST",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "A NUMBER THAT MAKES YOU STARE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang_front.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "One more layer before the plan, because long hangs are won in the mind as much as in the fingers. Around the halfway point of a hard hang, your brain starts negotiating: the bar feels hotter, the fingers feel numbered, and letting go sounds reasonable. Experienced hangers have a protocol for that moment. They breathe out slowly, they unclench their jaw and face, and they check their shoulders and switch them back on, because the active shoulder is usually the first thing the negotiation switches off. Then they count breaths instead of seconds, because breaths are steady and seconds are cruel. None of this is toughness. It is attention management, and it is trainable like everything else in this experiment. The grip you are building deserves a mind that does not quit before the fingers do. Most hangs end in the head first. This month, we train the head to finish last.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "WON IN THE MIND TOO",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_hang_side_relaxed.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "THE NEGOTIATION PROTOCOL",
+     "lines": [
+      "Exhale, unclench, shoulders on.",
+      "Count breaths, not seconds."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "ATTENTION IS TRAINABLE",
+     "pos": "tr"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "THE HEAD FINISHES LAST",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage in hanging needs no cleverness: the bar charges you exactly your bodyweight, and yours is low. Every second of every hang costs your fingers less than it costs a heavier man's, so your daily practice can be longer, more frequent, and cleaner. But there is a second advantage specific to the active hang. Shoulder control is a coordination skill, and coordination skills are bodyweight-independent: the light guy's nervous system learns the blade-down pattern just as fast as anyone's, while paying less fatigue for every rehearsal. Cheap reps of a skill, daily, for thirty days. That is the exact recipe for a retest number that looks rigged. It is not rigged. It is arithmetic.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE BAR CHARGES YOUR WEIGHT",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_dead_hang_front.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "CHEAP SKILL REPS",
+     "lines": [
+      "Coordination at low fatigue.",
+      "Rehearsed daily for 30 days."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "IT IS ARITHMETIC, NOT RIGGED",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "LONGER, CLEANER PRACTICE",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_active.webp",
+   "exercise": "ACTIVE HANG",
+   "work": 30,
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Hang with me, the active way. Four rounds. Straight arms, then pull your shoulder blades down and hold your body still and quiet. If you start swinging, drop and reset. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang_front.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. Two hangs a day, one passive, one active, every day. Week one: passive hang to about seventy percent of your max, then five active hang holds of ten seconds, blades pulling down, arms straight. Week two: the passive hang grows toward your max, and active holds stretch to fifteen and twenty seconds. Week three: combine them. Start passive, switch the shoulders on for the middle of the hang, and finish passive, because controlling the switch is the skill the retest rewards. Week four: keep both hangs daily, keep them clean, and taper in the last three days to short, easy hangs. Day thirty: one max hang, shoulders active from the start, same bar, same rules. The form rules: never jump up to the bar and shock your shoulders, step up or climb. Keep your ribs down and your body quiet. And if a shoulder pinches at the top of the hang, that is a professional's question, so see one if it persists, and train the passive hang only meanwhile.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: TWO HANGS A DAY",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "BLADES DOWN, ARMS STRAIGHT",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 3: SWITCH MID-HANG",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "CONTROL THE SWITCH",
+     "lines": [
+      "Passive, active, passive.",
+      "The skill the retest rewards."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "NEVER JUMP TO THE BAR",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: ACTIVE FROM THE START",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "90 SEC",
+     "label": "THE STARE-WORTHY LINE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same bar, shoulders on, one max hang. Here is how the results usually read. The common outcome is a gain of thirty to fifty seconds, noticeably more than passive-only hang months produce, because two partners improved instead of one. If you crossed ninety seconds, your hanging system, grip, tendons and shoulders together, is officially wired. If your gain matched a normal grip month, your shoulders were probably already decent, and your fingers were the true limit all along, which is useful to know. If your number fell, suspect total daily load: two hangs a day plus your other training can quietly outspend recovery, and tired tendons test badly. Put both numbers in the comments. Day zero and day thirty. The difference between them is what a system looks like when all its parts finally show up to work.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME BAR. SHOULDERS ON.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "+30 TO +50 SEC",
+     "label": "THE COMMON OUTCOME",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "TWO PARTNERS IMPROVED",
+     "lines": [
+      "Grip plus shoulder control.",
+      "Beats grip alone."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days of hanging, and your shoulders finally learned to help your hands. Keep both hangs in your week, keep the body quiet, and subscribe for the next test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "SHOULDERS HELP HANDS NOW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "KEEP THE BODY QUIET",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

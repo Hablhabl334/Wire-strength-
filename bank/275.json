@@ -1,0 +1,474 @@
+{
+ "id": "275",
+ "v5": true,
+ "title": "Why Your grip tendons Matter More Than Muscle (The dead hang endurance Episode)",
+ "description": "The flagship argument of the grip season, settled by a clock. Here is the two-minute hang test one last time, the full case that hang endurance is a tendon quality from first second to last, and why the lightest man in the gym owns this leaderboard.",
+ "tags": [
+  "grip tendons vs muscle",
+  "two minute hang",
+  "dead hang endurance",
+  "tendon strength",
+  "hang test",
+  "calisthenics grip",
+  "forearm tendons"
+ ],
+ "hashtags": [
+  "grip tendons",
+  "tendon vs muscle",
+  "dead hang",
+  "hang endurance",
+  "calisthenics",
+  "season finale"
+ ],
+ "category": "grip",
+ "badge": "EP 275 - TENDON VS MUSCLE: THE HANG",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CABLES",
+  "TENDON VS MUSCLE"
+ ],
+ "thumb": {
+  "asset": "ren_hang_side_active.webp",
+  "big": "120 SEC",
+  "hook": "THE CLOCK SETTLES IT",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a bar. | Grip it overhand. | Shoulder width apart. | Hang with straight arms. | Feet off the ground. | And start the clock. | No swinging. | No kicking. | Just hang. | Stay until you drop. | Or your grip opens. | That time is your NUMBER. | The two-minute hang test. | Write the number down. | We end this season | where it began. | On the bar. | With the only judge | that never lies. | At the end | of this video | the season's whole argument | gets its verdict. | From your seconds.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "NO GYM NEEDED",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "STRAIGHT ARMS ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "120 SEC",
+     "label": "THE TARGET",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "REMEMBER YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "THE VERDICT AHEAD",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "120 SEC",
+   "label": "THE TWO-MINUTE LINE",
+   "sub": "under 45: untrained - 90+: wired cables - 120: elite",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line, the same line that opened the season. Two minutes on the bar. Under forty-five seconds: untrained cables. Forty-five to ninety: BUILDING. Ninety to one-twenty: WIRED. The full two minutes: elite, and still rare. All season we have tested pinches, levers, carries and spreads, and every test kept returning the same verdict in different handwriting. Today the hang delivers it in its purest form, because hanging strips the question to one variable: how long can your tendons hold your body against gravity? Not how big the engine is. How long the cables last. Everything else is commentary.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "text": "45 SEC = UNTRAINED",
+     "pos": "tr"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "90+ SEC",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "HOW LONG THE CABLES LAST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Make the muscle case as strongly as it can be made, because the hang answers it. Yes, stronger forearm muscles produce a harder squeeze. Yes, the first seconds of any hang are a muscle event. But the hang does not end in the first seconds. It ends at the fade, and the fade is governed by blood flow, by signal rationing, and by the tendons' ability to hold tension at almost no metabolic cost while the muscle suffocates. The tissue that decides the score is the tissue that works for free. That is why hang leaderboards, in gyms and climbing walls worldwide, are democracies of the wiry: the clock keeps grading the cables and ignoring the circumference. One historical footnote deserves the season's closing minutes. When researchers test elite climbers, the quality that separates them from strong gym members is rarely max finger strength, which overlaps more than anyone expects. It is the ability to repeat high-force efforts and to hang at percentages of max for durations that look like typos. In other words, the best grip athletes on earth are distinguished by exactly the quality this test measures and this season trained. You have not been doing a beginner's exercise all these weeks. You have been training the elite discriminator, at kitchen scale, with a bar and a clock.",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "THE TISSUE THAT WORKS FOR FREE",
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 33,
+     "kind": "fact",
+     "title": "THE FADE IS THE EXAM",
+     "lines": [
+      "Muscle owns the first seconds.",
+      "Tendons own every second after."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 46,
+     "kind": "chip",
+     "text": "DEMOCRACIES OF THE WIRY",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "There is a number that settles the argument for any doubter, and you can collect it in your own gym this week. Correlate hang time with forearm circumference across twenty men and the relationship is a shrug. Correlate it with months of hang training and it is a staircase. The first variable is the one the mirror worships. The second is the one the clock respects. Training age in the specific tissue beats tissue size in the irrelevant one, every time, and the hang is merely the most public place where that law shows its face. Your seconds today are not a report on your arms. They are a report on your calendar. The season also leaves you a diagnostic you will use for years. Any time a grip quality stalls, run the hang and ask which fade arrived: the burn, the signal, or the slip. Burn means plumbing, train the exchange. Signal means permission, train calm submaximal volume. Slip means position or skin, fix the setup. Three fades, three fixes, one test that tells them apart. Most men train blind and call it effort. You now own the instrument panel, and it fits on a door frame.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "text": "SIZE SHRUGS, CALENDAR STAIRS",
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "bars",
+     "title": "WHAT PREDICTS HANG TIME",
+     "items": [
+      [
+       "MONTHS OF HANG TRAINING",
+       90,
+       "cyan"
+      ],
+      [
+       "FOREARM CIRCUMFERENCE",
+       20,
+       "red"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "YOUR CALENDAR",
+     "label": "IS THE REPORT",
+     "pos": "br"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "text": "THE LAW SHOWS ITS FACE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 42,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "And the tendons bring their usual closing argument: permanence. The muscle you build for this test will need feeding for as long as you want to keep it, and it will begin leaving within weeks of neglect. The tendon capacity you build, the stiffness, the economical recruitment, the calm under the bar, decays so slowly that climbers returning after years find their hang mostly intact, like a house whose frame outlasted its paint. For the man investing an hour a day into his body, the season's advice condenses to one line: spend it on the frame. The paint is a subscription. The frame is a purchase. And if you take one sentence out of this whole season, take the one the clock has been saying since episode one of it: your body was never the limitation your mirror claimed. The limitation was a set of cables nobody had ever trained, measured or respected, and cables, unlike bones, unlike height, unlike the frame you were handed, answer to calendars. You own a calendar. That was always the entire opportunity, and it still is, every week, on every bar you will ever walk under.",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "THE FRAME OUTLASTS THE PAINT",
+     "pos": "tr"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "MOSTLY INTACT AFTER YEARS",
+     "lines": [
+      "Tendon capacity decays at a geological pace.",
+      "Muscle begins leaving within weeks."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 26,
+     "kind": "swap",
+     "asset": "ren_hang_side_tuck.webp"
+    },
+    {
+     "at": 36,
+     "kind": "mark",
+     "text": "SPEND IT ON THE FRAME",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "None of this makes muscle the enemy, and the season never claimed it. Muscle is the engine, and engines matter. The claim is about the ORDER of things. Tendons decide how much of the engine's power becomes performance, how long it can be spent, and how much of it you still own in a decade. A channel for skinny guys could not ask for a fairer law of physics, because it means the leaderboard was never locked by genetics or appetite. It is locked by whoever trains the cables, and the cables respond to the lightest man in the room exactly as they respond to the heaviest. Equally. Finally, a gym law that does.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE ORDER OF THINGS",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "EQUALLY, AT LAST",
+     "lines": [
+      "Tendons set the spending limit and the lifespan.",
+      "They answer the light man identically."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_hang_side_relaxed.webp"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "A FAIR LAW OF PHYSICS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "TENDON VS MUSCLE",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now the skinny advantage. | It is the whole season's. | Your tendons carry less. | Your engine sips. | Your recovery is faster. | Your calendar can be denser. | Every variable in the fade | leans your way. | The heavy man's hang | is a strength contest. | Yours is a cable exam. | And cable exams | are won by cable training. | Which costs nothing. | Weighs nothing. | And answers to patience. | The clock is not | your judge. | The clock is your witness.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "EVERY VARIABLE LEANS YOUR WAY",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "A CABLE EXAM",
+     "label": "NOT A STRENGTH CONTEST",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "ANSWERS TO PATIENCE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "THE CLOCK IS YOUR WITNESS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_relaxed.webp",
+   "exercise": "DEAD HANG",
+   "work": 20,
+   "rest": 40,
+   "rounds": 4,
+   "section": "TENDON VS MUSCLE",
+   "check": 3,
+   "music": "drive",
+   "narration": "Hang with me, one last time this season. Twenty seconds on, forty off, four rounds, minimum squeeze, slow exhales. The frame, being built, quietly. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "TENDON VS MUSCLE",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So the season's checklist, final form. Train the cables first and the engine second: hangs, carries, levers, pinch and spreads, rotated like crops. Live submaximal, test monthly, and let the calendar do what intensity promises and cannot deliver. Keep both directions of every system trained, flexors and extensors, because frames fail on their weak side. Respect the slow tissues' warnings early, so you are still progressing when the heroes are rehabbing. And measure everything, cold and honest, because the numbers are the only coach who will never flatter you or quit. That is the whole doctrine. It fits on an index card, and it will still be true when your grandchildren test their first hang.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "CABLES FIRST, ENGINE SECOND",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "MUSCLE FIRST, ALWAYS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "BOTH DIRECTIONS, EVERY SYSTEM",
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "text": "NUMBERS NEVER FLATTER OR QUIT",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 25,
+     "kind": "stat",
+     "text": "THE DOCTRINE",
+     "label": "ON AN INDEX CARD",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "TENDON VS MUSCLE",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your number, the season's last word on the bar. Under forty-five seconds: untrained cables, and the fastest transformation in this entire sport is yours to start today. Forty-five to ninety: BUILDING, the frame under construction. Ninety to one-twenty: WIRED, a hang that silences rooms. Two minutes: elite, a frame for the decade. Put your seconds in the comments, just the number, one last time this season. In thirty days we test again, and every season after this one builds on the cables you started here. That was always the design. The mirror had its channels. This one belongs to the clock.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE FASTEST TRANSFORMATION IS YOURS",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE TEST AGAIN",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "title": "YOUR VERDICT",
+     "lines": [
+      "Under 45: untrained, not weak.",
+      "Over 90: rooms go quiet."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "text": "COMMENT YOUR SECONDS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "section": "TENDON VS MUSCLE",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Season five closes where it opened: on the bar, with a number, and a frame under construction. Next season we take these cables into skinny-fat territory, and you will want them with you. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "SEASON 5: COMPLETE",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "THE CABLES COME WITH YOU",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": "368",
+  "v5": true,
+  "title": "A Skinny Guy Did push-ups for 30 Days (His chest tendons Changed)",
+  "description": "Thirty days of daily push-ups, done the smart way, with a strict max test on day zero and day thirty. Count your max, learn how the chest tendons carry the push-up, and see what a month of submaximal volume does to the number.",
+  "tags": [
+    "push-ups",
+    "30 day challenge",
+    "chest tendons",
+    "push-up test",
+    "push-up max",
+    "calisthenics",
+    "chest training"
+  ],
+  "hashtags": [
+    "push-ups",
+    "30 days",
+    "chest tendons",
+    "calisthenics",
+    "experiment",
+    "push-up max"
+  ],
+  "category": "experiments",
+  "badge": "EP 368 - 30 DAYS OF PUSH-UPS",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_top.webp",
+    "big": "20 REPS",
+    "hook": "MAX SET, DAY 30",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Get into position. | Hands under shoulders. | Body one straight line. | Lower to fist height. | Press to lockout. | Strict reps only. | No sagging hips. | No half reps. | Count your max. | That is day zero. | Write it down. | For thirty days | our subject pushes daily. | Never to failure. | Sets at half max, | spread through the day. | On day thirty | we count again. | Same strict rules. | Keep your number. | The floor is waiting.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY ZERO: STRICT MAX",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "ONE STRAIGHT LINE",
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "NEVER TO FAILURE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 16,
+          "kind": "fact",
+          "title": "THE EXPERIMENT",
+          "lines": [
+            "Half-max sets, daily.",
+            "The count decides."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "20 REPS",
+      "label": "THE STRICT TWENTY LINE",
+      "sub": "under 10: day zero - 20: trained base - 40+: machine",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Read the strict max here. Under ten is a normal, honest day zero for a skinny guy who has never trained pressing; nothing is broken, the chain is just new. Twenty clean reps is a trained base, the point where the push-up becomes a tool instead of a test. Forty and beyond is machine territory, built by volume over months. The experiment question: how far does thirty days of daily half-max sets move a strict max, and what is happening in the chest tendons while the number climbs?",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "UNDER 10 = JUST NEW",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "HALF-MAX SETS, DAILY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "40+",
+          "label": "MACHINE TERRITORY",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "shoulder_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "A push-up looks like a chest exercise, but follow the force and it becomes a tendon story. Your chest muscle pulls on the pectoral tendon, which anchors it to the upper arm bone. Your triceps tendon crosses the elbow on every lockout, and the shoulder's tendon cuff steers the whole joint under load. Every strict rep sends your pressing weight through that chain of cables, at a deep stretch at the bottom and a hard contraction at the top. Tendons adapt to exactly this: repeated, progressive tension through a full range. The chest tendon system of a guy who has never trained is like the rest of him: not weak by design, just never sent a serious signal. Daily submaximal push-ups are a month-long conversation with those cables: hundreds of clean loading messages, none of them a scream, all of them saying the same thing. Grow stronger. We are doing this every day now.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "FOLLOW THE FORCE",
+          "lines": [
+            "Chest pulls the tendon.",
+            "Tendon moves the arm."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_pushup_weak.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "STRETCH BELOW, SQUEEZE ABOVE",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "SIGNALS PER MONTH",
+          "items": [
+            [
+              "1 MAX WAR / WEEK",
+              35,
+              "red"
+            ],
+            [
+              "DAILY HALF-MAX SETS",
+              90,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "chip",
+          "text": "HUNDREDS OF CLEAN MESSAGES",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_45_mid.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "Why not just do a max set every day and be done faster? Because the economics are terrible. A daily max war leaves the chest and tendons under-recovered, so each day's performance is worse than the last, and the reps get uglier as the month goes on, which teaches the system sloppy patterns under tendon load. The half-max method flips the economy: every set ends with reps still available, recovery is complete by the next day, and the weekly total of quality reps ends up far higher than the war method produces. Think of it as the push-up economy: the currency is clean reps per week, and the submaximal plan is simply richer. Tendons especially prefer this economy. They remodel in response to total quality loading over time, and they complain, sometimes loudly, when every day is a siege. The experiment is testing whether the richer economy buys a bigger max in thirty days. Spoiler: the retest is the interesting part. There is one more economy worth naming: confidence. A guy who has done a thousand clean push-ups across a month walks up to a max test knowing exactly what his body will do. The war-method guy walks up hoping. Hope is not a training variable, but certainty, built rep by rep, quietly is.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "THE PUSH-UP ECONOMY",
+          "pos": "tr"
+        },
+        {
+          "at": 15,
+          "kind": "fact",
+          "title": "CLEAN REPS PER WEEK",
+          "lines": [
+            "The submaximal plan",
+            "is simply richer."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "swap",
+          "asset": "ren_pushup_back_top.webp"
+        },
+        {
+          "at": 38,
+          "kind": "mark",
+          "text": "DAILY WAR = DAILY DEBT",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The protocol, precisely. Take your day-zero max and halve it: a max of sixteen means working sets of eight. Do four to six of those sets a day, spread out or in one session with long rests, six days a week. Every rep is strict: straight line, fist height, full lockout. When the last set of the day starts feeling easy, and it will, add one rep to every set the following week. Once a week, one strict max test, logged, no more. One full rest day weekly, because the chest tendons bank their adaptation between sessions. If your day-zero max is under five, elevate your hands on a chair or step and run the identical protocol; the tendons cannot tell the difference between humble and proud, only between loaded and not. Thirty days, a few minutes a day, and a weekly appointment with the truth.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HALF MAX, 4-6 SETS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "ADD A REP WHEN EASY",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_pushup_front_top.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "HANDS UP IF MAX < 5",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 29,
+          "kind": "stat",
+          "text": "6 DAYS",
+          "label": "ON, ONE FULL REST",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_mid.webp",
+      "exercise": "PUSH-UPS",
+      "work": 30,
+      "rest": 30,
+      "rounds": 4,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Push with me, protocol style. Four rounds: thirty seconds of strict push-ups at a pace you fully own, thirty seconds of rest. Straight line, fist height, lockout. Stop each round with reps still in you. We are buying clean volume, not a war. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_front.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The month, as it actually felt. Week one: the chest and triceps filed a formal complaint, the good deep soreness of new work, and the sets felt longer than they were. Week two: the complaint was withdrawn; the same sets ended with energy to spare, and the first added reps appeared. Week three was the economy compounding: daily totals that would have been a heroic session on day one now fit inside an ordinary afternoon, spread between other things. Week four, the weekly max tests had been quietly climbing the whole time, two reps here, three there, none of them dramatic, all of them banked. This is the texture of tendon-and-volume adaptation: unspectacular days, compounding quietly, until the final test reads out the sum. The push-up does not reward drama. It rewards attendance.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: THE COMPLAINT",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "WEEK 3: THE ECONOMY COMPOUNDS",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_pushup_weak.webp"
+        },
+        {
+          "at": 23,
+          "kind": "fact",
+          "title": "THE TEXTURE",
+          "lines": [
+            "Unspectacular days.",
+            "Compounding quietly."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "IT REWARDS ATTENDANCE",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty, strict max, same rules, no warm-up heroics beyond a few easy reps. The pattern for this protocol in beginners is one of the most reliable in the series: maxes commonly grow by half to double in thirty days, a twelve becoming a twenty, a twenty becoming a thirty-plus, because so much of the early gain is the chain learning to work as one system under tendon load. Read yours: under fifteen after an honest month, check the attendance first; the economy only pays those who show up. Fifteen to thirty, the base is built and the tendons are trained. Past forty strict, you own pressing endurance most adults never touch. Put your max in the comments. Just the number. In thirty days, the floor will ask again.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE CHAIN LEARNS AS ONE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pushup_45_mid.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "STRICT MAX, SAME RULES",
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "COMMENT YOUR MAX",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Thirty days of push-ups taught the oldest lesson in training: volume at quality beats intensity at chaos, and tendons keep the receipts. Keep the sets clean, keep the days frequent, and the max takes care of itself. Retest in thirty days and bring me your number. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "QUALITY x FREQUENCY",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "id": "360",
+  "v5": true,
+  "title": "Your Sleep Score Reveals Your Hidden Strength",
+  "description": "The most powerful muscle tool you own is not a workout. It is last night. Score your sleep, test your morning plank, and learn how recovery hormones decide whether your training becomes muscle or just tiredness.",
+  "tags": [
+    "sleep score",
+    "sleep and muscle",
+    "recovery hormones",
+    "skinny fat",
+    "growth hormone",
+    "sleep test",
+    "calisthenics recovery"
+  ],
+  "hashtags": [
+    "sleep score",
+    "recovery",
+    "skinny fat",
+    "sleep",
+    "muscle recovery",
+    "calisthenics"
+  ],
+  "category": "skinnyfat",
+  "badge": "EP 360 - THE SLEEP SCORE",
+  "checklist": [
+    "THE SLEEP TEST",
+    "THE NUMBER",
+    "RECOVERY HORMONES",
+    "YOUR VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_plank_hold.webp",
+    "big": "7 HRS",
+    "hook": "SLEEP = STRENGTH",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_plank_sag.webp",
+      "section": "THE SLEEP TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Last night is today's test, so let us score it. Three questions, honest answers. How many hours were you actually asleep, not in bed scrolling, asleep? How many times did you wake up in the night? And when the alarm went, did you surface like a human or get dragged up like a body? Hours minus the chaos gives you a rough sleep score, and we will use hours as the headline number. Now the witness: get into a plank, perfect form, and hold it until the form breaks. Time it. Your morning plank is brutally honest about recovery; the same body can lose a third of its hold after a wrecked night. Keep both numbers: last night's hours, and this morning's plank seconds. At the end, I will show you the hormone system that connects them.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HOURS ASLEEP, NOT IN BED",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "2 NUMBERS",
+          "label": "HOURS + PLANK SECONDS",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "THE PLANK DOESN'T LIE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "7-9 HRS",
+      "label": "THE SCORE YOUR MUSCLES READ",
+      "sub": "under 6: building blocked - 6-7: slow build - 7-9: full recovery mode",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line your muscles read every night. Under six hours, the building crew works short-staffed: the recovery signals run low and the hunger signals run high, a combination that quietly eats recomp progress. Six to seven hours is the slow-build zone: you will progress, but you are paying a tax on every session. Seven to nine hours is full recovery mode, where the night does its complete work: tissue repaired, fuel tanks refilled, the nervous system reset. You cannot out-train a chronic five. The score is not wellness decoration. It is a training variable, as real as your reps.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "UNDER 6 = SHORT-STAFFED",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "A TAX ON EVERY SESSION",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "stat",
+          "text": "7-9 HRS",
+          "label": "FULL RECOVERY MODE",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "RECOVERY HORMONES",
+      "check": 2,
+      "music": "dark",
+      "narration": "Here is the hidden system, and it runs on a night shift. When you fall into deep sleep, your body releases its largest pulses of growth hormone, the signal that tells tissues to repair and rebuild. Training writes the work orders during the day; the night crew does the construction. Shorten the night and you do not just feel tired: you literally cancel shifts. At the same time, short sleep pushes the stress hormone cortisol up and scrambles the hunger hormones, so the short-sleeping guy is hungrier, craves faster food, and partitions more of it toward storage. It is a cruel trade: less building signal, more storing signal, from the same missed hours. This is why two guys can run the same program and eat the same food and get different bodies. One of them is giving the night crew a full shift. The other keeps sending them home early.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "THE NIGHT SHIFT",
+          "lines": [
+            "Training writes the orders.",
+            "Sleep does the construction."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "DEEP SLEEP = BUILDING PULSES",
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "bars",
+          "title": "SAME PROGRAM, DIFFERENT NIGHT",
+          "items": [
+            [
+              "5-HOUR NIGHTS",
+              40,
+              "red"
+            ],
+            [
+              "8-HOUR NIGHTS",
+              90,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "chip",
+          "text": "LESS BUILD, MORE STORE",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "RECOVERY HORMONES",
+      "check": 2,
+      "music": "calm",
+      "narration": "The most uncomfortable evidence in this whole area is about what short sleep does to a diet. In controlled studies where people ate the same reduced calories, the short sleepers lost a much larger share of their weight as muscle, and a smaller share as fat, compared to when they slept longer. Same food. Same deficit. Different tissue. Read that again, because it is the skinny fat nightmare in one sentence: sleeping badly does not just slow your progress, it changes what your progress is made of. The nervous system pays too: reaction time, motivation and top-end strength all sag after short nights, which is why your morning plank told the truth before your brain admitted anything. Your body keeps the score even when you refuse to look at it. The plank looked. That is why we test it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "SAME FOOD, DIFFERENT TISSUE",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "THE UNCOMFORTABLE FINDING",
+          "lines": [
+            "Short sleepers lost more muscle,",
+            "less fat, on identical diets."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_plank_sag.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "YOUR BODY KEEPS THE SCORE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "chip",
+          "text": "THE PLANK KNEW FIRST",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "RECOVERY HORMONES",
+      "check": 2,
+      "music": "dark",
+      "narration": "So let us make sleep a measured variable, like reps. For the next seven nights, write down three things each morning: hours asleep, wake-ups, and a one-to-ten rating of how the alarm felt. Average the hours: that is your true sleep score, not the one good night you keep quoting. Then watch for the pattern across a single week: your plank, your grip, your motivation and your appetite all ride on the previous night more than on any supplement you could buy. Most guys discover their score is a full hour lower than their story. That gap, between the sleep you think you get and the sleep you get, is one of the cheapest performance gaps in your whole training life to close. You do not need a tracker or an app. A notebook and seven honest mornings will do it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "7 HONEST MORNINGS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "1 HR",
+          "label": "THE TYPICAL REALITY GAP",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_neck_hold.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "MEASURE IT LIKE REPS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "RECOVERY HORMONES",
+      "check": 2,
+      "music": "calm",
+      "narration": "Your advantage here is one the big guys genuinely envy. Sleep quality loves a light body. The heavy lifter often snores his recovery into pieces: more mass around the neck and chest means more disturbed breathing, more wake-ups, shallower deep sleep. You, the skinny guy, are built for clean airways and deep, unbroken nights. Your recovery hardware is premium; only your schedule is broken. That makes your sleep score the highest-leverage fix in this entire season: the one anabolic tool that is free, legal, needs no equipment, and where your body type starts ahead instead of behind. The gym bros are buying powders to chase a fraction of what an extra hour of your sleep gives you. Take the free win. It is sitting on your pillow.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LIGHT BODY, CLEAN SLEEP",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_plank_sag.webp"
+        },
+        {
+          "at": 15,
+          "kind": "fact",
+          "title": "THE FREE WIN",
+          "lines": [
+            "No equipment. No powder.",
+            "Just an hour you already own."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "YOUR HARDWARE IS PREMIUM",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_plank_hold.webp",
+      "exercise": "PLANK",
+      "work": 45,
+      "rest": 15,
+      "rounds": 3,
+      "section": "RECOVERY HORMONES",
+      "check": 3,
+      "music": "drive",
+      "narration": "Now we spend what last night bought. Plank with me, three rounds, forty-five seconds each. Straight line, ribs down, breathing slow. Feel how much recovery you actually have in the tank today. This is the score, made physical. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_neck_hold.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The sleep protocol, built for real life. Anchor the wake time first, even on weekends; the body clock sets itself by the morning, not by bedtime wishes. Make the room dark and cool, and give screens a curfew an hour before bed, because bright light tells the night crew the shift is cancelled. Cut caffeine by early afternoon; it lingers for hours longer than the buzz does. And keep hard training out of the last hour before bed when you can. Now the mistakes: the weekend binge-sleep that shatters the rhythm every Monday. The phone in bed, scrolling until the eyes burn, which is not rest. And treating sleep as the reward you earn after everything else is done, instead of the foundation everything else is built on. Sleep is not the absence of training. On this channel, sleep is training, part three of every session.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ANCHOR THE WAKE TIME",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_balance_test.webp"
+        },
+        {
+          "at": 16,
+          "kind": "mark",
+          "text": "PHONE IN BED",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "WEEKEND BINGE-SLEEP",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "chip",
+          "text": "SLEEP IS PART 3 OF TRAINING",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_sag.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "So, your sleep score. Under six hours average: your building is blocked at the source, and no program survives that for long; fix the night before touching the training. Six to seven: you are building with a tax on every session, and one extra hour is the single biggest upgrade available to you. Seven to nine with a strong morning plank: your recovery is wired, and your only job is defending the rhythm like it is a training day, because it is. Track the seven mornings, run the protocol, and test the plank again in thirty days. Put last night's hours in the comments. Just the number. It is the most honest training log you own.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FIX THE NIGHT FIRST",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "30 NIGHTS",
+          "label": "THEN RETEST THE PLANK",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT LAST NIGHT'S HOURS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Training writes the orders, but sleep builds the body. Score your nights like you score your reps, defend the seven-to-nine window, and watch the same training suddenly pay double. Retest your plank in thirty days and bring me both numbers. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SLEEP BUILDS THE BODY",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

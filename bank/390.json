@@ -1,0 +1,466 @@
+{
+ "id": "390",
+ "v5": true,
+ "title": "I Tested jumping for 30 Days (The Results Surprised Me)",
+ "description": "Thirty days of daily jumping, tested by wall-reach jump height on day zero and day thirty. Jumping is an Achilles tendon exam disguised as fun: the stiffer and better-timed your springs, the higher you go. Take the test, learn what stiffness means, follow the plan, and compare your two marks on the wall.",
+ "tags": [
+  "jumping",
+  "vertical jump",
+  "achilles stiffness",
+  "jump training",
+  "30 day challenge",
+  "plyometrics",
+  "calisthenics"
+ ],
+ "hashtags": [
+  "vertical jump",
+  "jump training",
+  "30 day challenge",
+  "plyometrics",
+  "achilles tendon",
+  "calisthenics"
+ ],
+ "category": "experiments",
+ "badge": "EP 390 - JUMPING, TESTED",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_jump_peak.webp",
+  "big": "30 DAYS",
+  "hook": "JUMPING TESTED",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test. Stand beside a wall, reach up flat-footed and mark your highest touch. Then jump from a standstill, both feet, and mark your highest jump touch. The distance between the two marks is your NUMBER, your jump height in centimetres or inches. Write it down and keep the marks on the wall if you can. In thirty days we jump at the same wall, and I will show you what daily jumping did to the springs in your ankles. Keep your number close. This is the most honest athletic test there is: gravity grades it, and gravity never lies.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "TWO MARKS ON THE WALL",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "GRAVITY GRADES IT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Jumping every day.",
+      "30 days. Same wall retest."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "GRAVITY NEVER LIES",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR HEIGHT",
+   "label": "YOUR DAY-ZERO JUMP NUMBER",
+   "sub": "under 25 cm: untrained springs - 30 to 45 cm: building - over 50 cm: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is how to read your number. Under twenty five centimetres means your springs are untrained, the standard starting point for a guy who has not jumped since school. Thirty to forty five is the building zone, an athletic base waiting for timing. Over fifty centimetres, your Achilles system is already stiff, fast and well wired. What the wall really measures is not leg size. It is how much energy your tendons return and how fast your nerves fire the whole leg in one coordinated blast. Both of those are trainable in thirty days, in ways muscle size is not. Your mark is the before photo. Same wall in a month, we take the after.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "ENERGY RETURN, MEASURED",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "50+ CM",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "NOT LEG SIZE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "achilles_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the Achilles again, because jumping is its finest hour. When you dip before a jump, the Achilles and the tendons of your foot stretch like springs under your falling bodyweight. When you explode up, they snap back, returning a large share of that energy for free. Physiologists call this the stretch-shortening cycle, and it means a good jumper is partly a good spring. The spring quality has a name: STIFFNESS. A stiff Achilles wastes little time and little energy in the dip, so more of your muscle force becomes height. Daily low-level jumping is the exact stimulus that teaches tendons to be springs: repeated quick stretches under load, thousands of small votes for stiffness. Your muscles provide the engine, but the tendons decide how much of the engine reaches the sky.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE SPRING'S FINEST HOUR",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_jump_peak.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "STRETCH, THEN SNAP",
+     "lines": [
+      "The dip loads the spring.",
+      "The snap returns it free."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "STIFFNESS IS THE QUALITY",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "TENDONS DECIDE THE HEIGHT",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Look at this picture, because it explains the surprise in this experiment. The lean guy out-jumps the big guy constantly, and it is not a mystery. Jump height is power divided by bodyweight. The big guy owns more muscle, but he must launch more mass, and his springs carry a heavier load through the same dip. Your springs carry less, so a larger share of their return becomes height. The second factor is timing. Jumping is a nerve skill: calves, quads and glutes must fire in sequence within a quarter of a second. Daily jumping rehearses that sequence until it is one smooth blast instead of three separate pushes. What surprised me in testing is how much of the thirty-day gain was timing, visible in week one, before any tissue could change. The wall does not care which factor improved. It just keeps the marks, and the marks move up.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "POWER DIVIDED BY WEIGHT",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_jump_peak.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "TIMING IS A FACTOR",
+     "lines": [
+      "Three pushes become one blast.",
+      "Visible in week one."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "JUMP HEIGHT GROWTH",
+     "items": [
+      [
+       "DAY 0",
+       28,
+       "red"
+      ],
+      [
+       "DAY 30",
+       38,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "THE MARKS MOVE UP",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "SPRINGS PLUS TIMING",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "One more layer before the plan, because jumping has a famous cousin you should know about: sprinting. A sprint step and a jump are the same event wearing different clothes. In both, your foot hits the ground, the Achilles spring loads in a fraction of a second, and the energy comes back out as speed or height. Sprinters call the quality ground contact time, and the best in the world spend about a tenth of a second on the ground per step. Your jumping month trains the identical spring at a friendlier speed. This is also why the pogo jumps in the protocol matter so much: they are pure spring rehearsals, tiny ground contacts, thousands of micro-votes for stiffness. If you ever add short sprints later in life, you will find the springs already educated. Train the bounce here, and it follows you everywhere your feet leave the ground.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "SPRINTING IS JUMPING'S COUSIN",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_jump_peak.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "GROUND CONTACT TIME",
+     "lines": [
+      "A tenth of a second.",
+      "For the best in the world."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "POGOS ARE SPRING REHEARSALS",
+     "pos": "tr"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "THE BOUNCE FOLLOWS YOU",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "State the skinny advantage plainly: jumping is the most weight-sensitive test in athletics. Every kilo you do not carry is a kilo your springs do not have to launch, catch and launch again. That means your daily practice can include more jumps at higher quality than a heavy guy's, because your landings cost less and your tendons recover faster between days. There is a durability edge too. Landing forces scale with bodyweight, so your knees and Achilles take a smaller bill for the same training. The heavy jumper must ration his jumps like expensive medicine. You can take yours daily like vitamins. Thirty days of daily, high-quality, low-cost jumps is precisely the environment where springs get stiffer and timing gets sharp.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "EVERY KILO COUNTS TWICE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "big_vs_lean_jump.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "VITAMINS, NOT MEDICINE",
+     "lines": [
+      "Your jumps are cheap enough.",
+      "To take every day."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "LANDINGS COST LESS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "MORE JUMPS, HIGHER QUALITY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_jump_peak.webp",
+   "exercise": "POGO JUMPS",
+   "work": 20,
+   "rest": 40,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Jump with me. Small, springy pogo jumps, stiff ankles, quick off the ground, five short rounds. Think of your feet as springs, not cushions. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_eccentric_drop.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days, and the rule above all rules is quality: a tired, sloppy jump teaches sloppy springs. Week one: twenty small pogo jumps a day, stiff ankles, minimal knee bend, plus five standing jumps at ninety percent effort, landing soft and balanced every time. Week two: pogos grow to thirty, and add five jumps where you reach for a target, a branch, a doorframe, anything above you. Week three: keep the pogos, raise the standing jumps to eight, and add two max jumps every third day, full rest between them, because max jumps are tests, not training. Week four: sharpen, fewer total jumps, all of them crisp, and rest completely the day before the retest. Day thirty: same wall, same shoes, three max jumps, best mark counts. The safety rules for springs: always land on the balls of your feet with knees tracking over toes, never jump on concrete in socks, and any sharp Achilles pain ends jumping for the week, because tendons that power jumps also need respect when they whisper.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: POGOS + 5 JUMPS",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "QUALITY ABOVE ALL",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: REACH FOR A TARGET",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "MAX JUMPS ARE TESTS",
+     "lines": [
+      "Full rest between them.",
+      "Not daily training."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "LAND SOFT, KNEES OUT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: THREE MAX JUMPS",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "BEST MARK COUNTS",
+     "label": "THE RETEST RULE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same wall, three jumps, best mark. Here is how the results usually read. The typical skinny guy gains five to ten centimetres in this month, a huge jump improvement by any standard, split between better timing in the first weeks and stiffer springs by the last. If you gained more, your day-zero timing was probably chaotic, and the month simply organised you. If you gained only a little, your springs were likely already decent and your ceiling is now set by raw leg strength, which is a different, slower project. If your marks went down, your legs were under-recovered on test day, and a rested retest two days later usually tells a kinder truth. Put both numbers in the comments, day zero and day thirty, in centimetres or inches. Gravity graded both. Trust its marking.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME WALL. THREE JUMPS.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "big_vs_lean_jump.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "+5 TO +10 CM",
+     "label": "THE TYPICAL GAIN",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "TIMING FIRST, SPRINGS LATER",
+     "lines": [
+      "Week 1 organises you.",
+      "Week 4 stiffens you."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days of jumping, and the springs in your ankles stop absorbing your power and start returning it. Keep some jumps in your week, and subscribe for the next test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "SPRINGS RETURN POWER NOW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "KEEP JUMPS IN YOUR WEEK",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

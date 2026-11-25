@@ -1,0 +1,368 @@
+{
+  "id": "366",
+  "v5": true,
+  "title": "A Skinny Guy Did plank for 30 Days (His core nerves Changed)",
+  "description": "Thirty days of daily planks, judged by one strict max hold on day zero and day thirty. Time your plank, learn why the plank is really a nerve test run by your deep core, and see what a month of quiet, perfect holds does to the clock.",
+  "tags": [
+    "plank",
+    "30 day challenge",
+    "core nerves",
+    "plank test",
+    "core training",
+    "calisthenics",
+    "deep core"
+  ],
+  "hashtags": [
+    "plank",
+    "30 days",
+    "core nerves",
+    "calisthenics",
+    "experiment",
+    "plank test"
+  ],
+  "category": "experiments",
+  "badge": "EP 366 - 30 DAYS OF PLANKS",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_plank_hold.webp",
+    "big": "90 SEC",
+    "hook": "CORE, TESTED",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Day zero is a max plank, but with a judge's eye. Forearms down, body in one straight line from head to heels, ribs down, glutes squeezed. Start the clock, and stop it the moment the form breaks: hips sagging, hips piking into a tent, or the lower back taking over and complaining. That break point, not the moment you collapse, is your number. Most untrained guys land between thirty and sixty honest seconds, and plenty land under thirty once the strict rules apply. Write it down. For thirty days our subject planks daily, almost always far below his max, chasing perfect positions instead of heroic suffering. On day thirty, the judge comes back. Keep your seconds. Form is the currency here, and the clock only accepts clean money.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "STOP WHEN FORM BREAKS",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "30-60 SEC",
+          "label": "THE NORMAL DAY ZERO",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_plank_sag.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "CLEAN MONEY ONLY",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "90 SEC",
+      "label": "THE HONEST PLANK LINE",
+      "sub": "under 45: core asleep - 90: wired core - 2 min+: a quiet machine",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The bands, with the strict rules doing the talking. Under forty-five seconds means the deep core system is asleep: the position fails before the muscles are even tired, because the wiring gives up first. Forty-five to ninety is a working core, the range of generally active guys. Ninety seconds of genuinely clean plank is a wired core, a system that can hold pressure and position without drama. Two minutes and beyond is a quiet machine. The experiment question: what does thirty days of submaximal, form-obsessed planking do to a strict day-zero number, and why would the change be a nerve story before it is a muscle story?",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "THE WIRING GIVES UP FIRST",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "SUBMAXIMAL, FORM-OBSESSED",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "stat",
+          "text": "2 MIN+",
+          "label": "A QUIET MACHINE",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "Here is what a plank actually tests, and it is not ab strength in the way most people think. Your deep core is a pressure system: diaphragm on top, pelvic floor below, deep abdominals and back muscles around the sides, working like the walls of a sealed can. When it works, your trunk becomes a stiff, pressurised unit that protects the spine and transfers force. The muscles involved are not primarily movers; they are anticipators, fired by the nervous system a fraction of a second before they are needed, all day long, in every position. The plank exposes that system because holding still is pure anticipation: no movement to hide behind, just the nerves deciding, second by second, to keep the can sealed. The famous plank shake is not weakness leaving the body. It is the nervous system losing coordination, corrections arriving late and stacking up. Train the plank and you train the firing pattern: earlier, calmer, better sequenced. That is a nerve upgrade wearing an ab exercise's clothes.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "A PRESSURE SYSTEM",
+          "lines": [
+            "Diaphragm, floor, walls.",
+            "A sealed can of a trunk."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "THE SHAKE = LATE CORRECTIONS",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "WHAT FAILS FIRST",
+          "items": [
+            [
+              "MUSCLE SIZE",
+              30,
+              "red"
+            ],
+            [
+              "NERVE COORDINATION",
+              80,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "chip",
+          "text": "A NERVE UPGRADE IN DISGUISE",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_sag.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "Look at the failure in the picture, because day thirty only counts if you can spot it. When the deep core switches off, the hips sag, the lower back arches to take the job, and the plank quietly becomes a back exercise with ab decorations. Every second spent sagging teaches the wrong pattern and bills your lower back for the lesson. The second failure is the tent: hips jacked high, load dumped into the shoulders, core on holiday. Between those two failures sits the narrow honest position, and the whole protocol exists to widen your time inside it. Breathing is the tell: a wired core can breathe slowly while braced, because the pressure system and the breathing system have learned to share the diaphragm. If you must hold your breath to hold your plank, the system is not wired yet. That is fixable, and thirty days is a realistic window to fix it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "SAG = BACK TAKES OVER",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "fact",
+          "title": "THE BREATHING TELL",
+          "lines": [
+            "Braced and breathing",
+            "is the wired state."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "SAGGING BILLS YOUR BACK",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The thirty-day protocol is deliberately unheroic. Daily planks at sixty to seventy percent of your day-zero max: if you tested sixty seconds, your working holds are thirty-five to forty. Accumulate three to five of those holds a day, in one session or spread out, resting fully between them, and end every hold while the position is still perfect. Perfect is the whole point; the nervous system learns the last pattern you practiced, so never practice the sag. Across the month, the variations rotate in: longer-lever planks with arms further forward, side planks for the lateral walls of the can, and slow breathing ladders, longer exhales each round. Once a week, and only once, retest the strict max. Progress will not feel dramatic day to day, and that is by design. Nerve systems are not built by drama. They are built by hundreds of correct, calm repetitions of the exact pattern you want to own.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "60-70% OF MAX, DAILY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "END WHILE PERFECT",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_plank_sag.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "NEVER PRACTICE THE SAG",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "stat",
+          "text": "100s",
+          "label": "OF CALM REPS IN A MONTH",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_plank_hold.webp",
+      "exercise": "PLANK",
+      "work": 45,
+      "rest": 15,
+      "rounds": 4,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Plank with me, protocol rules. Four rounds: forty-five seconds of perfect position, fifteen to reset. Ribs down, glutes squeezed, breathing slow the whole time. If the form starts to go, drop early; we are practicing the wired pattern, not the sag. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_sag.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The month, week by week. Week one, the shake arrived early and the breath was a hostage: holding position and breathing felt like two jobs for one worker. Week two, the holds at working length started to feel organised; the shake moved later into each set, and the exhales lengthened, the first sign the pressure system and the breathing system had signed their treaty. Week three was the quiet week: planks stopped feeling like battles and started feeling like positions, something the body simply assumed on request. Week four, the variations that seemed impossible on day one, long-lever holds, became working sets. This is what nerve adaptation looks like from the inside: not more burn, but less chaos. The muscles did not transform in thirty days. The management did, and in the core, management is most of the job.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: BREATH HELD HOSTAGE",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: THE TREATY",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "LESS CHAOS, NOT MORE BURN",
+          "lines": [
+            "The management changed.",
+            "That is the adaptation."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "POSITIONS, NOT BATTLES",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty, forearms down, judge's rules, max hold. The pattern for this protocol in untrained guys: strict times commonly climb by half or more across the month, with day zeros in the forties becoming seventy-five to a hundred-plus seconds, and the quality of the seconds changes even more than the count. Read yours: under forty-five after an honest month means the dose of perfect reps was too low; repeat the month greedier with good positions. Forty-five to ninety, the core is wired and working. Past ninety clean seconds, your deep core is a genuine asset that will pay out in every lift, sprint and carry you ever do. Put your seconds in the comments. Just the number. In thirty days, the judge returns.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "QUALITY CLIMBS WITH COUNT",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "JUDGE'S RULES, MAX HOLD",
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "COMMENT YOUR SECONDS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Thirty days of quiet holds taught a loud lesson: your core was never just weak, it was uncoordinated, and coordination trains fast when every rep is perfect. Keep the positions clean and the clock will keep climbing. Retest in thirty days and bring me your seconds. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "PERFECT REPS, FAST WIRING",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+ "badge": "EP 277 - THE CRUSH TEST",
+ "category": "grip",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE HAND CABLES",
+  "YOUR VERDICT"
+ ],
+ "description": "Grab a tennis ball and crush it as many times as you can in thirty seconds. That simple count exposes the tendon cables that run your whole hand. Here is why hand tendons matter more than hand size, what your crush number really measures, and the training week that pushes it up.",
+ "hashtags": [
+  "crush grip",
+  "grip strength",
+  "hand strength",
+  "tendon training",
+  "forearm workout",
+  "calisthenics"
+ ],
+ "id": "277",
+ "scenes": [
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE BALL. THIRTY SECONDS"
+    },
+    {
+     "at": 6,
+     "kind": "fact",
+     "lines": [
+      "Every crush is a cable report."
+     ],
+     "pos": "br",
+     "title": "THE CRUSH TEST"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COUNT EVERY FULL CRUSH"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HALF-CRUSHES DON'T COUNT"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 0,
+   "music": "dark",
+   "narration": "Grab a tennis ball. Or a rolled pair of socks. Or anything soft that fights back. Now crush it. Squeeze as hard as you can, all the way down, open fully, and crush again. Count every full crush you can finish in thirty seconds. No bouncing, no half-squeezes, no resting the ball against your leg. Just your hand, closing against resistance, again and again. By twenty seconds your forearm will be burning and your crushes will start shrinking. That shrinking is the test. Got your number? Keep it. At the end of this video I will tell you exactly what it says about the cables inside your hand.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED = FIXABLE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "ELITE HAND CABLES",
+     "pos": "br",
+     "text": "35+ REPS"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "25 = TRAINED"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "lines": [
+      "The last ten seconds grade you."
+     ],
+     "pos": "br",
+     "title": "ANYONE CAN CRUSH FRESH"
+    }
+   ],
+   "big": "25 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "FULL CRUSHES IN 30 SECONDS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twenty-five full crushes in thirty seconds is where a normal hand becomes a trained one. Under fifteen, your hand cables are simply untrained, and untrained is fixable. Between fifteen and twenty-five, the engine works but the cables fade under repeated load. Over thirty-five, your crush stays just as deep on the last rep as the first, and that is a quality most big-armed guys never build. Anyone can crush once. The test grades what your tendons can repeat. Hold your number. Now let me show you what is actually doing the crushing, because the hand itself is almost empty.",
+   "section": "THE NUMBER",
+   "sub": "under 15: untrained cables - over 35: elite crush endurance",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE HAND IS A PUPPET"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Forearm pulls the cable.",
+      "Cable closes the finger."
+     ],
+     "pos": "br",
+     "title": "THE PUPPET SYSTEM"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE CABLE PER FINGER, PLUS THE THUMB"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 28,
+     "kind": "swap"
+    },
+    {
+     "at": 34,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CRUSHING LOADS EVERY CABLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at your hand honestly. Inside your fingers there is almost no muscle at all. Your hand is a puppet. The strings are tendons, long cables that run from the muscles of your forearm, through a tight tunnel in your wrist, out into every finger and the thumb. When you crush a ball, forearm muscles shorten, the cables slide through the wrist, and your fingers close like a claw machine. Every crush loads those cables twice: once with the force of the squeeze, and once with the friction of the cable gliding through its tunnel. That is why crushing feels different from holding. A hang loads the cable in one long pull. Crushing loads it in repeated strokes, and each stroke is a training signal. Repeat a loaded stroke often enough, with rest between sessions, and the cable rebuilds thicker, stiffer, and slicker in its tunnel. Your hand does not get its strength from hand muscle. It borrows all of it, by cable, from the forearm. One more detail worth knowing: the crush is the grip your tendons feel most honestly, because there is no bar shape to hide behind. What the ball reports is what the cable can do, repeated, under your own power alone.",
+   "section": "THE HAND CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRIP IS THE REPORT CARD"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "CABLE ENDURANCE",
+       88,
+       "cyan"
+      ],
+      [
+       "ARM SIZE",
+       30,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT THE CRUSH COUNT TRACKS"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "lines": [
+      "The hand reports the whole chain honestly."
+     ],
+     "pos": "tr",
+     "title": "WHY TESTERS USE GRIP"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 24,
+     "kind": "swap"
+    },
+    {
+     "at": 30,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REPEATABLE FORCE BEATS PEAK FORCE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is a reason strength researchers reach for a grip test before almost any other. The hand is an honest reporter. It has no big muscles to hide behind and no technique to fake with, so a crush or squeeze test reads the whole chain at once: the forearm muscles, the cables, and the nervous system's willingness to fire them together. When they test hundreds of people, grip numbers line up with total-body strength far better than arm size ever does. And the part of the crush test that separates people is never the first five reps. It is reps twenty to thirty, where the muscles are still willing but the cables and their blood supply start to fade. That fade is trainable, and it is mostly tendon territory: stiffer cables waste less of each stroke, so each crush stays deep for longer. Peak force is a moment. Repeatable force is a system. This test grades the system. That is also why this test belongs at the start of any grip program. It costs nothing, it lies about nothing, and it gives the season a baseline every other number can be compared against.",
+   "section": "THE HAND CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE GRIPS, THREE JOBS"
+    },
+    {
+     "asset": "forearm_anatomy_plate.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "CLOSES THE HAND",
+     "pos": "br",
+     "text": "CRUSH"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANGS = HOLD. CRUSH = CLOSE"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TRAIN THE CLOSE, NOT JUST THE HOLD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the map most people never see. Your grip is not one thing. It is three. The crush closes your hand against resistance. The support grip holds your fingers shut around a bar or a handle while something pulls. The pinch squeezes between thumb and fingers. Each job loads the same cables at different angles and speeds, which is why a man can hang for a minute and still fail a crush test, or crush hard and slip off a pinch. The crush is the purest of the three, because there is no bar to hook and no thumb trick to lean on. It is forearm, cable, finger, repeated. If your crush number is your weakest of the three grips, it is not a hand problem. It is an invitation: the closing system is the one your training has been skipping.",
+   "section": "THE HAND CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALL HANDS, MORE REPS"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "CABLE STROKES PER SESSION",
+     "pos": "br",
+     "text": "MORE REPS"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = MORE STROKES"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 16,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "And here is your advantage, because this test quietly favors the skinny guy. A tennis ball fits a smaller hand better, so every crush travels the full range instead of stalling halfway. Lighter forearms also clear the burn faster between efforts, which means more full-quality crushes inside every training minute. The big guy brings a bigger engine and a bigger fuel bill. You bring efficiency. Across a week of training, you will bank more clean cable strokes than he will, and strokes are the currency tendons grow on. Skinny is not the weakness in this test. Skinny is the repetition advantage.",
+   "section": "THE HAND CABLES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "check": 3,
+   "exercise": "BALL CRUSH HOLD",
+   "music": "drive",
+   "narration": "Now crush with me. Squeeze the ball flat and hold ten seconds. Fingers wrapped, thumb over the top, forearm burning. This is where the cables get built. Go.",
+   "rest": 20,
+   "rounds": 6,
+   "section": "THE HAND CABLES",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "3 SESSIONS / WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "FULL CRUSHES PER SET",
+     "pos": "br",
+     "text": "3 × 20"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "CHASING THE BURN DAILY"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 22,
+     "kind": "swap"
+    },
+    {
+     "at": 29,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SPREAD FINGERS BETWEEN SETS"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BALANCE BOTH SIDES OF THE CABLE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is your week. Three crush sessions, with a rest day between each, because cables rebuild on the days you leave them alone. Each session is three sets of twenty full crushes per hand, stopping two reps before your crushes start shrinking. Then finish with the ten-second holds you just did with me. Now the mistake almost everyone makes: training crush every day because the burn feels productive. The burn is the muscle complaining. The cable adapts in silence, over days, and daily grinding outruns its repair crew. Second rule: balance the cable. Between sets, spread your fingers wide against a rubber band or just against the air, hard. Your opening tendons are the brakes for your closing tendons, and balanced cables glide better than one-sided ones. Add two crushes per set each week. Small numbers, patiently stacked, are how a hand gets wired.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 15: UNWIRED, NOT WEAK"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Deep on rep one, deep on rep thirty.",
+      "That is the goal."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your crush number. Under fifteen: you are not weak, you are unwired. The closing system has simply never been trained as a system. Fifteen to twenty-five: the engine runs, and now the cables need the patience work. Over thirty-five: your hand tendons are genuinely trained, and that repeatable crush shows up everywhere, in jars, in carries, in every grip you own. Whatever your number is, it is a measurement of one trainable chain, not a grade on you. Drop your count in the comments, just the number. Retest in thirty days with the same ball, same rules, full crushes only, and watch what the cable does when somebody finally trains it on purpose.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "EVERY EPISODE",
+     "pos": "br",
+     "text": "1 TEST"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Same ball, same thirty seconds, thirty days from now: that is the retest. If this way of training makes sense to you, subscribe, because we test a new cable every episode. This is {channel}. Train the cable.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "crush grip",
+  "grip strength",
+  "hand strength",
+  "hand tendons",
+  "forearm training",
+  "tendon training",
+  "calisthenics"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_grip_squeeze.webp",
+  "big": "25 REPS",
+  "hook": "COUNT EVERY CRUSH"
+ },
+ "title": "Why Your hand tendons Matter More Than Muscle (The crush grip Episode)",
+ "v5": true
+}

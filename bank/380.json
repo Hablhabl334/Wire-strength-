@@ -1,0 +1,466 @@
+{
+ "id": "380",
+ "v5": true,
+ "title": "I Did hold a 3-minute plank Every Day for 30 Days (What Happened to My core nerves)",
+ "description": "A three-minute plank every day for thirty days. The plank is not really an ab exercise; it is a nerve drill that teaches your whole trunk to switch on and stay on, and the day-30 retest proves it. Take the day-zero test, learn what your core nerves are doing, follow the thirty-day plan, and compare your two times.",
+ "tags": [
+  "plank",
+  "plank challenge",
+  "core training",
+  "3 minute plank",
+  "30 day challenge",
+  "calisthenics",
+  "isometric training"
+ ],
+ "hashtags": [
+  "plank challenge",
+  "core workout",
+  "30 day challenge",
+  "plank",
+  "calisthenics",
+  "isometric training"
+ ],
+ "category": "experiments",
+ "badge": "EP 380 - 3-MINUTE PLANK",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_plank_hold.webp",
+  "big": "3 MIN",
+  "hook": "PLANK EVERY DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_plank_hold.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test. Forearms on the floor, elbows under your shoulders, body in one straight line from head to heels. Start the clock and hold until your hips sag or your back arches and you cannot pull it back. That time is your NUMBER. Write it down. In thirty days we run the same test, and I will show you what a daily plank did to the nerves that run your core. Keep your number close, and be honest about when the line broke. The plank you count is the plank with a straight line. Everything after that is just lying on the floor with extra steps.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "ONE STRAIGHT LINE",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "STOP WHEN THE LINE BREAKS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "One 3-minute plank daily.",
+      "30 days. One retest."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "HONEST TIME ONLY",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "3 MIN",
+   "label": "THE TARGET OF THIS EXPERIMENT",
+   "sub": "day 0 under 60 sec: untrained - 1 to 2 min: building - over 3 min: the goal",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Three minutes is the goal line. Under a minute on day zero, your core's wiring is untrained, and that is the normal starting point for a skinny guy who has never asked his trunk to hold a line. One to two minutes means the signal works but fades fast. Past three minutes with a straight back, your nervous system can keep the whole trunk switched on under fatigue, and that is a genuinely rare skill. Your day-zero time is the before picture. Thirty days of daily holds, then we take the after with the same rules and the same clock.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "3 MIN = THE GOAL LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "DAY 0",
+     "label": "YOUR BEFORE PICTURE",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "THE SIGNAL FADES FAST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Here is what a plank actually trains, and it is not what the mirror crowd thinks. Your core is not one muscle. It is a pressure system of deep muscles, front, sides and back, all wired to fire together to keep your spine stiff while you breathe. The plank is a NERVE drill. It teaches your brain to switch the whole system on at once and, this is the hard part, to keep it on as fatigue builds and the signal starts to flicker. When your hips sag at ninety seconds, your muscles are not empty. Your nervous system has started dropping the signal, muscle by muscle, like lights going out down a street. Thirty days of daily holds trains the lights to stay on. The muscles barely change. The WIRING changes completely.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A NERVE DRILL, NOT AN AB SHOW",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_plank_hold.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "WHY HIPS SAG",
+     "lines": [
+      "The signal drops, muscle by muscle.",
+      "The muscle was not empty."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "THE WHOLE SYSTEM AT ONCE",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "THE WIRING CHANGES",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_plank_sag.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Look at the sagging plank, because that picture explains the science. The moment the signal fades, the hips drop, the lower back takes the load, and the exercise stops training the core and starts billing the spine. Daily practice fixes this through a process called motor learning. Every clean hold rehearses the same recruitment pattern: diaphragm, deep abdominals, obliques, glutes, all braced as one unit. Rehearsed daily, the pattern gets cheaper for the brain to run, so it can run it longer. There is also a breathing skill hiding inside this experiment. A long plank forces you to breathe behind a brace, keeping pressure while air moves. That skill transfers to every lift you will ever do. The three-minute plank is not the goal. The goal is a trunk your brain can switch on like a light and leave on.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE SAG BILLS THE SPINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_plank_hold.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "MOTOR LEARNING",
+     "lines": [
+      "Same pattern, rehearsed daily.",
+      "Cheaper for the brain to run."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "PLANK TIME GROWTH",
+     "items": [
+      [
+       "DAY 0",
+       55,
+       "red"
+      ],
+      [
+       "DAY 30",
+       185,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "BREATHE BEHIND THE BRACE",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "ON LIKE A LIGHT",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_plank_hold.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "One more layer before the plan, because the plank has a silent partner nobody cues: your glutes. The muscles of your backside are the anchor of the whole position. Squeeze them and your pelvis locks, your lower back flattens into safety, and the deep core team gets a stable base to brace from. Let them sleep and your pelvis tips, your back arches, and the plank quietly becomes a lower back endurance test, which is why so many people feel planks in their spine instead of their stomach. In this experiment, every hold starts with the same ritual: toes dig, glutes squeeze, ribs pull down, then breathe. Four cues, two seconds, and the position transforms. If your day-zero plank was a back event, this ritual is your month in miniature. The retest will not just be longer. It will be happening in a different, safer place.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE SILENT PARTNER: GLUTES",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_plank_sag.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "THE TWO-SECOND RITUAL",
+     "lines": [
+      "Toes, glutes, ribs, breathe.",
+      "Then the hold begins."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "SLEEPING GLUTES BILL THE SPINE",
+     "pos": "tr"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "A SAFER PLACE TO HOLD",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_plank_hold.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage here is leverage, literally. A plank holds your bodyweight on your forearms and toes, and the load your core must stabilise scales with your mass. A lighter frame means the same three minutes costs your trunk less absolute force, so you can train it every day without the deep fatigue that makes heavy guys skip days. And this experiment is won or lost on attended days, because nerves learn by repetition, not by suffering. Your light frame also keeps the position honest: with less mass pulling your hips down, your day-zero time is a clean reading of your wiring, and your improvement will be pure signal. Thirty attended days of pure signal is exactly what this experiment is selling.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "LIGHT = CHEAPER HOLDS",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_plank_sag.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "NERVES LEARN BY REPETITION",
+     "lines": [
+      "Repetition, not suffering.",
+      "Attendance wins this one."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "30 ATTENDED DAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "PURE SIGNAL, CLEAN READING",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_plank_hold.webp",
+   "exercise": "PLANK",
+   "work": 45,
+   "rest": 15,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Plank with me. Four rounds. Straight line, glutes squeezed, breathe slow behind the brace. If your hips sag, drop, reset, and come back for the next round. Go."
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. The daily dose is three minutes of plank, however you earn it. Week one: accumulate three minutes in pieces, forty five seconds at a time if that is your level, with perfect position in every piece. Week two: longer pieces, fewer rests, and add a rule: every hold ends the second the line breaks, no sloppy extra seconds. Week three: aim for one unbroken hold of two minutes or more, then top up to three minutes total with one short finisher. Week four: chase the single unbroken three minutes, keep the position strict, and taper in the last three days to one easy minute. Day thirty: same floor, same rules, one max hold. The details that make or break this month: squeeze your glutes the whole time, because a plank without glutes is a back exercise. Push the floor away through your forearms. And film one hold a week from the side, because your hips will lie to you and the camera will not.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: 3 MINUTES IN PIECES",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "EVERY PIECE PERFECT",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: END WHEN THE LINE BREAKS",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE CAMERA DOES NOT LIE",
+     "lines": [
+      "Film one hold a week.",
+      "Your hips will lie to you."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "NO GLUTES = BACK EXERCISE",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: ONE MAX HOLD",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "3 MIN",
+     "label": "THE LINE TO CROSS",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_plank_hold.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same floor, same clock. Here is how to read it. If you went from under a minute to two or three, that is the standard result, and almost none of it is new muscle. It is your nervous system keeping the signal on, which is precisely what we trained. If you crossed three minutes with a straight line, your core wiring has levelled up in a way that will show in every other exercise you do. If your time stalled, check the honesty of your daily holds first: three minutes of sagging is practice at sagging. Quality of the daily signal decides the retest, every time. Put both numbers in the comments. Day zero and day thirty. Two times, one month apart, and the difference is your wiring, measured.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME FLOOR. SAME CLOCK.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_plank_sag.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "2 TO 3 MIN",
+     "label": "THE STANDARD RESULT",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "QUALITY DECIDES",
+     "lines": [
+      "Sagging practice teaches sagging.",
+      "Clean holds teach holding."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_plank_hold.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Three minutes a day, and your core learns to stay switched on. Keep the line straight, keep the days attended, and subscribe to run the next experiment with me. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "KEEP THE LINE STRAIGHT",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "ATTENDANCE IS EVERYTHING",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT EXPERIMENT SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

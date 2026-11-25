@@ -1,0 +1,377 @@
+{
+  "id": "363",
+  "v5": true,
+  "title": "A Skinny Guy Did dead hang for 30 Days (His grip tendons Changed)",
+  "description": "Thirty days of daily hanging from a bar, with a max hang test on day zero and day thirty. Get your dead hang time, learn how your grip tendons actually carry you, and see what a month of daily hangs does to the clock.",
+  "tags": [
+    "dead hang",
+    "30 day challenge",
+    "grip tendons",
+    "hang test",
+    "grip strength",
+    "calisthenics",
+    "tendon training"
+  ],
+  "hashtags": [
+    "dead hang",
+    "30 days",
+    "grip",
+    "calisthenics",
+    "experiment",
+    "hang test"
+  ],
+  "category": "experiments",
+  "badge": "EP 363 - 30 DAYS OF DEAD HANGS",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_hang_side_active.webp",
+    "big": "60 SEC",
+    "hook": "HANG EVERY DAY",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_hang_side_relaxed.webp",
+        "ren_hang_side_active.webp",
+        "ren_hang_side_tuck.webp"
+      ],
+      "cycle": 3.0,
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Grab a bar. | Hang from it. | Arms straight. | Feet off the ground. | Start your clock. | This is day zero. | Your max dead hang. | Hold until grip fails. | Note your seconds. | Write them down. | Most skinny guys | land under forty. | Some under twenty. | No shame in it. | For thirty days | our subject hangs daily. | Short sets, every day. | On day thirty | we run this test again. | Same bar. | Same rules. | Keep your seconds safe. | The clock is | the whole experiment.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY ZERO: MAX HANG",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "HOLD UNTIL GRIP FAILS",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "WRITE YOUR SECONDS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 19,
+          "kind": "fact",
+          "title": "THE WHOLE EXPERIMENT",
+          "lines": [
+            "Same bar on day thirty.",
+            "The clock decides."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "60 SEC",
+      "label": "THE TRAINED HANG LINE",
+      "sub": "under 30: normal day zero - 60: trained - 90+: elite grip",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Read your seconds against the line. Under thirty is a completely normal day zero for an untrained grip; your cables have simply never been asked this question. Thirty to sixty is a waking grip, the range of guys who climb, carry and train. Sixty seconds is the trained line, where a hang stops being a stunt and becomes a tool. Over ninety is elite territory, built by people who hang like it is their job. The experiment asks: what does thirty days of daily, submaximal hanging do to a normal day-zero number?",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "UNDER 30 = UNASKED CABLES",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "DAILY, NOT MAXIMAL",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "90+ SEC",
+          "label": "ELITE TERRITORY",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "Look at your hand on the bar and understand what is actually holding you. Your fingers contain almost no muscle. The engines live in your forearm, and they pull on long tendons that run through your wrist and into each finger, like cables through a conduit. When you hang, those cables carry your entire bodyweight, rep after second, and they are the true subject of this experiment. Grip tendons adapt the way all tendons do: slowly, and in response to sustained tension. A hang is nearly perfect tendon food, because the load is high, the position is still, and the time under tension is measured in seconds you can count. Muscle helps, of course; the forearm engines must pull the cables. But the guy whose hang doubles in a month has not doubled his forearm muscle. His cables got stiffer, his engines learned to fire together, and his hands learned the bar. That is a tendon story, not a bicep story.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "CABLES, NOT FINGERS",
+          "lines": [
+            "No muscle in the fingers.",
+            "The forearm pulls the cables."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "YOUR WHOLE WEIGHT, PER SECOND",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "WHAT IMPROVES IN 30 DAYS",
+          "items": [
+            [
+              "MUSCLE SIZE",
+              25,
+              "red"
+            ],
+            [
+              "TENDON + SKILL",
+              85,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "chip",
+          "text": "A TENDON STORY",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_finger_hang.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "Two supporting actors decide whether the tendons get their month of signals. The first is skin: your palms are part of the equipment, and they toughen noticeably across thirty days of daily bar contact, which is why week one hangs often end from palm complaints before grip failure. The second is friction management: dry hands, a knurled or taped bar, chalk if you have it. None of this is cheating; it is removing noise so the test measures grip, not slipperiness. And one rule protects the whole experiment: shoulders stay active, slightly engaged, never hanging off fully slack joints with the ears buried. A simple test tells you if you have it right: you should be able to shrug your shoulders up to your ears and lower them again while hanging, under control, at any point in any set. If you cannot, you are not hanging on muscle and tendon anymore; you are hanging on the joint itself. The hang trains cables and engines. It should never be a contest of who can stretch their shoulder joints the hardest. Respect those three, skin, friction, shoulders, and the thirty days run clean from start to finish.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "PALMS ARE EQUIPMENT",
+          "pos": "tr"
+        },
+        {
+          "at": 14,
+          "kind": "fact",
+          "title": "REMOVE THE NOISE",
+          "lines": [
+            "Dry hands, honest bar.",
+            "Test grip, not slipperiness."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "swap",
+          "asset": "ren_hang_side_active.webp"
+        },
+        {
+          "at": 35,
+          "kind": "mark",
+          "text": "SHOULDERS STAY ACTIVE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The protocol is built on one principle: hang often, hang fresh, almost never hang to failure. Take your day-zero max and cut it in half. That is your working set. Across the day, or in one short session, accumulate several of those half-max hangs with full rest between them. Week one, aim for about two total minutes of hanging a day. Build toward four or five minutes by week four, always stopping sets while the grip still feels strong. Once a week, and only once, retest the max to watch the number move. Why submaximal? Because tendons and skin recover slower than enthusiasm, and a daily practice dies the day it becomes a daily war. The guys who finish thirty-day hang experiments are not the toughest. They are the ones who never made any single day expensive. Frequency is the drug here. Dose it small and daily.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HALF YOUR MAX, OFTEN",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "stat",
+          "text": "2 \u2192 5 MIN",
+          "label": "DAILY TOTAL BY WEEK 4",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "ren_hang_side_tuck.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "NEVER A DAILY WAR",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "chip",
+          "text": "FREQUENCY IS THE DRUG",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_hang_side_relaxed.webp",
+      "exercise": "DEAD HANG",
+      "work": 30,
+      "rest": 30,
+      "rounds": 3,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Hang with me, protocol style. Three rounds: thirty seconds on the bar, thirty seconds down, shaking the hands out. Shoulders active, breathing slow. If thirty is beyond today's grip, drop early and re-grip; the clock keeps the honesty. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang_front.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The month unfolded in a predictable rhythm. Week one belonged to the skin: palms complained, and sets ended early for reasons that had nothing to do with grip. Week two, the hands toughened, the forearms stopped burning in the first ten seconds, and the weekly max test posted its first real jump. Week three was the tendon weeks' quiet work: same daily minutes, but each hang felt more owned, the body hanging stiller, the fingers needing less conscious squeezing as the cables took the load like professionals. Week four, the total daily time had doubled from week one without any single session feeling harder. That is the signature of this experiment: the capacity sneaks up. Nothing dramatic happens on any given day. Then the retest arrives and the clock says something dramatic happened anyway.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: THE SKIN",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: FIRST REAL JUMP",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_hang_side_active.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "THE SIGNATURE",
+          "lines": [
+            "Nothing dramatic daily.",
+            "Everything dramatic by day 30."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "CAPACITY SNEAKS UP",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_hang_side_active.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty, same bar, same rules, max hang. The pattern for an untrained guy who actually hangs daily is one of the most satisfying in this whole series: day-zero times in the twenties and thirties commonly become sixty, seventy, sometimes more, because so much of the early gain is the system learning, skin toughening and cables stiffening at once. Read your number: still under thirty after an honest month means your dose was too low or too warlike; adjust and run it again. Thirty to sixty, the cables are awake and the experiment worked. Past sixty, you own a trained grip, and the hang becomes a tool you can build pull-ups on. Put your seconds in the comments. Just the number. In thirty days, the clock will be waiting for you again.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "LEARNING + SKIN + CABLES",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 17,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "SAME BAR, SAME RULES",
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "COMMENT YOUR SECONDS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Thirty days of hanging taught one lesson: grip is not a talent, it is a cable system that answers daily questions. Ask it small questions every day and it gives big answers monthly. Retest in thirty days and bring me your seconds. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SMALL QUESTIONS DAILY",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+ "badge": "EP 302 - THE STEP NUMBER",
+ "category": "skinnyfat",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "FAT ENZYMES",
+  "THE VERDICT"
+ ],
+ "description": "Your phone already counted the most honest fat-loss number you own. Find your daily step average, learn what it says about your fat-burning enzymes, and why walking is the skinny-fat cheat code nobody respects.",
+ "hashtags": [
+  "daily steps",
+  "walking burns fat",
+  "skinny fat fix",
+  "body recomp",
+  "fat burning",
+  "calisthenics"
+ ],
+ "id": "302",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR PHONE ALREADY KNOWS"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "br",
+     "text": "7-DAY AVERAGE, NOT BEST DAY"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "The average never flatters you."
+     ],
+     "pos": "br",
+     "title": "THE HONEST NUMBER"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE YOUR AVERAGE DOWN"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Open your phone. | Health app. | Steps. | Last seven days. | Read the daily average. | Not your best day. | The honest average. | That number is yours. | Write it down. | Do not fix it. | Do not excuse it. | It already judged you. | At the end | I tell you | what it says | about your fat enzymes. | Most skinny-fat guys | have never looked.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "8,000 = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "UNDER 4,000 = STORAGE MODE"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "FAT-BURNING WIRED",
+     "pos": "tr",
+     "text": "10,000+"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE BACKGROUND BUILT THE BELLY"
+    }
+   ],
+   "big": "8,000",
+   "card": "bignum",
+   "check": 1,
+   "label": "STEPS WHERE FAT ENZYMES WAKE UP",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Around eight thousand steps a day is where your fat-burning machinery stops idling and starts working. Under four thousand, your body spends almost the whole day in storage mode, and no workout can outrun twenty-three hours of sitting. Between four and eight thousand, the machinery is half awake, and small additions pay off absurdly fast. Over ten thousand, you are running a quiet fat-burning background process that most dieters never build, and it never asks for willpower once it is a habit. Notice what this number is not. It is not a workout. It is the background of your entire day, and for a skinny-fat body, the background is where the belly was built in the first place.",
+   "section": "THE NUMBER",
+   "sub": "under 4,000: enzymes asleep - over 10,000: fat-burning wired",
+   "type": "card"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MEET THE GATEKEEPER: LPL"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Move often: fat gets burned.",
+      "Sit long: fat gets stored."
+     ],
+     "pos": "br",
+     "title": "THE ENZYME SWITCH"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NOT OVERFED. UNDER-MOVED."
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STEPS FIX THE ROSTER"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "1 HOUR ON, 23 HOURS OFF"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Inside your muscles sits an enzyme called lipoprotein lipase, and you can think of it as the gatekeeper of fat burning. When you move gently and often, this enzyme stays switched on, pulling fat out of your blood to be used as fuel. When you sit still for hours, the enzyme quietly switches off, and the same meal gets escorted into storage instead. This is not about burning calories in the simple sense. A long walk burns fewer calories than a hard workout, yet it keeps the gatekeeper on shift for hours afterward. Researchers who study sitting found the switch flips faster than anyone expected: long unbroken sitting turns fat handling down, and light walking turns it back up. Your step average is really a report on how many hours a day your gatekeeper worked. A skinny-fat body is usually not overfed. It is under-moved, with an enzyme that clocks in for one hour at the gym and clocks out for the other twenty-three. Steps fix the roster. That is the entire secret, and it is almost insultingly simple.",
+   "section": "FAT ENZYMES",
+   "type": "art"
+  },
+  {
+   "asset": "tibialis_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GENTLE WORK BURNS FAT DIRECTLY"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "DAILY WALK",
+       90,
+       "cyan"
+      ],
+      [
+       "CRASH CARDIO",
+       35,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FAT LOST PER WILLPOWER"
+    },
+    {
+     "asset": "ren_calf_raise_front.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO HUNGER REBOUND"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOUR SURPLUS IS SMALL AND DAILY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the part that makes walking a cheat code for light bodies specifically. Fat loss research keeps showing that low-intensity movement burns a higher percentage of fat directly, because the body can afford to use its slow fuel when the demand is gentle. Hard training burns more total energy but leans on stored sugar, and it makes you hungry enough to eat the difference back. Walking does the opposite trick: it spends fat quietly and barely touches your appetite. For a skinny-fat guy this is the perfect trade, because your problem was never a giant calorie surplus. Your surplus is small and daily, a few hundred calories parked on your waist by a body in storage mode. A daily walk deletes exactly that kind of surplus without triggering the hunger that defends it. Compare the two tools honestly and walking wins on the only metric that matters for you: fat lost per unit of willpower spent, repeated for a year without breaking.",
+   "section": "FAT ENZYMES",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR BELLY IS A ROUNDING ERROR"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Small daily surplus.",
+      "Small daily fix."
+     ],
+     "pos": "br",
+     "title": "THE SKINNY MATH"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOUR FINISH LINE IS CLOSE"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BORING WINS IN MONTH SIX"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the reframe nobody gives skinny guys. The heavy dieter has to create a huge deficit and fight a huge appetite, and his body defends every kilo. You are defending almost nothing. Your belly is a rounding error with good PR. A few thousand extra steps a day, held for a few months, is mathematically enough to erase it while your training builds muscle underneath. You do not need to suffer like a heavyweight cutting for a fight. You need to become slightly harder to keep still. The skinny advantage in fat loss is that your finish line is close, and close finish lines are the ones people actually cross. Respect the boring tool. The boring tool is the one still working in month six.",
+   "section": "FAT ENZYMES",
+   "type": "art"
+  },
+  {
+   "asset": "ankle_ligament_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TIMING IS A WEAPON"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Walk after eating.",
+      "Smaller spike, less storage."
+     ],
+     "pos": "br",
+     "title": "THE 10-MINUTE RULE"
+    },
+    {
+     "asset": "ren_toe_raise.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 MEALS = 30 FREE MINUTES"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "INTENTIONS DO NOT COUNT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One more layer, the timing layer, because when you walk matters almost as much as how much. A ten-minute walk after a meal blunts the blood sugar spike from that meal, and a smaller spike means a smaller insulin wave, and a smaller insulin wave means less of that meal gets the storage signal. Studies on post-meal walking show the effect is real and immediate, no fitness required. This is why some cultures walk after dinner by tradition and stay lean on food that would park itself on a sedentary waist. You can steal the whole trick tonight: eat, walk ten minutes, done. Stack that on three meals and you have thirty minutes of enzyme time placed exactly where it does the most damage to fat storage. Your step count is the scoreboard, but post-meal walks are the strategy. The number tells you if the strategy is actually happening in your real life, not in your intentions.",
+   "section": "FAT ENZYMES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "BRISK WALK INTERVALS",
+   "music": "drive",
+   "narration": "Walk with me. Five rounds. Sixty seconds brisk, fast enough that talking takes effort, then thirty seconds easy. This is the pace that switches the gatekeeper on. Go.",
+   "rest": 30,
+   "rounds": 5,
+   "section": "THE FIX",
+   "type": "timer",
+   "work": 60
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ADD 1,000. NOT 5,000."
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ANCHOR STEPS TO EXISTING HABITS"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BUILD A FLOOR, NOT A SPIKE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "WEEKEND HERO WALKS BACKFIRE"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOUR PHONE ALREADY COUNTS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your week plan is embarrassingly simple. Take your current average and add one thousand steps a day this week. Not five thousand. One. Anchor the new steps to things that already exist: a ten-minute walk after your biggest meal, calls taken standing and pacing, the longer route to anywhere you already go. Next week, add another thousand. You are building a floor, not chasing a spike, so a day only counts as a failure if it lands under your old average. The mistakes that kill this: weekend hero walks that leave you wrecked and sedentary for three days. Saving all your steps for one gym treadmill session while the other twenty-three hours stay seated. And buying a tracker you check for a week and then ignore, when your phone was already counting for free. The floor rises one thousand at a time until eight thousand feels like doing nothing, because one day it will.",
+   "section": "THE FIX",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE AVERAGE NEVER LIES"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "READ IT AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR AVERAGE"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO OPINION. JUST MATH."
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "THEN WE READ THE AVERAGE AGAIN",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your average. Under four thousand: your fat enzymes are asleep for most of the day, and that single fact explains more about your belly than your diet does. Four to eight thousand: the gatekeeper is waking up, and you are one anchored habit away from the line. Over eight thousand: your background is wired for fat burning, and if the belly is still there, we look at sleep and stress next, not at your feet. Put your seven-day average in the comments. Just the number. In thirty days we read the average again, and it will tell the truth about your fat-burning enzymes with no opinion involved.",
+   "section": "THE VERDICT",
+   "sub": "asleep / waking / wired - the average never lies",
+   "type": "card"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SCREENSHOT THE AVERAGE"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "RETEST DAY",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUBSCRIBE FOR THE NEXT TEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Screenshot today's average and keep it. Thirty days from now we read the new one, and the gap between them is the truest fat-loss progress you will ever measure. If this helped, subscribe for the next test. This is {channel}. Train the cable.",
+   "section": "THE VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "daily steps",
+  "walking for fat loss",
+  "skinny fat",
+  "fat burning enzymes",
+  "body recomposition",
+  "neat calories",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "8K STEPS",
+  "hook": "YOUR STEP NUMBER"
+ },
+ "title": "Your Daily Step Number Reveals the Truth About Your fat-burning enzymes",
+ "v5": true
+}

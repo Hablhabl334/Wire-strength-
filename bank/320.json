@@ -1,0 +1,444 @@
+{
+ "badge": "EP 320 - CHEST, DONE RIGHT",
+ "category": "skinnyfat",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "CHEST SIGNALS",
+  "THE VERDICT"
+ ],
+ "description": "Stop doing chest wrong: half reps, bouncing, shoulders stealing the paycheck. Retest your strict push-up number, then train your chest muscle signals instead with assigned tension, honest tempo and weekly progression.",
+ "hashtags": [
+  "chest done right",
+  "push up form",
+  "skinny fat fix",
+  "body recomp",
+  "chest signals",
+  "strict push ups"
+ ],
+ "id": "320",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE MINUTE. STRICT ONLY."
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FILM FROM THE FRONT"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Done right starts",
+      "with an honest count."
+     ],
+     "pos": "br",
+     "title": "THE HONEST COUNT"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE THE STRICT NUMBER DOWN"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO BOUNCE. NO SAG."
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Floor. Hands set. | Body one line. | One-minute timer. | Strict push-ups only. | Chest touches. | Full lockout. | No bounce. | No sagging. | Film from the front. | Count clean reps only. | That count is yours. | Write it down. | It may be lower. | Lower is honest. | At the end | I tell you | how done right works. | Your chest is listening.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "20 STRICT = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "25 SLOPPY < 18 STRICT"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "SIGNAL FULLY DELIVERED",
+     "pos": "tr",
+     "text": "25 STRICT"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DELIVERED REPS BUILD CHESTS"
+    }
+   ],
+   "big": "20 STRICT",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE, COUNTED THE DONE-RIGHT WAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The line is twenty, but counted the done-right way: every rep full range, braced, unhurried. Twenty strict reps deliver more chest signal than thirty theatrical ones, because the chest only grows from tension it personally receives. If today's honest count came in lower than your usual number, congratulations: you just found the gap where your progress was leaking. That gap is the most valuable measurement of your season so far, because it converts a vague plateau into a specific repair bill. Keep the strict number in front of you. Everything in this episode is about closing the gap between the reps you perform and the signal you deliver, until the two numbers are the same number.",
+   "section": "THE NUMBER",
+   "sub": "performed vs delivered - close the gap",
+   "type": "card"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE SIGNAL: ASSIGNED TENSION"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Form is an assignment sheet.",
+      "Every rep signs it."
+     ],
+     "pos": "br",
+     "title": "THE ASSIGNMENT"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SHOULDERS PACKED, LINE BRACED"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE CHEST GETS THE WHOLE CHECK"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PUSH THE FLOOR AWAY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Training chest muscle signals instead of doing chest exercises means one thing: assigned tension. Every press you perform is a paycheck, and form decides whose name is on it. Hands set slightly wider, shoulders packed down away from your ears, ribs braced, body in one line: that setup assigns the work to the chest before the first rep begins. Then tempo guards the assignment on the way down, two full seconds, no bounce at the bottom stealing the handoff. The cue that ties it together is pushing the floor away from you rather than lifting yourself up, which sounds like wordplay and changes the recruitment completely. Do this for a month and your push-ups become a different exercise that happens to look similar on camera. The count may start lower. The signal is incomparably higher, and the mirror grades signals, not choreography. One more check belongs in the template, at the very top of the rep. If your shoulders roll forward as you lock out, the last ten percent of every rep is being paid to the delts and the chest clocks out early on every single repetition. Finish the press with the chest tall and the shoulders still packed down, and you reclaim the ending of every rep you do for the rest of your life. Endings compound too.",
+   "section": "CHEST SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_back_top.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE DONE-RIGHT SET, ANATOMY OF"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "ASSIGNED + TEMPO",
+       92,
+       "cyan"
+      ],
+      [
+       "DEFAULT FORM",
+       44,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CHEST TENSION PER SET"
+    },
+    {
+     "asset": "ren_pushup_45_mid.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PAUSE AT THE BOTTOM. OWN IT."
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE STRETCH IS WHERE IT'S WRITTEN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Anatomy of one done-right set. You set the shoulders and brace before rep one, because assignments are made before work starts. You lower for two seconds into a genuine chest touch, pause a breath in the stretched position where the chest carries the most tension, then press the floor away to a full lockout without letting the shoulders roll forward to steal the ending. Eight to twelve reps performed this way will leave your chest more honestly worked than twenty-five default reps, and the next-day feeling will be located in a place your old sets never reached. That location is data. The chest finally attended its own workout. Build every set on this template for thirty days and the strict test number climbs on delivered signal alone, before any new strength even arrives. Tempo has one more gift to give the patient man. The slow negative is where a muscle experiences its highest forces at the lowest joint cost, which makes it the safest heavy signal a bodyweight athlete owns. Two seconds down is not a style preference. It is the cheapest load increase in your entire program, available on the very next rep, requiring no equipment, no partner and no gym.",
+   "section": "CHEST SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RELATIVE LOAD IS YOUR GIFT"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Your chest works near its limit",
+      "at bodyweight alone."
+     ],
+     "pos": "br",
+     "title": "THE RELATIVE EDGE"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NO GYM REQUIRED FOR FULL SIGNAL"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FLOOR + FORM = FULL ASSIGNMENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your advantage in the done-right system is relative load. A heavy man pressing his bodyweight is working at a moderate percentage of what his chest could handle with a barbell, so floor work underloads him. Your chest, on your frame, works near its genuine limit at bodyweight alone, which means the floor gives you a full signal with zero equipment and zero commute. Add the form assignment and the tempo, and a hallway becomes a complete chest program that a bigger man would need a gym to replicate. This is the recurring bargain of your build: you cannot bring the most load, so you bring the most honesty per rep, and honesty, compounded three times a week, builds the chest that load alone was supposed to build and did not.",
+   "section": "CHEST SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PROGRESSION: THE SIGNAL GROWS UP"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "lines": [
+      "One variable a week:",
+      "reps, pause, tempo, or height."
+     ],
+     "pos": "br",
+     "title": "THE LADDER"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FEET UP = THE NEXT RUNG"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BORING LADDER, VISIBLE CHEST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Progression is the second half of done right, because an assigned signal that never grows becomes background noise by week four. The ladder has four rungs and you climb one per week: add reps, lengthen the bottom pause, slow the negative further, or raise the feet to shift load toward the upper chest. Keep every other variable frozen while one climbs, and log the rung you are on, because a ladder you cannot see is a ladder you will stop climbing. Your joints and recovery, the light frame's usual gifts, let you climb almost weekly where heavier men stall monthly. In twelve weeks the ladder turns twenty strict reps into twenty strict reps with pauses and elevation that your first test would not have survived. Same exercise. Different signal. Different chest. The ladder is boring, and boring is what delivered means.",
+   "section": "CHEST SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "check": 3,
+   "exercise": "STRICT PUSH-UPS",
+   "music": "drive",
+   "narration": "Train with me, done-right rules. Four rounds, forty seconds, two seconds down, pause, press the floor away, twenty seconds of rest. Fewer reps. All delivered. Go.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "THE FIX",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FILM WEEKLY. GRADE THE ASSIGNMENT."
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ONE RUNG PER WEEK"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 SESSIONS, NEVER BACK-TO-BACK"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "DEFENDING THE OLD COUNT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ALL FOUR RUNGS AT ONCE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Installation week. Film one set from the front and grade the assignment before changing anything. Rebuild every working set on the template: packed shoulders, braced line, two-second lower, bottom pause, press the floor away. Choose this week's single rung and write it down. Three sessions, never back to back, protein anchored as always. The mistakes to retire: defending your old sloppy count like it was a title, when it was a leak. Climbing all four rungs at once until form collapses back to default. And skipping the film because you would rather not know, which is the one preference your chest cannot afford. Done right is a standard, not a suggestion, and standards are kept by men who check.",
+   "section": "THE FIX",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRICT NUMBERS ONLY FROM NOW"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "RETEST, FRONT VIEW",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR STRICT NUMBER"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE HONEST ONE"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "THEN WE RETEST THE STRICT WAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your strict number. Under twelve strict: your chest has been under-assigned for years, and the template plus the ladder is the fastest honest growth available to you. Twelve to twenty strict: the assignment is landing, keep climbing one rung a week. Over twenty strict with clean film: your chest is fully wired, and load, through elevation and pauses, is your whole remaining story. Put your strict number in the comments. Just the honest one. In thirty days we retest from the front, and a number built entirely of delivered reps will introduce a chest the sloppy count never could.",
+   "section": "THE VERDICT",
+   "sub": "under-assigned / landing / fully wired - strict decides",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP THE STRICT FOOTAGE"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "RETEST DAY",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUBSCRIBE FOR THE NEXT TEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Keep the strict footage next to the old footage and watch the difference once. Thirty days from now we film again, and the front view will grade your assignment better than any mirror. If this helped, subscribe for the next test. This is {channel}. Train the cable.",
+   "section": "THE VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "chest training",
+  "push up form",
+  "strict push ups",
+  "skinny fat",
+  "body recomposition",
+  "chest signals",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_mid.webp",
+  "big": "20 STRICT",
+  "hook": "CHEST DONE RIGHT"
+ },
+ "title": "Stop Doing skinny fat chest Wrong: Train Your chest muscle signals Instead",
+ "v5": true
+}

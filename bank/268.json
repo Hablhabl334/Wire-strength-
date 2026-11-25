@@ -1,0 +1,474 @@
+{
+ "id": "268",
+ "v5": true,
+ "title": "Stop Doing towel hangs Wrong: Train Your grip tendons Instead",
+ "description": "Wrapping the towel and maxing daily is the wrong way, and it is how pulleys get hurt. Here is the forty-five-second test, the honest-grip method that builds towel strength safely, and the progression rule that adds seconds instead of injuries.",
+ "tags": [
+  "towel hang method",
+  "towel grip endurance",
+  "grip tendons",
+  "pulley safety",
+  "towel training",
+  "calisthenics grip",
+  "finger tendons"
+ ],
+ "hashtags": [
+  "towel hang",
+  "towel method",
+  "grip tendons",
+  "pulley safety",
+  "calisthenics",
+  "finger strength"
+ ],
+ "category": "grip",
+ "badge": "EP 268 - TOWEL, DONE RIGHT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CABLES",
+  "THE RIGHT WAY"
+ ],
+ "thumb": {
+  "asset": "ren_finger_hang.webp",
+  "big": "45 SEC",
+  "hook": "STOP CHEATING THE CLOTH",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Drape a towel | over your bar. | Both sides even. | Grip high, near the bar. | One hand per side. | Lift your feet. | And start the clock. | No wrapping the towel | around your hands. | That is the cheat | we are here to kill. | Just pinch and hang. | Stay until you slip. | That time is your NUMBER. | The towel grip test. | Write the number down. | Last time we fixed | the five mistakes. | Today is the method. | The honest way | to build towel strength | without hurting your pulleys. | And what your seconds | say about your fingers.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "ONE TOWEL, ONE BAR",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "GRIP HIGH, NEAR THE BAR",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "45 SEC",
+     "label": "THE TARGET",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "REMEMBER YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "THE METHOD AHEAD",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "45 SEC",
+   "label": "THE FORTY-FIVE-SECOND LINE",
+   "sub": "under 15: untrained - 30+: building - 45: wired fingers",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. Forty-five seconds from a towel, honest grip, no wrapping. Under fifteen: finger tendons untrained for open-hand work. Fifteen to twenty-nine: waking up, slipping early. Thirty to forty-four: BUILDING, a grappler's grip in progress. Forty-five plus: WIRED fingers. The method question today is the one that keeps this test safe to chase: how do you progress a load that runs through the smallest pulleys in your hand? The answer is a progression rule measured in seconds and sessions, not in courage. Courage is how pulleys tear. Arithmetic is how they adapt.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "15 SEC = UNTRAINED",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "text": "30+",
+     "label": "GRAPPLER TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "ARITHMETIC, NOT COURAGE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The wrong way has two faces, and both are common. The first is the WRAP: towel wound around the hands until the fingers are passengers and the wrist does the holding. It produces beautiful times and zero finger adaptation, a forged score. The second face is the daily max: hanging to the slip every day, chasing the burn, while the finger pulleys, the little ligament rings holding your tendons to the bone, absorb peak loads with no recovery plan. Pulleys are the slowest-adapting tissue in this entire season. A method that ignores their calendar is not a method. It is a countdown. The towel itself is equipment, so treat it like equipment. A thick bath towel, washed but not softened to silk, grips best. Fabric softener is a lubricant in disguise, and a towel fresh from a softener wash can cost you ten seconds you did not lose. Keep one dedicated training towel, unsoftened, and your test stops depending on laundry day. It sounds fussy until you remember the rule of this whole channel: a test you cannot compare is a story, and stories do not build tendons.",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "THE WRAP AND THE DAILY MAX",
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    },
+    {
+     "at": 26,
+     "kind": "fact",
+     "title": "THE SLOWEST CALENDAR YOU OWN",
+     "lines": [
+      "Pulleys adapt slower than any muscle.",
+      "Peak loads daily is a countdown, not a plan."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 37,
+     "kind": "chip",
+     "text": "A FORGED SCORE BUILDS NOTHING",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The right way starts by making the grip honest and the load adjustable. Honest means: towel pinched in the fingers, palm open against the cloth, nothing wound around anything. Adjustable means your feet are the dial. Start with toe-assisted hangs, feet lightly on a box, taking twenty to thirty percent of your weight, and hang for sets of fifteen to twenty seconds. As the seconds get easy, lift the feet more, then fully, then for longer. You have built a dimmer switch for the exact load your pulleys receive, and dimmer switches are how fragile tissues become strong ones: gradually, measurably, boringly. There is a grip variant for later in your training life: the ONE-ARM towel hang. Same honest pinch, one side only, the free hand ready to catch. It doubles the load per hand and halves your time, and it is the natural final exam of this method once two-arm holds pass forty seconds. Do not rush to it. The pulleys vote on readiness through months of clean two-arm work, and their vote is the only one counted. When it comes, it will feel like a promotion, not a gamble.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "text": "FEET ARE THE DIMMER SWITCH",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "bars",
+     "title": "WHERE ADAPTATION COMES FROM",
+     "items": [
+      [
+       "ASSISTED SETS, PROGRESSED",
+       80,
+       "cyan"
+      ],
+      [
+       "DAILY MAX SLIPS",
+       25,
+       "red"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 22,
+     "kind": "stat",
+     "text": "15-20 SEC",
+     "label": "ASSISTED SETS",
+     "pos": "br"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "text": "GRADUALLY, MEASURABLY, BORINGLY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 40,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The progression rule itself fits in one sentence: add total weekly seconds, never daily heroics. Two or three towel sessions a week. Each session, aim to add about ten percent more total hanging time than the last, split across sets that end two seconds before the slip. Stopping before the slip is not cowardice; it is the whole technique, because the slip is where peak force spikes through tired fingers. Sets that end clean teach the pulleys load. Sets that end in a tear-out teach them trauma. Ten percent a week sounds slow until you compound it: in twelve weeks your weekly volume has tripled, and your test has moved from survival to ownership. Finally, log the assistance, not just the seconds. Write down how much your feet helped, honestly: full foot, toes only, one toe, none. The assistance column is where the real progression hides in the early weeks, because ten seconds with toes down and ten seconds floating are different universes wearing the same number. Men who log assistance watch themselves improve weekly. Men who log only seconds think they are stuck, and quit a method that was working.",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "ADD SECONDS, NOT HEROICS",
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "title": "STOP TWO SECONDS EARLY",
+     "lines": [
+      "The slip is where peak force spikes.",
+      "Clean endings teach load, not trauma."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 27,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 38,
+     "kind": "mark",
+     "text": "10 PERCENT, COMPOUNDED",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "And the safety rule rides on top of the method like a seatbelt. Learn the pulley's one polite warning: a tender spot at the base of a finger, sore to press, maybe stiff in the morning. That spot means the dimmer went up too fast. Drop the assistance back a level for a week and let it quiet down. If finger pain persists, or you ever feel a pop, stop and see a professional before loading it again; pulleys are small, and their repairs are slow. The right way is not the cautious way. It is the way that is still progressing in year two, while the heroes are rehabbing.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE ONE POLITE WARNING",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "title": "STILL PROGRESSING IN YEAR TWO",
+     "lines": [
+      "Tenderness means the dimmer moved too fast.",
+      "A pop means stop, full stop."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "swap",
+     "asset": "ren_hang_side_relaxed.webp"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "text": "HEROES REHAB, BUILDERS COMPOUND",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE RIGHT WAY",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now the skinny advantage. | Assisted hangs favour you. | Your full weight is lighter. | So your dimmer starts | closer to honest hanging. | Less assistance needed. | More quality sessions weekly. | Heavy fingers carry more | before training even starts. | Yours start fresh. | Fresh pulleys adapt faster. | And faster adaptation | is the whole game here. | Light is not a limit. | Light is load management | you were born with.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A LIGHTER STARTING LOAD",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "FRESH PULLEYS",
+     "label": "ADAPT FASTER",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "LOAD MANAGEMENT, BUILT IN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "text": "BORN WITH THE DIMMER SET RIGHT",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_relaxed.webp",
+   "exercise": "TOWEL HANG",
+   "work": 15,
+   "rest": 45,
+   "rounds": 4,
+   "section": "THE RIGHT WAY",
+   "check": 3,
+   "music": "drive",
+   "narration": "Hang with me, the right way. Fifteen seconds honest towel grip, feet helping if you need them, forty-five seconds rest, four rounds. Every set ends two seconds before the slip. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE RIGHT WAY",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So here is the right way, as a checklist. Honest grip only: pinched fingers, open palm, nothing wrapped, ever. Feet as the dimmer: assisted sets first, full hangs when the seconds are easy. Two or three sessions a week, total time up ten percent, sets ending before the slip. Thick towel, high grip, same setup every session so the numbers mean something. And the seatbelt rule: base-of-finger tenderness means a step back, and persistent pain or a pop means a professional, not a deload guess. Follow it and the towel stops being the test that humbles you. It becomes the tool that built the strongest fingers you own.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "HONEST GRIP ONLY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "WRAPPING AND DAILY MAXES",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "text": "FEET ARE THE DIMMER",
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "text": "END BEFORE THE SLIP",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "+10% WEEKLY",
+     "label": "THE PROGRESSION",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "section": "THE RIGHT WAY",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your seconds. Under fifteen: untrained finger tendons, and the assisted method will move you within weeks. Fifteen to twenty-nine: BUILDING, the open-hand system is learning. Thirty to forty-four: strong, a grip that holds what slides and keeps holding it. Forty-five plus: WIRED, towel-proof fingers with the logbook to prove it. Put your seconds in the comments, just the number. In thirty days we hang from the same towel again, honest grip, and the arithmetic will introduce itself.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "ARITHMETIC INTRODUCES ITSELF",
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE HANG AGAIN",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "YOUR VERDICT",
+     "lines": [
+      "Under 15: untrained, not weak.",
+      "Over 30: holds what slides."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COMMENT YOUR SECONDS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "section": "THE RIGHT WAY",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days of honest grips and ten-percent weeks, and the towel becomes your tool instead of your judge. Subscribe, because every week we test another cable the mirror cannot see. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "A NEW CABLE EVERY WEEK",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

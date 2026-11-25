@@ -1,0 +1,450 @@
+{
+ "badge": "EP 301 - THE CHEST TEST",
+ "category": "skinnyfat",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "CHEST SIGNALS",
+  "THE VERDICT"
+ ],
+ "description": "Sixty seconds, one set of push-ups, and your chest tells the truth your mirror hides. Learn what your number says about your chest muscle signals, why a skinny-fat chest stays flat, and the exact week plan that wakes the signal up.",
+ "hashtags": [
+  "push up test",
+  "skinny fat fix",
+  "chest day",
+  "body recomp",
+  "calisthenics",
+  "skinny guy"
+ ],
+ "id": "301",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE MINUTE. ONE SET."
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STRICT REPS ONLY"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "No mirror. No flex. Just reps."
+     ],
+     "pos": "br",
+     "title": "THE FLOOR IS THE JUDGE"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE YOUR NUMBER DOWN"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP IT FOR THE END"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Get on the floor. | Hands under shoulders. | Body in one line. | Set a one-minute timer. | Now do push-ups. | Strict reps only. | Chest touches the floor. | Arms fully lock out. | Stop when form breaks. | That count is yours. | Write it down. | Do not round it. | Do not excuse it. | At the end | I tell you | what your number means. | Most skinny-fat guys | are shocked by it.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "20 = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "UNDER 12 = ASLEEP, NOT BROKEN"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "CHEST IS WIRED",
+     "pos": "tr",
+     "text": "30+"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EVERY BAND IS FIXABLE"
+    }
+   ],
+   "big": "20 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN FLAT AND BUILDING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twenty strict push-ups in a minute is where a flat chest becomes a building one. Under twelve, your chest is not small because of bad luck. It is small because the signal to grow it has barely ever been sent. Between twelve and thirty, the wiring is half awake, and that is the best place to be, because half awake responds fast. Over thirty, your chest already receives a strong signal, and your problem is food and patience, not training. Every band on this list is fixable, and the fix starts with understanding what a muscle signal actually is.",
+   "section": "THE NUMBER",
+   "sub": "under 12: signal asleep - over 30: chest is wired",
+   "type": "card"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MUSCLE GROWS ON SIGNALS"
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Tension near the limit",
+      "is the growth instruction."
+     ],
+     "pos": "br",
+     "title": "THE SIGNAL RULE"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DELTS STEAL THE WORK"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE SILENCE IS THE PROBLEM"
+    },
+    {
+     "at": 31,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FAT ON TOP. SILENT UNDERNEATH."
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is what nobody told you about your chest. A muscle does not grow because you moved it. It grows because it received a SIGNAL, a chemical instruction that says: this load matters, build more contractile tissue here. That signal is strongest when muscle fibers are recruited under real tension, close to their limit, again and again. Your push-up number is a direct readout of that system. A low number means your chest fibers fatigue before the signal ever gets loud, because the fibers were never asked to work as one team. The nervous system fires them in the wrong order, the front delts steal the work, and the chest itself stays quiet. Skinny-fat is exactly this picture: a soft layer on top, and a silent muscle underneath. The fat is not the main problem. The silence is. Wake the signal, and the same chest starts using the food you already eat to build instead of store. That is the whole game of recomposition, and it starts in the chest because the chest is where most skinny-fat guys feel the lie every time they look down.",
+   "section": "CHEST SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WATCH THE SIGNAL, NOT THE SIZE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "LIGHT FRAME",
+       85,
+       "cyan"
+      ],
+      [
+       "HEAVY FRAME",
+       60,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SIGNAL PER SESSION"
+    },
+    {
+     "asset": "ren_pushup_front.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HARD SETS NEAR FAILURE"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HALF REPS = HALF SIGNALS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now compare two guys doing the same push-up. The bigger guy moves more total weight, so people assume his chest gets the better workout. But watch the signal, not the size. The light guy's chest works at a higher percentage of its own capacity on every single rep, because relative strength is where skinny bodies quietly win. His fibers recruit deeper, his signal saturates sooner, and he can repeat the session again in two days while the heavy guy is still sore. Training science keeps landing on the same point: muscle growth follows hard sets taken near failure, not the size of the body doing them. That is why two men can do the same program and the lighter one recomp faster in the first months. His advantage is recovery speed and signal density. The catch is that the advantage only pays if the reps are strict. Half reps send half signals. Chest to floor, full lockout, every rep a full sentence instead of a mumble. Your test number used strict form for exactly this reason: it measured the signal, not your ego.",
+   "section": "CHEST SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE WAR, NOT TWO"
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Beginners build muscle",
+      "and lose fat at once."
+     ],
+     "pos": "br",
+     "title": "THE RECOMP WINDOW"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NO BULK. NO CUT. SIGNALS."
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRUST THE NUMBER FIRST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "So here is your unfair advantage, stated plainly. A skinny-fat body is not a broken body. It is an untrained signaling system wearing a small fuel surplus. The big guy at the gym has to lose fat and build muscle in two separate wars. You fight one war, because your body can do both at the same time while the signals are new. New lifters and returning lifters recomp better than anyone else in the research, and a skinny-fat beginner is the purest case of it. Your chest does not need a bulk. It does not need a cut. It needs loud signals, enough protein to build with, and thirty days of honesty. The mirror will lag behind the number, it always does, so trust the number first.",
+   "section": "CHEST SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RECRUITMENT COMES FIRST"
+    },
+    {
+     "asset": "ren_pushup_back_top.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "lines": [
+      "Wiring first. Size second.",
+      "The mirror is last."
+     ],
+     "pos": "br",
+     "title": "THE ORDER OF CHANGE"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY REP IS A VOTE"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LOUD MUSCLE OUTBIDS FAT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One layer deeper, because this is the part that changes how you train forever. Before a muscle grows, the nervous system has to learn to use it. Coaches call this the mind-muscle connection, but the real name is recruitment: how many fibers your brain can switch on at once. In your first weeks of strict push-ups, most of your strength gain is recruitment, not new tissue. The signal gets louder because the wiring improves. That is why your test number can jump five reps in two weeks without your chest looking different yet. The wiring comes first, the size follows it like a shadow. It also explains the skinny-fat look better than any diet theory: your body stored energy because no muscle was asking for it loudly enough. Every strict rep you do is a vote that changes where tomorrow's breakfast goes. Partitioning is not magic. It is just a loud muscle outbidding quiet fat tissue for the same nutrients, day after day, until the mirror finally agrees with the number.",
+   "section": "CHEST SIGNALS",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "check": 3,
+   "exercise": "STRICT PUSH-UPS",
+   "music": "drive",
+   "narration": "Train with me. Four rounds. Forty seconds of strict push-ups, twenty seconds of rest. Chest to floor, full lockout, and stop a set if your form breaks. Go.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "THE FIX",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_pushup_45_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 SESSIONS A WEEK"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "70% SETS, ONE ALL-OUT SET"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ADD ONE REP PER SESSION"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BOUNCING REPS DELETE TENSION"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DAILY CHEST = BURIED SIGNAL"
+    },
+    {
+     "at": 29,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "DAILY MIRROR CHECKS LIE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is your week, simple enough that you cannot negotiate with it. Three push-up sessions, never on back-to-back days. Each session, do five sets at about seventy percent of your test number, resting two minutes between sets. If your test was twenty, that means sets of fourteen. On the last set only, go until strict form breaks, and write that number down too. Add one rep to one set every session, even if it feels too small to matter. Small additions are the entire system. Eat protein at every meal, sleep like it is part of the program, because for chest signals it is. The three mistakes that kill this plan: bouncing reps off the floor, which deletes the tension. Training the chest every single day, which buries the signal in fatigue. And checking the mirror daily, which measures water and light, not muscle. Judge this plan by one thing only: the retest number in thirty days.",
+   "section": "THE FIX",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ASLEEP = BEST DIAGNOSIS"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME FLOOR. SAME RULES."
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "THEN WE RETEST THE NUMBER",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under twelve: your chest signal is asleep, and asleep is the best diagnosis there is, because it means the ceiling is nowhere near. Twelve to thirty: you are building, and the next thirty days will move you faster than any month after it. Over thirty: your chest is wired, so stop blaming your training and audit your protein and your sleep instead. Whatever your band, put the number in the comments. Just the number. In thirty days we run this exact test again, same floor, same rules, and the new number will tell the truth about your chest signals better than any photograph.",
+   "section": "THE VERDICT",
+   "sub": "untrained / building / wired - your band can move",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE IT WHERE YOU SEE IT"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "RETEST DAY",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUBSCRIBE FOR THE NEXT TEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Write today's number where you will see it every morning. Thirty days from now we test again, and the number will tell us if the signal woke up. If this helped, subscribe for the next test. This is {channel}. Train the cable.",
+   "section": "THE VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "chest test",
+  "push up test",
+  "skinny fat",
+  "chest training",
+  "body recomposition",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_mid.webp",
+  "big": "20 REPS",
+  "hook": "YOUR CHEST NUMBER"
+ },
+ "title": "Your Chest Test Reveals the Truth About Your chest muscle signals",
+ "v5": true
+}

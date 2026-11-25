@@ -1,0 +1,462 @@
+{
+ "badge": "EP 327 - WAIST-TO-HEIGHT TEST",
+ "category": "skinnyfat",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE BELLY SIGNAL",
+  "YOUR VERDICT"
+ ],
+ "description": "Your scale weight can look perfectly normal while your belly quietly crosses the one line that matters. Here is the waist-to-height test, the 0.5 line your body actually cares about, and how recomp signaling moves the number without a crash diet.",
+ "hashtags": [
+  "skinny fat",
+  "belly fat",
+  "waist to height",
+  "recomp",
+  "flat belly",
+  "calisthenics"
+ ],
+ "id": "327",
+ "scenes": [
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TAPE AT THE BELLY BUTTON"
+    },
+    {
+     "at": 7,
+     "kind": "fact",
+     "lines": [
+      "Relaxed, breathing out.",
+      "Honest tape, honest number."
+     ],
+     "pos": "br",
+     "title": "NO SUCKING IN"
+    },
+    {
+     "asset": "ren_plank_hold.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WAIST DIVIDED BY HEIGHT"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 0,
+   "music": "dark",
+   "narration": "Stand up and find your waist. Not your belt line, not your trousers: your real waist, the soft midpoint between your lowest rib and the top of your hip bone, roughly at the belly button. Wrap a tape, a belt, even a phone cable marked against a ruler, around it, standing relaxed, breathing out gently, no sucking in, no pushing out. Write the number in centimeters. Now measure your height, honestly, no shoes, no optimism. Divide the waist by the height. If your waist is 84 and your height is 176, you get about 0.48. That small decimal is today's test result, and it describes a skinny fat body more truthfully than your weight ever has, because it compares the one measurement that grows with belly fat against the one measurement that never changes. Got your decimal? Keep it. At the end I will tell you which side of the line you are living on, and what moves you across it.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HALF YOUR HEIGHT: THE LINE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "WHERE THE BELLY TAKES OVER",
+     "pos": "br",
+     "text": "0.55"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PROPORTION BEATS WEIGHT"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Waist under half of height.",
+      "Simple enough to remember forever."
+     ],
+     "pos": "br",
+     "title": "ONE RULE, EVERY BODY"
+    }
+   ],
+   "big": "0.5",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE YOUR BODY ACTUALLY CARES ABOUT",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line: 0.5. Keep your waist under half your height and you are, by this measure, on the right side of the body's own accounting. It is a rule researchers have tested across ages, sexes and countries, and it keeps beating fancier measures because it is really a statement about proportion: the belly should never outgrow the frame built to carry it. Between 0.5 and 0.55 you are in the borderland, the classic skinny fat zone, normal weight, normal clothes, but a waist quietly claiming more than its share. Above 0.55 the belly is no longer a passenger; it is driving your hormones, your hunger and your energy. And below 0.45 on a light frame, the goal flips: you do not need less waist at any cost, you need more muscle everywhere else. Hold your decimal against the line. Now let me show you what that waist is actually made of, because it is not all the same fat, and the difference decides everything.",
+   "section": "THE NUMBER",
+   "sub": "under 0.5: waist in bounds - over 0.55: the belly is in charge",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO FATS, ONE WORD"
+    },
+    {
+     "asset": "hip_joint_plate.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "It signals all day long.",
+      "Blunting insulin, stirring storage."
+     ],
+     "pos": "br",
+     "title": "THE DEEP FAT TALKS"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TAPE READS THE SIGNAL"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PINCHABLE IS NOT THE PROBLEM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look closer at the belly, because two different tissues are hiding under one word. The fat you can pinch, just under the skin, is storage: quiet, patient, mostly harmless in reasonable amounts. The fat you cannot pinch lives deeper, packed around the organs, and it is not quiet at all. That deep fat behaves like an organ itself, releasing signals into the blood all day: signals that blunt insulin, stir inflammation, and tell the rest of the body to keep storing and stop building. This is why two men can share a weight and a waist size on paper yet be heading in opposite directions, and why the waist-to-height ratio works: as the deep fat grows, the waist grows with it, while height never moves. Your tape is not measuring vanity. It is taking a reading on the loudest signal source in a skinny fat body, the one that talks over your training, your protein and your sleep until you shrink it.",
+   "section": "THE BELLY SIGNAL",
+   "type": "art"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PARTITIONING: WHERE ENERGY GOES"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "NO SIGNALS",
+       30,
+       "red"
+      ],
+      [
+       "TRAINED + SLEPT",
+       75,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE A MEAL GOES"
+    },
+    {
+     "asset": "ren_plank_hold.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Tip the signals, the waist follows.",
+      "Each month partitions better."
+     ],
+     "pos": "tr",
+     "title": "THE TIPPING ENGINE"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE TAPE SEES IT FIRST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is where recomp signaling enters, and it is the hopeful part of this episode. Your body is constantly deciding where incoming energy goes: into muscle, into storage, or burned as heat. That decision is called partitioning, and it is not fixed. Training hard gives muscle a louder claim. Protein gives the building crew materials. Sleep lowers the stress signals that favor the belly. And every centimeter the deep fat shrinks, its storage signal gets quieter, so the next month of good behavior partitions better than the last. This is the real engine of recomp: not a diet you survive, but a signal balance you tip, week by week, until the same meals that once fed the belly start feeding the shoulders. Compare the two bodies at the same weight. One sends build signals three times a week and sleeps; the other skips meals, stresses and sits. The scale cannot tell them apart. The tape can, within a month, because partitioning always shows up at the waist first.",
+   "section": "THE BELLY SIGNAL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_sag.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CRASH-DIET TRAP"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SHRINKING EVERYTHING MOVES NOTHING"
+    },
+    {
+     "asset": "ren_forward_fold.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Waist down, muscle up.",
+      "Small deficit, kept for months."
+     ],
+     "pos": "tr",
+     "title": "THE REAL FORMULA"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NEVER START OVER AGAIN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the mistake almost every skinny fat man makes with this test in his hand: he sees 0.53 and declares war on food. He slashes calories, skips meals, and watches the waist drop for two weeks, thrilled, until he catches his reflection and sees the truth: the belly is smaller, but so is everything else, and the ratio barely moved because he shrank the frame along with the fat. Worse, the deep fat's signals adapt to famine by defending storage harder. This is the crash-diet loop, and it manufactures skinny fat bodies by the thousand. The ratio improves fastest not when you eat the least, but when the waist falls while muscle holds or grows, which requires the opposite of war: enough food to build, enough training to signal, and a small, patient energy deficit, the kind you could keep for six months without thinking about it. Slow is not the compromise here. Slow is the mechanism. The tape rewards the man who never has to start over.",
+   "section": "THE BELLY SIGNAL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEEP FAT LEAVES FIRST"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "CAN CHANGE EVERYTHING AT YOUR SIZE",
+     "pos": "br",
+     "text": "3 CM"
+    },
+    {
+     "asset": "ren_lsit.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Light frame, signal problem.",
+      "Signals can be retrained."
+     ],
+     "pos": "tr",
+     "title": "MOST FIXABLE COMPOSITION"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A PROGRESS BAR, NOT A VERDICT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is your advantage, and it is bigger than you think. The deep belly fat is, metabolically, the most eager fat on your body to leave. It is richly supplied with blood, densely wired with stress receptors, and it mobilizes earlier than the stubborn fat on hips or lower back. Researchers keep finding the same pattern: when a man starts training and sleeping properly, visceral fat often shrinks before the scale shows much at all, which is exactly why your tape will move in the first month while your weight sulks. The heavy man must lose twenty kilos to change his ratio. You might need three centimeters of waist and two kilos of muscle, a trade your body is unusually willing to make because you are not fighting decades of storage. Skinny fat is the most fixable composition there is, precisely because the frame is light and the problem is signaling, not capacity. Your decimal is not a verdict on your body. It is a progress bar on the most responsive fat you own.",
+   "section": "THE BELLY SIGNAL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "check": 3,
+   "exercise": "PLANK",
+   "music": "drive",
+   "narration": "Now brace with me. Plank: elbows down, ribs tucked, one straight line, breathing slow behind the brace. This is the belly learning to be a wall, not a hammock. Go.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "THE BELLY SIGNAL",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_lsit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MONDAY MORNING, SAME CONDITIONS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "MEASURING AFTER DINNER"
+    },
+    {
+     "asset": "ren_forward_fold.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SUCKING IN FOR THE TAPE"
+    },
+    {
+     "at": 25,
+     "kind": "fact",
+     "lines": [
+      "Trends, not days.",
+      "Small deficit, deep patience."
+     ],
+     "pos": "br",
+     "title": "JUDGE THE MONTH"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the protocol that moves the decimal, written for a man who will actually do it. Measure every Monday morning, after the bathroom, before food, same tape, same spot, and write it down where you cannot lose it. Train three hard full-body sessions a week, eat protein at every meal, and walk daily, because steps are the quiet deficit that never triggers famine signals. Sleep like it is part of the program, because it is. Now the mistakes, and they are all measurement mistakes in disguise. Measuring after dinner and panicking at a number that is mostly lunch. Sucking in for the tape and lying to the only honest instrument you own. And checking daily, then quitting on day nine because water and salt made the waist jump around like a stock price. The waist moves in trends, not days. Judge the month, keep the deficit small, and let the deep fat's signal fade on the schedule biology actually uses.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 0.5: BUILD EVERYWHERE ELSE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE MEASURE AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "asset": "ren_plank_hold.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "A coordinate, not a character.",
+      "Coordinates change when you move."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your decimal. Under 0.5: your waist is in bounds, and your project is building muscle everywhere else without letting the belly creep, the best starting position a light man can have. Between 0.5 and 0.55: you are in the borderland, the true skinny fat zone, and a focused season of signals will pull you under the line; most men like you need only a few centimeters. Above 0.55: the belly is currently driving, so the waist becomes the first project, still with training and protein, never with a crash diet, because muscle is the engine that keeps the fat off once it leaves. Whatever your decimal, it is a coordinate, not a character judgment, and coordinates change when you move. Put your number in the comments, just the decimal. We re-measure in thirty days, same Monday ritual, same honest tape.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WAIST UNDER HALF"
+    },
+    {
+     "asset": "ren_plank_hold.webp",
+     "at": 5,
+     "kind": "swap"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Same tape, same Monday, thirty days from now: that is the retest. If this way of training makes sense to you, subscribe, because we test a new signal every episode. This is {channel}. Train the cable.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "waist to height ratio",
+  "skinny fat belly",
+  "belly fat",
+  "body recomposition",
+  "waist measurement",
+  "visceral fat",
+  "skinny fat fix"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_forward_fold.webp",
+  "big": "0.5",
+  "hook": "YOUR BELLY NUMBER"
+ },
+ "title": "Stop Doing the skinny fat belly Wrong: Train Your recomp signaling Instead",
+ "v5": true
+}

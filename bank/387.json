@@ -1,0 +1,466 @@
+{
+ "id": "387",
+ "v5": true,
+ "title": "I Tested balance work for 30 Days (The Results Surprised Me)",
+ "description": "Thirty days of balance work, tested with the hardest honest version: eyes closed. This experiment adds the eyes-closed test on day zero and day thirty, and what changes in your ankle nerves when the visual crutch is removed might genuinely surprise you. Take the test, learn the mechanism, follow the plan, and compare your numbers.",
+ "tags": [
+  "balance work",
+  "eyes closed balance",
+  "ankle nerves",
+  "proprioception",
+  "30 day challenge",
+  "balance test",
+  "single leg balance"
+ ],
+ "hashtags": [
+  "balance training",
+  "proprioception",
+  "30 day challenge",
+  "single leg",
+  "ankle stability",
+  "balance test"
+ ],
+ "category": "experiments",
+ "badge": "EP 387 - BALANCE, TESTED",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_balance_test.webp",
+  "big": "30 DAYS",
+  "hook": "BALANCE TESTED",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test, and this version has a twist. Stand on one leg near a wall, fold your arms, get steady, and then close your eyes. The clock starts when your eyes close and ends when you step, hop, grab the wall or open them. That time is your NUMBER. Test both legs and write down the worse one. In thirty days we run the same test and I will show you what daily balance work rebuilt in your ankles while your eyes were off duty. Keep your number close. For most people this number is shockingly small, and the shock is the most useful part of the test.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: EYES CLOSED",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "CLOCK STARTS AT CLOSED",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "WRITE DOWN THE WORSE LEG",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Balance work daily.",
+      "30 days. Eyes-closed retest."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "SHOCKINGLY SMALL IS NORMAL",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR TIME",
+   "label": "YOUR DAY-ZERO EYES-CLOSED NUMBER",
+   "sub": "under 3 sec: untrained - 5 to 10 sec: building - over 15 sec: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Under three seconds is where most adults live in the eyes-closed test, even athletic ones, and it reveals something important: your balance was mostly your EYES. Take vision away and the ankle system has to run the show alone, and an untrained ankle system is slow. Five to ten seconds means the ankle sensors and nerves are awake and learning. Over fifteen seconds with eyes closed, your proprioception is genuinely wired, a skill that protects you in the dark, on trails, and on every uneven pavement of your life. Your day-zero number is the baseline reading of the ankle system working solo. Thirty days, then we read it again.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "BALANCE WAS MOSTLY EYES",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "15+ SEC",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "THE ANKLE WORKS SOLO",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ankle_ligament_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the ankle again, because removing your eyes changes its job completely. Your balance runs on three information channels: vision, the inner ear, and PROPRIOCEPTION, the position sensors inside your ankle ligaments and muscles. With eyes open, the brain lazily leans on vision for most of the work. Close your eyes and the brain must suddenly trust the ankle channel, and if that channel is noisy and slow, you fall in two seconds. Daily single-leg practice, especially with eyes closed for parts of it, trains that channel directly. The sensors get sampled more, the nerve pathways get faster, and the small correcting muscles around the ankle learn to fire earlier and smaller. You are not building strength here. You are upgrading a communication network, and networks can upgrade astonishingly fast.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THREE CHANNELS OF BALANCE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_balance_test.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE LAZY BRAIN",
+     "lines": [
+      "Vision does most of the work.",
+      "Until you close your eyes."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "A COMMUNICATION NETWORK",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "NETWORKS UPGRADE FAST",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "What surprised me in this test is the size of the change, and the science explains it. Balance is a prediction problem. Your brain constantly predicts where your body is drifting and pre-loads corrections. With daily practice, the predictions get accurate, so corrections shrink from desperate hops to invisible ankle adjustments. Researchers call the ankle strategy the first line of defence, and training studies consistently show single-leg practice improving eyes-closed balance dramatically in weeks, because the limiting factor was never muscle. It was information quality. There is a second, quieter adaptation: your nervous system learns to weight the three channels by reliability, trusting the ankle more and panicking less when vision disappears. That reweighting is why the skill transfers to the dark, to looking over your shoulder while walking, to real life. The retest measures the reweighting in seconds.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A PREDICTION PROBLEM",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_toe_raise.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "INFORMATION QUALITY",
+     "lines": [
+      "The limit was never muscle.",
+      "It was the signal."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "EYES-CLOSED GROWTH",
+     "items": [
+      [
+       "DAY 0",
+       3,
+       "red"
+      ],
+      [
+       "DAY 30",
+       22,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "CORRECTIONS GO INVISIBLE",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "THE RETEST MEASURES TRUST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_toe_raise.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "One more layer before the plan, because the second balance channel deserves its moment: your inner ear. Deep in each ear sits the vestibular system, a set of tiny fluid-filled loops that sense head movement and tilt. When you stand still with eyes open, it barely works. When you turn your head, walk in the dark or ride a bus while reading, it becomes the star. Balance training that never moves the head leaves this channel untrained, which is why some people pass the standing test and still get dizzy on stairs. This month, once your basic stand is solid, the head turns in the protocol are not decoration. They are vestibular training, teaching the brain to keep its balance while the head, and its sensors, are in motion. A complete balance system is three channels deep, and by day thirty, yours will have trained all three.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE SECOND CHANNEL: INNER EAR",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_balance_test.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "HEAD TURNS ARE TRAINING",
+     "lines": [
+      "The vestibular system wakes up.",
+      "When the head moves."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "THREE CHANNELS DEEP",
+     "pos": "tr"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "NO MORE DIZZY ON STAIRS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage in this test is about error size. When a light body tips on one ankle, the tip is slow and the correction needed is small, so your practice stays inside the learning zone instead of becoming a series of emergency saves. Heavy beginners spend their eyes-closed seconds hopping, and hopping teaches hopping. You spend yours actually balancing, stacking quality seconds while the network rewires. There is also a confidence edge that matters more than it sounds: because your falls are gentle and your corrections are cheap, you will actually do the scary version, eyes closed, every day. The guy who skips the hard version trains the easy skill. You will train the real one, thirty days straight.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SMALL ERRORS, DEEP LEARNING",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_toe_raise.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "HOPPING TEACHES HOPPING",
+     "lines": [
+      "Emergencies are not practice.",
+      "Quality seconds rewire."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "YOU WILL DO THE SCARY VERSION",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "CHEAP CORRECTIONS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_balance_test.webp",
+   "exercise": "SINGLE-LEG STAND",
+   "work": 45,
+   "rest": 15,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Balance with me. Four rounds, alternating legs, and in the last ten seconds of each round, close your eyes if you are near support. Small corrections, tall posture. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_toe_raise.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. Five minutes a day, both legs, near a wall. Week one: eyes open only, folded arms, and finish every hold by closing your eyes for just the final three seconds, a safe taste of the test. Week two: eyes-closed holds become a real part of practice, ten to fifteen seconds at a time, fingertips near the wall but not touching. Week three: add movement with eyes open, slow head turns, reaching the free leg around the clock, then repeat your best position with eyes closed. Week four: practise at your edge, keep the total at five honest minutes, and taper in the last three days to easy eyes-open stands. Day thirty: the test, eyes closed, worse leg, one max time. The rules are simple and strict: always near support, never on anything raised or soft for the eyes-closed work, and open your eyes the instant you truly lose it, because a caught fall teaches nothing and an injury teaches you to stop.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: 3 CLOSED SECONDS",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "NEAR A WALL, ALWAYS",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: REAL CLOSED HOLDS",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "OPEN WHEN YOU LOSE IT",
+     "lines": [
+      "A caught fall teaches nothing.",
+      "Safety is the protocol."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "NEVER RAISED OR SOFT",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: WORSE LEG, EYES CLOSED",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "15 SEC",
+     "label": "THE WIRED LINE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Eyes closed, worse leg, one max time. Here is how it usually reads, and why people are surprised. The typical result is a five to eight fold jump: three seconds becomes fifteen or twenty, because the system you trained was information, and information upgrades fast. If you crossed fifteen seconds, your ankles can now run your balance without visual help, a skill you will use every night walk and every dark staircase for decades. If your gain was smaller, check the honesty of your practice: eyes-open-only training improves the eyes-closed test only a little, because you trained the wrong channel. The test rewards the specific skill you practise. Put both numbers in the comments, day zero and day thirty. Two tiny numbers, and between them, a rebuilt reflex you cannot see in any mirror.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "EYES CLOSED. WORSE LEG.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_toe_raise.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "5X TO 8X",
+     "label": "THE USUAL JUMP",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "TRAIN THE CHANNEL TESTED",
+     "lines": [
+      "Eyes-open practice.",
+      "Barely moves this test."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days of standing still, and your ankles become the fastest alarm system you own. Keep a little balance work in your week, and subscribe to run the next test with me. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "STANDING STILL, ADAPTING FAST",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "YOUR FASTEST ALARM",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

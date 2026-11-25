@@ -1,0 +1,368 @@
+{
+  "id": "373",
+  "v5": true,
+  "title": "I Did do 100 calf raises Every Day for 30 Days (What Happened to My Achilles tendon)",
+  "description": "Not heavy, not complicated: one hundred calf raises, every day, for thirty days, three thousand in total. Baseline single-leg test on day zero, retest on day thirty, and an honest verdict on what the volume road does to the Achilles that the heavy road does not.",
+  "tags": [
+    "100 calf raises",
+    "30 day challenge",
+    "achilles tendon",
+    "calf volume",
+    "calf raises daily",
+    "calisthenics",
+    "calf test"
+  ],
+  "hashtags": [
+    "100 a day",
+    "30 days",
+    "calf raises",
+    "calisthenics",
+    "experiment",
+    "achilles"
+  ],
+  "category": "experiments",
+  "badge": "EP 373 - 100 CALF RAISES A DAY",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_calf_raise_front.webp",
+    "big": "100 / DAY",
+    "hook": "EVERY SINGLE DAY",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_calf_raise_front.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Before the hundred-a-day month begins, the baseline. Single leg, edge of a step, slow tempo, full range: rise high, lower below the step, count the clean reps on each leg until the height dies. Your number is the weaker leg, as always in this series. Write it down. Now the experiment, and it is a different animal from the heavy calf work earlier this season. No backpack, no slow-motion heroics as the main event. Just one hundred calf raises a day, every day, for thirty days: three thousand reps, spread however life allows. The question is not whether volume does something. Three thousand of anything does something. The question is what it does to the Achilles tendon and the test number, and how it compares to the heavy, slow road. Day thirty will grade it. Keep your weaker number somewhere the month cannot lose it.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WEAKER LEG, AS ALWAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "3,000 REPS",
+          "label": "THE MONTH IN ONE NUMBER",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "ren_calf_raise.webp"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "VOLUME VS HEAVY: THE QUESTION",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "100 / DAY",
+      "label": "THE VOLUME QUESTION",
+      "sub": "not how heavy - how much, how often",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Frame the bet properly. The heavy road says tendons listen to strain: load them hard and slow, a few times a week, and rest between lessons. The volume road says something else: that three thousand reps of blood flow, burn and daily practice will remodel the system its own way, through capacity and repetition rather than peak strain. Both roads have believers. This experiment is thirty days of the second road, taken seriously: full range, honest tempo, every single day, with the single-leg test as the judge that cannot be argued with. Whatever the verdict, it will be earned.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "TWO ROADS, ONE JUDGE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "CAPACITY, NOT PEAK STRAIN",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "stat",
+          "text": "3,000",
+          "label": "REPS WILL BE COUNTED",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "achilles_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "The Achilles tendon under a volume regime lives a different life than under heavy loading. Each calf raise cycles the tendon through its working range, squeezing and releasing it like a pump, and that pumping matters: tendons have modest blood supply, and repeated movement is one of the ways nutrients move through the tissue. A hundred reps a day is a hundred daily reminders to the calf muscles, too, and muscle endurance is where volume speaks most fluently: the fibres that resist fatigue multiply their stamina, the burn arrives later each week, and the movement pattern grooves itself into the nervous system until a set of twenty-five costs what a set of ten used to. But honesty is this channel's house rule: peak tendon strain, the signal that most strongly drives tendon stiffness, is modest in bodyweight volume work. The volume road is real. It is just paved differently, and the retest will show exactly which qualities it bought and which it did not.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "THE PUMP EFFECT",
+          "lines": [
+            "Every rep squeezes the cable.",
+            "Movement feeds the tissue."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_eccentric_drop.webp"
+        },
+        {
+          "at": 17,
+          "kind": "chip",
+          "text": "ENDURANCE IS VOLUME'S LANGUAGE",
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "bars",
+          "title": "WHAT EACH ROAD BUYS",
+          "items": [
+            [
+              "VOLUME: CAPACITY",
+              85,
+              "cyan"
+            ],
+            [
+              "HEAVY: PEAK STRAIN",
+              90,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "chip",
+          "text": "PAVED DIFFERENTLY",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_achilles_profile.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "There is a hidden curriculum in a hundred-a-day that no one warns you about: the experiment is secretly a habit test wearing a calf costume. One hundred reps sounds trivial on day one and feels very different on day eleven, in a hotel room, in the rain of a bad week, when the streak is the only coach you have. The guys who finish volume months are not the ones with the best calves. They are the ones who built delivery systems: sets attached to kettle boils, to showers, to brushing teeth, twenty-five here, fifty there, the reps dissolving into the day's furniture. And the body keeps its own ledger regardless: by week three, most daily-hundred trainees report the same trio: stairs feel springier, the morning Achilles stiffness of week one is gone, and single-leg balance quietly improves, because a calf that works three thousand times learns its job description by heart.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "A HABIT TEST IN DISGUISE",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "fact",
+          "title": "DELIVERY SYSTEMS",
+          "lines": [
+            "Sets attached to life.",
+            "Kettles, showers, stairs."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "achilles_anatomy_plate.webp"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "THE BODY KEEPS THE LEDGER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The rules of the hundred. One hundred total reps per day, split between the legs however you like, though fifty-fifty is the honest default. Sets of fifteen to twenty-five, spread across the day or in one session, always full range: heels dropping below the step on the way down, full height at the top. Tempo is controlled, never bounced; a bounced rep is a rep the Achilles' spring did for free, and free reps do not count toward the hundred in this experiment's ledger. Two days a week are slower days by design: the hundred performed at the funeral tempo of the heavy road, three seconds up, three down, so the month still whispers to the tendon in its favourite language. And the stop rule that outranks the streak: sharp Achilles pain ends the day, full stop. A streak is a tool. The tendon is the treasure. Never trade the treasure for the tool.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "100 TOTAL, 50/50 DEFAULT",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "NO BOUNCED REPS COUNT",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_calf_raise_front.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "SHARP PAIN ENDS THE DAY",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "stat",
+          "text": "2 DAYS",
+          "label": "SLOW TEMPO, WEEKLY",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_eccentric_drop.webp",
+      "exercise": "SLOW CALF RAISES",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Bank today's quality reps with me. Three rounds: forty seconds of slow calf raises, three seconds up, three seconds down, twenty seconds to switch legs and breathe. Full range off the step edge. These are the reps the tendon counts double. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_eccentric_drop.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The month, honestly logged. Week one was a calf apocalypse: soreness in places soreness had never visited, and the hundred felt like a debt collected four times a day. Week two, the debt shrank: the same hundred fit into the day's cracks, and the burn, the volume trainee's constant companion, started arriving later in every set. Week three delivered the volume road's signature gift: capacity. Sets of twenty-five became warm-ups, stairs became springs, and the calves looked, for the first time, like muscles that had a job. Week four was accounting: twenty-nine hundred reps banked, one day left, and a body that now considered a hundred calf raises to be weather, not an event. Whether the tendon itself transformed is a question only the test can answer, and the test was waiting on the same step where the month began.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: THE APOCALYPSE",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "WEEK 3: CAPACITY ARRIVES",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "ren_calf_raise.webp"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "FROM EVENT TO WEATHER",
+          "lines": [
+            "The hundred became",
+            "just part of the day."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "2,900 BANKED, 1 DAY LEFT",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_achilles_profile.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty: single leg, slow tempo, weaker side on trial. The pattern for the volume road: the test number climbs respectably, typically by a third to a half, driven by endurance and groove more than by raw tendon strain, and the quality of the reps changes even more: full height held longer, lowering controlled to the last centimetre. The honest verdict, road against road: for pure tendon stiffness and top-end strength, the heavy slow road still wins. For capacity, habit, springiness in daily life, and a calf that never gets tired, the hundred-a-day road is genuinely excellent, and the two roads combine beautifully in a real program. Read your number: a big climb means your calves were capacity-starved, and volume was your missing food. A small climb with great endurance means your next month belongs to the heavy road. Put your weaker-leg number in the comments. Just the number.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "ENDURANCE + GROOVE GAINS",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_calf_raise_front.webp"
+        },
+        {
+          "at": 20,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "SAME STEP, WEAKER LEG",
+          "pos": "br"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "COMMENT YOUR WEAKER NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Three thousand reps taught their lesson: volume builds the engine's stamina and the habit's spine, even if heavy load remains the tendon's favourite teacher. The smart program marries both roads. Keep one of them running and your Achilles keeps its education. Retest in thirty days and bring me the weaker number. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "MARRY BOTH ROADS",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

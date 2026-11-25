@@ -1,0 +1,466 @@
+{
+ "id": "379",
+ "v5": true,
+ "title": "I Did hold a 2-minute wall sit Every Day for 30 Days (What Happened to My knee tendons)",
+ "description": "A two-minute wall sit every day for thirty days, aimed straight at the knee tendons. Isometric holds are the quiet way to load a tendon without grinding the joint, and the day-30 retest shows what a month of daily holds does to your wall sit time. Take the test, learn the mechanism, follow the plan, and compare your numbers.",
+ "tags": [
+  "wall sit",
+  "knee tendon",
+  "isometric training",
+  "wall sit challenge",
+  "30 day challenge",
+  "quad strength",
+  "calisthenics"
+ ],
+ "hashtags": [
+  "wall sit",
+  "isometric training",
+  "30 day challenge",
+  "knee strength",
+  "calisthenics",
+  "leg workout"
+ ],
+ "category": "experiments",
+ "badge": "EP 379 - 2-MINUTE WALL SIT",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_wall_sit.webp",
+  "big": "2 MIN",
+  "hook": "WALL SIT EVERY DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test. Back flat against a wall, slide down until your knees and hips sit at right angles, feet flat, arms off your thighs. Start the clock and hold until you slide or stand. That time is your NUMBER. Write it down, because in thirty days we run the exact same test and I will show you what a daily two-minute hold did to the tendons above your knees. Keep your number close. Most people are shocked by how short day zero is, and that shock is the point. The wall does not negotiate.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "KNEES AT RIGHT ANGLES",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "ARMS OFF YOUR THIGHS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "One 2-minute hold daily.",
+      "30 days. One retest."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THE WALL DOES NOT NEGOTIATE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "2 MIN",
+   "label": "THE TARGET OF THIS EXPERIMENT",
+   "sub": "day 0 under 45 sec: untrained - 1 to 2 min: building - over 2 min: the goal",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Two minutes is the goal line of this experiment. Under forty five seconds on day zero, the tendon system above your knee is untrained, which is normal and completely fixable. Between one and two minutes, you are building, and this month will feel hard in the best way. If you already hold past two minutes, the experiment shifts: same hold, slower breathing, deeper control. Your day-zero time is the before picture. Thirty daily holds later, we take the after, same wall, same rules, same clock.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "2 MIN = THE GOAL LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "DAY 0",
+     "label": "YOUR BEFORE PICTURE",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "UNTRAINED IS FIXABLE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the knee, because the wall sit is a tendon exercise wearing a leg exercise costume. When you hold the sit, your quadriceps pull on the patellar tendon, the thick cable that runs from your kneecap down to your shin. That cable takes the entire load of holding you against gravity, and in an isometric hold it takes it without the joint grinding back and forth. This is exactly the kind of load tendons respond to: HEAVY, STEADY, and LONG. Under sustained tension the collagen in the patellar tendon aligns and stiffens, and the quad learns to keep firing as the burn builds. A stiffer patellar tendon means force leaves your leg faster and the knee feels more solid under you. That is what two minutes a day is really buying.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A TENDON EXERCISE IN DISGUISE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_wall_sit_front.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "TENDONS LOVE THIS LOAD",
+     "lines": [
+      "Heavy. Steady. Long.",
+      "No joint grinding."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE PATELLAR CABLE",
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "STIFFER CABLE, SOLID KNEE",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Isometric holds have a second trick that matters for skinny guys: they are famous in tendon research for calming irritated tendons while they strengthen them. A long, steady hold gives the tendon a clear mechanical signal and gives the nervous system time to turn the pain volume down. That is why physios reach for wall sits and Spanish squats when a knee complains. But the bigger story for you is ENDURANCE OF THE CABLE. Your wall sit time is limited less by muscle size than by how long the tendon and nerve can keep the quad switched on under tension. Daily holds train exactly that: the signal stays on longer before it flickers. Thirty days of asking the system to stay on, and it learns to stay on. The clock at the retest is simply measuring how long the signal lasts now.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "HOLDS CALM AND STRENGTHEN",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_horse_stance.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE REAL LIMIT",
+     "lines": [
+      "Not muscle size.",
+      "How long the signal stays on."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "WALL SIT GROWTH",
+     "items": [
+      [
+       "DAY 0",
+       40,
+       "red"
+      ],
+      [
+       "DAY 30",
+       130,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "THE SIGNAL STAYS ON LONGER",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "THE CLOCK MEASURES THE SIGNAL",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "One more layer before the plan, because the wall sit has a mental game hiding inside the physical one. The burn arrives in waves, and each wave brings the same negotiation: stand up now and it stops. The people who double their time in this month are not tougher. They are better negotiators. They breathe out slowly when the wave peaks, because a long exhale tells the nervous system the situation is safe, and a safe system keeps the quads switched on longer. They also unclench everything that is not working: jaw, fists, shoulders. Tension is a budget, and every clenched muscle spends signal your quads needed. And they watch a fixed point, not the clock, because clock watching makes seconds longer. Learn the negotiation in week one and the tendon work of the month happens on a calm mind. The wall rewards the calm.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE BURN COMES IN WAVES",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_horse_stance.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "EXHALE THROUGH THE PEAK",
+     "lines": [
+      "Long exhales calm the system.",
+      "Calm systems hold longer."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "UNCLENCH WHAT IS NOT WORKING",
+     "pos": "tr"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "THE WALL REWARDS THE CALM",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Now the skinny advantage, and it is a real one. The wall sit loads you with your own bodyweight and nothing else. A lighter body means less absolute force through the knee, which means you can hold the position daily without beating the joint up. The heavy guy's wall sit experiment usually dies in week two, killed by cranky knees. Yours survives all thirty days, and survival is the entire mechanism here, because tendon adaptation is paid out in attended sessions, not heroic ones. Being light also means your day-zero number is mostly about the tendon and the nerve, not about hauling mass. Your improvement will be clean, fast, and easy to read at the retest.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "LIGHT = SURVIVABLE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_wall_sit.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "PAID IN ATTENDANCE",
+     "lines": [
+      "Attended sessions adapt tendons.",
+      "Heroic ones just hurt."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "ALL 30 DAYS COUNT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "CLEAN, FAST IMPROVEMENT",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_wall_sit.webp",
+   "exercise": "WALL SIT",
+   "work": 60,
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Sit with me. Back flat, knees at ninety degrees, breathe slow and do not touch your thighs. Three rounds. When your legs shake, that is the signal working. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. The daily dose is one wall sit session that totals two minutes under tension. Week one: reach the two minutes in as many pieces as you need, resting thirty seconds between pieces, perfect position every time. Week two: fewer pieces, longer holds, and slow your breathing down, because a calm breath keeps the quad switched on. Week three: aim for one unbroken two-minute hold, and if you get it, sit one inch deeper or hold a light weight in your lap. Week four: keep the daily two minutes, make the position stricter, and taper in the last three days to one easy minute. Day thirty: same wall, same angle, one max hold. Two rules protect your knees. Your knees track over your toes, never caving inward. And sharp joint pain ends the session, while muscle burn is just the price of the signal. Burn is fine. Sharp is stop.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: 2 MINUTES IN PIECES",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "PERFECT POSITION EVERY TIME",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 3: ONE UNBROKEN HOLD",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "BURN VS SHARP",
+     "lines": [
+      "Burn is the price.",
+      "Sharp pain ends the session."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "KNEES TRACK OVER TOES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: ONE MAX HOLD",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "2 MIN",
+     "label": "THE LINE TO CROSS",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same wall, same clock, one max hold. Here is how the results usually read. Most people double their day-zero time or better in this month, because the starting point was an untrained signal, and signals train fast. If you crossed two minutes unbroken, your patellar tendon system has moved from unwired to wired, and stairs, squats and jumps will all feel it. If your gain was small, count your attended days honestly, because this experiment pays strictly for attendance. If your knees felt worse, your angle was probably too deep too soon, and the fix is a higher sit, not a braver one. Put both numbers in the comments. Day zero and day thirty, side by side. That pair is the whole story.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME WALL. SAME CLOCK.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_wall_sit.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "2X OR BETTER",
+     "label": "THE USUAL RESULT",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "PAYS FOR ATTENDANCE",
+     "lines": [
+      "Count your days honestly.",
+      "Missed days are missing dose."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Two minutes a day against a wall, and your knees get cables they never had. Keep the hold honest, keep showing up, and subscribe to run the next experiment with me. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "KEEP SHOWING UP",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "THE WALL KEEPS SCORE",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT EXPERIMENT SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

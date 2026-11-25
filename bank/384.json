@@ -1,0 +1,421 @@
+{
+ "id": "384",
+ "v5": true,
+ "title": "I Did walk 10 minutes after meals Every Day for 30 Days (What Happened to My blood sugar control)",
+ "description": "Ten minutes of walking after every meal for thirty days. This experiment is not about burning calories; it is about what moving muscle does to the sugar in your blood right after you eat, and a simple energy test measures it on day zero and day thirty. Take the test, learn the mechanism, follow the plan, and compare your numbers.",
+ "tags": [
+  "post meal walk",
+  "blood sugar",
+  "walking after meals",
+  "glucose control",
+  "30 day challenge",
+  "walking benefits",
+  "metabolic health"
+ ],
+ "hashtags": [
+  "post meal walk",
+  "blood sugar",
+  "30 day challenge",
+  "walking",
+  "glucose control",
+  "healthy habits"
+ ],
+ "category": "experiments",
+ "badge": "EP 384 - WALK AFTER MEALS",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_calf_raise.webp",
+  "big": "10 MIN",
+  "hook": "WALK AFTER MEALS",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_leg_swing.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test, and this one happens after lunch. Eat a normal meal, the kind you actually eat, then sit and do nothing. Sixty minutes later, rate your energy and focus from one to ten, and note whether the afternoon slump showed up. That rating is your NUMBER. Write it down with what you ate. In thirty days we repeat the exact same meal and the same rating, with one difference: a ten-minute walk in between. I will show you what that walk did to the sugar curve you cannot see. Keep your number close. This experiment is measured in how your afternoons feel.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "RATE ENERGY 1 TO 10",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "NOTE THE SLUMP",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "10-minute walk after meals.",
+      "30 days. One retest."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "MEASURED IN AFTERNOONS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR SCORE",
+   "label": "YOUR DAY-ZERO ENERGY NUMBER",
+   "sub": "1 to 4: the slump owns you - 5 to 7: building - 8 to 10: steady system",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is how to read your number. One to four an hour after eating means the post-meal slump owns your afternoons: heavy eyes, foggy brain, cravings for something sweet. Five to seven means your system copes, but not well. Eight to ten means your blood sugar already behaves, and this month will polish it. Understand what the rating is really measuring. It is the shadow of your glucose curve, the rise and crash after a meal, felt from the inside. We cannot see the curve without a sensor, but we can feel its effects, and feelings, recorded honestly, are data. In thirty days we take the same reading after the same meal.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE SHADOW OF THE CURVE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "1 TO 4",
+     "label": "THE SLUMP ZONE",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "FEELINGS ARE DATA",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Here is the mechanism, and it is beautifully simple. When you eat, sugar enters your blood, and your body must move it somewhere. Your muscles are the biggest storage site it has, but sitting muscles are closed for business. The moment you WALK, the working muscles in your legs open special doors for glucose that do not even need insulin's permission. Contracting muscle pulls sugar straight out of the blood to fuel the steps. Your calves and thighs become a sponge, soaking up the post-meal rise before it becomes a spike, and a smaller spike means a smaller crash, which means no slump. Ten minutes is not exercise in the gym sense. It is timing. You are sending the sponge in exactly when the sugar arrives.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "MUSCLE IS THE SPONGE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_calf_raise_front.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "DOORS THAT OPEN ON STEPS",
+     "lines": [
+      "Contracting muscle pulls glucose.",
+      "No insulin permission needed."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "TIMING, NOT TRAINING",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "SMALLER SPIKE, NO SLUMP",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The research on this is unusually satisfying. Studies that put glucose sensors on people find that a short walk started soon after a meal blunts the glucose rise meaningfully, and that three short walks after meals can control the day's sugar better than one long walk at a random hour. The reason is pure plumbing. Glucose peaks roughly thirty to sixty minutes after you eat. A walk in that window meets the peak head-on. There is also a quieter benefit for a skinny guy: when sugar is handled by muscle instead of being stored under insulin's orders, more of your food gets partitioned toward the tissue you actually want to feed. You are not burning off your gains with a gentle ten-minute walk. You are directing traffic. Thirty days of directing traffic after every meal, and the afternoons tell you what changed.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "MEET THE PEAK HEAD-ON",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_leg_swing.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THREE SHORT BEAT ONE LONG",
+     "lines": [
+      "Walks timed to meals.",
+      "Beat one random long walk."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "AFTERNOON ENERGY",
+     "items": [
+      [
+       "DAY 0",
+       4,
+       "red"
+      ],
+      [
+       "DAY 30",
+       8,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "DIRECTING TRAFFIC",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "NOT BURNING GAINS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_leg_swing.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Now the skinny angle, because skinny guys fear walking for the wrong reason. You worry that any extra movement burns calories you cannot spare. A ten-minute stroll burns almost nothing, roughly the calories in two bites of your lunch. What it changes is where the rest of the lunch GOES. And there is a second advantage nobody mentions: appetite and digestion. Post-meal walks reliably take the edge off that stuffed, heavy feeling and keep your gut moving, so the next meal arrives to a system that is ready for it. For a guy trying to eat enough to grow, comfortable digestion is not a side benefit. It is the whole bottleneck, quietly widening. This experiment might be the only one on the channel that helps you gain by walking away from the table.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "TWO BITES OF CALORIES",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_calf_raise.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "THE REAL BOTTLENECK",
+     "lines": [
+      "Comfortable digestion.",
+      "Decides what you can eat."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "GAIN BY WALKING AWAY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "WHERE LUNCH GOES",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_calf_raise.webp",
+   "exercise": "SOLEUS RAISES",
+   "work": 60,
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Train with me. When you truly cannot walk, this is the backup: slow calf raises, the soleus sponge under your desk or at your counter. Three rounds, full squeeze. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise_front.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. The rule is simple: within fifteen minutes of finishing a meal, walk for ten minutes at a pace where you can talk easily. Week one: after your biggest meal only, usually lunch or dinner, and log your energy rating one hour later, every day, no exceptions. Week two: add the second meal, and keep the log going, because the log is where the pattern shows itself. Week three: all three meals if your life allows it, and on days it does not, use the backup: two minutes of slow calf raises after eating, which switches on the same sponge in your lower legs. Week four: hold the habit, notice which meals slump you most, and keep the log clean. Day thirty: repeat the day-zero meal exactly, walk after it, and take the same energy rating at the same hour. The details that make this work: the walk starts soon after eating, not an hour later, comfortable shoes beat perfect plans, and a walk you enjoy is a walk you will still be doing on day thirty. One more detail from the logs of people who do this well: the walk works even on restaurant days and travel days, because it asks for nothing but ten minutes and a pavement. The habit survives real life precisely because it is small, and small habits are the ones still standing on day thirty.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: BIGGEST MEAL ONLY",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "LOG THE RATING DAILY",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: ADD THE SECOND MEAL",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE BACKUP PLAN",
+     "lines": [
+      "2 minutes of calf raises.",
+      "Same sponge, no street needed."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "START WITHIN 15 MINUTES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: SAME MEAL, SAME RATING",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "10 MIN",
+     "label": "THE WHOLE DOSE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_leg_swing.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same meal, same chair, same rating, one walk in between. Here is how to read the result. If your energy score climbed by two or three points and the slump stopped visiting, that is the classic outcome, and it means your muscles are clearing glucose like a trained system. If your score climbed only after some meals, look at your log: the walks after your biggest, carbiest meals do the heavy lifting, and the data will show you exactly which meal matters most for you. If nothing changed, the honest suspects are walk timing and walk honesty: a stroll ninety minutes later misses the peak entirely. Put both numbers in the comments, day zero and day thirty, and tell us which meal changed the most. That detail helps the next skinny guy more than any slogan.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME MEAL. SAME RATING.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_sprint.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "+2 TO +3",
+     "label": "THE CLASSIC CLIMB",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "TIMING IS THE DOSE",
+     "lines": [
+      "90 minutes late misses the peak.",
+      "The peak is the target."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Ten minutes after a meal. The smallest experiment on this channel, and maybe the one that changes your whole day. Keep the walks, keep the log, and subscribe to run the next thirty days with me. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "TEN MINUTES AFTER MEALS",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "KEEP THE LOG",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT EXPERIMENT SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,368 @@
+{
+  "id": "371",
+  "v5": true,
+  "title": "A Skinny Guy Did walking after meals for 30 Days (His blood sugar control Changed)",
+  "description": "The smallest experiment in the series: a ten-minute walk after meals, for thirty days. Score your post-lunch crash on day zero, learn how your leg muscles drink glucose straight from the blood, and see what a month of walks does to your afternoons and your waist.",
+  "tags": [
+    "walking after meals",
+    "30 day challenge",
+    "blood sugar control",
+    "post meal walk",
+    "glucose",
+    "calisthenics",
+    "walking"
+  ],
+  "hashtags": [
+    "post-meal walk",
+    "30 days",
+    "blood sugar",
+    "calisthenics",
+    "experiment",
+    "walking"
+  ],
+  "category": "experiments",
+  "badge": "EP 371 - 30 DAYS OF WALKING",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_leg_swing.webp",
+    "big": "10 MIN",
+    "hook": "AFTER EVERY MEAL",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_leg_swing.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Day zero's test requires no equipment, just honesty about your afternoons. Eat your normal biggest meal today, then do what you normally do: sit. Sixty minutes later, rate yourself. Energy, one to ten. Focus, one to ten. And the cravings: are you already hunting for something sweet or caffeinated to rescue the hour? Add the three into one crash score, and write it down next to the time. Most guys score themselves somewhere between low energy, foggy head and a 3pm surrender to sugar. That score is the day-zero number for the strangest experiment in this series, because the intervention is not a workout. It is a walk: ten minutes after meals, for thirty days. On day thirty, same meal, same chair waiting, we score the afternoon again. Keep your number. Your couch is the control group.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "EAT, SIT, RATE AT 60 MIN",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "1 CRASH SCORE",
+          "label": "ENERGY + FOCUS + CRAVINGS",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_calf_raise.webp"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "YOUR COUCH IS THE CONTROL",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "10 MIN",
+      "label": "THE WALK THAT CHANGES THE CURVE",
+      "sub": "sit: the crash comes - walk: the muscles eat first",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the claim the experiment tests. After a meal, glucose floods your blood, and if you sit still, it spikes high, gets cleared in a rush, and the dip afterwards is the crash you just scored. Walk for ten minutes in the half hour after eating, and the largest muscles you own start drinking that glucose while it is still rising. The spike flattens, the dip softens, and the afternoon changes character. Ten minutes. Easy pace. No sweat, no kit, no gym. If a month of that moves your crash score and your waist, it may be the highest-value habit a skinny fat guy can install.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "SPIKE, RUSH, CRASH",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "FLATTEN THE CURVE",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "10 MIN",
+          "label": "EASY PACE, NO SWEAT",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "narration": "The system is your legs, and the timing is everything. When leg muscles contract, they open a side door for glucose: working muscle can pull sugar directly out of the blood to fuel itself, a shortcut that does not wait for the body's usual storage paperwork. Your legs are the largest muscle group you own, which makes them the largest sponge you own. Now consider the schedule. A big meal delivers its glucose over the following hour or so. Sit through that hour and the sponge stays dry in a chair while the flood rises and crashes. Walk through the first ten minutes of it and the sponge starts drinking at the exact moment the flood arrives. This is why the same walk does more after a meal than at a random hour: you are not just burning calories, you are intercepting cargo. For the skinny fat body, whose whole problem is cargo being delivered to the waist warehouse, an interception after every meal is not a wellness tip. It is logistics warfare.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "THE SIDE DOOR",
+          "lines": [
+            "Working muscle pulls sugar",
+            "directly from the blood."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "tibialis_plate.webp"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "THE LARGEST SPONGE YOU OWN",
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "bars",
+          "title": "GLUCOSE AFTER LUNCH",
+          "items": [
+            [
+              "SIT: SPIKE + CRASH",
+              85,
+              "red"
+            ],
+            [
+              "WALK: FLAT CURVE",
+              40,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 34,
+          "kind": "chip",
+          "text": "LOGISTICS WARFARE",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "narration": "Understand the crash properly and the walk stops sounding like a folk remedy. A sharp glucose spike tends to summon a strong insulin response, and a strong response can overshoot, pulling blood sugar down fast enough that your brain, which runs on the stuff, files a complaint: fog, heaviness, irritability, and a very specific hunger for fast sugar to fix the dip. That is the 3pm raid on the biscuit tin, and it is chemistry, not character. Flatten the original spike and the whole chain quiets down: smaller response, gentler dip, steadier brain. There is a second, quieter effect: a body that spends its afternoons on a glucose rollercoaster partitions food worse over time, while a body with flatter curves handles the same meals more calmly. The walk is ten minutes. The curve it changes runs all afternoon, and across thirty days, all month.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE CRASH IS CHEMISTRY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "SPIKE \u2192 OVERSHOOT \u2192 RAID",
+          "lines": [
+            "The biscuit tin at 3pm",
+            "is a dip, not a weakness."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_leg_swing.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "FLATTER CURVE, STEADIER BRAIN",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise_front.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "narration": "The protocol could not be smaller. Within half an hour of finishing a meal, ideally right after it, walk for ten to fifteen minutes at a pace where conversation is easy. After every meal if life allows; after the biggest meal of the day as the non-negotiable minimum. Around the block, around the office, around the supermarket, it genuinely does not matter where, and in bad weather, marching and pottering around the house counts, because the sponge cannot tell a pavement from a hallway. Thirty days, no days off needed, because the load is trivially recoverable. Two upgrades appear later in the month: a slight hill or a brisker pace in week three, and linking the walk to an existing habit, coffee, a phone call, a podcast, so the behaviour runs on rails. The experiment is not testing whether walking works in a lab. It is testing whether a normal life can hold the habit for thirty days, and what the afternoons look like when it does.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WITHIN 30 MIN OF EATING",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "BIGGEST MEAL = MINIMUM",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "swap",
+          "asset": "ren_toe_raise.webp"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "A HALLWAY COUNTS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 35,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "NO DAYS OFF NEEDED",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_calf_raise_front.webp",
+      "exercise": "POST-MEAL MARCH",
+      "work": 60,
+      "rest": 0,
+      "rounds": 5,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "No pavement handy? March with me. Five minutes of steady marching in place, arms swinging, easy breathing. This is the indoor version of the protocol, the one that saves the habit on rainy days. The sponge does not care where you walk. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_leg_swing.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The month, as the afternoons reported it. Week one, the change was modest but unmistakable: the post-lunch heaviness arrived later and left earlier, and the biscuit raid lost its urgency on walk days. Week two, the pattern hardened into a rule our subject could feel: walk days were work days that flowed, sit days were the old fog, and the contrast itself became the motivation. Week three brought the quiet surprise: daily steps had roughly doubled as a side effect, and the waist measurement, taken on the usual morning, had begun its slow slide, because thirty days of intercepted cargo adds up to real energy redirected. Week four, the habit stopped being an experiment and became furniture: shoes by the door, route in the legs, the walk happening before the decision to walk was even made. That is what a successful behaviour experiment looks like. Not willpower. Furniture.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: THE RAID LOSES URGENCY",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "WEEK 3: STEPS DOUBLE, WAIST SLIDES",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "ren_calf_raise.webp"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "NOT WILLPOWER. FURNITURE.",
+          "lines": [
+            "Shoes by the door.",
+            "Route in the legs."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "THE HABIT RUNS ITSELF",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Day thirty: same biggest meal, then the walk, then the scoring at sixty minutes. The pattern for this experiment is one of the most consistent in the series: crash scores improve by several points, the afternoon fog thins from a daily event to an occasional one, and many guys report the waist quietly down a centimetre or two from the step count alone. Read your result simply: if your crash score barely moved, check the timing first; walks taken two hours after eating miss the flood. If the score transformed, you have found the cheapest blood-sugar tool in existence, and it costs ten minutes. Put your day-thirty energy rating in the comments. Just the number, one to ten. In thirty days, your afternoons will file their next report.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "TIMING IS THE WHOLE TRICK",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "tibialis_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "SAME MEAL, NEW AFTERNOON",
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "COMMENT YOUR ENERGY 1-10",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_leg_swing.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Thirty days, ten minutes at a time, and the afternoons changed sides. The biggest muscles you own are a sponge for the flood your meals send; walk while it rises and the crash never gets scheduled. Keep the shoes by the door. Retest your crash score in thirty days and bring me the number. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WALK THE FLOOD",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

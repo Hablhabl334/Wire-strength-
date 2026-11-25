@@ -1,0 +1,466 @@
+{
+ "id": "381",
+ "v5": true,
+ "title": "I Did practice the L-sit for 5 minutes Every Day for 30 Days (What Happened to My hip flexors)",
+ "description": "Five minutes of L-sit practice every day for thirty days. The L-sit is a hip flexor and compression test disguised as a hold, and the day-30 retest turns your first shaky seconds into a real number. Take the day-zero test, learn what your hip flexors are doing, follow the progression plan, and compare your two times.",
+ "tags": [
+  "l-sit",
+  "hip flexors",
+  "l-sit progression",
+  "core compression",
+  "30 day challenge",
+  "calisthenics",
+  "gymnastics strength"
+ ],
+ "hashtags": [
+  "l-sit",
+  "calisthenics",
+  "30 day challenge",
+  "hip flexors",
+  "core workout",
+  "gymnastics"
+ ],
+ "category": "experiments",
+ "badge": "EP 381 - L-SIT EVERY DAY",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_lsit.webp",
+  "big": "5 MIN A DAY",
+  "hook": "L-SIT EVERY DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_lsit.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test. Sit on the floor, hands beside your hips, press down and try to lift your straight legs until your body makes an L. Start the clock the moment your heels leave the floor, and stop it when they drop. That time is your NUMBER. If it is zero, that is fine, test with one heel resting lightly and count your best tuck hold instead. Write your number down. In thirty days we run the same test and I will show you what five daily minutes did to your hip flexors. Keep your number close. The L-sit humbles everyone on day zero.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "HEELS OFF THE FLOOR",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "ZERO IS A FINE START",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "5 minutes of practice daily.",
+      "30 days. One retest."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "IT HUMBLES EVERYONE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR HOLD",
+   "label": "YOUR DAY-ZERO L-SIT NUMBER",
+   "sub": "0 to 3 sec: untrained - 5 to 10 sec: building - over 15 sec: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is how to read your day-zero number. Zero to three seconds is the untrained zone, and nearly every skinny guy starts there, because the L-sit asks for something daily life never does. Five to ten seconds means your hip flexors and compression strength are waking up. Over fifteen seconds with straight legs and locked knees, you own a hold most gym members cannot touch. Whatever you got, that is the baseline reading on your hip flexors and your deep core. In thirty days we take the same reading, same floor, same rules, and the gap between the two numbers is the experiment.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A BASELINE READING",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "15+ SEC",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "EVERYONE STARTS LOW",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the hip, because the L-sit is won or lost at this joint. To hold the L, your hip flexors, especially the deep iliopsoas, must lift the full weight of both legs and keep them lifted against gravity. These are not mirror muscles. They sit deep in the pelvis, they connect your spine to your thigh bone, and they are the strongest flexors you own. In the L-sit they work at their shortest length, the position where every muscle is weakest, which is why three seconds feels impossible. Their tendons anchor them to the pelvis and femur, and daily practice loads those anchors while the nerves learn to recruit the deep muscles fully. The burn you feel in the front of your hips is the iliopsoas finally being asked to do its real job. Thirty days of asking, and it answers.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WON OR LOST AT THE HIP",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_lsit.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE DEEP ENGINE",
+     "lines": [
+      "Iliopsoas: spine to thigh.",
+      "Works shortest, feels weakest."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "SHORTEST LENGTH, HARDEST JOB",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "ASK DAILY. IT ANSWERS.",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hip_rotation.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The L-sit is really two skills wearing one costume. Skill one is STRENGTH: hip flexors and the deep core producing compression, squeezing your body into the L. Skill two is LENGTH: your hamstrings must allow straight legs while the hips fold, and for most skinny guys the hamstrings, not the flexors, set the first ceiling. Daily practice trains both at once. The holds build compression strength in short daily doses, and every attempt gently stretches the back of the leg under load. There is a nerve story too. Holding straight legs at ninety degrees needs your brain to fire the flexors hard while switching the hamstrings off, a coordination pattern most people have never used. Untrained, the two fight each other and the legs shake. Trained, they take turns like professionals. The shaking stops, the seconds climb, and the hold starts to look calm.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "TWO SKILLS, ONE COSTUME",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_lsit.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "WHY LEGS SHAKE",
+     "lines": [
+      "Flexors fire, hamstrings fight.",
+      "Training teaches them turns."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "L-SIT GROWTH",
+     "items": [
+      [
+       "DAY 0",
+       3,
+       "red"
+      ],
+      [
+       "DAY 30",
+       18,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "STRENGTH PLUS LENGTH",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "THE SHAKING STOPS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_lsit.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "One more layer before the plan, because the L-sit has a secret training weapon: the seated leg lift. Sit on the floor with your legs straight, hands beside your thighs, and lift one leg a few inches without leaning back. It looks like nothing. It is actually the L-sit's core skill isolated: hip flexors producing compression while the trunk stays tall. A minute of these a day, inside your five minutes of practice, teaches the flexors their job at an intensity you can repeat perfectly. There is a second secret hiding in the L-sit: your triceps and lats must press you tall the whole time, because if your shoulders shrug and sink, your hips drop and the lever gets longer and crueller. Tall shoulders, compressed hips. The hold is a negotiation between pressing down and lifting up, and both sides of the negotiation train every single day.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE SECRET WEAPON",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_leg_swing.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "TALL SHOULDERS, COMPRESSED HIPS",
+     "lines": [
+      "Press down to lift up.",
+      "Both sides train daily."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "ISOLATE THE CORE SKILL",
+     "pos": "tr"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "A NEGOTIATION, TRAINED DAILY",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_lsit.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Now hear the skinny advantage, because the L-sit might be the most skinny-friendly hold in calisthenics. The load in this exercise is your own legs. Shorter, lighter legs are simply less weight for the hip flexors to lift and hold. The big guy is trying to L-sit with two hams hanging off his pelvis, and his flexors are screaming before his form even sets. Yours get a fair fight. You also tend to win the second skill: skinny guys usually fold at the hips more easily than heavily muscled ones. Light legs, mobile hips, daily practice. That combination turns the most humbling day-zero test on this channel into one of the fastest climbers at the retest. Five minutes a day is all it asks.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE LOAD IS YOUR LEGS",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_hip_rotation.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "THE SKINNY EDGE",
+     "lines": [
+      "Lighter legs, fair fight.",
+      "Hips that fold easily."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "FASTEST CLIMBER POTENTIAL",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "FIVE MINUTES IS ALL",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_lsit.webp",
+   "exercise": "L-SIT PRACTICE",
+   "work": 20,
+   "rest": 40,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Practise with me. Five short holds. Tuck, one leg, or full L, whatever your level gives you, but press the floor hard and point your toes. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_leg_swing.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days, built as a progression ladder. Your daily dose is five minutes of total practice. Week one: tuck holds. Knees bent, lift your feet, and accumulate five minutes in short holds, plus ten leg lifts lying on your back each day for the flexors. Week two: one leg straight, one tucked, alternating, and start every session with your best full attempt. Week three: full L-sit attempts as your main work, dropping back to one-leg holds when form dies, and add gentle hamstring stretches after practice, never before. Week four: chase unbroken holds, keep the five minutes honest, and taper in the last three days to two light minutes. Day thirty: same floor, one max hold. The rules that keep this experiment clean: straighten the knees before you chase seconds, breathe out slowly during holds instead of holding your breath, and if your hip flexors cramp, shake them out and continue, because cramping is just an untrained muscle complaining about its new job.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: TUCK HOLDS",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "FIVE MINUTES TOTAL",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: ONE LEG STRAIGHT",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "CRAMPS ARE COMPLAINTS",
+     "lines": [
+      "Shake out and continue.",
+      "Not a stop signal."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "KNEES STRAIGHT BEFORE SECONDS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: ONE MAX HOLD",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "15 SEC",
+     "label": "THE WIRED LINE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_lsit.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same floor, same test, one max hold. Here is how the results usually read. If you started at zero to three seconds and finished at ten to twenty, that is the classic L-sit month: the flexors woke up, the hamstrings allowed more, and the nerves stopped the civil war. If you started with a tuck and finished with straight legs, count that as a bigger win than the seconds suggest, because you changed the shape of the hold itself. If your time barely moved, the honest suspect is hamstring length, and the fix is another month with more stretching after practice. Either way, the number told you the truth. Put both numbers in the comments, day zero and day thirty. The L-sit does not care how you look. It only reports what your hips can do.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME FLOOR. SAME TEST.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_hip_rotation.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "10 TO 20 SEC",
+     "label": "THE CLASSIC MONTH",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "SHAPE BEATS SECONDS",
+     "lines": [
+      "Tuck to straight legs.",
+      "A bigger win than time."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_lsit.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Five minutes a day, and the deepest muscles you own learn a brand new job. Keep the practice daily, keep the knees honest, and subscribe to run the next experiment with me. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "FIVE MINUTES A DAY",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "KNEES STAY HONEST",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT EXPERIMENT SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

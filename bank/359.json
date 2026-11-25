@@ -1,0 +1,415 @@
+{
+  "id": "359",
+  "v5": true,
+  "title": "Your Leg-to-Waist Ratio Reveals Your Hidden Strength",
+  "description": "Thigh divided by waist: the lower-body ratio that decides whether your legs read as athletic or invisible. Measure both, test your squat, and learn the leg signals that move the top number while the waist shrinks.",
+  "tags": [
+    "leg to waist ratio",
+    "thigh measurement",
+    "skinny fat legs",
+    "leg training",
+    "squat",
+    "calisthenics",
+    "leg size"
+  ],
+  "hashtags": [
+    "leg ratio",
+    "skinny fat",
+    "legs",
+    "waist",
+    "squats",
+    "calisthenics"
+  ],
+  "category": "skinnyfat",
+  "badge": "EP 359 - THE LEG RATIO TEST",
+  "checklist": [
+    "THE RATIO TEST",
+    "THE NUMBER",
+    "LEG SIGNALS",
+    "YOUR VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_squat_bottom.webp",
+    "big": "0.60",
+    "hook": "LEGS VS WAIST",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_squat_top.webp",
+        "ren_squat_mid.webp",
+        "ren_squat_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE RATIO TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Tape measure out. | Thigh first. | Widest point, | standing relaxed, | no flexing games. | Write the centimetres. | Now your waist. | At the navel, | breathing out normally. | Write that too. | Divide thigh by waist. | That is your ratio. | Now the witness test. | Bodyweight squats. | Max clean reps. | Hips below knees, | heels stay down, | count every one. | That number proves | the muscle is real, | not just measurement. | Keep both numbers. | At the end, | I read your ratio | like a coach.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "THIGH / WAIST",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "RELAXED, HONEST",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "THEN THE SQUAT WITNESS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "TWO NUMBERS",
+          "lines": [
+            "The tape says size.",
+            "The squats say truth."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "0.60",
+      "label": "THIGH DIVIDED BY WAIST",
+      "sub": "under 0.52: hidden legs - 0.52-0.59: building - 0.60+: legs win",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line for the lower body. Under 0.52, your thighs are losing to your waist, and trousers hide whatever your legs are doing. Between 0.52 and 0.59, the legs are visibly building and the silhouette starts to turn athletic. At 0.60 and above, thigh clearly outweighs waist in the comparison, and that is the proportion every athlete's lower body shares. Same rule as the arms: two doors. Grow the thigh or shrink the waist, the decimal moves either way. Legs just happen to be the bigger door, because they are the biggest muscles you own.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "0.60 = LEGS WIN",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "THE BIGGER DOOR",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "stat",
+          "text": "0.52",
+          "label": "WHERE LEGS DISAPPEAR",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "hip_joint_plate.webp",
+      "section": "LEG SIGNALS",
+      "check": 2,
+      "music": "dark",
+      "narration": "Why does this ratio matter so much? Because your legs are not a detail. They are roughly half the muscle your body can carry, the entire foundation of the silhouette, and the engine room of your metabolism. Thigh size against waist size is the lower body's version of the shape equation: muscle in the numerator, cover in the denominator. Legs also answer training signals differently than arms. They are built for work: big muscles, big tendons, designed to carry you all day. The knee and hip tendons, the cables of the squat, adapt to load slowly and then hold that adaptation for years. And there is a metabolic truth hiding in this test: thigh muscle is the largest glucose sink you own. Every centimetre you add to the numerator builds a bigger tank for the food that used to park at the denominator. The ratio is not vanity. It is a report on where your body stores its future.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "HALF YOUR MUSCLE",
+          "lines": [
+            "Legs are the foundation.",
+            "And the engine room."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "THE GLUCOSE TANK",
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "THE RATIO BANDS",
+          "items": [
+            [
+              "HIDDEN",
+              40,
+              "red"
+            ],
+            [
+              "BUILDING",
+              70,
+              "gold"
+            ],
+            [
+              "ATHLETIC",
+              95,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "chip",
+          "text": "A REPORT, NOT VANITY",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "LEG SIGNALS",
+      "check": 2,
+      "music": "calm",
+      "narration": "Now watch the two numbers interact, because this is where the magic hides. Add two centimetres to your thigh through a season of honest squat work, and your ratio rises. Lose three centimetres from your waist through the recomp base, and it rises again, from the other side. But here is the interaction nobody expects: training legs hard is itself one of the best waist-shrinking tools you have, because leg sessions are the biggest energy events of your week, and the recovering leg muscles spend the following days pulling fuel out of circulation. The numerator builds the denominator's worst enemy. There is one more interaction worth knowing: strong legs change how you move through the whole day. Stairs stop being an event. You walk faster, carry more, and choose the active option without thinking about it, and those hundreds of small daily choices quietly tax the waist all week long. Nobody logs them as exercise, but the tape measure counts them anyway. This is why leg day, the day every skinny fat guy skips because trousers hide the evidence, is secretly the highest-value day in his program. The ratio knows. The tape knows. Only the mirror in the gym, the one that only shows your top half, has been lying to you.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "LEGS ATTACK BOTH SIDES",
+          "pos": "tr"
+        },
+        {
+          "at": 15,
+          "kind": "swap",
+          "asset": "ren_squat_top.webp"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "THE HIDDEN INTERACTION",
+          "lines": [
+            "Big sessions.",
+            "Days of fuel-pulling after."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 36,
+          "kind": "mark",
+          "text": "LEG DAY = HIGH VALUE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_split_squat_top.webp",
+      "section": "LEG SIGNALS",
+      "check": 2,
+      "music": "dark",
+      "narration": "One warning about the numerator: the thigh is not the whole leg. A complete leg silhouette has three parts: the thigh up top, the glutes driving from the back, and the calves finishing the line below the knee. Train only the thigh and the leg reads unfinished, like a sentence that stops mid-word. Glutes come from hinges and split squats, the same movements that level your pelvis, so leg training quietly fixes your posture while it builds your ratio. Calves come from straight-knee and bent-knee raises, patient, tendon-driven work. The good news: none of this needs variety theatre. A squat pattern, a hinge pattern, a calf pattern, progressed for months, builds all three. The leg is a simple machine. It just refuses to grow from occasional effort.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THIGH, GLUTE, CALF",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_split_squat_bottom.webp"
+        },
+        {
+          "at": 19,
+          "kind": "fact",
+          "title": "THREE PATTERNS",
+          "lines": [
+            "Squat. Hinge. Calf raise.",
+            "Progressed for months."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "NO VARIETY THEATRE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_sprint.webp",
+      "section": "LEG SIGNALS",
+      "check": 2,
+      "music": "calm",
+      "narration": "Your advantage in the leg race is recovery speed. Legs are the slowest-recovering muscles for a heavy lifter, because his squats move enormous absolute loads and his bodyweight alone taxes every session. You are light. Your squats, lunges and hinges are honest work for untrained legs, but they cost you a fraction of the systemic fatigue, so you can signal your legs again in two or three days while he is still walking downstairs backwards. Frequency is the skinny guy's superpower, and legs are where it pays the most interest, because the muscle mass at stake is the largest. Add the denominator gift you already know: your waist starts small, so every centimetre of thigh shows up in the ratio immediately. In this test, the light body is not the underdog. It is the favourite.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "LIGHT = FAST LEG RECOVERY",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_jump_peak.webp"
+        },
+        {
+          "at": 16,
+          "kind": "fact",
+          "title": "THE FAVOURITE",
+          "lines": [
+            "Largest muscle mass.",
+            "Fastest signal cycle."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "FREQUENCY PAYS INTEREST",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_squat_mid.webp",
+      "exercise": "BODYWEIGHT SQUATS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 4,
+      "section": "LEG SIGNALS",
+      "check": 3,
+      "music": "drive",
+      "narration": "Now build the numerator. Squats with me, four rounds this time, forty seconds on, twenty to breathe. Hips below knees, chest proud, every rep a deposit in the glucose tank. Your ratio is watching. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "dark",
+      "narration": "The weekly plan for the leg ratio. Two leg signals a week, spaced at least two days apart. Session one: the squat pattern heavy in effort, plus calf work with straight knees. Session two: the hinge pattern and split squats, plus bent-knee calf work. Progress one thing per week: a rep, a slower lowering, a harder variation, written down. On the waist side, the recomp base you know: protein daily, walking daily, sleep defended. Now the mistakes. Skipping legs because trousers hide them, which is precisely why the ratio stays hidden. Training only the front of the thigh and wondering why the leg looks unfinished from the side. And measuring the thigh pumped after leg day, a centimetre of theatre that vanishes by morning. Cold, relaxed, monthly. The tape is a strict judge, and that is why its verdicts can be trusted.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "2 LEG SIGNALS / WEEK",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_split_squat_bottom.webp"
+        },
+        {
+          "at": 16,
+          "kind": "mark",
+          "text": "SKIPPING LEG DAY",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "MEASURING PUMPED",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 28,
+          "kind": "chip",
+          "text": "COLD, RELAXED, MONTHLY",
+          "pos": "br"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "So, your ratio, and your witness number with it. Under 0.52 with a low squat count: your legs are simply untrained, the most fixable state a body part can be in. Between 0.52 and 0.59 with climbing squats: you are building, and the silhouette will confess it within a season. At 0.60 or above: your legs win their comparison, and your training becomes about keeping the waist honest while the engine grows. If your ratio is fine but your squat witness is low, build strength before size; the tape follows the reps. Put your ratio in the comments. Just the number. Thirty days of leg signals, then we divide again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "UNTRAINED = FIXABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "hip_joint_plate.webp"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE DIVIDE AGAIN",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "mark",
+          "text": "COMMENT YOUR RATIO",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_sprint.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "narration": "Half your muscle lives below your waist, and this ratio is its report card. Train the legs like the engine room they are, keep the waist shrinking, and the decimal will climb. Retest in thirty days and bring me the new number. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "THE ENGINE ROOM",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ],
+      "lead_pause": 1.2
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+ "badge": "EP 333 - YOUR PROTEIN NUMBER",
+ "category": "skinnyfat",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE PROTEIN SIGNAL",
+  "YOUR VERDICT"
+ ],
+ "description": "You cannot build muscle from good intentions and low protein. Here is your protein number, grams per kilo, the muscle protein signal it controls, and the simple daily system that feeds a recomp without force-feeding or a single supplement.",
+ "hashtags": [
+  "protein",
+  "protein number",
+  "muscle building",
+  "skinny fat",
+  "recomp diet",
+  "calisthenics"
+ ],
+ "id": "333",
+ "scenes": [
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "AUDIT YESTERDAY, HONESTLY"
+    },
+    {
+     "at": 7,
+     "kind": "fact",
+     "lines": [
+      "A palm of meat: about 25 grams.",
+      "An egg: 6. Yogurt: 20."
+     ],
+     "pos": "br",
+     "title": "THE PALM RULE"
+    },
+    {
+     "asset": "ren_plank_hold.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRAMS DIVIDED BY KILOS"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 0,
+   "music": "dark",
+   "narration": "Today's test is an audit, and it takes one honest day of memory. Walk through yesterday: every meal, every snack, every drink, and estimate the protein in each, using labels where you have them and rough portions where you do not. A palm of meat or fish is roughly twenty-five grams. An egg is six. A cup of Greek yogurt or a scoop of anything serious is twenty. A handful of cheese, a glass of milk, a bowl of lentils: ten to fifteen each. Add it all up, no rounding in your favor, and then divide by your bodyweight in kilos. If you ate ninety grams at seventy kilos, your number is about 1.3. That figure, grams per kilo per day, is today's test result, and it is the raw-material budget behind every signal this season has discussed. Training places the order. Protein is whether the delivery ever arrives. Got your number? Keep it. At the end I will tell you which side of the line it puts your whole recomp on.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "THE SIGNAL STARVES BELOW 1.0"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "AT 70 KILOS: ORDINARY FOOD TERRITORY",
+     "pos": "br",
+     "text": "112 G"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NOT A BRAND, A BUDGET"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Benefits flatten near 1.6.",
+      "The deficit margin reaches 2.0."
+     ],
+     "pos": "br",
+     "title": "THE SETTLED LINE"
+    }
+   ],
+   "big": "1.6 G/KG",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE WHERE BUILDING GETS ITS MATERIALS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line: 1.6 grams of protein per kilo of bodyweight, per day. The research on this is unusually settled for nutrition science: below that level, muscle building from training is measurably blunted, and somewhere around 1.6 the benefit curve flattens for most people, with up to about 2.0 offering a small margin for men in a deficit. Under 1.0, and this describes most skinny fat men who have never counted, you are sending training signals into a body that lacks the bricks to answer them: the switch flips, the crew arrives, the materials do not. Between 1.0 and 1.6 you are building at a discount, getting perhaps half the return your training earned. Notice what the line is not: it is not a supplement, a brand, or a powder. At seventy kilos, 1.6 per kilo is about 112 grams, which ordinary food reaches without drama once someone shows you where protein hides. Hold your number against the line.",
+   "section": "THE NUMBER",
+   "sub": "under 1.0: the signal starves - 2.0: more stops helping most men",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FOLLOW THE DELIVERY FLEET"
+    },
+    {
+     "asset": "ren_horse_stance.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Enough per meal throws the switch.",
+      "Quality matters, totals matter more."
+     ],
+     "pos": "br",
+     "title": "LEUCINE IS THE FOREMAN"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SIGNAL TIMES MATERIALS"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "IF ONE IS ZERO, BOTH ARE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Follow a gram of protein through your body, because the journey explains the whole season. You eat it, digestion breaks it into amino acids, and they enter the blood as a delivery fleet. Your muscles, signaled by training, stand ready with the building switch on, pulling amino acids in and assembling them into new contractile tissue. One amino acid, leucine, acts as the foreman: when enough of it arrives in a meal, it is leucine that throws the switch hardest, which is why protein quality and per-meal dose matter at all. But here is the part the supplement ads skip: the fleet only delivers to sites where the switch is on. Untrained muscle lets most of the delivery pass by, and the surplus amino acids are simply burned or stored as energy. Protein does not build muscle. Protein permits muscle to be built, at the places and times that training has authorized.",
+   "section": "THE PROTEIN SIGNAL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TOTALS FIRST, DISTRIBUTION SECOND"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "ONE HUGE DINNER",
+       55,
+       "red"
+      ],
+      [
+       "SPREAD OVER THE DAY",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT THE RESEARCH REWARDS"
+    },
+    {
+     "asset": "ren_plank_hold.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Breakfast, lunch, dinner.",
+      "The line, without an app."
+     ],
+     "pos": "tr",
+     "title": "THREE PALMS A DAY"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REPEATABLE IN FEBRUARY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the comparison that settles a decade of arguments: the man who eats his protein in one enormous dinner versus the man who spreads it across the day. For years the advice was that distribution is everything, four perfect feedings or nothing. The fuller research picture is calmer and more useful: total daily protein does most of the work, and spreading it across three or four meals adds a modest bonus, because each decent-sized meal throws the building switch again and the switch has a refractory period of a few hours. Think of it as knocking on the door three or four times instead of once with a battering ram. For a skinny fat man, the practical translation is mercifully simple: a real protein portion at breakfast, lunch and dinner, each roughly a palm and a half to two palms, plus whatever your snacks contribute, lands you at the line without apps, scales or anxiety. The perfect protein schedule is the one a tired man can repeat in February. Totals first, distribution second, perfection never.",
+   "section": "THE PROTEIN SIGNAL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PROTEIN DEFENDS THE WAIST TOO"
+    },
+    {
+     "asset": "ren_forward_fold.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Hunger hormones stand down.",
+      "The deficit keeps itself."
+     ],
+     "pos": "br",
+     "title": "THE SATIETY EFFECT"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HE NEVER QUITE WANTS IT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A WAIST NUMBER IN DISGUISE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "There is a second job your protein number does, and for a skinny fat man it might be the more valuable one: protein defends the waist while it builds the muscle. Of the three macronutrients, protein costs the most energy to digest, burning a meaningful slice of its own calories in processing, and it is by far the most satiating, the one that tells hunger hormones to stand down for hours. In study after study of fat loss, the higher-protein groups lose more fat and, crucially, keep more muscle while doing it, which is precisely the trade this season is about. The mechanism is humble: a man who eats enough protein is simply less hungry at the hours when the belly usually gets fed, the evening snack, the second helping, the sweet thing after. He does not resist them with superior character. He never quite wants them. This is why the protein number is a waist number in disguise: it moves the denominator of every ratio by making the deficit the easiest one you have ever kept.",
+   "section": "THE PROTEIN SIGNAL",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR TARGET IS SMALL"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THE FULL LINE AT 65 KILOS",
+     "pos": "br",
+     "text": "104 G"
+    },
+    {
+     "asset": "ren_horse_stance.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "The most fixable diagnosis.",
+      "Ordinary food covers it."
+     ],
+     "pos": "tr",
+     "title": "UNDER-SUPPLIED, NOT BROKEN"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COUNT IT ONCE, HABIT FOREVER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now your advantage, and protein is where the light man's arithmetic turns generous. The line is per kilo of bodyweight, which means your target is small: at sixty-five kilos, the full line is about 104 grams a day, a number a single determined grocery shop covers for a week. The bodybuilder at 110 kilos must find 176 grams daily, a genuine logistical project involving trolleys of chicken and a blender that never rests. Your protein problem is not capacity, budget or appetite. It is only that nobody ever told you the number, so you drifted at half of it for years while training faithfully and concluding your genetics were broken. They were not broken. They were under-supplied, which is the most fixable diagnosis in this entire season. There is a second gift: because your deficit is small, you can run it entirely on ordinary food you already like, eggs, yogurt, cheese, lentils, chicken, tinned fish, with no powders, no force-feeding, and no meals that feel like medication. Small body, small target, small problem. Count it once, build the three-palm habit, and the number takes care of itself.",
+   "section": "THE PROTEIN SIGNAL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "check": 3,
+   "exercise": "WALL SIT",
+   "music": "drive",
+   "narration": "Now earn the delivery with me. Wall sit: back flat, knees at ninety, breathe slow and stay honest. The signal is being placed; dinner will do the rest. Go.",
+   "rest": 15,
+   "rounds": 3,
+   "section": "THE PROTEIN SIGNAL",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_plank_sag.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A PROTEIN ANCHOR AT EVERY MEAL"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SHAKE AT DAWN, BIRD FOOD AFTER"
+    },
+    {
+     "asset": "ren_horse_stance.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "REST DAYS OFF THE BUDGET"
+    },
+    {
+     "at": 25,
+     "kind": "fact",
+     "lines": [
+      "Calibrate the eye once.",
+      "The habit runs itself."
+     ],
+     "pos": "br",
+     "title": "COUNT 3 DAYS, THEN TRUST THE PALM"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the system that holds the number without turning eating into a second job. Build every meal around a protein anchor: eggs or yogurt at breakfast, a palm and a half of meat, fish or legumes at lunch and dinner, and let the rest of the plate arrange itself around it. Keep one high-protein snack you genuinely like within reach for the dangerous evening hour. Count precisely for three days only, long enough to calibrate your eye, then retire the app and trust the palm rule. Now the mistakes. Front-loading a giant protein shake and eating like a bird the rest of the day, which wastes the distribution bonus and leaves the evening undefended. Chasing 2.5 grams per kilo because a forum said so, bloated and broke, when your line was 1.6 all along. And the quietest mistake: hitting the number on training days and abandoning it on rest days, when the building window you opened on Tuesday is still spending materials on Wednesday. The signal does not take rest days. Neither does the budget.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 1.0: ORDERS INTO AN EMPTY WAREHOUSE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE AUDIT AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Arranged by habit, not by failure.",
+      "Habits rearrange in a week."
+     ],
+     "pos": "tr",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under 1.0: your training has been placing orders into an empty warehouse, and fixing this single number is the highest-return change available to you this season; expect the same workouts to suddenly start working. Between 1.0 and 1.6: you are building at a discount, and one added protein portion a day closes most of the gap. At or above 1.6: your materials are handled, permanently, and your attention belongs on the signals, the split, the steps, the sleep. Whatever your number is today, notice what it is not: it is not a judgment on your discipline, because most men under the line eat plenty of food, just food arranged by habit rather than by design. Habits rearrange in a week. Put your number in the comments, just the grams per kilo. We re-audit in thirty days, one honest day, same arithmetic.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FEED THE SIGNAL"
+    },
+    {
+     "asset": "ren_horse_stance.webp",
+     "at": 5,
+     "kind": "swap"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Same honest audit, thirty days from now: that is the retest. If this way of training makes sense to you, subscribe, because we test a new signal every episode. This is {channel}. Train the cable.",
+   "section": "YOUR VERDICT",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "protein intake",
+  "how much protein",
+  "skinny fat",
+  "muscle protein synthesis",
+  "protein per kilo",
+  "body recomposition",
+  "high protein diet"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_horse_stance.webp",
+  "big": "1.6 G/KG",
+  "hook": "YOUR PROTEIN NUMBER"
+ },
+ "title": "Why Your muscle protein signals Matter More Than Muscle (The protein for recomp Episode)",
+ "v5": true
+}
