@@ -26,6 +26,7 @@ Upgrades over v3, from Habl's review + the deep top-8 measurements:
   camera angle every few phrases (side / front / back / 45 degrees).
 HUD, cards and TIMER scenes are inherited from render2/render3."""
 import json, math, os, subprocess, sys
+from collections import Counter
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -98,6 +99,15 @@ def _beat_xy(pos, w, h):
             "bl": (48, H - 470), "mr": (W - 48 - w, 400),
             "ml": (48, 400)}.get(pos, (W - 48 - w, 128))
 
+_fit_probe = ImageDraw.Draw(Image.new("RGB", (10, 10)))
+def fit_size(text, size, max_w, bold=True):
+    """Shrink the font until the text fits max_w (cards have fixed widths,
+    so an unmeasured label would paint past the card edge or under a bar)."""
+    s = size
+    while s > 12 and _fit_probe.textlength(text, font=F(s, bold)) > max_w:
+        s -= 2
+    return s
+
 def current_swap(beats, j, default_asset):
     """v5: latest swap beat at or before phrase j wins, else the scene asset."""
     asset = default_asset
@@ -105,6 +115,40 @@ def current_swap(beats, j, default_asset):
         if b.get("kind") == "swap" and j >= b.get("at", 0):
             asset = b.get("asset", asset)
     return asset
+
+# ---------- episode art rotation ----------
+# Bank scripts lean on a few favourite plates per episode (median 3 distinct
+# images). The first use of any picture is the author's choice and stays;
+# every REPEAT use inside the same episode is rotated to the least-used
+# picture of the same role (anatomy -> anatomy, still -> still, ...),
+# preferring the same family. Deterministic: manifest order breaks ties.
+_MANIFEST = None
+_USED = Counter()
+def _manifest():
+    global _MANIFEST
+    if _MANIFEST is None:
+        m = json.load(open(os.path.join(ROOT, "assets", "manifest.json")))
+        _MANIFEST = {im["file"]: im for im in m["images"]}
+    return _MANIFEST
+
+def _rotate(asset):
+    man = _manifest()
+    if asset not in man:
+        return asset
+    if _USED[asset] == 0:
+        _USED[asset] += 1
+        return asset
+    role, fam = man[asset].get("role"), man[asset].get("family")
+    order = {f: i for i, f in enumerate(man)}
+    cands = [f for f, im in man.items() if im.get("role") == role and f != asset]
+    if not cands:
+        _USED[asset] += 1
+        return asset
+    cands.sort(key=lambda f: (_USED[f], 0 if man[f].get("family") == fam else 1, order[f]))
+    pick = cands[0]
+    _USED[pick] += 1
+    print(f"art rotation: {asset} already used -> {pick}")
+    return pick
 
 def draw_beats(fr, beats, j):
     d = ImageDraw.Draw(fr, "RGBA")
@@ -116,10 +160,10 @@ def draw_beats(fr, beats, j):
             w_, h_ = 860, 300
             x, y = _beat_xy(pos, w_, h_)
             d.rounded_rectangle([x, y, x + w_, y + h_], 18, fill=(18, 18, 18, 240), outline=GOLD, width=3)
-            d.text((x + 28, y + 22), b.get("title", ""), font=F(46), fill=GOLD)
+            d.text((x + 28, y + 22), b.get("title", ""), font=F(fit_size(b.get("title", ""), 46, w_ - 56)), fill=GOLD)
             yy = y + 92
             for ln in b.get("lines", [])[:2]:
-                d.text((x + 28, yy), ln, font=F(36, False), fill=WHITE); yy += 62
+                d.text((x + 28, yy), ln, font=F(fit_size(ln, 36, w_ - 56, False), False), fill=WHITE); yy += 62
             continue
         if kind == "chip":
             t = b["text"]; w_ = int(probe.textlength(t, font=F(40))) + 56
@@ -130,8 +174,9 @@ def draw_beats(fr, beats, j):
             t = b["text"]; w_ = 430
             x, y = _beat_xy(pos, w_, 190)
             d.rounded_rectangle([x, y, x + w_, y + 190], 18, fill=(18, 18, 18, 235), outline=CYAN, width=3)
-            d.text((x + 28, y + 16), t, font=F(84), fill=CYAN)
-            d.text((x + 30, y + 122), b.get("label", ""), font=F(30, False), fill=GREY)
+            d.text((x + 28, y + 16), t, font=F(fit_size(t, 84, w_ - 56)), fill=CYAN)
+            _lbl = b.get("label", "")
+            d.text((x + 30, y + 122), _lbl, font=F(fit_size(_lbl, 30, w_ - 58, False), False), fill=GREY)
         elif kind == "mark":
             sym = "✓" if b.get("ok", True) else "✗"
             col = CYAN if b.get("ok", True) else RED
@@ -144,11 +189,11 @@ def draw_beats(fr, beats, j):
             w_, h_ = 600, 240
             x, y = _beat_xy(pos, w_, h_)
             d.rounded_rectangle([x, y, x + w_, y + h_], 18, fill=(18, 18, 18, 235), outline=GREY, width=2)
-            d.text((x + 28, y + 18), b.get("title", ""), font=F(34), fill=GOLD)
+            d.text((x + 28, y + 18), b.get("title", ""), font=F(fit_size(b.get("title", ""), 34, w_ - 56)), fill=GOLD)
             yy = y + 76
             for label, pct, colname in b["items"]:
                 col = CYAN if colname == "cyan" else ((200, 60, 60) if colname == "red" else GREY)
-                d.text((x + 28, yy), label, font=F(32, False), fill=WHITE)
+                d.text((x + 28, yy), label, font=F(fit_size(label, 32, 148, False), False), fill=WHITE)
                 bw = int(330 * pct / 100)
                 d.rounded_rectangle([x + 190, yy + 4, x + 190 + bw, yy + 34], 8, fill=col)
                 d.text((x + 200 + bw, yy), f"{pct}", font=F(32), fill=col)
@@ -194,13 +239,25 @@ def narrated_frames(script, scene, tmp, idx):
     is_card = scene["type"] == "card"
     base_art = None
     swap_cache = {}
+    beats = scene.get("beats", [])
+    resolved = {}
     if not is_card:
-        base_art = fit_cover(Image.open(os.path.join(ROOT, "assets", scene["asset"])).convert("RGB"), W, H)
+        # Resolve every picture this scene will show through the episode
+        # rotation ONCE (first use in the episode stays, repeats rotate).
+        for a in [scene["asset"]] + [b.get("asset") for b in beats
+                                     if b.get("kind") in ("swap", "pip") and b.get("asset")]:
+            if a not in resolved:
+                resolved[a] = _rotate(a)
+        base_art = fit_cover(Image.open(os.path.join(ROOT, "assets", resolved[scene["asset"]])).convert("RGB"), W, H)
         # v5: pre-load every swap target so the picture can change mid-scene.
-        for b in scene.get("beats", []):
+        # Cache is keyed by the AUTHORED name; the image is the resolved one.
+        for b in beats:
             if b.get("kind") == "swap" and b.get("asset"):
                 swap_cache[b["asset"]] = fit_cover(
-                    Image.open(os.path.join(ROOT, "assets", b["asset"])).convert("RGB"), W, H)
+                    Image.open(os.path.join(ROOT, "assets", resolved[b["asset"]])).convert("RGB"), W, H)
+    draw_beat_list = [dict(b, asset=resolved[b["asset"]])
+                      if b.get("kind") == "pip" and b.get("asset") in resolved else b
+                      for b in beats]
     hud_im = hud(script, scene, scene.get("check", 0))
     fdir = os.path.join(tmp, f"ff{idx}"); os.makedirs(fdir, exist_ok=True)
     pp_cache = [phrase_png(ph) for ph in phs]
@@ -222,7 +279,7 @@ def narrated_frames(script, scene, tmp, idx):
         if tt >= scene.get("lead_pause", 0.0):
             pp = pp_cache[j]
             fr.paste(pp, (0, 830), pp)
-        draw_beats(fr, scene.get("beats", []), j)
+        draw_beats(fr, draw_beat_list, j)
         fr.paste(hud_im, (0, 0), hud_im)
         d = ImageDraw.Draw(fr)
         d.rectangle([60, 92, 60 + int(300 * min(1.0, tt / total)), 100], fill=CYAN)
@@ -291,6 +348,7 @@ def music_track(plan, total, tmp):
 
 def render5(script_path, out_path):
     script = json.load(open(script_path))
+    _USED.clear()
     sid = script.get("id", "x")
     tmp = os.path.join(ROOT, "out", f"tmp5_{sid}"); os.makedirs(tmp, exist_ok=True)
     segs, plan = [], []
