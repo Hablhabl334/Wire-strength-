@@ -4,8 +4,19 @@ Secrets (set by the channel owner in GitHub Secrets, never in code/chat):
 Quota: one upload = 1600 units of the free 10,000/day. Hard gate below.
 """
 import json, os, sys, urllib.request, urllib.parse, urllib.error
+from datetime import datetime, timedelta, timezone
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from metadata import build_description, build_tags
+
+def next_publish_at():
+    """Next 13:00 UTC (15:00 Cairo) strictly in the future, ISO 8601.
+    Runs start Mon/Wed/Fri 11:00 UTC, so this is same-day 13:00 UTC; the
+    +1 day fallback only covers a manual dispatch after 13:00 UTC."""
+    now = datetime.now(timezone.utc)
+    target = now.replace(hour=13, minute=0, second=0, microsecond=0)
+    if target <= now:
+        target += timedelta(days=1)
+    return target.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 def access_token():
     _rt = os.environ["YT_REFRESH_TOKEN"]; _cid = os.environ["YT_CLIENT_ID"]
@@ -35,7 +46,8 @@ def upload(video_path, meta, thumb_path=None):
     tok = access_token()
     body = {"snippet": {"title": meta["title"], "description": build_description(meta) + MUSIC_CREDIT,
                         "tags": build_tags(meta), "categoryId": "17"},
-            "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False}}
+            "status": {"privacyStatus": "private", "publishAt": next_publish_at(),
+                       "selfDeclaredMadeForKids": False}}
     req = urllib.request.Request(
         "https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
         data=json.dumps(body).encode(),
