@@ -1,0 +1,401 @@
+{
+ "badge": "EP 721 - TRAIN YOUR APPETITE",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE HORMONES",
+  "YOUR VERDICT"
+ ],
+ "description": "Eat your normal breakfast and time your hunger: this appetite test reads the hormone system that decides whether you gain. Here is why hunger is a trainable clock, not a fixed trait, and the protocol that widens your appetite window week by week.",
+ "hashtags": [
+  "appetite test",
+  "hunger hormones",
+  "gaining",
+  "calisthenics",
+  "skinny guy"
+ ],
+ "id": "721",
+ "scenes": [
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A COMPLETELY NORMAL BREAKFAST"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLOCK STARTS AT THE LAST BITE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR APPETITE WINDOW",
+     "pos": "tr",
+     "text": "MINUTES"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FACTORY SETTINGS, PHOTOGRAPHED"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is breakfast. Eat your completely normal morning meal, whatever it usually is, no performing for the camera of your own life, and the moment you finish, start a clock. Then simply live your morning and note the time when genuine hunger returns: not boredom, not habit, not the sight of food, but the real signal, stomach awake and asking. The minutes between the last bite and that signal are your appetite window, and they are today's number. Write it down with what you ate. Most skinny guys believe their appetite is a fixed trait, a small stomach handed out at birth. This episode will show you the machinery underneath the window, and machinery, unlike fate, has settings. Your minutes today are the factory settings, photographed before we touch a single dial.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CYCLE TIME OF GAINING"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "WHAT A WIDE WINDOW ALLOWS",
+     "pos": "br",
+     "text": "5 MEALS"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "IT REPORTS THE MEAL AND THE MAN"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A MACHINE, NOT A FATE"
+    }
+   ],
+   "big": "3 HRS",
+   "card": "bignum",
+   "check": 1,
+   "label": "A WORKING APPETITE WINDOW AFTER A REAL BREAKFAST",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the reading frame. A window under two hours after a normal breakfast usually means the meal was small, liquid-light or both, and the system emptied it at speed; the window is reporting the meal more than the man. Two to three hours is the common skinny setting: a modest meal, a normal emptying rate, and a hunger signal that arrives on a schedule set by habit. Over three hours after a genuinely solid breakfast is a wide window, the kind gainers are trying to build toward at every meal. Understand what the window actually prices: it is the cycle time of your gaining engine. A man who can eat a real meal every three hours, comfortably, five times a day, does not have a metabolism problem. He has a machine that gaining is easy to feed. Your number today is that machine's current cycle time.",
+   "section": "THE NUMBER",
+   "sub": "under 2 hrs: a fast, small window - 2 to 3: the common skinny setting - over 3: a wide window",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Hunger knocks when it is trained to.",
+      "The signal follows the habit."
+     ],
+     "pos": "tr",
+     "title": "GHRELIN LEARNS YOUR SCHEDULE"
+    },
+    {
+     "asset": "ren_farmer_carry.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A RHYTHM IN A HORMONE COSTUME"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TWICE A DAY, TWICE IT KNOCKS"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SCHEDULE YOU HAVE BEEN RUNNING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Under the window sits an endocrine negotiation. Ghrelin, made mostly in the stomach, is the hunger signal itself: it rises before meals, falls after them, and, crucially, it learns your schedule, surging at the times you habitually eat whether or not the tank is empty. Leptin, released from fat tissue, reports the long-term account in the other direction. Stretch receptors in the stomach wall report volume in real time, and the brain integrates all of it into the single feeling you call appetite. Read that machinery again and notice what it means: hunger is a trained rhythm wearing a hormone costume. The man who eats twice a day has ghrelin that knocks twice. The man who eats five times has a signal that knocks five times, because he taught it to. Appetite is not the hand you were dealt. It is the schedule you have been running.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ENTRAINMENT IN DAYS TO WEEKS"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "UNTRAINED",
+       120,
+       "red"
+      ],
+      [
+       "TRAINED",
+       200,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE WINDOW, BEFORE AND AFTER TRAINING"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE ORGAN OF THE SMALL-STOMACH MYTH",
+     "pos": "tr",
+     "text": "ELASTIC"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A TRAINING AGE, NOT A VERDICT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The research on appetite adaptation is quietly encouraging for the skinny trainee. Studies of scheduled eating find hunger hormones entraining to new meal times within days to weeks: add a meal at a fixed hour and the body begins anticipating it, ghrelin rising on schedule, the stomach's capacity and emptying adjusting to the new load like any trained tissue. Liquid calories empty faster than solid ones, which cuts both ways, easier to get down, quicker to hunger again, a tool we will use deliberately. And the stomach itself is not the rigid pouch of the small-stomach myth: it is an elastic organ whose comfortable capacity expands with regular, progressive exposure, the same overload principle as every muscle on this channel, applied to the one organ lifters forget to train. Your window is not a verdict on your anatomy. It is a training age, and yours is simply young.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CYCLE TIME DECIDES GAINING"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Eat, clear, knock, eat.",
+      "A rhythm, not a siege."
+     ],
+     "pos": "br",
+     "title": "THE METRONOME"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THROUGHPUT IS THE HIDDEN STRENGTH"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the hidden strength inside this test, and it reframes the whole gaining problem. A short appetite window is usually mourned as a curse, but read the machinery again: fast emptying and a punctual hunger signal are, in a trained system, exactly what a high-throughput eating machine looks like. The bodybuilders who eat six meals a day are not enduring constant fullness; they built systems that clear meals efficiently and knock on time. Your window, properly trained, becomes a metronome: eat, clear, knock, eat, each cycle carrying a few hundred more calories than your current surplus requires. The men who fail at gaining almost never fail at arithmetic; they fail at cycle time, trying to force a day's surplus through two reluctant meals. Your test today measures the one variable that decides whether gaining feels like a siege or a rhythm.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A SMALL SURPLUS TARGET"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "EXTRA CALORIES: THE WHOLE PROBLEM",
+     "pos": "br",
+     "text": "300-500"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE KITCHEN IS MINUTES AWAY"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THREE DIALS, ONE FORTNIGHT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantages in appetite training are real and specific. Your absolute surplus target is small: a man of sixty kilos may need only three to five hundred extra calories a day to gain steadily, which is one well-built shake or one honest extra meal, a cycle-time problem of the easiest size. Your training, bodyweight work done at home, sits minutes away from your kitchen, so the post-training meal, the easiest eating window of the day, is never a commute away. And your feedback is beautifully measurable: the window in minutes, the scale weekly, the strength numbers this channel already collects, three dials that together tell you within a fortnight whether the machine is speeding up. The heavy gainer must force-feed against satiety hormones funded by a large fat mass. You are negotiating with a small, trainable rhythm section. It is not close.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Now we open today's eating window the reliable way: work. Four rounds of push-ups, thirty seconds on, thirty off, clean form. Training is the oldest appetite stimulant there is. Eat within the hour.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EAT ON A SCHEDULE, NOT A SIGNAL"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ONE ANCHOR FEEDING DAILY"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "GROW MEALS BY A TENTH"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LOG WINDOW AND SCALE TOGETHER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The appetite protocol, four rules. One: eat on a schedule, not on a signal: set four or five fixed meal times and keep them for two weeks, because ghrelin entrains to the clock you keep, not the one you wish for. Two: add one anchor feeding of roughly five hundred calories, a shake of milk, oats, banana and peanut butter is the classic, at the same time daily, liquid enough to clear fast and return your hunger on schedule. Three: grow each meal by a tenth when the window allows, the overload principle applied to the stomach, patient and progressive. Four: retime today's test monthly, same breakfast, same rules, and log the window beside the scale's weekly average. You are not forcing food into a reluctant body. You are training an organ and a hormone rhythm, with the same patience you give your tendons.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE ENGINE, NOT THE OBSTACLE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN TIME BREAKFAST AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR WINDOW IN MINUTES"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A RHYTHM YOU TRAIN"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. A window under two hours on a small breakfast: the meal was the message, and your first fix is a real breakfast, tested again before you judge the machine. Two to three hours: the common skinny setting, a trainable rhythm currently running a two-to-three-meal life, and the protocol's schedule is precisely its upgrade. Over three hours after a solid meal: a wide window and a gaining engine already built; your work is aiming it, surplus placed, protein anchored, strength progressing. In every band, the title's promise holds: the test revealed hidden strength, because a fast, punctual appetite, trained, is not the obstacle to gaining. It is the engine of it. Put your window in minutes in the comments, just the number. In thirty days, we time breakfast again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A LONGER WINDOW"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same breakfast, same clock, same honest hunger. Bring me a longer window and a heavier week behind it. Subscribe, and keep today's minutes safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "appetite test",
+  "hunger hormones",
+  "ghrelin",
+  "how to eat more",
+  "skinny guy gaining",
+  "appetite training"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_weak.webp",
+  "big": "500 KCAL",
+  "hook": "TRAIN YOUR APPETITE"
+ },
+ "title": "Your Appetite Test Reveals Your Hidden Strength",
+ "v5": true
+}

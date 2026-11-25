@@ -1,0 +1,406 @@
+{
+ "badge": "EP 717 - THE DAY-AFTER TAX",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TAX",
+  "YOUR VERDICT"
+ ],
+ "description": "A wall sit the day after leg training, against your rested best: this timing test prices the day-after tax exactly. Here is the truth about recovery curves, why each system pays at a different rate, and how to build a week that respects the receipts.",
+ "hashtags": [
+  "timing test",
+  "recovery curves",
+  "wall sit",
+  "calisthenics",
+  "day-after tax"
+ ],
+ "id": "717",
+ "scenes": [
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONLY ON THE DAY AFTER LEGS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BACK FLAT, KNEES AT NINETY"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "RESTED BEST MINUS TODAY",
+     "pos": "tr",
+     "text": "THE TAX"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "READ IT AS ACCOUNTING"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test must be taken on a specific day: the day after leg training. If yesterday was not a leg day, file this episode and come back when it is, because the timing is the entire experiment. Set up against a wall, back flat, knees at ninety degrees, feet under knees, and sit. Start the clock and hold until your thighs call the meeting to an end. That time is today's number. Beside it, write your rested wall sit best, the same test taken on a fresh day, which this channel has measured before. Two numbers, one subtraction, zero excuses: the difference is the day-after tax, expressed in seconds your legs paid for yesterday's work. Most men feel this tax and call it being out of shape. You are about to read it as accounting.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TAX TABLE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE HONEST HARD DAY",
+     "pos": "br",
+     "text": "10-30%"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KNOW YOUR TYPICAL RATE"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE WEEK'S INTEREST FIGURE"
+    }
+   ],
+   "big": "20%",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE NORMAL DAY-AFTER TAX ON A HARD LEG DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the tax table. Under ten percent says yesterday's session was lighter than you thought, or your legs recover unusually fast, and either fact is worth knowing before you plan the week. Ten to thirty percent is the honest hard day: a real cost, properly dug, repayable in the normal window. Over thirty percent means yesterday was a canyon, the kind of session whose bill arrives across three days and quietly taxes everything scheduled after it. The number that matters most is not any single reading; it is your typical rate, the percentage your legs usually charge for a standard hard day, because that rate is the interest figure your whole training week is financed at. Men who never measure it plan their weeks in a currency they cannot convert.",
+   "section": "THE NUMBER",
+   "sub": "tax under 10%: yesterday was light - 10 to 30%: an honest hard day - over 30%: yesterday was a canyon",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Fuel, fiber, and nerve.",
+      "The wall sit hides none of them."
+     ],
+     "pos": "tr",
+     "title": "THREE DEBTS, ONE NUMBER"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO TECHNIQUE TO HIDE BEHIND"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONLY WHAT TISSUE CAN PAY"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "AN ISOMETRIC AUDIT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "What exactly is being taxed in a wall sit the day after legs? The wall sit is an isometric audit: no skill, no momentum, just the quadriceps holding a fixed length against your bodyweight while the clock watches. Yesterday's session left three debts in that tissue. Fuel debt: glycogen partially spent, refilling on a day-scale clock. Fiber debt: the micro-disruptions from our soreness episode, mid-repair, with the cleanup crew still on site sensitizing the neighborhood. And neural debt: the recruitment system itself, temporarily less willing to fully commit, the brake from our drive episode riding a little harder while repairs proceed. The wall sit reads all three debts in a single number because it removes every trick that could hide them. There is no technique in a wall sit. There is only what the tissue can currently pay.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A COMMITTEE, NOT A CURVE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FUEL: ~1 DAY",
+       30,
+       "cyan"
+      ],
+      [
+       "FIBERS: 2-4 DAYS",
+       65,
+       "gold"
+      ],
+      [
+       "TENDONS: SLOWEST",
+       95,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "RECOVERY, SYSTEM BY SYSTEM"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "HELD BY THE SLOWEST MEMBER",
+     "pos": "tr",
+     "text": "VETO"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE ONE YOU CANNOT FEEL SETS IT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The truth about recovery curves, stated plainly, is that there is no single curve and there never was. Each system in the bundle recovers on its own schedule, and the schedules differ enough to matter: fuel in about a day, neural freshness in one to three, muscle fibers in two to four after hard eccentric work, and tendons and connective tissue on the slowest clock in the body, the collagen calendar this channel keeps returning to. Training programs fail quietly when they are written against the fastest curve while the slowest system is still in debt, which is how a man whose muscles feel ready tears into a session his Achilles has not approved. The wall sit cannot read your tendons directly, but its lesson generalizes: the system you cannot feel is the one that sets the schedule. Recovery is a committee, and the slowest member has the veto.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE POINTS, YOUR NAME ON THEM"
+    },
+    {
+     "asset": "ren_split_squat_top.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Day 1: deep tax. Day 2: partial.",
+      "Day 3-4: the small overshoot."
+     ],
+     "pos": "br",
+     "title": "FIND THE OVERSHOOT DAY"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NINE SITS BUY THE COORDINATE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the measurement that turns today's test into an instrument: take the wall sit on day one, day two and day three after the same standard leg session, across three different weeks, and average each day. What emerges is your legs' personal recovery curve, three honest points with your name on them, and it will likely show the classic shape: a deep tax on day one, a partial refund on day two, and a small overshoot, a wall sit slightly better than your old rested best, somewhere around day three or four. That overshoot point is the most valuable coordinate in your training life, because it is where the next hard leg session belongs. Everything before it is spending from debt; everything long after it is interest uncollected. Nine wall sits across a month buys you that coordinate forever, and it cost you nothing but a wall and the willingness to write numbers down.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STANDARD DOSE, CLEAN READINGS"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "YOUR OVERSHOOT ARRIVES EARLY",
+     "pos": "br",
+     "text": "SOONER"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A LABORATORY THAT TRAVELS"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "IT NEVER CLOSES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in tax accounting is that your leg training is precisely doseable and your test is perfectly repeatable. Bodyweight leg work lets you standardize the session that creates the tax, same movements, same volume, same floor, so the three-day readings actually compare. The barbell man's tax wobbles with every plate choice and every gym's different equipment, and his day-two number is partly a measurement of his own inconsistency. Yours is clean. Your absolute damage also runs lower, so your curve completes faster and your overshoot arrives sooner, which means more well-timed hard sessions per month and more compounding than the heroic schedule ever delivers. And the wall sit itself costs you nothing to perform anywhere, which means the instrument travels: hotel walls and office walls read the same as your own. A laboratory that fits in a carry-on is a laboratory that never closes.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "check": 3,
+   "exercise": "WALL SIT",
+   "music": "drive",
+   "narration": "Now we train the audit itself, at moderate depth. Three rounds: forty-five seconds of wall sit, thirty seconds standing and shaking out. Form flat against the wall, breathing slow. This is a deposit, not a withdrawal.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_wall_sit_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SURVEY THE THREE DAYS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HARD LEGS ON THE OVERSHOOT"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ADJUST THE PLAN, NOT YOUR TOUGHNESS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RESPECT YOUR OWN RECEIPTS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The tax protocol, four rules. One: survey your legs' curve this month, day one, two and three wall sits after one standard leg session, repeated three weeks, averaged. Two: schedule hard leg days on the overshoot coordinate your data shows, and let upper body and skill work fill the taxed days, since their curves run on different clocks. Three: read a surprise tax like an auditor: a day-two number still deep in debt means yesterday's session was bigger than the plan admitted, and the plan, not your toughness, gets adjusted. Four: when the tax is high, train technique, mobility and the systems that are fresh, and never pay a canyon's bill by digging a second canyon beside it. Weeks are won by men who respect their own receipts.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PLURAL AND PERSONAL"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN AUDIT THE DAY AFTER AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TAX PERCENT"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SLOWEST MEMBER VOTES LAST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. A tax under ten percent: yesterday was lighter than it felt, or your legs are genuinely quick recoverers, and your survey will tell you which within the month. Ten to thirty: the honest hard day, properly dug and normally repaid, the standard transaction of a working training life. Over thirty: a canyon, and the correct response is not pride but bookkeeping: that session's true cost includes every session it will tax this week, so price it accordingly next time. In every band, the truth about recovery curves is now yours in numbers: they are plural, they are personal, and the slowest member votes last. Put your tax percentage in the comments, just the number. In thirty days, we audit the day after again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit_front.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A BETTER-PRICED SESSION"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, the day after legs, same wall, same ninety degrees, same honest clock. Bring me a smaller tax or a better-priced session. Subscribe, and keep today's two numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "timing test",
+  "recovery curves",
+  "wall sit test",
+  "day after training",
+  "supercompensation",
+  "leg recovery"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_wall_sit.webp",
+  "big": "-20%",
+  "hook": "THE DAY-AFTER TAX"
+ },
+ "title": "Your Timing Test Reveals the Truth About Your recovery curves",
+ "v5": true
+}

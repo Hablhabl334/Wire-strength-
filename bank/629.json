@@ -1,0 +1,396 @@
+{
+ "id": "629",
+ "v5": true,
+ "title": "The jump retest Benchmark: Where Your Achilles stiffness Ranks",
+ "description": "Ninety days ago you jumped and we measured the spring in your Achilles. Today the jump retest ranks your new height against the benchmark. Same wall, same chalk, same rules, and a verdict on whether your tendons really got stiffer and faster.",
+ "tags": [
+  "jump retest",
+  "Achilles stiffness",
+  "vertical jump test",
+  "jump benchmark",
+  "tendon spring",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "vertical jump",
+  "retest day",
+  "achilles tendon",
+  "benchmark",
+  "calisthenics",
+  "tendon training"
+ ],
+ "category": "retests",
+ "badge": "EP 629 - JUMP RETEST",
+ "checklist": [
+  "THE RETEST",
+  "THE BENCHMARK",
+  "THE SPRING",
+  "YOUR RANK"
+ ],
+ "thumb": {
+  "asset": "ren_jump_peak.webp",
+  "big": "RETEST",
+  "hook": "JUMP RETEST",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE RETEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you chalked your fingers. | Stood beside a wall. | Jumped as high as possible. | And marked the wall. | That mark is still your truth. | Today we jump again. | Same wall. | Same chalk. | Same shoes, or barefoot, | exactly like day one. | Three jumps. | Your best one counts. | Reach with the same hand. | No running start. | No step into it. | Just dip, drive, and fly. | Measure the new mark. | That gap above the old one | is why we are here. | At the end, | I rank your spring, | and we read the gap together.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME WALL, SAME CHALK",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "THE OLD MARK IS WAITING",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "NO RUNNING START",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEW MARK LOCKED IN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "50 CM",
+   "label": "THE JUMP BENCHMARK FOR SKINNY GUYS",
+   "sub": "under 35 cm: building - 50: trained spring - over 60: elite bounce",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the benchmark this channel uses for a standing vertical jump. Fifty centimeters is the trained spring line, the point where your Achilles tendons are clearly recycling energy instead of leaking it. Over sixty is elite bounce, rare air for any body type. Under thirty-five is the building band, where almost every skinny beginner starts, because school and chairs trained your spring out of you for years. Notice what the benchmark measures. Not leg size. Not bodyweight tricks. It measures how much of your dip comes back up as flight, and that percentage belongs to your tendons far more than to your muscles.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "50 CM",
+     "label": "THE TRAINED SPRING LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "60+ CM = ELITE BOUNCE",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "IT MEASURES THE BOUNCE-BACK",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "achilles_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at the back of the ankle. The Achilles is the thickest tendon in your body, and in a jump it works like a catapult cable. When you dip, the calf muscle holds tight and the tendon stretches, storing energy like a drawn bow. When you drive up, the tendon recoils and hands that energy back for free. Ninety days of jumps, hops, and calf work stiffen that cable. A stiffer Achilles stretches less for the same force, recoils faster, and wastes less of your dip as heat and wobble. Your legs may look identical in the mirror. The spring inside them is a different piece of hardware now. One more detail hides in your warm-up, or rather in its absence on day one. Tendons are temperature-sensitive: a warmed Achilles is more elastic in the useful direction and recoils with less internal friction, which is why tested jumpers always jump after a standard warm-up and never straight out of a chair. If today's jumps followed the same warm-up as day one, the comparison is clean. If they did not, part of your gap is thermal, and the honest fix is to standardize the warm-up, not to celebrate or panic.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "THE ACHILLES IS A CATAPULT",
+     "lines": [
+      "It stores your dip and returns it free."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_achilles_profile.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "STIFFER CABLE, FASTER RECOIL",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "THICKEST TENDON",
+     "label": "IN THE HUMAN BODY",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_achilles_profile.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now read your gap like a scientist. Jump researchers separate two kinds of improvement. The first is strength: you push the ground harder. The second is spring efficiency: you lose less of that push between the dip and the takeoff. Tendon training mostly buys the second kind, and it shows up as a strange pattern. Your jump rises a few centimeters while your legs feel no bigger and your squat barely changes. That is the signature of a stiffer Achilles doing free work. A gain of three to five centimeters in ninety days is a strong, believable tendon result. Ten centimeters usually means day one's technique was the real beginner, and that is useful news too. One more pattern in the data is worth naming. Jumpers often find their second jump of the day is their best, because the first jump wakes the spring up: tendons respond to a few loading cycles by stiffening into their working state, a phenomenon coaches exploit with priming hops. If your best mark today came on jump two or three, that is the system working as designed. Standardize three attempts forever, and let the spring have its warm-up inside the test itself.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "DAY 1 JUMP",
+       38
+      ],
+      [
+       "DAY 90 JUMP",
+       50
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "EFFICIENCY, NOT JUST FORCE",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "3-5 CM IS A REAL RESULT",
+     "lines": [
+      "Tendon gains are honest and modest."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "READ THE GAP, NOT THE MIRROR",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "A stiffer spring also changes how you land, and landing is where this retest quietly grades your safety. On day one, a soft, leaky Achilles let your heels slam and your knees cave inward to absorb what the tendon could not. A trained tendon catches the landing early, spreads the force over time, and hands it back into the next step or the next jump. Coaches call this reactive strength, and it is why spring training protects ankles and knees instead of just chasing height. If your landings sound quieter today, that hush is your tendon passing its other exam, the one nobody filmed. And the landing lesson compounds quietly into the rest of your training. Every squat descent, every stair, every hop off a curb is a landing your Achilles grades without asking. A tendon trained to catch and return force turns a hundred daily impacts into practice. An untrained one turns them into withdrawals. Your retest measured the spring at its loudest. The quiet version of the same result is happening under every step you took today.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "QUIETER LANDINGS COUNT TOO",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "ankle_ligament_plate.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "REACTIVE",
+     "label": "STRENGTH PROTECTS JOINTS",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "THE SPRING GRADES SAFETY",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Time for the reframe, and jumping is where skinny guys should smile. Flight is a power-to-weight contest. Every gram you do not carry is a gram your spring does not have to launch. The big guy's muscles are stronger in absolute terms, but his tendons must catapult a far heavier frame, and tendon stiffness does not scale up just because the body did. Your frame lets a modest, well-trained Achilles produce embarrassing results next to men twice your size. This is why the benchmark never asks your weight. On the wall, there is only the mark, and the mark does not care what the scale said this morning.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "POWER-TO-WEIGHT IS YOUR GAME",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "HEAVY FRAME",
+       42
+      ],
+      [
+       "YOUR FRAME",
+       50
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "THE MARK IGNORES THE SCALE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "SPRING BEATS SIZE HERE",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "POGO HOPS",
+   "work": 20,
+   "rest": 40,
+   "rounds": 4,
+   "asset": "ren_jump_peak.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we sharpen the spring together. Four rounds of pogo hops: twenty seconds of quick, stiff-ankle bounces, forty seconds to walk it off. Short ground contact, tall posture, quiet landings."
+  },
+  {
+   "type": "art",
+   "asset": "ren_eccentric_drop.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-level protocol avoids the three mistakes that stall jump retests. Mistake one is testing on tired legs. A retest after leg day measures fatigue, so jump day always comes fresh. Mistake two is chasing depth. A deeper dip turns the test into a squat contest and hides the spring, so keep the dip quick and shallow, exactly like day one. Mistake three is all jumping and no slow strength. The tendon needs heavy calf work to keep stiffening between bounce sessions. The protocol: two spring days a week, pogos and low hops, plus two heavy slow calf days, and the wall only gets retested every thirty days. One weekly detail protects the spring while you chase it: the landing audit. Once a week, film three landings from the front. Knees tracking over toes, hips level, sound low. The day your landings drift is the day the spring work pauses and the strength work doubles, because a stiff tendon landing badly is just a faster route to the same injury. Height is the headline. Landing is the contract.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "TESTING ON TIRED LEGS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "CHASING DIP DEPTH",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "NO SLOW STRENGTH WORK",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE SPRING PROTOCOL",
+     "lines": [
+      "2 bounce days. 2 heavy calf days."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR RANK",
+   "label": "THE JUMP RETEST VERDICT",
+   "sub": "comment your old and new marks in centimeters",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Verdict time. Over sixty centimeters: elite bounce, and your next test is the repeated hop, where springs go to be humbled. Fifty to sixty: trained spring, ranked and rising, so keep the protocol and chase efficiency. Thirty-five to fifty: the building band, where the next ninety days pay the best interest. Under thirty-five: still building the base, and the honest fix is slow calf strength before more jumping. Whatever the wall says, comment both marks below in centimeters, old and new, and circle the retest thirty days out. Springs change slowly, then suddenly. The wall will be the first to know.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "60+ CM",
+     "label": "ELITE BOUNCE TERRITORY",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "EFFICIENCY IS THE CLIMB",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT BOTH MARKS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RETEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "The old mark was your starting spring. The new mark is your rebuilt one. Keep bouncing, keep the calf work heavy, and bring me a higher line next retest. Subscribe so you never miss retest day. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "BRING BOTH MARKS",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

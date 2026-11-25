@@ -1,0 +1,410 @@
+{
+ "badge": "EP 563 - ANKLE OVER MUSCLE",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE STIFFNESS",
+  "YOUR VERDICT"
+ ],
+ "description": "Every step, hop and sprint you own passes through one small joint, and the quality that decides its price is not muscle. It is ankle stiffness. Count your hops and learn why the spring in your ankle outranks the size of your calf.",
+ "hashtags": [
+  "ankle stiffness",
+  "pogo hops",
+  "reactive strength",
+  "spring ankles",
+  "ground contact"
+ ],
+ "id": "563",
+ "scenes": [
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TALL AS A FENCE POST"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TWENTY SECONDS OF SPRING"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "HOP COUNT"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "IT GRADES THE SPRING"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR COUNT SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Hands on hips, feet under you, tall as a fence post. When the clock starts, hop in place, small and springy, ground barely touched, for twenty seconds. Count every clean hop. That count is your number today. Now consider what just happened at your ankle, dozens of times, faster than thought. Each landing loaded the joint with multiples of your bodyweight, and each time the ankle had a choice: yield and return the energy like a spring, or collapse and bill the muscles for the difference. The quality that decides that choice is ankle stiffness, and this episode argues it matters more than muscle for everything your legs do at speed. Your calf can be strong as an ox and slow as one too. The hop count does not grade the ox. It grades the spring. Keep your count safe. At the end, I will tell you which one you have been training.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MUSCLE IS SLOW, SPRINGS AREN'T"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "THE SPRING PAYS YOU",
+     "pos": "br",
+     "text": "45+"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FROM PAYING TO BEING PAID"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STIFFNESS IS THE EXCHANGE RATE"
+    }
+   ],
+   "big": "40 HOPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHERE MUSCLE ENDS AND STIFFNESS BEGINS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for twenty seconds of hopping. Forty is where the bill changes hands. Under thirty, your muscles are paying full price for every hop, contracting deliberately, burning, slowing, because muscle is a wonderful engine with a fatal flaw for this job: it is slow, and twenty seconds of fast contacts outruns it. Over forty-five, the spring has taken over the payments, tendon and reflex returning energy at a speed muscle cannot invoice, and the hopping feels almost free. That transition, from paying to being paid, is the entire subject of lower-leg performance. Sprinting, jumping, cutting, landing: all of them are priced in the same currency of contact time, and stiffness is the exchange rate. Your count today told us your current rate, to the hop.",
+   "section": "THE NUMBER",
+   "sub": "under 30 in 20 sec: muscle is paying full price - over 45: the spring pays you",
+   "type": "card"
+  },
+  {
+   "asset": "ankle_ligament_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Pre-tension, store, return,",
+      "inside two-tenths of a second."
+     ],
+     "pos": "tr",
+     "title": "A COMMITTEE UNDER DEADLINE"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TUNED RESISTANCE, NOT RIGIDITY"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TIMING OVER CIRCUMFERENCE"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FAST COMMITTEES VANISH UPWARD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the ankle as a structure under deadline. When the forefoot strikes, the joint begins to yield, and three things must happen inside roughly two-tenths of a second: the calf must already be pre-tensioned by the nervous system, the Achilles and the arch must stretch and store the energy, and the stretch reflex must fire the return before the window closes. Stiffness is the name for how well that whole committee performs. It is not rigidity; a rigid ankle would shatter the chain. It is tuned resistance, yielding exactly enough to load the spring and not a degree more. Muscle contributes the pre-tension, which is why this is not an anti-muscle episode. But the star of the committee is the spring itself, and the spring's quality, its stiffness, is a property of tendon and nerve timing, not of calf circumference. Big calves with slow committees hop like furniture. Small calves with fast ones disappear off the ground.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE STIFFNESS FINGERPRINT"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "SPRING TRAINING",
+       90,
+       "cyan"
+      ],
+      [
+       "SIZE TRAINING",
+       25,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "REACTIVE STRENGTH GAINS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PERFORMANCE WITHOUT SIZE"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science here has a flagship measure: reactive strength, the ratio of jump height to ground contact time, and it behaves like a stiffness fingerprint. Athletes with high reactive strength are not always the strongest in the gym; they are the ones whose ankles return energy fastest, and the quality predicts sprint and jump performance with embarrassing consistency. Training studies add the hopeful half: reactive strength improves with short-contact plyometrics, stiff hopping and sprinting itself, often within six to eight weeks, and it improves in people whose muscle size does not change at all during the program. Read that again. Performance rose while the mirror saw nothing. The adaptation lived in tendon stiffness and reflex timing, tissues the fitness industry cannot photograph and therefore rarely sells. Your hop count is a home version of the laboratory's favorite number, and it can move while your calves stay exactly their size.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FOOT VOTES TOO"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "BAREFOOT TO WAKE IT",
+     "pos": "br",
+     "text": "SMALL DOSES"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A SOFT FOUNDATION TAXES ALL"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EVERY LINK SETS A BUDGET"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One more member of the committee deserves a hearing: the foot. The arch is a spring in its own right, and its stiffness is set by small muscles inside the foot that modern shoes have spent decades politely retiring. When the arch arrives late or soft, the ankle above it inherits the slop, and no amount of calf work fully compensates for a soft foundation. This is why barefoot hopping in small doses, toe exercises, and time spent out of cushioned shoes show up in serious spring programs. The chain metaphor is literal here: foot, ankle, knee, hip, each link's stiffness setting the next link's budget. Your committee has a member you have been ignoring inside your shoe, and it votes on every hop you counted today.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEAP CONTACTS, ENDLESS REHEARSAL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF CONTACTS A WEEK",
+     "pos": "br",
+     "text": "THOUSANDS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A PRACTICE SCHEDULE, NOT DAMAGE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BY CONSTRUCTION, NOT BIRTH"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the stiffness economy is that your contacts are cheap and your spring is lightly loaded. Every hop asks your ankle to return your bodyweight, and your bodyweight is the smallest bill in the room, so your committee can rehearse thousands of clean, fast contacts a week while heavier athletes ration theirs against joint wear. Stiffness is a rehearsal quality: it improves with the number of times the committee performs under deadline and survives to perform again. The heavy athlete's training is a negotiation with damage. Yours is a practice schedule. And in the end, the hop test, the sprint and the jump all pay the same person: not the one with the most muscle at the ankle, but the one whose spring answers fastest. That person can be you by construction, not by birth.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "POGO HOPS",
+   "music": "drive",
+   "narration": "Now we rehearse the committee together. Four rounds of tall, stiff hops, twenty seconds each, quick and quiet ground. Rest fully. The spring learns from clean contacts only.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ankle_ligament_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TALL, STIFF, SHORT SETS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HEAVY SLOW CONSTRUCTION"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WAKE THE FOOT UP"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EVERY OTHER DAY"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SINGLE-LEG LAST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for a stiffness-first ankle. Step one: hop tall and stiff in short sets, knees nearly straight, contacts quick and quiet, stopping the moment the bounce turns squatty, because the committee only learns the version you rehearse. Step two: build the spring's construction with heavy slow calf raises, full range and honest pauses, the collagen work that gives the reflex something worth firing. Step three: wake the foot, a few barefoot minutes on firm ground several times a week, toes gripping, arch working, in doses a beginner's spring can afford. Step four: keep the calendar tendon-friendly, spring work every other day, because stiffness is remodeled during rest and a tired committee rehearses sloppiness. Step five: progress to single-leg hops only when both feet bounce like springs, and back off any sharp ankle pain, seeing a professional if it persists. Six to eight weeks, and the count moves while the mirror minds its business.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "AN UNTRAINED ASSET"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR COUNT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "IT IGNORES TAPE MEASURES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your count, read as a stiffness grade. Under thirty: your muscles have been paying full price for your hops, which means your spring is an untrained asset and the protocol is pure upside. Thirty to forty-five: the committee is forming, contacts shortening, and your remaining gains live in consistency and construction. Over forty-five: your ankle returns energy like an athlete's, whatever your calf measures, and you own the quality that sprinting and jumping actually pay for. Put your count in the comments, just the number, honest twenty seconds, tall and stiff. Retest in thirty days, same floor, same rules. The spring keeps its books in contacts per second, and it does not care about your tape measure.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SPRINGIER COUNT"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, twenty seconds, bring me a springier count. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "ankle stiffness",
+  "ankle hops",
+  "pogo hops",
+  "achilles tendon",
+  "reactive strength",
+  "ground contact",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "20 SEC",
+  "hook": "SMALL JOINT, BIG JOB"
+ },
+ "title": "Why Your ankle stiffness Matter More Than Muscle (The ankle hops Episode)",
+ "v5": true
+}

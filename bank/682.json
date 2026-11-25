@@ -1,0 +1,387 @@
+{
+ "badge": "EP 682 - THE JUMP TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SWITCHBOARD",
+  "YOUR VERDICT"
+ ],
+ "description": "Your vertical jump is a laboratory test of your nervous system disguised as a party trick. Measure it properly, learn what motor unit recruitment and rate coding really contribute, and stop making the five mistakes that leave your muscle switched off.",
+ "hashtags": [
+  "neural drive",
+  "jump test",
+  "motor units",
+  "explosive",
+  "recruitment"
+ ],
+ "id": "682",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REACH, THEN JUMP: BEST OF THREE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FULL REST BETWEEN ATTEMPTS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR NEURAL GRADE",
+     "pos": "tr",
+     "text": "CM OF JUMP"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP THE BEST MARK"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is the oldest laboratory in sport: the vertical jump. Chalk your fingertips, or wet them, stand side-on to a wall, and reach up as high as you can with feet flat; mark that height. Now step back, dip quickly, swing your arms, and jump to touch as high as possible. Mark that too. Three attempts, full rest between them, best mark counts. The difference between the two marks, in centimetres, is your number, and it is one of the purest readings of your nervous system that exists outside a laboratory. A jump is too fast for strategy and too total for cheating: in about a quarter of a second, your brain must recruit nearly everything it owns, fire it at maximum rate, and coordinate it through ankles, knees, hips, and arms, while your tendons return whatever spring they have stored. Whatever is missing from that chain, recruitment, speed, spring, or nerve, the centimetres report it without opinion. Keep your best number. By the end, you will know which link in your chain is the quiet one.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE MUSCLE WAS THERE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE TRAINED SWITCHBOARD",
+     "pos": "br",
+     "text": "90%"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ACCESS IS FAST TO TRAIN"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STRENGTH BEFORE SIZE"
+    }
+   ],
+   "big": "90%",
+   "card": "bignum",
+   "check": 1,
+   "label": "HOW MUCH OF YOUR MUSCLE YOU CAN ACTUALLY SWITCH ON",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the fact that reorganises how most men think about strength. In laboratory measures of voluntary activation, how much of a muscle a person can switch on by trying, untrained people commonly leave a real share of the muscle dark, while highly trained lifters approach nearly complete activation in the muscles they have practised. The muscle was there the whole time. The switchboard was understaffed. This is why beginners gain strength for weeks before they gain visible size: the early gains are mostly the nervous system learning to recruit what it already owns, firing units it previously kept in reserve and firing all of them faster. Your jump reads exactly this quality. A low number with decent muscles is not a muscle problem; it is an access problem, and access is the fastest quality in the body to train. Ninety percent is the neighbourhood the trained switchboard lives in. The rest of this episode is about moving your number toward it.",
+   "section": "THE NUMBER",
+   "sub": "untrained: whole districts stay dark - trained: nearly the full grid lights",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Recruitment: how many units.",
+      "Rate coding: how fast they fire."
+     ],
+     "pos": "tr",
+     "title": "TWO DIALS"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BIG UNITS ARE HELD IN RESERVE"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "IT IS THE MANAGEMENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Open the switchboard and look at the wiring. Your muscles are not single engines; they are fleets of motor units, each one a nerve cell plus the bundle of fibres it commands. Small units fire first and handle gentle work, a whisper of force for posture and precision. Large units, the ones wired to your fastest, strongest fibres, are held in reserve for genuine emergencies, a recruitment order called the size principle. Two dials decide your jump. The first is recruitment itself: how far up that ladder your brain is willing to climb in a quarter of a second. The second is rate coding: how fast each unit fires once recruited, because faster firing squeezes more force from the same fibre. Training turns both dials. Heavy and explosive work teaches the brain that the big units are safe to use, and teaches it to spin them up instantly rather than politely. Your jump height is those two dials, plus tendon spring, expressed in centimetres. When the number rises, it is rarely the muscle that changed first. It is the management.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DRIVE FADES BEFORE MUSCLE DOES"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FRESH",
+       42,
+       "cyan"
+      ],
+      [
+       "AFTER A HARD SET",
+       33,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE SAME LEGS, MINUTES APART"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "FOR CENTRAL FATIGUE TO CLEAR",
+     "pos": "tr",
+     "text": "MINUTES"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "GRADE THE SWITCHBOARD FRESH"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The cleanest proof that drive is a separate quality is how fast it fades and returns. Jump now, then do a hard set of squats to near failure and jump again: the second jump drops noticeably, even though the muscle has lost almost no size or even much strength at slow speeds. What faded is the nervous system's willingness and ability to fire at full rate, a central fatigue that recovers in minutes to hours. Sleep loss does the same thing by morning, and caffeine partly reverses it, which is why this season keeps returning to the same trio: recruitment is trained by explosive work, protected by sleep, and rented from stimulants. The bars below show the typical shape of the fatigue effect, fresh jump against post-set jump. Notice the implication for testing: a jump measured tired grades your fatigue, not your drive. Every neural test in this series is a morning test, a fresh test, a best-of-three test, because the switchboard deserves to be graded when it is actually on shift.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIVE MANAGEMENT MISTAKES"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PRACTISING LOW OUTPUT",
+     "pos": "br",
+     "text": "MISTAKE TWO"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "INTENT IS A TRAINING VARIABLE"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FASTEST THING TO RETRAIN"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The five mistakes that keep the big units dark, then. Mistake one: training only in slow grinds. Slow, burning sets teach endurance of effort, but the jump's quarter-second demands the opposite skill, maximum force immediately, and skills are specific. Mistake two: testing and training your explosive work tired, at the end of sessions, when the switchboard is already dimmed; you end up practising low output and calling it your level. Mistake three: skipping real rest between explosive attempts, turning neural work into conditioning; the big units need full batteries, which means full pauses. Mistake four: no intent. The cue matters measurably: jumping while thinking about exploding through the ceiling recruits differently from jumping while thinking about your knees, and casual reps teach casual firing. Mistake five: neglecting the inputs, sleep and stimulant timing, that set the switchboard's baseline voltage each day. None of these is a muscle mistake. All five are management mistakes, and management, fortunately, is the fastest thing you own to retrain.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORCE PER KILO IS THE GRADE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "AN HONEST, INSTANT TEST",
+     "pos": "br",
+     "text": "WEEKLY"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A WIRING CONTEST"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MAIN EVENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The vertical jump is the skinny man's home laboratory, and the physics is the reason. Jump height depends on the force you produce relative to the mass you must move, and your mass is the smallest in the room. Every unit of neural drive you gain shows up in your centimetres almost undiluted, where a heavy man must buy the same centimetre with far more absolute force. There is a second advantage in the feedback loop: because your test is cheap, instant, and honest, you can measure drive weekly and watch management improve in near real time, while the big man's progress hides inside load numbers that move for many reasons. And a third: the training itself, jumps, sprints, throws, is bodyweight work, free and joint-scalable, perfectly matched to a home programme. The gym sells strength as a size contest. The jump grades it as a wiring contest, and wiring is the contest where the light man starts even and finishes ahead. Your nervous system is not the consolation prize for small muscles. It is the main event.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "JUMP SQUATS",
+   "music": "drive",
+   "narration": "Now we turn both dials. Five rounds of jump squats, twenty seconds, every rep at maximum height, then full rest. If the height dies, the set is over. Jump.",
+   "rest": 40,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EXPLOSIVE WORK FIRST"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SETS OF THREE TO FIVE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "JUMP SETS AS CONDITIONING"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SLEEP IS PART OF THE TEST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The neural protocol is short, fresh, and non-negotiable about order. Explosive work goes first in the session, before any grinding, while the switchboard is at full voltage. Sets stay small, three to five maximal attempts, because the sixth rep of a jump set is a different and lesser exercise. Rests stay long, one to three minutes, because you are recharging a nervous system, not burning calories. Every rep carries the same cue: explode, as if the floor owed you money; intent is not motivation talk, it is the input the dials respond to. Two neural sessions a week is plenty, separated by real recovery, and the test itself returns once a month, fresh, best of three, same wall. Protect the inputs around it: sleep the night before like it is part of the test, because it is, and time any caffeine the way episode six seventy-seven taught you. Drive is trained in minutes per week. It is protected in hours per night. Budget both.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDERSTAFFED IS GOOD NEWS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME WALL, FRESH LEGS",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CENTIMETRES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your jump verdict, offered as this channel's benchmarks rather than laboratory law. Under thirty centimetres: the switchboard is understaffed, and that is the best diagnosis a low number can carry, because recruitment is the fastest quality you will ever train. Thirty to forty-five: a working grid, building; the protocol should move you visibly within a month. Over forty-five: serious spring, the product of drive and tendon working together, and your job is to keep both fed. Whatever your number, record the conditions with it: time of day, sleep, freshness. A neural number without its conditions is only half a measurement. Put your centimetres in the comments, best of three, honestly marked. In thirty days, same wall, same chalk, fresh legs, and we will see what the management learned. The muscle was never the whole story. Today you measured the storyteller.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wall, same chalk, rested legs. Bring me more centimetres. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "neural drive",
+  "motor unit recruitment",
+  "vertical jump test",
+  "rate coding",
+  "explosive strength",
+  "nervous system training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "90%",
+  "hook": "THE JUMP TEST"
+ },
+ "title": "5 neural drive Mistakes That Are Destroying Your motor unit recruitment",
+ "v5": true
+}

@@ -1,0 +1,394 @@
+{
+ "id": "760",
+ "v5": true,
+ "title": "Your Protein Target Reveals the Truth About Your muscle building blocks",
+ "description": "More is not always better, timing is not magic, and powders are not food groups. Run the target test, then hear the truth about your muscle building blocks and what the evidence actually supports.",
+ "tags": [
+  "protein truth",
+  "muscle building blocks",
+  "too much protein",
+  "protein myths",
+  "protein powder truth",
+  "skinny guy protein facts",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "protein truth",
+  "building blocks",
+  "protein myths",
+  "gaining",
+  "calisthenics",
+  "amino acids"
+ ],
+ "category": "gaining",
+ "badge": "EP 760 - PROTEIN: THE TRUTH",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TRUTH",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_farmer_carry.webp",
+  "big": "0.4 G/KG",
+  "hook": "PER MEAL, PLAIN TRUTH",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Truth edition, same test. | Recall your biggest meal yesterday. | The largest single sitting. | Estimate its protein alone. | Just that one meal. | Grams, honestly counted. | That is your first number. | Second, max bodyweight squats. | Deep, clean, full stand. | Count the honest reps. | That is your second number. | Keep the pair together. | At the end I tell | you what the evidence really | says about your building blocks. | This topic attracts extremes. | Protein is everything. | Protein is a scam. | Both crowds are selling. | The truth is quieter and | much more useful. | Let us hear it plainly.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "BIGGEST MEAL, COUNTED",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "ONE SITTING",
+     "label": "GRAMS ONLY",
+     "pos": "br",
+     "at": 8
+    },
+    {
+     "kind": "chip",
+     "text": "BOTH CROWDS ARE SELLING",
+     "pos": "tr",
+     "at": 14
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 19
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "0.4 G/KG",
+   "label": "PER MEAL, WHERE A SITTING'S BUILDING SIGNAL TOPS OUT",
+   "sub": "tiny meals: the signal barely fires - giant meals: the extra becomes fuel",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the truth this test grades. Across feeding studies, the building signal from a single meal rises with dose and then levels off, somewhere near zero point four grams per kilo for most people, roughly twenty-five to thirty grams for a skinny guy. Past that point the extra protein is not wasted, that word is too dramatic, but it is increasingly burned as fuel rather than laid down as new tissue that day. This is why your biggest meal matters less than your pattern: a ninety gram dinner cannot retroactively fire the building signals that breakfast and lunch never triggered. The blocks obey a schedule. Understanding that one fact puts you ahead of everyone arguing about protein on the internet tonight.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "SIGNALS OBEY A SCHEDULE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "0.4 G/KG",
+     "label": "PER MEAL",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "PATTERN BEATS THE FEAST",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "EXTRA BECOMES FUEL",
+     "pos": "br",
+     "at": 25
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "Underneath sits the amino acid the brochures actually mean: leucine. Among the building blocks, leucine acts as a foreman's whistle, the signal that tells the muscle's building machinery to start work. A meal needs enough leucine to blow the whistle clearly, which is one reason animal proteins and dairy fire strong signals per gram, and why plant-based eaters do best with larger portions or deliberate pairings of sources. The mechanism also explains the refractory pause from the timing episodes: after the whistle blows and the crew works a shift, the site needs a break before the next whistle gets a full response. None of this is exotic biochemistry to memorize. It is one picture: blocks, a whistle, a crew, and shifts. Feed the shifts and the wall rises. The per-meal line has one more kindness in it: it forgives the light meal. A small breakfast that reaches twenty grams has fired most of its available signal, and the day is not ruined by its modesty. The pattern forgives individual meals constantly. It only punishes absence, the shift where nobody showed up at all.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "BLOCKS, WHISTLE, CREW",
+     "lines": [
+      "Leucine starts the shift.",
+      "Shifts need breaks between whistles."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_towel_curl.webp",
+     "at": 11
+    },
+    {
+     "kind": "chip",
+     "text": "ONE CLEAR PICTURE",
+     "pos": "br",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "FEED THE SHIFTS",
+     "ok": true,
+     "pos": "tr",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "Now the myths, taken one at a time with the evidence as referee. Myth one: very high protein harms healthy kidneys. In healthy adults, intakes well above the target have been studied without the feared damage appearing, though anyone with kidney disease belongs in a doctor's care, not a comment section. Myth two: protein powder is somehow superior to food. Powders are food, dried and convenient, with no magic beyond speed and price per gram. Myth three: you can only absorb thirty grams per meal. Absorption is nearly total; it is the building signal that tops out, a completely different claim that got garbled in the retelling. Myth four: more is always better. Past the zone, returns flatten and the money is better spent on total food. Four myths, four quiet funerals. And the absorption garble deserves its final nail: your gut absorbs nearly all the protein you eat, giant meal or small. What changes with dose is the destination, building versus burning, not the absorption. Men who feared the thirty gram ceiling were guarding a door that was never locked.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "FOUR QUIET FUNERALS",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "CLAIM VS EVIDENCE",
+     "items": [
+      [
+       "POWDER MAGIC",
+       10,
+       "gold"
+      ],
+      [
+       "FOOD + TARGET",
+       88,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "ABSORPTION IS NEARLY TOTAL",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "SIGNALS TOP OUT",
+     "pos": "br",
+     "at": 28
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "The deepest truth is about where protein advice goes wrong for skinny guys specifically: it is usually copied from dieters. For a dieter, protein's superpower is satiety, eating less while feeling full. For you, that same superpower is a hazard, because a day stuffed with lean protein can crowd out the energy foods your surplus depends on, leaving you virtuous, full, and exactly the same weight. The gainer's protein strategy is therefore different: hit the target, then spend the rest of the plate on energy. Chicken breast alone is a dieter's plate. Chicken with rice, oil, and a shake beside it is a builder's plate. Same blocks, different wages, and the wages decide whether the crew can afford to work all week.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "COPIED FROM DIETERS",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "TARGET + ENERGY",
+     "label": "THE BUILDER'S PLATE",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "WAGES DECIDE THE WEEK",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "FULL IS NOT FED ENOUGH",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage in the truth is that your per-meal line is the easiest in the gym to hit. Zero point four grams per kilo of a sixty-five kilo man is about twenty-six grams: three eggs and milk, a yogurt and a handful of nuts, a normal portion of anything with a face or a bean. You do not need engineered meals. You need ordinary meals, repeated, with the energy foods beside them. Meanwhile the two-hundred-gram-protein crowd spends real money overshooting a target their own meals passed hours ago. The truth is a discount, and it is offered to exactly one body type: yours. Small target, normal food, full signal. The blocks were never the expensive part of this project. Showing up daily was, and that part is free.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE EASIEST LINE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "26 G",
+     "label": "PER MEAL AT 65 KG",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "ORDINARY MEALS, REPEATED",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "TRUTH IS A DISCOUNT",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_top.webp",
+   "exercise": "SQUAT SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Work a shift with me. Four rounds of squats, forty seconds on, twenty off. Deep, smooth, unhurried, like a crew that knows the whistle will blow again. Stop two reps before failure. Then go eat a builder's plate.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_farmer_carry.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The truth-based protocol, four rules. One: build each meal around the per-meal line, a palm-plus of protein food, and stop counting past it, because the signal is already fired. Two: pair every protein anchor with an energy partner, rice, bread, oil, fruit, or a shake, so the wages arrive with the blocks. Three: if you use powder, use it as a gap-filler for your weakest meal, not as a shrine at the center of the diet. Four: audit the pattern weekly with the biggest-meal test and one ordinary day count, and adjust the pattern, not your opinion of yourself. Truth in this game is not a fact you learn once. It is a pattern you keep verifying with your own numbers.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "PALM-PLUS PER MEAL",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "ENERGY BESIDE PROTEIN",
+     "ok": true,
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "POWDER FILLS GAPS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "PROTEIN-ONLY PLATES",
+     "ok": false,
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_towel_curl.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. A giant biggest meal with modest squats: your blocks arrive in one flood while other shifts stand empty, so spreading, not adding, is your fix. A modest biggest meal but a low total: every shift is underfed and the day needs one more anchor meal entirely. A balanced pattern with low squats: the blocks are honestly handled and the engine is the story now, so train with intent and let the food rhythm run. A balanced pattern and climbing squats: the truth is working in your kitchen, and your only job is to not let the internet talk you out of it. Comment your biggest meal's grams and your squat count. In thirty days we check whether the pattern or the flood is winning. Bring the same honesty to the retest that you brought today. Count the biggest meal as it was, not as the recipe promised. Recipes lie politely. Your count, done the same way both times, does not.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 5
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "PATTERN VS FLOOD",
+     "pos": "br",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, count the same meal and squat the same test. Bring me a pattern of shifts and a bigger number. Subscribe, and let ordinary meals do the building until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "FEED THE SHIFTS",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

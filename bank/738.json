@@ -1,0 +1,392 @@
+{
+ "badge": "EP 738 - TRAIN CALORIE DENSITY",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE DENSITY SYSTEM",
+  "YOUR VERDICT"
+ ],
+ "description": "Cheap anchors fail when the plate is built for volume instead of density. Stop doing anchors wrong: test how many calories you can add to one plate without adding size, learn the density ladder, and rebuild your staple meals so the same stomach funds a surplus.",
+ "hashtags": [
+  "calorie density",
+  "cheap anchors",
+  "dense food",
+  "hardgainer",
+  "weight gain meals"
+ ],
+ "id": "738",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE PLATE, BUILT TWICE"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DENSITY MOVES ONLY"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR DIFFERENCE"
+    },
+    {
+     "at": 25,
+     "kind": "fact",
+     "lines": [
+      "The calories were always available at the same volume."
+     ],
+     "pos": "br",
+     "title": "HIDDEN IN PLAIN SIGHT"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test happens at one stove. Cook your most typical anchor meal, the rice or pasta plate you eat most, exactly the way you usually make it, and price it in calories. Now rebuild the same plate using only density moves, no extra volume: oil cooked into the base instead of none, butter or sauce folded through, a fattier cut or cheese on top, a glass of milk beside it instead of water. Price the rebuilt plate. The difference between the two numbers, calories added without adding size, is your test result. Most skinny guys find three to four hundred calories hiding inside a plate they already eat without effort. Keep your difference. At the end I will show you the bands, and how to climb the density ladder on every staple you own.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ECONOMICS OF A STOMACH"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "THE DRESSED PLATE",
+     "pos": "br",
+     "text": "+400"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BY DEFAULT, WITHOUT THINKING"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DECORATIVE VS WORKING ANCHORS"
+    }
+   ],
+   "big": "+400 KCAL",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHAT A PROPERLY DENSE REBUILD ADDS TO AN ORDINARY PLATE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. A properly dense rebuild adds around four hundred calories to an ordinary plate without adding a single bite of volume. Under a hundred and fifty added, your anchors are decorative: rice present but naked, sauce a rumor, the drink beside it contributing zero. Between a hundred and fifty and four hundred, the plate is halfway dressed. Above four hundred, you have changed the economics of your stomach entirely: the same comfortable fullness now funds a surplus. This is why density is a trainable skill and not a shopping list. Anyone can buy rice. The skill is building the plate so the rice arrives carrying oil, sauce, and protein, every time, by default, without thinking.",
+   "section": "THE NUMBER",
+   "sub": "under +150: the anchors are decorative - +400: the same stomach, a new budget",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Watery: under 1 kcal per gram.",
+      "Fats: 6 to 9. Same stomach, different totals."
+     ],
+     "pos": "tr",
+     "title": "THE DENSITY LADDER"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 20,
+     "kind": "swap"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FAT IS THE LEVER"
+    },
+    {
+     "at": 40,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ONE RUNG UP, EVERY PLATE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the system to train. Foods sit on a density ladder. At the bottom, water-heavy foods: vegetables, fruits, broths, around half a calorie per gram or less. In the middle, the cooked staples: rice, pasta, bread, near one to two calories per gram depending on water content. At the top, the fats and dry goods: oils at nine per gram, nut butters and cheese near six, nuts and granola near five. Your stomach reports volume and weight; it cannot report which rung the weight came from. A plate's total is therefore decided by its rung mixture, and the skinny guy's default mixture leans watery because watery feels light, clean, and virtuous. Training density means deliberately moving every plate one rung up, with fat as the lever, because fat changes totals without changing size. That is the entire mechanism. It never stops working. Read the ladder once more from the bottom, because the bottom is where most skinny plates live by accident. Broths, salads, steamed vegetables, plain boiled staples: all honorable foods, all nearly free of energy per gram. They belong on the plate as the supporting cast. The mistake is casting them as the lead and then wondering why the show has no weight.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CONSTANT WEIGHT, VARIABLE DENSITY"
+    },
+    {
+     "at": 16,
+     "items": [
+      [
+       "WATERY PLATE",
+       430
+      ],
+      [
+       "ONE RUNG UP",
+       810
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    },
+    {
+     "at": 33,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CONSTRUCTION, NOT CHARACTER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The research behind the ladder is some of the most consistent in nutrition: when people eat freely, they tend to eat a fairly constant weight of food, so the energy density of that weight quietly determines the day's total. Lower the density and intake falls without hunger complaints; raise it and intake climbs the same way. This is why doing anchors wrong is so costly. A watery-built staple does not just miss calories at lunch; it sets the stomach's expectations for the whole pattern of eating. And it is why density beats appetite advice for skinny guys: you do not need a bigger stomach or a stronger will. You need the same meals rebuilt one rung higher, a change in construction, not in character. One honest caveat keeps this episode clean. Density raises intake partly because rich food is pleasurable, and pleasure is a variable to manage, not maximize. The goal is a plate you enjoy enough to repeat three hundred times, not a plate engineered to be irresistible for one weekend. Repeatability is the metric. Everything else is garnish.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DOSE, NOT MAXIMUM"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RICH ENOUGH, NEVER REPELLING"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "1-2 SPOONS IS THE CLASSIC DOSE"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "The plate must still eat like dinner."
+     ],
+     "pos": "br",
+     "title": "MIXTURE BEATS MAXIMUM"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "One layer deeper: density has a palatability trap and a fullness trap, and training means respecting both. The palatability trap: the densest possible plate, all oil and cheese, becomes so rich it repels, and portions quietly shrink. The fullness trap: fat slows stomach emptying, so a wildly fatty meal can suppress the next meal. The trained plate is therefore a mixture, not a maximum: a solid staple base, a measured fat layer, protein for substance, and just enough freshness to keep it enjoyable. Think of density like seasoning: the skill is dose. One to two tablespoons of oil across a plate is the classic dose that adds hundreds of calories while the meal still eats like dinner, not like a challenge.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE EMPTY RUNGS"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "DAILY, FROM ONE REBUILD",
+     "pos": "br",
+     "text": "+300-500"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE CHEAPEST RUNGS ARE THE TOP"
+    },
+    {
+     "at": 22,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MAIN ROAD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The skinny advantage on the ladder is that you climb from the lowest rung, so your gains are the largest available. A big eater already lives on dense food; his ladder is climbed. Yours has three empty rungs, and each rung is worth roughly a hundred plus calories per meal, three meals a day, every day. No other change in gaining pays three hundred to five hundred daily calories for a one-time rebuild of your staple recipes. And the rebuild is cheap, because the ladder's top rungs are the cheapest foods in the shop: oil, oats, rice, peanut butter. Density is the poor man's surplus and the small stomach's best friend, which makes it, for this audience, the main road.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "check": 3,
+   "exercise": "BENCH DIPS",
+   "music": "drive",
+   "narration": "We train, then we rebuild a plate. Four rounds of bench dips, thirty on, thirty off, smooth and deep. After this, your staple meal gets its density rebuild, the full version, no naked rice allowed.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SPECIFY THE FAT IN SPOONS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CALORIC DRINK BESIDE IT"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NAKED RICE"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "GARNISH-SIZED SAUCE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The density protocol for your staples. One: rewrite your two most repeated meals on paper, with the fat layer specified in spoons, not vibes. Two: cook the fat in from the start, oil in the rice water, butter through the pasta, sauce as a base not a garnish. Three: pair every plate with a caloric drink, milk at minimum. Four: keep one freshness element on the plate so the richness stays enjoyable and repeatable. Five: re-price the rebuilt meals once to confirm the new totals, then trust the recipe, not daily counting. Do this for every staple you rotate, and your surplus stops depending on appetite, mood, or memory. The recipe carries the calories. You just carry the plate. A storage note that decides more than it should: keep the anchor ingredients permanently in stock, rice, oats, oil, peanut butter, milk, the way you keep soap in the house. Surpluses die on the evening the cupboard is empty and the shop is closed. The system is only as strong as its worst-stocked day.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR DIFFERENCE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN ANOTHER STAPLE",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR BEST MOVE"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SKILL TRANSFERS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Read your difference. Under a hundred and fifty: your anchors were decoration, and the rebuild is the single highest-value change available to you this month. A hundred and fifty to four hundred: your plates are half-dressed; finish the job on the remaining staples. Above four hundred: your density system is trained, and your surplus, if missing, is hiding in frequency or weekends, not construction. Retest in thirty days with a different staple, to prove the skill transferred. Comment your difference and your best density move. The spoon counts in the replies will teach more than a cookbook.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE LADDER IS YOURS"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same test, a different staple plate. Bring me a difference that proves the ladder is yours. Subscribe, and keep today's two prices safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "calorie density",
+  "energy density foods",
+  "cheap bulking foods",
+  "weight gain staples",
+  "rice oats oil",
+  "hardgainer meals",
+  "dense foods"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_farmer_carry.webp",
+  "big": "+400 KCAL",
+  "hook": "SAME PLATE, MORE"
+ },
+ "title": "Stop Doing cheap calorie anchors Wrong: Train Your calorie density Instead",
+ "v5": true
+}

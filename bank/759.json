@@ -1,0 +1,399 @@
+{
+ "id": "759",
+ "v5": true,
+ "title": "Your Protein Target Reveals Your Hidden Strength",
+ "description": "One number decides whether your training gets built or binned: grams of protein per kilo of you. Take the target test, find your real intake, and learn how far your normal day sits from the line.",
+ "tags": [
+  "protein target test",
+  "am i eating enough protein",
+  "protein per kilo",
+  "skinny guy protein",
+  "protein intake test",
+  "gaining protein",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "protein target",
+  "protein test",
+  "gaining",
+  "skinny to strong",
+  "calisthenics",
+  "how much protein"
+ ],
+ "category": "gaining",
+ "badge": "EP 759 - PROTEIN TARGET: TEST",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TARGET",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_towel_curl.webp",
+  "big": "YOUR G/KG",
+  "hook": "FIND YOUR REAL NUMBER",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today we find your number. | Not the recommended number. | Your actual number. | Rebuild yesterday on paper. | Every meal, every snack. | Estimate the protein, honestly. | Use labels where you can. | Use palm sizes elsewhere. | Total it, no rounding up. | Divide by your body weight. | In kilos, be precise. | That quotient is your number. | Second, max strict push-ups. | Floor to lockout, clean. | Count the honest reps. | That is your second number. | Keep the pair together. | At the end I tell | you how far your normal | sits from the building line. | Most men have never computed | this quotient once. | Today you join the few. | Count it like it matters.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "YOUR ACTUAL NUMBER",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "GRAMS PER KILO",
+     "label": "YESTERDAY, HONEST",
+     "pos": "br",
+     "at": 9
+    },
+    {
+     "kind": "chip",
+     "text": "NO ROUNDING UP",
+     "pos": "tr",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 21
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR G/KG",
+   "label": "YOUR REAL INTAKE VS THE 1.6 LINE",
+   "sub": "under 1.0: the site is starved - 1.2-1.6: close, fixable - 1.6 plus: supply solved",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is how the target test is graded. Your quotient is yesterday's protein divided by your weight in kilos, and it gets read against three bands. Under one point zero: the site is starved, and it does not matter how good your training is this month, because the blocks are not arriving in building quantity. Between one point two and one point six: you are in the fixable zone, close enough that one deliberate change, a real breakfast or a daily shake, usually closes the gap within a week. At one point six and above: supply is solved, and every future gain is a training question. Notice the test uses yesterday, not your best day. Your best day is a poster. Yesterday is your life, and your life is what builds you.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THREE BANDS",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "1.6",
+     "label": "THE BUILDING LINE",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "YESTERDAY IS YOUR LIFE",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "BEST DAYS ARE POSTERS",
+     "pos": "br",
+     "at": 28
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "Why a per-kilo number at all? Because your muscle mass, and therefore your daily rebuilding bill, scales with your size. The bill arrives every day in the form of breakdown: a share of your muscle protein is dismantled and must be replaced before any new tissue can be added on top. Protein you eat first pays that replacement bill. Only what remains becomes available for growth. A fixed gram target copied from a bigger man's video ignores your bill entirely, which is why per-kilo thinking is the first honest tool in gaining. It also explains the plateau pattern so many skinny guys report: intake that covered the bill at sixty kilos stops covering it at sixty-eight, and growth quietly stalls until the target is recalculated for the bigger body. There is a second use for the quotient beyond grading: it predicts your plateau before the scale does. A man gaining well on one point three will stall as his weight rises, because the same grams divided by more kilos is a smaller quotient. Watching the number fall is watching the stall arrive early, while it is still cheap to fix.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "THE DAILY BILL",
+     "lines": [
+      "Breakdown bills arrive daily.",
+      "Growth is paid from the remainder."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_grip_squeeze.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "PER-KILO IS HONEST",
+     "pos": "br",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "RECALCULATE AS YOU GROW",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_farmer_carry.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science behind the line is a pile of feeding studies with a consistent shape: muscle building rises as protein climbs from low intakes, bends somewhere around one point six grams per kilo for most people training hard, and flattens after that, with extra protein becoming expensive fuel rather than extra building. Two honest footnotes keep this channel's record clean. First, the bend is a zone, not a laser line, and individual answers vary around it. Second, when calories are too low, even perfect protein cannot fully protect muscle, because the body burns amino acids for energy when the energy ledger is empty. Protein is the blocks. Calories are the wages. A site needs both paid, which is why this test always travels with the surplus episodes in this season. A word about protein quality belongs in the record too. The studies behind the line mostly used mixed diets, and mixed diets are what the anchors imitate. A day built from several sources needs no amino acid anxiety. A day built from one narrow source deserves a second look, not a supplement, a second look.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE BEND IS A ZONE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "BUILDING VS INTAKE",
+     "items": [
+      [
+       "0.8 G/KG",
+       38,
+       "gold"
+      ],
+      [
+       "1.6 G/KG",
+       85,
+       "cyan"
+      ],
+      [
+       "2.4 G/KG",
+       88,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "BLOCKS AND WAGES",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "EXTRA BECOMES FUEL",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "The deeper skill this test teaches is estimation itself, because you will not weigh food forever and should not. A palm of meat or fish is roughly twenty-five to thirty grams of protein. An egg carries about six. A glass of milk about eight, a Greek yogurt fifteen to twenty, a scoop of whey around twenty-five. With five anchors like these memorized, any meal in any restaurant becomes countable in your head within seconds. That skill, not the app, is what the test is really installing. Apps get deleted in month two. A man who can read a plate keeps his number for life, and his number, checked honestly a few days each month, never drifts far enough to stall him.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ ANY PLATE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "5 ANCHORS",
+     "label": "MEMORIZED FOR LIFE",
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "SKILL OVER APPS",
+     "ok": true,
+     "pos": "tr",
+     "at": 17
+    },
+    {
+     "kind": "chip",
+     "text": "CHECK A FEW DAYS MONTHLY",
+     "pos": "br",
+     "at": 24
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage at this target is the same arithmetic mercy as always: your line is a small number of grams. At sixty-five kilos, one point six is about one hundred and four grams, reachable with eggs at breakfast, a normal lunch, a yogurt, and a normal dinner. No powders are required, no force-feeding, no eating like a competitive strongman. The big man's line is a part-time job. Yours is a rounding error away from a normal day, which means your entire protein problem can be solved this week, permanently, with groceries you already buy. Few problems in a training life offer that deal. When one does, you take it immediately and spend your remaining effort on the problems that are actually hard.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "A SMALL LINE TO HIT",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "104 G",
+     "label": "AT 65 KILOS",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "SOLVED THIS WEEK",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "NO POWDERS REQUIRED",
+     "pos": "br",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pushup_top.webp",
+   "exercise": "PUSH-UP LADDER",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Build the order while the target settles. Four rounds of push-ups, forty seconds on, twenty off. Full range, smooth rhythm, stop two reps before failure. The engine is being built. Your job after this is the delivery.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The protocol to move your quotient, four rules. One: compute your personal gram target from your weight today and write it where you eat, because a number on the fridge outperforms a number in a video. Two: close the gap with one addition, not a diet overhaul: a shake, a yogurt, or a second anchor at your weakest meal, chosen by where yesterday's count fell short. Three: recount on three ordinary days this week, not your best days, and average them, because the average is the number your muscle actually experiences. Four: when your weight climbs five kilos, recalculate the target for the new body. The target is a living number. Treat it like one and it will keep telling you the truth for years.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "TARGET ON THE FRIDGE",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "ONE ADDITION ONLY",
+     "ok": true,
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "AVERAGE ORDINARY DAYS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "OVERHAULING EVERYTHING",
+     "ok": false,
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_towel_curl.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. Quotient under one with modest push-ups: supply is your first problem and it is gloriously fixable, so this week belongs to the grocery store, not the training floor. Quotient in the fixable zone with low push-ups: one addition closes your supply gap, and then training intent becomes the whole game, which is where you want to live. Quotient under one but push-ups strong: you are the starved engine, and your response to full supply may be the fastest on this channel. Quotient at the line and push-ups climbing: supply is solved, full stop, and every future plateau is a training question. Comment your grams per kilo and your push-up number. That quotient is the most useful number a skinny guy can post. Keep the quotient with your training numbers, in the same notebook, checked on the same day each month. Two columns, protein and push-ups, will tell you more about your next plateau than any forum thread ever written about you.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 5
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN RETEST",
+     "pos": "br",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT YOUR QUOTIENT",
+     "ok": true,
+     "pos": "tr",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, rebuild the same yesterday and push the same test. Bring me a higher quotient and a bigger number. Subscribe, and keep the deliveries counted until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "COUNTED DELIVERIES",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

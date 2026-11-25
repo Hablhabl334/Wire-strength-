@@ -1,0 +1,395 @@
+{
+ "badge": "EP 607 - PUSH-UP RETEST",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "EVERY REP EXPLAINED",
+  "YOUR VERDICT"
+ ],
+ "description": "The push-up test counted your honest reps weeks ago, chest to the floor, no sagging, no bouncing. Today the count comes back. Recall the old number, run the set again, and compare. See what your chest tendons and nerve drive actually added, rep by rep.",
+ "hashtags": [
+  "push-ups",
+  "push-up retest",
+  "max reps",
+  "tendon training",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "607",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HONEST REPS ONLY"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "EVERYTHING IN IT",
+     "pos": "br",
+     "text": "ONE SET"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STOP WHEN FORM BREAKS"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "COUNT OUT LOUD",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "The count comes back. | Your first push-up test | counted honest reps only. | Chest to the floor. | Full lockout at top. | No sagging hips. | No bouncing the bottom. | You stopped at failure. | That number stayed yours. | Today we count again. | Same floor, same rules. | Same honest depth. | One set, everything in it. | Go when you are ready. | Count out loud. | Stop when form breaks. | That is your new number. | Keep it beside the old. | At the end | I tell you | what each added rep | is actually made of. | And which reps lie. | Ready on the floor. | The count is waiting.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE RETEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 STRICT = TRAINED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "REBUILT AT EVERY LEVEL",
+     "pos": "br",
+     "text": "+10 REPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THREE ADAPTATIONS, ONE GAP",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "30 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE TRAINED LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The line first, same as the original test. Thirty strict reps is the trained line for a skinny guy: below it, the pressing system is still being built, above it, you own endurance strength that most men who look stronger cannot demonstrate on demand. Under fifteen on day one was the most common starting point this channel saw, and it meant exactly one thing: the chest and triceps system, muscle, tendon and nerve together, had never been asked for a long honest set. Now the two numbers. The gap between them is not one adaptation, it is three wearing a trench coat, and the science scene will separate them. For now, read the size. Five added reps is a solid block's work. Ten or more means the system rebuilt itself at every level. And if the count fell, do not spiral: the protocol scene names the usual thief, and it is almost always test-day fatigue wearing your number like a costume.",
+   "section": "OLD VS NEW",
+   "sub": "old you under 15: the cables were new - 30 plus: a pressing system, not a party trick",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_back_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Stiffer tendons leak less per rep.",
+      "Bankruptcy arrives later."
+     ],
+     "pos": "tr",
+     "title": "CHEAPER REPS, CLEANER SIGNAL"
+    },
+    {
+     "asset": "elbow_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A CHAIN, NOT A CHEST DAY"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "WASTES LESS OF THE ENGINE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "So what is an added rep actually made of? Start where the first episode started: a push-up is not a chest exercise with helpers, it is a chain, hands, wrists, forearms, elbows, shoulders, chest, all passing force along tendons that must stay stiff enough to not leak it. In your first test, the set ended early for a reason that had little to do with chest size: the tendons around the elbow and shoulder fatigued, the chain started leaking force at every joint, each rep cost more than the last, and the system bankrupted quickly. Across a block of pressing, three things changed. The tendons stiffened, so less force leaks per rep. The nerve learned to recruit the chain in a cleaner order, so the early reps stopped wasting signal. And the muscles themselves built some endurance in the exact range the test uses. Cheaper reps, cleaner signal, slower bankruptcy. That is the whole arithmetic of your new count: not a bigger engine, a chain that wastes less of the engine it always had.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_45_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE CLOCKS, ONE SUM"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "NERVE",
+       35,
+       "cyan"
+      ],
+      [
+       "MUSCLE",
+       35,
+       "cyan"
+      ],
+      [
+       "TENDON",
+       30,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE THE NEW REPS CAME FROM"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "2 WEEKS = ONLY THE NERVE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "RETEST ON A CALENDAR",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now separate the three adaptations, because they run on different clocks and your gap is their sum. The fastest is neural: in the first two weeks, your nervous system learned the movement's recruitment pattern, and reps appeared that felt like strength but were really coordination arriving. The middle clock is muscular endurance, the fibers learning to keep producing force as the set burns, built across the whole block. The slowest is the tendon clock, stiffness around the elbow and shoulder climbing over eight to twelve weeks, invisible until a retest adds up all the small leaks it stopped. This layering is why the retest surprises people in both directions. Test at two weeks and you only meet the neural layer, a flattering but fragile number. Test at ninety days and all three clocks report in together, which is the number that survives a bad night's sleep. Your count today is the ninety day kind of honest, the sum of every clock you gave time to finish. That is why this channel retests on a calendar, not on a mood.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEPTH GOES FIRST"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF A STRICT REP",
+     "pos": "br",
+     "text": "3 SIGNATURES"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE SLOPPIER ATHLETE",
+     "pos": "tr",
+     "text": false
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HONEST NUMBERS COACH BETTER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the part of the count nobody wants to audit: which of your reps were real. A strict rep has three signatures: the chest touches or grazes the floor, the hips and shoulders rise as one plank, and the elbows fully straighten at the top. In a max set, the signatures fade in a predictable order. Depth goes first, reps get shallower as the burn rises. Then the hips start leading, the plank becomes a wave. Then lockout shortens, the top two centimeters quietly vanish. If your new number jumped by a lot but the last ten reps were performed by a different, sloppier athlete, the honest gap is smaller than the headline, and you already know it, because you counted them and felt the doubt arrive rep by rep. This is not pedantry. The tendons adapt to the positions you actually load, and half-depth reps train half the chain. Count the strict ones. A smaller honest number is a better coach than a bigger fictional one, and your next block deserves the truth.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO THIRDS OF YOU"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PER SESSION, EVERY SESSION",
+     "pos": "br",
+     "text": "MORE STRICT REPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "CALIBRATED TO YOU",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE PRODUCTIVE MIDDLE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The reframe for pressing, and the retest makes it undeniable. A push-up moves a fixed share of your bodyweight, roughly two thirds of it, through your hands. Your two thirds is the lightest full pressing load in any room, which means your chain gets more strict reps, more total quality volume, and more tendon signal per session than a heavier man's identical workout. He hits failure while his form is still fresh and his volume stays low. You live in the productive middle for set after set, which is exactly where endurance adaptations are farmed. Now look at your two numbers with that in mind. The heavy guy's story about push-ups is that they are too easy to matter, said by men who cannot do thirty strict ones. Your numbers say otherwise: a light frame, honestly loaded, built a pressing system that outperforms most of the room. The test was never beneath you. It was calibrated to you, and the retest just read out the results.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PUSH-UP LADDER",
+   "music": "drive",
+   "narration": "Now we build the next count together. Four rounds: thirty seconds of strict push-ups, thirty seconds of rest. Depth honest, plank straight, stop each round two reps before failure. We farm volume, not bankruptcy. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "BIG GAP: LOAD THE CHAIN",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MID GAP: ADD A SESSION"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "FICTION INFLATION",
+     "pos": "tr",
+     "text": false
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "GROWS IN THE MIDDLE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol, matched to your gap. If you added ten reps or more, the base is built and it is time to load the chain: slow negatives, pause reps at the bottom, and one session a week of weighted push-ups with a backpack, sets of eight, because the tendons now need tension the bodyweight no longer provides at low reps. If you added three to nine, keep the recipe and add a third weekly session of submaximal sets, stopping two reps shy of failure, because your gap says the volume was almost enough. If the count stalled, audit the depth before the effort: film one set from the side, count only the reps that touch the floor, and rebuild from the honest number, because most stalls are fiction inflation collapsing, not adaptation failing. And bury the daily max-out. Testing is not training. The count grows in the submaximal middle and only reports on retest day, so let it grow in peace and check it monthly.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE BOTH NUMBERS DOWN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR NEW COUNT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FLAT FLOOR, STRICT MAN"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your new push-up number, and its verdict. Under fifteen still: the chain is new, not broken, and a block of honest submaximal volume is the whole answer, no mystery and no shame in it. Fifteen to thirty: building, all three clocks running, the count compounding at the rate tendons allow, which is the rate that lasts. Past thirty strict: you own a pressing system, demonstrable anywhere, on any floor, with no equipment and no warm-up theater, and most men who look the part cannot match it. Write both numbers down with the date, old count and new count, and put the new one in the comments, just the reps. If you remember the first count, put it beside the new one and let the two numbers argue with the mirror on your behalf. We retest in thirty days, same floor, same depth, same honest rules. The floor will be exactly as flat as today. Be exactly as strict.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "AN UNBELIEVABLE COUNT",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, chest to it, every rep strict enough to sign your name to. Bring me a count your first test cannot believe. Subscribe so retest day finds you. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "push-up retest",
+  "push-up test",
+  "max push-ups",
+  "chest tendons",
+  "retest",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_mid.webp",
+  "big": "+12 REPS",
+  "hook": "PUSH-UP RETEST"
+ },
+ "title": "Your New Number: The push-up retest Retest Nobody Does",
+ "v5": true
+}

@@ -1,0 +1,410 @@
+{
+ "badge": "EP 554 - ANKLE HOP FIX",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE STIFFNESS",
+  "YOUR VERDICT"
+ ],
+ "description": "Most people hop like they are jogging in place, and train nothing but tired calves. Done right, ankle hops are a stiffness drill for the spring in your ankle. Count your hops, get your number, and learn the version that actually builds the spring.",
+ "hashtags": [
+  "ankle hops",
+  "pogo hops",
+  "ankle stiffness",
+  "plyometrics",
+  "spring ankles"
+ ],
+ "id": "554",
+ "scenes": [
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANDS ON HIPS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TWENTY SECONDS OF BOUNCE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "HOP COUNT"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CONTACT IS THE EXERCISE"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR COUNT SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand tall, hands on your hips, feet under you. When the clock starts, hop in place on both feet, small and springy, like the ground is a trampoline you are barely allowed to touch. Twenty seconds. Count every hop, and notice the quality as much as the count: the hops should feel like bouncing, not like tiny jumps you are muscling upward. Your total clean hops in twenty seconds is your number today. Most people have hopped before, in warm-ups and schoolyards, but almost nobody has hopped with the rule that makes the drill work: the ground contact is the exercise, and the air is just the receipt. This episode is about stopping the ankle hop done wrong, the jogging-in-place version, and training your ankle stiffness instead, the quality that decides how much of each landing comes back as free energy. Keep your count safe. At the end, I will tell you what it says about your springs.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MUSCLE IS SLOW"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "THE SPRING IS WORKING",
+     "pos": "br",
+     "text": "45+"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EASE IS THE TELL"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ELASTIC ENERGY IS FREE"
+    }
+   ],
+   "big": "40 HOPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN JOGGING AND BOUNCING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for twenty seconds of honest hops. Forty is where jogging in place becomes bouncing. Under thirty, you are almost certainly muscling each hop with a knee bend and a calf push, working hard and training the wrong thing, because the count exposes it: muscle is slow, and slow cannot cycle forty times in twenty seconds. Over forty-five, the spring is doing the work, tendons storing and returning energy faster than muscles can contract, and the hops start to feel strangely easy for how fast they are. That ease is the tell. Elastic energy is free energy, and a stiff ankle collects it on every contact. Your count today graded how much of your hopping is spring and how much is labor, and labor, fortunately, is just a technique error with a training fix.",
+   "section": "THE NUMBER",
+   "sub": "under 30 in 20 sec: muscling it - over 45: a real spring is firing",
+   "type": "card"
+  },
+  {
+   "asset": "ankle_ligament_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "A few degrees of give,",
+      "returned inside a quarter second."
+     ],
+     "pos": "tr",
+     "title": "YIELD, THEN SNAP"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PRE-TIGHTENED BEFORE TOUCHDOWN"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DEPOSITS IN THE SPRING BANK"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SOFT ANKLES APOLOGIZE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the ankle as an engineer would. When your forefoot strikes the ground in a hop, the ankle must not collapse, and it must not stay rigid either. It must yield a few degrees under load, stretching the Achilles and the arch of the foot, then snap back inside a quarter of a second. That quality, resistance to collapse under fast load, is ankle stiffness, and it is governed less by calf size than by how quickly the nervous system pre-tightens the whole structure before touchdown. The muscles set the spring in advance. The tendon does the bouncing. Train the hop wrong, with deep knee bends and long ground contacts, and you rehearse a soft ankle that absorbs energy and returns apologies. Train it right, tall and stiff and quick, and every contact becomes a small deposit in the spring bank.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO-TENTHS OF A SECOND"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "STIFF HOP",
+       40,
+       "cyan"
+      ],
+      [
+       "SQUATTY HOP",
+       100,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "GROUND CONTACT TIME"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE GROUND THROWS YOU"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Ground contact time is the laboratory measure behind this episode, and it tells a clean story. In springy hopping and sprinting, contacts last around two-tenths of a second or less, far too fast for you to consciously push. The bounce is reflexive and elastic, run by the stretch reflex and the tendon, which is why hopping done right feels like the ground is throwing you. Lengthen the contact with a knee bend and a squatty landing, and the reflex window closes; now the muscles must do the work deliberately, the count falls, the calves burn, and the stiffness you came to train goes home untrained. Studies comparing hopping styles find the stiff, tall version produces exactly the adaptation sprinters and jumpers chase: faster contacts, higher reactive strength, a spring that answers sooner. The drill was never about the hopping. It is about the two-tenths of a second at the bottom.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE ARCH IS A TRAMPOLINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "BAREFOOT TO START",
+     "pos": "br",
+     "text": "1 MINUTE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WAKE THE FOOT UP"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SOFTEST LINK RULES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "A word about the foot itself, the forgotten half of the spring. Your arch is a small trampoline of bone, ligament and the plantar fascia, and it loads and recoils alongside the Achilles on every contact. Feet that spend their lives cushioned and supported can go quiet, the arch arriving late to its own job, and the ankle above it pays the difference. Hopping barefoot on a firm surface, in small sensible doses, wakes the foot back up: the toes grip, the arch tightens, the whole base becomes part of the spring instead of a passenger on it. Start gently, a minute at a time, because a waking spring is still a spring with opinions. But do start. The chain is only as stiff as its softest link, and for many people the softest link is the one inside their shoe.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHTER LESSONS, MORE OF THEM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF CONTACTS BUILD IT",
+     "pos": "br",
+     "text": "THOUSANDS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CONTACTS ARE THE CURRENCY"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PRINTED FOR FREE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the stiffness game is, once again, arithmetic. Every hop loads the ankle spring with your bodyweight, and your bodyweight is small, which means each contact is a lighter, safer, more repeatable lesson. A heavier athlete training pogos is doing joint negotiations with every landing; you are doing calligraphy. You can hop more often, in more places, with less recovery debt, and stiffness is built from exactly that: thousands of quick, clean, unremarkable contacts stacked across weeks. The spring does not care about your biceps, your weight class or your mirror. It cares about contacts. And contacts are the one currency a light body prints for free.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "POGO HOPS",
+   "music": "drive",
+   "narration": "Now we bounce the right way together. Four rounds, twenty seconds tall and stiff, long rests between. Small hops, quick ground, let the spring do the work.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ankle_ligament_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KNEES ALMOST STRAIGHT"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STAY TALL, BRUSH THE CEILING"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHORTEST CONTACT WINS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STOP WHEN IT TURNS SQUATTY"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "QUALITY BEFORE QUANTITY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol that replaces the wrong hop with the right one. Step one: lock the knees almost straight and keep them there; the bounce lives at the ankle, not in a squat. Step two: stay tall, chest up, hands on hips, and imagine the crown of your head brushing a ceiling with every hop; height comes from stiffness, not from jumping. Step three: chase the shortest ground contact you can, quick and quiet, like the floor is hot; if your contacts sound like footsteps, soften nothing, just get off the ground sooner. Step four: dose it like a nerve drill, four rounds of twenty seconds with full rests, three times a week, and stop the moment your hops turn squatty, because tired reps teach the soft version. Step five: progress by quality before quantity, first cleaner contacts, then single-leg hops when both feet bounce like springs. Six weeks of this and the twenty-second test tells a new story.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "QUIET KNEES, QUICK COUNT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR COUNT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME FLOOR, SAME RULES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your count. Under thirty hops: you were muscling it, which means your spring has been a spectator; the protocol above is your introduction, and counts climb quickly once the knees quiet down. Thirty to forty-five: the spring is waking, contacts shortening, and your remaining gains live in consistency and barefoot minutes. Over forty-five: a genuinely stiff ankle, the kind sprinters build careers on, hiding in a frame the mirror underrates. Put your count in the comments, just the number, honest twenty seconds. Retest in thirty days, same floor, same rules, tall and stiff. The spring keeps its books in contacts per second, and yours are about to appreciate.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SPRINGIER COUNT"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, twenty seconds, bring me a springier count. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "ankle hops",
+  "pogo hops",
+  "ankle stiffness",
+  "achilles tendon",
+  "plyometrics",
+  "ground contact time",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "20 SEC",
+  "hook": "HOPS THAT COUNT"
+ },
+ "title": "Stop Doing ankle hops Wrong: Train Your ankle stiffness Instead",
+ "v5": true
+}

@@ -1,0 +1,401 @@
+{
+ "id": "631",
+ "v5": true,
+ "title": "The morning vs evening Benchmark: Where Your daily nerve rhythm Ranks",
+ "description": "You tested your push-up max in the morning and again in the evening, and the two numbers disagreed. Today the retest ranks your daily nerve rhythm against the benchmark. Same test, two times of day, and a verdict on when your system truly peaks.",
+ "tags": [
+  "morning vs evening strength",
+  "nerve rhythm",
+  "circadian strength test",
+  "push-up max test",
+  "retest benchmark",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "morning strength",
+  "retest day",
+  "nerve rhythm",
+  "benchmark",
+  "calisthenics",
+  "circadian"
+ ],
+ "category": "retests",
+ "badge": "EP 631 - RHYTHM RETEST",
+ "checklist": [
+  "THE RETEST",
+  "THE BENCHMARK",
+  "THE RHYTHM",
+  "YOUR RANK"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_top.webp",
+  "big": "AM vs PM",
+  "hook": "RHYTHM RETEST",
+  "accent": "violet"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you tested twice daily. | Push-up max at dawn. | Push-up max at dusk. | The numbers disagreed. | Today we retest the rhythm. | Same test, both times. | Morning first, right after waking. | Before coffee. | Before excuses. | Max clean push-ups. | Chest to fist height. | No sagging. | No rushing. | Write the morning number down. | Tonight, same floor, | same rules, | you run it again. | Two numbers, one day. | Keep both. | At the end, | I rank your daily rhythm, | and the gap gets explained.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "MORNING FIRST, BEFORE COFFEE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "MAX CLEAN PUSH-UPS",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "NO SAGGING, NO RUSHING",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "EVENING NUMBER TONIGHT",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "15%",
+   "label": "THE DAILY RHYTHM BENCHMARK",
+   "sub": "evening higher is normal - a flipped gap means your rhythm moved",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the benchmark for your daily rhythm, and it surprises almost everyone the first time. For most people, maximal strength peaks in the late afternoon or early evening, when body temperature and nerve conduction speed are at their daily high. An evening number five to fifteen percent above the morning number is the textbook pattern. A dead-even result suggests your rhythm is unusually flat, which suits morning training perfectly. And if your morning number wins, either you have trained your system to peak early, or your evenings are quietly sabotaged by fatigue, work, and life. None of these is a failure. Each one is an instruction for when you should schedule your hardest sessions.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "5-15%",
+     "label": "NORMAL EVENING ADVANTAGE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "YOUR PEAK IS AN INSTRUCTION",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "SCHEDULE HARD WORK AT PEAK",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at what actually changes between dawn and dusk. Your muscles are the same size at seven in the morning and seven at night. What changes is the signal. Nerve conduction velocity rises with body temperature, and your core temperature climbs through the day like a slow tide. Faster nerves mean motor units recruit quicker and fire together better, so the same muscle produces more force on command. Hormones ride the same tide, alertness rides it too, and even your joints feel looser as the day warms you up. The morning gap is not weakness. It is a cold engine. Ninety days of data about your own engine is something no generic program can give you. One more detail keeps this test honest: the warm-up effect is not cheating, it is physiology with a schedule. If your evening test happened after a full active day and your morning test happened cold from bed, the gap you measured includes your lifestyle's warm-up, not just your clock's. That is still useful data, because your life is the arena your strength performs in. But for the purest rhythm reading, some men add a third test at midday once a season. Three points make a curve. Two points only make an argument.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "SAME MUSCLE, FASTER SIGNAL",
+     "lines": [
+      "Nerves conduct quicker when warm."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "spine_anatomy_plate.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "A COLD ENGINE, NOT WEAKNESS",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "1 DEGREE",
+     "label": "OF WARMTH CHANGES OUTPUT",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now compare your rhythm across the ninety days, because the change in the gap is the interesting part. If you trained mostly in the mornings, your morning number probably climbed faster than your evening one. That is rhythm training, and it is real: the nervous system learns to peak when you repeatedly ask it to perform. Researchers call this time-specific adaptation, and it means your peak is partly a habit, not just a hormone schedule. If both numbers rose together and the gap stayed put, your base strength grew and your rhythm is simply who you are. Either result is a win, but they give opposite instructions, so read yours carefully before planning the next block. One more reading of the rhythm data is worth having. Compare not just the two numbers but the two warm-ups your life gave them. The morning test followed sleep; the evening test followed a day of movement, meals, and light. Some men discover their evening advantage shrinks dramatically on sedentary days, which tells them the peak was never purely hormonal. It was accumulated motion. That discovery is actionable gold: a movement-rich day is a performance tool, available at any hour you choose to build one.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "AM DAY 1",
+       18
+      ],
+      [
+       "AM DAY 90",
+       26
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "PEAKS ARE PARTLY HABITS",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "TIME-SPECIFIC ADAPTATION",
+     "lines": [
+      "Train at a time, peak at that time."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "READ YOUR GAP CAREFULLY",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_weak.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "There is one more variable this retest exposes, and it is the one nobody wants to hear about: sleep. A short or broken night taxes the morning test far more than the evening one, because by evening, adrenaline and a full day of movement paper over the debt. If today's morning number crashed compared to your day-one morning, do not blame your chest. Audit last night. The rhythm retest doubles as a sleep audit, and over ninety days it will teach you your personal price for a bad night in exact push-up currency. Most guys guess they lose a little. You will know you lose, say, six reps, and knowing changes behavior better than any lecture. And the rhythm has one more chamber worth knowing about: the post-lunch dip is real, measurable, and sitting in the middle of your curve like a valley. If you ever schedule a third test, midday results often embarrass both neighbors' expectations. The lesson is not that midday is cursed. It is that your curve is a landscape, not a switch, and the men who map their landscape schedule their hardest work on its hills instead of guessing where they are.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE RETEST AUDITS SLEEP TOO",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "nerve_pathway_plate.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "BAD NIGHT",
+     "label": "PRICED IN EXACT REPS",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "KNOWING BEATS GUESSING",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe here belongs to every skinny guy who trains at dawn and compares himself to evening gym footage online. You were never weaker than those men. You were colder, earlier, and running a different point on the rhythm curve. Strength content almost never tells you what time the test happened, which makes half the comparisons on the internet quietly rigged. Your retest fixes that for your own training forever. You now own two honest numbers and the gap between them, measured on your body, in your life, at your hours. That is better data than any influencer's max, because it actually describes the athlete doing the training: you.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "YOU WERE COLD, NOT WEAK",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "ONLINE MAXES SHOWN",
+       10
+      ],
+      [
+       "TIMES DISCLOSED",
+       1
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "YOUR DATA DESCRIBES YOU",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "HALF OF COMPARISONS ARE RIGGED",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "PUSH-UP LADDER",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "asset": "ren_pushup_mid.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we train at whatever hour you are watching. Four rounds of push-up ladders: forty seconds of steady reps, twenty to rest. Smooth tempo, chest to fist height, stop two reps before failure."
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-level protocol turns rhythm data into scheduling. Mistake one is testing the morning number after coffee and a shower sometimes, and straight from bed other times. The morning test standard is within thirty minutes of waking, before caffeine, every retest. Mistake two is comparing a fresh evening test to a morning test done after a brutal workday and calling it rhythm. Life noise is real, so retest days are chosen on normal days. Mistake three is ignoring the result. If your peak is evening, your heaviest session belongs there, and mornings become technique work. The protocol is one page long: test both, schedule at peak, retest in thirty days. One weekly detail sharpens the whole protocol: the fixed training hour experiment. For the next block, keep your hardest session at the exact same hour for four weeks, then retest both ends. Rhythm adapts to demand with surprising loyalty, and men who scatter their training hours all week often discover their peak was never missing, just never invited. Invite it at the same time daily and watch the morning number start dressing like the evening one.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "RANDOM MORNING CONDITIONS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "TESTING ON CHAOS DAYS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "IGNORING THE RESULT",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE RHYTHM PROTOCOL",
+     "lines": [
+      "Test both. Train at peak. Retest monthly."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR PEAK",
+   "label": "THE RHYTHM RETEST VERDICT",
+   "sub": "comment both numbers - morning and evening",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Verdict time. If your evening leads by five to fifteen percent, your rhythm is textbook, and your hardest training belongs in the late day. If the two numbers are nearly tied, your system is flat and flexible, a genuine advantage for a man whose schedule changes. If your morning number now leads, you have either trained an early peak or your evenings need a life audit before a training one. And if both numbers climbed since day one, whatever the gap, the system worked. Comment both numbers below, morning and evening, and note the hour of each. In thirty days we run the rhythm again, and your peak gets audited once more.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "5-15% PM",
+     "label": "TEXTBOOK RHYTHM",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "FLAT IS FLEXIBLE",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RETEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_top.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "You are not one strength. You are a curve, and now you have measured it twice. Train at your peak, protect your sleep, and bring me both numbers next retest. Subscribe so the rhythm check never slips. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "BRING BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

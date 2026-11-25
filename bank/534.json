@@ -1,0 +1,402 @@
+{
+ "badge": "EP 534 - PLANCHE LEAN ANGLE",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "From a push-up, lean forward until your shoulders travel past your hands, and measure the angle. That lean is a direct readout of wrist and shoulder leverage, the twin currencies of the planche. Take the angle test and learn what your number is really telling you.",
+ "hashtags": [
+  "planche lean",
+  "wrist leverage",
+  "calisthenics",
+  "planche",
+  "straight arm strength"
+ ],
+ "id": "534",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MARK YOUR HAND LINE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "SHOULDERS PAST HANDS",
+     "pos": "br",
+     "text": "LEAN FORWARD"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MEASURE THE TRAVEL"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT DISTANCE IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRUTH IN CENTIMETERS"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Push-up position, top. | Arms dead straight. | Mark your hand line. | Tape on the floor. | Now lean forward slowly. | Shoulders travel forward. | Past your hands. | Keep hips in line. | Elbows locked hard. | Measure the travel: | shoulders past hands, | in centimeters, honestly. | Use a wall ruler | or a phone photo. | Your angle number | is that travel distance | at the lean you | can hold five seconds. | That is your number. | Keep it somewhere safe. | At the end I | tell you what it means. | Come back slowly. | Never collapse down. | One honest lean. | The truth is measured | in centimeters here.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "10 CM = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TUCK PLANCHE PRICING",
+     "pos": "br",
+     "text": "15+ CM"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A LEVERAGE AUCTION"
+    }
+   ],
+   "big": "10 CM",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF TRAVEL IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten centimeters of shoulder travel past your hands, held for five clean seconds with locked elbows and a level body, is trained planche leverage. Under four centimeters, your wrists are almost certainly the gate: the lean stops where the wrist angle gets expensive, long before the shoulders are truly tested. Over fifteen centimeters, you are holding angles that price like a tuck planche, and the planche family is no longer theoretical for you. Here is the truth this angle tells. The planche is not a pushing contest. It is a leverage auction where your wrists and shoulders bid against your bodyweight, centimeter by centimeter, and the price per centimeter rises brutally. Your number is simply the highest bid your twin currencies can currently make. Everything in this episode is about raising that bid honestly.",
+   "section": "THE NUMBER",
+   "sub": "under 4 cm: wrists are the gate - over 15: tuck planche pricing",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Wrists hold the angle.",
+      "Shoulders hold the lever."
+     ],
+     "pos": "tr",
+     "title": "TWIN CURRENCIES"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NEITHER SUBSTITUTES"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BOTH ACCOUNTS MUST GROW"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PRICE RISES PER CENTIMETER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Two currencies pay for every centimeter. The first is the wrist. As you lean, the wrist bends toward its limit under a growing share of your bodyweight, and the forearm's tendons and the wrist's own ligaments must hold that angle rigid. A wrist that folds ends the lean instantly, no matter what the shoulders were ready to pay. The second currency is the shoulder. Leaning moves your center of mass ahead of your hands, so your shoulders must hold a straight-arm lever against a force that grows with every centimeter of travel, driven by the front deltoid and the serratus pushing your blades around your ribs. Neither currency can substitute for the other. Rich shoulders with poor wrists lean four centimeters. Rich wrists with poor shoulders lean four centimeters. The angle only grows when both accounts grow, which is why planche training that ignores wrist preparation is a loan taken against your joints.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A MOVING FULCRUM"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "FIRST 5 CM",
+       20,
+       "cyan"
+      ],
+      [
+       "NEXT 5 CM",
+       45,
+       "gold"
+      ],
+      [
+       "LAST 5 CM",
+       100,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "PRICE PER CENTIMETER"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PROGRESS AT TENDON SPEED"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The science of the lean is the science of a moving fulcrum. In a plank, your weight stacks over your hands and the shoulder's lever is nearly free. Each centimeter forward lengthens the lever gravity holds against your shoulders, so the force they must produce climbs not in a straight line but on a curve. The last centimeters before your max cost multiples of the first ones. This is why two athletes can look identical at five centimeters and live in different worlds at twelve. It is also why the lean is such an honest test: it cannot be cheated by effort face or momentum. The second science is tissue timing. The straight-arm position loads the biceps tendon and the wrist at long lengths, and connective tissue adapts at a fraction of muscle speed. Planche athletes measure progress in centimeters per season because the tissue sets the calendar. Your angle will grow. It will grow at tendon speed, and tendon speed, respected, never sends you to a physio.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ROCKS BUILD THE ANGLE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "DAILY, SLOW AND LOADED",
+     "pos": "br",
+     "text": "10 ROCKS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "GRADUAL IS THE LANGUAGE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The wrist half of this test has its own foundation drill, the tabletop press, and it is where your angle is really built. Hands flat, fingers spread, rock your shoulders slowly past your hands and back, ten rocks, feeling the wrist load and unload at the edge of its range. Done daily, it teaches the wrist to treat the lean's angle as a workplace instead of an emergency. Two weeks of rocks and most men find two free centimeters, not from strength, but from the wrist finally allowing the shoulders to spend theirs. The gate was never locked. It was just never introduced to the load gradually, and gradual is the only language joints trust.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS PAID PER CENTIMETER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PER SESSION, PER MONTH",
+     "pos": "br",
+     "text": "MORE LEANS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE OPPORTUNITY, IN CENTIMETERS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE CURVE FAVORS LIGHT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The skinny advantage in the lean is written into the auction itself. The price of every centimeter is a share of your bodyweight, so the lighter bidder pays less at every single step of the curve. At ten centimeters, a light athlete's shoulders hold a load a heavy athlete meets at six. That means more honest lean practice per session, more centimeters banked per month, and wrist tissue that recovers in time for the next session instead of rationing your week. Look at who holds planches in the wild: gymnasts, climbers, breakdancers, all professions that selected for low mass and high leverage. Nobody's planche was ever built by being heavy. The mirror told you your weight class was the problem. The lean's price curve says it is the entire opportunity, denominated in centimeters. There is also a compounding effect hiding in the lean that nobody warns the beginner about. Every centimeter you gain makes the next centimeter cheaper to train, because the same sessions that were maximal last month become your warm-up this month, and warm-ups can be done more often. Leverage, once purchased, pays interest in the currency of more leverage. The first four centimeters are the expensive ones. After that, the auction starts bidding in your favor, and it never entirely stops.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PLANCHE LEAN HOLDS",
+   "music": "drive",
+   "narration": "Now we lean together. Four rounds: set the tape line, lean to your honest angle, hold fifteen seconds with locked elbows, then walk back. If the elbows bend, the round is over.",
+   "rest": 45,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 15
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ROCKS BEFORE EVERY SESSION"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "NO TIPTOE TRAVEL"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SOFT ELBOWS CANCEL IT"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MEASURE MONTHLY, TRAIN WEEKLY"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GROWTH HAPPENS BETWEEN MEASURES"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Three lean sessions, never consecutive, each beginning with tabletop rocks so the wrists arrive at work already introduced to the load. Four lean holds at your measured angle, like our block, plus two sets of pseudo-planche push-ups, hands turned out beside your hips, pressing at your lean's angle. Mistake one: leaning from the toes, tiptoeing forward instead of rotating from the ankles. That is travel without leverage, and the tape exposes it instantly. Mistake two: soft elbows. The instant the elbow bends, the triceps take over and the shoulder's lever lesson is cancelled; the angle stops counting. Mistake three: re-measuring every session and chasing centimeters. Measure monthly. Train weekly. The tissue grows in the dark between measurements, and men who respect that rhythm are the ones whose angles actually move.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GATES OPEN WITH ROCKS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CENTIMETERS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "QUIETLY, THEN ALL AT ONCE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under four centimeters: your wrists are the gate, and that is the best news in this episode, because gates open with two weeks of rocks. Four to ten: both currencies are earning, and the lean is becoming a position you own rather than visit. Over ten clean centimeters: your wrist and shoulder leverage is certified, and the tuck planche deserves a line in your program. Over fifteen: you are holding angles most strong men cannot buy at any price their tissue will accept. Put your centimeters in the comments, just the number, and retest in thirty days from the same tape line. The truth about leverage is that it compounds quietly, then all at once. We will be here for both parts.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MORE CENTIMETERS"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same tape line, same locked elbows, lean and measure. Bring me more centimeters and we will price the tuck planche together. Subscribe, and keep your number safe. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "planche lean",
+  "planche lean angle",
+  "wrist leverage",
+  "shoulder leverage",
+  "planche progression",
+  "straight arm strength",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_wrist_lever.webp",
+  "big": "10 CM",
+  "hook": "PLANCHE LEAN"
+ },
+ "title": "Your Planche Lean Angle Reveals the Truth About Your wrist and shoulder leverage",
+ "v5": true
+}

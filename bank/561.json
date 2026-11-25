@@ -1,0 +1,410 @@
+{
+ "badge": "EP 561 - VERTICAL JUMP FIX",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SPRING",
+  "YOUR VERDICT"
+ ],
+ "description": "Jump training that only jumps teaches your muscles to work harder and your spring to stay soft. Measure your vertical, get your number, and train the Achilles stiffness that turns a dip into altitude.",
+ "hashtags": [
+  "vertical jump",
+  "achilles tendon",
+  "jump higher",
+  "tendon stiffness",
+  "spring training"
+ ],
+ "id": "561",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MARK, DIP, SLAP THE WALL"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEST OF THREE COUNTS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "CENTIMETERS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A TWO-PART EVENT"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand beside a wall, reach up with the near hand and mark your full reach. Then load and jump, slapping the wall at the peak, no run-up, feet leaving from the same spot. Measure between the marks. That distance is your vertical, and it is your number today. Three attempts, best one counts, and be honest, because this episode is going to spend your number wisely. Most jump training is just jumping: more jumps, higher jumps, jumps when tired. That approach trains the muscles to produce force and almost ignores the structure that returns it. A jump is a two-part event, a dip that stretches a spring and a recoil that spends it, and the spring, your Achilles tendon, has its own training rules that jumping alone only half obeys. This episode trains the spring directly. Keep your number safe. At the end, I will tell you what it says about your recoil.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PUSH VERSUS PAYOUT"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "RECOIL DOES THE TALKING",
+     "pos": "br",
+     "text": "60+ CM"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NOT TRYING HARDER, CASHING MORE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STIFFNESS IS THE CHECK SIZE"
+    }
+   ],
+   "big": "50 CM",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN JUMPING AND RECOILING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifty centimeters separates jumping from recoiling. Under forty, the dip is mostly a squat and the takeoff mostly a push, muscle doing all the work at muscle speed, which has a hard ceiling. Over sixty, a visible share of the height is free, elastic energy stored during the dip and returned faster than any muscle can contract. The difference between those two jumps is not effort. The high jumper is not trying harder; he is cashing a check the low jumper never wrote. Tendon stiffness is the size of that check. A stiffer Achilles stores more energy per millimeter of stretch and returns it in a shorter, sharper snap. Your number today measured how much of your jump is push and how much is payout, and the payout half is the one with room to grow.",
+   "section": "THE NUMBER",
+   "sub": "under 40 cm: the spring is untrained - over 60: recoil is doing the talking",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The tendon lets a modest muscle",
+      "produce an immodest launch."
+     ],
+     "pos": "tr",
+     "title": "THE CATAPULT EFFECT"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "POWER AMPLIFICATION"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EARLY IS EVERYTHING"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE CATAPULT'S REPORT CARD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the back of the ankle once more, because this tendon deserves a second portrait. During your dip, your calf muscles contract and hold, and the Achilles stretches under the load like a drawn bow, storing elastic energy in its collagen fibers. At the bottom of the dip the direction reverses, the muscle begins to shorten, and the tendon recoils, releasing its stored energy in a fraction of the time the muscle would need to produce that power alone. Physiologists call this power amplification: the tendon is a catapult that lets a modest muscle produce an immodest launch. The catapult's quality is its stiffness. Too compliant, and it stretches without storing much and returns the energy late, after your feet have already left the useful window. Stiff and tuned, it returns everything early, in the exact milliseconds where height is decided. Your vertical is the catapult's report card.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CONSTRUCTION AND TIMING"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "HEAVY + SPRINGY",
+       100,
+       "cyan"
+      ],
+      [
+       "JUMPS ONLY",
+       55,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "ACHILLES STIFFNESS BY TRAINING"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BOTH EDUCATIONS"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "How does a tendon get stiffer? The research answers with a two-part recipe that jump-only programs miss. Part one is heavy, slow loading: calf work with serious weight, full range, controlled lowering, which signals the tendon to lay down more collagen and cross-link it tighter, the literal construction of stiffness. Part two is fast, springy loading: hops, pogos and jumps with short ground contacts, which teaches the stiffer structure to fire its recoil on time. Either half alone underdelivers. Heavy work without speed builds a stiff spring that answers late. Speed work without heavy loading asks a thin spring to snap harder than its construction allows. Studies imaging the Achilles of athletes who combined both found the stiffest tendons and the highest jumps in the same legs. Construction and timing. The spring needs both educations, and this episode's protocol is built to give it both.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE REVERSAL IS THE MOMENT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "DECIDE THE PAYOUT",
+     "pos": "br",
+     "text": "MILLISECONDS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DECISIVENESS IS PRACTICE"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SHALLOW AND INSTANT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is a timing detail inside the dip that separates tuned springs from strong legs: the reversal. The instant at the bottom where downward motion becomes upward is where the tendon's money is made or lost, because elastic energy decays as heat with every extra millisecond spent at the bottom. Great jumpers reverse violently, their dip shallow and their turnaround instantaneous, which is why they often look like they barely bend before they are airborne. Training the reversal is its own skill: drop from a low step and rebound the instant your feet touch, or dip against a wall's marks to a fixed shallow depth and explode. The spring does not reward depth. It rewards decisiveness, and decisiveness, fortunately, is pure practice. Drop-rebounds deserve one caution and one promise. The caution: begin from a low step, twenty centimeters, and only when your quiet landings are already honest, because the rebound asks the spring to work at its fastest setting. The promise: no drill on this channel teaches the reversal faster, because the ground grades every contact instantly and your nervous system is an attentive student when the feedback is that immediate.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE LOAD IS SMALLER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SPECTACULAR ON YOUR FRAME",
+     "pos": "br",
+     "text": "SAME TENDON"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WIRY EMBARRASSES WEIGHT ROOMS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TWO-THIRDS ASSEMBLED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in spring building is that your catapult only has to launch you. The energy a tendon must store and return scales with the mass it moves, and your mass is the smallest in the room, which means a moderately stiff Achilles, honestly trained, produces a spectacular result on your frame while the same tendon on a heavy frame produces an ordinary one. This is the quiet mathematics behind every wiry high jumper who ever embarrassed a weight room: the spring is not bigger. The load is smaller, so the spring's answer looks like magic. You do not need the strongest tendon in the gym. You need a tuned tendon and your own light body, a combination that is already two-thirds assembled.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "POGO HOPS",
+   "music": "drive",
+   "narration": "Now we tune the spring together. Four rounds of stiff pogo hops, twenty seconds, quick ground, tall body. Then full rest. We are teaching the catapult to answer on time.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEAVY SLOW CALF WORK"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "QUICK CONTACTS, ALWAYS FRESH"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MAX JUMPS RARE AND SACRED"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EVERY OTHER DAY AT MOST"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RESPECT THE CALENDAR"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol that trains the Achilles instead of just the jump. Step one: build the construction, heavy single-leg calf raises, slow lowering, full range, three sessions a week; this is the collagen work, the spring being manufactured. Step two: teach the timing, short sets of pogo hops and low drop-rebounds with the quickest ground contact you can produce, always fresh, always stopped before they turn heavy. Step three: keep max jumps rare and sacred, a few honest attempts when fully rested, because the test is also a teacher and it teaches best at full quality. Step four: respect the tendon's calendar, spring work every other day at most; stiffness is built during recovery, and a tendon trained daily is a tendon interrupted. Step five: if the back of the ankle aches sharply or stays sore into the next morning, reduce the spring work and see a professional if it persists. Eight weeks of construction plus timing, and the wall revises its opinion of you.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNTRAINED INCOME TO COLLECT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CENTIMETERS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "IT PAYS ITS SAVERS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under forty centimeters: a push with no payout yet, the most improvable jump profile there is, because the recoil half of your jump is essentially untrained income waiting to be collected. Forty to fifty-five: the spring contributes, and your remaining gains split between construction and timing, both already in your hands. Over fifty-five: your catapult is tuned, and your ceiling now is set by patience and by the heavy work most jumpers skip. Put your centimeters in the comments, just the number, best of three, honest wall. Retest in thirty days, same wall, same marks, fresh legs. The spring keeps its books in centimeters, and it pays its savers first.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A HIGHER SLAP"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wall, same marks, bring me a higher slap. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "vertical jump",
+  "achilles stiffness",
+  "jump training",
+  "tendon stiffness",
+  "countermovement jump",
+  "plyometrics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "YOUR CM",
+  "hook": "TRAIN THE SPRING"
+ },
+ "title": "Stop Doing vertical jump mechanics Wrong: Train Your Achilles stiffness Instead",
+ "v5": true
+}

@@ -1,0 +1,394 @@
+{
+ "id": "777",
+ "v5": true,
+ "title": "Why Your calorie gaps Matter More Than Muscle (The snack engineering Episode)",
+ "description": "Muscle gets the glory, but the calorie gaps decide whether muscle ever gets built. Map your gaps one more time and learn why the empty hours of your day outrank everything on your plate.",
+ "tags": [
+  "why calorie gaps matter",
+  "calorie gaps",
+  "snack engineering",
+  "empty hours",
+  "gaining gaps",
+  "skinny guy hours",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "calorie gaps",
+  "snack engineering",
+  "why it matters",
+  "gaining",
+  "calisthenics",
+  "gaps"
+ ],
+ "category": "gaining",
+ "badge": "EP 777 - WHY GAPS MATTER",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE GAPS",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_farmer_carry.webp",
+  "big": "300 DAYS",
+  "hook": "THE EMPTY HOURS DECIDE",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today the gaps take the | stand. | Map yesterday's empty hours. | Every stretch over three. | Awake, active, unfed. | Count them, and their lengths. | Total the empty hours. | That total is your number. | Second, grip the bar. | Max dead hang time. | Straight arms, still body. | Count the honest seconds. | That is your second number. | Keep the pair together. | At the end I tell | you why the empty hours | outrank the full plates. | Everyone studies the meals. | The meals are the highlight. | But gaining is decided in | the hours between, | where nothing happens, | three hundred days a year. | Let us study the nothing.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "STUDY THE NOTHING",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "EMPTY HOURS",
+     "label": "YESTERDAY'S TOTAL",
+     "pos": "br",
+     "at": 9
+    },
+    {
+     "kind": "chip",
+     "text": "DECIDED BETWEEN MEALS",
+     "pos": "tr",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 21
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "300 DAYS",
+   "label": "A YEAR, YOUR GAPS REPEAT ON NEARLY ALL OF THEM",
+   "sub": "one gap closed daily: a season of surplus - gaps ignored: the plateau's true address",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the arithmetic that gives gaps their rank. A single daily gap, three hours long, leaking a modest two hundred and fifty calories of missed intake, repeats on roughly three hundred ordinary days a year. That is seventy-five thousand calories a year, the energy content of many kilos of potential tissue, decided not by your training, your protein, or your genetics, but by one recurring hole in your schedule. No meal you eat can out-argue that multiplication, because the meals are events and the gap is a system. This is why the gaps matter more than muscle in the practical sense: muscle is built by the surplus, and the surplus, for most skinny guys, is decided in the gaps.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE MULTIPLICATION",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "75,000",
+     "label": "CALORIES A YEAR",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "EVENTS VS SYSTEMS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "THE PLATEAU'S ADDRESS",
+     "pos": "br",
+     "at": 25
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "The mechanism is the day's energy shape. Your body does not experience your intake as a daily total; it experiences a curve, fed hours and unfed hours, and it makes decisions along the curve. In the long unfed stretches, the balance tilts toward breakdown, the building machinery idles, and the eventual dinner, however large, is partly spent refilling the hole the gap dug rather than building above the line. Shrink the gaps and the same total intake rides higher all day: less refilling, more building. This is why two men eating identical totals diverge, one gaining and one maintaining, and why the difference is so often invisible to both of them. The total was the same. The shape was the biography. The curve has a training consequence as well: a session placed inside a long gap is trained in the hole the gap dug, which is why the same workout feels strong on Saturday and hollow on Wednesday. The gap was the difference, and closing it is a performance intervention disguised as a snack.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "CURVES, NOT TOTALS",
+     "lines": [
+      "The body reads the day's shape.",
+      "Dinner refills holes before building."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_grip_squeeze.webp",
+     "at": 11
+    },
+    {
+     "kind": "chip",
+     "text": "THE SHAPE IS THE BIOGRAPHY",
+     "pos": "br",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "RIDE HIGHER ALL DAY",
+     "ok": true,
+     "pos": "tr",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pinch_hold.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science frames gaps as the highest-leverage variable in a light eater's system, for a statistical reason: they are the only major variable that is both large and cheap to change. Protein requires money and appetite. Training requires time and recovery. Gaps require a stocked drawer and a clock, and the return on that small investment, per the multiplication you just heard, rivals any supplement ever tested. Research on eating occasions supports the shape of the claim: more structured eating occasions, at equal quality, track with better energy availability across the day in active people. The gaps are not a detail of the gaining system. Measured by leverage, they are the gaining system, wearing an apron and standing quietly in the corner of your kitchen. Leverage cuts the other way for one group, and honesty requires naming it: the man whose gaps are already closed gains nothing here, and his leverage lives in protein or training instead. The audit exists to find your variable, not to sell every man the same one.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "LARGE AND CHEAP",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "LEVERAGE PER VARIABLE",
+     "items": [
+      [
+       "CLOSING GAPS",
+       90,
+       "cyan"
+      ],
+      [
+       "NEW SUPPLEMENTS",
+       20,
+       "gold"
+      ]
+     ],
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "THE SYSTEM IN THE CORNER",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "LEVERAGE IS THE MEASURE",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "Go deeper and the gaps explain the mystery stories gainers tell: the man who eats like a horse on holiday and gains, then returns to his routine and stalls, was not blessed by holiday food. His gaps closed, because holidays have no meetings, no commutes, and no six-hour unfed afternoons. The man whose weight only moves during exam weeks or night shifts has the mirror-image story: his gaps widened or his rhythm broke. Once you see days as shapes, these stories stop being mysteries and become readings. Your own biography is in your shapes, repeated weekly, and the encouraging news is that shapes are edited more easily than appetites, metabolisms, or genetics. You cannot renegotiate your genes this month. You can renegotiate three o'clock.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "HOLIDAY GAIN, EXPLAINED",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "3 O'CLOCK",
+     "label": "IS NEGOTIABLE",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "SHAPES OVER GENETICS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "STORIES BECOME READINGS",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage in the gap game is, once more, the smallness of your holes. A skinny guy's gap closes with a handful and a glass; the arithmetic that makes gaps powerful also makes them cheap, because two hundred and fifty calories is a snack, not a meal. There is a second advantage in timing: gaps are the one variable you can improve today, completely, before your next workout, your next shop, or your next payday. Protein waits for groceries. Strength waits for adaptation. The three o'clock gap waits for a drawer to be stocked this evening. In a project measured in years, the man who fixes the fixable-today variables first builds momentum that carries the slower ones. Momentum is a nutrient too, and gaps are where it is cheapest.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "FIXABLE TODAY",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "THIS EVENING",
+     "label": "THE DRAWER GETS STOCKED",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "MOMENTUM IS A NUTRIENT",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "CHEAPEST FIRST",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_relaxed.webp",
+   "exercise": "DEAD HANG",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Fill this gap with training. Four rounds of dead hangs, forty seconds on, twenty off, an empty stretch of the session deliberately filled with work. That is the entire philosophy in one block: the empty places are where the building hides.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The gaps protocol, final form, four rules. One: map the day once a month, because gaps migrate as life changes, and last season's map describes last season's leaks. Two: close the longest gap first with a stocked, timed, protein-carrying default, because leverage lives in the largest hole. Three: protect the closure on your worst days by keeping the default at the gap's address, not in a kitchen you will not visit. Four: re-audit with the trend, because the scale's average is the final judge of whether the closed gap is paying out. Follow this and the empty hours stop being the place your gaining goes to die. They become the place it is quietly, daily, decided.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "MAP MONTHLY",
+     "ok": true,
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "mark",
+     "text": "LONGEST GAP FIRST",
+     "ok": true,
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "FOOD AT THE ADDRESS",
+     "ok": true,
+     "pos": "tr",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "HOPING THE DAY BEHAVES",
+     "ok": false,
+     "pos": "br",
+     "at": 23
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. Many empty hours with a modest hang: the gaps are your biography right now, and closing the longest one is worth more than any change to your meals. Few empty hours but a short hang: your shape is a builder's shape and the grip needs direct training, so the food system can be left in peace. Many empty hours and a strong hang: you are the exception performing through a leaking day, and your ceiling is the highest in this comment section once the holes close. Few hours and a strong hang: your day is fully beamed, and you are what the system looks like when it is finished. Comment your empty hours and your hang seconds. The hours are the confession; the seconds are the signature. Bring the month's map and the month's trend together to the retest. When the map's holes and the average's slope are read side by side, the cause and the effect sit on the same page, and that page is the most scientific document most men ever produce about themselves.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 5
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "REMAP AND RETEST",
+     "pos": "br",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT YOUR EMPTY HOURS",
+     "ok": true,
+     "pos": "tr",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, remap the same day and hang the same bar. Bring me fewer empty hours and a longer hang. Subscribe, and let the gaps stay closed until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "GAPS STAY CLOSED",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

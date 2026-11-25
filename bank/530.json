@@ -1,0 +1,397 @@
+{
+ "badge": "EP 530 - THE FLAG HOLD",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "Two hands on a pole, body held out sideways like a flag. The human flag is the purest oblique leverage test in calisthenics, and your tuck hold time reveals exactly where your lateral chain stands. Take the test, learn the lever, and start climbing toward the full flag.",
+ "hashtags": [
+  "human flag",
+  "oblique leverage",
+  "calisthenics",
+  "flag test",
+  "skill training"
+ ],
+ "id": "530",
+ "scenes": [
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LOWER HAND PUSHES"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "FEET OFF THE GROUND",
+     "pos": "br",
+     "text": "TUCK HOLD"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ARMS STAY STRAIGHT"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SIDE NOBODY TRAINS"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a sturdy vertical pole, a squat rack upright, or playground bars with a vertical post you can grip at two heights. Stand sideways to it. Your lower hand grips at hip height and pushes; your upper hand grips overhead and pulls. That push-pull frame is the whole machine. For today's test, jump or step in and pull your knees up into a tight tuck, body sideways, and hold yourself off the pole with straight arms. Start the clock when your feet leave the ground and your tuck is set. The clock stops when your feet touch down, your arms bend, or your body folds at the waist. That tuck hold time is your number. Keep it somewhere safe. At the end I will tell you what it reveals about the side of your body that almost no gym exercise ever loads, and why this strange sideways number predicts a core that most training never builds.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "5 SEC = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "STRADDLE FLAG IS NEAR",
+     "pos": "br",
+     "text": "10+ SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNCLAIMED TERRITORY"
+    }
+   ],
+   "big": "5 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF TUCK FLAG IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Five clean seconds in a tuck flag, straight arms, body held off the pole by push and pull alone, means your lateral chain has arrived. Under two seconds, the frame itself is not built yet: the bottom arm is not pushing, the top arm is not pulling, and the obliques have never been asked this question before. Over ten seconds, your side chain is genuinely strong, and the straddle flag stops being a poster and becomes a project. Be clear about what this clock grades. It does not grade your abs from the front, your pull-ups, or your press. It grades a chain most men have never loaded once in their lives: the obliques, the side of the core, and the shoulder of the pushing arm, all holding your body sideways against gravity. A small number here is not an embarrassment. It is a map of unclaimed territory.",
+   "section": "THE NUMBER",
+   "sub": "under 2: the frame is not built - over 10: straddle flag is near",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Hands are the fulcrum.",
+      "Obliques hold the beam."
+     ],
+     "pos": "tr",
+     "title": "THE SIDEWAYS LEVER"
+    },
+    {
+     "asset": "ren_hang_side_active.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PUSH BELOW, PULL ABOVE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE BEAM MUST NOT FOLD"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A CHAIN GYM NEVER LOADS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The flag is a lever pointed sideways. Your hands on the pole are the fulcrum, and your body is the beam, sticking straight out into the air. Gravity grabs the far end of the beam, your feet, and pulls it down with everything you weigh. Two forces fight that pull. The bottom arm pushes the pole away, the top arm pulls it close, and together they form a rotating frame. But the beam itself must not fold, and the anti-fold crew is your lateral chain: the obliques on both sides, the deep side stabilizers of the trunk, and the glute of the upper leg. In ordinary training, these muscles assist. In the flag, they are the entire structure. This is oblique leverage: sideways rigidity under a full-body load, and it explains why strong gym lifters fold in two seconds here. Their training never pointed the lever sideways.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRUT BELOW, CABLE ABOVE"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "TUCK",
+       30,
+       "cyan"
+      ],
+      [
+       "STRADDLE",
+       65,
+       "gold"
+      ],
+      [
+       "FULL FLAG",
+       100,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "ONE TRIANGLE, THREE PRICES"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "AFFORD THE NEXT PRICE"
+    },
+    {
+     "asset": "ren_hip_rotation.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The science starts with the two arms doing opposite jobs. The bottom arm works like a strut, pushing through a locked elbow and a shoulder that must depress and stabilize under compression. The top arm works like a cable, pulling with the lat and holding the shoulder in its socket under tension. Compression below, tension above, and the trunk rigid between them: that triangle is the flag's whole engineering. Research on lateral trunk training shows the obliques and the deep side muscles respond best to exactly this, long-lever holds where the body must resist folding sideways, rather than endless side bends. There is also a dial here, like every lever in this season. Tuck the knees and the beam shortens. Straddle it and the price rises. Straighten it fully and you are paying the maximum. Your tuck time tells us which price your triangle can currently afford.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hip_rotation.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE PELVIS ROLLS FIRST"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "OF SLOW HIP CONTROL",
+     "pos": "br",
+     "text": "2 MIN"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LEVEL PELVIS, HELD BEAM"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The hidden worker in the flag is hip control, and the hip rotation drill is its training ground. Standing tall, rotate your pelvis slowly side to side and front to back, feeling the obliques and deep hip muscles trade the work in small, precise shifts. The flag fails at the hips long before it fails at the arms for most beginners: the beam folds because the pelvis rolls, and the pelvis rolls because the side chain never learned to hold it level under load. Two minutes of slow, deliberate hip control work, done most days, teaches the pelvis its job description. When the pelvis stays level, the arms' triangle finally gets a beam worth holding, and tuck seconds start stacking up.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PRICED BY MASS X DISTANCE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "LESS RECOVERY PER SESSION",
+     "pos": "br",
+     "text": "MORE PRACTICE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE PRICE FAVORS LIGHT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EARN THE ENVY"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now, the skinny arithmetic of the flag, and it is dramatic. The beam's price is your body mass times its distance from the pole. Every kilo you do not carry shortens the bill twice: less mass pulling down, and less mass for the pushing shoulder to hold away. Light athletes do not just attempt the flag earlier; they can practice it more often, because each session costs their shoulders and obliques less recovery. That is why flag holders in every park on earth are built like you, and why the two-hundred-pound lifter films his two-second tuck and calls the skill impossible. It is not impossible. It is priced, and the price list favors the light. Your number today is the start of the one skill in this season where the heavy guys genuinely envy your build. Earn it.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "check": 3,
+   "exercise": "TUCK FLAG HOLDS",
+   "music": "drive",
+   "narration": "Now we build the frame together. Five rounds: set the push and the pull, tuck in, hold five seconds, then rest fully. Alternate sides each round, and keep both arms straight.",
+   "rest": 55,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 5
+  },
+  {
+   "asset": "ren_hip_rotation.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "2 SESSIONS A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "NO JUMPING IN"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN BOTH SIDES"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LOCKED ARM OR DOUBLE PRICE"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BORING = READY TO STRADDLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week with the pole. Two flag sessions, with hip control work on the days between, because the obliques and the pushing shoulder both rebuild on rest like any trained tissue. Each session: five tuck holds per side, exactly like our block, stopping every hold the moment an arm bends or the pelvis rolls. Mistake one: jumping into the flag and catching yourself. The catch teaches panic, not position; step in, set the frame, then lift the feet. Mistake two: training only your strong side. The flag has two directions and your chain has two halves; the weak side is not optional, it is half the skill. Mistake three: bending the bottom arm to feel safer. A bent strut is no strut; the push must come through a locked arm or the shoulder pays double. When five seconds becomes boring on both sides, the straddle starts visiting your sessions, one leg at a time.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEARNED, NOT BORN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT BOTH SIDES"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE ACCOUNT IS OPEN"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under two seconds: the frame is unbuilt, and that is the normal starting square for every flag holder alive; the triangle is learned, not born. Two to five: push and pull are waking up, and your seconds will climb quickly with twice-weekly practice. Over five clean seconds on both sides: your lateral chain is certified, a strength most trained men simply do not have. Over ten: start straddling; the full flag is a season away, not a fantasy. Put your seconds in the comments, just the number, and tell me your weak side's number too, because that is the honest one. Retest in thirty days at the same pole. Sideways strength keeps sideways books, and yours just opened an account.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BOTH SIDES, BIGGER NUMBERS"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same pole, same tuck, both sides. Bring me two bigger numbers and we start opening the straddle. Subscribe, and I will see you at the pole. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "human flag",
+  "flag hold",
+  "oblique leverage",
+  "calisthenics skills",
+  "human flag test",
+  "lateral chain strength",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_dead_hang_front.webp",
+  "big": "5 SEC",
+  "hook": "HUMAN FLAG"
+ },
+ "title": "Your Flag Hold Time Reveals Your Hidden Strength",
+ "v5": true
+}

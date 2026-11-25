@@ -1,0 +1,387 @@
+{
+ "badge": "EP 696 - THE STAIR TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE ARMOR",
+  "YOUR VERDICT"
+ ],
+ "description": "Soreness, run as a protocol: log the score, introduce one stimulus at a time, and let the repeated bout effect vaccinate your muscles movement by movement. The stair test grades whether your armor is on.",
+ "hashtags": [
+  "stair test",
+  "soreness protocol",
+  "repeated bout",
+  "armor",
+  "doms"
+ ],
+ "id": "696",
+ "scenes": [
+  {
+   "asset": "ren_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DOWN IS THE HONEST DIRECTION"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SCORE, SESSION, EXPOSURE COUNT"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR STAIR SCORE",
+     "pos": "tr",
+     "text": "0 TO 10"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FILED AGAINST ITS CAUSE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is a flight of stairs, walked downward, which is the direction soreness cannot hide from. Find any staircase, stand at the top with the session that last trained your legs somewhere in the past three days, and walk down at normal pace, one step at a time. Score the thighs honestly, zero to ten: zero is silence, five is a clear complaint on every step, ten is the handrail shuffle of a man negotiating with furniture. If you have no stairs, ten slow bodyweight squats give the same testimony. That score is your number, and this time write down two companions for it: the session that caused it, and how many times you have performed that session before. Those three facts together, score, session, exposure count, are the entire data structure of this episode, because soreness only becomes useful when it is filed against its cause and its history. Keep the trio where your training log lives. By the end, soreness stops being weather you endure and becomes armor you build, one repeated bout at a time, with the score as the gauge that tells you whether the armor is on.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SPECIFIC, EARNED, BANKABLE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE CONSOLIDATION WINDOW",
+     "pos": "br",
+     "text": "2 WEEKS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "AN ASSET, NOT A SIDE EFFECT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE WORK IS THE SAME, THE ALARM IS NOT"
+    }
+   ],
+   "big": "2 WEEKS",
+   "card": "bignum",
+   "check": 1,
+   "label": "ONE HARD SESSION BUYS WEEKS OF ARMOR",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the number that turns soreness from a nuisance into a strategy. A single honest bout of a new movement confers protection against soreness from that same movement that is measurable for weeks afterward, with the strongest cover in the first fortnight and a tail that research has traced far longer. The protection is called the repeated bout effect, and it is one of the most reliable phenomena in exercise science: perform the identical session again inside the window and the soreness that returns is a fraction of the first edition, even though the work, and its training value, is the same or better. Two weeks is the conservative planning figure this protocol uses: the window in which a repeated session should be scheduled to consolidate the armor before it thins. Understand what the number promises and what it does not. The armor is specific, earned movement by movement, length by length; it does not transfer from squats to lunges for free.",
+   "section": "THE NUMBER",
+   "sub": "the repeated bout effect: protection that outlives the soreness by far",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Force metered across more fibres.",
+      "Inflammation runs smaller and faster."
+     ],
+     "pos": "tr",
+     "title": "A DIFFERENT TISSUE"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SOUND OF FORGING"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE SCHEDULE IS THE STRATEGY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "What is the armor made of? After the first bout's microscopic disruption and repair, the muscle returns changed in several cooperating ways. The nervous system meters force more skilfully, distributing the eccentric load across more fibres instead of ambushing the same few. The fibres themselves remodel, adding structural support and, over time, length, so the same range is covered by tissue built for it. The connective scaffolding stiffens and organises along the lines of stress. And the inflammatory response to the same insult runs smaller and faster, so the pain nerves are sensitised less and for fewer days. Add those together and the second bout meets a tissue that is, in the most literal sense, a different tissue from the one that met the first. This is why the protocol refuses to chase soreness: soreness is the sound of armor being forged, and a forge that never cools into a finished product is just a fire. The goal is a body of finished armor, movement by movement, maintained by regular use.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE ARMOR ANNOUNCES ITSELF"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FIRST PERFORMANCE",
+       90,
+       "red"
+      ],
+      [
+       "SECOND, TWO WEEKS ON",
+       30,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE SAME SESSION, TWICE"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "A THIRD OF THE ALARM",
+     "pos": "tr",
+     "text": "EQUAL WORK"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NOVELTY AS A GUEST, NOT A COUP"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Put the effect on the bars and its size stops being abstract. The same session, the same loads, the same man: the first performance prints a soreness score up near the top of the scale at forty-eight hours, and the second performance, a week or two later, prints a score a third as large, while every productive measure of the session, reps, load, technique, is equal or improved. Coaches who understand this stop apologising for the quiet second week of a programme; it is the armor announcing itself. There is a corollary the science insists on, and it disciplines the whole protocol: because protection is specific, a programme that rotates exercises constantly never lets any single movement's armor finish forging, and its owner lives in permanent first-week soreness, mistaking the forge's noise for the sound of progress. The bars are therefore also an argument for boring programmes. Repeat the movement, bank the protection, progress the load inside the armor, and let novelty enter one exercise at a time, like a guest, not a coup.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE NEW STIMULUS A WEEK"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SCORE, SESSION, EXPOSURES",
+     "pos": "br",
+     "text": "3 COLUMNS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STUCK HIGH MEANS DOSE, NOT COURAGE"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A FORGE, NOT A FIRE ALARM"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The protocol's working details live here, in the deep dive, where they belong. Introduction rate: one genuinely new stimulus per week, a new movement, a new range, or a large load jump, never three at once, because three at once makes the score unreadable and the armor unassignable. Consolidation: the new stimulus is repeated within its two-week window, ideally twice, at the same or slightly progressed dose, before any further novelty is layered on. Logging: every score is written with its session and exposure count, three columns, ten seconds, because the trend across exposures is the protocol's entire intelligence and memory cannot be trusted with trends. Interpretation: a score that falls across exposures is the system working; a score stuck high across three exposures of the same session is information too, usually a dose problem, too much volume or range too soon, and the answer is a smaller dose, not a braver attitude.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A FLYWHEEL, NOT A DISCIPLINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "BANKING ARMOR FAST",
+     "pos": "br",
+     "text": "3X A WEEK"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRENDS YOU CAN SEE BY WEEK TWO"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "IT PUSHES BACK FOR YOU"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The armor economy favours the light man for the same reason the soreness economy did: dose size. His training is bodyweight-led, which means each new stimulus arrives in a measured dose his tissue can vaccinate against in one or two exposures, and he can repeat movements three times a week without wrecking the calendar, banking armor at a pace barbell programmes cannot match. The heavy lifter's new stimulus is a negotiation with large absolute loads and longer repair; his armor forges slowly and his programme must tiptoe. The skinny guy's programme can march. There is a psychological dividend as well: because his scores fall visibly within a fortnight, the log becomes encouraging quickly, and encouragement is what keeps a protocol alive past week three, where most self-built systems go to die. Small doses, fast vaccination, visible trends, a log that argues for continuing: the soreness protocol at your size is less a discipline than a flywheel. Push it once, honestly, and it starts pushing back in your favour.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "check": 3,
+   "exercise": "SPLIT SQUATS",
+   "music": "drive",
+   "narration": "Today's armor, forged live: split squats, three rounds, controlled lowering, full range. This is the bout your future self will thank you for repeating. Go.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE NEW STIMULUS, CHOSEN"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REPEAT INSIDE TWO WEEKS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "CHASE THE SORENESS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE LOG IS THE PROTOCOL"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The soreness protocol, as rules. Rule one: one new stimulus per week, chosen deliberately, written down before the session, not discovered during it. Rule two: repeat the stimulus inside two weeks, twice if the calendar allows, at the same or a slightly progressed dose, and let the second score be the one you judge. Rule three: log every score with its session and exposure count; the log is the protocol, and a man without the log is just sore with opinions. Rule four: progress load and volume inside finished armor, and treat any return of high soreness as a signal that novelty crept in somewhere, findable in the log. Rule five: the boundary holds absolutely, sharp or joint pain exits the protocol and enters a professional's office. Five rules, and soreness is transformed from the tax you paid on training into the receipt that proves the armor is being built, filed, and maintained. The goal was never to hurt less for its own sake.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HALF A SENTENCE WITHOUT THE COUNT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SCORE THE SAME SESSION",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT SCORE AND SESSION"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your stair verdict, read with its exposure count attached, because the score alone is only half a sentence. A high score, seven and above, on a first exposure: the forge is lit, exactly on schedule; repeat the session inside the window and expect the sequel to score a third as much. The same high score on a third exposure: the dose is wrong, not the man; cut the volume or the range and let the armor catch up. A low score, zero to three, on any exposure: armor on, for that movement, and the programme may progress inside it with a clear conscience. Four to six in between: adaptation in progress, the most ordinary and honourable reading on the board. Whatever your trio says, record it in the log, all three columns. Put your score in the comments with the session that caused it. In thirty days, score the same session again and let the repeated bout effect sign its work in your own handwriting. You came in enduring soreness like weather. You leave manufacturing armor like a smith, and smiths keep logs.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same stairs, same session behind you. Bring me a smaller score from the same work. Subscribe, and keep your numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "soreness protocol",
+  "repeated bout effect",
+  "doms management",
+  "stair test",
+  "training log",
+  "muscle armor",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_squat_bottom.webp",
+  "big": "2 WEEKS",
+  "hook": "THE STAIR TEST"
+ },
+ "title": "Stop Doing soreness science Wrong: Train Your muscle damage signals Instead",
+ "v5": true
+}

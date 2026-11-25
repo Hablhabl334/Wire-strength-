@@ -1,0 +1,384 @@
+{
+ "badge": "EP 672 - THE SLEEP TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NIGHT SHIFT",
+  "YOUR VERDICT"
+ ],
+ "description": "Hang from a bar the morning after an ordinary night and your grip reports on your sleep better than any tracker. Learn what the night shift actually builds, what short sleep quietly taxes, and how to read your recovery hormones in seconds.",
+ "hashtags": [
+  "sleep test",
+  "recovery hormones",
+  "dead hang",
+  "calisthenics",
+  "sleep science"
+ ],
+ "id": "672",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BEFORE COFFEE, BEFORE EXCUSES"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HOURS SLEPT, HONESTLY"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "ONLY SPEAKS TOGETHER",
+     "pos": "tr",
+     "text": "THE PAIR"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP BOTH NUMBERS"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "First thing, before coffee. | The sleep strength test. | Find your bar. | Dead hang, honest grip. | Arms straight, shoulders packed. | Start the clock. | Hang until you drop. | That time is data. | Now the second number. | Last night's sleep, honestly. | Hours, from lights out | to the alarm. | Write both numbers down. | Side by side, always. | The hang is the report. | The hours are the shift. | That produced the report. | At the end: the truth. | what the night shift builds. | And what short nights tax. | Keep the pair together. | They only speak together.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A SHIFT REPORT, NOT A GRADE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "AFTER ONE SHORT WEEK",
+     "pos": "br",
+     "text": "-15%"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DEEP SLEEP RUNS THE PULSES"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "GRIP REPORTS FIRST"
+    }
+   ],
+   "big": "-15%",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHAT ONE SHORT WEEK DOES TO A MAN'S HORMONES",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the frame, from one of the most cited experiments in sleep science. Young men restricted to about five hours a night for one week showed daytime testosterone lower by roughly ten to fifteen percent, the equivalent, the authors noted, of aging a decade or more on that measure, in seven days. Testosterone is not the whole story, but it is the headline of a general truth: the night is when the recovery hormones clock in. Growth hormone does most of its daily work in pulses tied to deep sleep, especially the first deep cycle of the night. Cortisol, the stress hormone, is scheduled to fall as the others rise, and a truncated night leaves it holding the floor into the morning. Your hang time today is a downstream gauge of that whole economy: grip and drive are among the first qualities a taxed nervous system rations. Read the pair, hours and seconds, as a shift report, not a grade on your character.",
+   "section": "THE NUMBER",
+   "sub": "under 5 hrs: the tax is loudest - 7-9: the shift runs at full staff",
+   "type": "card"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Deep sleep builds the body.",
+      "Dream sleep files the skills."
+     ],
+     "pos": "tr",
+     "title": "ONE NIGHT, TWO SHIFTS"
+    },
+    {
+     "asset": "ren_hang_side_active.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRUNCATION THEFTS DIFFER"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A SCHEDULE, NOT A SUPPLEMENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Walk through one honest night as the factory sees it. The first ninety minutes hold the deepest sleep of the night, and with it the largest growth-hormone pulse of the day, the signal that tells tissues everywhere: build, repair, consolidate. Later cycles trade depth for dreams, and the dreaming stages do different work, maintaining the nervous system, filing the day's motor learning, rehearsing the skills you practiced. Toward morning, testosterone climbs toward its daily peak, which is one reason morning tests exist on this channel at all. Now truncate the night at either end and the damage differs: a late bedtime amputates the deep opening shift; an early alarm amputates the dream-rich closing one. Both thefts show up somewhere, in mood, in drive, in the hang. The hormones are not magic and they are not supplements. They are a schedule, and sleep is the only place the schedule runs.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DRIVE IS TAXED FIRST"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "SHORT WEEK",
+       70,
+       "red"
+      ],
+      [
+       "EXTENDED SLEEP",
+       95,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE SLEEP LEDGER"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FREE AND LEGAL"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "14 MORNINGS OF PAIRS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The performance research completes the picture, in both directions. Sleep-restricted athletes show slower reactions, lower drive, worse accuracy and reduced strength endurance, with the nervous system's qualities, exactly what a hang measures, taxed earliest and hardest. In the other direction, the famous sleep-extension studies, where athletes spent weeks deliberately sleeping nine to ten hours, found faster sprints, better accuracy and improved reaction times, without any change in training. Read that again as a skinny guy: a legal, free intervention improved performance qualities that no supplement reliably touches. The honest caveats belong here too. One bad night is weather; the hormone studies describe weeks, and your hang will wobble with a dozen variables besides sleep. That is why this test is a pair tracked over time, not a single morning's fortune-telling. Fourteen mornings of pairs will tell you your personal exchange rate between hours and seconds, and no wearable can know it better.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ORDERS BY DAY, FILLED BY NIGHT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF PAIRS IS THE GAUGE",
+     "pos": "br",
+     "text": "2 WEEKS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CATCH IT AT THE GAUGE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The deepest truth in this episode is that sleep is not recovery's waiting room. It is where the adaptation you trained for is actually decided. Training writes orders all day: this tendon, that fiber, this skill. The night shift is the only crew that fills them, and it fills them in its own order, hormones first, structure second, with the nervous system's filing woven through. A man can therefore do everything right in the gym and still run a deficit economy, if the orders pile up faster than the single nightly crew can process them. His tests will show it before his feelings do: morning numbers sagging across a fortnight, drive rationed, small injuries arriving like overdue notices. The sleep test exists to catch the economy at the gauge, not at the bankruptcy. Your hang and your hours, kept together for two honest weeks, are that gauge, and they cost less than any tracker that claims to do it for you.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS STATIC ON YOUR GAUGE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE FIRST IMPROVEMENTS",
+     "pos": "br",
+     "text": "TONIGHT"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DISGUISED AS DOING NOTHING"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FREE AT ANY INCOME"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your build reads this gauge more clearly than most, which is its own advantage. A light man's absolute recovery burden is smaller: less tissue to repair per session, less mass for the night's chemistry to service, so a given night's sleep covers a larger share of his orders than the same night covers for a heavy lifter. His morning hang is also a purer instrument, less confounded by bodyweight swings and joint complaints, so the signal from the night comes through with less static. And the intervention itself is the most democratic in this series: sleep costs nothing, scales to any income, and its first improvements, a consistent lights-out, a dark cool room, caffeine kept in its morning cage, are available tonight. The strongest legal recovery tool you own has been sitting at the end of your day all along, disguised as doing nothing.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Now we spend what last night deposited. Three rounds of hangs, packed shoulders, slow breath. Whatever the shift delivered, we train with it honestly.",
+   "rest": 15,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CONSISTENT LIGHTS-OUT"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CAFFEINE CAGED BY NOON"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DARK, COOL, BORING"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "THE PHONE IN BED"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The night-shift protocol, four levers, all free. One: defend the opening shift with a consistent lights-out, because the deep first cycle is scheduled by regularity more than by total hours. Two: keep caffeine in its morning cage, as the caffeine episode established; its half-life shares your bed otherwise. Three: make the room a cave, dark, cool and boring, and let the phone sleep in another room like the stimulant it is. Four: track the pair, hang and hours, for fourteen mornings before changing anything else, because your personal exchange rate is the whole point, and it cannot be downloaded. If the pairs show the expected trade, you will never again need convincing that sleep is training. You will have watched it, in seconds, in your own hands.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CHEAPEST UNTRAINED QUALITY"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN READ THE PAIRS",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT HOURS AND SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your sleep verdict, with the honesty the pair deserves. If your hang runs strong after seven to nine hours and sags visibly after short nights, your gauge works and your economy is legible: protect the night and the numbers follow. If your hang is low after every kind of night, sleep is not your bottleneck, and the audit has saved you from fixing the wrong department; look to the training and the kitchen. If your hours are chronically short and the hang chronically rationed, you are looking at the cheapest untrained quality in your entire record book. Put both numbers in the comments, hours and seconds, as a pair. In thirty days we read a month of pairs together, and your exchange rate gets its first official quote.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A MONTH OF MORNINGS"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same bar, first thing, pair in hand. Bring me a month of honest mornings and we will price your sleep together. Subscribe, and keep the pairs safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "sleep test",
+  "sleep and strength",
+  "recovery hormones",
+  "dead hang test",
+  "growth hormone sleep",
+  "sleep science",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_hang_side_relaxed.webp",
+  "big": "AM HANG",
+  "hook": "THE SLEEP TEST"
+ },
+ "title": "Your Sleep Strength Test Reveals the Truth About Your recovery hormones",
+ "v5": true
+}

@@ -1,0 +1,394 @@
+{
+ "id": "755",
+ "v5": true,
+ "title": "Your Digestion Test Reveals Your Hidden Strength",
+ "description": "You are not what you eat, you are what you absorb. Run the digestion test, score your pipeline honestly, and learn why some skinny guys eat plenty and still gain nothing.",
+ "tags": [
+  "digestion test",
+  "not gaining weight",
+  "eat more but absorb",
+  "skinny guy digestion",
+  "gut and gaining",
+  "calorie absorption",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "digestion",
+  "absorption",
+  "gaining",
+  "skinny to strong",
+  "calisthenics",
+  "eat more"
+ ],
+ "category": "gaining",
+ "badge": "EP 755 - DIGESTION: THE TEST",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE PIPELINE",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_forward_fold.webp",
+  "big": "7 DAYS",
+  "hook": "EAT IT, ABSORB IT",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today we test the pipeline. | Not what you eat. | What you actually absorb. | First, score your week. | Seven days of eating. | How many ended bloated? | How many meals sat heavy? | Heavy for hours after? | Count those days honestly. | That is your first number. | Second, the strength check. | Max bodyweight squats. | Deep, clean, full stand. | Count the honest reps. | That is your second number. | Keep the pair together. | At the end I tell | you what the pipeline reveals. | Some men eat enough and | still gain nothing. | The leak is not the | plate. | The leak is downstream. | Let us find your leak.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "TEST THE PIPELINE",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "7 DAYS",
+     "label": "SCORED HONESTLY",
+     "pos": "br",
+     "at": 9
+    },
+    {
+     "kind": "chip",
+     "text": "THE LEAK IS DOWNSTREAM",
+     "pos": "tr",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 21
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "7 DAYS",
+   "label": "OF EATING, GRADED BY WHAT YOUR GUT REPORTS",
+   "sub": "0-1 heavy days: the pipeline runs clean - 4 plus: food arrives, value leaks",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is how to read your first number. Your digestive system is a pipeline with one job: turn meals into absorbable pieces and move those pieces into the blood, where they become fuel and building blocks. Zero or one heavy, bloated day in seven means the pipeline is running clean, and your gaining problem, if you have one, lives on the plate, not in the pipes. Two or three heavy days says the pipeline struggles under load, usually at your biggest meals. Four or more says something important: you may be eating a gainer's calories and absorbing a dieter's. No test in a lab coat is needed to start. Your own week's report, honestly scored, is the first instrument, and it is more useful than another appetite lecture.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE PIPELINE REPORT",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "7 DAYS",
+     "label": "HONESTLY SCORED",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "START WITH YOUR REPORT",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "PLATE OR PIPES?",
+     "pos": "br",
+     "at": 26
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "The mechanism, in plain terms. Digestion is a relay: chewing starts it, stomach acid and churning continue it, enzymes in the small intestine do the heavy cutting, and the intestinal wall does the absorbing. Each stage hands off to the next, and the whole relay is sensitive to speed and load. Enormous meals eaten fast overwhelm the early stages, and half-processed food arrives where it should not, feeding gas and discomfort instead of you. Stress and rushed eating tighten the system further, because the gut takes its orders from the same nervous system that braces for a fight. This is why the classic skinny-guy strategy, one monstrous evening meal, so often backfires. The pipeline was never built for floods. It was built for rivers. One more stage deserves its sentence: the stomach itself is trainable in capacity, within comfort. Regular, gradually larger meals genuinely expand what a sitting can hold without distress, which is why veteran gainers eat lunches that would floor their beginner selves. The expansion comes from repetition, never from a single heroic stuffing.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "THE RELAY",
+     "lines": [
+      "Chew, acid, enzymes, absorb.",
+      "Floods break the handoffs."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_balance_test.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "RIVERS, NOT FLOODS",
+     "pos": "br",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "SLOW THE HANDOFFS DOWN",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science adds a practical number to this picture: meal size has a comfort ceiling that varies by person, and absorption efficiency is not fixed. Very large single meals tend to move faster and less completely through the system than the same food split across the day, which is one reason the spread pattern keeps winning in gaining research. Liquid calories sit at the friendly end of the spectrum: shakes are partly pre-broken-down, leave the stomach sooner, and rarely trigger the heavy, stuffed feeling that kills the next meal's appetite. None of this is disease talk. It is plumbing talk. And the honest boundary belongs here too: pain, blood, or weight loss while eating plenty are doctor symptoms, not content symptoms. If your pipeline reports those, see a professional and skip the protocols. Chewing deserves its footnote as well, because it is the only stage fully under your control. Food that arrives at the stomach in smaller pieces gives acid and enzymes more surface to work on, and the whole relay runs smoother. It costs nothing but minutes, and it is the stage rushed eaters skip entirely.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "PLUMBING, NOT DISEASE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "SAME FOOD, TWO PATTERNS",
+     "items": [
+      [
+       "ONE FLOOD MEAL",
+       48,
+       "gold"
+      ],
+      [
+       "SPREAD + A SHAKE",
+       79,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "LIQUIDS ARE FRIENDLY",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "KNOW THE BOUNDARY",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "Go one layer deeper and you find the appetite loop, the quiet engine of this whole problem. A heavy, uncomfortable meal teaches the brain a lesson, and the lesson is to dread the next one. Dread shrinks the next meal, the shrunken day ends in deficit, and the gainer concludes he has a small stomach when he actually has a trained avoidance. Breaking the loop rarely requires eating more at once. It requires eating slightly more, comfortably, repeatedly, until comfort itself expands. Appetite follows the path of repeated, unpunished meals. This is also why crash attempts fail: three heroic days, one miserable evening, and the loop tightens again. The men who escape are the ones who made gaining feel easy early, on purpose, as a strategy.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE APPETITE LOOP",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "COMFORT",
+     "label": "EXPANDS WITH REPETITION",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "MAKE IT FEEL EASY",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "AVOIDANCE, NOT ANATOMY",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage here is that pipeline problems are the most fixable problems in gaining. The man with a slow metabolism fights arithmetic. The man with a flood-fed pipeline fights only scheduling, and scheduling bends in a week. Smaller meals, one more eating occasion, a shake where the fourth meal will not fit, ten unhurried minutes at the table: these are cheap levers, and they stack. There is a subtler advantage too. A light eater who fixes his pipeline often discovers his appetite was never small at all. It was suppressed by discomfort he had stopped noticing, the way you stop noticing a tight shoe. Remove the pressure and the natural hunger of a training young body does the rest, asking for food you used to have to force.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "SCHEDULING BENDS FAST",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "1 WEEK",
+     "label": "TO FEEL THE TURN",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "CHEAP LEVERS STACK",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "THE TIGHT SHOE",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_top.webp",
+   "exercise": "SQUAT SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Train the engine while the pipeline lesson settles. Four rounds of squats, forty seconds on, twenty off. Deep and smooth, never rushed. Rushing is the theme today: it ruins meals and reps the same way.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The protocol for a leaky pipeline, four rules for seven days. One: cap the flood, splitting your biggest meal into two sittings an hour or two apart, same food, smaller waves. Two: add one liquid meal daily, a shake with milk, oats, banana, and nut butter or your own version, because liquids bypass the comfort ceiling. Three: eat the first ten minutes of every meal slowly and seated, phone down, giving the relay its handoffs in order. Four: score each evening honestly, heavy or fine, and let the week's count be your retest data. If the heavy days fall, the pipeline is responding and the scale will follow. If nothing changes in two clean weeks, that is real information too, and it belongs in a professional's hands.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "SPLIT THE FLOOD",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "ONE LIQUID MEAL",
+     "ok": true,
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "TEN SLOW MINUTES",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "ONE MONSTER MEAL",
+     "ok": false,
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_forward_fold.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. Four or more heavy days with ordinary squats: your pipeline is the leak and your engine is waiting downstream of it, so this week's scheduling fix outranks any new training. One or zero heavy days with low squats: the pipes are clean and the story is simpler, the plate itself needs more, or the training needs more intent. Many heavy days but strong squats: you are absorbing enough to perform but paying a comfort tax that will cap your surplus soon, so fix the pattern before it fixes your ceiling. Clean pipeline, strong squats: nothing here is broken, keep the river flowing and retest in thirty days. Comment your heavy-day count and your squat number. Downstream numbers are the ones nobody else is tracking. Track the trend, not the day. One heavy evening after a huge training day is weather. Four heavy days in an ordinary week is climate, and climate is what this protocol is built to change.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 6
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN RETEST",
+     "pos": "br",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, score the same week and squat the same test. Bring me a cleaner pipeline and a bigger number. Subscribe, and let the river run daily until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "RIVERS, NOT FLOODS",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

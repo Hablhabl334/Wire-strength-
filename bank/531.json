@@ -1,0 +1,407 @@
+{
+ "badge": "EP 531 - FRONT LEVER TUCK",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "Hang from a bar, tuck, and lift your back until it is level with the ground. Your front lever tuck time grades your lat leverage, the straight-arm pulling chain behind every advanced skill on the bar. Take the test, read the number, and train the chain with us.",
+ "hashtags": [
+  "front lever",
+  "lat leverage",
+  "calisthenics",
+  "straight arm pull",
+  "skill training"
+ ],
+ "id": "531",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PALMS DOWN, ARMS STRAIGHT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "FACE TO THE SKY",
+     "pos": "br",
+     "text": "BACK LEVEL"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO BENT ELBOWS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COME DOWN SLOWLY"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Grip a solid bar. | Palms down, arms straight. | Hang tall and quiet. | Tuck knees to chest. | Now lean back hard. | Pull your hips up. | Back turns level. | Body under the bar, | face to the sky. | Start your clock there. | Hold the level tuck. | Arms dead straight. | Shoulders pulling down. | No bent elbows. | No swinging up. | The clock stops when | your back drops below | level, or arms bend. | That clean hold time | is your number. | Keep it somewhere safe. | At the end I | tell you what it means. | Come down slowly. | Never drop off. | One honest attempt. | Your lats are about | to introduce themselves.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "15 CLEAN SEC = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ADVANCED TUCK OPENS",
+     "pos": "br",
+     "text": "30+ SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CANNOT BE FAKED"
+    }
+   ],
+   "big": "15 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF LEVEL TUCK IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifteen clean seconds in a front lever tuck, back level, arms locked, hips tucked tight, is real lat leverage. Under five seconds, your straight-arm pulling chain has simply never been loaded like this, and unvisited positions always under-report your strength. Over thirty seconds, the tuck is a tool you own, and the advanced tuck, with its longer lever, is the next honest price. Know what the clock is grading here. Not your pull-up. A pull-up bends the arm and lets the biceps and forearms share the work. The front lever forbids the bend, so the entire load travels through straight arms into the lats and the shoulder's connective tissue. It is the purest audit of pulling leverage that exists, and it cannot be faked by a big pump or a good day. Your tuck time is your chain's credit score.",
+   "section": "THE NUMBER",
+   "sub": "under 5: the chain is unbuilt - over 30: advanced tuck opens",
+   "type": "card"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Bar, straight arm, lat, spine.",
+      "Every weak link announces itself."
+     ],
+     "pos": "tr",
+     "title": "THE PURE PATH"
+    },
+    {
+     "asset": "ren_pullup_mid.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SHOULDERS DOWN, LATS ON"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNBROKEN OR NOTHING"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE CHAIN BEHIND EVERY LEVER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The front lever is a seesaw hung from a bar. Your hands are the pivot. Your body is the beam, and in the tuck your mass huddles close to the pivot, keeping the price low. The muscles paying that price are the lats, the great wings that run from your upper arm to your spine and pelvis, working here at their longest and most honest angle. Because the arm cannot bend, the force path is pure: bar, straight arm, shoulder, lat, spine. Every weak link in that path announces itself. If the shoulders creep toward your ears, the lats have left the chat and the neck is paying. If the elbows soften, the chain has resigned and the biceps are writing checks the position cannot cash. Lat leverage is the art of keeping that path unbroken while gravity tries to rotate you down. It is the same chain behind the muscle-up's top half and every lever you will learn on this bar.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SHAPES COST LIKE STRANGERS"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "TUCK",
+       20,
+       "cyan"
+      ],
+      [
+       "ADV TUCK",
+       45,
+       "gold"
+      ],
+      [
+       "STRADDLE",
+       70,
+       "gold"
+      ],
+      [
+       "ONE LEG",
+       95,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE DIAL, PRICED HONESTLY"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MONTHS PER SHAPE"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The tuck is a dial, and the science is in how steeply the price climbs when you turn it. Tucked tight, your center of mass sits almost under the bar. Open to an advanced tuck, back flat and thighs vertical, and the mass moves out, and shoulder torque climbs by half again. Straddle it and the price doubles. One straight leg and it nearly triples. This is why front lever progressions feel unfair: the shapes look like cousins and cost like strangers. The correct response is respect for the dial. Spend months, not days, at each shape, and let the tissue thicken at the price you can actually pay. There is a second science here: straight-arm work loads the biceps tendon and shoulder capsule at long lengths, the exact stimulus connective tissue needs and the exact dose it punishes you for rushing. Fifteen clean seconds is not an arbitrary line. It is roughly where the tissue, not the motivation, has genuinely adapted.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_doorframe_row.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE HUMBLE DRILL"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "SLOW, TWICE A WEEK",
+     "pos": "br",
+     "text": "3 x 8"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BLADES DOWN AND TOGETHER"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The lever's best friend is a humble drill: the doorframe row. Grip a doorframe or sturdy table edge, lean back with straight body, and row your chest to your hands. It trains the lats and the straight-back chain together at a price anyone can pay today, and it teaches the shoulder blades their front lever job: down and together, never shrugged. Three sets of eight, slow, twice a week. Rows will not give you a front lever by themselves, but they build the base of lat and scapula strength that the tuck then converts into leverage. Every advanced chain in this season has a humble drill underneath it. This is the front lever's.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS MASS TO MULTIPLY"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ON THE BAR PER WEEK",
+     "pos": "br",
+     "text": "MORE DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE PRICE LIST FAVORS YOU"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MIRROR LIES"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage on this bar is the season's refrain, and the front lever sings it loudest. The lever's price is your mass times its distance from the bar, and you bring less mass to multiply. The heavy lifter's tuck is a heavier exercise than yours at the identical shape, and his chain needs longer to recover from it. You can visit this position more days per week, with cleaner form, and frequency is the language connective tissue understands best. Watch any gymnastics gym in the world and count the heavy front lever holders. The event selects for your build with a honesty that borders on rudeness. I am not telling you the skill is easy. I am telling you the price list was written for bodies like yours, and the mirror has been lying to you about who the bar favors.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "check": 3,
+   "exercise": "FRONT LEVER TUCK",
+   "music": "drive",
+   "narration": "Now we hang together. Four rounds: tuck in, lift the back level, lock the arms, hold fifteen seconds. Rest fully between rounds, and stop any hold that bends.",
+   "rest": 45,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 15
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "2 LEVER SESSIONS A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BENT ARMS END THE SET"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TIGHT TUCK, HONEST PRICE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SHAPES ARE EARNED"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP PAYING THE PRICE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Two bar sessions for levers, plus rows once or twice as support, because this chain rebuilds slowly and punishes greed. Each session: four tuck holds like our block, then three sets of slow tuck lifts, raising into the position and lowering over five seconds. Mistake one: bending the elbows when the hold gets hard. The bend is the chain resigning; end the set instead and keep the tissue honest. Mistake two: tucking loosely, knees drifting from the chest. A loose tuck is a longer lever in disguise, and it bills you for a shape you did not choose. Mistake three: testing the straddle every session to feel advanced. Shapes are earned at fifteen clean seconds, not visited on hope. The front lever is a multi-season project for every human alive. The men who get it are simply the men who kept paying the current shape's price after it stopped being exciting.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNBUILT IS A STARTING LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE LEVER REMEMBERS"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under five seconds: the chain is unbuilt, and unbuilt is a starting line, not a sentence. Five to fifteen: the lats are learning their straight-arm trade, and the seconds will come steadily if you feed the position twice a week. Over fifteen clean: your lat leverage is certified, and the advanced tuck is yours to start pricing. Over thirty: you are ahead of almost every strong man you know at the one quality none of their training touches. Put your seconds in the comments, just the number, and retest in thirty days on the same bar with the same tight tuck. The lever grades in seconds and remembers everything. In a month, we see what your chain has been learning.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "OPEN THE ADVANCED TUCK"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days, same bar, same tuck, back level, arms straight. Bring me a longer hold and we open the advanced tuck together. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "front lever",
+  "front lever tuck",
+  "lat leverage",
+  "calisthenics skills",
+  "straight arm pull",
+  "bar skills",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_hang_side_tuck.webp",
+  "big": "15 SEC",
+  "hook": "FRONT LEVER"
+ },
+ "title": "Your Front Lever Tuck Time Reveals Your Hidden Strength",
+ "v5": true
+}

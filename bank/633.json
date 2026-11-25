@@ -1,0 +1,396 @@
+{
+ "id": "633",
+ "v5": true,
+ "title": "The wall sit retest Benchmark: Where Your knee tendons Ranks",
+ "description": "The wall sit benchmark has not moved since day one: two minutes separates building knees from trained ones. Today you sit again and we rank your knee tendons against that line. Bring your old time, because today the benchmark and the gap both get read.",
+ "tags": [
+  "wall sit benchmark",
+  "wall sit retest",
+  "knee tendon strength",
+  "wall sit test",
+  "patellar tendon",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "wall sit",
+  "benchmark",
+  "retest day",
+  "knee tendons",
+  "calisthenics",
+  "isometrics"
+ ],
+ "category": "retests",
+ "badge": "EP 633 - WALL SIT BENCHMARK",
+ "checklist": [
+  "THE RETEST",
+  "THE BENCHMARK",
+  "THE TENDON",
+  "YOUR RANK"
+ ],
+ "thumb": {
+  "asset": "ren_wall_sit_front.webp",
+  "big": "2:00",
+  "hook": "WALL SIT BENCHMARK",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE RETEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you sat against a wall. | Back flat. | Knees at ninety. | The clock started, | and your thighs caught fire. | You wrote the time down. | Today the benchmark waits. | Same wall. | Same ninety degrees. | Same foot position, | marked and frozen. | Slide down and settle. | Hands off your knees. | Breathe like you mean it. | When your hips drop | below the line, | or you stand up, | the test is over. | That is your NEW time. | Got it? | Put it beside the old one. | At the end, | I rank your knee tendons | against the two-minute line.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME WALL, FROZEN ANGLE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "FOOT POSITION MARKED",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "HANDS OFF KNEES",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEW TIME LOCKED IN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "2:00",
+   "label": "THE BENCHMARK THAT NEVER MOVED",
+   "sub": "under 60: building - 90: close - over 2 min: ranked trained",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the benchmark, unchanged since the day this channel first posted it. Two minutes of wall sit at ninety degrees is the line where knee tendons rank as trained. Ninety seconds is the doorstep, close enough to taste it. Under sixty is the building band, and it held almost every beginner who ever took this test, including plenty who now sit past three minutes. A benchmark that never moves is a gift. It means today's rank and day one's rank speak the same language, and the gap between them is pure signal with no translation errors. That is rarer in fitness than you think, and it is why this channel retests instead of guessing.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "2:00",
+     "label": "THE TRAINED KNEE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "90 SEC = THE DOORSTEP",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "A FIXED LINE, A PURE GAP",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at the tendon the benchmark is really grading. The patellar tendon runs from kneecap to shin, short and thick, and in a ninety-degree wall sit it carries a load that surprises people: your quads pull up, your bodyweight pulls down, and the tendon sits at the crossing taking both. Isometric holds are the tendon's favorite teacher because the load is high, steady, and long. Over ninety days of that teaching, the collagen inside remodels into denser, better-aligned fibers, and the tendon's stiffness rises. A stiffer patellar tendon means the quad's force reaches the shin with less delay and less loss, which is precisely what the second minute of a wall sit is testing. One more detail makes the benchmark stricter than it looks. The two-minute line assumes the sit is continuous and honest: no brief stands, no hand support, no angle shopping when the burn arrives. Every man who has ever posted a huge wall sit time bent at least one of those, usually the angle. Your retest holds the standard because this channel's benchmark only means something if the conditions are boringly identical. A fixed line and frozen rules: that is not pedantry, it is what makes your gap a fact instead of a feeling.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "THE CROSSING POINT TENDON",
+     "lines": [
+      "Quad pulls up. Gravity pulls down."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_wall_sit_front.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "HIGH, STEADY, LONG = TEACHER",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "MINUTE TWO",
+     "label": "IS THE REAL EXAM",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now the comparison that matters. Researchers who study isometric training find that strength gains concentrate near the trained angle, and tendon stiffness gains need roughly eight to twelve weeks to become measurable. Your ninety days sits exactly on that horizon, which is why this channel retests at ninety instead of thirty. A thirty-day retest mostly measures nerve learning and bravery. A ninety-day retest can actually catch the tendon mid-remodel, with new collagen laid down and packed. So read your gap with the right expectations. Fifteen honest seconds gained is a tendon that changed its material. That is a bigger deal than fifty seconds gained from simply learning to tolerate the burn. One more expectation deserves setting before the next block begins. Tendon stiffness gains follow a saturating curve: the second ninety days rarely doubles the first ninety days' gain, because the easy remodeling happens early. This is not decline; it is the shape of all biological adaptation, and it is why the benchmark matters more than the gap over time. The gap will slow. The line will not move. Men who understand the curve keep training through it. Men who expected linear miracles quit at the plateau that was actually progress changing gears.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "DAY 1 SIT",
+       55
+      ],
+      [
+       "DAY 90 SIT",
+       120
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "90 DAYS CATCHES THE REMODEL",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "MATERIAL CHANGE VS BURN TOLERANCE",
+     "lines": [
+      "Both help. Only one lasts."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "READ THE GAP CORRECTLY",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "There is a quieter change happening around the tendon that your retest also detects. The wall sit is not just quads. Your glutes hold your pelvis honest, your calves stabilize the ankle end of the chain, and the small muscles around the knee learn to share load instead of letting one structure take it all. Ninety days of holds smooths out that sharing. The shake you remember from day one was partly a committee arguing. A calmer sit today means the committee reached an agreement, and agreed committees hold longer. When coaches say a movement looks easy before it gets easy, this is what they mean: the same burn, arriving later, in a body that stopped wasting force on internal arguments. And the committee around the knee includes one member nobody mentions: your breathing. A held breath spikes tension everywhere, including the stabilizers, and makes the sit feel harder than the tendon load alone explains. Trained sitters exhale slowly through the worst seconds, and their committees stay organized a few breaths longer. If today's sit ended with your breath in chaos, part of the remaining gap is respiratory, and respiratory gaps are among the cheapest in this entire sport to close.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE COMMITTEE STOPPED ARGUING",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "hip_joint_plate.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "CALMER SIT",
+     "label": "SAME BURN, ARRIVING LATER",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "SHARED LOAD HOLDS LONGER",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe is the same one this benchmark was built on. The wall sit charges you in proportion to your bodyweight, and you bring less of it than the big guys do. His quads fight a heavier load from the first second, his burn arrives earlier, and his weekly volume of quality holds ends up smaller because every session costs him more recovery. You can sit more often, recover by tomorrow, and send your tendons the remodeling signal again and again. Tendons do not count how impressive a session looked. They count how many times the signal arrived. On that scoreboard, the skinny guy with a wall and a calendar is quietly dangerous.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "TENDONS COUNT SIGNALS",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "HEAVY: SIGNALS/WK",
+       3
+      ],
+      [
+       "YOU: SIGNALS/WK",
+       5
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "QUIETLY DANGEROUS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "A WALL AND A CALENDAR",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "WALL SIT HOLDS",
+   "work": 45,
+   "rest": 15,
+   "rounds": 4,
+   "asset": "ren_wall_sit.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we sit together. Four rounds of forty-five seconds at ninety degrees, fifteen seconds to stand, shake, and reset. Back flat, breathing steady, hips honest. This is where benchmarks get chased."
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-level protocol targets the three mistakes that stall wall sit ranks. Mistake one is chasing the burn with daily sits. Tendons remodel between sessions, and daily max holds interrupt the construction. Mistake two is letting the angle creep shallower as the weeks pass, which quietly makes every session easier and every retest a lie. Keep the tape marks on the floor and the wall. Mistake three is two-legged comfort forever. Once you rank past two minutes, single-leg sits at a higher angle become the next signal. The protocol: two sit days a week, four holds each, one single-leg day, and the benchmark retest every thirty days. One weekly detail keeps the benchmark climb alive: the loaded sit. Once a week, hold with a light backpack or a plate on your thighs for shorter sets. The tendon cannot tell the difference between your bodyweight and honest added load, and a system that only ever trains at one load eventually defends exactly that load and no more. Keep the test bodyweight-only forever. Let the training occasionally lie heavier.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "DAILY MAX SITS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "ANGLE CREEP",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "TWO-LEGGED COMFORT FOREVER",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE BENCHMARK PROTOCOL",
+     "lines": [
+      "2 sit days. 1 single-leg day."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR RANK",
+   "label": "THE WALL SIT BENCHMARK VERDICT",
+   "sub": "comment your old and new times",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Verdict time, against the line that never moved. Over two minutes: your knee tendons rank as trained, full stop, and single-leg work is your next country. Ninety seconds to two minutes: the doorstep, where one more honest block of holds usually crosses the line. Sixty to ninety: solidly building, with the gap as your encouragement. Under sixty: the base band, where the only prescription is more weeks of signals, not more suffering per session. Wherever you ranked, comment both times below, old and new, and set the next retest thirty days out. The benchmark will be waiting, unmoved, exactly as a benchmark should be.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "2:00+",
+     "label": "TENDONS RANKED TRAINED",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "THE DOORSTEP IS CLOSE",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT BOTH TIMES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RETEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "The line never moved. You did. That is the entire point of a benchmark. Keep sending the signal, keep the angle honest, and bring me a longer sit next retest. Subscribe so the benchmark days never pass you by. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "BRING BOTH TIMES",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

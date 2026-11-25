@@ -1,0 +1,396 @@
+{
+ "id": "630",
+ "v5": true,
+ "title": "The left vs right Benchmark: Where Your side-to-side nerve balance Ranks",
+ "description": "Ninety days ago the single-leg balance test exposed the gap between your left and right sides. Today the retest ranks your side-to-side nerve balance against the benchmark. Bring both old times, because the gap between your sides matters more than either time alone.",
+ "tags": [
+  "balance retest",
+  "nerve balance",
+  "single leg balance test",
+  "left vs right",
+  "proprioception",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "balance test",
+  "retest day",
+  "nerve balance",
+  "left vs right",
+  "calisthenics",
+  "proprioception"
+ ],
+ "category": "retests",
+ "badge": "EP 630 - BALANCE RETEST",
+ "checklist": [
+  "THE RETEST",
+  "THE BENCHMARK",
+  "THE WIRING",
+  "YOUR RANK"
+ ],
+ "thumb": {
+  "asset": "ren_balance_test.webp",
+  "big": "L vs R",
+  "hook": "BALANCE RETEST",
+  "accent": "violet"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE RETEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you stood on one leg. | Eyes open. | Arms free. | The clock ran | until your foot touched down. | Then the other leg. | And the gap embarrassed you. | Today we retest the balance. | Same floor. | Same bare feet. | Same leg order, | weak side first this time. | Stand tall. | Pick a spot on the wall. | Breathe out and settle. | When the standing foot shifts, | hops, or touches down, | that side is done. | Both times. | Write them next to the old pair. | At the end, | I rank your balance gap, | and the gap is the grade.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME FLOOR, BARE FEET",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "WEAK SIDE GOES FIRST",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "A HOP ENDS THE TEST",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "BOTH TIMES LOCKED IN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "10%",
+   "label": "THE BALANCE GAP BENCHMARK",
+   "sub": "over 30% gap: lopsided wiring - under 10%: balanced system",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the benchmark for this retest, and it is not a time. It is a percentage. Take your weaker side, divide by your stronger side, and look at the gap. Over thirty percent difference means lopsided wiring: one leg is running a different nervous system than the other. Ten to thirty percent is the normal human range, where most trained people live. Under ten percent is a balanced system, the quiet signature of a body that trusts both legs equally. On day one, most skinny guys discover a gap they never suspected, because two-legged life hides it perfectly. Today we find out whether ninety days of honest work closed it.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "UNDER 10%",
+     "label": "A BALANCED SYSTEM",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "THE GAP IS THE GRADE",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "TWO LEGS HIDE IT PERFECTLY",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at the wiring. Balance is not a muscle skill. It is a conversation. Sensors in your ankle and foot report position a hundred times a second, the signal climbs the nerve pathway to your spine and brain, and corrections flow back down before you consciously notice anything. On your weak side, that conversation was slow or noisy on day one, so the corrections arrived late and the wobble won. Ninety days of single-leg work does not grow balance muscles. It upgrades the conversation: faster signals, cleaner corrections, and a brain that trusts the weak side's reports. That trust is the entire game, because a side your brain distrusts is a side it will not load, jump from, or land on when it matters. One more detail explains why your gap surprised you on day one. Daily life is a conspiracy to hide imbalance. Stairs alternate, chairs are symmetrical, and two-legged standing lets the strong side quietly take sixty percent of you while the weak side supervises. The single-leg test is rude precisely because it removes the conspiracy. Ninety days of rude honesty later, your strong side has less overtime to work and your weak side has a job it can finally do. That is what the smaller gap is actually made of.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "BALANCE IS A CONVERSATION",
+     "lines": [
+      "Sensors report. The brain corrects."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "spine_anatomy_plate.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "FASTER SIGNALS, CLEANER FIXES",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "100x / SEC",
+     "label": "POSITION REPORTS PER ANKLE",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now read your result like a scientist, because this test has a trap. Balance improves fast in the first weeks from pure learning: your brain simply gets better at the test itself. After that, gains slow down and become real, reflecting actual changes in how quickly the reflex loops fire. Research on balance training shows the honest pattern clearly. Big early jumps, then slower, harder progress that transfers to other movements. So if your strong side barely moved but your weak side climbed, smile. That is the pattern of a gap truly closing. If both sides doubled, some of that is test learning, and the next retest will show you how much was real. One more caution belongs in the science of this test. Balance has a daily rhythm and a fatigue curve, which means a retest done after leg training grades a different system than one done fresh. This channel's standard is fresh, morning or rested, same conditions as day one. If today broke the standard, treat the result as a draft and rerun it properly within the week. A gap measured under different weather is two numbers arguing, not one number speaking.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "WEAK SIDE DAY 1",
+       18
+      ],
+      [
+       "WEAK SIDE DAY 90",
+       40
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "WEAK SIDE CLIMBING = REAL",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "EARLY GAINS ARE LEARNING",
+     "lines": [
+      "Later gains are wiring. Both count."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "THE NEXT RETEST AUDITS THIS ONE",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "There is a hidden layer to your gap, and it sits in the ankle itself. Every old ankle roll and sprain, even the small ones you walked off in a day, can leave the position sensors in that ankle slightly deaf. The ligament heals, but the reporting never fully resets unless you train it. That is why one side so often lags with no visible reason. The good news is that balance work is precisely the retraining those sensors need. Every second you spend wobbling on the weak side is a sensor recalibrating. If your weak side is your old sprain side, today's gap is not a character flaw. It is a repair report, ninety days in. And the ankle's story has a hopeful second chapter. Sensor recalibration does not expire with youth or with time since the injury. Studies of decades-old ankles still show balance responses improving with targeted work, because the sensors were never destroyed, only ignored. Your weak side's climb this season is that principle with your name on it. Whatever your ankle's history, its future is trainable, and today you hold the receipt.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "OLD SPRAINS DEAFEN SENSORS",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "ankle_ligament_plate.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "WOBBLE",
+     "label": "IS SENSOR RECALIBRATION",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "A REPAIR REPORT, DAY 90",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe for balance day is simple: nobody's mirror shows this. A guy can build an impressive physique on two legs while one side quietly runs on a backup system, and the imbalance only introduces itself years later as the knee that always aches or the ankle that always rolls. You are a skinny guy with a stopwatch and ninety days of data, and you are auditing wiring that most lifters never test once in their lives. Balance is also the one physical quality with no bodyweight penalty and no equipment excuse. The floor is free, the test takes a minute, and the information is worth more than most gym machines will ever tell you.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE MIRROR NEVER SHOWS THIS",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "SIDES MOST LIFTERS TEST",
+       0
+      ],
+      [
+       "YOUR SIDES TESTED",
+       2
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "YOU AUDIT WHAT THEY IGNORE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "THE FLOOR IS FREE",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "SINGLE-LEG BALANCE",
+   "work": 30,
+   "rest": 15,
+   "rounds": 4,
+   "asset": "ren_balance_test.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we balance together. Four rounds, alternating legs: thirty seconds per side, fifteen to switch and shake it out. Weak side starts every round. Eyes on one spot, breathe slow."
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-level protocol fixes the three mistakes that keep balance gaps open. Mistake one is training both sides equally when the test screams otherwise. The weak side gets double volume until the gap closes under ten percent. Mistake two is testing on soft floors or in shoes sometimes and barefoot other times. Conditions change the test, so conditions stay frozen. Mistake three is staring at the floor. Your eyes are part of the balance system, and the test standard is eyes fixed on a wall spot at eye height. The protocol: weak-side balance work five days a week in short doses, eyes-open mastery first, then eyes-closed seconds as the bonus round. One weekly detail keeps the gap closed once you close it: the barefoot minute. Every day, not just training days, stand on the weak leg for one honest minute while the kettle boils or the brush runs. Balance responds to frequency more than to intensity, and a daily minute is a hundred small recalibrations a month that no weekly session can match. The gap was built by daily life. Daily life is where you take it back.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "EQUAL VOLUME BOTH SIDES",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "CHANGING THE FLOOR",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "STARING AT THE FLOOR",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE BALANCE PROTOCOL",
+     "lines": [
+      "Weak side x2 volume. Five days a week."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR GAP",
+   "label": "THE BALANCE RETEST VERDICT",
+   "sub": "comment both times - strong side and weak side",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Verdict time, and remember, the gap is the grade. Under ten percent difference: balanced system, ranked and rare, so your next test is eyes-closed balance. Ten to thirty percent: the normal trained range, with weak-side volume as your clear assignment. Over thirty percent: lopsided wiring still, which is not a failure but a map, because now you know exactly which ankle and which nerve pathway need the work. And if your weak side passed your old strong side, congratulations, you have a new weak side and the work simply changes address. Comment both times below, strong and weak, and circle the next retest thirty days out.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "UNDER 10%",
+     "label": "BALANCED AND RARE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "A GAP IS A MAP",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT BOTH TIMES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RETEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Two legs, two times, one honest gap, and now you know your wiring better than most athletes ever will. Keep feeding the weak side, and bring me a smaller gap next retest. Subscribe for every retest day. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "BRING BOTH TIMES",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,393 @@
+{
+ "badge": "EP 548 - HILL SPRINT MISTAKES",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Hill sprints should forge the fastest-firing legs you own. Instead, five common mistakes turn them into slow, tired conditioning that teaches your leg power nerves to fire late. Take the hill test, find your mistakes, and give the hill back its job.",
+ "hashtags": [
+  "hill sprints",
+  "power nerves",
+  "calisthenics",
+  "sprint mistakes",
+  "uphill"
+ ],
+ "id": "548",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME HILL, SAME LINES"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "FULL INTENT, HONEST TIME",
+     "pos": "br",
+     "text": "30 METERS"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO ATTEMPTS, FULL REST"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIXABLE BY FRIDAY"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Back to our hill: a steady, moderate slope where you can still run tall. Mark thirty meters from a standing start, exactly as we did in the hill test. Sprint it at full intent, time it honestly with a friend, a watch or video frames, take two attempts with full rest, and keep the faster one. That time is your number today. Keep it somewhere safe. This episode is the hill test's sequel, and it has a villain list. Hill sprints are the finest power-nerve training a free athlete owns, but they are also the easiest session in the world to ruin, because the line between power training and conditioning is invisible and almost everyone crosses it without noticing. The five mistakes ahead are the five crossings. If your hill time has been stuck, your legs are probably not the problem. Your session design is, and session design can be fixed by Friday.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "6 SEC = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PROTECT WHAT YOU BUILT",
+     "pos": "br",
+     "text": "UNDER 5.5"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ALWAYS TRAINING SOMETHING"
+    }
+   ],
+   "big": "6 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "FOR 30M UPHILL IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, unchanged from the hill test, because the hill does not grade on a curve. Six seconds for thirty meters uphill is trained leg power. Over seven and a half, and this episode's claim is specific: at least one of the five mistakes is taxing your signal before your legs ever get to vote. Under five and a half, your power nerves are serious, and the mistakes list becomes your protection racket, the things that would steal what you built if you let them into your training. Hold the central idea before we name names. Power nerves adapt to maximal signals sent by fresh tissue. Everything that makes the tissue tired or the signal submaximal does not merely waste a session; it actively teaches the opposite quality, slow recruitment, which is why ruined hill sessions are worse than no hill sessions. You are always training something. The mistakes decide what.",
+   "section": "THE NUMBER",
+   "sub": "over 7.5: a mistake is slowing the signal - under 5.5: serious uphill speed",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Intent trains power.",
+      "Fatigue trains the opposite."
+     ],
+     "pos": "tr",
+     "title": "GUARD THE DOOR"
+    },
+    {
+     "asset": "ren_leg_swing.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE ROSTER REWRITES WHEN TIRED"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ARRIVE FRESH, LEAVE FAST"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE HILL NEVER FAILS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Recall what the hill examines. Every step uphill demands near-maximal recruitment of the fast motor units, the powerful, quick-tiring fibers that only a full-strength nerve signal can switch on. The size principle runs the roster: small slow units first, fast units only when the signal insists. Fatigue rewrites the roster mid-session, as fast units drop out and the nervous system, sensing the loss, quietly lowers its ambitions to what the remaining units can deliver. That lowering is the exact adaptation power training exists to prevent. A hill session is therefore a negotiation between intent and fatigue, and the coach's whole job is keeping fatigue out of the room while intent does its work. Every mistake ahead is a way fatigue gets invited in: through rests that are too short, reps that are too long, slopes that are too steep, or legs that arrived tired. Guard the door, and the hill does the rest, because the hill itself has never once failed to teach power to anyone who arrived fresh and left before they were slow.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A NARROW RECIPE"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "FRESH + MAXIMAL",
+       90,
+       "cyan"
+      ],
+      [
+       "TIRED + MAXIMAL",
+       30,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME REPS, DIFFERENT LESSON"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "IT LEARNS WHAT IT PRACTICES"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The science of power training has a brutal clarity that conditioning culture keeps ignoring. Neural adaptations, the recruitment speed and synchronization this season keeps grading, respond to a narrow recipe: maximal intent, low fatigue, full recovery, few reps. Studies of sprint and jump training repeatedly find that short, fresh, maximal efforts improve power, while the same efforts done tired improve endurance and can blunt power gains. The nervous system learns what it practices, with no regard for what you intended to practice. There is also a measurement gift hidden in the hill: because the slope caps your speed, your times are comparable across weeks in a way flat sprints, hostage to wind and surface, never are. A falling hill time across a month is nearly pure signal improvement, the cleanest progress readout in this whole series. That is the prize the mistakes are stealing. Not fitness, which you can get anywhere, but a measured, monthly improvement in the fastest system you own.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE IGNITION KEY"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "TO SAVE HALF THE SESSION",
+     "pos": "br",
+     "text": "2 MIN"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PATTERN BEFORE PERFORMANCE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The leg swing earns its minute here as the session's ignition key. Two minutes of swings at rising speed fire the hip pattern at full frequency with almost no fatigue cost, telling the nervous system which orchestra is playing today before the hill asks for the performance. Athletes who swing first find their opening hill reps sharp; athletes who open cold spend three expensive reps arriving at the same sharpness. In a session of six reps, that is half the session taxed by a skipped two-minute drill. The swing is also your daily signal maintenance between hill days: fast, light, frequent pattern work that keeps the wiring warm without spending the tissue. Cheap, quick, and criminally underrated, like most of the drills this channel keeps handing you.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RATIO IS PERISHABLE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "IS THE REAL EDGE",
+     "pos": "br",
+     "text": "QUALITY PRACTICE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DISCIPLINE IS FREE"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "REFUSE THEM ON TUESDAYS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage on the hill was the sermon of the hill test, and the mistakes episode adds its corollary. Power-to-weight decides uphill speed, and your ratio is the hill's favorite. But ratio is perishable: it is highest when you are fresh and it decays with every tired rep, which means the light athlete's edge is specifically an edge in quality practice. You can send more maximal signals per week than the heavy athlete because your recovery between hill days is cheaper, but only if your sessions protect that freshness instead of spending it on conditioning cosplay. The heavy man's hill training is rationed by physics. Yours is rationed only by discipline, and discipline, unlike mass, is free to acquire. This episode is where the channel's lightest athletes separate from its strongest intentions, because knowing the five mistakes is worthless next to refusing them on a tired Tuesday.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "HILL SPRINTS",
+   "music": "drive",
+   "narration": "Now we climb the right way together. Five rounds: one maximal hill sprint, then a long, lazy walk down and full recovery. If any rep feels slower than the first, the session's lesson is over and so are we.",
+   "rest": 50,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "RESTS TOO SHORT"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "REPS TOO LONG"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HILL TOO STEEP"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HILLS ON TIRED LEGS"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "POWER AS A FINISHER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The five mistakes destroying your leg power nerves. Mistake one: rests that are too short. If you are still breathing hard, your fast units are still offline, and the next rep teaches slow recruitment; walk down, wait, and start only when the weapon is reloaded. Mistake two: reps that are too long. Past roughly ten seconds uphill, power becomes endurance and the signal dims; keep hill reps short and violent. Mistake three: a hill that is too steep. If you cannot run tall and drive your knees, you are climbing, not sprinting, and climbing trains climbers. Mistake four: hill day after leg day. Tired legs send tired signals, and tired signals are the lesson your nerves will remember; schedule hills on fresh legs or not at all. Mistake five: turning the session into a finisher. The moment hill sprints become conditioning, they stop being power training, and the adaptation you came for leaves with the freshness. Cross the five off, and the hill goes back to being the finest free power coach on earth.",
+   "section": "THE MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DESIGN BEFORE LEGS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WHAT DISCIPLINE BOUGHT"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Over seven and a half: your session design is taxing your signal, and the five fixes above are worth more than any new exercise; apply them for a month before you judge your legs. Six to seven and a half: the signal is real and the design is leaking; find your worst mistake and fire it first. Under six: certified power nerves, and this list is now your security detail. Under five and a half: protect the asset, because speed like yours is built in seasons and lost in sloppy months. Put your time in the comments, just the number, and retest in thirty days on the same hill with the new rules: fresh legs, full rests, short violence. The hill keeps its books in seconds, and next month we read what discipline bought.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER TIME"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same hill, same lines, fresh legs and full rests. Bring me a faster time and we will find steeper questions. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "hill sprints",
+  "hill sprint mistakes",
+  "leg power nerves",
+  "power training",
+  "sprint mistakes",
+  "uphill sprinting",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "5 MISTAKES",
+  "hook": "HILL SPRINTS"
+ },
+ "title": "5 hill sprints Mistakes That Are Destroying Your leg power nerves",
+ "v5": true
+}

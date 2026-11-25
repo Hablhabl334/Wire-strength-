@@ -1,0 +1,410 @@
+{
+ "badge": "EP 568 - NERVE SPEED OVER MUSCLE",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NERVES",
+  "YOUR VERDICT"
+ ],
+ "description": "The first ten meters of a sprint are over before muscle size gets a say. What decides them is how fast your nerves can deliver everything you have. Time your ten meters, and learn why firing speed is the real currency of the start.",
+ "hashtags": [
+  "nerve firing speed",
+  "sprint start",
+  "acceleration",
+  "motor units",
+  "first steps"
+ ],
+ "id": "568",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO-POINT STANCE, LEAN IN"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEST OF THREE, FULLY RESTED"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "YOUR TIME"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "DELIVERY, NOT SIZE"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR TIME SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Ten meters, two markers, flat ground. Two-point stance, one foot forward, weight leaning in. On your own go, explode through the far marker and time it. Three attempts, full recovery between them, best honest time counts. That time is your number today. Now, here is the claim this episode will defend: in those two seconds, your muscle size was nearly irrelevant. The start is too fast for size to speak. What speaks is delivery: how many motor units your nerves can recruit, how fast they can fire, and how precisely the bursts are sequenced across hip, thigh and shin. A smaller athlete with elite delivery beats a larger athlete with ordinary delivery over ten meters, not as an upset, but as a law of the event's physics and physiology combined. Your time today measured your delivery system. Keep it safe. At the end, I will tell you how it graded.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STUCK IN TRANSIT"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "ELITE DELIVERY",
+     "pos": "br",
+     "text": "1.9 SEC"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WHAT YOU CAN DELIVER COUNTS"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A NERVE PROPERTY"
+    }
+   ],
+   "big": "2.0 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN HAVING IT AND DELIVERING IT",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for a standing ten meters. Around two seconds is where strength stops being stuck in transit. Over two point two, the common finding is not a weak athlete; it is an athlete whose force arrives late, spread politely across the first steps instead of detonating inside them. Under one point nine, delivery is elite: recruitment nearly instant, firing rates high, sequence clean, and the athlete's full strength, whatever its size, shows up inside the two seconds where it counts. This is the deep reason the start humbles bodybuilders and crowns wiry sprinters. The event does not ask what you own. It asks what you can deliver before the clock runs out, and delivery is a nerve property with a training plan attached. Your number today is a delivery grade, nothing more and nothing less.",
+   "section": "THE NUMBER",
+   "sub": "over 2.2 sec: strength is stuck in transit - under 1.9: elite delivery",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "All motor units, firing fast,",
+      "inside two hundred milliseconds."
+     ],
+     "pos": "tr",
+     "title": "RECRUIT EVERYTHING, INSTANTLY"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE EARLY PHASE IS NEURAL"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SIZE CANNOT BUY IT"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MOST HONEST TEST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at delivery under the microscope. A muscle is made of motor units, bundles of fibers each commanded by one nerve. At low effort, only the small, slow units are recruited. For a sprint start, the nervous system must do something extraordinary: recruit nearly all units, including the largest and fastest, almost simultaneously, and drive them at firing rates several times their resting tempo, then switch them off and on in alternation as the steps begin. Scientists call the result rate of force development, and its early phase, the first two hundred milliseconds, is almost purely neural. No new muscle can be built inside two hundred milliseconds. Only delivery can happen there. This is why the start is the most honest athletic test there is: it strips away everything trainable by size and grades only the system that size cannot buy.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORCE PER MILLISECOND"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "DELIVERY SPEED",
+       95,
+       "cyan"
+      ],
+      [
+       "GYM STRENGTH ALONE",
+       35,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "TEN METERS: WHAT WINS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAINABLE IN WEEKS"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The comparative evidence is the fun part. When researchers test strength athletes and sprinters over ten meters, the strongest athletes in the room routinely lose to lighter sprinters whose gym numbers are unremarkable, because the event pays for force per millisecond, not force per se. EMG studies show the winners recruiting their hip and thigh musculature earlier and harder in the first steps, with less wasted co-contraction, force aimed instead of leaked. And the training literature delivers the verdict's hopeful half: delivery is highly trainable, with maximal-intent short efforts improving recruitment speed and early force within weeks, long before hypertrophy could explain anything. The start is a skill of the nervous system wearing a strength costume. Train the system, and the costume starts fitting everyone in the room differently, starting with the light ones.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE LEAN IS AIMING"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "HEAD TO HEEL",
+     "pos": "br",
+     "text": "ONE LINE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DELIVERY TIMES AIM"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRAINABLE BY FRIDAY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Delivery has a technique address as well as a neural one: the lean. At the start, your body should leave at an angle, one straight line from head to heel, pitched forward like a falling plank. The angle is not style. It is aiming. Force can only push you along the line your body presents to the ground, and an upright starter spends his precious first bursts lifting himself into posture instead of traveling. This is why the falling start works so well as a teaching tool: lean until you topple, catch the fall, and the first steps inherit the correct aim for free, letting the nerves spend their budget on speed instead of geometry. Delivery times aim equals departure. The start grades both, and both are trainable by Friday. The lean has a second benefit that rarely gets mentioned: it simplifies the nerves' homework. From a pitched, falling position, the correct muscle sequence is almost forced by geometry, because any other sequence fails immediately and obviously. Good positions are a form of coaching the nervous system receives for free, fifty times a session. This is why technique and wiring are not separate subjects at the start. The position is how the wiring learns.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORCE DIVIDED BY MASS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "BEAT BIG FRAMES HERE",
+     "pos": "br",
+     "text": "DECENT NERVES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RIGGED IN YOUR FAVOR"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLAIM THE WIRING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the delivery economy is the equation from the season premiere, in its purest event. Acceleration is force divided by mass, and delivery decides how much force exists inside the window. A light athlete needs less delivered force to achieve the same acceleration, so an ordinary delivery on your frame outperforms a good delivery on a heavy frame. Read that again, because it inverts the usual story: at the start, you do not need elite nerves to beat bigger athletes. You need decent nerves, honestly trained, and your mass does the rest. The heavy athlete must build an exceptional delivery system merely to draw level with your adequate one. The first ten meters are not a contest you enter as an underdog. They are a contest the physics rigged in your favor, waiting for your wiring to claim it.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "SPRINT STARTS",
+   "music": "drive",
+   "narration": "Now we upgrade the delivery together. Six falling starts, ten seconds each, long rests, maximum intent. Lean, topple, catch, detonate. Fresh nerves only, always.",
+   "rest": 50,
+   "rounds": 6,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STARTS GO FIRST"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LEAN, TOPPLE, CATCH"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TEN METERS, MAXIMUM INTENT"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LEAVE WHILE THEY ARE FAST"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TWICE A WEEK IS PLENTY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for a delivery-first start. Step one: start every session with starts, before strength, before conditioning, because delivery is a fresh-tissue quality and tired reps teach the system to arrive late with perfect attendance. Step two: use the falling start to fix the aim, lean from the ankles until you topple, and let the catch become the first step. Step three: keep efforts to ten meters and intent to maximum, resting a full minute or more, because the quality lives in the first two seconds and the first two seconds demand a full battery. Step four: cap the session at six to eight crisp starts and leave while they are still fast; the nervous system remembers the last lesson loudest. Step five: twice a week is plenty, with hills or flat speed on other days to give the delivery new rooms to perform in. A month of this and your ten meters stop grading your size and start grading your system.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STUCK IN TRANSIT IS HOPEFUL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PAID IN TENTHS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time, read as a delivery grade. Over two point two seconds: your strength is stuck in transit, which is the most hopeful diagnosis in sprinting, because transit upgrades in weeks. Between two point two and two seconds: delivery is forming, and your gains live in aim and freshness, the falling start and the full minute's rest. Under two seconds: your nerves deliver like an athlete's, and the mirror's opinion of your frame is officially irrelevant to your first ten meters. Put your time in the comments, just the number, best of three, honest stance. Retest in thirty days, same ten meters, same surface. Delivery keeps its books in tenths, and it pays its students promptly.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER TIME"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ten meters, lean and topple, bring me a faster time. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "nerve firing speed",
+  "sprint start",
+  "motor units",
+  "rate of force development",
+  "acceleration",
+  "10 meter sprint",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "10M TIME",
+  "hook": "DELIVERY IS KING"
+ },
+ "title": "Why Your nerve firing speed Matter More Than Muscle (The sprint start Episode)",
+ "v5": true
+}

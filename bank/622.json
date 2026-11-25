@@ -1,0 +1,393 @@
+{
+ "badge": "EP 622 - JUMP PROOF",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "WHAT IT PROVES",
+  "YOUR VERDICT"
+ ],
+ "description": "Retest day turns the wall marks into evidence. Jump under the original rules, then read the new mark like a result: what it proves about your Achilles stiffness, what it cannot prove, and the checks that would expose the claim if it were false.",
+ "hashtags": [
+  "vertical jump",
+  "retest day",
+  "achilles tendon",
+  "the proof",
+  "spring training",
+  "calisthenics"
+ ],
+ "id": "622",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WALL IS A LABORATORY"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "IS THE CONTROL",
+     "pos": "br",
+     "text": "THE OLD MARK"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CONDITIONS NOTED"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "THE CLAIM GETS CROSS-EXAMINED",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RULERS DO NOT CHANGE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Retest day, and today the wall is a laboratory. The marks from your first jump test are still up there: a standing reach and, above it, the best effort of an untrained spring. The verdict episode already read the season's total. Today asks a colder question: what does the new mark actually prove about your Achilles stiffness, and what would it take for that claim to be wrong? So the measurement gets laboratory manners. Same wall, same shoes, same flat-footed reach first, because the ruler is part of the experiment and rulers do not change mid-study. Three jumps, best mark counts, full effort, no step-in, and the conditions noted: time of day, freshness of the legs, surface under the shoes. Your old mark is the control. Today's mark is the result. The gap between them is the claim, and this episode will cross-examine it the way the hang and grip episodes taught you: rivals interviewed, limits printed, predictions checked. Chalk your fingers. The evidence starts with the reach.",
+   "section": "THE RETEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "IDENTICAL RULER, FRESH LEGS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "BEYOND THE NOISE",
+     "pos": "br",
+     "text": "+5 CM"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "PROOF IS A DISCIPLINE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "THE GAP",
+   "card": "bignum",
+   "check": 1,
+   "label": "EVIDENCE, NOT ENCOURAGEMENT",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The standard of proof for a jump is stricter than for a hang, and this episode will tell you why: jump height is a noisy measurement. A centimeter lives inside the reach's posture, another inside the day's freshness, another inside how honestly the first mark was made. So the conditions are these. Identical ruler: same wall, same reach protocol, same shoes. Fresh legs: a verdict jump on tired calves measures the week, not the season. And a gap beyond the noise: under two centimeters, the marks are arguing about weather, but five centimeters and beyond is a signal no combination of good sleep and chalk can manufacture. If your gap clears the standard, the strong sentence is earned: your Achilles returns measurably more energy than it did, in the direction the loading predicted. If it does not clear, the verdict will say unproven, name the failed condition, and tell you how the next reading is staged so its evidence holds. Proof is a discipline before it is a celebration, on the wall most of all.",
+   "section": "OLD VS NEW",
+   "sub": "under +2 cm: inside the noise - +5 and beyond: the spring signed it",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Deposits the descent, returns it on time.",
+      "Late refunds arrive as heat."
+     ],
+     "pos": "tr",
+     "title": "THE DIP'S BANKER"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TECHNIQUE IS WORTH 2 CM, BUDGETED"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE SPRING'S SIGNATURE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "What a clean gap proves, link by link. A jump's height is decided in the dip and the drive, and the Achilles is the dip's banker: it takes the energy of your descent on deposit and returns it, with the spring's own losses deducted, in the few hundred milliseconds the drive allows. Now audit the rivals. Stronger legs? They contribute, but pressing strength alone buys height slowly and shows in your squat numbers first; a wall gap that outruns them needs another explanation. Technique? A standing jump has some, arm swing and dip timing, and it is worth a centimeter or two, which is exactly why the noise budget exists and why the standard demands five. What survives the audit is the spring: a tendon that stores more of the dip and returns it inside the window, instead of absorbing the energy and refunding it late as heat. Stiffer, in the precise sense this channel uses the word: less stretch wasted per unit of force, more of the deposit returned on time. The gap, cleared of its rivals, is the spring's signature on the wall.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHAT IT CANNOT PROVE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "THE HYPE VERSION",
+       100,
+       "red"
+      ],
+      [
+       "WHAT'S PROVEN",
+       70,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE CLAIM VS THE PROOF"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SUFFICIENT, NOT OPTIMAL"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "NARROW AND TRUE",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The limits, printed as plainly as the claim. Your mark cannot prove your Achilles stiffened by any specific percentage, because a jump measures the whole chain's output, muscle, nerve, tendon and timing blended, and no wall isolates one tissue's material properties. It cannot prove the spring is healthier in every respect, only that it returns more energy under this load, a claim that usually accompanies healthy adaptation without being identical to it. And it cannot prove your training was optimal, only sufficient: the same centimeters might have been available faster, and the wall is silent about roads not taken. Why print the limits on the celebration? Because oversold claims collapse at the first bad reading and take the habit with them, while a claim stated at its true size survives bad days untouched. Your gap proves your Achilles system returns more energy than it did ninety days ago, under identical rules, beyond the reach of noise. That sentence is narrower than the hype version, and it will still be true on the morning your legs feel like furniture. Narrow and true beats broad and fragile, on walls and everywhere else.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ATTACK THE CLAIM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TRANSFER, SURVIVAL, CLUSTER",
+     "pos": "br",
+     "text": "3 PREDICTIONS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "IT WILL SIMPLY BOUNCE",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CHECK THE CLUSTER FIRST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The deep dive attacks the claim, as always. If your Achilles system truly adapted, three predictions must hold. First, transfer: your sprint's first steps should feel cheaper and your landings quieter, because the same spring serves every step you take, and a spring that only performs at one wall on one morning is a rumor, not an adaptation. Second, survival: the gain should persist across an easy week, because structural change does not evaporate in seven days the way freshness does; a mark that collapses after rest was measuring freshness wearing a costume. Third, consistency: your three jumps today should cluster, because a trained spring repeats its return, while a lucky mark stands alone with two embarrassed siblings beneath it. Check the cluster first, it is already on the wall. Then run the other two checks inside the month and log what they say, flattering or not. A finding is a claim that has been attacked and remains standing. Try to knock yours down. The spring, if the gap is real, will simply bounce.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A DENSE SERIES OF JUMPS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "WITH CHALK ON THEIR FINGERS",
+     "pos": "br",
+     "text": "FINDINGS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "HARD TO ARGUE WITH",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TWO MARKS, SAME RULER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage, in evidence language. Jump training for a light man is repeatable science: the load is your own mass, the smallest full load the wall ever judges, so sessions are cheap, recovery is quick, and the season produced a dense series of honest jumps under nearly identical conditions. Dense series are how real conclusions get drawn; sparse heroics are how anecdotes get born. The heavier jumper's data is a few maximal efforts scattered across long recoveries, noisy by construction. Yours is a dataset with chalk on its fingers. And because the wall test is so simple, the dataset resists explanation by anyone: not by rivals blaming your technique, not by the mirror's old story about your build. Two marks, a season apart, same ruler, with the conditions written beside them. Some men have opinions about their spring. You have findings, and findings compound the way tendons do: slowly, structurally, and very hard to argue with once they are on the wall.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "FRESH JUMPS",
+   "music": "drive",
+   "narration": "Now we gather next season's evidence together. Four rounds: thirty seconds of crisp jumps, thirty seconds of rest, conditions noted like a scientist. Every jump full intent, every landing quiet. Clean data starts fresh. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "THE WALL IS AN INSTRUMENT NOW",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SCHEDULE THE CHECKS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "FLATTERING OR NOT, RECORD IT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE DOORWAY LEAP IN THE LOG",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol after an evidence day protects the tissue and the truth together. Rule one: keep the ruler sacred. The wall, the reach protocol and the shoes are now a calibrated instrument; if any of them changes, the log gets a note and the comparison chain restarts honestly. Rule two: keep the spring loaded, two sessions a week of jumps and heavy calf work, because the adaptation you proved today is maintained by the stimulus that built it and by nothing else. Rule three: schedule the falsification checks now: a sprint-feel note, a rest-week mark, a cluster reading, inside the month, recorded whether they flatter the claim or not. And bury the corruptor of wall evidence: the casual jump, the running-start leap at a doorway entered into the log beside real marks as if it belonged to the same species. It does not. Evidence lives under laboratory manners. Anecdotes live at parties. Keep them in their separate homes and your wall stays trustworthy for years.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MARKS WITH THEIR CONDITIONS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT EVIDENCE",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR HEIGHT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "QUESTIONS IT CANNOT FAKE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the jump evidence, and its verdict. If your gap cleared the standard, identical ruler, fresh legs, five centimeters beyond the noise, the claim stands at the level a wall can prove anything: your Achilles system returns measurably more energy than it did, in the predicted direction, with the rival explanations interviewed and released. If the gap fell short, the verdict is an unproven claim, not a failed spring: it instructs you to restage the reading under stricter conditions or after a fuller block, and it instructs you today, before a season gets built on a centimeter of weather. Write both marks down with the conditions, wall, shoes, hour, freshness, because a mark without its conditions is half a measurement. Put today's height in the comments, just the centimeters. We gather evidence again in thirty days, same wall, same ruler, and the spring will testify again. It has been bouncing honestly all season. Keep asking it questions it cannot fake.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVIDENCE IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "SPRINGY AND LOGGED",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wall, same ruler, same fresh legs. Bring me evidence, not encouragement. Subscribe so the next reading finds you springy and logged. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "jump proof",
+  "vertical jump test",
+  "achilles stiffness",
+  "retest day",
+  "evidence",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "THE PROOF",
+  "hook": "SPRING EVIDENCE"
+ },
+ "title": "Retest Day: What Your New jump retest Number Proves About Your Achilles stiffness",
+ "v5": true
+}

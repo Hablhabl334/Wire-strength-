@@ -1,0 +1,397 @@
+{
+ "badge": "EP 539 - PLANCHE LEAN TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "Lean forward from a push-up until your shoulders pass your hands, and hold. Your planche lean hold grades the straight-arm strength that every planche is built from, and it reveals hidden capacity your push-ups never showed. Take the lean test and read your number.",
+ "hashtags": [
+  "planche lean",
+  "hidden strength",
+  "calisthenics",
+  "planche",
+  "straight arm"
+ ],
+ "id": "539",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINGERS TURNED SLIGHTLY OUT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "ROTATE FROM THE ANKLES",
+     "pos": "br",
+     "text": "LEAN TO YOUR MAX"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ELBOWS STAY LOCKED"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRAIGHT ARMS TELL TRUTH"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Push-up position, facing me. | Hands under shoulders. | Fingers turned slightly out. | Arms locked straight. | Body one rigid line. | Now lean forward slowly. | Rotate from the ankles. | Shoulders pass your hands. | Lean to your max. | The furthest lean | you can truly hold. | Start your clock there. | Hold it honestly. | Elbows stay locked. | Hips stay in line. | The clock stops when | an elbow bends, | your hips sag, | or you tiptoe forward. | That clean hold time | is your number. | Keep it somewhere safe. | At the end I | tell you what it means. | Walk back slowly. | Shake out the wrists. | One honest lean. | Straight arms tell | the truth here.",
+   "poses": [
+    "ren_pushup_front_top.webp",
+    "ren_pushup_front.webp",
+    "ren_pushup_front_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "10 CLEAN SEC = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TUCK PLANCHE TERRITORY",
+     "pos": "br",
+     "text": "20+ SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A TEAM NOBODY TESTS"
+    }
+   ],
+   "big": "10 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "AT MAX LEAN IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten clean seconds at your maximum lean, elbows locked, hips level, shoulders clearly past your hands, is trained straight-arm strength. Under four seconds, the chain is simply new to this position, and new positions under-report everyone. Over twenty seconds, you are holding angles that belong to tuck planche training, whether or not you have ever attempted one. Here is what your number reveals that push-ups never could. A push-up lets bent arms, chest and triceps do familiar work. The lean forbids the bend, so the load moves into the straight-arm chain: the front deltoid, the serratus, the biceps tendon and the wrist, a team that ordinary training never assembles. Your lean time is the first honest measurement of that team. Hidden strength is not a metaphor on this channel. It is a list of teams nobody tests, and this is one of the strongest.",
+   "section": "THE NUMBER",
+   "sub": "under 4: the chain is new - over 20: tuck planche territory",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Same team, toes helping.",
+      "Remove the subsidy slowly."
+     ],
+     "pos": "tr",
+     "title": "THE PLANCHE, SUBSIDIZED"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THREE SYSTEMS, ONE ANGLE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE BEAM MUST STAY RIGID"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BLADES GIVE THE PLATFORM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The lean is a lever you slide along. At zero lean, your weight stacks over your hands and life is cheap. Every inch forward moves your center of mass beyond your base, and your body becomes a beam held up at one end by straight arms. The shoulder end of the beam is held by the front deltoid and the long head of the biceps working isometrically, while the serratus pushes your shoulder blades around your ribs to give the arm a platform. The wrist end is held by tendons keeping a loaded, bent wrist from folding. And the beam itself, your trunk, must stay rigid, or the lever collapses at the hips and the price drops to plank prices. Three systems, one angle. This is why the lean predicts the planche so well: it is the planche, with your toes still paying part of the bill. Remove the toes' subsidy degree by degree and the same team eventually holds the whole show.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TENDON STRENGTH IS DURABLE"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "STRONG PROTRACTION",
+       18,
+       "cyan"
+      ],
+      [
+       "WEAK PROTRACTION",
+       7,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME LEAN, DIFFERENT HOLDS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A PERMANENT UPGRADE"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The science of straight-arm strength is the science of connective tissue patience. When researchers compare straight-arm and bent-arm training, the straight-arm versions load tendons and joint structures far more than muscles, and those structures adapt on a calendar measured in months. This is not a flaw in the training; it is the entire point. Muscle strength plateaus and fades with a missed month. Tendon strength, once built, is stubborn and durable, the closest thing fitness has to a permanent upgrade. The lean also exposes a measurable truth about protraction, the shoulder blades wrapping forward. Athletes with strong protraction hold notably longer leans at the same bodyweight, because the serratus platform keeps the shoulder joint stacked where the deltoid can work. If your lean feels like your shoulders are rolling forward and collapsing, that is not weakness of character. It is an untrained serratus, and it has a drill, coming in the protocol. A final measurement note, because this test rewards precision. Film your holds from the side at hip height, and check two things the clock cannot see: whether your shoulder blades are pushed apart in protraction, and whether your lower ribs are flaring up. Rib flare is the trunk quietly resigning from the beam while the shoulders keep paying for it. Fix the flare with a long exhale before each lean, and most men find a second or two they did not know they were spending.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SAG REFUNDS THE PRICE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THE CHEAPEST COACH",
+     "pos": "br",
+     "text": "FILM IT"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "GRADE THE LINE HONESTLY"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Look at the weak push-up shape, because it is the lean's cautionary tale. Hips sagging, elbows soft, head dropped: this is what a body does when the straight-arm team resigns and the old bent-arm habits take the wheel. In the lean, the same resignation appears as a slow hip sag that quietly returns your mass over your hands, refunding the price while the clock keeps running. That is why our test stops at the sag. A sagging lean is a plank with good PR. Film one of your holds from the side this week and grade the line honestly. The camera is the cheapest coach in this entire season, and it has never once been polite about hips.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR SHARES ARE CHEAP"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "RECOVERY IS YOUR EDGE",
+     "pos": "br",
+     "text": "SOONER AGAIN"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EARLY AND UNDERPRICED"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A CURRENCY THAT HOLDS VALUE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage in the lean is the auction rule from the last planche episode, and it bears repeating because it is the season in one sentence: the price of the angle is a share of your bodyweight, and your shares are cheap. At the same lean, your straight-arm team holds less absolute load, recovers faster, and can practice again sooner. Over a season, that frequency advantage compounds into centimeters and seconds that heavier athletes cannot match without paying a recovery tax you never see. The planche community knows this in its bones, which is why its heroes are built like wire. You are not behind in this sport because you are light. You are early, underpriced, and holding a currency, straight-arm tendon strength, that never devalues once earned.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "check": 3,
+   "exercise": "PLANCHE LEAN HOLDS",
+   "music": "drive",
+   "narration": "Now we lean together. Four rounds: lean to your honest max, lock the elbows, hold fifteen seconds, then walk back and shake the wrists. The moment an elbow bends, that round is done.",
+   "rest": 45,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 15
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "3 SESSIONS, SPACED"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "THE SET ENDS AT THE BEND"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FEET STAY PLANTED"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "GROWTH LIVES BETWEEN SESSIONS"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TISSUE'S QUIET SCHEDULE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Three lean sessions, spaced, each warmed by tabletop rocks so the wrists meet the load gradually. Main work: four max-lean holds like our block, plus scapular push-ups for the serratus platform: from a plank, let your chest sink between your blades, then push the floor away until your upper back rounds, ten slow reps. Mistake one: bending the elbows to survive the clock. Survival is not the metric; the set ends at the bend. Mistake two: leaning further by walking the feet in. The feet stay planted; the angle comes from the ankles' rotation or it does not count. Mistake three: daily max leans. Tendon territory again: the chain grows between sessions, and the men who space their leans are the men whose angles grow. Measure monthly, train weekly, and let the tissue keep its own quiet schedule.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNASSEMBLED, NOT INCAPABLE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WHAT PUSH-UPS CONCEAL"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under four seconds: the straight-arm team is unassembled, and assembling it is the fastest early win in planche training. Four to ten: the team is forming, protraction is learning, and your seconds will climb with three honest sessions a week. Over ten clean seconds at a real lean: certified, your hidden strength is not hidden anymore, it is measured. Over twenty: price the tuck planche; your tissue has been saving for it. Put your seconds in the comments, just the number, and retest in thirty days from the same hand position, filmed from the same side. The lean reveals what push-ups conceal, and in thirty days it will reveal more.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A LONGER NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same hands, locked elbows, lean and hold. Bring me a longer number and we will talk tuck planche pricing. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "planche lean",
+  "planche lean test",
+  "straight arm strength",
+  "hidden strength",
+  "planche progression",
+  "wrist strength",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_pushup_front_top.webp",
+  "big": "10 SEC",
+  "hook": "PLANCHE LEAN"
+ },
+ "title": "Your Planche Lean Angle Reveals Your Hidden Strength",
+ "v5": true
+}

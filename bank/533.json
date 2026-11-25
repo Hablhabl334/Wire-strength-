@@ -1,0 +1,402 @@
+{
+ "badge": "EP 533 - PISTOL DEPTH TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "One leg, all the way down, and back up without your hands. Your pistol squat depth grades ankle and knee leverage together, and the level you reach reveals more about your legs than any two-legged squat. Take the depth test, find your level, and build toward the full pistol.",
+ "hashtags": [
+  "pistol squat",
+  "single leg",
+  "calisthenics",
+  "ankle mobility",
+  "leg strength"
+ ],
+ "id": "533",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG DOES EVERYTHING"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "QUARTER TO FULL BOTTOM",
+     "pos": "br",
+     "text": "5 LEVELS"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HEEL STAYS DOWN"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WEAKER LEG = TRUE NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WALL FOR SAFETY ONLY"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Stand on one leg. | Other leg out front. | Arms reaching forward too. | Now sit down slowly. | One leg does everything. | Go as deep | as you control. | Level one: quarter depth. | Level two: half depth. | Level three: thigh parallel. | Level four: below parallel. | Level five: full bottom, | hamstring on calf. | Your level is | the deepest depth | you reach without | falling, grabbing anything, | or your heel lifting. | Test both legs. | The weaker leg | is your true number. | Keep it somewhere safe. | At the end I | tell you what it means. | Use a wall nearby | for safety only. | One honest attempt | per leg today.",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEVEL 5 = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "1 HONEST NUMBER",
+     "pos": "br",
+     "text": "4 SYSTEMS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE LEG HIDES NOTHING"
+    }
+   ],
+   "big": "LEVEL 5",
+   "card": "bignum",
+   "check": 1,
+   "label": "FULL BOTTOM IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Level five, a full pistol squat bottom on one leg, heel down, no hands, no fall, is complete single-leg leverage. Levels one and two are not a strength verdict; at those depths the limiter is almost always a joint, the ankle that will not bend or the knee that will not travel, and joints respond to training beautifully. Level three, thigh parallel, is where real single-leg strength starts being the question. Notice the honesty of this test. Two legs can hide anything: a strong side carrying a weak one, hips shifting, heels creeping up. One leg hides nothing. Your depth level is a combined grade for ankle bend, knee travel, hip control and single-leg force, four systems in one number, and the weakest of the four sets the grade. That is not cruelty. That is a diagnostic, and diagnostics are how smart training starts.",
+   "section": "THE NUMBER",
+   "sub": "level 1-2: a joint is limiting you - level 5: the full pistol",
+   "type": "card"
+  },
+  {
+   "asset": "ankle_ligament_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Ankle decides arrival.",
+      "Knee decides the stay."
+     ],
+     "pos": "tr",
+     "title": "ARRIVE, THEN AFFORD"
+    },
+    {
+     "asset": "ren_squat_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KNEE TRAVELS OVER TOES"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MOST BLOCKS ARE ANKLES"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FOUR SYSTEMS, ONE GRADE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The pistol is two levers negotiating. The first is the ankle. To reach the bottom, your knee must travel far forward over your toes, and that travel is bought with ankle bend, dorsiflexion, the shin tipping toward the foot. Run out of ankle and the body offers you three bad trades: the heel lifts, the back rounds, or you fall backward. The second lever is the knee itself, which at full depth holds your entire bodyweight at its most bent, most expensive angle, with the quad and its tendon paying a price per kilo that two-legged squats never charge. This is ankle and knee leverage as one system: the ankle decides whether you may arrive, the knee decides whether you can afford to stay. Most depth problems are arrival problems, which is why this episode spends so much time at the ankle. Fix the arrival, and the knee's strength, which was probably fine, finally gets to show itself.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG, FULL BUDGET"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "ANKLE BEND",
+       45,
+       "red"
+      ],
+      [
+       "KNEE CONTROL",
+       30,
+       "gold"
+      ],
+      [
+       "RAW STRENGTH",
+       25,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT LIMITS YOUR LEVEL"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE JOINT IS THE GATE"
+    },
+    {
+     "asset": "ren_toe_raise.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The science of single-leg training keeps embarrassing two-legged assumptions. Studies of unilateral work show each leg, trained alone, gets stronger than it does sharing the load, partly because the nervous system can finally spend its full budget on one side, and partly because imbalances stop hiding. The pistol also grades something gyms rarely measure: frontal-plane control, the knee's ability to track over the toes instead of caving inward. A caving knee at depth is not a character flaw; it is the hip's external rotators and the ankle splitting a bill neither can pay alone. Depth training fixes the chain in the order it fails. And the ankle number worth knowing: full pistol depth typically asks for the knee to travel roughly a hand's width past the toes with the heel grounded. If yours stops at half that, no amount of quad strength will buy the bottom. The joint is the gate, and gates open with daily, gentle, loaded bending, not with force.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_toe_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE ANKLE KEY"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "MOST DAYS, BOTH DRILLS",
+     "pos": "br",
+     "text": "5 MIN"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MOST TRAINABLE, MOST NEGLECTED"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The toe raise looks like a calf exercise and is secretly the pistol's ankle key. Stand facing a wall, lift the front of your foot toward your shin, and hold. You are training the tibialis, the muscle that pulls the shin forward, the active half of ankle bend. Pair it with knee-to-wall rocks, where you lunge your knee toward a wall over a grounded heel, and you have the two-sided ankle program: the joint learns to bend, and the muscle learns to pull it there. Five minutes, most days. Ankles are the most trainable joints you own and the most neglected, and the pistol is where their neglect sends the bill.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS WEIGHT, SAME POSITION"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "LESS JOINT STRESS",
+     "pos": "br",
+     "text": "MORE PRACTICE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CORRECTLY SIZED LEGS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CONSISTENCY IS YOUR BUDGET"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Here is your advantage, and in the pistol it is pure physics. A pistol squat charges your knee the full price of your bodyweight at maximum bend. A lighter body pays less for the identical position, which means your joints can afford more depth practice, more often, while you build the strength at the bottom. The heavy athlete's pistol training is rationed by joint stress; yours is rationed only by your consistency. There is a subtler gift too: lighter legs are easier to hold out front as a counterweight, and the counterweight is half the balance of the skill. The pistol is a gymnast's and a climber's exercise, built for bodies that carry their strength without carrying much else. The mirror calls your legs skinny. This test calls them correctly sized for the job, and the job is one of the hardest in bodyweight training.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_bottom.webp",
+   "check": 3,
+   "exercise": "PISTOL NEGATIVES",
+   "music": "drive",
+   "narration": "Now we descend together. Three rounds: on one leg, lower as slowly as you can to your current level, then stand up however you need. Switch legs each round, and keep the heel glued down.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ANKLE WORK OPENS EVERY SESSION"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "NO BOUNCING OUT"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEAKER LEG GETS MORE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EACH LEVEL IS A PROMOTION"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "OWN THE BOTTOM SLOWLY"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Three leg sessions, each opening with the ankle pair, toe raises and knee-to-wall rocks, because depth practice on a closed gate is just falling practice. Then pistol negatives to your current level, exactly like our block, plus split squats for raw single-leg strength. Mistake one: bouncing out of the bottom. The bottom is where the leverage is weakest and the learning is richest; own it slowly or do not visit it. Mistake two: letting the heel lift to fake depth. A lifted heel is a different, cheaper exercise wearing the pistol's clothes; put a small book under the heel only as a declared tool, and shrink it weekly. Mistake three: training only the good leg. The test grades the weaker side, so the weaker side gets the first set, the extra set, and the honest count. Levels climb one at a time, and each one is a genuine promotion. Collect them.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GATES ARE FIXABLE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR WEAKER LEVEL"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DEPTH ONLY RECORDS"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your level. Level one or two: a joint is gating you, most likely the ankle, and gates are the most fixable things in training; your month is already planned. Level three: the gate is open and strength is now the question, the best question to have. Level four: you are one honest bottom away from a skill most gym members will never own. Level five: certified, your ankle and knee leverage is complete, and the pistol is now a strength tool you can load with reps and pauses. Put your weaker leg's level in the comments, just the number, and retest in thirty days with the same rules: heel down, no hands, no fall. Depth does not negotiate. It just records, and next month we read the record again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A HIGHER LEVEL"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, one leg, heel down, as deep as you honestly own. Bring me a higher level and we will talk about loading the pistol. Subscribe, and keep your level safe. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "pistol squat",
+  "pistol depth test",
+  "ankle leverage",
+  "knee leverage",
+  "single leg strength",
+  "calisthenics legs",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_squat_bottom.webp",
+  "big": "LEVEL 5",
+  "hook": "PISTOL SQUAT"
+ },
+ "title": "Your Pistol Depth Test Reveals Your Hidden Strength",
+ "v5": true
+}

@@ -1,0 +1,392 @@
+{
+ "badge": "EP 749 - HORMONES OVER MUSCLE",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "WHY HORMONES RULE",
+  "YOUR VERDICT"
+ ],
+ "description": "Muscle is downstream of appetite, and appetite is run by hormones that keep a schedule. This episode times your natural hunger wave, explains why ghrelin's timetable decides your intake before willpower wakes up, and gives the entrainment protocol that puts hunger on staff.",
+ "hashtags": [
+  "hunger hormones",
+  "ghrelin",
+  "appetite training",
+  "hunger wave",
+  "meal timing"
+ ],
+ "id": "749",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WAIT FOR THE WAVE"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TIME THE PEAK AND THE FADE"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR WAVE LENGTH"
+    },
+    {
+     "at": 25,
+     "kind": "fact",
+     "lines": [
+      "Hunger arrives in waves with edges you can time."
+     ],
+     "pos": "br",
+     "title": "A TIDE, NOT A STATE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test requires hunger and a clock, so run it before a meal you have genuinely waited for. When you feel the first clear wave of hunger arrive, the stomach awareness, the food thoughts, the slight edge, start a timer instead of eating. Now simply wait, busy yourself, and watch the wave. Note the minute it peaks, and the minute it fades into the background hum. Then eat, properly, and stop the experiment. The length of that wave, from arrival to fade, is your number. Most people are startled to learn how short it is, and how predictably it behaves. Keep your wave's length. At the end I will explain why this little hormonal tide, arriving and leaving on a schedule your habits wrote, matters more to your muscle than anything happening in the gym.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A TIDE WITH EDGES"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "ARRIVAL TO FADE",
+     "pos": "br",
+     "text": "20 MIN"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MEET IT WITH FOOD"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MISSED WAVES GO QUIET"
+    }
+   ],
+   "big": "20 MIN",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE NATURAL LENGTH OF A HUNGER WAVE, PEAK TO FADE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. About twenty minutes is the natural life of a hunger wave, from arrival through its peak to its fade. This single fact reorganizes appetite training. Hunger is not a rising flood that ends in emergency; it is a tide that comes in, speaks its piece, and goes back out, whether or not you ate. Miss the wave and the hormone concludes the signal was unneeded, quiets down, and, here is the tragedy for skinny guys, returns later weaker and less punctual. Meet the wave with food and the opposite learning happens: the signal worked, so the system keeps it strong and schedules the next one. Your wave's length also tells you the size of your eating window of opportunity. Twenty minutes of genuine readiness is when the day's biggest comfortable meal is possible. Appetite training is, at bottom, wave scheduling.",
+   "section": "THE NUMBER",
+   "sub": "the wave always passes - the skill is meeting it with food, not missing it",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "Wanting is hormonal.",
+      "Muscle receives what hormones negotiate."
+     ],
+     "pos": "tr",
+     "title": "THE NEGOTIATION TABLE"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 18,
+     "kind": "swap"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ENTRAINABLE, NOT FIXED"
+    },
+    {
+     "at": 36,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RETRAIN THE TIMETABLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is why hormones outrank muscle in this chain. Every calorie you will ever build from must first be wanted, then eaten, then absorbed, and the wanting is hormonal. Ghrelin rises from the stomach and speaks to the brain's appetite circuits; leptin and a chorus of gut signals answer from the other side. Crucially, ghrelin is entrainable: it learns your meal schedule and begins rising in advance, which is why hunger can be punctual. Muscle sits at the far end of this chain, a passive recipient of whatever the hormones negotiated. The skinny guy's biography is written at the negotiation table: waves that arrive at useless hours, waves ignored until they fade, a schedule so chaotic the hormone stopped keeping one. Retrain the timetable and the whole downstream chain, intake, surplus, recovery, muscle, receives a different supply without a single new exercise. Leptin, the satiety hormone from fat tissue, plays the long game opposite ghrelin's daily tides, setting the background against which the waves are read. In very lean men that background is quiet, which is another reason the daily scheduling signals matter so much: with a quiet long-term signal, the timetable becomes the main voice. Your leanness makes the schedule louder, not weaker.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HUNGER LANDS ON LOCAL TIME"
+    },
+    {
+     "at": 18,
+     "items": [
+      [
+       "WAVE ARRIVES",
+       0
+      ],
+      [
+       "WAVE FADES",
+       20
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 28,
+     "kind": "swap"
+    },
+    {
+     "at": 37,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SCHEDULABLE AND SURVIVABLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The entrainment evidence is some of the most charming in appetite science. Ghrelin profiles in people with regular meal patterns show the hormone rising shortly before habitual meals and falling after them, a anticipatory rhythm the body builds from repetition. Shift the schedule and, over days to weeks, the rhythm shifts with it, which is why travelers' hunger eventually lands on local time. Studies of fasting windows show the complementary fact: hunger during a fast comes in waves that crest and subside rather than climbing forever, matching the twenty-minute tide you just timed. Two conclusions follow for the gainer. Your hunger is schedulable, and your hunger is survivable. The first makes appetite training possible. The second makes waiting for the right wave, rather than grazing in fear of it, a sane strategy. The wave has one more property worth timing someday, though not today: its height scales with the honesty of the wait. A wave met after a true empty period arrives stronger than one arriving on top of a snack an hour earlier. This is the physiological receipt for the loading phase. Emptiness is not the absence of the system working. It is the system winding up.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PLANNED EMPTINESS LOADS THE WAVE"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "br",
+     "text": "GRAZING IS NOISE"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FULL, EMPTY, FULL, ON RHYTHM"
+    },
+    {
+     "at": 25,
+     "kind": "fact",
+     "lines": [
+      "Oscillation is how hunger hormones speak."
+     ],
+     "pos": "br",
+     "title": "THE NATIVE LANGUAGE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "One layer deeper, to the mistake this science prevents. Many skinny guys, told to eat more, respond by grazing all day, keeping the stomach permanently half-full so no wave ever forms. It feels like diligence. Hormones read it as noise: no empties, no peaks, no timetable, and meals that never meet real hunger stay small and unsatisfying. The wave needs an empty beach to arrive on. Planned emptiness, the two to three hours before a meal with only water, is not a diet behavior; for a gainer it is the loading phase of the appetite cycle, as deliberate as the meal itself. Full, empty, full, empty, on a rhythm: that oscillation is the hormone's native language. Speak it for three weeks and the waves arrive like public transport, and you simply board with a plate.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A BLANK TIMETABLE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "TO A NEW SCHEDULE",
+     "pos": "br",
+     "text": "WEEKS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HUNGER ON STAFF"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "pos": "br",
+     "text": "QUIET, NOT BROKEN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The skinny advantage in hormone terms is that your system is quiet, not broken, and quiet systems entrain beautifully. A lifetime of small, irregular meals means your ghrelin rhythm is a blank timetable, and blank timetables accept a new schedule within weeks, faster than almost any other adaptation in this season. Meanwhile the payoff is leveraged: every wave met punctually makes the next meal the easiest large meal of your day, which funds the surplus, which funds the training, which deepens the next wave. The big eater manages a hormone that shouts all day. Yours whispers on a schedule you get to write. Write it once, keep it kindly, and hunger becomes the most reliable employee on your gaining staff. And the timetable, once written, defends itself in a way diets never do. A kept schedule starts producing hunger that reminds you to eat, inverting the entire problem: instead of a man chasing calories with alarms and apps, the chemistry itself raises its hand at the right hours. The end state of appetite training is not discipline. It is being reminded by your own body, on time, for free.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "check": 3,
+   "exercise": "PRIMER SQUATS",
+   "music": "drive",
+   "narration": "Prime a wave with me. Four rounds of easy squats, forty seconds on, twenty off, finishing about fifteen minutes before a scheduled meal. Movement is the bell that tells the hormone the table is coming. Then sit down and meet the wave with food.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FIXED TIMES, DEFENDED"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ANSWER WITHIN THE HALF HOUR"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "GRAZING IN FEAR OF HUNGER"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "JUDGING AT DAY FOUR"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The entrainment protocol. One: fix three meal times and one shake time around your real life, defensible within thirty minutes, weekends included. Two: protect the loading phase, water only in the two hours before main meals, so waves can form on an empty beach. Three: when the wave arrives near a meal time, eat within the half hour; the contract is that signals get answered. Four: never graze to avoid hunger; hunger before a meal is the system working, not failing. Five: give the timetable three full weeks before judging, rating pre-meal hunger in week one and week three to watch it climb. No supplements, no forcing, no suffering. A schedule, kept kindly, until your own chemistry starts setting the table before you do.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR WAVE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN RETIME IT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR WAVE"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HEALTHY MACHINERY, BAD SCHEDULE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Read your wave. If it arrived clearly and faded near twenty minutes: your hormone machinery is healthy, and your only problem is scheduling, the most fixable diagnosis in this season. If waves barely visit you at all: your timetable is noise, usually grazing and chaos, and the protocol's first gift will be a wave you can set a watch by. If waves arrive at punishing hours, midnight, mid-meeting: they are keeping an old schedule, and three weeks of new times will move them. Retest in thirty days: same wait, same clock, and note where the wave now lives. Comment your wave length and the hour your hunger usually visits. We are redrawing the timetable in public.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ON TIME AND FED"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wait, same clock. Bring me a wave that arrives at the table, on time, and gets fed. Subscribe, and keep today's timing safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "hunger hormones",
+  "ghrelin",
+  "appetite training",
+  "hunger wave",
+  "meal timing hormones",
+  "increase appetite",
+  "skinny guy hunger"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_horse_stance.webp",
+  "big": "20 MIN",
+  "hook": "THE HUNGER WAVE"
+ },
+ "title": "Why Your hunger hormones Matter More Than Muscle (The appetite training Episode)",
+ "v5": true
+}

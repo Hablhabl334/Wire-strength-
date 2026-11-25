@@ -1,0 +1,401 @@
+{
+ "id": "641",
+ "v5": true,
+ "title": "90 Days Later: Your 90-Day Record — The total adaptation Verdict",
+ "description": "Ninety days ago your first dead hang went on this channel's record. Today we close the season with the 90-day record retest: same bar, same rules, and a verdict on your total adaptation. Bring every number you have. Today they all testify.",
+ "tags": [
+  "90 day record",
+  "total adaptation",
+  "dead hang record",
+  "season finale test",
+  "retest verdict",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "90 days later",
+  "the record",
+  "retest day",
+  "dead hang",
+  "calisthenics",
+  "total adaptation"
+ ],
+ "category": "retests",
+ "badge": "EP 641 - 90-DAY RECORD",
+ "checklist": [
+  "THE RETEST",
+  "THE RECORD",
+  "THE ADAPTATION",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_dead_hang.webp",
+  "big": "90 DAYS",
+  "hook": "THE RECORD",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | this channel set a test. | One bar. One hang. | Your time went on record. | Everything since was training. | Today we close the season. | Same bar as day one. | Same overhand grip. | Same chalk rules, frozen. | Jump up. Settle your shoulders. | Quiet body, slow breath. | Hang like the man | ninety days built. | No swinging. No re-gripping. | When your fingers open, | the record updates. | That is your 90-DAY time. | Got it? | At the end, | your total adaptation | gets its verdict, | and the next | season gets scheduled.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE SEASON CLOSES TODAY",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "SAME BAR AS DAY ONE",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "NO RE-GRIPPING",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "THE RECORD UPDATES",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "THE RECORD",
+   "label": "WHAT NINETY DAYS ON RECORD MEANS",
+   "sub": "day 1 was a stranger - day 90 is a system",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is what a ninety-day record actually certifies, and it is more than a hang time. Day one measured a stranger: untrained cables, unpracticed wiring, a body guessing. Ninety days of logged tests and honest training later, today's hang measures a system: tendons that remodeled, nerves that organized, shoulders that learned their job. Researchers who study adaptation use exactly this window because it separates the two kinds of progress that beginners confuse. The first month is mostly learning. Months two and three are where tissue itself files its report. Your record today is that report, signed by your own hands.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "90 DAYS",
+     "label": "LEARNING SEPARATED FROM TISSUE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "DAY 1: A STRANGER",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "TODAY: A SYSTEM REPORTS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at the total adaptation, system by system, because the record is really four verdicts wearing one number. The tendons: denser, stiffer collagen in the finger flexors, built deposit by deposit across spaced sessions. The nerves: cleaner recruitment, less wasted tension, a forearm that spends its effort only at the fingers. The shoulders: lats and lower traps that pack the joint by reflex now. And the mind, which coaches count as a system too: you know exactly how a hang feels at thirty, sixty, and ninety seconds, and knowledge kills panic, and panic was day one's real time thief. Four systems adapted. The clock just adds them up. One more detail belongs in the record, and it is the one future you will thank present you for. Write down, beside today's time, how the season actually went: sessions per week, the longest break, the worst month. A record without its context becomes a riddle in a year. A record with three honest lines of context becomes a coaching document, the thing that lets next season start from knowledge instead of nostalgia. The number is the headline. The context is the article.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "FOUR SYSTEMS, ONE NUMBER",
+     "lines": [
+      "Tendon. Nerve. Shoulder. Mind."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "PANIC WAS THE TIME THIEF",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "4 VERDICTS",
+     "label": "WEARING ONE TIME",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now compare the record properly, the way this channel taught you. Put day one and day ninety side by side and read three things. The time itself, obviously. The shape of the hang: how long before the shaking started, how the end arrived, whether the fingers peeled or released together. And the recovery: how your forearms felt an hour later, because a trained system recovers like one. If all three improved, your adaptation is total in the truest sense: performance, quality, and resilience in one package. If only the time improved, you have a performance record and a quality project for next season, and knowing that is worth more than a bigger number. One more comparison completes the record's reading. Set today's hang beside your other season numbers, the push-up max, the wall sit, the balance gap, and ask whether the grip led or lagged the family. A grip that led says your tendon work is ahead of your wiring. A grip that lagged says the fingers need next season's first slot. The record is one number, but it lives in a household of numbers, and households are read together or misunderstood separately.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "DAY 1 RECORD",
+       32
+      ],
+      [
+       "DAY 90 RECORD",
+       95
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "READ THREE THINGS, NOT ONE",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "TIME, SHAPE, RECOVERY",
+     "lines": [
+      "All three are the record."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "QUALITY IS NEXT SEASON'S PROJECT",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "A word about the men whose record barely moved, because a season finale owes them honesty. Total adaptation is not guaranteed by the calendar. It is guaranteed by the sessions, and sessions are the one variable the record cannot see. If your ninety days contained twenty honest training days, your record is a twenty-day record, and it should be read with twenty-day expectations, where it probably looks impressive. The men who stall are rarely the men who trained and failed. They are the men who intended and drifted. The record's mercy is that it does not care about your past intentions. It only asks what the next ninety days will contain. And the mind's adaptation deserves its final word, because it is the one that makes all future seasons possible. Ninety days ago, training was a decision you renegotiated daily. The record exists, which means the negotiation ended somewhere along the way and a habit took the chair. Habits are the only known technology that makes the next ninety days easier than the last. Whatever the clock said today, the man who shows up automatically has already won the season's real prize.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE RECORD COUNTS SESSIONS",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "nerve_pathway_plate.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "INTENDED VS TRAINED",
+     "label": "THE ONLY REAL GAP",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "NEXT 90 DAYS ARE UNWRITTEN",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe for the season finale is the one this channel was built on. Ninety days ago you were a skinny guy with a phone stopwatch and a bar. The fitness world told you the mirror was the scoreboard and that your frame was the problem. The record says otherwise. Your frame let you practice more, recover faster, and stack more honest sessions than men twice your size, and the adaptation compounded quietly until a clock could not ignore it. Total adaptation was never about becoming a different body. It was about discovering how much change was hiding inside the one you already had.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE MIRROR WAS NEVER THE SCOREBOARD",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "SESSIONS THEY BANKED",
+       30
+      ],
+      [
+       "SESSIONS YOU BANKED",
+       45
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMPOUNDED QUIETLY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "SAME BODY, NEW SYSTEMS",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "DEAD HANG SETS",
+   "work": 30,
+   "rest": 30,
+   "rounds": 4,
+   "asset": "ren_dead_hang.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we hang together one more time this season. Four rounds of thirty seconds, thirty to reset. Every round at record standard: packed shoulders, quiet body, full honesty."
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Next season's protocol starts from the record, so choose by your band. If your record doubled or better, next season is about density and difficulty: thicker bars, towel hangs, one-arm preparation. If your record grew by a third, protect the recipe and add the missing stimulus your shape-reading exposed. If your record barely moved, next season's program is not harder, it is denser: more honest weeks, fewer heroic days. The mistakes that end seasons: celebrating by vanishing for a month, testing weekly out of excitement, and comparing your record to a stranger's highlight. Your record's only rival is its own next edition. One weekly detail carries the record into next season: the maintenance minimum. Even in your busiest weeks, two short hang sessions protect the whole ninety days of deposits. Tendons forgive a quiet week. They do not forgive a vanished month, and the men who keep their records are not the men who train hardest in January. They are the men whose worst week still contained two honest sessions.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "VANISHING AFTER THE FINALE",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "WEEKLY TESTING FROM EXCITEMENT",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "STRANGERS' HIGHLIGHTS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "NEXT SEASON STARTS FROM THE RECORD",
+     "lines": [
+      "Harder, denser, or protected: pick by band."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "THE VERDICT",
+   "label": "YOUR TOTAL ADAPTATION VERDICT",
+   "sub": "comment your day 1 and day 90 times",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The verdict on your total adaptation, in the channel's own bands. If your time doubled or more, your adaptation is total and documented: tissue, wiring, and composure all rebuilt in ninety days. If you gained a solid third to a half, your adaptation is real and mid-journey, with the steepest tissue gains still ahead of you. If you gained a little, your adaptation is genuine but young, mostly learning, with the material changes scheduled for next season. If you gained nothing on paper, your adaptation is unmeasured, not absent, and the record demands one honest retest after a rested week before anyone signs that verdict. Comment both times below. Season two of your record starts in thirty days.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "DOUBLED",
+     "label": "TOTAL AND DOCUMENTED",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "UNMEASURED IS NOT ABSENT",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT BOTH TIMES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RECORD: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Ninety days, two numbers, one record that nobody can take from you. Keep the bar where it is, keep the sessions honest, and bring me a new record next season. Subscribe, because the record keeps growing. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "NEXT RECORD IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "THE RECORD IS YOURS",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

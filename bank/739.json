@@ -1,0 +1,392 @@
+{
+ "badge": "EP 739 - TRAIN GUT ABSORPTION",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE ABSORPTION SYSTEM",
+  "YOUR VERDICT"
+ ],
+ "description": "Digestion done wrong floods the gut and leaks calories. Stop it: test your chewing baseline, learn how the absorption line actually works station by station, and run the pacing protocol that turns the meals you already eat into meals you actually absorb.",
+ "hashtags": [
+  "gut absorption",
+  "digestion training",
+  "chewing",
+  "hardgainer",
+  "absorb more"
+ ],
+ "id": "739",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE BITES, HONEST COUNTS"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CHANGE NOTHING YET"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR COUNT"
+    },
+    {
+     "at": 24,
+     "kind": "fact",
+     "lines": [
+      "Your teeth decide what your stomach receives."
+     ],
+     "pos": "br",
+     "title": "GRAVEL OR SOUP"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is almost embarrassingly simple. At your next meal, take one normal bite of your main food, and count how many times you chew it before swallowing. Do this for three separate bites across the meal, without changing anything, and average the counts. That average is your number. Most people land between five and ten chews, a few token presses before the swallow. The food arriving in your stomach is then closer to gravel than soup, and your gut must do with acid and hours what your teeth were designed to do in seconds. Keep your chew count. At the end I will show you where the line sits, and why this tiny number quietly decides how much of every meal you actually absorb.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SURFACE-AREA CHEMISTRY"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE WORKING BITE",
+     "pos": "br",
+     "text": "20 CHEWS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE STATION YOU CONTROL"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FREE, AT EVERY MEAL"
+    }
+   ],
+   "big": "20 CHEWS",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHERE A BITE BECOMES FOOD THE GUT CAN ACTUALLY USE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Around twenty chews is where a bite becomes food the gut can actually use: soft, mixed with saliva and its enzymes, presenting maximum surface to everything downstream. Under ten chews, your stomach inherits your teeth's job, spending acid, churning time, and comfort on mechanical work, while absorption waits. Between ten and twenty, the line copes but leaks at the margins. This is not etiquette advice dressed as science. Digestion is surface-area chemistry: enzymes and absorption can only act on what they can touch. Chewing is the one station of the entire production line that you control completely, voluntarily, for free, at every meal, starting with the next bite you ever take.",
+   "section": "THE NUMBER",
+   "sub": "under 10: the stomach inherits your teeth's job - 20+: station one doing its work",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "fact",
+     "lines": [
+      "Mouth, stomach, intestine, microbes.",
+      "Each has a working pace."
+     ],
+     "pos": "tr",
+     "title": "FOUR STATIONS"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 13,
+     "kind": "swap"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR HALF IS PACING"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PRIMED BEFORE FOOD ARRIVES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the system to train, station by station. Station one, the mouth: chewing grinds, and saliva begins starch digestion while signaling the stomach to prepare. Station two, the stomach: acid and churning dissolve and sterilize, releasing food in small, processed batches. Station three, the small intestine: a folded surface the size of a room, where enzymes finish the chemistry and nutrients cross into the blood. Station four, the microbes: fermenting what remains, harvesting extra energy and vitamins. Digestion done wrong starves this line of its inputs: unchewed floods, meals eaten at sprint speed, a gut given no rhythm and no warning. Done right, the line is primed before food arrives, fed at its working pace, and sized to its capacity. Absorption is not something your gut does to your meal. It is something the two of you do together, and your half is pacing.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FLOOD VS METERED"
+    },
+    {
+     "at": 16,
+     "items": [
+      [
+       "8-MIN MEAL",
+       6
+      ],
+      [
+       "25-MIN MEAL",
+       22
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    },
+    {
+     "at": 33,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LABEL CALORIES ARE POTENTIAL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Watch the line run under two pacing styles. Rushed: a meal inhaled in eight minutes, bites at six chews, a liter of drink washing chunks down. The stomach receives a flood it must hold and grind for hours, comfort is poor, and the intestinal stations receive irregular, oversized batches. Paced: the same meal across twenty-five minutes, bites chewed to soup, sips instead of floods. The stomach meters out small batches, enzymes keep up, absorption runs near the line's design capacity, and comfort returns in about an hour. Eating-rate research consistently links slower eating with better digestive comfort and satiety signaling, and chewing studies show particle size changes what the gut can extract. The calories on the label are potential. Pacing decides how much potential becomes you. Particle size deserves one more sentence, because it is the rare mechanism you can watch. Chew a bite of bread thoroughly and it becomes sweet on the tongue as salivary enzymes begin converting starch, a small live demonstration that digestion starts in the mouth and that station one, rushed, is chemistry skipped. Your gut notices what your tongue can prove.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WARM-UP ACT"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SEATED AND ATTENTIVE"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PERSISTENT PAIN = REFERRAL"
+    },
+    {
+     "at": 33,
+     "kind": "fact",
+     "lines": [
+      "Two calm minutes change the meal's fate."
+     ],
+     "pos": "br",
+     "title": "THE LINE NEEDS WARNING"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Go one layer deeper, to the cephalic phase, the line's warm-up act. The sight, smell, and first tastes of food trigger saliva, acid, and enzyme release before the first bite lands. This is why meals eaten distracted, scrolling, standing at the fridge, digest worse than the same meals eaten seated and attentive: the line was never told to start. It is also why a calm two-minute pause before eating, food on the table, phone away, genuinely changes the meal's fate. And the standing boundary, once more, because it matters: persistent pain, sharp discomfort, or symptoms that do not ease are not pacing problems. Those are referrals. Everything else here is trainable plumbing, and plumbing responds beautifully to boring consistency. The pre-meal pause has a second function beyond the cephalic phase. It separates eating from the momentum of the day. The man who sits, breathes twice, and looks at his food eats a different meal from the man who begins mid-scroll with his heart still racing from work. The line can tell the difference even when the menu is identical.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDERLOADED, NOT DAMAGED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ABSORPTION + COMFORT",
+     "pos": "br",
+     "text": "2 PRIZES"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MEALS STOP BEING DREADED"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FLYWHEEL PAIR"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The skinny advantage in absorption training is that your line is underloaded, not damaged. Your meals are moderate, your stations are close to their comfort capacities, and small pacing upgrades push absorption toward its ceiling quickly. The giant-meal bulker fights his own volume forever. You need only to stop flooding a system that was nearly fine. And the prize is double: absorbed calories rise, and comfort rises with them, which makes the next meal easier to face, which raises intake again. Absorption and appetite are flywheel partners. A skinny guy who fixes pacing often finds his appetite improved as a side effect, because meals stopped being events his body dreaded.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "check": 3,
+   "exercise": "POST-MEAL WALK",
+   "music": "drive",
+   "narration": "The line's favorite assistant: the post-meal walk. Six gentle rounds, easy walking rhythm. After today's biggest meal, ten unhurried minutes on your feet. Motion meters the stomach's batches better than any supplement.",
+   "rest": 10,
+   "rounds": 6,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 60
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FORK DOWN BETWEEN BITES"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "20-MINUTE MEAL FLOOR"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "INHALING IN 8 MINUTES"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SCROLLING THROUGH MEALS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The absorption protocol. One: chew each bite toward twenty, fork down between bites, until pacing becomes automatic. Two: give every real meal a twenty-minute floor; set the food down, sit, and let the line work at its pace. Three: two calm minutes before eating, food visible, phone away, to fire the warm-up act. Four: sip during meals, drink fully between them. Five: split any meal that historically sits for hours into two sittings. Run this for thirty days and retest both numbers, the chew count and the comfort gap from the mistakes episode's test. You are not eating more yet. You are finally collecting what you already ate.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR COUNT"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THEN RECOUNT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CHEW COUNT"
+    },
+    {
+     "at": 28,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMALLEST NUMBER, REAL PROFIT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Read your count. Under ten: station one is on strike, and chewing alone is worth real absorbed calories to you within a week. Ten to twenty: the line copes; pacing and the pre-meal pause finish the upgrade. Twenty or more, with meals still sitting badly: your pacing is trained, so look at meal size and timing, and remember the referral rule if discomfort persists. Retest in thirty days: same meal, same counting. Comment your chew average, honestly. It is the smallest number ever posted on this channel, and it might be the most profitable one. Keep the boundary in view as you improve. Better pacing should steadily improve comfort. If your numbers improve but discomfort grows, or anything feels sharp, persistent, or wrong, the protocol steps aside and a professional steps in. That is not a failure of the system. That is the system working as designed.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 5,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FEED THE LINE"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same meal, same three bites counted. Bring me a number that feeds the line instead of flooding it. Subscribe, and keep today's count safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "gut absorption",
+  "improve digestion",
+  "chewing benefits",
+  "meal pacing",
+  "digestive health",
+  "absorb nutrients",
+  "weight gain digestion"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_horse_stance.webp",
+  "big": "20 CHEWS",
+  "hook": "CHEW, PACE, ABSORB"
+ },
+ "title": "Stop Doing digestion Wrong: Train Your gut absorption Instead",
+ "v5": true
+}

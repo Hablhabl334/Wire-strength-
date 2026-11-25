@@ -1,0 +1,391 @@
+{
+ "badge": "EP 625 - PUSH-UP PROOF",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "WHAT IT PROVES",
+  "YOUR VERDICT"
+ ],
+ "description": "Retest day turns the strict push-up count into evidence. Run the set under the original rules, then read the number like a result: what it proves about your chest tendons and the pressing chain, what it cannot prove, and the checks that would expose a false claim.",
+ "hashtags": [
+  "push-ups",
+  "retest day",
+  "chest tendons",
+  "the proof",
+  "max reps",
+  "calisthenics"
+ ],
+ "id": "625",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE COUNT IS EVIDENCE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "EVIDENCE LOVES WITNESSES",
+     "pos": "br",
+     "text": "FILM IT"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NOT SUGGEST. PROVE."
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "THE EVIDENCE STARTS NOW",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Retest day. | Today the count is evidence. | Not a workout. | A measurement. | Same floor as day one. | Same strict rules. | Chest to the floor. | Full lockout at top. | Plank in one piece. | One set, fresh arms. | Count out loud. | Stop at true failure. | Film it if you can. | The evidence loves witnesses. | That count goes | in the evidence column. | Beside your first count. | Two numbers, one question: | what does the gap prove | about your chest tendons | and the pressing chain? | Not suggest. Prove. | At the end | I read it | like a scientist. | Rivals, limits, predictions. | Down on the floor. | The evidence starts now.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE RETEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "IDENTICAL RULES, FRESH ARMS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "BEYOND THE NOISE",
+     "pos": "br",
+     "text": "+10 STRICT"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "PROOF IS A DISCIPLINE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "THE GAP",
+   "card": "bignum",
+   "check": 1,
+   "label": "EVIDENCE, NOT ENCOURAGEMENT",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The standard of proof first, because push-up counts are the easiest numbers in fitness to inflate and this episode refuses to be inflated. Three conditions. Identical rules: same depth, same lockout, same plank, because five shallower reps can manufacture a gap out of nothing but geometry. Fresh arms: a count taken after training measures the day, not the season. And a gap beyond the noise: under five reps lives inside the argument between sleep, mood and breakfast, but ten strict reps and beyond is a signal no good morning can manufacture. If your gap clears the standard, the strong sentence is earned: your pressing chain, chest tendons included, adapted measurably to the season's loading, in the predicted direction. If it does not clear, the verdict will say unproven, name the failed condition, and tell you how the next count is staged so its evidence holds. Proof is a discipline before it is a celebration, and no test in this season needs the discipline more than this one.",
+   "section": "OLD VS NEW",
+   "sub": "under +5 reps: inside the noise - +10 strict and beyond: the chain signed it",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_back_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Honesty lowers counts, not raises them.",
+      "Endurance outran strength: transmission improved."
+     ],
+     "pos": "tr",
+     "title": "THE AUDIT OF RIVALS"
+    },
+    {
+     "asset": "elbow_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WEIGHT LOGGED BESIDE THE COUNT"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE CHAIN'S SIGNATURE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "What a clean gap actually proves, link by link. A strict push-up is a chain transmitting force: hands, wrists, forearms, elbows, shoulders, chest, with tendons at every joint deciding how much of the muscle's force arrives and how much leaks away as stretch. On day one the chain bankrupted early because it leaked at every link. Now audit the rivals for today's bigger count. Muscle alone? It contributes, but a muscle-only story predicts your fresh strength rose in step with your endurance, and the season's pattern, endurance far outrunning single-effort strength, is the signature of transmission improving, not just engine growing. Technique? The strict rules leave little to learn beyond honesty, and honesty lowers counts rather than raising them. Bodyweight games? If you got lighter, the load dropped and the claim must be discounted, which is why the log records weight beside the count. What survives the audit is the chain itself: tendons around the elbow, shoulder and chest that stiffened under a season of honest pressing, leaking less per rep, so the same engine buys more reps before bankruptcy. The gap, cleared of rivals, is the chain's signature.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_45_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHAT IT CANNOT PROVE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "THE HYPE VERSION",
+       100,
+       "red"
+      ],
+      [
+       "WHAT'S PROVEN",
+       70,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE CLAIM VS THE PROOF"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SUFFICIENT, NOT OPTIMAL"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "TRUE ON YOUR WORST DAY",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The limits, printed as plainly as the claim. Your count cannot prove your chest tendons stiffened by any specific percentage, because a rep count measures the whole chain's output and no floor test isolates one link's material. It cannot prove the tendons are healthier in every sense, only that the chain transmits force for more reps, a claim that usually travels with healthy adaptation without being identical to it. And it cannot prove the program was optimal, only sufficient: the same reps might have been buyable faster, and the floor keeps a diplomatic silence about roads not taken. Why print limits in the middle of a celebration? Because oversold numbers collapse at the first bad count and take the habit down with them, while a number stated at its true size survives bad days untouched, since a bad day was always inside its conditions. Your gap proves your pressing chain adapted to the load you actually gave it, measurably, beyond noise, under identical rules. Narrower than the hype version. True on your worst pressing day. In this season's language, that is a finding, and findings are the only currency this log accepts.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ATTACK THE LAST THIRD"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SIGNATURES, TRANSFER, SURVIVAL",
+     "pos": "br",
+     "text": "3 PREDICTIONS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "A CAMERA AND A CALENDAR",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NOTHING TO HIDE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The deep dive attacks the claim where push-up claims are softest: the last third of the set. If the chain truly adapted, three predictions must hold. First, the signatures should have survived deeper into the set: on film, your depth, plank and lockout at rep twenty five should resemble rep five far more than they did on day one, because a chain that transmits better also degrades more gracefully. Second, transfer: other pressing, dips, overhead work, floor presses with household loads, should stand on a visibly stronger foundation, because one chain serves every push you own. Third, survival: the count should persist across an easy week nearly untouched, because structural and endurance gains of this kind do not evaporate in seven days the way a good mood does. Check the film first, it is already shot. Then run the other two checks inside the month and log them, flattering or not. A finding is a claim that has been attacked and remains standing. Attack yours with a camera and a calendar. The chain, if the gap is real, has nothing to hide from either.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A DENSE SERIES OF SETS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ON FILM",
+     "pos": "br",
+     "text": "FINDINGS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "VERY HARD TO ARGUE WITH",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME FLOOR, SAME DEPTH"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage, in evidence language. Pressing for a light man is unusually repeatable science: the load is a fixed share of the lightest full body in the room, so max counts are cheap to attempt, recovery is quick, and a season produced a dense series of honest sets under nearly identical rules, which is the raw material real conclusions are built from. The heavy presser's data is sparse and expensive: every max attempt costs him days, so his log is a few heroic counts separated by long silences, noisy by construction. Yours is a dataset with a plank in it. And because the strict rules strip out technique and theater, the dataset resists explanation by anyone: not by rivals blaming your depth, especially with the film in evidence, and not by the mirror's old story about your build. Two counts, a season apart, same floor, same depth, conditions written beside them. Some men have opinions about their pressing. You have findings, and findings compound the way tendons do: slowly, structurally, and very hard to argue with once they are on film.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PUSH-UP LADDER",
+   "music": "drive",
+   "narration": "Now we gather next season's evidence together. Four rounds: thirty seconds of strict push-ups, thirty seconds of rest, signatures held like a scientist is watching, because one is: you, on film, later. Clean data starts strict. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "FILM A SET MONTHLY",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SCHEDULE THE CHECKS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "APPLAUSE IS NOT DATA",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE FRIENDLY RECOUNT",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol after an evidence day protects the chain and the truth together. Rule one: keep the rules sacred. Depth, lockout and plank are now a calibrated instrument; the day they quietly loosen, every comparison in the log becomes fiction, so film a set monthly and audit yourself before the internet volunteers. Rule two: keep the chain loaded, two sessions a week of honest pressing volume, because the adaptation you proved today is maintained by the stimulus that built it and by nothing else. Rule three: schedule the falsification checks now: a filmed set, a dip or press transfer note, a post-rest-week count, inside the month, recorded whether they flatter the claim or not. And bury the corruptor of count evidence: the friendly recount, the set performed for an audience with the depth rising like bread while everyone applauds the number. Applause is not data. Evidence lives in strict sets on ordinary days. Keep them strict and ordinary and your pressing data stays trustworthy for years.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COUNTS WITH THEIR CONDITIONS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT EVIDENCE",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR CERTIFIED COUNT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NOBODY CAN ARGUE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the pressing evidence, and its verdict. If your gap cleared the standard, identical rules, fresh arms, ten strict reps beyond the noise, the claim stands at the level a floor can prove anything: your pressing chain, chest tendons included, adapted measurably to the season's loading, with the rival explanations interviewed and released. If the gap fell short, the verdict is an unproven claim, not a failed chain: it instructs you to restage the count under stricter filming or after a fuller block, and it instructs you today, before a season gets built on five reps of weather. Write both counts down with the conditions, depth, freshness, bodyweight, because a count without its conditions is half a measurement. Put today's count in the comments, just the reps, certified ones only. We gather evidence again in thirty days, same floor, same rules, camera welcome. The first test counted what you had. The evidence now shows what you built, and it shows it in a way nobody can argue with, including you.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVIDENCE IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "PRESSING AND LOGGED",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, same depth, camera rolling if you can. Bring me evidence, not encouragement. Subscribe so the next reading finds you pressing and logged. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "push-up proof",
+  "push-up test",
+  "chest tendons",
+  "retest day",
+  "evidence",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_mid.webp",
+  "big": "THE PROOF",
+  "hook": "PRESS EVIDENCE"
+ },
+ "title": "Retest Day: What Your New push-up retest Number Proves About Your chest tendons",
+ "v5": true
+}

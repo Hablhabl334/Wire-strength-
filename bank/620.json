@@ -1,0 +1,391 @@
+{
+ "badge": "EP 620 - HANG PROOF",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "WHAT IT PROVES",
+  "YOUR VERDICT"
+ ],
+ "description": "Retest day turns the dead hang into evidence. Run the hang under the original rules, then read the number the way a scientist reads a result: what it proves about your grip tendons, what it cannot prove, and what would falsify it. The most honest episode in the season.",
+ "hashtags": [
+  "dead hang",
+  "retest day",
+  "grip tendons",
+  "the proof",
+  "hang time",
+  "calisthenics"
+ ],
+ "id": "620",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A MEASUREMENT, NOT A WORKOUT"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "BESIDE THE FIRST",
+     "pos": "br",
+     "text": "THE EVIDENCE COLUMN"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NOT SUGGEST. PROVE."
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "THE EVIDENCE STARTS NOW",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Retest day. | Today the hang is evidence. | Not a workout. | Not a warm-up. | A measurement, taken carefully. | Same bar as day one. | Same grip, same rules. | Straight arms, quiet shoulders. | Fresh hands, honest clock. | Hang until the fingers | open on their own. | That number goes | in the evidence column. | Beside your first one. | Two numbers, one question: | what does the gap prove | about your grip tendons? | Not suggest. Prove. | At the end I read | the evidence like a scientist. | Including what it | cannot prove. | And what would | prove it false. | Grip the bar. | The evidence starts now.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE RETEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "IDENTICAL TEST, FRESH HANDS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "BEYOND THE NOISE",
+     "pos": "br",
+     "text": "20+ SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "PROOF IS A DISCIPLINE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "THE GAP",
+   "card": "bignum",
+   "check": 1,
+   "label": "EVIDENCE, NOT ENCOURAGEMENT",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Before the interpretation, the standard of proof, because this episode holds itself to one. A retest gap counts as evidence about your tendons only if three conditions hold. The test was identical: same bar, same rules, same time of day, because a changed ruler manufactures gaps from nothing. The hands were fresh, because a tired-day number measures the week, not the season. And the gap is large enough to matter: under ten seconds can be weather, chalk, sleep and mood arguing among themselves, but twenty seconds and beyond is beyond the reach of noise. Noise is real, and honest science budgets for it. If your gap clears the standard, we may say the strong sentence: your grip tendons adapted, measurably, in the direction the loading predicted. If it does not clear the standard, this episode will not insult you with a participation verdict. It will tell you which condition failed and how the next retest earns its evidence. Proof is a discipline before it is a celebration.",
+   "section": "OLD VS NEW",
+   "sub": "a gap under 10 sec: the claim is unproven - 20 plus: the tendons' signature is on it",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Technique: the bar permits no tricks.",
+      "Motivation: dies at second eighty."
+     ],
+     "pos": "tr",
+     "title": "EVERY SUSPECT INTERVIEWED"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE TRANSMISSION ITSELF"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE TENDONS' SIGNATURE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "What the evidence, properly gathered, actually proves. Your hang is powered by a chain with a known weak link: the fingers have almost no muscle, so the load travels from the forearm down tendons into the hand, and the hang ends when that transmission system can no longer hold tension. Every alternative explanation for a bigger number can be audited. Stronger forearm muscles? They help, but muscle endurance gains of this size would show in your other tests at the same rate, and the hang outgained them. Better technique? There is almost no technique in a dead hang to improve; the bar permits no tricks, which is precisely why this channel chose it as the flagship measurement. Motivation? Motivation does not survive contact with a burning forearm at second eighty; the fingers open when the system fails, not when the spirit does. What remains, when the audit finishes, is the transmission itself: tendons that thickened and stiffened under a season of tension, transmitting the same signal into more seconds. The gap, cleared of its rivals, is the tendons' signature. That is what proof looks like in a body: not certainty, but every other suspect interviewed and released.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHAT IT CANNOT PROVE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "THE HYPE VERSION",
+       100,
+       "red"
+      ],
+      [
+       "WHAT'S PROVEN",
+       70,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE CLAIM VS THE PROOF"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SUFFICIENT, NOT OPTIMAL"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "TRUE ON YOUR WORST DAY",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the other half of honest science: what your number cannot prove, stated as plainly as what it can. It cannot prove the tendons grew by any specific percentage, because a hang measures the whole system's output, and no field test isolates one tissue. It cannot prove your tendons are healthier, only that they transmit more force for longer, which usually travels with health but is not the same claim. And it cannot prove the program was optimal, only that it was sufficient: a different season might have bought the same seconds faster, and your number is silent on roads not taken. Why say all this in the middle of a celebration? Because the men who understand what their evidence cannot prove are the men whose training survives contact with reality. Oversold numbers collapse at the first bad retest and take the habit down with them. Honest numbers, with their limits printed on them, keep compounding. Your gap proves your grip tendons adapted to the load you gave them. That sentence is narrower than the hype version, and unlike the hype version, it will still be true on your worst day.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHAT WOULD PROVE IT FALSE?"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TO CHECK THIS MONTH",
+     "pos": "br",
+     "text": "3 PREDICTIONS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "SURVIVES A WEEK OFF",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRY TO BREAK IT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The deep dive asks the scientist's favorite question: what would prove the claim false? If your tendons truly adapted, certain things must follow, and retest day is where we check the predictions. Prediction one: the gain should survive a week off. Neural and motivational gains fade in days; structural gains barely notice a week, so a hang repeated after a rest week should land near today's number. Prediction two: the gain should transfer. Carries should last longer, the pinch should have improved, pulling work should feel founded, because one transmission system serves them all. Prediction three: the failure should have moved. A tendon-limited hang fades slowly and deeply; if today's drop was a sudden slip like day one's, suspect the conditions, not the cables. Run these three checks across the coming weeks and your claim graduates from a number to a finding. This is the part nobody puts on a thumbnail: a result you are willing to try to break, and cannot, is worth ten results you only admire. Try to break yours.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A PROPER DATASET"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "MEASUREMENTS ALL SEASON",
+     "pos": "br",
+     "text": "DENSE, HONEST"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "OPINIONS VS FINDINGS",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE GAP MAKES THE CASE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage, stated in the language of evidence. A dead hang loads the tendons with the tester's own bodyweight, and yours is the lightest full load available, which gave your season a property researchers pay money for: repeatability. You could test and train this system often, at high quality, with tiny recovery costs, so your evidence is not one dramatic number but a dense series of honest measurements, and dense series are how real conclusions get drawn. The heavier man's hang data is sparse and noisy, a few maximal efforts scattered across months of recovery. Yours is a proper dataset wearing a workout's clothes. There is a final advantage in the proof itself: because the bar permits no technique and no theater, your result cannot be explained away by anyone, including the part of you that still believes the mirror's old story about skinny and weak. Evidence this clean does not argue. It sits in the log, dated, next to the first number, and lets the gap make the case forever. Some men have opinions about their strength. You have findings.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Now we gather next season's evidence together. Three rounds: forty seconds on the bar, forty seconds down, conditions noted like a scientist: same bar, same hour, fresh hands. Data you can defend starts here. Go.",
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "KEEP THE RULER SACRED",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SCHEDULE THE CHECKS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "FLATTERING OR NOT, WRITE IT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE CASUAL RETEST",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol after an evidence day is about protecting the standard of proof while the training continues. Rule one: keep the ruler sacred. Same bar for every future test, and if the bar ever changes, the log gets a note and the comparison chain restarts, because evidence with a changed ruler is just two unrelated numbers holding hands. Rule two: keep loading the transmission, two sessions a week minimum, because the claim you proved today is about a living tissue that maintains itself only under continued tension. Rule three: schedule the falsification checks. One hang after a full rest week, one carry test, one pinch reading, inside the next month, written down whether they flatter the claim or not. And bury the corruptor of good evidence: the casual retest, the Saturday hang at a friend's house on a strange bar, entered into the log beside the real numbers as if it belonged there. It does not. Evidence lives in the log. Anecdotes live at the barbecue.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NUMBERS WITH THEIR CONDITIONS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT EVIDENCE",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR TIME",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RELIABLE WITNESSES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the evidence, and its verdict. If your gap cleared the standard, identical test, fresh hands, twenty seconds or beyond the noise, then the claim stands proven at the level a field test can prove anything: your grip tendons adapted to your season's loading, measurably and in the predicted direction, and the rival explanations have been interviewed and released. If your gap fell short of the standard, the verdict is not failure, it is an unproven claim, which is a different and much more useful thing: the next retest must run under stricter conditions or after a fuller block, and you learn it today instead of building a season on a number made of weather. Write both numbers down with the conditions noted, bar, hour, freshness, because a number without its conditions is only half a measurement. Put today's time in the comments, just the seconds. We gather evidence again in thirty days, same bar, same rules, and the tendons will testify again. They have been reliable witnesses all season.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVIDENCE IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "LOADED AND LOGGED",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same bar, same hour, same fresh hands. Bring me evidence, not encouragement. Subscribe so the next reading finds you loaded and logged. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "dead hang proof",
+  "dead hang test",
+  "grip tendons",
+  "retest day",
+  "evidence",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_hang_side_active.webp",
+  "big": "THE PROOF",
+  "hook": "HANG EVIDENCE"
+ },
+ "title": "Retest Day: What Your New dead hang retest Number Proves About Your grip tendons",
+ "v5": true
+}

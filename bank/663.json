@@ -1,0 +1,380 @@
+{
+ "badge": "EP 663 - THE COLLAGEN WINDOW",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE WINDOW",
+  "YOUR VERDICT"
+ ],
+ "description": "Your tendons build their raw material on a schedule, and most men train outside it. Test your morning tendon stiffness, learn when the collagen window actually opens, and time your tendon sessions so the building crew is on site when you load.",
+ "hashtags": [
+  "collagen window",
+  "tendon health",
+  "collagen synthesis",
+  "calisthenics",
+  "achilles test"
+ ],
+ "id": "663",
+ "scenes": [
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIRST TEN STEPS, SCORED"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEFORE COFFEE, BEFORE SCROLLING"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE STIFFNESS SCORE",
+     "pos": "tr",
+     "text": "0-10"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MOVES BEFORE PAIN DOES"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "This test happens before your feet forgive the morning. Tomorrow, the moment you wake, before coffee, before scrolling, stand up and take your first ten steps to the bathroom like a scientist: score the stiffness in your Achilles and calves from zero to ten. Zero is a spring. Ten is two wooden pegs. Then, same morning, do ten slow single-leg heel raises on a step and score the stiffness again. The drop between the two scores, and the first score itself, are your numbers today. Morning stiffness is the tendon's own report about yesterday: what it repaired overnight, what it is still carrying, and how its building schedule is running. Every tendon athlete in the research world tracks this number, because it moves days before pain does. Keep both scores. By the end of this episode you will know when your collagen window opens, and why most men are loading their tendons while the factory is closed.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A DASHBOARD, NOT A DIAGNOSIS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE GREEN ZONE",
+     "pos": "br",
+     "text": "0-3"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THREE RISING MORNINGS = NEGOTIATE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "INSPECT THE FACTORY"
+    }
+   ],
+   "big": "0-3",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE MORNING SCORE OF A TENDON THAT IS KEEPING UP",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for the morning score. Zero to three, gone within the first minute of walking: a tendon whose overnight repair is keeping pace with your training. That is the green zone, and most consistent trainees live there most weeks. Four to six, lingering into breakfast: the factory is working but behind, the classic signature of a load increase that arrived faster than the building schedule. Seven and above, or any score that climbs three mornings in a row: the tendon is formally requesting a negotiation, and it will escalate its communication if ignored. None of this is a diagnosis, and sharp pain is always a professional's department. It is a dashboard. The men who get tendon problems are rarely the men with the weakest tendons. They are the men with no dashboard, driving a factory they never inspect.",
+   "section": "THE NUMBER",
+   "sub": "7+: the factory is behind schedule - 0-3: repair is winning",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Breakdown first, construction second.",
+      "The building happens afterward."
+     ],
+     "pos": "tr",
+     "title": "THE SESSION IS THE ORDER FORM"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DEFICIT BEFORE SURPLUS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REST IS A BUILDING MATERIAL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now meet the factory. Tendons are built from collagen, rope protein laid down by cells that live inside the tendon itself, and those cells work on a schedule that training studies have mapped surprisingly well. When you load a tendon, two processes start at once: the cells begin breaking down old collagen and building new collagen, simultaneously. For roughly the first day to day and a half, breakdown runs ahead, and the tendon is briefly in deficit, softer and more vulnerable than before the session. After that, construction overtakes demolition, and the tendon comes out ahead, if, and this is the whole episode, the raw materials and the rest are there when the builders are working. A tendon session is not the building. It is the order form. The building happens on a timetable afterward, in your sleep and your kitchen, whether you planned for it or not.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "10 MIN OPENS THE WINDOW"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "STACKED DAILY",
+       40,
+       "red"
+      ],
+      [
+       "SPACED 6+ HRS",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SESSION SPACING, COLLAGEN RESPONSE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MATERIALS MUST ARRIVE ON TIME"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TIMING IS THE DIFFERENCE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The window itself comes from a specific and famous set of experiments. Researchers found that the collagen-building cells respond to a short loading session, about ten minutes of targeted tendon work, and then go quiet for hours, refractory, deaf to further orders. Sessions spaced roughly six or more hours apart each open a fresh window; sessions stacked back to back mostly re-open the demolition side. And in the best-known study, a small dose of gelatin with vitamin C, taken about an hour before the session, measurably increased collagen synthesis in engineered tendon tissue, because the amino acids arrived in the blood right as the window opened. Timing, in other words, is not a detail in tendon building. It is the difference between delivering materials to an open factory and leaving them on the doorstep of a closed one. Your morning score is how you know whether the deliveries are landing.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "48 HOURS BETWEEN DEMOLITIONS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE CONSTRUCTION CYCLE",
+     "pos": "br",
+     "text": "2-DAY"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PATIENCE COMPOUNDS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "One more scheduling fact changes how your whole week should look. Because the tendon's books run negative for roughly a day after a hard session, the research-minded coaches space serious tendon loading about forty-eight hours apart for the same tendon, letting construction finish its shift before demolition returns. Muscle can be trained sore and often. Tendon keeps different books, and it audits them every morning through the stiffness score you just took. This is also why tendon progress feels insultingly slow next to muscle progress. You are not bad at it. You are watching a construction project whose cranes move on a two-day cycle, and the men who respect the cycle end up, a year later, with the tendons everyone else wishes they had started building a year earlier. The window rewards the patient with compound interest.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALL, FREQUENT, WELL-TIMED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OPENS YOUR WINDOW",
+     "pos": "br",
+     "text": "10 MIN"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A SENSITIVE DASHBOARD"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOUR GAME, LAB COAT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your build fits the window economy beautifully. Short tendon sessions are cheap for you in every currency: ten minutes of isometrics or slow raises loads your cables at a fraction of the joint cost a heavy man pays, so you can open windows frequently and recover between them completely. Your absolute collagen needs are also smaller; a lighter frame maintains less rope, so an ordinary protein-sufficient diet covers the materials list more easily than it does for a man maintaining twice the structure. And your morning dashboard is more sensitive, not less: with less mass compressing everything, stiffness changes report themselves clearly instead of hiding under general heaviness. The tendon game is a scheduling game played with small, frequent, well-timed moves. That is a description of your entire build's strengths, wearing a lab coat.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "check": 3,
+   "exercise": "HEEL RAISES",
+   "music": "drive",
+   "narration": "Now we open a window together. Three rounds of slow heel raises, three seconds up, three seconds down, full range. Short, targeted, exactly what the factory orders.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SCHEDULE THE TENDON"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FEED THE WINDOW"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TWO WEEKS BEFORE JUDGING"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "IGNORING THREE RISING MORNINGS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The window protocol, in four moves. One: schedule the tendon, not just the workout. Hard tendon sessions for the same cable sit about forty-eight hours apart; short ten-minute top-ups can live on the days between. Two: feed the window. A protein-containing meal in the hours around the session covers the basics for most men; the gelatin and vitamin C trick from the research is a cheap, safe experiment for the keen, taken about an hour before. Three: read the dashboard every morning for two weeks before changing anything, because a single score is weather and a fortnight is climate. Four: when the score climbs three mornings running, the next session becomes a light one, no argument. The factory negotiates in stiffness. Answer it in scheduling, and it rarely needs to escalate.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SCHEDULE IS THE STRENGTH"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN SCORE THE STEPS AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SCORE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. Morning score zero to three, clearing within a minute: your window economy is balanced, repair matching load, and you have permission to progress slowly. Four to six: the factory is behind by a shift or two; hold the load steady, space the sessions, and let construction catch up before adding anything. Seven plus, or climbing daily: negotiate now, lighter sessions and an extra rest day, because the next message a tendon sends after stiffness is pain, and pain changes the whole conversation. Put your morning score in the comments, just the number. In thirty days, score the same ten steps and we will see whether your factory changed its hours. Hidden strength was never only about the cable. It is about the schedule the cable is built on.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A LOWER SCORE"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ten steps, same honest zero to ten. Bring me a lower score and a better-timed week. Subscribe, and keep your dashboard safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "collagen timing",
+  "collagen window test",
+  "tendon health",
+  "gelatin vitamin c",
+  "collagen synthesis",
+  "achilles stiffness",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_calf_raise.webp",
+  "big": "60 MIN",
+  "hook": "THE COLLAGEN WINDOW"
+ },
+ "title": "Your Collagen Window Test Reveals Your Hidden Strength",
+ "v5": true
+}

@@ -1,0 +1,410 @@
+{
+ "badge": "EP 553 - VERTICAL JUMP MISTAKES",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SPRING",
+  "YOUR VERDICT"
+ ],
+ "description": "Your vertical jump is not a muscle test. It is a spring test, and the spring is your Achilles tendon. Measure your jump, find your number, and fix the five mechanics mistakes that are leaking your spring before you ever leave the ground.",
+ "hashtags": [
+  "vertical jump",
+  "achilles tendon",
+  "jump higher",
+  "plyometrics",
+  "spring training"
+ ],
+ "id": "553",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MARK YOUR REACH FIRST"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THREE HONEST ATTEMPTS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "CENTIMETERS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE WALL DOES NOT GUESS"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a wall you can touch. Stand sideways to it, reach up as high as you can with the near hand, and mark that reach, chalk, tape, a wet fingertip, anything honest. Now step back, load, and jump, slapping the wall at the very top of your flight. Measure the distance between the two marks. That distance, in centimeters, is your vertical, and it is your number today. Three attempts, best one counts, no running start, feet leaving from the same spot. People guess their vertical for years and almost everyone guesses generous. The wall does not guess. This episode names the five vertical jump mechanics mistakes that are destroying your Achilles stiffness, the errors that spend your spring's energy on everything except height. Keep your number safe. At the end, I will tell you what it reveals about the spring you actually own.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A TENDON EXAM"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "ELITE TENDON TERRITORY",
+     "pos": "br",
+     "text": "60+ CM"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED IS FIXABLE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ELASTIC RECOIL DECIDES"
+    }
+   ],
+   "big": "50 CM",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN AVERAGE AND SPRING-LOADED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifty centimeters is where an ordinary jump becomes a spring-loaded one. Under forty, your spring is simply untrained, which is a training problem, not a body problem, and training problems are the good kind. Over sixty, you are in territory most bigger athletes never reach, because the vertical rewards exactly what you are: light, with a spring that only has to launch a light frame. Understand what the wall measured. Your muscles contributed, yes, but the final, fastest slice of a jump, the part that separates floaters from ground-dwellers, comes from elastic recoil, energy stored in the tendon during your dip and returned in a fraction of a second. The jump is a tendon exam with a muscle prologue. Your number graded the exam.",
+   "section": "THE NUMBER",
+   "sub": "under 40 cm: untrained spring - over 60: elite tendon territory",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The Achilles stores the dip",
+      "and snaps it back as height."
+     ],
+     "pos": "tr",
+     "title": "THE DRAWN BOW"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STIFFNESS IS THE WORD"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A STIFFNESS REPORT"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SLACK SPRINGS SHRUG"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the back of the ankle. The Achilles is the thickest tendon in your body, the cable running from your calf down to your heel, and in a jump it behaves like a drawn bow. As you dip into your countermovement, the calf muscles pull and the tendon stretches, storing elastic energy the way a spring stores a squeeze. Then, in the last instant before takeoff, the muscle shortens and the tendon recoils, snapping that stored energy back into the ground faster than muscle alone could ever contract. Researchers estimate the Achilles returns the majority of the ankle's contribution to a jump. Stiffness is the magic word: a stiffer spring stores and returns more energy per millimeter of stretch. A slack spring absorbs your dip and gives back a shrug. Your vertical is, in large part, a stiffness report.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CASH IN FAST"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FAST REVERSAL",
+       100,
+       "cyan"
+      ],
+      [
+       "PAUSED DIP",
+       70,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "JUMP HEIGHT BY DIP STYLE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A TRAMPOLINE, NOT A BATTERY"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science of the dip is called the stretch-shortening cycle, and its rule is brutal: the spring only pays out if you cash in fast. When researchers had athletes pause at the bottom of their dip for a few seconds, jump height fell sharply, because stored elastic energy leaks away as heat with every moment of delay. The tendon is not a battery. It is a trampoline with a memory measured in fractions of a second. This is why the best jumpers look violent at the bottom of the dip, reversing direction instantly, and why slow, deep, careful dips produce disappointing jumps from strong legs. It also explains a training paradox: tendon stiffness responds best to exactly the loads that scare people, heavy slow calf work for the cable's thickness, and fast springy contacts for its snap. Build both and the wall starts telling different stories. One more laboratory detail belongs here: the tendon keeps adapting after the session ends. The collagen synthesis that stiffens it runs for a day or more after a hard loading session, which is why spacing matters and why two well-placed sessions a week outperform a daily grind that keeps interrupting the construction. The spring is built between workouts, in the quiet, by a body that was given both the signal and the time.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FREE HEIGHT: THE ARMS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "STRENGTH REQUIRED",
+     "pos": "br",
+     "text": "ZERO"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COLLECT THE FREE CENTIMETERS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COORDINATION, NOT SIZE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One part of the jump is pure free height and most people donate it away: the arms. A full, aggressive arm swing, timed to rip upward exactly as the legs extend, adds a meaningful slice to a vertical, measured again and again in jump studies. The arms work two ways at once: their upward momentum pulls the body higher through the shoulders, and their swing loads the legs harder during the dip, stretching the spring further before it fires. It costs no strength, no size, no training age. It is a coordination deposit sitting unclaimed in almost every untrained jumper. Before you chase a stiffer tendon, collect the free centimeters. The spring you own today is already taller than the jump you showed it.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ENERGY MINUS MASS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE SPRING MUST PAY FOR",
+     "pos": "br",
+     "text": "EVERY KILO"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WIRY BEATS HUGE HERE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOUR HOME TURF"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Jumping is the skinny guy's home turf, and physics is the landlord. Height is what remains when your spring's energy has lifted your mass against gravity, and every kilogram you do not carry is a kilogram the spring never has to pay for. This is why the best jumpers in every sport look wiry rather than huge, and why adding bulk so often lowers a vertical even as it raises a squat. Your frame is not the limitation the mirror claims. It is the specification the event was designed around. The five mistakes ahead are the only tax collectors between your spring and its full height, and unlike genetics, every one of them can be fired this week.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "COUNTER JUMPS",
+   "music": "drive",
+   "narration": "Now we load the spring together. Four rounds of countermovement jumps, dip fast, reverse faster, full height every rep. Rest long. Springs are trained fresh.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DEEP, SLOW DIPS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "PAUSING AT THE BOTTOM"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "QUIET ARMS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "JUMPS ONLY, NO HEAVY CALF WORK"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "TESTING TIRED OR DAILY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The five vertical jump mistakes destroying your Achilles stiffness. Mistake one: dipping too deep and too slow. A long, careful squat-dip lets the stored energy leak out as heat before takeoff; dip to a quarter squat and reverse like the floor is hot. Mistake two: pausing at the bottom. Even a heartbeat of stillness spends the spring; the dip and the jump are one movement, not two. Mistake three: jumping with quiet arms. Arms hanging at your sides donate away free centimeters; swing them down as you dip and rip them up as you launch. Mistake four: training the jump only with jumps. The tendon thickens from heavy, slow calf loading, the unglamorous work that builds the spring the fast work then teaches to snap. Mistake five: testing tired or testing daily. A fatigued spring lies to you, and daily max testing turns training into auditing. Fix the five, and the wall will start grading a different athlete.",
+   "section": "THE MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STIFFNESS ARRIVES IN WEEKS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CENTIMETERS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME WALL, SAME MARKS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under forty centimeters: an untrained spring, and the most responsive starting point on this channel, because stiffness gains arrive in weeks when the work is new. Forty to fifty-five: a working spring with leaks, and the five fixes are worth real centimeters to you, some of them this week, from the arms and the dip alone. Over fifty-five: you own recoil most gym members will never build, and your remaining gains live in heavy calf work and patience. Put your centimeters in the comments, just the number, best of three, honest wall. Retest in thirty days, same wall, same marks, fresh legs. The spring keeps its books in centimeters, and it is ready to revise yours upward.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A HIGHER MARK"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wall, same chalk, bring me a higher mark. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "vertical jump",
+  "jump higher",
+  "achilles tendon",
+  "tendon stiffness",
+  "plyometrics",
+  "jump mechanics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "YOUR CM",
+  "hook": "HOW HIGH, REALLY"
+ },
+ "title": "5 vertical jump mechanics Mistakes That Are Destroying Your Achilles stiffness",
+ "v5": true
+}

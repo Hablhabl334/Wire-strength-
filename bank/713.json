@@ -1,0 +1,413 @@
+{
+ "badge": "EP 713 - THE SLEEP GAP",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE GAP",
+  "YOUR VERDICT"
+ ],
+ "description": "A dead hang in the morning and the same hang in the evening: the gap between them is your sleep report card. Here is what the difference measures, the seven-day fix that closes it, and why your strongest hours are built the night before.",
+ "hashtags": [
+  "sleep test",
+  "dead hang",
+  "sleep gap",
+  "calisthenics",
+  "recovery"
+ ],
+ "id": "713",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO HANGS, ONE DAY"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MORNING BEFORE ANYTHING"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EVENING MINUS MORNING"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Last night, graded in seconds."
+     ],
+     "pos": "br",
+     "title": "THE SLEEP GAP"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SEVEN-DAY FIX IS COMING"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Two hangs today. | One bar, one gap. | First hang: morning. | Within minutes of waking. | No phone, no coffee. | Grip and hang. | Clock until you drop. | Write the seconds. | Label it MORNING. | Second hang: evening. | After your day is done. | Before dinner, ideally. | Same bar, same grip. | Hang until you drop. | Write those seconds. | Label it EVENING. | Subtract the morning. | That difference | is today's real number. | The sleep gap. | It grades last night | without asking your feelings. | At the end | I tell you | what your gap means. | And the seven-day fix.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ACCESS, NOT CAPACITY"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE PAID-UP LINE",
+     "pos": "br",
+     "text": "10%"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE STRENGTH EXISTS BY EVENING"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SCHEDULED THE NIGHT BEFORE"
+    }
+   ],
+   "big": "10%",
+   "card": "bignum",
+   "check": 1,
+   "label": "A MORNING WITHIN 10% OF EVENING: A PAID-UP NIGHT",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is how to read the gap. A morning hang within ten percent of your evening hang means the night paid its bills: you woke owning nearly everything you own, and the day only adds its small warm-up bonus. A gap of ten to twenty-five percent is the taxed band, where most modern adults honestly live: the night was too short, too late or too shallow, and the morning runs on a partial account until the day refills it. Over twenty-five percent, the verdict is blunt: your limiting factor is not your training, it is your night, and no program survives being built on a foundation that leaks a quarter of its strength before breakfast. The evening number matters too, because it proves the strength exists. The gap is never about capacity. It is about access, and access is scheduled the night before.",
+   "section": "THE NUMBER",
+   "sub": "gap under 10%: recovered - 10 to 25%: a taxed night - over 25%: the night is the workout now",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Inertia, temperature, fuel.",
+      "Sleep quality signs the result."
+     ],
+     "pos": "tr",
+     "title": "THREE MORNING FACTORS"
+    },
+    {
+     "asset": "ren_dead_hang_front.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RECORDS FALL IN THE AFTERNOON"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE GAP MEASURES THE NIGHT"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EVERYTHING IT FAILED TO DO"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why is the morning number lower at all, even after decent sleep? Three honest reasons stack. Sleep inertia: the brain wakes in stages, and full alertness trails the alarm by up to an hour, which is why the test's strict timing matters. Body temperature: your core temperature bottoms out near dawn, and muscle and nerve performance literally run warmer and faster by evening, a rhythm so reliable that most world records fall in the late afternoon. And the overnight fast: glycogen is partially spent, the tank is not empty but it is not topped. Against that background, sleep quality writes its signature: a good night restores the hormonal account, growth hormone pulsed, testosterone peaked, the nervous system recalibrated, so the morning starts close to the evening's standard. A bad night leaves all three background factors unpaid, and the gap widens into a measurement of everything the night failed to do.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RESTRICTION DOWN, EXTENSION UP"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "SHORT NIGHT",
+       55,
+       "red"
+      ],
+      [
+       "FULL NIGHT",
+       95,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE NIGHT, BOTH DIRECTIONS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE ONLY PRESCRIPTION THAT FITS",
+     "pos": "tr",
+     "text": "YOUR %"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOUR PERSONAL SLEEP NUMBER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The research behind the gap is the same body of work from our sleep science episode, now with a ruler attached. Studies restricting sleep to five or six hours find next-day strength, reaction and endurance measurably down, with hormone markers moving in the wrong direction within a week. Studies extending sleep in athletes find the reverse: sprint times, accuracy and reaction all improve when the night grows. The crucial methodological point for your laboratory is that these effects are individual and dose-dependent: your gap after six hours will not equal your neighbor's, and your gap after eight tells its own story. That is why this channel refuses to prescribe a universal hour count. The prescription is a measurement: your morning hang, expressed as a percentage of your evening, tracked against the nights that produced it, until your personal sleep number stands revealed in your own data.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RUN IT ON A LIGHT DAY"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "One big variable per test.",
+      "A laboratory, not a mood."
+     ],
+     "pos": "br",
+     "title": "CONTROL THE CONDITIONS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ATHLETE AND ASSAY IN ONE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One subtlety protects you from misreading the test: the gap also breathes with training. The morning after a brutal session, your hang may dip for reasons that belong to yesterday's work, not last night's sleep, because fatigue and recovery share the same morning stage. The solution is scheduling, not despair: run the two-hang test on a rest day, or on the morning after a light day, when the night is the only big variable in the room. Scientists call this controlling the conditions, and it is the difference between a laboratory and a mood. Keep the timing strict, the grip identical, the preceding day light, and the gap becomes a clean instrument: one number, honestly earned, that grades the single most powerful recovery tool you own, using nothing but a bar and your own body as both the athlete and the assay.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A SMALLER REPAIR PROJECT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "DIFFERENCES YOU CAN RESOLVE",
+     "pos": "br",
+     "text": "CLEAR SECONDS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NO CONVERSION REQUIRED"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE CHEAPEST INPUT IN SPORT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The skinny advantage in sleep economics is that your recovery project is smaller. The night shift repairs a lighter frame with less tissue to service, fewer absolute calories to process and joints that spent the day under moderate loads, so a given night of sleep completes more of your repairs than the same night completes for a heavy man. Your test is also more sensitive: hangs at your bodyweight run long, so percentage differences resolve into clear seconds rather than noise. And there is a strategic edge: because your training is bodyweight, your whole performance life happens at the load your sleep is servicing, so improvements in the gap translate directly into every session, no conversion required. Fix the night and the morning rises, the sessions rise with it, and the entire system compounds off the cheapest input in sport: hours you were going to spend unconscious anyway.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Now we invest a little of the day's strength. Four rounds: thirty seconds of dead hang, thirty seconds rest. Quiet shoulders, full grip. We are training the very instrument that grades your nights.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEVEN DAYS, ONE WAKE TIME"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LIGHT EARLY, CAFFEINE CUTOFF"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SCREENS CLOSE BEFORE BED"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMPARE GAPS, NOT HANGS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The seven-day gap fix, four rules, run as one experiment. One: fix the wake time for seven straight days and let the bedtime be pulled earlier by sleep pressure, rather than forcing both ends at once. Two: morning light within the hour and a caffeine cutoff eight to ten hours before bed, the two levers that move the clock itself. Three: last meal and last screen get a closing time, an hour before bed, so the night shift starts with a quiet building. Four: run the two-hang test on day one and day seven, both on light days, and compare gaps, not just hangs. Seven days will not rebuild your sleep forever, but it will show you the size of the prize in your own seconds, and a prize you have measured is a prize you will keep paying for.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A PAID-UP NIGHT IS AN ASSET"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN GRADE THE NIGHT AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR GAP PERCENT"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SCHEDULED INTO THE MORNING"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. A gap under ten percent: a paid-up night and a morning that owns what the evening owns; your sleep is currently an asset, and your job is to notice exactly what produced it and repeat that night on purpose. Ten to twenty-five: the taxed band, the most common address in the modern world, where the seven-day fix typically buys back real seconds within the week. Over twenty-five: the night is now your head coach, and the strongest training decision available to you is a defended bedtime, because a quarter of your strength is being decided before your day begins. In every band, the title's promise holds: the gap revealed hidden strength, strength that exists by evening and waits to be scheduled into the morning. Put your gap percentage in the comments, just the number. In thirty days, grade the night again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE NIGHT THAT EARNED IT"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, one light day, two hangs, morning and evening, same bar. Bring me a smaller gap and the night that earned it. Subscribe, and keep today's pair safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "sleep strength test",
+  "dead hang test",
+  "sleep gap",
+  "recovery hormones",
+  "morning vs evening strength",
+  "hidden strength"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_hang_side_active.webp",
+  "big": "8 HRS",
+  "hook": "THE SLEEP DIVIDEND"
+ },
+ "title": "Your Sleep Strength Test Reveals Your Hidden Strength",
+ "v5": true
+}

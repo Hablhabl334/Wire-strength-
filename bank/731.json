@@ -1,0 +1,392 @@
+{
+ "badge": "EP 731 - CALORIE ANCHOR MISTAKES",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE 5 MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Cheap calorie anchors like rice, oats, oil, and peanut butter should make gaining easy, but five mistakes drain their density: watery cooking, fear of fats, anchor-free meals, tiny portions, and anchors you hate. Weigh your plate, learn its real number, and fix the leaks.",
+ "hashtags": [
+  "calorie density",
+  "cheap calories",
+  "weight gain foods",
+  "hardgainer",
+  "calorie anchors"
+ ],
+ "id": "731",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR MOST REPEATED MEAL"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WEIGH IT BEFORE YOU EAT"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP THE PLATE NUMBER"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Volume and calories are different currencies."
+     ],
+     "pos": "br",
+     "title": "FULL-LOOKING, LIGHT-COUNTING"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test weighs your dinner. Tonight, serve your completely normal evening meal, the one you eat most often, exactly as usual. Before you eat, weigh the plate's main components or measure them honestly: cups of rice or pasta, spoons of oil or sauce, the size of the protein. Then price the plate in calories with labels or a tracker. That number, the real calorie count of your most repeated meal, is your test result. Most skinny guys discover their big dinner is a four-hundred-calorie event wearing a seven-hundred-calorie reputation. Keep your plate's number. At the end, I will show you the density bands, and the five cheap-anchor mistakes that keep plates light while looking full.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CALORIES PER BITE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE WORKING PLATE",
+     "pos": "br",
+     "text": "700 KCAL"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DENSITY IS A STOVE DECISION"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "REPEATED 300 TIMES A YEAR"
+    }
+   ],
+   "big": "700 KCAL",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHAT A REAL GAINING DINNER PLATE SHOULD CARRY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. A real gaining dinner plate carries about seven hundred calories. Under five hundred, your most repeated meal is a maintenance plate in disguise, and no breakfast heroics can outrun a light dinner repeated three hundred times a year. Between five and seven hundred, the plate works but leaves no margin for a busy day. Above seven hundred, the anchor is doing its job: rice or pasta in real quantity, a fat source on top, protein beside it. Density is the whole trick. Calories per bite decides whether a normal-sized stomach can fund a surplus. Your plate number is a density reading, and density is a choice you make at the stove, not a talent you are born with.",
+   "section": "THE NUMBER",
+   "sub": "under 500: a maintenance plate in disguise - 700+: an anchor doing its job",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "The stomach counts volume.",
+      "The body banks calories."
+     ],
+     "pos": "tr",
+     "title": "TWO ACCOUNTING SYSTEMS"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FAT: 9 KCAL PER GRAM"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EXPLOIT THE GAP"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the system the mistakes are draining. Calorie density means energy per gram of food. Water and fiber add grams without energy, which is why a mountain of salad or watery soup fills a stomach for almost nothing. Fat carries nine calories per gram, more than double protein or carbohydrate, which is why a spoon of oil quietly adds over a hundred calories while changing the plate's size by nothing. Cheap anchors, rice, oats, pasta, bread, peanut butter, oil, milk, are simply the foods where density and price meet. The stomach measures volume and stretch. The body banks calories. Anchors exploit the gap between those two accounting systems, and the five mistakes all widen the gap in the wrong direction. A note on water content, the silent density killer. The same rice weighs dramatically more cooked loose in excess water than cooked tight and rested, and the extra weight is water your stomach must carry for zero calories. Cooking absorption-style, measured water, lid on, rest after, is a density technique hiding in plain sight in every good kitchen.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME PLATE, TWO TOTALS"
+    },
+    {
+     "at": 18,
+     "items": [
+      [
+       "DRAINED + DRY",
+       420
+      ],
+      [
+       "ANCHORED + OILED",
+       750
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 27,
+     "kind": "swap"
+    },
+    {
+     "at": 36,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOU EAT THE WEIGHT ANYWAY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Watch the same plate built two ways. Version one: rice boiled loose and drained, chicken breast, steamed vegetables, no oil, because oil felt like cheating. It fills the plate, fills the stomach, and delivers about four hundred and twenty calories. Version two: the same rice cooked with a spoon of oil and a knob of butter folded through, a drizzle over the vegetables, sauce instead of steam. Same volume, same satisfaction, roughly seven hundred and fifty calories. Nothing about the second plate is extreme. It is the first plate with its density mistakes removed. Research on energy density consistently shows people eat a similar weight of food across days, so the density of that weight quietly decides the total. You will eat about the same plate either way. Make the plate count. There is a second-order effect worth your attention. Dense plates also slow the meal down in the right way: rich food is eaten a little more slowly and with more satisfaction per bite, which gives fullness signals time to be about contentment rather than stretch. The plate feels finished instead of merely full. That feeling is what makes the pattern repeatable for years.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PORTIONS DRIFT DOWN"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LOVED BEATS OPTIMAL"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CHECK THE THERMOSTAT"
+    },
+    {
+     "at": 32,
+     "kind": "fact",
+     "lines": [
+      "Your anchor must survive your worst day."
+     ],
+     "pos": "br",
+     "title": "THE WORST-DAY TEST"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Mistakes four and five are quieter. Four: the anchor portion that shrank. You started gaining with two full cups of rice, and over months, without noticing, it became one and a half, then one. Portions drift downward like a thermostat in a house nobody checks. Five: anchors you secretly hate. If your anchor food bores or disgusts you, you will unconsciously serve less, skip it on tired days, and abandon it within a season. The best anchor is the one you would eat on your worst day: for many skinny guys that is pasta with an oily sauce, or oats drowned in milk and peanut butter. Boring and loved beats optimal and abandoned, every single month of the year. And a word about the cheapest anchor of all, the one hiding in the drink beside the plate. Whole milk beside a watery dinner quietly repairs the plate's average density all by itself. Many a skinny guy's gaining story is, on inspection, the story of milk appearing at meals where water used to sit.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RICHNESS, NOT VOLUME"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "WITHOUT ONE EXTRA BITE",
+     "pos": "br",
+     "text": "+500 KCAL"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE CHEAPEST FIX"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMALL STOMACH, SMALL GAP"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the skinny advantage in the density game. Your stomach is small, which everyone treats as the curse. But density math favors the small stomach: you need fewer total calories to reach surplus, so a modest density upgrade closes your entire gap. Two spoons of oil, a bigger anchor portion, milk instead of water in the oats, and a skinny guy's day gains five hundred calories without a single extra bite of volume. The big eater must find volume. You only need richness. Your small stomach is not the problem. It is the reason the cheapest fix in nutrition works best on you.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "check": 3,
+   "exercise": "BENCH DIPS",
+   "music": "drive",
+   "narration": "We train, then we anchor. Four rounds of bench dips, thirty seconds on, thirty off, full range, chest tall. After this, you owe yourself the densest plate of your week. Earn it first.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FAT IN, NOT BESIDE"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NO ANCHOR, NO MEAL"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "WATERY COOKING"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "UNCHECKED PORTION DRIFT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Fix the five mistakes in order. One: cook anchors in their fat, not beside it; oil in the rice water, butter through the pasta. Two: retire the fear of fats; a spoon of oil is a tool, not a sin. Three: no anchor, no meal; every plate gets its rice, pasta, oats, or bread before anything else is served. Four: weigh the anchor portion once a week to catch the drift. Five: choose anchors you genuinely like and rotate two or three so none becomes a chore. The plate you repeat three hundred times a year is your real diet. Make that one plate dense, and the surplus stops depending on motivation.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR PLATE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN REWEIGH",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR PLATE"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DENSITY, NOT APPETITE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Read your plate. Under five hundred: your dinner is a maintenance plate in disguise, and density fixes, not bigger appetites, are your answer. Five to seven hundred: the plate works on good days only; one more anchor upgrade gives you margin. Above seven hundred: your anchor system is sound, so look at breakfast or consistency for your missing calories. Retest in thirty days: same meal, same scale, new number. Comment your plate's real calorie count and your anchor of choice. The honest plates start the gaining.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A PLATE THAT COUNTS"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same dinner, same scale. Bring me a plate that counts as much as it fills. Subscribe, and keep today's plate number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "calorie density",
+  "cheap calories",
+  "weight gain foods",
+  "rice and oats",
+  "hardgainer diet",
+  "calorie anchors",
+  "eat more cheap"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_farmer_carry.webp",
+  "big": "700 KCAL",
+  "hook": "ONE HONEST PLATE"
+ },
+ "title": "5 cheap calorie anchors Mistakes That Are Destroying Your calorie density",
+ "v5": true
+}

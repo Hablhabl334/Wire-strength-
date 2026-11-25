@@ -1,0 +1,410 @@
+{
+ "badge": "EP 572 - THE 20-METER TRUTH",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE POWER CHAIN",
+  "YOUR VERDICT"
+ ],
+ "description": "Not the truth about your muscles. The truth about your power: how much of your strength survives contact with speed. Twenty meters will tell it, link by link, and the reading is more useful than any compliment your mirror has offered.",
+ "hashtags": [
+  "20 meter sprint",
+  "total leg power",
+  "the truth",
+  "sprint test",
+  "power chain"
+ ],
+ "id": "572",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWENTY METERS, TWO MARKERS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEST OF THREE, FULL RECOVERY"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "YOUR TIME"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STRENGTH VERSUS POWER"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR TIME SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Twenty meters of flat ground, two markers, a stopwatch. Standstill start, one foot forward, leaning in. Sprint the whole distance at full effort and record the time. Three attempts, complete recovery, best honest time counts. That time is your number today, and this episode is about what it tells the truth about. Not your muscle, which has had plenty of press. Not your effort, which nobody can measure. Your power: the actual rate at which your legs can deliver work while moving at speed, which is a different and rarer quantity than strength. Strength is what you can move slowly. Power is what survives the transition to fast. Many strong athletes discover, over twenty meters, that most of their strength did not survive the trip. The distance is a truth serum with lane markers. Keep your time safe. At the end, I will read you what it said.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRENGTH THAT STAYS HOME"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "POWER THAT TRAVELS",
+     "pos": "br",
+     "text": "UNDER 3.0"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A WORK LIST, NOT A SENTENCE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LINK BY LINK"
+    }
+   ],
+   "big": "3.2 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE TRUTH LINE FOR TWENTY METERS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the truth line, around three point two seconds for twenty meters from standing, offered as a guide. Slower than three point five, and the finding is usually this: strength that stays home. The legs own force they cannot spend at speed, because spending at speed requires the force to arrive inside shrinking ground contacts, organized, aimed, elastic, and any weakness in that delivery chain taxes the total. Under three seconds, the opposite truth: power that travels, a system whose strength shows up at velocity, which is the only place sport ever asks for it. Notice the mercy hidden in this test. It does not grade your body. It grades your delivery chain, and chains are made of links, each of which can be identified and improved. The truth about your leg power is not a sentence. It is a work list, and this episode reads it to you in order.",
+   "section": "THE NUMBER",
+   "sub": "over 3.5 sec: strength that stays home - under 3.0: power that travels",
+   "type": "card"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The slowest exchange sets it.",
+      "The baton must never drop."
+     ],
+     "pos": "tr",
+     "title": "A RELAY, NOT A SUM"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TIMING, SURFACE, THEN MUSCLE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE RELAY'S HONEST PACE"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TIMED AT LAST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at power's anatomy honestly. A stride at speed is a relay run in two-tenths of a second per contact: the hip extensors hurl the thigh down and back, the quads manage the knee's opening and the landing's first instant, the calf and Achilles convert the whole chain's work into a final elastic strike, and the hip flexors reload everything for the next exchange. Total leg power is the relay's speed with the baton never dropped. This is why power cannot be read off a squat or a photograph. A chain's output is set by its slowest exchange, and exchanges are timing events run by nerves, on surfaces built by tendons, powered by muscles in that order of fragility. The twenty meters times the relay, not the runners. Your number today is the relay's honest pace, possibly the first time anyone has ever timed it.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRENGTH DECAYS WITH SPEED"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "20M TIME",
+       95,
+       "cyan"
+      ],
+      [
+       "GYM LIFTS ALONE",
+       40,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT PREDICTS GAME SPEED"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE DIRECT READING"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The laboratory truth about power is that it decays along predictable fault lines. Force-velocity research shows that as movement speed rises, the force muscles can produce falls steeply, and athletes differ enormously in how much of their strength survives at sprint speeds. Those who retain the most share trainable traits: fast motor unit recruitment, stiff tendons that return energy inside the contact window, and coordination that wastes nothing on internal friction. Testing bodies from professional sport confirm the practical version: twenty-meter times predict game speed better than any gym lift, because the game is played at the twenty-meter's speeds, not the squat rack's. Your time today therefore has a claim no other number in this season can make. It is the closest thing to a direct reading of the only strength your life at speed will ever use.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SUSPECT THE RELOAD"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TAXED BY A SLOW CYCLE",
+     "pos": "br",
+     "text": "EVERY STRIDE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PUSHES WAITING ON DELIVERIES"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE QUIETEST LINK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One fault line deserves its own examination: the reload. Between ground contacts, your swing leg must travel from behind your body to in front of it, and the time that journey takes sets how soon the next power stroke can begin. Slow reloads, usually sleepy hip flexor nerves, stretch the whole cycle, and the athlete experiences it as a mysterious ceiling: pushing harder changes nothing, because the pushes are waiting on deliveries. The twenty meters exposes the reload mercilessly, since twenty meters is long enough for a slow cycle to tax every stride and short enough that the tax is visible in one number. If your time stalls while your strength climbs, suspect the reload before anything else. The chain's quietest link is often its slowest. Coaches who time segments often find the reload guilty in a specific disguise: the athlete's stride lengthens late but his rate quietly falls, so the two cancel and the total barely moves while fitness improves. It is a frustrating plateau with a precise address. Ten seconds of maximum-rate knee drives, three times a week, is the smallest intervention in this season, and for the reload-limited athlete it is worth more than another month of strength.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FEWER KILOGRAMS TO MOVE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "POINTS FOR APPEARANCES",
+     "pos": "br",
+     "text": "ZERO"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "INCORRUPTIBLE, IN YOUR FAVOR"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A STORY YOU WILL ENJOY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the truth-telling business is that your chain has less to carry and less to hide. Power over twenty meters is force delivered per kilogram moved, and your kilograms are few, so honest delivery posts numbers that embarrass heavier athletes whose strength is larger and whose delivery is worse. The test is also incorruptible in your favor: it cannot see your arms, your chest, or your weight class. It sees a light system, accelerating, and reports the system's quality with a stopwatch's indifference to narrative. Athletes spend careers looking for a test that grades what matters and ignores what does not. For the skinny athlete, the twenty meters is that test, and its truth, once your chain is organized, is a story you will enjoy hearing.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "20M SPRINTS",
+   "music": "drive",
+   "narration": "Now we tell the truth together, at speed. Five twenty-meter sprints, full intent, complete recovery between them. Every link, every stride, baton never dropped.",
+   "rest": 60,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 15
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PROTECT THE FIRST EXCHANGE"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "UNFOLD OVER TEN STEPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN THE RELOAD EXPLICITLY"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP THE SPRINGS HONEST"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FIXED LINK BY LINK"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for a chain that tells better truths. Step one: protect the start, falling start, maximum voltage, because a relay that drops the baton at the first exchange never recovers the loss. Step two: unfold patiently through the transition, ten steps of gradual rising, so the middle strides keep their length and their aim. Step three: train the reload explicitly once a week, ten-second knee drive bursts at maximum rate, because the quietest link deserves its own session. Step four: keep the springs honest with short-contact hops and heavy calf work on alternate days, so the final strike of each contact returns its share. Step five: test monthly, identical conditions, and film one run to read which link the time is blaming. Chains are fixed link by link, and a month of links is a different chain. The stopwatch will notice before the mirror does.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TRAINABLE HALF"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "REVISED FOR LINK-FIXERS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the truth, as read. Over three point five seconds: your strength is real and your delivery is not yet, which is the most encouraging truth this test tells, because delivery is the trainable half. Between three point five and three point two: the chain conducts with losses, and your work list is written in the chapters, start, transition, reload, springs. Under three point two: power that travels, a conducted system in a light frame, and the truth about your legs is better than the truth about most. Put your time in the comments, just the number, best of three, honest start. Retest in thirty days, same twenty meters, same surface. The truth keeps its books in seconds, and it revises them for anyone willing to fix links.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER TRUTH"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same twenty meters, same flat ground, bring me a faster truth. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "20 meter sprint",
+  "leg power",
+  "sprint truth",
+  "power chain",
+  "acceleration",
+  "sprint testing",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "20M TIME",
+  "hook": "NO COMPLIMENTS HERE"
+ },
+ "title": "Your 20-Meter Time Reveals the Truth About Your total leg power",
+ "v5": true
+}

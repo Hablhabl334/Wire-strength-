@@ -1,0 +1,414 @@
+{
+ "badge": "EP 559 - SINGLE-LEG FIX",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "YOUR VERDICT"
+ ],
+ "description": "Two-legged squats let your strong leg do the work and your weak leg do the watching. Single-leg training done right puts the load where the adaptation lives: on the knee tendon. Take the test, get your number, and train the cable directly.",
+ "hashtags": [
+  "single leg strength",
+  "knee tendons",
+  "split squats",
+  "tendon training",
+  "leg day"
+ ],
+ "id": "559",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG WORKS"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SIXTY SECONDS PER LEG"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "ONE PER LEG",
+     "pos": "tr",
+     "text": "2 NUMBERS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE SMALLER NUMBER RULES"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP THEM SAFE"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "One leg works today. | Stand before a box. | Knee height, roughly. | One foot planted. | Other toe behind you, | resting lightly only. | Sink down slowly. | Front knee bending. | Thigh near parallel. | Drive back up. | That is one rep. | Count the clean ones. | Sixty seconds, one leg. | Then switch sides. | Count that leg too. | The smaller number rules. | It is your truth. | Write both numbers down. | Keep them somewhere safe. | At the end here | I tell you plainly | what your tendon needs.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PARTNERSHIPS HIDE FREELOADERS"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "THROUGH ONE CABLE",
+     "pos": "br",
+     "text": "100%"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE FIRST ACCURATE INVOICE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NOWHERE TO HIDE"
+    }
+   ],
+   "big": "LOAD SHARED",
+   "card": "bignum",
+   "check": 1,
+   "label": "ONE LEG, ONE TENDON, FULL TRUTH",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the frame for everything that follows. A two-legged squat is a partnership, and partnerships hide freeloaders: your strong leg can quietly produce sixty percent of the force while the weak leg contributes forty and a convincing performance. The bar still goes up. The workout still counts. The weak tendon still gets underpaid. Single-leg work dissolves the partnership. One leg, one tendon, your entire bodyweight arriving through a single cable, with the other foot allowed only to balance, never to help. That is why this test feels honest in a way squats never do, and why the training built on it changes legs that years of two-legged work left uneven. Your smaller number today is not an embarrassment. It is the first accurate invoice your weak side has ever been able to send.",
+   "section": "THE NUMBER",
+   "sub": "two-leg work hides the weak side - single-leg work grades it",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "One cable carries everything",
+      "in single-leg work."
+     ],
+     "pos": "tr",
+     "title": "THE WHOLE TRANSMISSION"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STRAIN IS THE SIGNAL"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EVERY CABLE, ITS OWN LESSON"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EDUCATION, NOT RUMORS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the front of the knee. The patellar tendon is a short, thick cable running from the kneecap to the shin, and it transmits every newton your thigh produces. In a two-legged squat that cable shares its load with its twin. In single-leg work it carries the whole transmission alone, at forces that research on split squats and step-downs shows can rival heavy barbell work, relative to the tissue involved. Tendons are not passive ropes in this story. They are living tissue that senses strain and answers it, laying down collagen along the line of pull, thickening and stiffening across weeks of honest loading. But the answer is addressed to the tendon that received the load. Train two legs together and the strong side's tendon gets the education while the weak side's gets the rumor. Train one leg at a time and every cable gets its own lesson, in full, at its own level.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WEAK SIDE IMPROVES FASTER"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "WEAK SIDE",
+       100,
+       "cyan"
+      ],
+      [
+       "STRONG SIDE",
+       55,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "EARLY GAINS BY SIDE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FIRST, ALONE, HONEST LOAD"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The research on unilateral training contains a gift for the imbalanced: the weaker side improves faster. When studies put subjects on single-leg programs, the lagging limb typically gains strength at a noticeably higher rate than the leading one, because it is further from its ceiling and finally receiving full-dose work. There is a second phenomenon worth knowing, called cross-education: training one leg produces a small strength gain in the untrained other leg, purely through the nervous system. It is real, it is measurable, and it is also small, which is why it can never substitute for loading the weak tendon directly. The science, in one sentence: the gap closes fastest when the weak side works first, works alone, and works at its own honest load. Your two numbers today are simply the before photograph of that process.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "IT TRAINS THE STEERING"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF CORRECTIONS PER SET",
+     "pos": "br",
+     "text": "HUNDREDS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE DRIVER IS NEW"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SHAKY IS NOT WEAK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Single-leg work smuggles in a second training effect that two-legged work cannot offer: it trains the steering. Balancing on one leg while it produces force is a continuous negotiation run by the ankle and hip, hundreds of micro-corrections per set, each one a small nerve lesson. This is why single-leg strength transfers so well to sport and to life, where force almost never arrives on two planted feet with a barbell's permission. It is also why the early reps feel shaky in a way that has nothing to do with strength. The engine is fine. The driver is new. Give the driver a few weeks of practice and the same legs post numbers that looked impossible in week one, without the muscle changing at all. The same steering explains a pattern every coach has seen: the athlete whose two-legged squat is enormous and whose single-leg work is ordinary. The squat never asked for steering, so the steering never developed, and the strength sits there like a powerful engine in a car with loose wheels. Single-leg training tightens the wheels. It rarely takes long before the driver and the engine start posting numbers that agree with each other.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "AFFORDABLE LOAD, OFTEN APPLIED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A WEEK, RECOVERABLY",
+     "pos": "br",
+     "text": "SEVERAL TIMES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "APPOINTMENTS VERSUS LIFESTYLE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE DOSING ADVANTAGE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in single-leg training is the dose, again, and it is worth hearing from the tendon's side this time. A heavy athlete's single-leg work is a major event: enormous forces, long recoveries, a knee that files complaints. Your bodyweight through one leg is a serious but affordable load, one you can apply in short sessions several times a week, and tendon remodeling runs on exactly that schedule of frequent, moderate, repeatable strain. The heavy lifter trains his tendons in appointments. You train yours in a lifestyle: stairs one leg at a time, split squats while dinner cooks, a set before the shower. Months of that quiet frequency build cables that gym intensity alone struggles to match. Light is not the limitation here. Light is the dosing advantage. There is a confidence dividend too, quieter than the numbers: a leg you trust changes how you move through the world, quicker on stairs, surer on rough ground, less negotiating with every step.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "check": 3,
+   "exercise": "SPLIT SQUATS",
+   "music": "drive",
+   "narration": "Now we load the cable together. Three rounds of split squats, weak leg first, slow down, strong up. The weak side sets the reps. Both sides do them.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEAK LEG FIRST, ALWAYS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WEAK SIDE SETS THE DOSE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLOW DOWN, PAUSE, DRIVE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KNEE TRACKS OVER TOES"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DEPTH, THEN LOAD"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol that trains the knee tendon instead of just the legs. Step one: weak leg first, always, while your nerves are fresh and your focus is sharp; the side that needs the lesson gets the best teaching conditions. Step two: let the weak side set the dose; whatever it completes with clean form is what the strong side repeats, no more, so the gap closes instead of widening in disguise. Step three: slow the lowering to three seconds and pause at the bottom; tendons thicken under time at high strain, and the pause removes momentum's forgery from the rep. Step four: track the knee over the toes on every rep, because the tendon adapts along the line it is loaded, and a caving knee teaches it a crooked line. Step five: progress by depth, then by load, a backpack before a barbell, and if the front of either knee complains sharply, ease off and see a professional if it persists. Eight weeks of this and the smaller number is not smaller anymore.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDERTRAINED, NOT DAMAGED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT BOTH NUMBERS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BOTH LEGS AUDITED"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your two numbers. Close together: your tendons share your life evenly, a genuinely valuable asset; keep one single-leg session a week and it stays that way. A visible gap: the most common result and the most fixable, because the weak side is not damaged, just undertrained, and undertrained tissue responds like a student who finally got a teacher. A large gap with a wobbling weak side: start the protocol gently, balance first, load second, and let the steering catch up before the strain climbs. Put both numbers in the comments, weak leg first, just the pair, honest sixty seconds. Retest in thirty days, same box, same rules. The tendon keeps its books per leg, and it is time both of yours were audited.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SMALLER GAP"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same box, one leg at a time, bring me a smaller gap. Subscribe, and keep both numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "single leg training",
+  "knee tendon",
+  "patellar tendon",
+  "split squat",
+  "unilateral training",
+  "tendon training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "1 LEG",
+  "hook": "NOWHERE TO HIDE"
+ },
+ "title": "Stop Doing single-leg strength Wrong: Train Your knee tendons Instead",
+ "v5": true
+}

@@ -1,0 +1,401 @@
+{
+ "id": "646",
+ "v5": true,
+ "title": "Retest Day: What Your New age benchmarks Number Proves About Your benchmark data",
+ "description": "Retest day with a wider lens: today your new push-up number gets placed inside the age benchmark data. What does your number prove about where you stand among men your age, and what happens next season? Bring your old max. Bring your age. Leave your excuses.",
+ "tags": [
+  "age benchmarks",
+  "push-up number by age",
+  "retest day",
+  "benchmark data",
+  "age group strength",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "retest day",
+  "age benchmarks",
+  "benchmark data",
+  "push-ups",
+  "calisthenics",
+  "90 days later"
+ ],
+ "category": "retests",
+ "badge": "EP 646 - AGE BENCHMARKS",
+ "checklist": [
+  "THE RETEST",
+  "THE NUMBER",
+  "THE DATA",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_front.webp",
+  "big": "VS AGE",
+  "hook": "AGE BENCHMARKS",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Retest day, wider lens. | Ninety days ago | your push-up max | was just a number. | Today it gets compared. | Same floor. | Same hands, same width. | Chest to fist height. | Body in one line. | Clean reps only. | No sagging for extras. | No bouncing for pride. | When form breaks, stop. | That is your NEW number. | Got it? | Write your age beside it. | Honestly, no rounding down. | At the end, | I place your number | inside the age benchmarks | and tell you | what it proves.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "RETEST DAY, WIDER LENS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "CLEAN REPS ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "AGE BESIDE THE NUMBER",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "THE DATA SPEAKS NEXT",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR NUMBER",
+   "label": "WHAT THE NUMBER MUST BEAT",
+   "sub": "the average for your age - not the internet's best",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the only comparison that was ever fair: your number against the average strict push-up max for men your age. Benchmark datasets collected from thousands of tested adults draw a consistent picture. The average falls steadily with each decade, from the low twenties in a man's twenties to the low teens in his forties and single digits beyond fifty, because most men stop training long before their bodies stop responding. Beating your age average is not a participation trophy. Statistically, it places you ahead of the majority of your generation. Doubling it places you in a small, stubborn minority that this channel exists to recruit.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "SINGLE DIGITS",
+     "label": "AVERAGE PAST FIFTY, UNTRAINED",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "BEAT YOUR AGE, NOT THE INTERNET",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "A SMALL, STUBBORN MINORITY",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at what your number proves physiologically, because the benchmark is secretly a systems test. A strict push-up max at any age requires chest and triceps tendons stiff enough to transmit force rep after rep, a nervous system that can recruit and pace, and joints healthy enough to allow the work. The age averages fall mostly because those systems go untrained and quietly detrain, not because birthdays directly delete push-ups. Your number, measured against the data, proves your systems are not detraining. They are either holding against the current or swimming up it, and at most ages, merely holding is already a top-quartile achievement. One more detail in the benchmark data is worth your attention, because it flatters your method. The datasets separate men who test fresh from men who test as part of training programs, and the program men outperform their age averages by margins that grow with every year of age. In plain terms: the older the bracket, the more training matters relative to youth. At twenty-five, talent can still impersonate fitness. At forty-five, there is no impersonation left, only training and its absence, standing in a line, holding numbers.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "THE BENCHMARK TESTS SYSTEMS",
+     "lines": [
+      "Tendons. Nerves. Joints. Pacing."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_pushup_45_mid.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "HOLDING IS TOP-QUARTILE",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "DETRAINING",
+     "label": "IS THE DEFAULT YOU REFUSED",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_weak.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now read your two numbers against the data like a scientist. There are two gaps on the table today. The first is your personal gap: new max minus old max, the ninety-day story. The second is your benchmark gap: your max minus your age average, the generational story. A man can win either gap and lose the other, and both results are useful. Winning the personal gap while trailing the benchmark means the trajectory is right and the destination is a matter of seasons. Winning the benchmark while your personal gap stalls means you are defending a high position, and defense is a legitimate season. Winning both is the full verdict this retest day was built to deliver. One more gap deserves a line in the reading: the gap between your number and your younger self's number, if you know it. Men over thirty often carry a ghost max from school or service, and it haunts retests unfairly, because that ghost was measured with schoolboy standards and a schoolboy's recovery. Retire the ghost kindly. Your comparable history starts the day this channel's standards started, and by those standards, the only direction in your book is the one you have been traveling all season.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "YOUR MAX",
+       27
+      ],
+      [
+       "AGE AVERAGE",
+       14
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "TWO GAPS ON THE TABLE",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "TRAJECTORY VS POSITION",
+     "lines": [
+      "Both stories are useful."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "WINNING BOTH IS THE VERDICT",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "elbow_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The benchmark data carries one more lesson, hidden in its lower rows. The averages do not fall off a cliff at forty or fifty. They slope, gently, year by year, which means the men inside those averages mostly did not lose their strength in an event. They leaked it, a rep a year, through skipped weeks that became skipped years. The encouraging inversion is that the slope can be climbed the same way it was descended: a rep at a time, a season at a time. Your ninety days just demonstrated the climbing rate your body is capable of. Project it honestly and the benchmark table stops being a judgment and becomes a schedule you are beating. And the benchmark's deepest lesson is about the men not in it. Every dataset of tested adults silently excludes the men who would not test at all, and they are the majority at every age. By standing for a max today, under frozen standards, on camera or off, you joined the tested minority whose numbers exist. Existence precedes rank. Most of your generation has no number to defend, improve, or be proud of. You have two, ninety days apart, and a gap that argues for you.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "LEAKED A REP A YEAR",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "ren_pushup_bottom.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "YOUR CLIMB RATE",
+     "label": "IS NOW MEASURED",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "THE TABLE BECOMES A SCHEDULE",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front_top.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe for benchmark day is about which men the data describes. The age averages are not measurements of human limits. They are measurements of human habits, collected from populations that mostly stopped training. Comparing yourself to them is not lowering the bar. It is revealing what the bar actually is for men who live ordinary modern lives: chairs, cars, screens, and no reason to push anything heavier than a door. You live in the same world and press against it weekly. Your number proves the world is not the deciding variable. The habit is, and habits, unlike ages, can be chosen every single morning.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "DATA MEASURES HABITS, NOT LIMITS",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "MEN WHO STOPPED",
+       85
+      ],
+      [
+       "MEN STILL PRESSING",
+       15
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "THE HABIT IS THE VARIABLE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "CHOSEN EVERY MORNING",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "PUSH-UP SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "asset": "ren_pushup_mid.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we press together like men beating a benchmark. Four rounds: forty seconds of strict reps, twenty of rest. Fist height, straight line, two in reserve. This is the habit, happening live."
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_bottom.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-season protocol is written by your benchmark gap. If you trail your age average, the season's mission is singular: close that gap with two pressing days a week and monthly maxes, and ignore every other test until it closes. If you sit at the average, one more consistent season historically doubles the distance, because the average keeps drifting down while you climb. If you already double it, your season is about defense and depth: pause reps, slow negatives, and joint care that keeps you in the minority for decades. The mistakes to retire: comparing against the wrong decade, sandbagging the max to protect a streak, and checking the benchmark weekly. Generational gaps are read seasonally. One weekly detail keeps your benchmark honest across the years: the annual standard audit. Once per season, re-read the test rules before you test, out loud, like a referee. Standards drift a degree at a time: a centimeter of depth here, a bounce there, and after three seasons the benchmark is grading a different exercise. The men whose decade-long data means anything are the men who refereed themselves like strangers.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "WRONG DECADE COMPARISONS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "SANDBAGGING THE MAX",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "WEEKLY BENCHMARK CHECKS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "YOUR GAP WRITES THE SEASON",
+     "lines": [
+      "Trail, match, or double: train accordingly."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "PROVEN",
+   "label": "THE AGE BENCHMARK VERDICT",
+   "sub": "comment your number and your age",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So what does your new number prove? If it beats your age average, it proves your systems are younger than your paperwork: tendons, nerves, and habits performing above your generation's line. If it doubles the average, it proves you belong to the minority that aging statistics cannot describe, because they were collected from men who stopped. If it trails the average, it proves only where the climb starts, and your ninety-day gap proves the climb is real and underway. Comment your number and your age below, and set the next benchmark retest for the end of next season. The data will age. So will you. The gap is yours to aim.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "ABOVE THE LINE",
+     "label": "SYSTEMS YOUNGER THAN PAPERWORK",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "THE GAP IS YOURS TO AIM",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT NUMBER AND AGE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT BENCHMARK: NEXT SEASON",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_top.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your age is a fact. Your number is an argument, and today the argument won ground. Keep pressing, keep the data honest, and bring me a wider gap next season. Subscribe, because benchmarks are beaten in public here. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "NEXT BENCHMARK NEXT SEASON",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "THE ARGUMENT WON GROUND",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

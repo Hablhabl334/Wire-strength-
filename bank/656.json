@@ -1,0 +1,384 @@
+{
+ "badge": "EP 656 - AGE-GROUP: THE CHANGE",
+ "category": "retests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "REAL OR NOISE",
+  "YOUR VERDICT"
+ ],
+ "description": "Last season you got a rank for your age bracket. This time the question is harder: did it actually change? Re-run the age-group push-up test under audit conditions and separate real adaptation from good days, bad days and generous counting.",
+ "hashtags": [
+  "push up test",
+  "retest results",
+  "fitness benchmarks",
+  "calisthenics",
+  "push up max"
+ ],
+ "id": "656",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE THIRD NUMBER"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME MORNING RULES"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "STORY, TREND, PROOF",
+     "pos": "tr",
+     "text": "3 NUMBERS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP ALL THREE"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "The change audit begins. | Same age-group test. | Push-up max, clean reps. | You have two old numbers. | Your very first max. | And last season's rank. | Today makes the third. | Same floor, same morning. | Chest to fist height. | Lockout on every rep. | No sagging, no rushing. | Stop when form breaks. | Count it out loud. | Write it down immediately. | Three numbers tell a story. | One number is weather. | Two numbers are a trend. | Three numbers are proof. | Did the rank actually change? | At the end we separate | real change from noise. | Keep all three safe. | The audit needs them all.",
+   "poses": [
+    "ren_pushup_front_top.webp",
+    "ren_pushup_front.webp",
+    "ren_pushup_front_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY MAX HAS WEATHER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE NOISE BAND",
+     "pos": "br",
+     "text": "\u00b13 REPS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "4+ REPS = REAL CHANGE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WEATHER VS CLIMATE"
+    }
+   ],
+   "big": "\u00b13 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE NOISE BAND AROUND EVERY MAX",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Before anyone celebrates or mourns, the audit installs its most important instrument: the noise band. A push-up max is not a laser measurement. Sleep, food, stress, warm-up and honesty itself move the count by roughly three reps in either direction on any given day, even in a trained man testing carefully. That means a change of one or two reps between seasons is not change. It is weather. A change of four or more clean reps, under matched conditions, is climate: something structural actually moved. This band is not an excuse machine. It is the opposite. It stops you quitting over a bad Tuesday, and it stops you framing a good morning as a transformation. Read today's number through the band, and only then ask what your bracket says.",
+   "section": "THE NUMBER",
+   "sub": "inside the band: call it level - outside it: the change is real",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Coordination first, cables second.",
+      "New muscle third, and modest."
+     ],
+     "pos": "tr",
+     "title": "WHAT REAL CHANGE IS MADE OF"
+    },
+    {
+     "asset": "ren_pushup_back_top.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "REP QUALITY DECAYS SLOWER"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WIRING SPENDS DIFFERENTLY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "So when the change is real, what physically changed since the last audit? The honest answer is: less muscle than you hope, more system than you think. Between audits separated by a season, the biggest mover is usually coordination under fatigue: your nervous system has learned to keep recruiting fresh fibers as the first ones tire, so the rep quality decays slower and the max arrives later. The second mover is tendon behavior at the sticking point, the cables wasting less force in the two inches where maxes go to die. Actual new muscle is third, real but modest, a supporting actor. This ordering is why two men can gain the same five reps with completely different bodies: one bought wiring, the other bought tissue. Both are real change. They just spend differently later: wiring fades fast when training stops, tissue lingers. The audit cannot see which you bought, but your next layoff will tell you.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALLEST WORTHWHILE CHANGE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "NOISE",
+       30,
+       "red"
+      ],
+      [
+       "REAL CHANGE",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "READING THE CHANGE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NO DETECTABLE CHANGE IS DATA"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRUST THE TRIO"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Benchmark researchers handle this exact problem with a concept worth stealing: the smallest worthwhile change. In testing science, a change only counts when it exceeds both the measurement noise and the size that would matter in practice. For a push-up max at your level, that works out to roughly fifteen percent. Below it, the correct scientific verdict is not failure. It is: no detectable change, keep training, retest later. That sentence has saved more athletes than any supplement, because the alternative, treating noise as signal, makes men change programs every month and arrive nowhere with great record-keeping. Your bracket rank can also move without you moving at all, remember: the table describes a population, and populations drift. Your three numbers, though, are yours alone, and they cannot drift. Trust the trio over the table. There is one more use for the trio that nobody expects: it teaches you your personal noise band. The spread between your best and worst matched-condition audits is your signature variance, and once you know it, no single test can ever lie to you again, in either direction.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_45_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE THIRD-TEST TRAP"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME COUNTING VOICE",
+     "pos": "br",
+     "text": "SAME SCRIPT"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PROCEDURE KILLS THE NARRATIVE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "There is a trap built into every third test, and it is psychological, not physical. The first test is innocent. The second is hopeful. The third carries a narrative: you arrive needing it to prove the season worked, and need is a performance drug in both directions. It can buy two reps of pure stubbornness, or cost five reps of quiet self-sabotage, and neither shows up in the logbook. The audit's defense is procedure. Same warm-up script. Same counting voice, out loud. Same stopping rule, form breaks, not feelings. When the procedure is identical, the need has nowhere to hide, and the number that survives is the number that is true. Run today's test like a machine that does not care, so the result can be trusted by the man who does.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MONTHLY AUDITS ARE FREE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "MAKE THE TREND UNDENIABLE",
+     "pos": "br",
+     "text": "6 NUMBERS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DATA BEATS FOG"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOUR FILM, HIS PHOTOGRAPH"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the change game is statistical, and it is large. A light man can retest often: a push-up max at your weight costs your joints so little that monthly audits are free, where a heavy man must space his like heavy deadlift attempts. Frequent honest measurement is the entire engine of this season, because the noise band shrinks with every matched data point you collect. Three numbers beat two. Six numbers make the trend undeniable and the bracket almost irrelevant. The heavy lifter gets one blurry photograph a season. You get a film. Men do not fail this process because their bodies refuse to change. They fail because their data is too sparse to prove the change that is already happening, and they quit inside the fog. Your build keeps the fog thin.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Now we fund the next change together. Three rounds of push-ups, bottom pause on every rep, tempo honest. The audit is watching, so make the reps countable.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CHANGE ONE LEVER ONLY"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MINI-TEST AT 45 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RAISE THE FLOOR"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "REWRITING THE WHOLE PROGRAM"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol for the coming season, written for a man with three data points. First: pick the variable your trio indicts. If the gains stalled inside the noise band for two audits, the program, not the effort, is the suspect: change one lever, leverage or tempo or weekly volume, never all three, or the next audit cannot name the cause. Second: add a mid-season mini-test at forty-five days, half the ceremony, same conditions, so the fog never gets a full season to grow. Third: raise the floor, not the ceiling. Your worst weekly session should get slightly less bad each month; maxes are built by floors. Fourth: keep the log boring. Date, conditions, number. The men who keep boring logs are the men whose fourth audit surprises them.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEVEL IS AN ADAPTATION TOO"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE FOURTH AUDIT",
+     "pos": "br",
+     "text": "90 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT ALL THREE NUMBERS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So: did it actually change? If today's number beats the last audit by four or more clean reps, yes, structurally, and your bracket rank almost certainly moved with it. If it sits inside the band, the honest verdict is level: the system held its gains, which after the beginner phase is itself the adaptation most men never manage. If it fell outside the band downward, do not rewrite your life tonight. Check the conditions, check the season's attendance, and let the next mini-test arbitrate. Put all three numbers in the comments, in order. In ninety days the fourth audit runs, and a four-number trend is the closest thing to certainty this sport sells. Whatever the trio says, say it back plainly in the log: changed, level, or fell, with the conditions beside it. Plain words are the audit's whole technology. Euphemisms are how the next season gets built on fog.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 90 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FOURTH NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Ninety days from now, same floor, same fist, same morning, same counting voice. Bring me a fourth number and the trend becomes undeniable. Subscribe, and keep the trio safe. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "push up test",
+  "age group fitness",
+  "retest results",
+  "push up benchmarks",
+  "did it change",
+  "calisthenics progress",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_front_top.webp",
+  "big": "DID IT?",
+  "hook": "THE CHANGE AUDIT"
+ },
+ "title": "Your Age-Group Test: Did It Actually Change? (Your benchmark data Results)",
+ "v5": true
+}

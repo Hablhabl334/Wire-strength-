@@ -1,0 +1,410 @@
+{
+ "badge": "EP 565 - HIP FLEXOR OVER MUSCLE",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NERVES",
+  "YOUR VERDICT"
+ ],
+ "description": "Half of your stride is performed by muscles you cannot see in the mirror, fired by nerves you have never trained. Count your knee drives, and learn why the wiring in front of your hip outranks muscle in the race to get your leg forward.",
+ "hashtags": [
+  "hip flexor nerves",
+  "knee drive",
+  "stride rate",
+  "sprint speed",
+  "iliopsoas"
+ ],
+ "id": "565",
+ "scenes": [
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THIGH TO PARALLEL"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TEN SECONDS AT FULL RATE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "KNEE COUNT"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HALF THE CYCLE, UNTRAINED"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR COUNT SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand tall, arms set like a sprinter's. On the clock, drive your knees up alternately, thigh to parallel, as fast as you can for ten seconds, staying in place, light on your feet. Count every knee that reaches parallel. That total is your number today. Now think about what you just asked of your body. The down-and-back push of a stride, the part everyone trains, is only half the cycle. The other half, the leg swinging forward and up to begin again, belongs to the hip flexors, muscles buried deep against your spine and pelvis, invisible in every mirror you own. And like every muscle, they move at the speed their nerves command. This episode argues that those nerves matter more than muscle in the return half of running, which means they matter more than muscle in half of everything your legs do at speed. Keep your count safe. At the end, I will tell you what it grades.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SLOWEST LINK SETS IT"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "THE CYCLE IS COMPLETE",
+     "pos": "br",
+     "text": "34+"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A CEILING SET IN SILENCE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE LINK NOBODY TRAINS"
+    }
+   ],
+   "big": "30 DRIVES",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN A PUSH AND A CYCLE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for ten seconds of knee drives. Thirty is where a push becomes a cycle. Under twenty-four, your stride is one strong half waiting on a slow one, and no amount of additional push power can raise your rate, because the leg simply has not returned in time to use it. Over thirty-four, the return keeps pace with the push, and your speed is free to be limited by better problems. This is the arithmetic nobody teaches: stride rate is a chain, and a chain's speed is its slowest link's speed. The fitness world trains the link that photographs well, the glutes and quads of the push, and leaves the return to chance. Your count today is the first measurement of the link that has been setting your ceiling in silence.",
+   "section": "THE NUMBER",
+   "sub": "under 24 in 10 sec: the return is the ceiling - over 34: the cycle is complete",
+   "type": "card"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Spine to thigh, one muscle group.",
+      "It owns the return."
+     ],
+     "pos": "tr",
+     "title": "THE ONLY BRIDGE"
+    },
+    {
+     "asset": "ren_leg_swing.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BURSTS, NOT BULK"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE COUNT GRADES THE BLUR"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SITTING AT FULL EFFORT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the front of the hip, deep under everything you can see. The iliopsoas runs from the lower spine, through the pelvis, to the top of the thigh, the only bridge between your trunk and your leg. At sprint speed its job is violent and brief: as your foot leaves the ground behind you, the flexors must reverse the thigh's direction, decelerate its backward swing, and whip it forward fast enough to arrive before the next landing. That reversal is commanded in bursts, motor units recruited at high frequency and released just as suddenly, a nerve skill far more than a size skill. A large flexor with slow firing produces a stately swing, the runner who looks like he is sitting in a chair at full effort. A modest flexor with fast firing produces the bicycle-spoke blur of a sprinter. Your count graded the blur, not the bulk, because in the return half, bulk was never the variable.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REPOSITIONING IS SCARCE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "SWING SPEED",
+       95,
+       "cyan"
+      ],
+      [
+       "PUSH SIZE ALONE",
+       45,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT SEPARATES THE FASTEST"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A SOFTWARE PROBLEM"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Sprint science keeps returning to the same conclusion from different doors: at high speed, limb repositioning is the scarce resource. Force plates can measure enormous pushes from athletes who are not particularly fast, because their legs return too slowly to use the push often. Meanwhile the fastest athletes distinguish themselves in the swing phase, recovering the leg earlier, cycling sooner, spending more of each second in productive contact with the ground. Neural training studies complete the picture: brief maximal-frequency drills improve swing speed and stride rate without any change in muscle size, because the adaptation is in firing patterns, recruitment speed and the clean switching between flexors and extensors. The return half is a software problem. Muscle is the hardware it runs on, and your hardware was never the bottleneck the mirror claimed.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STABILIZERS IN DISGUISE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF CHAIR ORDERS",
+     "pos": "br",
+     "text": "10,000 HOURS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNDER ORDERS TO DO NOTHING"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "UPDATE THE JOB DESCRIPTION"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The hip flexors carry a second job that makes their sleepiness a whole-body issue: they are spinal stabilizers. Anchored to the lumbar vertebrae, they help hold your trunk's posture with every step and every hour of sitting. Modern life trains them in exactly one mode, shortened and quiet, folded in a chair, and a muscle trained all day to be quiet does not volunteer for violence at 6 pm. This is the deeper reason the knee drive test humbles fit people: their flexors are not weak, they are under a standing order to do nothing, issued by ten thousand hours of chairs. Breaking that order takes surprisingly little: brief, fast, deliberate firing, repeated across weeks, until the nervous system updates the muscle's job description from furniture to athlete.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A LIGHTER LEG TO WHIP"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "FASTER REVERSAL FOR YOU",
+     "pos": "br",
+     "text": "SAME BURST"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "QUICKEST IS OFTEN LIGHTEST"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FAVORITE BEFORE THE CLOCK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the return half is the lever itself. The flexors swing your leg, and the cost of swinging scales with the leg's mass and length of its load. Your leg is light, so each nerve burst buys a faster reversal than the same burst buys a heavy athlete swinging a bigger limb. Muscle mass on the leg is doubly expensive here: it must be carried by the push and whipped by the return. This is why the quickest-looking athletes are so often the lightest in the room, their legs cycling at rates the powerful cannot afford. The knee drive test is one of the rare athletic audits where the skinny entry is the favorite before the clock starts. All that was missing was a training plan addressed to the wiring, and you are holding it.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "HIGH KNEES",
+   "music": "drive",
+   "narration": "Now we address the wiring together. Four rounds of high knees, twenty seconds at maximum rate, tall and light, full rests between. Software updates are installed fresh.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BURSTS OF TEN SECONDS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REST FILES THE LESSON"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TALL, UNDER YOUR HIPS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ONE LOADED SESSION WEEKLY"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FREQUENCY OVER HEROICS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for a nerve-first knee drive. Step one: dose in bursts of ten seconds or less at maximum rate, because the firing quality you are buying lives in the opening seconds and fatigue spends it on sloppiness. Step two: rest forty seconds or more between bursts and never apologize for it; the rest is where the nervous system files the lesson. Step three: hold the posture that keeps the work honest, tall trunk, contacts under your hips, thighs reaching parallel; leaning back turns the drill into theater. Step four: once a week, add slow loaded marching or cable pull-throughs for the flexors' strength base, so the bursts have something to command. Step five: sprinkle the bursts across the week rather than stacking them into one heroic session; nerves learn from frequency, and ten seconds done crisply on four days beats a hundred tired seconds on one. Six weeks of this and the return half stops setting your ceiling in silence.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A CEILING NOT MADE OF MUSCLE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR COUNT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "READ AT LAST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your count, read as a wiring grade. Under twenty-four drives: the return half has been your ceiling, which is the most fixable ceiling in running, because it was never made of muscle. Twenty-four to thirty-four: the cycle is completing, and your gains now live in frequency and freshness, more crisp bursts scattered across more days. Over thirty-four: your flexor nerves fire like a sprinter's, in a frame the mirror underrates, and your speed is free to chase better problems. Put your count in the comments, just the number, honest ten seconds, thigh to parallel. Retest in thirty days, same rules, fresh legs. The hidden half keeps its books in drives per ten seconds, and it has been waiting years for someone to read them.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER COUNT"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ten seconds, same tall posture, bring me a faster count. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "hip flexors",
+  "knee drive",
+  "iliopsoas",
+  "stride rate",
+  "nerve training",
+  "sprint mechanics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "10 SEC",
+  "hook": "THE HIDDEN HALF"
+ },
+ "title": "Why Your hip flexor nerves Matter More Than Muscle (The knee drive Episode)",
+ "v5": true
+}

@@ -1,0 +1,401 @@
+{
+ "id": "635",
+ "v5": true,
+ "title": "Your New Dead Hang Time: Did It Actually Change? (Your grip tendons Results)",
+ "description": "Ninety days ago your dead hang time went on the record. Today you hang again and we read the results without flinching: did your grip tendons actually change, and by how much? Bring the old time. The new one is already waiting on the bar.",
+ "tags": [
+  "dead hang results",
+  "dead hang retest",
+  "grip tendon change",
+  "dead hang time",
+  "grip strength",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "dead hang",
+  "results",
+  "retest day",
+  "grip strength",
+  "calisthenics",
+  "tendon training"
+ ],
+ "category": "retests",
+ "badge": "EP 635 - DEAD HANG RESULTS",
+ "checklist": [
+  "THE RETEST",
+  "THE RESULT",
+  "THE CABLES",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_dead_hang_front.webp",
+  "big": "NEW TIME",
+  "hook": "HANG RESULTS",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you hung and timed it. | The bar kept your secret | until your fingers opened. | You wrote that time down. | Today the bar asks again. | Same bar. | Same grip, overhand. | Same chalk rules. | Jump up and settle. | Shoulders packed. | Body quiet. | Breathe slow through the burn. | No swinging for momentum. | No shifting your grip. | When your hands let go, | that is the NEW time. | Got it? | Stand it next | to the old one. | At the end, | we decide together | whether your cables truly changed.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME BAR, SAME RULES",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "SHOULDERS PACKED, BODY QUIET",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "NO GRIP SHIFTING",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEW TIME LOCKED IN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "THE GAP",
+   "label": "HOW TO READ A HANG RESULT",
+   "sub": "under +10 sec: noise - +30: real change - double: a new system",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Before you judge your new time, learn how hang results are actually read. A gain under ten seconds across ninety days is inside the noise band: sleep, skin, and mood can move a hang that much, so it proves nothing either way. Thirty seconds gained is real change, beyond anything a good day can explain. And a doubled time means the system itself is different now, not just better behaved. There is one more reading, the uncomfortable one. A shorter time after ninety days of training usually means the retest caught a fatigued system, because tendons do not un-adapt in a season. The bar reports your state today and your adaptation together, and your job is to separate them.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "+30 SEC",
+     "label": "REAL CHANGE, NO DEBATE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "UNDER +10 IS NOISE",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "SEPARATE STATE FROM ADAPTATION",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at the cables whose change we are auditing. From your forearm muscles, the flexor tendons run through the wrist and out to every finger, and a hang loads them with your entire bodyweight in pure tension. Tendon adaptation to that load follows a slow chemistry. Collagen synthesis rises after hard sessions, but collagen breakdown rises too, and for the first day or two the tendon is actually weaker. Net growth only wins across weeks of well-spaced sessions. That is why ninety days is the honest audit window: long enough for hundreds of small deposits to outrun the withdrawals. Your new time is the balance of that account, read out in seconds. One more detail deserves a place in the result, because hangers forget it. Your bodyweight is part of the test. If you gained three kilos of muscle this season and your hang still climbed, your tendons gained more than the clock shows, because they are holding a heavier man for longer. If you lost weight, the clock flatters you slightly and the honest reading discounts a few seconds. Weigh yourself on retest mornings and write it beside the time. Future you, reading the ledger, deserves the full entry.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "TENDONS KEEP A SLOW LEDGER",
+     "lines": [
+      "Deposits and withdrawals, settled weekly."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "90 DAYS SETTLES THE ACCOUNT",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "SECONDS",
+     "label": "ARE THE BALANCE, READ ALOUD",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now separate the two kinds of change hiding in your gap. The first is material: stiffer, denser tendons that transmit force with less stretch, so your forearm's strength reaches the bar instead of disappearing into cable slack. The second is skill: packed shoulders, quiet body, calm breathing, and fingers that stopped fighting each other. Skill arrives in weeks. Material arrives in months. A retest at ninety days catches both, which is why your gap feels bigger than either explanation alone. If your time rose fast in the first month and slowly after, that curve is the signature of skill first, material second, and it means the next ninety days will be quieter and more real. One more separation is worth making before the verdict. Grip endurance and grip strength are cousins, not twins. A hang grades endurance of the whole chain at bodyweight. It is entirely possible to own a crushing maximal grip and a modest hang, or the reverse, because the tissues are loaded differently. If your hang result surprises you against how strong your hands feel, that is not a contradiction to resolve. It is two qualities developing on separate ledgers, and this channel only ever promised to audit the endurance one.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "SKILL GAINS",
+       60
+      ],
+      [
+       "MATERIAL GAINS",
+       40
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "SKILL FIRST, MATERIAL SECOND",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "THE CURVE TELLS THE STORY",
+     "lines": [
+      "Fast then slow is the honest shape."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "TWO CHANGES, ONE GAP",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "One more layer changed that nobody hangs a medal on: your shoulders learned the hang. On day one, most beginners hang from their ears, shoulders shrugged, joints taking the strain that muscles should manage. Ninety days later the lats switch on by reflex, the shoulder blades slide down, and the joint sits protected under muscular control. That is why a trained hang looks peaceful from across the room. The peace is not relaxation. It is organization. If your new hang felt calmer at the same second count where day one felt chaotic, your result improved in a way the clock cannot print, and your shoulders will thank you for it in a decade. And the shoulders' paragraph has a sequel in the elbows. A long hang loads the elbow's structures in gentle, sustained tension, and for many men this is the first time those tissues have ever been asked to organize under load. Soreness around the inner elbow in the first season is common and usually just adaptation introducing itself. Sharp or growing pain is a different message entirely, and it gets the channel's standing answer: a professional's eyes, promptly, before the next hang block.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "PEACE IS ORGANIZATION",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "shoulder_anatomy_plate.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "CALMER HANG",
+     "label": "SAME CLOCK, BETTER SYSTEM",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "THE CLOCK CANNOT PRINT CALM",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe is worth repeating on results day. The dead hang is the fairest fight in fitness because the load is you. The heavy guy's grip fights a heavier opponent every second, so his time understates his tendons, while your time, if anything, flatters yours slightly. This channel has never apologized for that, because the practical question is not whose tendons win a laboratory contest. It is whose grip holds their own body, in their own life, when it counts. By that measure, the only honest one, a skinny guy with a ninety-second hang owns an elite tool, whatever the laboratory would say.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE LOAD IS YOU",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "HIS LOAD",
+       90
+      ],
+      [
+       "YOUR LOAD",
+       65
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "THE ONLY HONEST MEASURE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "ELITE FOR YOUR OWN LIFE",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "DEAD HANG SETS",
+   "work": 30,
+   "rest": 30,
+   "rounds": 4,
+   "asset": "ren_dead_hang.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we hang together, results still fresh. Four rounds of thirty seconds, thirty to shake out and reset. Pack the shoulders on every rep and hang like the organized version of you."
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-level protocol follows from the result, so sort yourself honestly. If your gap was noise, the fix is not more effort, it is more structure: two heavy hang days weekly, every session logged, no heroic daily maxes. If your gap was real but modest, add the missing stimulus, towel hangs and pinch work, because plain hangs stop teaching once they get comfortable. If your time doubled, your next mountain is density: shorter rests, thicker bars, and eventually one-arm preparation. The mistakes to retire at every level: testing on back-to-back days, changing bars between retests, and letting one result, good or bad, rewrite the whole plan overnight. One weekly detail keeps the ledger growing: the thick-bar day. Once a week, hang from the thickest bar or towel-wrapped bar you have, for shorter sets. A thicker bar moves the load into the fingers' weakest angles and teaches the cables what the standard bar cannot. Keep the retest bar frozen forever, but let one training day a week speak a harder dialect.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "HEROIC DAILY MAXES",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "CHANGING BARS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "ONE RESULT REWRITES ALL",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "SORT YOURSELF, THEN TRAIN",
+     "lines": [
+      "Noise, modest, or doubled: different roads."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "CHANGED?",
+   "label": "THE DEAD HANG VERDICT",
+   "sub": "comment your old and new times",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, did it actually change? If you gained thirty seconds or more, yes: your cables are materially different tissue than they were ninety days ago, and no good day explains that away. If you gained ten to thirty, you changed the way most honest trainees change, steadily, with more on the table. If you landed in the noise band, the truthful verdict is not yet, and the protocol above is the difference between a plateau and a pause. If you lost time, suspect fatigue before you suspect your tendons, rest a week, and retest once more before judging. Comment both times below, and set the next hang retest thirty days out.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "+30 SEC",
+     "label": "MATERIALLY DIFFERENT TISSUE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "PLATEAU OR PAUSE? STRUCTURE DECIDES",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT BOTH TIMES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RETEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "The bar asked the same question twice, ninety days apart, and your hands answered differently. That difference is your training, made visible. Keep the sessions spaced, keep the bar the same, and bring me a longer answer next time. Subscribe for retest day. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "BRING BOTH TIMES",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

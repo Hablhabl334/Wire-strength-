@@ -1,0 +1,387 @@
+{
+ "badge": "EP 695 - THE MORNING BALANCE",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NIGHT PROTOCOL",
+  "YOUR VERDICT"
+ ],
+ "description": "Sleep as a protocol stack, not a hope: an anchored wake time, morning light, a caffeine curfew, and a cool dark final hour, all graded by the same morning balance test that exposes a bad night in seconds.",
+ "hashtags": [
+  "morning balance",
+  "sleep protocol",
+  "wake anchor",
+  "night shift",
+  "recovery"
+ ],
+ "id": "695",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BEFORE THE PHONE, AS ALWAYS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A TRIO THIS TIME"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE FULL GRADE",
+     "pos": "tr",
+     "text": "SECONDS, HOURS, WAKE TIME"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RUN IT, DON'T HOPE IT"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is the morning balance again, and by now you know its honesty. Before the phone, beside a wall, one foot lifted, eyes closed, clock running: how many seconds before the foot drops or the sway becomes a step? Both sides, worse one counts. That number is the grade your night shift earned, delivered before your opinion about the night has even woken up. Record it with last night's hours and, this time, one more figure: the time you woke, because this episode's protocol is built on that number more than any other. The sleep mistakes episode named the errors; this episode installs the system that prevents them, a stack of five behaviours so plain they sound like grandmother's advice, right up until you see the machinery underneath them. Keep your seconds, your hours, and your wake time together, a trio this time. By the end, sleep stops being the part of your programme you hope goes well and becomes the part you run, with an anchor, a curfew, and a grade every morning that tells you whether the system held.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A FLOOR, NOT A TARGET"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE FULL ROTATION",
+     "pos": "br",
+     "text": "7-9 HRS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HOURS OF SLEEP, NOT OF BED"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FIVE FORCES ERODE IT"
+    }
+   ],
+   "big": "7+ HRS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE FLOOR WHERE RECOVERY HORMONES DO THEIR SHIFT",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the floor, stated plainly because protocols need floors. Seven hours is the minimum the major sleep medicine bodies recommend for adults, and it is a floor, not a target: the full rotation of sleep cycles, the deep opening shifts and the hormone-rich close, needs seven to nine hours to run in most bodies, and hard-training bodies often do their best work nearer the top of the range. Below six, the laboratory findings from the audit episode stop being warnings and start being descriptions: the hormone tax, the reaction cost, the balance that will not hold in the dark. Notice that the floor is measured in hours of sleep, not hours in bed; the man in bed for eight hours with a phone for the first and last of them has bought six and should log six. Your morning seconds already know this, which is why the test and the floor belong in the same episode.",
+   "section": "THE NUMBER",
+   "sub": "under 6: the night shift is short-staffed - 7-9: the full rotation runs",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Morning light sets the phase.",
+      "The wake anchor starts the countdown."
+     ],
+     "pos": "tr",
+     "title": "THE CLOCK READS LIGHT"
+    },
+    {
+     "asset": "ren_neck_hold.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A SMEARED CLOCK, A SMEARED NIGHT"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SIXTEEN ANCHORED HOURS AGO"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The protocol's anchor works because of how the circadian clock takes its orders. Your master clock does not read your intentions; it reads light and regularity. Bright light in the eyes within the first hour of the day is the strongest setting signal it knows, stamping the morning as day zero and starting a countdown that will make you sleepy at the correct distance later. A fixed wake time is what makes that signal land at the same phase every day, letting the whole hormonal timetable, the evening melatonin rise, the deep-sleep growth hormone pulse, the overnight testosterone climb, fire on a schedule the body can trust. Irregular wake times smear the signal across hours, and a smeared clock produces a smeared night: sleep that arrives late, breaks often, and skims its stages. This is why the protocol anchors the wake and lets the bedtime float toward it; sleep pressure accumulates from the moment of waking, so a fixed start manufactures a reliable finish. You do not fall asleep by trying.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REGULARITY IS MEASURABLE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "REGULAR NIGHT",
+       12,
+       "cyan"
+      ],
+      [
+       "SCATTERED NIGHT",
+       6,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "YOUR MORNING BALANCE, TWO NIGHTS"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "OF BORING REGULARITY",
+     "pos": "tr",
+     "text": "2 WEEKS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FIXED ROTA"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The regularity research is the protocol's favourite evidence, because it upgrades a habit into a measurable advantage. Studies tracking sleep timing alongside performance and health markers keep finding the same pattern: at equal total hours, the regular sleeper outperforms the irregular one, on reaction, on mood, on next-day function, and the weekend lie-in, the great folk remedy, often leaves its owner groggier than the weekday schedule it was meant to repair, because it pays hours and charges drift. The bars below show your own test's likely testimony across one honest week: balance seconds on the morning after your most regular night against the morning after your most scattered one. Run that comparison yourself before believing it; the audit pair makes every man his own sleep laboratory, which is more persuasive than any paper. The protocol's wager is simple: give the clock two weeks of boring regularity and the seconds will testify. Boring is the active ingredient. The night shift, like every crew in this season, does its best work on a fixed rota.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_neck_turn.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIVE LAYERS, IN ORDER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "BEFORE GRADING THE STACK",
+     "pos": "br",
+     "text": "14 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE BED IS A CUE"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BORING IS THE ACTIVE INGREDIENT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Assemble the stack in the order a day actually runs. Morning: wake at the anchor, light in the eyes within the hour, outside for preference, because window glass and indoor bulbs are whispers where daylight is a shout. Daytime: the caffeine curfew runs silently in the background, last dose eight to ten hours before the target bedtime, the loan never taken. Evening: light dims by degrees, screens down or filtered in the final hour, telling the clock the day is closing so melatonin can rise on schedule. The room: cool, dark, and quiet enough that the night is not negotiated with the environment; most men sleep measurably better in a cool room, and darkness should be complete enough that you cannot see your hand. The bed: reserved for sleep, not for scrolling, working, or worrying, so the place itself becomes a cue the clock trusts. Five layers, none purchasable as a supplement, each one removing a specific friction the mistakes episode named. A stack is not a pile; it is an order.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO SIZE DISCOUNT, NO PREMIUM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "AT EVERY BODYWEIGHT",
+     "pos": "br",
+     "text": "IDENTICAL"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE FORMULARY IS FREE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BUILDABLE BY FRIDAY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Every protocol in this season has favoured the light man somewhere, but sleep is where his advantage is total, because sleep is the one input with no size discount and no size premium: the sixty-kilo man and the hundred-kilo man are prescribed the same seven to nine hours, and the smaller man's recovery depends on it more. He cannot out-eat a bad night; his kitchen, still being trained, will not subsidise five-hour sleeps the way a big appetite papers over them. Which sounds like a vulnerability until you price the alternative: his sleep, once systematised, is also complete. There is no heavier version of the protocol he is missing, no advanced tier locked behind more mass. The full recovery programme of the world's best-resourced athlete and the full programme available to you tonight differ in staff and gadgets, not in the night itself. An anchored wake, morning light, a curfew, a cool dark room: that is the whole formulary, free, legal, and identical at every bodyweight. The skinny guy's scarcest resource was never sleep.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "check": 3,
+   "exercise": "HORSE STANCE",
+   "music": "drive",
+   "narration": "Earn the tired honestly. Three horse stance holds, forty seconds, thighs burning, breathing slow. This is how a body asks for sleep. Sink and hold.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_neck_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE WAKE TIME IS THE ANCHOR"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LIGHT BEFORE PHONE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "WEEKEND LIE-INS AS REPAYMENT"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ABOLISH CLIMATES, NOT WEATHER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The night protocol, as five rules to pin beside the caffeine rules. Rule one: the wake time is the anchor, fixed within thirty minutes, seven days a week; weekends are not a different country. Rule two: light before phone, outside light within the first hour, even on grey days, because the clock is listening for exactly that signal. Rule three: the curfew holds, caffeine done eight to ten hours before bed, with the dose rules from the reaction episode running the daytime side. Rule four: the final hour is a landing, dim, cool, screens down, the day closed deliberately rather than collapsed out of. Rule five: the morning balance grades the system weekly, seconds and hours and wake time together, and adjustments are made one layer at a time so the grade can name the cause. Give the stack fourteen days, then read the trend. Sleep will still have bad nights; systems do not abolish weather, they abolish climates. You are not buying perfect nights.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "START WITH ANCHOR AND LIGHT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME WALL, SAME DARKNESS",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT SECONDS AND HOURS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your morning verdict, from the worse-side seconds. Under five: the night shift is short-staffed and the stack has work to do; start with the anchor and the light, the two layers that cost nothing and move the clock itself. Five to ten: a building sleeper, the rotation running with gaps, and the trend across the next fourteen days is the number to watch rather than any single morning. Over ten, behind seven or more honest hours: a wired morning, the signature of a night that ran its full timetable, and your job is the pleasant one of defending a working system. Record the trio every time, seconds, hours, wake time, because the protocol is adjusted from the trio or not at all. Put your seconds and hours in the comments, the pair that grades the night. In thirty days, same wall, same darkness, same worse side. You came in hoping sleep would improve. You leave running it, and the balance test, that merciless little witness, will file the reports.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_neck_hold.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same test, before the phone. Bring me more seconds in the dark and a wake time that never moves. Subscribe, and keep your numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "sleep protocol",
+  "sleep hygiene",
+  "morning balance test",
+  "wake time anchor",
+  "recovery hormones",
+  "sleep routine",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_balance_test.webp",
+  "big": "7+ HRS",
+  "hook": "THE MORNING BALANCE"
+ },
+ "title": "Stop Doing sleep science Wrong: Train Your recovery hormones Instead",
+ "v5": true
+}

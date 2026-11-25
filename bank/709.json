@@ -1,0 +1,406 @@
+{
+ "badge": "EP 709 - THE CAFFEINE WINDOW",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE WINDOW",
+  "YOUR VERDICT"
+ ],
+ "description": "A dead hang sixty minutes after your coffee: this test finds your personal caffeine window. Here is how dose, timing and half-life decide what the drug lends you, and how to run the with-and-without audit that reveals your hidden strength.",
+ "hashtags": [
+  "caffeine test",
+  "dead hang",
+  "caffeine window",
+  "calisthenics",
+  "grip strength"
+ ],
+ "id": "709",
+ "scenes": [
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NORMAL DOSE, EMPTY CUP, TIMER ON"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SIXTY MINUTES OF NOTHING"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "CAFFEINATED VS ORDINARY",
+     "pos": "tr",
+     "text": "2 NUMBERS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ONE VARIABLE ONLY"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test has a waiting room. Drink your normal coffee, your normal dose, at your normal strength, and start a timer when the cup is empty. Do nothing heroic for sixty minutes. Then go to the bar and hang: arms straight, shoulders quiet, legs still, until your grip opens. That time is today's number, the caffeinated hang. Now the comparison that makes it a test instead of a ritual: you need your ordinary hang, the same test on a recent day with no caffeine in the picture, ideally from this channel's earlier hang tests, which you already have written down. Two numbers, same bar, same man, one variable. Write today's beside the ordinary one. Most people have taken caffeine ten thousand times and measured it zero times. You are about to find out what it has been doing to you.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MEASURED AT ITS STRONGEST"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE 'IT WORKS' LINE",
+     "pos": "br",
+     "text": "+10%"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WORSE MEANS LOOK AT LAST NIGHT"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE WINDOW TELLS THE TRUTH"
+    }
+   ],
+   "big": "60 MIN",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE WINDOW WHERE THE DRUG PEAKS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is how to read the pair. Caffeine blood levels peak roughly thirty to sixty minutes after the cup, which is why the test waits an hour: we are measuring the drug at its strongest, not at its rumor. If your caffeinated hang beats your ordinary hang by more than ten percent, the drug is genuinely lending you grip endurance, and you own a tool with a known size. Within ten percent either way is the murky band: tolerance, a small dose, or ordinary day-to-day wobble, and only repeat audits can separate them. A caffeinated hang that comes in worse is the most interesting result of all: caffeine amplifies a rested system and exposes a tired one, so a bad number usually indicts last night's sleep, not the coffee. The window tells the truth. Your job is only to keep showing up inside it with a clock.",
+   "section": "THE NUMBER",
+   "sub": "hang up 10%+: it works for you - within 10%: tolerance or noise - hang down: look at last night",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The forearm tires. The brain negotiates.",
+      "Caffeine edits the negotiation."
+     ],
+     "pos": "tr",
+     "title": "TWO FAILURE POINTS"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DISCOMFORT AT LOWER VOLUME"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNHIDDEN, NOT NEW"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE ACCOUNTANT, MUTED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Grip endurance is a strange place to watch caffeine work, because the hang fails in two places at once. The forearm muscles fatigue, yes, but the brain is also running a continuous negotiation: discomfort rises, effort feels more expensive, and eventually the central command decides the price is no longer worth paying and the fingers open. Caffeine, by blocking the adenosine receptors that report fatigue, edits both sides of that negotiation. The muscles receive a slightly stronger drive signal, and the brain hears the discomfort at a lower volume. The result is a hang that ends later not because the forearms became different tissue in an hour, but because the whole system agreed to spend more of what was already there. That is the hidden strength this episode's title means: not new strength, unhidden strength, released by muting the accountant.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ENDURANCE: THE CLEAREST EFFECT"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "CLEAR GAIN",
+       40,
+       "cyan"
+      ],
+      [
+       "NOTHING",
+       45,
+       "gold"
+      ],
+      [
+       "WORSE",
+       15,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "RESPONSE VARIES WILDLY"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "HALF THE DOSE STILL ABOARD",
+     "pos": "tr",
+     "text": "5-6 HRS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A TOOL, NOT A HABIT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The research context keeps this test honest. Across studies, caffeine's clearest performance effects appear in endurance and in repeated efforts, with strength effects smaller and less consistent, and grip endurance sits in the terrain where a real effect is plausible but never guaranteed. The studies also show why your audit needs repeating: individual responses vary enormously, some people gain clearly, some gain nothing, and a few perform worse, jittery and distracted. Add the half-life problem, roughly five to six hours for half the dose to clear, and the practical science writes itself: the same cup that lends you ten percent at ten in the morning can still be taxing your deep sleep at midnight. A tool with a peak, a price and a personality. Your two numbers, repeated monthly, are how a scientist handles such a tool. Everyone else just has a habit with good branding.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE NUMBERS, NOT ONE"
+    },
+    {
+     "asset": "ren_hang_side_active.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Your peak may not be the textbook hour.",
+      "The interest rate appears in your log."
+     ],
+     "pos": "br",
+     "title": "LIFT, WINDOW, COST"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A BAR, A CUP, A NOTEBOOK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Run the audit like a scientist and it teaches you three numbers, not one. First, your lift: the percentage caffeine actually adds, which decides whether the drug earns a place in your test days at all. Second, your window: repeat the test at thirty minutes and at ninety, once each, and you will find your personal peak is not always the textbook hour, because stomachs and genes differ. Third, your cost: note the following morning's hang or your sleep quality after each test day, and the loan's interest rate appears in your own handwriting. Most supplement debates happen between people who have measured none of these. You will have measured all three with a bar, a cup and a notebook, which is the entire difference between this channel and the comment section of the internet.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A PERFECT INSTRUMENT, INSTALLED"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "YOUR EFFECT SIZE, VISIBLE",
+     "pos": "br",
+     "text": "6-9 SEC"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FINER INSTRUMENTS THAN HIS GYM"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PRECISION, CHEAPLY BOUGHT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in this experiment is that your test instrument is perfect and already installed. The dead hang loads you with exactly your bodyweight, the same load every time, on the same bar, with a result in clean seconds that no machine setting or training partner can contaminate. A skinny man's hang is also long enough to measure sensitively: when your ordinary time is sixty or ninety seconds, a ten percent drug effect is six to nine full seconds, easy to see above daily noise. The heavy beginner whose grip fails in fifteen seconds cannot resolve a ten percent effect inside his wobble. Your laboratory has finer instruments than his gym. And because the drug's studied dose scales with bodyweight, your effective experiments cost less caffeine, which means less sleep tax per data point. Precision, cheaply bought: the recurring theme of being built light.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Now we train inside the window. Three rounds: forty seconds of dead hang, thirty seconds rest, full grip, quiet shoulders. If your hands open early, note the time: even the failure is data today.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "AN APPOINTMENT, NOT A BEVERAGE"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EASY DAYS STAY CLEAN"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "THE CUTOFF DOES NOT MOVE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "DECIDE FROM EXHIBITS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The caffeine protocol, test-day edition, four rules. One: caffeine is an appointment, not a beverage: normal dose, sixty minutes before the effort that matters, and no other caffeine that day. Two: easy days stay clean, because tolerance is the tax collector and daily use pays it until the drug goes silent. Three: the cutoff stands, eight to ten hours before bed, and a test that cannot fit before the cutoff does not happen that day. Four: log all three numbers after every audit, lift, window and next-morning cost, and after three audits decide, from evidence, whether caffeine is your tool, your ritual, or your landlord. Most men never hold this trial. You hold it monthly, with exhibits.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A MEASURED TOOL, NOT A SUPERSTITION"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN AUDIT THE WINDOW AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CAFFEINATED SECONDS"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE STRENGTH WAS IN YOU"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict, from the pair of numbers. Up more than ten percent: the drug works for you, at your dose, in your window, and you now own a measured tool instead of a superstition; protect it with the clean-day rule. Within ten percent: run the audit twice more before judging, and suspect tolerance if your daily intake has been climbing; a two-week low-caffeine reset often makes the next audit speak clearly. Down on the day: interrogate last night before the molecule, because caffeine on a tired system is a spotlight, not a battery. In every band, the hidden strength of the title was never in the cup. It was in you, gated by an accountant the drug briefly mutes. Put your caffeinated seconds in the comments, just the number. In thirty days, we audit again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TWO NUMBERS AND A DIFFERENCE"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same cup, same sixty minutes, same bar, until the grip opens. Bring me two numbers and the difference between them. Subscribe, and keep today's pair safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "caffeine test",
+  "dead hang test",
+  "caffeine timing",
+  "caffeine half life",
+  "hidden strength",
+  "grip endurance"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_dead_hang.webp",
+  "big": "60 MIN",
+  "hook": "THE CAFFEINE WINDOW"
+ },
+ "title": "Your Caffeine Test Reveals Your Hidden Strength",
+ "v5": true
+}

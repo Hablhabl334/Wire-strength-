@@ -1,0 +1,384 @@
+{
+ "badge": "EP 652 - THE 90-DAY RECORD",
+ "category": "retests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CHANGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Your first dead hang was the first number this channel ever gave you. Ninety days later, hang again and put the two times side by side: this is your total adaptation, measured in seconds, with the protocol that takes the record further.",
+ "hashtags": [
+  "dead hang",
+  "90 day record",
+  "grip strength",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "652",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR FIRST-EVER NUMBER"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME BAR, SAME GRIP"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "BETWEEN THE TWO TIMES",
+     "pos": "tr",
+     "text": "90 DAYS"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP BOTH TIMES"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Remember your first hang. | Your first number here. | White knuckles, shaking arms. | The clock barely moved. | Write that number down. | Today we hang again. | Same bar, same grip. | Arms straight, shoulders quiet. | Feet off the ground. | Start the clock and breathe. | No swinging, no re-gripping. | When you drop, you stop. | That time is today's record. | Ninety days separate them. | At the end: the reveal. | what the gap between them | says about your whole body. | Not just your hands. | Everything you trained adapted. | This hang adds it up. | Keep both times safe.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CLOCK GRADES EXPOSURE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE STANDARD 90-DAY CURVE",
+     "pos": "br",
+     "text": "x2"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STALLED = UNTRAINED, NOT UNABLE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ATTENDANCE, MEASURED"
+    }
+   ],
+   "big": "x2",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHAT NINETY DAYS USUALLY DOES TO A HANG",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the honest frame for a ninety-day hang record. A first hang for an untrained skinny guy usually lands between twenty and forty seconds. After ninety days of regular hanging and grip work, that same man commonly doubles it. Doubling sounds like a headline, but it is simply what untrained cables do when they are finally loaded on a schedule: the first adaptation is fast because the starting point was zero. If your time grew by half, you are on the standard curve. If it doubled, you are ahead of it. And if it barely moved, that is information too, not failure: it means the hang stopped being trained somewhere in the ninety days, and the record is reporting attendance, not ability. The clock does not grade effort. It grades exposure.",
+   "section": "THE NUMBER",
+   "sub": "under 30 sec: still unwired - over 90: the record is becoming a weapon",
+   "type": "card"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Tendons carry it. Nerves allow it.",
+      "Shoulders hold the frame."
+     ],
+     "pos": "tr",
+     "title": "A FULL-SYSTEM AUDIT"
+    },
+    {
+     "asset": "ren_finger_hang.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE WEAKEST SYSTEM QUITS FIRST"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE CHAIN GOT LONGER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why does one hang time summarize ninety days of everything? Because a dead hang is a full-system audit disguised as a grip test. Your finger flexor tendons carry the load, yes, but your shoulder blades must stay packed by muscles most beginners cannot even feel, your forearms decide the blood-flow budget, and your nervous system decides how long it will tolerate the alarm signals from all of it before it orders your hands open. Total adaptation means every one of those systems moved. The tendons stiffened. The shoulder packing became automatic. The nerves stopped panicking at signals they now recognize as safe. Your first hang ended when the weakest system quit. Today's hang ends later because the weakest system is stronger than it was, and the audit re-runs the whole chain every single time. There is also a quieter system on the audit: your breathing. A first hang is usually a breath-holding panic from second five, and panic spends grip like a leak spends water. A trained hanger breathes slowly the whole way down the clock, and half of what looks like grip endurance is actually a nervous system that has learned it is allowed to stay.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO LAYERS OF GAIN"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "30 DAYS",
+       40,
+       "gold"
+      ],
+      [
+       "90 DAYS",
+       90,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT THE RECORD MEASURES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CONSTRUCTION STAYS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WIRING PLUS BUILDING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The adaptation timeline explains the shape of your record. Grip endurance improves in two layers. The early layer, weeks one to four, is mostly neural and vascular: your forearms learn to keep blood moving under tension and your nerves stop wasting force, and times jump quickly. The slow layer is structural. Tendon stiffness and forearm muscle change across months, not weeks, and they raise the ceiling the early gains run into. This is why the ninety-day mark is the channel's favorite audit point. It is long enough for the slow layer to have started, and short enough that the early layer is still visible in the numbers. A thirty-day record mostly measures wiring. A ninety-day record measures wiring plus construction, and construction is what stays with you during a layoff. One more finding belongs in the record book. When researchers detrain people and test them later, the structural layer, the tendon and muscle changes, fades far more slowly than the neural layer that arrived first. Your ninety-day record is therefore partly a savings account: even a lazy month withdraws from the wiring long before it touches the construction.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE BAR IS THE INSTRUMENT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "WHAT CONDITIONS CAN STEAL",
+     "pos": "br",
+     "text": "10 SEC"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PHOTOGRAPH YOUR SETUP"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "One warning before you celebrate or despair: hang times are weather-sensitive in a way push-ups are not. Chalk, bar thickness, hand sweat and even room temperature can move the result by ten seconds, because the test ends at the skin's grip as often as at the muscle's limit. That is why the record protocol is strict. Same bar. Dry hands. Same grip width, thumbs wrapped the same way. If your gym changed the bar, your record did not change; your instrument did. Serious testers keep a photo of their test setup for exactly this reason. Ninety days from now you will thank yourself for the boring details, because they are what make two numbers comparable instead of two anecdotes.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DAILY HANGS, CHEAP RECOVERY"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A WEEK OF PRACTICE",
+     "pos": "br",
+     "text": "7 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHOWING UP IS THE SECRET"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FLOOR BEATS THE CEILING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your bodyweight is the hang's difficulty setting, and yours is set to favorable. Every second you hang, your tendons carry your full mass, but the absolute load is smaller, so the tissue stress per session is lower and the recovery cost is cheaper than a heavy man's identical workout. That means you can hang daily, and daily practice is precisely what this adaptation eats. The heavy beginner must treat hangs like heavy deadlifts, spaced and recovered. You can treat them like brushing your teeth. Over ninety days that difference compounds into a different record entirely: not because your ceiling is higher, but because your floor of weekly practice is. The record rewards the man who shows up most often, and your frame lets you show up most often. That is the whole secret.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Now we build the next record together. Three rounds of hangs: grip the bar, pack the shoulders, breathe slow. Drop when form goes, never before the clock if you can help it.",
+   "rest": 15,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE MAX PER WEEK"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ADD 10% BODYWEIGHT"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN THE DROP POINT"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SKIP THE DELOAD"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol for the record's next ninety days. First: keep the daily hang, but split it. One max attempt per week, logged with conditions; the other days stay easy, at half your max, building tissue without testing it. Second: add one weighted day. A light backpack, ten percent of your bodyweight, for short hangs, teaches the cables a load your body alone no longer provides. Third: train the drop point. Most hangs end in the fingers, so finish each session with ten seconds of fingertip or towel hanging at low intensity. Fourth: deload every fourth week. Tendons adapt during the quiet weeks, not despite them. Follow this and the next audit is not a hope. It is a schedule with a date on it.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GROWTH = BOTH LAYERS FED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE THIRD AUDIT",
+     "pos": "br",
+     "text": "90 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT BOTH TIMES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the record. If your time grew by half or more, your ninety days were real: wiring and construction both showed up, and you now own a grip and shoulder system that did not exist in your first video here. If it grew a little, the adaptation is real but underfed, and the protocol above is the fix, mainly the daily easy hangs. If it did not move, hear this clearly: the audit found an attendance gap, not a talent gap, and attendance is the easiest variable in this entire channel to change. Put both times in the comments, old and new. In ninety days we audit again, and the record gets its third page. Whatever the gap between your two times, write the conditions beside it: the bar, the grip, the hour. The next audit inherits them, and a record that can be trusted is worth more than a record that merely impresses.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 90 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A LONGER TIME"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Ninety days from now, same bar, dry hands, same grip. Bring me a longer time and the record writes its next page. Subscribe, and keep both times safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "dead hang",
+  "90 day progress",
+  "grip strength record",
+  "retest",
+  "dead hang time",
+  "total adaptation",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_hang_side_active.webp",
+  "big": "90 DAYS",
+  "hook": "THE RECORD RETEST"
+ },
+ "title": "The the 90-day record Benchmark: Where Your total adaptation Ranks",
+ "v5": true
+}

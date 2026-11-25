@@ -1,0 +1,391 @@
+{
+ "badge": "EP 604 - JUMP RETEST",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "THE SPRING GREW",
+  "YOUR VERDICT"
+ ],
+ "description": "The wall-mark jump test set your height weeks ago, and nobody goes back to the wall. Today we do: same wall, same reach, old mark against new mark. See what your Achilles stiffness actually added, in centimeters, and the protocol for the next layer of spring.",
+ "hashtags": [
+  "vertical jump",
+  "jump retest",
+  "achilles tendon",
+  "spring training",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "604",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME WALL, SAME RULER"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "BEST MARK COUNTS",
+     "pos": "br",
+     "text": "3 JUMPS"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO STEP-IN, FULL EFFORT"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "OLD NUMBER IN YOUR HEAD",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CENTIMETERS DO NOT LIE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Back to the wall. In the jump episode you stood flat against it, reached as high as you could, marked the spot, then jumped and marked again, and the distance between the two marks became your number: your jump height, in honest centimeters. For most skinny guys it landed somewhere between twenty five and forty, and the episode promised you something specific: that this number is not really about your legs' power. It is about your spring. Today we test the spring again. Same wall, same shoes, same flat-footed reach first, because the reach mark is the ruler and rulers do not get to change between tests. Three jumps, best mark counts, full effort, no step-in, jump from a standstill exactly like the first time. Keep your old number in your head while you chalk your fingers. At the end I will tell you what a few centimeters of gap actually proves about the stiffness of your Achilles, and why it matters far beyond jumping.",
+   "section": "THE RETEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "+2 CM = A REAL GAIN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE SPRING REBUILT",
+     "pos": "br",
+     "text": "+6 CM"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "DATA, NOT A VERDICT ON YOU",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "+6 CM",
+   "card": "bignum",
+   "check": 1,
+   "label": "A REAL SPRING GAIN",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is how to read the gap on the wall. Jump height moves slowly, because it is paid for in tendon stiffness and nerve speed, not in enthusiasm. Two centimeters across a block is a real gain, the kind coaches accept without blinking. Six centimeters or more means the spring genuinely rebuilt itself: the Achilles is returning energy it used to absorb, and your nervous system is firing the calf and thigh in a tighter sequence. If your mark did not move, stay calm and stay for the protocol, because jump stalls are almost always a dosage problem: too many tired jumps, too few fresh ones, and a spring trained while exhausted learns to be slow. And if your mark fell, that is information too, usually a heavy week sitting in your legs on test day. The wall does not grade your worth. It reports the state of one spring on one morning, and the report is only useful if you read it like data instead of like a verdict on you.",
+   "section": "OLD VS NEW",
+   "sub": "under +2: the spring was underfed - +6 or more: the Achilles rebuilt itself",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Stiffer tendon returns energy on time.",
+      "Late energy is lost energy."
+     ],
+     "pos": "tr",
+     "title": "THE BOW GOT TIGHTER"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STIFFNESS IS THE PRODUCT"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE CABLE DECIDES THE HEIGHT",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "So what did the weeks actually change between your two marks? Go back to the mechanism from the jump episode. When you dip before a jump, your Achilles tendon stretches like a drawn bow, storing energy from the way down, and when you drive up, it recoils and hands that energy back for free. A soft, untrained tendon is a loose bow: it stretches too far, returns the energy late, and some of it leaks away as heat. A trained tendon is stiffer, and stiffness is not a flaw here, it is the whole product. Loading the calf complex with heavy raises, slow eccentrics and fresh jumps teaches the tendon to store and return energy in a tighter window, and teaches the nerve to fire the whole chain in one coordinated snap instead of a committee meeting. Your new mark is those two upgrades, added together and written on a wall. The muscle did the visible work. The cable decided how much of it became height.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FREE HEIGHT, NO NEW MUSCLE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "OLD SPRING",
+       55,
+       "red"
+      ],
+      [
+       "NEW SPRING",
+       80,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "ENERGY RETURNED BY THE SPRING"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TIMING CLICKS IN STEPS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "NEITHER SHOWS IN A MIRROR",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science of the gap is worth slowing down for, because jump height is two adaptations wearing one coat. The first is the tendon: research on plyometric and heavy calf training shows Achilles stiffness rising across a block, and stiffer springs return a larger share of the energy they are given, which is free height, no extra muscle required. The second is timing. Your nervous system learns to pre-tense the calf before your feet even leave the dip, so the spring is loaded and ready instead of slack at the moment it matters. Untrained jumpers waste the first hundred milliseconds organizing themselves. Trained jumpers spend those milliseconds already rising. That is why your improvement can look sudden: the tendon improved gradually, but the timing clicks in steps, and a click is worth centimeters in a single week. Two numbers on a wall, and between them, a spring got stiffer and a signal got faster. Neither shows in a mirror. Both show in the gap.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE SPRING, EVERY STEP"
+    },
+    {
+     "asset": "big_vs_lean_jump.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "stat",
+     "label": "QUICKER FIRST STEPS",
+     "pos": "br",
+     "text": "CHEAPER RUNNING"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "A TRANSMISSION UPGRADE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is what your new jump number quietly says about the rest of your athletic life, because the Achilles does not only work at the wall. The same spring that returns energy in a jump returns it in every sprint step, every stair, every change of direction. A stiffer, better timed Achilles is why trained movers look bouncy without trying: their springs are doing work their muscles used to pay full price for. Sprinters live on this tissue. So when your mark climbs six centimeters, you did not just buy a better jump test. You bought cheaper running, quicker first steps, and landings that cost your joints less, because a spring that returns energy is also a spring that absorbs it on the way down. This is the deep reason this channel trains tendons at all. Muscle is the engine you can see. The tendons are the transmission, and a better transmission makes every gear faster without touching the engine. Your wall just reported a transmission upgrade.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALLEST MASS IN THE ROOM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "LESS TO THROW",
+     "pos": "br",
+     "text": "SAME CABLE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "YOU LOADED IT INTO EXISTENCE",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COVER IT WITH YOUR HAND"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the reframe, and jumping is where it stops sounding like a slogan. Jump height is physics: the spring has to throw your mass against gravity, and your mass is the smallest in the room. A heavy guy needs a far stronger spring to post your number, because his tendon must store and return enough energy to move far more weight. Your tendon moves less mass with the same quality of cable, so centimeter for centimeter, your spring is the more efficient machine. That is why skinny jumpers keep embarrassing bigger athletes in this one test, and why your gap grew the way it did: every training session loaded a spring that only ever had to lift you. Look at the two marks on the wall one more time. The distance between them is small enough to cover with your hand. It is also the exact distance between the spring you had and the spring you built, and nobody handed it to you. You loaded it into existence, one fresh jump at a time.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "FRESH JUMPS",
+   "music": "drive",
+   "narration": "Now we train the next mark together. Four rounds: thirty seconds of crisp, fresh jumps, thirty seconds of rest. Every jump at full intent, land quiet, reset fully. The spring learns fresh or not at all. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "BIG GAP: FASTER LOADING",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMALL GAP: ADD A SESSION"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "JUMPING TIRED TEACHES SLOW",
+     "pos": "tr",
+     "text": false
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRAIN A MONTH, THEN ASK"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol for the spring, matched to your gap. If you gained four centimeters or more, keep the recipe and raise the intent: add low-volume depth jumps from a small step, three sets of three, once a week, always fresh, because the spring is ready for faster loading. If you gained a little, one to three centimeters, your dosage was right but thin: add a second weekly session of heavy calf raises, slow on the way down, and keep the jumps exactly as they were. If the mark stalled, audit your freshness before anything else: jumps done at the end of hard sessions teach a slow spring, so move them to the start, cap the total at twenty quality jumps, and stop the set the moment height visibly drops. And bury the classic mistake: testing every week. The wall is a report, not a workout. Train the spring for a month, then let the wall speak. Springs answer monthly questions far more honestly than weekly ones.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE BOTH MARKS DOWN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR NEW HEIGHT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SPRING KEEPS THE LOAD"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your new jump number, and its verdict. If the mark did not move, your spring was underfed or overtired, and both are scheduling problems, not talent problems, and the protocol above fixes the schedule this week. If you gained two to five centimeters, you are on the standard, proven curve: tendon stiffness compounding quietly, timing clicking in steps, and the next block will pay you again at the same rate. If you gained six or more, your spring rebuilt itself in a way that will show up in your sprint, your stairs and your landings, not just on this wall. Write both marks down with the date, old and new, and put your new height in the comments, just the centimeters. If you remember the first mark, put it beside the new one and let the wall tell the story. We retest in thirty days, same wall, same reach, same rules. The spring keeps what you load into it. Load accordingly.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "A HIGHER MARK",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wall, same ruler, same three honest jumps. Bring me a mark your old spring cannot reach. Subscribe so retest day finds you fresh. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "jump retest",
+  "vertical jump test",
+  "achilles stiffness",
+  "jump height",
+  "retest",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "+6 CM",
+  "hook": "JUMP RETEST"
+ },
+ "title": "Your New Number: The jump retest Retest Nobody Does",
+ "v5": true
+}

@@ -1,0 +1,387 @@
+{
+ "badge": "EP 684 - THE SLEEP AUDIT",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NIGHT SHIFT",
+  "YOUR VERDICT"
+ ],
+ "description": "Your balance this morning grades last night more honestly than any app. Test it before your phone, learn what five-hour nights did to hormones in the lab, and fix the five sleep mistakes that quietly tax every other system in this season.",
+ "hashtags": [
+  "sleep audit",
+  "recovery hormones",
+  "balance test",
+  "deep sleep",
+  "testosterone"
+ ],
+ "id": "684",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BEFORE THE PHONE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WORSE SIDE COUNTS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE AUDIT PAIR",
+     "pos": "tr",
+     "text": "SECONDS + HOURS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE BODY GRADES FIRST"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test happens before your phone, because the phone is part of the problem this episode grades. Stand beside a wall, lift one foot, close your eyes, and start a clock. Single-leg balance, eyes closed, hands off the wall unless you are falling, until the foot drops or the sway becomes a step. Time both sides and take the worse one; that is your number. Then, while it is fresh, write down last night's honest hours of sleep, lights-out to waking, not time in bed scrolling. Two numbers, one morning. The balance test is not a party trick here: the systems that hold you upright in the dark, proprioception, vestibular sense, and a cerebellum integrating them at speed, are among the first to show a sleep debt, often before you feel tired at all. Your body grades last night before your opinion wakes up. Keep both numbers together, because together they are the audit: the input, and the output it bought. By the end, you will know what the five-hour trap costs and the five mistakes that keep skinny guys paying it.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A WARNING LIGHT, NOT A PROPHECY"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE LAB'S HORMONE TAX",
+     "pos": "br",
+     "text": "10-15%"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FEELING ADAPTED IS NOT BEING ADAPTED"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE BALANCE TEST KNOWS"
+    }
+   ],
+   "big": "5 HRS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE FIVE-HOUR TRAP FROM THE LAB STUDIES",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the number that should be printed on pillows. In a frequently cited laboratory study, young men restricted to about five hours of sleep a night for one week showed daytime testosterone levels roughly ten to fifteen percent lower than when rested, an effect the researchers compared to years of ordinary ageing, compressed into seven days. Read it with the care this channel insists on: it was a small study, a short week, and an extreme dose, so treat the figure as a warning light, not a prophecy. But the direction agrees with everything else sleep science measures: restrict sleep and the recovery hormones pay first, before mood, before memory, before you consciously feel wrecked. Five hours is not a badge of discipline. In the lab it is a hormone tax with a receipt. And the cruellest part of the trap is the adaptation illusion: after a few short weeks, men report feeling fine on five hours while their tests keep scoring like the first day. Feeling adapted is not being adapted. The balance test knows the difference.",
+   "section": "THE NUMBER",
+   "sub": "a week of short nights: hormones pay first - 7-9 hrs: the working range",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Deep sleep early: growth hormone.",
+      "Late cycles: the hormonal close."
+     ],
+     "pos": "tr",
+     "title": "A ROTATION, NOT A STATE"
+    },
+    {
+     "asset": "ren_neck_hold.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NINETY-MINUTE CYCLES"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CUT EITHER END, CUT A DEPARTMENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Follow one night from the inside and the hormone story becomes a timetable. Sleep is not one state but a rotation of stages, cycling roughly every ninety minutes: light sleep, deep slow-wave sleep, and dreaming REM, in proportions that shift across the night. The biggest pulse of growth hormone your body releases all day arrives with the first deep-sleep cycles, early in the night, which is when the day's training damage is triaged and repair crews are dispatched. Testosterone follows its own overnight rhythm, climbing during sleep and peaking toward morning, which is why total sleep time, not just sleep quality, sets its level. REM concentrates in the final cycles before waking, the ones a five-hour night amputates entirely. Now the audit makes sense: cut the night at either end and you cut a different department. Late nights steal the deep opening shifts; early alarms steal the hormonal close. The man who sleeps six scattered hours has not bought seventy-five percent of a night. He has bought whichever departments his schedule happened to spare.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HOURS AND DRIFT"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "REGULAR TIMES",
+       85,
+       "cyan"
+      ],
+      [
+       "SCATTERED TIMES",
+       55,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE SAME HOURS, DIFFERENT NIGHTS"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "THE REGULAR MAN'S DRIFT",
+     "pos": "tr",
+     "text": "MINUTES, NOT HOURS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE NIGHT THAT ACTUALLY HAPPENED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The second blade of the audit is regularity, and it is the finding men resist most. Emerging research on sleep timing suggests that two people sleeping the same total hours can recover differently depending on how scattered their bedtimes are: the regular sleeper, whose lights-out wanders by minutes, tends to outperform the irregular one, whose hours swing by two or three between weeknights and weekends. The body runs its hormone timetable on a circadian clock, and a clock that is reset every Friday night is a clock that never quite knows when to fire the deep-sleep pulse. The bars below show the audit's two questions side by side: hours, and drift. This is why the weekend lie-in, the beloved repayment plan, so often fails to repay: it adds hours while adding drift, buying quantity with the currency of timing. Your balance number this morning integrated both without being told. The cerebellum does not care about your intentions. It reports the night that actually happened, in seconds, standing on one leg in the dark.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_neck_turn.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MOST BEDROOMS HOLD THREE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SOCIAL JETLAG",
+     "pos": "br",
+     "text": "MISTAKE ONE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SCHEDULE ERRORS, EDITABLE TONIGHT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SEDATION IS NOT REST"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The five mistakes, and most bedrooms contain at least three. Mistake one: the weekend lie-in as a repayment plan, buying hours with drift and waking up Monday with social jetlag, a body clock in the wrong timezone. Mistake two: caffeine after midday, the half-life loan from episode six seventy-seven, taken out against tonight's deep sleep and repaid in morning grogginess that demands more caffeine. Mistake three: bright light and bright screens late into the evening, telling the circadian clock it is still afternoon and delaying the whole timetable. Mistake four: fixing a sleep debt by sleeping in rather than by anchoring the wake time, which moves the debt instead of paying it. Mistake five: the alcohol nightcap, which sedates the front of the night and fragments the back of it, trading deep architecture for unconsciousness and calling it rest. None of the five is a mystery, and none requires a supplement to fix. They are schedule errors, and schedule errors are this channel's favourite kind, because schedules can be edited tonight.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE ZERO-DISADVANTAGE INPUT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "WHEN IT IS AVAILABLE",
+     "pos": "br",
+     "text": "TONIGHT"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOUR SLEEP HAS TO BE RICH"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE CHEAPEST DECISION IN THE SEASON"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the ledger line nobody tells the skinny guy: of every recovery input in this season, sleep is the one where your disadvantage is zero and your upside is largest. Food costs money and appetite; you are still building both. Equipment costs space. Sleep costs a decision, and it pays in the exact currencies you are shortest on: growth hormone for the repair you cannot yet eat your way to, testosterone for the drive your training runs on, and a nervous system that makes tomorrow's session worth having. There is a harder truth inside the advantage. A light man with a small appetite often cannot out-eat a sleep deficit; the calories simply are not there to paper over five-hour nights. Which means the big man's sloppy sleep is subsidised by his kitchen, and yours is not. Your recovery budget is lean, so your sleep has to be rich. That is not a burden. It is the cheapest anabolic decision available to anyone in this audience, and it is available tonight.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "check": 3,
+   "exercise": "PLANK",
+   "music": "drive",
+   "narration": "Steady work to earn tonight's tired. Three planks, forty-five seconds, spine long, breathing slow. Build the kind of fatigue sleep can use. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_neck_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ANCHOR THE WAKE TIME"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MORNING LIGHT SETS TONIGHT"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SLEEP IN TO REPAY"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "JUDGE BY THE AUDIT PAIR"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The sleep protocol is five boring rules that outperform every gadget. Rule one: anchor the wake time, seven days a week, within half an hour; the bedtime will follow the anchor like a tide follows the moon. Rule two: light in your eyes within an hour of waking, outside if possible, because morning light is what sets the clock that fires tonight's deep sleep on time. Rule three: the caffeine curfew from the audit episode, eight to ten hours before bed, no exceptions for deadlines. Rule four: a cool, dark, phone-free final hour, screens dimmed, the room treated like the recovery facility it is. Rule five: judge the system weekly by the audit pair, balance seconds and honest hours, not by how virtuous the routine felt. Give the five rules fourteen days before grading them; the clock resets slowly and then all at once. Sleep is the only supplement in this season that is free, legal, and stronger than the others combined. Take the full dose.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SECONDS AND HOURS, TOGETHER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME WALL, SAME DARKNESS",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT BOTH NUMBERS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your sleep verdict, read off the worse-side seconds. Under five seconds with eyes closed: last night is standing on the scoreboard, whatever the hours claimed; the night shift underdelivered and today you train like it. Five to ten: a building sleeper, functional, with the protocol likely to buy you visible seconds within two weeks. Over ten seconds, with seven or more honest hours behind it: a wired morning, the product of a night that did its full rotation. Record the pair together, always, because the seconds without the hours are only half an audit. Put both numbers in the comments, seconds and hours, honestly counted. In thirty days, same wall, same darkness, same worse side, and we will see what the night shift has been building. You train the cables by day. Tonight, and every night, the cables are rebuilt by the shift you have been short-staffing.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_neck_hold.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same test, before the phone. Bring me more seconds in the dark. Subscribe, and keep your numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "sleep science",
+  "sleep mistakes",
+  "recovery hormones",
+  "growth hormone sleep",
+  "balance test",
+  "sleep for muscle",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_balance_test.webp",
+  "big": "5 HRS",
+  "hook": "THE SLEEP AUDIT"
+ },
+ "title": "5 sleep science Mistakes That Are Destroying Your recovery hormones",
+ "v5": true
+}

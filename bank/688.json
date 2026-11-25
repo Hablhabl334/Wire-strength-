@@ -1,0 +1,387 @@
+{
+ "badge": "EP 688 - THE REACTION TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE RECEPTORS",
+  "YOUR VERDICT"
+ ],
+ "description": "Stop guessing your caffeine and start dosing it like the drug it is. Drop a ruler, catch it, and turn the centimetres into a protocol: dose by kilo, peak timing, a hard curfew, and sensitivity days that keep the drug paying.",
+ "hashtags": [
+  "reaction test",
+  "caffeine protocol",
+  "dosing",
+  "curfew",
+  "nerve stimulants"
+ ],
+ "id": "688",
+ "scenes": [
+  {
+   "asset": "ren_punch.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BEFORE ANY COFFEE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MIDDLE OF THREE DROPS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR REACTION NUMBER",
+     "pos": "tr",
+     "text": "CM OF FALL"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NEARLY IMPOSSIBLE TO FAKE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test needs a ruler, a partner if you have one, and your uncaffeinated morning. Sit with your forearm resting on a table, hand open at the edge, thumb and fingers a centimetre apart like a claw waiting to bite. Your partner holds the ruler just above your hand, zero at the bottom, and drops it without warning. Catch it as fast as you can and read the centimetre mark at the top of your thumb: the further it fell, the slower the catch. Three drops, take the middle one, and that distance is your number, a field measure of reaction speed that laboratories have used for generations because it is nearly impossible to fake or flatter. Do it before any coffee, because today the test is also the baseline for everything this episode teaches about timing the drug. Keep your centimetres, and note the time and your sleep, because reaction is an honest witness and it testifies about the whole system. By the end, caffeine stops being a beverage in your life and becomes what it always was: a dosed, timed, receptor-level tool.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CAF\u00c9 SIZES ARE MARKETING UNITS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE STUDIED ZONE",
+     "pos": "br",
+     "text": "3-6 MG/KG"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE STRONG COFFEE AT 60 KG"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PREDICTABLE IS THE GOAL"
+    }
+   ],
+   "big": "3-6 MG/KG",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE STUDIED DOSE: PER KILO, NOT PER CUP",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the number that replaces guesswork. The performance research on caffeine clusters around three to six milligrams per kilogram of bodyweight, taken roughly forty-five to sixty minutes before the work. Read what that means for a man of sixty kilos: one hundred and eighty to three hundred and sixty milligrams, which is one strong coffee, not the caf\u00e9's largest bucket plus a pre-workout stacked on top. Caf\u00e9 sizes are marketing units. Milligrams per kilo are pharmacology, and the two systems disagree violently at the light end of the scale, where a standard large coffee can quietly deliver a heavy man's dose to a light man's receptors, jitters included, sleep damage included. Dosing by kilo also explains the man who swears caffeine does nothing and the man who swears it ruins him: they are frequently the same dose at different bodyweights, one under the zone, one over it. Weigh the dose once, honestly, and the drug becomes boring in the best way: predictable. Predictable is what protocols are made of.",
+   "section": "THE NUMBER",
+   "sub": "a light man overshoots on caf\u00e9 sizes - weigh the dose, not the drink",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Peak: about 45-60 minutes.",
+      "Half-life: roughly 3-7 hours, personal."
+     ],
+     "pos": "tr",
+     "title": "THREE FACTS"
+    },
+    {
+     "asset": "ren_punch.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SCHEDULE BACKWARDS FROM THE WORK"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE CENTIMETRES AUDIT THE DRUG"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The protocol stands on three facts about the molecule, so let us set them in a row. Fact one: caffeine works by occupying adenosine receptors, muting the fatigue signal without removing the fatigue, which is why it sharpens reaction and perceived energy while the underlying tiredness keeps its own ledger. Fact two: after swallowing, blood levels climb to a peak in roughly forty-five to sixty minutes, so the man who drinks at the gym door has timed his peak for the drive home; the drug must be scheduled backwards from the work, like everything else in this season. Fact three: clearance is personal. The liver enzyme that dismantles caffeine runs at speeds set largely by genetics, giving half-lives anywhere from about three to seven hours between individuals, which is why your friend sleeps fine after an evening espresso and you vibrate until two.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE MORNINGS, ONE DRUG"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "TIMED DOSE",
+       14,
+       "cyan"
+      ],
+      [
+       "LATE DOSE, NEXT MORNING",
+       19,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "YOUR CATCH, BY TIMING (LOWER IS FASTER)"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "DOSE TO PEAK",
+     "pos": "tr",
+     "text": "50 MIN"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE TIMING IS THE VARIABLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Run the self-experiment the science suggests and the bars below stop being illustrations. Test your ruler catch on a rested morning with no caffeine: that is the baseline the test just gave you. On another rested morning, take your weighed dose, wait fifty minutes, and test again. Most men find the catch shortens by a centimetre or three, the signature of adenosine blockade arriving on schedule. Now the control condition nobody runs: take the same dose at four in the afternoon, sleep that night, and test the next morning. For the man with a slow clearance, the morning number worsens, because the drug spent the night taxing the deep sleep that reaction runs on. Same drug, same dose, three different outcomes, decided entirely by the clock. This is the entire caffeine literature in miniature: the molecule is consistent, the timing is the variable, and the variable is yours. The protocol in a few minutes is nothing but these three mornings, organised into rules so you stop re-running the bad one by accident.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_neck_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SENSITIVITY IS A RESOURCE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TO DEFEND THE RESPONSE",
+     "pos": "br",
+     "text": "2 LOW DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COUNT THE WHOLE LEDGER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOUR RECEPTORS VOTE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Deeper into the protocol's fine print, where the difference between users and owners of this drug lives. First, sensitivity is a resource that depletes with daily use, as the receptor population grows to meet the blockade; two deliberately low days a week, or a lighter week each month, defend the response you are paying for. Second, food changes the curve: a dose taken with a meal peaks later and gentler, which some men prefer for training and others use accidentally to ruin their timing math, so keep the condition consistent with the purpose. Third, stacking is where audits die: coffee, energy drinks, pre-workout, and certain teas all draw on the same daily ledger, and the man who counts only his morning cup is lying to himself in milligrams. Fourth, respect the anxiety signal: a dose that buys reaction speed at the cost of a racing mind and ruined fine control is overdosed for you, whatever the chart says, because the zone is a range and your receptors vote within it. The deep dive's lesson is that a protocol is not a dose.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_punch.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SMALLEST BUDGET IN THE GYM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE FULL EFFECT",
+     "pos": "br",
+     "text": "1 COFFEE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SIGNAL, NOT NOISE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CHEAPER, CLEANER, MEASURABLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The light man's caffeine economics deserve their own scene, because they are better than he has been told. Your full ergogenic dose is one honest coffee, which means your stimulant budget is the smallest in the gym, your curfew is the easiest to keep, and your sensitivity resets are cheap because there is less habit to unwind. Compare the heavy man's position: chasing the same per-kilo effect at double the milligrams, paying double the sleep tax, and drinking from vessels sized by marketing departments. He is not more hardcore. He is more exposed. There is a further, quieter advantage in the feedback loop: at your dose, the ruler test actually resolves the drug's effect, a centimetre or two of signal, where the mega-doser's nervous system is so saturated and sleep-deprived that his numbers are noise about noise. Precision instruments need a precise subject. You are the precise subject. The season's refrain holds again: the systems scale with the body, and at the small end of the scale, everything gets cheaper, cleaner, and easier to measure.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "check": 3,
+   "exercise": "ACTIVE HANG",
+   "music": "drive",
+   "narration": "Neural sharpness, unplugged. Four short active hangs, shoulders pulled down, body still, full rest between. Wake the wiring without the drug. Go.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEIGH IT IN MILLIGRAMS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "45-60 MIN BEFORE THE WORK"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "STACK SOURCES UNCOUNTED"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "AUDIT WITH THE RULER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The caffeine protocol, complete, in five rules. Rule one: weigh the dose in milligrams per kilo, three to six, and write your personal number down; for most men in this audience it is one strong coffee, and knowing that ends the guessing forever. Rule two: time it backwards, forty-five to sixty minutes before the session or the test that matters, with the same food conditions each time. Rule three: the curfew is law, last dose eight to ten hours before bed, because the night shift from the sleep episode outranks any afternoon boost. Rule four: two low days a week, tea or nothing, defending sensitivity the way you would defend any resource you plan to spend on a big day. Rule five: audit monthly with the ruler, same hour, same conditions, and let the centimetres grade the system rather than your feelings about it. Five rules, and the drug becomes what the research always said it could be: a few percent, on purpose, at the right hour, for free. Everything else is just drinking.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_punch.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WITNESS NAMES SLEEP FIRST"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME TABLE, SAME CLAW",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CENTIMETRES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your reaction verdict, graded on this morning's uncaffeinated catch, with the bands offered as rough field marks rather than laboratory law. Over twenty centimetres: a slow morning system, and before blaming your genes, audit last night's sleep and yesterday's caffeine timing, because the witness usually names them. Fifteen to twenty: the broad average, a working nervous system with room the protocol knows how to claim. Under fifteen: a wired catch, fast wiring honestly measured, and your job is protecting it rather than chasing more. Record the conditions with the number, sleep hours and dose timing both, because a reaction score without its context cannot be compared next month. Put your centimetres in the comments, middle of three, plainly read. In thirty days, same table, same claw, same honest morning, and we will see whether the protocol bought you speed. You came in drinking a drug like a beverage. You leave dosing it like an athlete, and the ruler will keep you honest.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ruler, same rested morning. Bring me a shorter catch. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "caffeine protocol",
+  "caffeine dose",
+  "reaction test",
+  "caffeine timing",
+  "mg per kg caffeine",
+  "adenosine receptors",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_punch.webp",
+  "big": "3-6 MG/KG",
+  "hook": "THE REACTION TEST"
+ },
+ "title": "Stop Doing caffeine science Wrong: Train Your nerve stimulants Instead",
+ "v5": true
+}

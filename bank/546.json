@@ -1,0 +1,398 @@
+{
+ "badge": "EP 546 - ANKLE HOP MISTAKES",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Hop on one foot, quick and springy, and count. Ankle hops should build the stiffest spring in your body, but five common mistakes quietly turn them into a stiffness-destroying exercise. Take the hop test, find which mistakes are yours, and fix the spring.",
+ "hashtags": [
+  "ankle hops",
+  "ankle stiffness",
+  "calisthenics",
+  "hop test",
+  "achilles"
+ ],
+ "id": "546",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE FOOT, HEEL UP"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "COUNT THE CLEAN HOPS",
+     "pos": "br",
+     "text": "20 SEC"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KNEE ALMOST STRAIGHT"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LOWER ANKLE IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIVE MISTAKES ARE WAITING"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand on one leg on flat, firm ground, hands on your hips, the other foot held just off the floor behind you. Now hop: small, quick, springy hops straight up and down on that one foot, like the floor is hot and you are barely allowed to touch it. Rules: your heel never touches down, your knee stays almost straight, and the hops stay small and fast. Start your clock and count your clean hops in twenty seconds. The count ends when the heel touches, the knee starts squatting, or the rhythm breaks into survival hopping. Test both ankles and keep the lower count; that is your number. Keep it somewhere safe. At the end I will tell you what it says about your ankle stiffness, and we will name the five mistakes that are quietly destroying the spring this test measures, because chances are at least two of them are yours.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "25 CLEAN = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ELITE ANKLE STIFFNESS",
+     "pos": "br",
+     "text": "35+ HOPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SPRING AND MANAGEMENT, GRADED"
+    }
+   ],
+   "big": "25 HOPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "IN 20 SECONDS IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twenty-five clean hops in twenty seconds on one ankle, heel up, knee quiet, rhythm unbroken, is trained ankle stiffness. Under fifteen, something is wrong beyond fitness, and it is almost always one of the five mistakes ahead eating your spring alive. Over thirty-five, your ankle returns energy like a sprinter's, and your hops are a masterclass in free power. Here is why this count matters. Single-leg hopping is the purest stiffness exam in this season: the hip and knee are locked out of the job, so the Achilles and the foot spring must store and return every hop alone. A stiff spring cycles fast and cheap. A soft or badly managed one cycles slow and bills the calf muscle for every bounce. Your count grades the spring and its management together, and the mistakes section will separate the two, because they need different fixes.",
+   "section": "THE NUMBER",
+   "sub": "under 15: a mistake is eating the spring - over 35: elite ankle stiffness",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Too long, too bent, heel down:",
+      "the spring stops springing."
+     ],
+     "pos": "tr",
+     "title": "THE NARROW WINDOW"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MUSCLE HOLDS, TENDON SPRINGS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NEARLY FREE WHEN RIGHT"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EXPENSIVE WHEN WRONG"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The hop is a spring doing arithmetic. You land on the ball of your foot with a few times your bodyweight, the Achilles stretches and stores that energy, and a fraction of a second later it recoils and returns most of it into the next hop. The calf muscle's role is not to push; it is to hold nearly still, keeping the tendon's top end fixed so the stretch happens in the cable, not the muscle. That division of labor is ankle stiffness, and it only works inside a narrow window: contact too long and the energy leaks as heat; knee bending too much and the bigger joints steal the job; heel touching and the spring unloads completely. When the window is respected, hopping is nearly free, a tendon metronome. When it is not, the same exercise becomes expensive calf raises at speed, and the spring learns nothing. The five mistakes ahead are simply the five ways athletes fall out of the window, and every one of them is coachable in a week.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "plantar_fascia_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A SPRING ON JELLY FAILS"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "ARCH COLLAPSE",
+       30,
+       "red"
+      ],
+      [
+       "LONG CONTACT",
+       40,
+       "gold"
+      ],
+      [
+       "KNEE STEALS",
+       30,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE HOP ENERGY DIES"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOUR RHYTHM IS THE RESULT"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The foot is the spring's foundation, and its science is underappreciated. The plantar fascia and the small muscles of the foot stiffen the arch on every landing, turning a soft bag of bones into a rigid lever the Achilles can pull against. A collapsing arch is a spring mounted on jelly: the tendon recoils, but the foot gives way and the energy dies in the sole. Research on hopping and running confirms that foot stiffness and Achilles stiffness work as one system, and that the system responds to short-contact training with measurable gains in weeks. There is also a timing science: the spring works best at its natural frequency, the rhythm your count found today. Forcing hops faster than the spring's frequency makes the muscle cheat; slower makes the tendon wait and leak. Your honest rhythm is not a flaw in the test. It is the test result, the frequency your current spring is tuned to, and training retunes it upward.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESSONS AND THE GYM"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "SLOW DROPS, MOST DAYS",
+     "pos": "br",
+     "text": "3 x 8"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FIX CAR AND DRIVER"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The eccentric drop returns as the spring's capacity builder, because hops alone cannot fix a tendon that lacks the raw material to be stiff. Lowering your heel slowly off a step, one leg, five seconds down, loads the Achilles through its full range and tells it to remodel thicker and stiffer. Three sets of eight, most training days, is the classic dose. Think of it this way: hops are the spring's driving lessons, drops are its gym. A driver with no car learns nothing, and a car with no driver goes nowhere. The mistakes in the next training scene are driving errors. This drill fixes the car, so fix both in parallel and your count has nowhere to go but up.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CYCLES ARE THE CURRENCY"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PER WEEK, SAME STRESS",
+     "pos": "br",
+     "text": "MORE HOPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RATIONED BY CALENDAR"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SPRING COUNTS CYCLES"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage in the hop is the playground arithmetic from the bounce test, sharpened by one leg. Every hop lifts and catches your full mass on a single ankle spring, so the tissue cost per hop scales directly with what you weigh. Lighter athletes accumulate hundreds more quality hops per week at the same tendon stress, and stiffness is a volume adaptation: the spring retunes under accumulated cycles. The heavy athlete's hop training is rationed by Achilles load before his rhythm ever gets to practice. Yours is rationed by your calendar. This is also why the great hoppers and skippers of the world, boxers in their rope work, sprinters in their drills, share a build the mirror underrates. The spring does not care about your silhouette. It cares about cycles, and you can afford more of them than almost anyone.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "check": 3,
+   "exercise": "ANKLE HOPS",
+   "music": "drive",
+   "narration": "Now we hop together. Three rounds of twenty seconds per ankle: small, quick, heel up, knee quiet. Switch ankles each round, and if the rhythm breaks, reset it instead of surviving it.",
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HEEL KISSING THE FLOOR"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BENDING FOR HEIGHT"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SOFT GROUND STEALS RECOIL"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "OUTRUNNING YOUR RHYTHM"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "IGNORING THE WEAK ANKLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The five mistakes, in the order they usually appear. Mistake one: letting the heel kiss the ground between hops. The kiss unloads the spring completely, and every hop becomes a fresh muscle lift; keep the heel hovering like the floor is lava. Mistake two: bending the knee to jump higher. Height is not the test; the bent knee steals the job from the ankle and the spring learns nothing. Mistake three: hopping on soft ground or in marshmallow shoes. The surface absorbs the recoil your tendon was supposed to return, and you train the shoe instead of the spring. Mistake four: chasing speed beyond your rhythm. Faster than your frequency, the calf starts muscling every hop and the stiffness training ends; own your rhythm and let it climb. Mistake five: only hopping the strong ankle. Springs come in pairs, and the weak one sets your ceiling in every cut, landing and sprint you will ever do. Fix the five and the count takes care of itself, because the count was never the problem. The window was.",
+   "section": "THE MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WINDOW WAS THE PROBLEM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR WEAKER COUNT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RECOUNT THE FORTUNE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under fifteen: a mistake is eating your spring, and the fix list is above; expect your count to jump within two weeks of honest windows. Fifteen to twenty-five: the spring works and the management is learning; volume and drops will carry you to the line. Over twenty-five clean on both ankles: certified stiffness, a spring that returns what it borrows. Over thirty-five: elite, the ankle of a sprinter, whatever the mirror says about the rest of you. Put your weaker ankle's count in the comments, just the number, and retest in thirty days on the same ground with the same strict rules. Springs keep their books in hops, and next month we recount the fortune.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A BIGGER COUNT"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ground, one ankle, twenty seconds of clean spring. Bring me a bigger count and we will talk about jumping off one leg. Subscribe, and keep your number safe. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "ankle hops",
+  "ankle stiffness",
+  "hop test",
+  "ankle hop mistakes",
+  "achilles spring",
+  "single leg hops",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "5 MISTAKES",
+  "hook": "ANKLE HOPS"
+ },
+ "title": "5 ankle hops Mistakes That Are Destroying Your ankle stiffness",
+ "v5": true
+}

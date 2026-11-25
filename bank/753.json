@@ -1,0 +1,393 @@
+{
+ "id": "753",
+ "v5": true,
+ "title": "Your Creatine Test Reveals Your Hidden Strength",
+ "description": "Creatine is the most studied supplement in sports science, and the test is simple: how full are your muscle energy stores? Test your reps, learn your number, and see what fuller stores actually change.",
+ "tags": [
+  "creatine test",
+  "creatine for skinny guys",
+  "muscle energy stores",
+  "creatine monohydrate",
+  "should i take creatine",
+  "gaining strength",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "creatine",
+  "energy stores",
+  "strength test",
+  "gaining",
+  "calisthenics",
+  "skinny to strong"
+ ],
+ "category": "gaining",
+ "badge": "EP 753 - CREATINE: THE TEST",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE STORES",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_dip_top.webp",
+  "big": "+2 REPS",
+  "hook": "FULLER STORES, MORE REPS",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_dip_top.webp",
+    "ren_dip_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today we test your stores. | Find two chairs, or bars. | Hands planted, body straight. | Max strict dips. | Chest down, elbows bent. | Press to full lockout. | Count every clean rep. | Stop at honest failure. | That is your number. | Write it down now. | Keep it safe until the | verdict at the end. | This number reads something you | cannot see in mirrors. | It reads your quick energy. | The fuel of hard reps. | Most skinny guys run on | half-full stores. | Not from laziness. | From plain, ordinary diet. | Let us see your tank. | Dip until it is honest.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "TEST THE TANK",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "MAX DIPS",
+     "label": "STRICT AND CLEAN",
+     "pos": "br",
+     "at": 8
+    },
+    {
+     "kind": "chip",
+     "text": "QUICK ENERGY READS HERE",
+     "pos": "tr",
+     "at": 14
+    },
+    {
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "br",
+     "at": 19
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "+2 REPS",
+   "label": "THE AVERAGE GAIN WHEN STORES GO FROM LOW TO FULL",
+   "sub": "no creatine: stores part-full - saturated: the last reps stop dying early",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the number this test is really about. When researchers take people whose muscle creatine stores start low and fill those stores completely, the average result on hard, repeated efforts is not magic. It is a couple of extra reps before failure, a little more total work per session, repeated hundreds of times across a year. Two reps sounds small until you multiply it by every session you will ever do. The men with naturally full stores, often the ones who eat the most meat and fish, gain almost nothing from supplementing, because their tank was never low. The men with low stores gain the most. Your dip number today is the before picture. What matters is whether your tank is the low kind.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "NOT MAGIC, MULTIPLIED",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "+2 REPS",
+     "label": "PER HARD SET",
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "LOW TANKS GAIN MOST",
+     "ok": true,
+     "pos": "tr",
+     "at": 17
+    },
+    {
+     "kind": "chip",
+     "text": "THE BEFORE PICTURE",
+     "pos": "br",
+     "at": 24
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "The mechanism is beautifully simple, which is rare in this industry. Inside every muscle fiber sits a small battery called phosphocreatine. When you explode into a hard rep, your muscle spends its fastest fuel first, and the phosphocreatine battery is what recharges that fuel in the seconds between efforts. A bigger battery means the recharge keeps up longer, so rep eight feels like rep six used to. Creatine itself is a compound your body makes from amino acids and also takes in from meat and fish. Storing more of it is not a drug trick and not a hormone trick. It is a pantry decision: keep more of a normal fuel in stock, and the hard seconds of every set get slightly cheaper. A useful picture: your muscles keep this battery charged the way a phone charges overnight, from the creatine pool in your blood. The pool is filled by your own production plus your food. Supplementing simply raises the pool, and the battery charges closer to its true ceiling. Nothing exotic enters the system at any point.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "THE SMALL BATTERY",
+     "lines": [
+      "Phosphocreatine recharges fast fuel.",
+      "Fuller stores, cheaper hard reps."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_grip_squeeze.webp",
+     "at": 10
+    },
+    {
+     "kind": "chip",
+     "text": "A PANTRY DECISION",
+     "pos": "br",
+     "at": 17
+    },
+    {
+     "kind": "mark",
+     "text": "HARD SECONDS GET CHEAPER",
+     "ok": true,
+     "pos": "tr",
+     "at": 24
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_towel_curl.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science here is unusually settled, so let me give it to you straight. Creatine monohydrate is among the most studied supplements in history, with hundreds of trials behind it, and the mainstream sports-medicine position is that it is effective for high-intensity work and appears safe for healthy adults at normal doses. The standard dose is three to five grams a day, every day, and the stores fill over three to four weeks. A loading week fills them faster but is optional. What it does not do matters too: it does not build muscle by itself, it does not replace protein or sleep, and the water it draws into muscle is inside the fiber, not bloat under the skin. It is a small, honest tool. Small honest tools, used daily, are this channel's whole religion. One honest limit belongs in the record: the trials measure averages across groups, and your personal response is a sample of one. That is not a weakness of the science. It is the reason this channel insists on your retest instead of asking you to trust any average, including a flattering one.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "SETTLED SCIENCE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "WHAT FILLS THE STORES",
+     "items": [
+      [
+       "3-5 G DAILY",
+       80,
+       "cyan"
+      ],
+      [
+       "OCCASIONAL DOSES",
+       35,
+       "gold"
+      ]
+     ],
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "SMALL, HONEST, DAILY",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "NOT A REPLACEMENT",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "One deeper detail decides whether this even applies to you: your starting stores depend heavily on your diet. People who eat meat and fish daily often sit near the top of the natural range already. People who eat little meat, or none, often sit near the bottom, and they are consistently the strongest responders in the studies. This is why two friends can take the same powder and report opposite results, and both be telling the truth. There is also a non-responder group whose stores simply start full. The honest way to know your group is the test you just did, plus thirty days of consistency, plus the same test again. Your retest number is the only review of this supplement that was written about you.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "DIET SETS THE START",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN JUDGE",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "YOUR RETEST IS THE REVIEW",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "BOTH FRIENDS WERE RIGHT",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Why does this suit the skinny guy especially? Because your limiting factor in most sessions is not skill and not toughness. It is the last two reps of every set, the reps that carry the strongest building signal, and those are exactly the reps that die when the quick-energy battery runs dry. A heavier athlete has more absolute strength to spare. You train closer to your ceiling on ordinary bodyweight work, which means the battery matters more to you, not less. Add the second advantage: creatine is cheap, tasteless, and takes ten seconds a day. The skinny guy's program should be built from things he will still be doing in month six. This one passes that test easily.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE LAST TWO REPS",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "10 SEC",
+     "label": "PER DAY",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "BUILT FOR MONTH SIX",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "CHEAP AND TASTELESS",
+     "pos": "br",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_dip_top.webp",
+   "exercise": "DIP SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Now spend the battery on purpose. Four rounds of dips, forty seconds on, twenty off. Stop each round two reps before failure and keep the form strict. Feel where the reps start dying. That wall is what fuller stores move.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The protocol could not be simpler, which is the point. One: three to five grams of plain creatine monohydrate, once a day, every day, in any drink you already have. Two: same time daily, tied to an existing habit like breakfast, because consistency fills stores and random doses do not. Three: change nothing else for thirty days, not the program, not the calories, so the retest has a clean story to tell. Four: expect the scale to rise a kilo or so early as the fibers hold more water, and do not mistake that for fat or for muscle. It is the pantry filling. Then retest the dips under the same conditions and let your own number deliver the verdict on whether your tank was low.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "SAME TIME DAILY",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "CHANGE NOTHING ELSE",
+     "ok": true,
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "EXPECT THE WATER KILO",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "RANDOM DOSES",
+     "ok": false,
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_dip_bottom.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict comes in two parts, because this test has a before and an after. Today's dip number, read plainly: if your reps died suddenly rather than gradually, with the first reps feeling easy and the wall arriving like a door closing, that pattern fits a quick-energy limit, the exact limit fuller stores address. If your reps slowed evenly from the start, your limit is more likely plain strength, and training, not stores, is your lever. Either way, the real verdict is written in thirty days: same test, same chairs, same rules. Two or more extra clean reps says your tank was low and is now full. The same number says your stores were never your problem, and you can spend your money and attention elsewhere with a clear conscience. Whatever your pattern today, write the number where you will see it daily. A dip count on the fridge door does more for the next thirty days than any opinion about supplements, mine included.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PATTERN",
+     "pos": "tr",
+     "at": 5
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THE REAL VERDICT",
+     "pos": "br",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT YOUR DIP NUMBER",
+     "ok": true,
+     "pos": "tr",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, same chairs, same dips, same honest counting. Bring me a fuller tank and a bigger number. Subscribe, and keep the daily ten seconds running until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "TEN SECONDS DAILY",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

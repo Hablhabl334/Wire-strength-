@@ -1,0 +1,392 @@
+{
+ "badge": "EP 732 - DIGESTION MISTAKES",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE 5 MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "You can only gain from what you absorb, and five digestion mistakes leak calories before they count: speed-eating, giant single meals, no chewing, drinking gallons with meals, and random fiber bombs. Time your post-meal comfort, then seal the leaks in order.",
+ "hashtags": [
+  "digestion mistakes",
+  "gut absorption",
+  "weight gain",
+  "bloating",
+  "hardgainer"
+ ],
+ "id": "732",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR BIGGEST NORMAL MEAL"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FORK DOWN, CLOCK ON"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR GAP"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "How a meal sits is data about absorption."
+     ],
+     "pos": "br",
+     "title": "COMFORT IS A READING"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test measures your digestion with a clock and a little honesty. Eat your biggest normal meal of the day, the full gaining version, and note the time you put the fork down. Then simply watch yourself: note the minute you feel comfortable again, light, mobile, ready to think about food someday, not stuffed, not bloated, not carrying a stone. The gap between fork-down and comfortable is your number. A meal you absorb well leaves you comfortable surprisingly fast and hungry again on schedule. A meal your gut struggles with sits like a tenant who will not leave. Keep your gap. At the end I will show you the bands, and the five mistakes that stretch a healthy gap into a whole lost afternoon.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SECOND HALF OF EATING"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THE ABSORBING BAND",
+     "pos": "br",
+     "text": "60-90 MIN"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMFORT PREDICTS THE NEXT MEAL"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DREAD IS A LEAK TOO"
+    }
+   ],
+   "big": "3 HRS",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHERE A STRUGGLING GUT USUALLY LANDS AFTER A BIG MEAL",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Around three hours of heaviness after a big meal is where a struggling gut usually lands, and past three hours, especially with bloating, the leaks this episode is about are open. Sixty to ninety minutes to comfortable means your system handled the load: chewed, mixed, enzymed, and absorbed on schedule. Between ninety minutes and three hours, the system copes but complains. Understand what the gap really measures. It is not about comfort for its own sake. A meal that sits badly is a meal partly wasted: nutrients leaving unabsorbed, the next meal delayed or shrunk, and a skinny guy who starts dreading the very meals that should build him. Absorption is the second half of eating, and most gaining advice pretends it does not exist.",
+   "section": "THE NUMBER",
+   "sub": "60-90 min: absorbing well - over 3 hrs or heavy bloating: the leaks are open",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "fact",
+     "lines": [
+      "Chew, churn, absorb, ferment.",
+      "Flood a station and the line backs up."
+     ],
+     "pos": "tr",
+     "title": "A PRODUCTION LINE"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 12,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PACING, SIZING, SEQUENCE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NOTHING IS BROKEN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the hidden system. Absorption is a production line with stations: chewing grinds and starts enzymes in the mouth, stomach acid and churning make the soup, the small intestine's vast folded surface pulls nutrients across, and gut microbes finish what is left. Every station has a comfortable capacity. Flood one station and the line backs up: huge unchewed pieces resist the acid, an enormous single meal overwhelms enzyme supply, a liter of water with the meal dilutes the chemistry mid-shift. Nothing here is broken in you. The line is simply being fed faster than its stations can work. The five mistakes are five ways of flooding the line, and the fix is never exotic. It is pacing, sizing, and sequence, the boring levers that actually run the gut.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME MEAL, TWO FATES"
+    },
+    {
+     "at": 15,
+     "items": [
+      [
+       "9-MIN FLOOD",
+       230
+      ],
+      [
+       "25-MIN MEAL",
+       80
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 22,
+     "kind": "swap"
+    },
+    {
+     "at": 30,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE GATE EVERY CALORIE PASSES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Watch the same thousand-calorie meal eaten two ways. Eaten in nine minutes, standing, half-chewed, washed down with a liter of soda: the gut receives a flood, comfort returns after nearly four hours, and the evening meal shrinks because lunch is still on shift. Eaten in twenty-five minutes, seated, chewed properly, drink taken mostly afterward: comfort returns in about eighty minutes, hunger reappears on time, and the day gains a full second meal. The calories were identical. The absorbed, usable portion was not, and neither was the day's total. Studies of eating rate keep finding that slower eating improves fullness signaling and digestive comfort. For the skinny guy, digestion is not a detail. It is the gate every calorie must pass. One more station deserves respect: the gut lining itself, which renews constantly and works best when fed regularly and not assaulted by extremes. Wild swings, fasting days followed by floods, are harder on the line than a steady, moderate load it can predict. Predictability is a digestive nutrient in its own right.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CLIMB FIBER GRADUALLY"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BIG MEALS NEED DAYLIGHT"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PERSISTENT PAIN = PROFESSIONAL"
+    },
+    {
+     "at": 24,
+     "kind": "fact",
+     "lines": [
+      "The same meal absorbs differently at 6pm and midnight."
+     ],
+     "pos": "br",
+     "title": "TIMING IS A DIGESTIVE TOOL"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Mistakes four and five, up close. Four: the random fiber bomb. Fiber is healthy, but a sudden mountain of beans, bran, and raw vegetables on an unadapted gut ferments into gas and misery, and quietly teaches you to fear big meals. Fiber must be climbed like a weight, gradually. Five: eating your biggest meal last, exhausted, at midnight, when digestion is winding down with the rest of you, then lying on it. The same meal at six in the evening is a different event entirely. And a boundary worth stating once: if discomfort is sharp, persistent, or comes with real pain, that is not a mistake to fix with pacing, that is a professional to see. Everything else in this episode is plumbing. Treat pain as a referral, always.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FEWER HOLES IN THE BUCKET"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THE CHEAPEST SURPLUS",
+     "pos": "br",
+     "text": "ALREADY BOUGHT"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COUNT WHAT YOU ATE"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLOSER TO THE COMFORT ZONE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The skinny advantage in absorption: your meals are smaller than a big bulker's, so your production line is closer to its comfort zone than his ever is. A few pacing fixes, smaller floods, better sequence, and your absorption percentage climbs toward nearly everything you eat. Meanwhile the five-hundred-calorie surplus you need is small enough that sealing leaks alone can fund half of it. You do not need a bigger river of food. You need fewer holes in the bucket you already carry. For a skinny guy, absorption is the cheapest surplus in the world: calories you already bought, already cooked, already chewed, finally counted.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "check": 3,
+   "exercise": "POST-MEAL WALK",
+   "music": "drive",
+   "narration": "The oldest digestive tool on earth: the post-meal walk. Six easy rounds, a minute of gentle walking rhythm, brief pauses. After your biggest meal today, walk ten easy minutes. The gut loves motion more than medicine cabinets.",
+   "rest": 10,
+   "rounds": 6,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 60
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "20-MINUTE MEAL FLOOR"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SPLIT THE GIANT MEAL"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SPEED-EATING"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "MIDNIGHT MEGAMEALS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Seal the leaks in order. One: put the fork down between bites and give every meal a twenty-minute floor; the line cannot be rushed. Two: split the giant meal into a meal and a planned second sitting ninety minutes later; two medium floods absorb better than one disaster. Three: chew until the food is soup; it is the only station you fully control. Four: drink most of your fluids between meals, not during. Five: raise fiber slowly, one step per week, and move the biggest meal earlier. Avoid the mirror images of all five for thirty days and watch the comfort gap shrink. Absorption first, then appetite, then the scale. In that order, the gains stop leaking. A small tool for the twenty-minute floor, since willpower at the table is unreliable: serve the meal, then set a visible timer for twenty minutes and make finishing early impossible by putting the second helping out of reach until it rings. Within two weeks the pace becomes habit and the timer becomes furniture. Systems beat intentions at the table too.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR GAP"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THEN RETEST THE MEAL",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR GAP"
+    },
+    {
+     "at": 28,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ABSORPTION BEFORE APPETITE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Read your gap. Sixty to ninety minutes: your line runs well, so your missing calories are an intake problem, not an absorption one. Ninety minutes to three hours: pacing and meal size are leaking a meaningful share; the protocol claws it back within weeks. Over three hours or heavy bloating most days: start with the smallest fixes, meal-splitting and chewing, and if real discomfort persists, see a professional before pushing volume. Retest in thirty days with the same big meal. Comment your gap and the mistake you caught yourself doing mid-meal. Everyone catches one. Notice what this test gives you that a scale cannot: a leading indicator. The comfort gap improves weeks before the weight average confirms anything, which makes it the perfect early proof that the protocol is working. Chase the shrinking gap this month. The scale will file its report later, in agreement.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ROOM FOR ONE MORE MEAL"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same big meal, same clock. Bring me a smaller gap and a day with room for one more meal. Subscribe, and keep today's number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "digestion tips",
+  "gut absorption",
+  "calorie absorption",
+  "weight gain digestion",
+  "bloating after meals",
+  "hardgainer gut",
+  "chewing food"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_horse_stance.webp",
+  "big": "3 HRS",
+  "hook": "ABSORB IT ALL"
+ },
+ "title": "5 digestion Mistakes That Are Destroying Your gut absorption",
+ "v5": true
+}

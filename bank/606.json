@@ -1,0 +1,391 @@
+{
+ "badge": "EP 606 - MORNING RETEST",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "THE DAWN GAP",
+  "YOUR VERDICT"
+ ],
+ "description": "The morning strength test proved your body runs on a daily rhythm: weak at dawn, strong by evening. Today we retest the morning, the hour that embarrassed you, and compare it to your old morning number. See whether the dawn gap closed, and how to train the clock itself.",
+ "hashtags": [
+  "morning strength",
+  "nerve rhythm",
+  "dead hang",
+  "retest day",
+  "circadian",
+  "calisthenics"
+ ],
+ "id": "606",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WITHIN AN HOUR OF WAKING"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE HONEST RULE",
+     "pos": "br",
+     "text": "NO COFFEE HEROICS"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANG, DROP, RECORD"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "OLD MORNING VS NEW MORNING",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "The dawn test returns. | Last time you hung | within an hour | of waking up. | And your number fell | off a cliff. | Same bar, strong evening. | Same bar, weak morning. | The gap shocked you. | Today we test dawn again. | Same rule as before: | within one hour | of opening your eyes. | No coffee heroics. | No long warm-up. | Just you and the bar | before the day starts. | Grab it, hang, drop. | That is the new number. | Keep it next to | the old morning one. | At the end | I tell you | if the gap closed. | And what closing it means.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE RETEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "OLD GAP: 15-25 SEC"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "MORNINGS CLOCKED IN",
+     "pos": "br",
+     "text": "UNDER 10 SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "TWO COMPARISONS, BOTH COUNT",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "GAP: 8 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE DAWN GAP, CLOSING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the number inside the number, the one this test was always really about. On the first run, most of you found a dawn gap of fifteen to twenty five seconds: your evening hang minus your morning hang, a whole chunk of strength that simply was not on shift yet at dawn. That gap was your score. Today there are two comparisons, and both matter. First, morning against morning: did today's dawn number beat the old dawn number? Second, the gap itself: is dawn still a different, weaker country, or has it moved closer to your evening strength? A gap under ten seconds means your mornings have clocked in, your nervous system now reports for duty near full strength. A gap that stayed wide is not a character flaw either. It is a rhythm that has not been trained yet, and rhythms, it turns out, can be trained, which is what the rest of this episode is for.",
+   "section": "OLD VS NEW",
+   "sub": "old gap 20 sec or more: dawn was a stranger - under 10: your mornings clocked in",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Nerves fire faster warm than cold.",
+      "Dawn strength is a system starting up."
+     ],
+     "pos": "tr",
+     "title": "THE BOOT SEQUENCE"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRAIN THE HOUR, MOVE THE HOUR"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE RHYTHM GETS REHEARSED",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why is the morning number lower at all, and what could possibly have changed it? Your strength runs on a daily rhythm run by the nervous system. Body temperature climbs across the day, and nerve signals travel faster in a warmer system. The hormones that sharpen drive peak and dip on a schedule. Even the fluid in your spine's discs changes overnight, which is part of why dawn movement feels stiff and negotiated. None of that is weakness. It is a system booting up in stages, and the first test simply photographed the boot sequence. What training changes is the boot speed at the specific hour you train. A nervous system that is asked for full grip strength at seven in the morning, repeatedly, starts preparing for seven in the morning: the signal arrives earlier, the warmth comes online faster, the negotiation shortens. The rhythm does not disappear. It gets rehearsed, at the hour you rehearse it, until dawn stops being an excuse with a scientific accent.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PEAK FOLLOWS THE TRAINING HOUR"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FIRST TEST",
+       22,
+       "red"
+      ],
+      [
+       "TODAY",
+       8,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE DAWN GAP"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A DEFAULT, NOT A CAGE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "STRENGTH MOVES TO THE ASKED HOUR",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The research on daily strength rhythm is blunt: for most people, grip and pulling strength peak in the late afternoon and bottom out in the early morning, with swings that can reach a fifth of the total number. That is the bad news the first episode delivered. The good news lives in the follow-up studies: the peak follows the training hour. People who train consistently in the morning shift their morning performance upward, closing much of their personal gap, while their evening number stays roughly where it was. In other words, the rhythm is not a cage, it is a default setting, and defaults can be overwritten by repetition at the hour you want to own. Your retest is the receipt for that overwriting. If your dawn gap narrowed, your nervous system did exactly what the studies promise: it moved strength to the hour you kept asking for it. If it did not narrow, the likeliest reason is the simplest one: you kept training at night and testing at dawn, asking a question your schedule never studied for.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE DAWN TEST IS A SLEEP TEST"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SECONDS AND SLEEP",
+     "pos": "br",
+     "text": "2 COLUMNS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "HONEST BOOKS, READ ALOUD",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LOG THE NIGHT WITH THE NUMBER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is a deeper layer to the dawn number that the first episode only hinted at: the morning test is secretly a sleep test. The size of your dawn gap tracks the quality of the night before it more honestly than any app on your phone. A short, broken night shows up at the bar as a wider gap, because the nervous system boots from whatever charge the night actually delivered. A full, regular night narrows it before you train a single session. This is why some of you will see a confusing retest: a better dawn number in a week you trained less, or a worse one in a week you trained hard but slept like a raccoon in a thunderstorm. Read the retest with the night attached to it. Write the sleep beside the seconds in your log, two columns, and over a season the pattern will teach you more about your own rhythm than any generic advice about mornings ever could. Your body keeps honest books. The dawn bar is where it reads them aloud.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COLD TENDONS, LIGHT LOAD"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "AT THE HOUR YOU OWN",
+     "pos": "br",
+     "text": "REAL PRACTICE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "STRENGTH WITHOUT AN APPOINTMENT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "AVAILABLE ON DEMAND"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage at dawn is the same one you carry everywhere: the load is you, and you are light. A morning hang asks cold tendons and a half-awake nervous system to hold your full bodyweight, and the lighter that weight, the more honest practice the system gets before fatigue ends the session. Heavy men often cannot train the dawn hour productively at all: their first cold hang is already a maximal event, so the session is three attempts and a shower. Yours can be a real practice, many quality seconds at the exact hour you are trying to own, which is precisely the dose the rhythm research prescribes. And there is a strategic prize here that bigger lifters rarely chase. Most of life's physical moments do not schedule themselves for your peak hour. They arrive at dawn, on stairs, with luggage, in cold rain. A man whose mornings have clocked in owns strength that is available on demand, not strength that needs an appointment. That is the version of strong that actually gets used.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "MORNING HANGS",
+   "music": "drive",
+   "narration": "Now we rehearse the dawn together. Four rounds: thirty seconds hanging, thirty seconds resting, at whatever hour you are watching this. Imagine it is seven in the morning. Cold hands, honest grip. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "TWO DAWN SESSIONS A WEEK",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SUBMAXIMAL AT DAWN"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "FIXED WAKE TIME FIRST",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "ONE HEROIC MORNING",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol trains the clock itself. Rule one: move two sessions a week to the morning, within an hour of waking, even if they are short. The rhythm only shifts for the hour that keeps asking, and two dawn appointments a week is enough asking to move it. Rule two: keep the dawn sessions submaximal, holds at seventy percent of your best, because the goal is rehearsing a strong signal, not surviving a cold maximum. Rule three: defend the night before. A fixed wake time matters more than a fixed bedtime for this test, and the log with two columns, seconds and sleep, will show you your personal dose within a month. And bury the classic mistake: testing dawn after one heroic early workout and declaring the rhythm fixed. One dawn is weather. A month of dawns is climate. You are not chasing a good morning. You are building a climate where good mornings are the forecast, and climates are built by repetition, not by events.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SECONDS, DATE, AND SLEEP"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR MORNING NUMBER",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COLD DAWN, REHEARSED MAN"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your dawn, and its verdict. If the gap is still wide, over fifteen seconds, your rhythm is untrained, not broken, and the protocol above is your next month: two dawn appointments a week and a defended night. If the gap narrowed into the ten to fifteen range, the overwriting is underway, the signal is arriving earlier, and another block at the same hours will keep closing it. If your gap is under ten seconds, your mornings have clocked in. You now own strength that shows up when life does, unannounced, and that is a rarer asset than a peak-hour personal record. Write both dawn numbers down with the date and last night's sleep beside them. Put your new morning number in the comments, just the seconds, and your gap if you know it. We retest in thirty days, same bar, same early hour, same honest rules. The dawn will be exactly as cold as it was today. Be exactly as rehearsed.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "SINGLE-DIGIT GAP",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, alarm set, bar waiting, dawn exactly as unfriendly as today. Bring me a gap in single digits. Subscribe so retest day finds you awake. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "morning strength test",
+  "morning vs evening",
+  "nerve rhythm",
+  "circadian strength",
+  "retest",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_hang_side_relaxed.webp",
+  "big": "AM VS PM",
+  "hook": "MORNING RETEST"
+ },
+ "title": "Your New Number: The morning vs evening Retest Nobody Does",
+ "v5": true
+}

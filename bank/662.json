@@ -1,0 +1,389 @@
+{
+ "badge": "EP 662 - THE CAFFEINE TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SCIENCE",
+  "YOUR VERDICT"
+ ],
+ "description": "Thirty seconds of push-ups, one honest count, and the truth about what caffeine actually does inside your nervous system: how much it helps, at what dose, and why your daily coffee may already be spending the benefit before you train.",
+ "hashtags": [
+  "caffeine test",
+  "preworkout science",
+  "push up test",
+  "calisthenics",
+  "nerve stimulants"
+ ],
+ "id": "662",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BASELINE FIRST, UNPLUGGED"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME TEST AFTER COFFEE"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "IS YOUR CAFFEINE RESPONSE",
+     "pos": "tr",
+     "text": "THE GAP"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP BOTH NUMBERS"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Thirty seconds, max speed. | The caffeine test starts clean. | No coffee yet today. | Push-ups, full reps only. | Chest down, lockout up. | As fast as form allows. | Thirty seconds on the clock. | Count every clean rep. | That is your baseline. | Write it down now. | This number is you, unplugged. | Later today, your normal coffee. | Same test, same rules. | One hour after drinking. | Compare the two counts. | The gap between them | is your caffeine response. | At the end I explain | what the gap means. | And what it costs you. | Keep both numbers safe. | The stimulant has a ledger.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REAL, MEASURABLE, SMALL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE LITERATURE AVERAGE",
+     "pos": "br",
+     "text": "+3%"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SORT YOURSELF, NOT THE ADS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TOMORROW PAYS TAXES"
+    }
+   ],
+   "big": "+3%",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHAT CAFFEINE ACTUALLY BUYS, ON AVERAGE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the number the energy-drink ads will never print: across the research literature, caffeine improves strength and endurance performance by roughly two to four percent on average. Real, measurable, and small. On a thirty-second push-up test, that is often a single extra rep, sometimes two. It is not a transformation; it is a rounding error with a good press agent. But averages hide the interesting part, which is you. Individual responses vary enormously. Some men are strong responders, gaining noticeably at ordinary coffee doses. Others gain nothing measurable at all, and a third group mainly gains jitters, a racing heart and a worse night's sleep, which taxes tomorrow more than the caffeine paid today. Your two counts, baseline and coffee, sort you into your group with more honesty than any genetic test sold online. That sorting is the real product of this episode.",
+   "section": "THE NUMBER",
+   "sub": "no change: tolerance is spending it - a big jump: you are a strong responder",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "It blocks the tired signal.",
+      "It adds no fuel at all."
+     ],
+     "pos": "tr",
+     "title": "A MOLECULAR IMPERSONATOR"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SIGNAL NOW, INVOICE LATER"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BE THE ACCOUNTANT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "What is caffeine actually doing in there? It does not give you energy. Nothing in a coffee adds a single calorie of fuel to the push-up. Instead, caffeine is a molecular impersonator. All day, a compound called adenosine accumulates in your brain as the receipt for being awake and working, and when it docks into its receptors, you feel the honest signal: tired, slowing, effort getting expensive. Caffeine fits those same receptors and blocks them, without pressing the button. The tiredness is still being produced. You simply stop receiving the mail. Meanwhile the nervous system, unbraked, lets you recruit a little harder and perceive effort a little cheaper, which is where the extra rep comes from. Every stimulant you will ever meet is some version of this trade: signal now, invoice later. Knowing the mechanism turns you from a customer into an accountant.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DOSE: 3-6 MG PER KILO"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "1 COFFEE",
+       80,
+       "cyan"
+      ],
+      [
+       "3 COFFEES",
+       85,
+       "gold"
+      ],
+      [
+       "STACK",
+       60,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "MORE IS NOT MORE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TOLERANCE GROWS RECEPTORS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TEST THE HABIT TOO"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The dose science is where the money hides. The performance studies cluster around three to six milligrams of caffeine per kilogram of bodyweight, taken about an hour before the effort. For a man your size, that is roughly one strong coffee to two ordinary ones, which means most trainees are already in range without trying. Beyond the range, the curve flattens and the side effects keep climbing, so the double-espresso-plus-preworkout stack buys mostly tremor. The second finding matters more: tolerance. Daily caffeine teaches the brain to grow extra adenosine receptors, and within a few weeks the same dose buys a fraction of its original effect, while skipping it now costs you a withdrawal headache and a sluggish morning. Your test today is therefore really two tests: what caffeine does for you, and what your habit has already done to caffeine.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_back_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE INVOICE ARRIVES AT NIGHT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE HALF-LIFE",
+     "pos": "br",
+     "text": "5-6 HRS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DEEP SLEEP PAYS THE BILL"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The invoice arrives at night, and it is itemized. Caffeine's half-life in most adults runs five to six hours, which means half of your three o'clock coffee is still on duty at nine, and a quarter of it near midnight. Sleep studies show that even when you fall asleep fine on late caffeine, the deep-sleep share quietly shrinks, and deep sleep is when the recovery hormones this channel cares about do their shift. So the full ledger of a training-day caffeine habit reads: plus three percent this afternoon, minus an unmeasured slice of tonight's construction. For a man whose entire project is long-term tissue building, that trade deserves arithmetic, not vibes. Your two test counts tell you the size of the plus. Your morning hang times, tracked honestly, will tell you the size of the minus.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_45_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOU BUY VOLTAGE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE ACCOUNTANT'S DOSE",
+     "pos": "br",
+     "text": "SMALL + EARLY"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A STIMULANT SAVED STILL WORKS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAVE IT FOR TEST DAYS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your build sharpens both sides of this trade, in your favor if you run it well. Dose scales with bodyweight, so your effective cup is cheaper and smaller than a heavy man's, and your total exposure stays low. More importantly, a light trainee's performance depends heavily on recruitment quality, the nervous system's willingness to fire everything at once, and that is precisely the dial caffeine turns. Heavy men buy mostly pain tolerance with their stimulants. You buy voltage. The strategy that follows is the accountant's strategy: keep the dose small, keep it early, and keep most days caffeine-light so the receptors stay sensitive for the days that matter, the test days and the heavy sessions. A stimulant saved is a stimulant that still works. That sentence is the entire pre-workout industry, inverted.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Now we train at baseline honesty together. Four rounds of thirty-second push-up efforts, full rest between. Whatever is in your system right now is what we work with.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BEFORE NOON, ALMOST ALWAYS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "DOSE BY THE TEST"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TWO LIGHTER DAYS A WEEK"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BORROWING AGAINST A TEST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol for stimulants, accountant rules. Rule one: caffeine before noon, almost always, so the half-life and your deep sleep stop sharing a shift. Rule two: dose by the test, not by the mood. If your coffee count beat your baseline by two reps or more, you are a responder and a small early coffee on session days is a legitimate tool. If the counts matched, caffeine is a beverage for you, not a tool, and you just saved a lifetime of pre-workout money. Rule three: two lighter days a week keep the receptors honest; total abstinence is unnecessary for most men. Rule four: never borrow against a test. The week before a retest audit, keep the routine identical, because the audit measures you, not your chemistry set.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SERVANT OR LANDLORD"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN RE-RUN THE PAIR",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT BOTH NUMBERS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your caffeine verdict. Coffee beat baseline by two or more reps: strong responder. Your stimulant is a real, if modest, tool, and it deserves the accountant's discipline, small, early, and saved for days that matter. One rep or none: you are in the honest majority, where caffeine is a pleasure, not a performance plan, and your training money belongs in food and sleep. Baseline beat the coffee test: it happens, usually through jitters wrecking rhythm, and it means your best pre-workout is a meal and a warm-up. Put both numbers in the comments, baseline first. In thirty days we re-run the pair and check whether your habit has been spending your response. Ledgers, kept honestly, are how stimulants stay servants instead of becoming landlords. Keep the two test days identical in everything except the coffee: same hour, same warm-up, same breakfast. A comparison is only as honest as its controls, and this one deserves honesty, because you will make spending decisions from it for years.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BALANCE THE LEDGER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same thirty seconds, same two tests, baseline first. Bring me both numbers and we balance the ledger together. Subscribe, and keep the pair safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "caffeine test",
+  "caffeine and performance",
+  "pre workout science",
+  "push up speed test",
+  "adenosine",
+  "nerve stimulants",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_mid.webp",
+  "big": "30 SEC",
+  "hook": "THE CAFFEINE TEST"
+ },
+ "title": "Your Caffeine Test Reveals the Truth About Your nerve stimulants",
+ "v5": true
+}

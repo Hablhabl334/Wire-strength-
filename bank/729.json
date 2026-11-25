@@ -1,0 +1,392 @@
+{
+ "badge": "EP 729 - THE SURPLUS NUMBER",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE GROWTH SIGNALS",
+  "YOUR VERDICT"
+ ],
+ "description": "Most skinny guys who swear they eat in a surplus are guessing. This test makes you count one honest day and compute your real surplus number, the single figure that switches your growth signals on or off. Find yours, read what it means, and fix it this week.",
+ "hashtags": [
+  "surplus number",
+  "growth signals",
+  "calorie surplus",
+  "hardgainer",
+  "weight gain"
+ ],
+ "id": "729",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE HONEST DAY"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COUNT THE HANDFULS TOO"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 24,
+     "kind": "fact",
+     "lines": [
+      "Most failed surpluses fail in the counting, not the eating."
+     ],
+     "pos": "br",
+     "title": "BELIEVED VS REAL"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test needs no equipment, only honesty. Take yesterday, a completely normal day, and write down everything you ate and drank, with amounts, as exactly as you can. Now price it in calories, using labels or any free tracker, and be brutally honest about the handfuls, sips, and finishes you would normally forget. Next, estimate your maintenance: body weight in kilos times roughly thirty-three is a fair starting guess for an active young man. Subtract maintenance from what you actually ate. That difference is your surplus number, and for most skinny guys watching, it is not the number they believed. Keep it. At the end, I will show you the three bands it falls into, and which one is silently running your life.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CLEAR OF THE NOISE"
+    },
+    {
+     "at": 17,
+     "kind": "stat",
+     "label": "THE RELIABLE LINE",
+     "pos": "br",
+     "text": "+300"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DAILY, NOT WEEKLY AVERAGE THEATER"
+    },
+    {
+     "at": 35,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A SIGNAL, NOT A SHOUT"
+    }
+   ],
+   "big": "+300",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE SMALLEST SURPLUS THAT SWITCHES GROWTH ON RELIABLY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Plus three hundred calories a day is the smallest surplus that switches growth on reliably for a skinny guy. Below zero, and be honest if you landed there, you are dieting by accident while believing you bulk. Between zero and plus two hundred, you are inside the noise: tracking errors, a busy day, a skipped snack, and the whole surplus evaporates, which is why months pass with the scale unmoved. At plus three hundred, held daily, the signal clears the noise. Notice it is not plus one thousand. Giant surpluses mostly build fat and misery. The growth system listens for a clear, repeatable signal, not a shout it cannot sustain. Hold the number gently, too. Maintenance estimates are starting guesses, not scripture, and your personal figure may sit a little above or below the formula. The audit that settles it is always the same: two weeks of seven-day weight averages. The formula proposes, the trend disposes. Write the estimate down before you subtract, so the believed number and the real one can never quietly swap places later.",
+   "section": "THE NUMBER",
+   "sub": "below 0: you are dieting by accident - +100 to +200: noise, not signal - +300: growth",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "fact",
+     "lines": [
+      "Surplus verified: construction funded.",
+      "Deficit detected: growth rationed."
+     ],
+     "pos": "tr",
+     "title": "THE ENERGY AUDIT"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE BODY READS THE STATEMENT"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CONSISTENT BEATS LARGE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the hidden system your surplus number controls. Your body runs a constant energy audit. When energy arrives consistently above costs, the audit flips a set of growth signals: insulin stays a little higher after meals, the cellular machinery that builds protein gets its green light more hours per day, and the hormonal background tilts from conservation toward construction. When energy arrives at or below costs, the same audit does the opposite, quietly rationing every expensive project, and muscle is the most expensive project you own. There is no malice in it. A body that cannot verify a surplus will not fund growth, the same way you would not renovate a house with an empty bank account. Your number is the bank statement the body reads.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEBT VS INVESTMENT"
+    },
+    {
+     "at": 16,
+     "items": [
+      [
+       "AT -100",
+       30
+      ],
+      [
+       "AT +300",
+       90
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br"
+    },
+    {
+     "asset": "big_vs_lean_jump.webp",
+     "at": 25,
+     "kind": "swap"
+    },
+    {
+     "at": 33,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE WAREHOUSE SHIPS OR NOT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now watch the same training week under two different numbers. At minus one hundred, a hard session is a debt: recovery crawls, soreness lingers, and the next session starts before the last one is paid for. At plus three hundred, the identical session is an investment: glycogen refills, protein synthesis gets its raw material within hours, and adaptation completes. Studies of energy availability in athletes keep showing the same pattern: low availability blunts the exact hormonal and cellular responses training is supposed to trigger. The workout is the order you place. The surplus is whether the warehouse ships it. Skinny guys keep redesigning the order. This episode is about the warehouse. There is a timing detail the warehouse cares about as well. The hours after training are when the construction crew is largest and hungriest, which is why the day's biggest meal and the shake belong near the session when life allows it. The total still matters most. But the same total, placed well, builds a little more than the same total scattered.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "VERIFIED, NOT DECLARED"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE 7-DAY AVERAGE RULES"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FLAT AVERAGE = NO SURPLUS"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Two flat weeks outrank any app."
+     ],
+     "pos": "br",
+     "title": "THE PUBLISHED REPORT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "One layer deeper: the surplus must be verified by the body, not declared by you. The body verifies through repetition: morning weight trending up slowly across two weeks, training performance creeping forward, hunger returning reliably between meals. A single huge day verifies nothing; the audit smooths over days. This is why the seven-day average weight is the skinny guy's truest instrument. It forgives water, salt, and one strange day, and it cannot be argued with. If the average is flat for two weeks, there is no surplus, whatever the tracker app claims. The scale trend is the audit's published report.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SMALLEST DISTANCE IN THE GYM"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THE GAP, FOR MOST OF YOU",
+     "pos": "br",
+     "text": "1 SHAKE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE DAILY HABIT"
+    },
+    {
+     "at": 28,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMALL BUDGET, SMALL ERRORS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The skinny advantage here is almost unfair. A big guy maintaining a hundred kilos must find his surplus on top of an enormous maintenance budget, where tracking errors are huge and appetite is already maxed. Your maintenance is small, your errors are small, and three hundred calories is one shake, one sandwich, one decision. The distance between your current number and the growth line is the smallest in the entire gym. Most of you are a single daily habit away from switching the whole system on, and you have been for years. That is not an insult. That is the best news on this channel. And the advantage compounds quietly. Once the surplus is real and verified, every other question on this channel becomes answerable. A stall can be diagnosed as training. A gain can be credited to the system. Without a verified number, every month is a guessing game played in the dark.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "check": 3,
+   "exercise": "FARMER CARRY",
+   "music": "drive",
+   "narration": "Growth signals also need a reason to fire, so we train. Four rounds of farmer carries, forty seconds walking heavy, twenty seconds rest. Grip hard, shoulders down, walk tall. Then go eat like you mean it.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "JUDGE THE 7-DAY AVERAGE"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ONE DAILY ANCHOR"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SINGLE-MORNING PANIC"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "REST-DAY AMNESIA"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your week, in order. One: weigh yourself every morning after the bathroom, and judge only the seven-day average. Two: set your target at maintenance plus three hundred, and build it from one anchor you repeat daily, a shake, a set breakfast, so the surplus survives busy days. Three: if the average is flat after two weeks, add one hundred and fifty more and repeat the audit. The mistakes: judging by single mornings, which are weather, not climate. Eating hugely on training days and forgetting rest days, which averages out to nothing. And changing the target every three days, which means the audit never sees a pattern. One number, held daily, judged weekly. That is the whole game.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR BAND"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN RECOUNT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT THE REAL NUMBER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ARITHMETIC, NOT GENETICS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Read your number. Below zero: you have been dieting by accident, and everything you blamed on genetics was arithmetic. Zero to plus two hundred: you live in the noise band, close enough to taste it; one anchor habit ends the argument. Plus three hundred or more, held daily: your growth signals are on, and if the scale still sleeps, the answer is time and training quality, not more food. Retest in thirty days: new honest day, new number, new average. Comment your surplus number, the real one, not the believed one. That honesty is where gaining starts. And recount under the same rules next month: same kind of day, same honesty, same formula. A surplus number is only useful when the measuring ritual never drifts.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CLEAR THE NOISE"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same honest count, same morning scale. Bring me a number that clears the noise. Subscribe, and keep today's real surplus safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "calorie surplus",
+  "growth signals",
+  "skinny guy diet",
+  "how to gain weight",
+  "hardgainer nutrition",
+  "bulk calories",
+  "weight gain math"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_farmer_carry.webp",
+  "big": "+300",
+  "hook": "YOUR REAL SURPLUS"
+ },
+ "title": "Your Surplus Number Reveals the Truth About Your growth signals",
+ "v5": true
+}

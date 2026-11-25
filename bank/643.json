@@ -1,0 +1,401 @@
+{
+ "id": "643",
+ "v5": true,
+ "title": "90 Days Later: Your Rank Test — The benchmark data Verdict",
+ "description": "Ninety days later, the dead hang gets its final reading of the season: the rank test. Same bar, same rules, and the full benchmark table. Bring your day-one time and your new time, and find out exactly where you rank now.",
+ "tags": [
+  "rank test",
+  "dead hang rank",
+  "90 days later",
+  "benchmark table",
+  "grip ranking",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "90 days later",
+  "rank test",
+  "benchmark",
+  "dead hang",
+  "calisthenics",
+  "retest day"
+ ],
+ "category": "retests",
+ "badge": "EP 643 - RANK TEST",
+ "checklist": [
+  "THE RETEST",
+  "THE TABLE",
+  "THE CABLES",
+  "YOUR RANK"
+ ],
+ "thumb": {
+  "asset": "ren_dead_hang.webp",
+  "big": "RANK?",
+  "hook": "RANK TEST",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you hung for a time | that had no | rank at all. | It was just a beginning. | Today beginnings end. | Same bar as day one. | Same overhand grip. | Same chalk rules. | Jump up, pack your shoulders. | Body quiet, breath slow. | Hang at rank standard: | no swinging, no re-gripping, | no kicking for seconds. | When your fingers open, | the clock stops | and the table speaks. | That is your NEW time. | Got it? | At the end, | I read the full table | and place you on it, | exactly where you earned.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "BEGINNINGS END TODAY",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "RANK STANDARD: FULL HONESTY",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "NO KICKING FOR SECONDS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "THE TABLE SPEAKS NEXT",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "THE TABLE",
+   "label": "THE FULL RANK TABLE",
+   "sub": "under 30: recruit - 60: trained - 90: elite - 120: cable royalty",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the full rank table this channel has used since day one, all four ranks on one line. Under thirty seconds: recruit, the rank where every honest beginner starts. Thirty to sixty: soldier, a working grip that life can use. Sixty to ninety: trained, the rank where tendons have visibly remodeled. Ninety to one-twenty: elite, where fewer than a handful of men in any gym can follow you. And over one-twenty: cable royalty, the rank this channel saves for hangs that make strangers stop and watch. Ninety days ago you were placed at the bottom of this table or off it entirely. Today the table re-reads you, and tables, unlike mirrors, keep receipts.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "120+ SEC",
+     "label": "CABLE ROYALTY",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "90 = ELITE, 60 = TRAINED",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "TABLES KEEP RECEIPTS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at what a rank is actually made of. It is not courage and it is not hand size. A rank is the sum of a tendon system: flexor tendons stiff enough to transmit the forearm's force without leaking it into stretch, pulleys tough enough to guide them under load, and a nervous system that recruits the whole forearm evenly instead of letting two fingers do the work of five. Each rank on the table corresponds to a physical state of that system. Recruits leak force. Soldiers transmit most of it. The trained transmit nearly all of it, and the elite transmit it calmly, which is why their hangs look boring from across the room. One more detail makes the table trustworthy: it was built from the same standard you just used. Every rank assumes packed shoulders, a quiet body, and no re-gripping, because a table built on sloppy hangs would rank acting, not tendons. Men who post enormous hang times with swinging and shifting are playing a different sport, and their numbers cannot enter this table any more than a cyclist can enter a running record. Your rank today is lower than your internet number might be. It is also worth more, because it is real.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "RANKS ARE PHYSICAL STATES",
+     "lines": [
+      "Leak less. Transmit more. Stay calm."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "ELITE HANGS LOOK BORING",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "5 FINGERS",
+     "label": "ONE EVEN SYSTEM",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now read your climb across the table like a scientist, because the distance between ranks is not uniform. Recruit to soldier is mostly skill and nerve learning, and it can happen in weeks. Soldier to trained is the tendon rank: it needs a season of deposits, and it is where most men stall because the work stops being new. Trained to elite is a refinement rank, built from density, towel work, and patience, and it pays in calm rather than drama. Knowing which border you are crossing tells you what the next ninety days should contain. A rank is not a trophy. It is a diagnosis with a number on it. One more nuance of the table matters at the borders. The jump from fifty-nine seconds to sixty-one crosses a rank; the jump from forty to fifty does not, yet the second man improved more. Ranks compress continuous progress into steps, and steps can make a great season look flat and a lucky day look like a promotion. This is why the channel keeps both numbers in the log: the time for the truth, the rank for the story. Chase the time. Let the rank follow when it is ready.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "RECRUIT TO SOLDIER",
+       30
+      ],
+      [
+       "SOLDIER TO TRAINED",
+       70
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "EACH BORDER NEEDS DIFFERENT WORK",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "A RANK IS A DIAGNOSIS",
+     "lines": [
+      "With a number on it."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "FIND YOUR BORDER",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang_front.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The rank test has one more layer the table cannot print: your rank against your own bodyweight class of one. This channel never adjusts the table for weight, because life does not either, but your personal record deserves its footnote. If you gained weight this season, muscle or otherwise, and your time still climbed, your tendons gained more than the table shows, because they are lifting a heavier you to a higher rank. If you lost weight, some of your climb was bought by the load, and the honest response is gratitude plus harder work. Either way, weigh yourself on retest days and write it beside the time. Future you deserves the full data. And the calm of the elite hang has a mechanism worth naming. At high levels, the limiting factor stops being force and becomes interference: small stabilizers and grip muscles firing against each other, wasting the budget. Training at the edge teaches subtraction, the art of switching off everything the hang does not need. If your new time came with a strange feeling of quiet in the forearms, you have begun learning subtraction, and subtraction is the skill that separates the trained rank from the elite one.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "WRITE YOUR WEIGHT BESIDE THE TIME",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "ren_grip_squeeze.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "HEAVIER + HIGHER",
+     "label": "MEANS MORE THAN THE TABLE SHOWS",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "FULL DATA FOR FUTURE YOU",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe for rank day is the one this table was built to deliver. Ranks in most of fitness are bought with appearance: size, leanness, the right lighting. This table cannot be bought with any of that. It only reads seconds, and seconds only come from systems that actually adapted. A skinny guy at the elite line owns something no supplement, filter, or borrowed program can counterfeit: ninety days of compounding, hanging in plain sight. When a heavier man asks how the skinny guy out-hangs him, the table already answered. He trained the cables while everyone else trained the costume.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "RANKS THAT CANNOT BE BOUGHT",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "COSTUME TRAINING",
+       40
+      ],
+      [
+       "CABLE TRAINING",
+       90
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "SECONDS CANNOT BE COUNTERFEITED",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "COMPOUNDING IN PLAIN SIGHT",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "DEAD HANG SETS",
+   "work": 30,
+   "rest": 30,
+   "rounds": 4,
+   "asset": "ren_dead_hang.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we hang together at rank standard. Four rounds of thirty seconds, thirty to reset, every round like the table is watching: packed, quiet, honest. This is how ranks are defended."
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Next season's protocol is written by your rank. Recruit: the road is frequency, three short hang days a week, never to failure, building the base the table respects. Soldier: add towel hangs and pinch work, the stimuli that push toward the tendon rank. Trained: density is your mountain now, shorter rests and thicker bars, plus one-arm preparation on the side. Elite and above: your job is defense and refinement, maintaining the system while the rest of your training catches up. Every rank retires the same mistakes: testing on a different bar, ranking yourself on a fatigued day, and treating a rank as an identity instead of a weather report. One weekly detail defends a rank once you earn it: the standard audit. Once a week, film one hang from the side. Shoulders packed, body still, grip honest. Ranks decay first in the standards, not in the seconds, and by the time the clock notices, the habit is a month old. The camera is the cheapest coach in the world, and the table only respects what it can verify.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "A DIFFERENT BAR",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "RANKING ON A FATIGUED DAY",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "RANK AS IDENTITY",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "YOUR RANK WRITES YOUR SEASON",
+     "lines": [
+      "A weather report, not an identity."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR RANK",
+   "label": "THE RANK TEST VERDICT",
+   "sub": "comment your rank and both times",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The verdict is simply your rank, spoken plainly, with its orders attached. Cable royalty or elite: you rank where this channel's table gets quiet, and next season is about defending the standard. Trained: you hold the rank that proves remodeling, and density work is your road to elite. Soldier: you own a working grip and the clearest map in fitness, the one that says exactly what the tendon rank requires. Recruit still: you own the steepest part of the curve and every easy rank in front of you. Comment your rank and both times below, and set the next rank test thirty days out. Tables keep receipts. Make the next one better.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "YOUR RANK",
+     "label": "SPOKEN PLAINLY, ORDERS ATTACHED",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "DEFEND THE STANDARD",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT RANK AND TIMES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RANK TEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Ninety days ago you had no rank. Today the table knows your name. Keep the bar honest, keep the standard frozen, and bring me a higher rank next season. Subscribe so rank day never passes quietly. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "NEXT RANK TEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "THE TABLE KNOWS YOUR NAME",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

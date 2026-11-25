@@ -1,0 +1,397 @@
+{
+ "badge": "EP 540 - THE V-SIT TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "Press up into an L-sit and fold your legs toward the ceiling. Your V-sit angle reveals compression strength, the hidden core power behind presses, levers and every folded skill. Take the angle test, read your number, and start closing the fold.",
+ "hashtags": [
+  "v-sit",
+  "compression strength",
+  "calisthenics",
+  "l-sit",
+  "core test"
+ ],
+ "id": "540",
+ "scenes": [
+  {
+   "asset": "ren_lsit.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PROVE THE L FIRST"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LEGS STRAIGHT, TOGETHER",
+     "pos": "br",
+     "text": "FOLD AT THE HIPS"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HOLD 3 SECONDS"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT ANGLE IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO SWINGING, NO LEANING"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Sit tall on the floor, legs straight and together, hands planted flat beside your hips with straight arms. Press the floor away and lift your entire body into an L-sit, legs horizontal, toes pointed, shoulders pushing down. Hold the L for two seconds to prove the platform is real. Now the test: keeping both legs perfectly straight and together, raise them from horizontal toward vertical, folding only at the hips, as high as you can, and hold your highest point for three full seconds. No bending the knees, no leaning your chest backward, no swinging. Film it from the side and read the angle of your legs: horizontal is zero degrees, vertical is ninety. That angle is your number. Keep it somewhere safe. At the end I will tell you what it reveals about a kind of strength your core has been hiding from every test you have ever taken.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "45 DEG = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PRESS-HANDSTAND RANGE",
+     "pos": "br",
+     "text": "70+ DEG"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ISOLATED AND PRICED IN DEGREES"
+    }
+   ],
+   "big": "45 DEG",
+   "card": "bignum",
+   "check": 1,
+   "label": "HALFWAY TO THE CEILING IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Forty-five degrees, legs halfway to the ceiling and held there from a real L-sit, is trained compression strength. Under fifteen degrees, your compression is not weak, it is hiding: the chain exists, it has simply never been asked to fold you under load, and unasked chains always under-report. Over seventy degrees, you are in the range where press handstands and advanced folded skills stop being theoretical. Here is what the angle reveals. Sit-ups measure your trunk curling. Planks measure your trunk resisting. Neither measures the front of your hips closing your body like a jackknife against gravity, which is the motion inside every lever raise, every press, every toes-to-bar you will ever do. The V-sit angle is that motion, isolated and priced in degrees. It is the most honest core number in this season, and almost nobody you know has ever taken it.",
+   "section": "THE NUMBER",
+   "sub": "under 15: compression is hiding - over 70: press-handstand range",
+   "type": "card"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Legs' weight vs psoas force.",
+      "Training moves the balance point."
+     ],
+     "pos": "tr",
+     "title": "WHERE THE BOOKS BALANCE"
+    },
+    {
+     "asset": "ren_lsit.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A SAVAGE DISADVANTAGE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DEGREE BY DEGREE"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EVERY LEG RAISE LIVES HERE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The fold is powered from a place most core training never reaches. Your iliopsoas, the deep hip flexor that runs from your lower spine through your pelvis to your thigh, is the prime mover, and it works here at a savage mechanical disadvantage: the legs are long, their weight is far from the hip, and the muscle's pull angle worsens as the fold deepens. The front of your thigh assists while simultaneously holding your knees straight, and your trunk must stay tall and pressed up on straight arms, refusing the easy cheat of leaning back. When the fold stops, it is rarely drama. The psoas simply reaches the angle where its force, at that leverage, equals your legs' weight, and the books balance. Training moves that balance point degree by degree, by making the deep chain stronger at longer prices. That is hip compression, the hidden strength this test exists to expose, and it transfers to every skill where legs must rise toward a still body.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SUBSTITUTION IS THE VILLAIN"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "BACK ARCH",
+       40,
+       "red"
+      ],
+      [
+       "KNEE BEND",
+       35,
+       "gold"
+      ],
+      [
+       "SWING",
+       25,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE THREE LOANS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STRICT DEGREES ARE REAL DEGREES"
+    },
+    {
+     "asset": "ren_leg_swing.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Compression science has a villain and it is not weakness; it is substitution. When the hip flexors cannot pay for a fold, the body borrows from the lower back, arching and tilting the pelvis to fake degrees, or bends the knees to shorten the lever, or swings to steal momentum. Each substitution is the nervous system protecting a number it cannot afford, and each one makes the test lie in your favor. The strict V-sit, pressed up, legs straight, chest tall, is engineered to refuse all three loans, which is why its degrees are worth more than a leg raise's height. The second science is the hamstring ceiling. The fold also stretches the back of your thighs, and short hamstrings cap the angle no matter how strong the front is. Elite folders train both sides of the leg: compression strength in front, length in back. Your angle is the lower of those two grades, and the protocol trains whichever one is lower, because a chain, as always, is its weakest link's biography.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SWING = CEILING, SIT = FLOOR"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "TO REMOVE THE GUESS",
+     "pos": "br",
+     "text": "30 SEC"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN THE LOWER GRADE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The leg swing returns as our diagnostic, because it separates the two grades in thirty seconds. Swing one straight leg up with momentum and note its height: that is your hamstring ceiling, the fold your tissues allow. Your V-sit angle is the fold your strength can buy. If the swing towers over the sit, buy strength; the ceiling is high and the floor is low. If they are nearly equal, buy length; your strength is already pressing against its ceiling, and gentle forward-fold work will raise the roof. Most men guess wrong about which one limits them and train the wrong quality for a year. You now own the thirty-second test that removes the guess. Use it every month, alongside the angle itself.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_lsit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT FOLDS FURTHER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ACCUMULATED ACROSS A SEASON",
+     "pos": "br",
+     "text": "THOUSANDS OF DEGREES"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "IT IS TORQUE, NOT POETRY"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "VOLUME IS YOUR TEACHER"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage in the fold is the weight of the thing being folded. Your legs are the load, your hip flexors are the crane, and lighter legs mean the crane trains at higher angles, more reps, more days per week. The heavy athlete's compression work is a near-maximal lift every single rep, so his practice is short and his form borrows loans. Yours can be volume, and compression is a volume learner: the deep chain adapts to thousands of honest degrees accumulated across a season. Add the platform advantage: pressing your lighter body up into the L costs your shoulders less, so the base stays solid while the fold does the learning. The folded skills of gymnastics, presses, mannas, V-sits, were all built by bodies your size for a reason the mirror never mentions. Light folds further. It is not poetry. It is torque.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_lsit.webp",
+   "check": 3,
+   "exercise": "V-SIT RAISES",
+   "music": "drive",
+   "narration": "Now we fold together. Three rounds: from your L, raise toward your max angle, hold two seconds at the top, lower slowly. If the L itself is still expensive, do the raises seated on the floor with hands behind you.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_hip_rotation.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SWINGS OPEN EVERY SESSION"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "NO BORROWED DEGREES"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SOFT KNEES = FICTION"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ANGLES ARE MONTHLY NEWS"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FEED THE EDGE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Three compression sessions, each opened by leg swings. Main work: V-sit raises like our block, plus seated one-leg compression holds, five seconds per side, which let the deep chain train without the L-sit's platform cost. On the days between, ten minutes of forward-fold work if your swing test showed a length ceiling. Mistake one: leaning back to climb. The chest stays tall; a leaned degree is a borrowed degree and we do not bank loans. Mistake two: soft knees at the top. The instant the knee bends, the lever shortens and the angle is fiction; lower the target and keep the legs honest. Mistake three: testing the angle every session. Angles are monthly news. Daily work is raises and holds at the edge of the honest fold, and the edge moves when it is fed, not when it is watched.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_lsit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HIDING, NOT MISSING"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR DEGREES"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MEASURED, NOW RAISED"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your angle. Under fifteen degrees: your compression is hiding, and hidden things in this season have a habit of becoming strengths within a season of honest feeding. Fifteen to forty-five: the fold is real, the chain is earning, and the degrees will arrive steadily. Over forty-five: certified compression strength, a quality rarer than a big bench in any gym you will ever enter. Over seventy: the press family is calling, and your hips are ready to answer. Put your degrees in the comments, just the number, and retest in thirty days from the same platform, filmed from the same side. Hidden strength stops hiding the moment it is measured. You measured it. Now we raise it, degree by degree.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A BIGGER ANGLE"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same platform, straight legs, fold and film it from the side. Bring me a bigger angle and we will aim it higher together. Subscribe, and keep your number safe. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "v-sit",
+  "v-sit test",
+  "compression strength",
+  "hip flexors",
+  "l-sit progression",
+  "hidden core strength",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_lsit.webp",
+  "big": "45 DEG",
+  "hook": "V-SIT TEST"
+ },
+ "title": "Your V-Sit Angle Reveals Your Hidden Strength",
+ "v5": true
+}

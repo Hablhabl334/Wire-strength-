@@ -1,0 +1,410 @@
+{
+ "badge": "EP 560 - SPRINT START FIX",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NERVES",
+  "YOUR VERDICT"
+ ],
+ "description": "Getting faster at the start is not about running more. It is about firing sooner. Time your ten meters, get your number, and train the nerve firing speed that decides who is ahead after three steps.",
+ "hashtags": [
+  "sprint start",
+  "nerve firing speed",
+  "acceleration",
+  "first steps",
+  "sprint training"
+ ],
+ "id": "560",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO-POINT STANCE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEST OF THREE, FULLY RESTED"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "YOUR TIME"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FIRING TEST, NOT FITNESS"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR TIME SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Mark ten meters on flat ground, two markers, nothing fancy. Stand behind the first in a two-point stance, one foot forward, weight leaning in like you are about to fall and catch yourself. On your own go, explode through the second marker and time it. Three attempts, walk back slowly, full recovery, best honest time counts. That time is your number today. Here is what most people get wrong about it: they treat the ten meters as a fitness test, something your lungs and legs pass or fail. It is not. Ten meters is over in about two seconds, far too fast for fitness to matter. It is a firing test, a measure of how quickly your nervous system can go from silence to full voltage in the right muscles in the right order. This episode trains that firing directly, instead of the usual advice to simply run more. Keep your time safe. At the end, I will tell you what it says about your signal.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "POLITE INSTEAD OF VIOLENT"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "ATHLETE-GRADE FIRING",
+     "pos": "br",
+     "text": "1.9 SEC"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SIGNALS UPGRADE IN WEEKS"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ORDER, TIMING, VIOLENCE"
+    }
+   ],
+   "big": "2.0 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN LATE AND LOADED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for a standing ten meters. Around two seconds divides a late signal from a loaded one. Over two point two, the most common cause is not weak legs; it is a launch sequence the nerves have never rehearsed at full speed, so the first steps come out polite instead of violent. Under one point nine, your wiring already fires like an athlete's, and the remaining work is polish. Consider what those two seconds contain: a reaction, a first push, three or four ground contacts, each demanding near-maximal force produced in less time than a blink. Muscle size contributes to that, eventually. But the order, the timing and the violence of the recruitment are written by nerves, and nerves are the fastest-adapting tissue you own. Your number today graded the signal, and signals can be upgraded in weeks.",
+   "section": "THE NUMBER",
+   "sub": "over 2.2 sec: the signal is late - under 1.9: your nerves fire like an athlete's",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Muscles fire in sequence,",
+      "each burst timed to contact."
+     ],
+     "pos": "tr",
+     "title": "A WAVE, NOT A FLOODLIGHT"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FIRST 200 MILLISECONDS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DELIVERY BEATS SIZE"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SWITCHED OFF CLEANLY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the signal's journey. You decide to go, and the command leaves your brain, descends the spinal cord, and branches into the nerves of the hip, thigh, shin and foot. For a great start, those branches cannot fire together like a floodlight. They must fire in a wave: hip extensors and quads for the first push, then a rapid alternation as the steps begin, each muscle's burst timed to its ground contact and switched off cleanly so the next can speak. Coaches call the output rate of force development. Physiologists call the underlying skill motor unit recruitment speed. Both names describe the same trainable thing: how much of your strength your nerves can deliver in the first two hundred milliseconds. A bigger muscle with slow delivery loses the first three steps to a smaller muscle with fast delivery, every single time. The start is a delivery contest disguised as a strength contest.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "IT LEARNS PRACTICED SPEED"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FRESH + MAXIMAL",
+       95,
+       "cyan"
+      ],
+      [
+       "TIRED GRINDING",
+       20,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT TEACHES FIRING SPEED"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REST IS PART OF THE DRILL"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The training science of firing speed has one rule that governs everything: the nervous system learns the speed it practices, and it refuses to learn speed from slow or tired reps. Studies of sprint and jump training consistently find that maximal-intent efforts, very short, very fresh, with complete recovery, drive the neural adaptations behind faster starts: higher firing frequencies, faster recruitment, better coordination between muscles. The same studies find that grinding through fatigue teaches the system to ration, which is a useful skill for distance running and a disastrous one for a two-second event. This is why sprinters' start sessions look almost lazy from the outside: a handful of explosions separated by long, unbothered rests. They are not being lazy. They are protecting the signal's quality with the seriousness it deserves, because every tired rep is a lesson in slowness taught to the exact tissue you are trying to speed up.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BORROWED FROM FALLING"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "AIMS EVERY NEWTON",
+     "pos": "br",
+     "text": "ONE LEAN"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A CONTROLLED COLLAPSE"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "UNTIL THE FALL BECOMES FLIGHT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is a starting technique that delivers the signal better than any other, and it is borrowed from falling. Set up leaning forward from the ankles, weight toward the front foot, until you genuinely begin to topple, then catch the fall with your first step and keep catching it. Sprinters call this the falling start, and its genius is mechanical honesty: the lean pre-aims all your force backward into the ground, so the returning force points forward, and your nerves never waste a millisecond deciding what upright posture to abandon. The first steps of a great start are not running steps. They are a controlled collapse, caught repeatedly, each catch arriving a little faster and a little more upright than the last, until the fall becomes flight. Practice the collapse and the signal has a clean road to travel.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORCE DIVIDED BY MASS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "WHERE LIGHT WINS EARLY",
+     "pos": "br",
+     "text": "10 METERS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOUR NATIVE COUNTRY"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A SIGNAL ON TIME"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage at the start is the equation you have heard all season, and it deserves one more hearing in its purest arena. Acceleration equals force divided by mass. In the first ten meters, before top speed and aerodynamics enter the chat, that equation is nearly the whole sport. A lighter athlete needs less force to achieve the same acceleration, which means his existing strength, delivered at the same speed, buys him more launch than it buys a heavier rival. Add the second light-body gift, that quick firing can be practiced more often because each start costs less tissue, and the conclusion is unavoidable: the first ten meters are the skinny athlete's native country. The only visa required is a signal trained to arrive on time.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "SPRINT STARTS",
+   "music": "drive",
+   "narration": "Now we train the signal together. Six falling starts, ten seconds each, long quiet rests between them. Lean, topple, catch, explode. Fresh nerves only.",
+   "rest": 50,
+   "rounds": 6,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LEAN, TOPPLE, CATCH"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TWO-SECOND COINS ONLY"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REST A FULL MINUTE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WALK AWAY WHILE CRISP"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STARTS GO FIRST, ALWAYS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol that trains firing speed instead of just running. Step one: use the falling start, lean from the ankles until you topple, and let the first step catch you; the lean aims the force so the nerves can spend themselves on speed instead of posture. Step two: keep every effort under ten meters and every intent at maximum; the start is a two-second skill and it is trained in two-second coins. Step three: rest a full minute or more between starts, walking, breathing, shaking loose; if you are breathing hard, you are training lungs, and lungs were never the subject. Step four: cap the session at six to eight quality starts and walk away while they are still crisp; the last rep you do teaches the loudest lesson, so make it a fast one. Step five: train starts first in any session, before strength work, before conditioning, because firing speed is a fresh-tissue quality and it refuses to be learned tired. A month of this and the same ten meters return a different time.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WIRING UPGRADES IN WEEKS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PAID IN TENTHS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Over two point two seconds: a late signal, not a weak body, and the most encouraging diagnosis in sprinting, because wiring upgrades in weeks where muscle needs seasons. Between two point two and two seconds: the wave is forming, and your gains live in the falling start and in freshness, more crisp reps, zero tired ones. Under two seconds: your nerves already deliver like an athlete's, and your remaining tenths hide in polish and practice. Put your time in the comments, just the number, best of three, honest stance. Retest in thirty days, same ten meters, same surface, fresh legs and a falling start. The signal keeps its books in tenths of a second, and it is about to start paying you in them.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER TIME"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ten meters, lean and topple, bring me a faster time. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "sprint start",
+  "acceleration",
+  "nerve firing speed",
+  "10 meter sprint",
+  "first step quickness",
+  "sprint training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "10M TIME",
+  "hook": "FIRE SOONER"
+ },
+ "title": "Stop Doing sprint start Wrong: Train Your nerve firing speed Instead",
+ "v5": true
+}

@@ -1,0 +1,393 @@
+{
+ "badge": "EP 614 - DEAD HANG VERDICT",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "WHAT THE CABLES KEPT",
+  "YOUR VERDICT"
+ ],
+ "description": "Ninety days after the first dead hang, this is the verdict episode. Same bar, same rules, but now the hang is read as the final report on your grip tendons: what they built, what they kept, and what the number means for everything your hands will do next.",
+ "hashtags": [
+  "dead hang",
+  "90 days later",
+  "grip tendons",
+  "the verdict",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "614",
+ "scenes": [
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FINAL WORD, AT THE BAR"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "ONE ARC",
+     "pos": "br",
+     "text": "3 NUMBERS"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FRESH HANDS, ONE ATTEMPT"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "EARN THE THIRD NUMBER",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CLOCK STOPS AT THE FINGERS"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Ninety days later, the bar gets the final word. Your first dead hang on this channel was a short, honest embarrassment: somewhere between twenty and forty seconds for most of you, fingers peeling, shoulders loud, the clock unimpressed. Then came the season: hangs, carries, holds, the slow arithmetic of tension. Then the first retest, where the number moved and proved the cables were listening. Today is the verdict reading, the hang compared against the whole arc: first number, middle number, and whatever your hands produce right now. Same bar as always, same straight arms, same rule that the clock stops when the fingers open, not when the spirit does. One attempt, fresh hands, no warm-up maxes to hide behind. Get all three numbers in your head before you grip: the one that embarrassed you, the one that encouraged you, and the one you are about to earn. At the end I will tell you what the final gap says about your grip tendons, in the language they actually speak.",
+   "section": "THE RETEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "90 SEC = TRAINED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE VERDICT LINE",
+     "pos": "br",
+     "text": "2 MINUTES"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "DIRECTION INSTRUCTS",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "2 MIN",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE VERDICT LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The verdict frame needs a bigger line than the first test used, because you are not the man the first line was built for. Two minutes is the verdict line. Below ninety seconds, the season built a trained hang, real and respectable. Between ninety and two minutes, you are in the territory where grip stops being a test score and starts being a background fact of your life, showing up uninvited in every carry, climb and handshake. Past two minutes, the tendons have produced something most adults at any size simply do not own: a two minute full-bodyweight hold on a bar, powered by cables in the fingers and forearms that remodeled themselves across a season. Now lay the arc across the frame. First number to verdict number is the season's total claim. Middle number to verdict number is the recent trend, and the trend matters more, because tendons plateau, surge, and occasionally stall, and the verdict must read the direction, not just the distance. Distance impresses. Direction instructs. Today we collect both.",
+   "section": "OLD VS NEW",
+   "sub": "first you under 40: the starting cable - 2 minutes: a grip that has become a trait",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Neural gains fluctuate. Structural gains report.",
+      "Ninety days is the tendon's timescale."
+     ],
+     "pos": "tr",
+     "title": "SIGNAL VS STRUCTURE"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SLOW TO ARRIVE, SLOW TO LEAVE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE VERDICT MEASURES STRUCTURE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The verdict on the mechanism can now be stated in full, because ninety days is the tendon's own timescale. In the first weeks, your gains were neural: the signal to the forearm arrived cleaner, and the hang improved before any tissue changed. Across the middle of the season, the muscle's endurance grew. But the gains that survive to a ninety day verdict are the structural ones: collagen laid down along the line of pull, the finger tendons measurably stiffer, the cable transmitting the forearm's force with less stretch and less waste. Structural gains have a personality the other gains do not. They are slow to arrive and slow to leave. A week off costs the neural gains almost nothing and the structural gains even less, which is why the verdict hang, done on an ordinary day without a perfect week behind it, still reads high. The first test measured a signal. The verdict measures a structure. Signals fluctuate with sleep and mood. Structures report what was actually built, and yours had ninety days of tension to build with.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SHOULDER ARRIVES AS PARTNER"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "DAY ONE: FINGERS",
+       85,
+       "red"
+      ],
+      [
+       "VERDICT: EVERYTHING AT ONCE",
+       50,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT FAILS FIRST, BY ERA"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A POSTURE, NOT A DANGLE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "A TREATY IN COLLAGEN",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science of the long hang adds one chapter at the verdict stage: the shoulder's share. Early hangs fail at the fingers. Long hangs, the ninety second and beyond kind, start failing everywhere at once, and the quiet hero of the two minute territory is the shoulder complex learning to hang actively, the lats and the muscles around the shoulder blade sharing the load with the grip instead of dumping the whole bodyweight through passive structures into the hands. If your verdict hang felt different from the first one, less like a finger test and more like a whole-body hold, that is the shoulder arriving as a partner, and it is a genuine adaptation: shoulder connective tissue stiffening, the nerve learning the active position, the hang becoming a posture instead of a dangle. Research keeps pointing one direction: progressive, patient hanging builds a shoulder that tolerates load in its most lengthened position. Your verdict number is a grip score on paper. In the body, it is a grip and shoulder treaty, signed in collagen.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A PROXY FOR THE WHOLE SYSTEM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "DOCTORS WATCH THIS NUMBER",
+     "pos": "br",
+     "text": "LATER DECADES"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "MAINTAINING YOUR INDEPENDENCE",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FILE THIS REPORT PROUDLY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the deep question the verdict hang answers, the one nobody asks at the first test: what is this number for? A two minute hang is not a life skill in itself. Nobody's survival has ever depended on the second minute. The number is a proxy, a single honest reading of the entire pulling system's integrity, and proxies earn their keep by predicting other things. A verdict-level hang predicts carries that do not fail at the airport, climbing and pulling strength with a foundation under it, wrists and elbows progressively loaded instead of suddenly surprised, and a grip still reporting for duty in your later decades, when grip becomes one of the numbers doctors themselves watch. That is the deep reading: you did not spend a season getting better at a test. You spent it maintaining the system your future independence stands on, and the test is just how it files its reports. File this one proudly. Then keep the system, because the reports only stay good while the loading does.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "VOLUME: THE VALUABLE COMMODITY"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF SHOWING UP",
+     "pos": "br",
+     "text": "A SEASON"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE DIFFERENCE WAS ATTENDANCE",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "IT COMPOUNDS FOREVER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The verdict is also where your advantage gets its final audit, and it passes. Every second of every hang this season cost your tendons your bodyweight in tension, and your bodyweight remained the smallest full load in any gym, which bought you the season's most valuable commodity: volume. More quality seconds per session, more sessions per week, more collagen signal per month than a heavier man could purchase at any price, because his sessions end where yours were just getting productive. The two minute territory, for a heavy man, is a multi-year project of managing enormous loads. For you it was a season of showing up. Do not let anyone, including the voice in your own mirror, discount the verdict because the load was you. The load is always you, in every hang ever performed, and the men who cannot reach your number are carrying more of themselves with cables no better than yours were on day one. The difference was never the weight. It was the attendance, and attendance is the one advantage that compounds forever.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "check": 3,
+   "exercise": "ACTIVE HANG",
+   "music": "drive",
+   "narration": "Now we maintain the verdict together. Four rounds of active hangs: thirty seconds on, thirty off, shoulders pulled down into their pockets, grip deep. This is the posture the two minute hang is made of. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "TWO SESSIONS KEEP THE STRUCTURE",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FRONTIER: LOAD AND FINGERS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "QUARTERLY READINGS",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE RETIREE'S MISTAKE",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "After a verdict, the protocol changes its job: from building to keeping, with one frontier left. Rule one: maintenance is cheap and non-negotiable. Two hang sessions a week, submaximal, keep the gains fed, because collagen that stops being loaded slowly stops being maintained, over months, not days. Rule two: the frontier, if you want it, is load and fingers: weighted hangs at half your verdict time, one finger session a week, because past two minutes the plain hang stops being the hardest ask. Rule three: retest the verdict quarterly. A structure this slow does not need monthly interrogation, and quarterly readings make a cleaner trend line for the years of training ahead. And bury the retiree's mistake: treating the verdict as a finish line and letting the bar become furniture. The tendons do not know about your achievement. They know about this week's tension. Keep the treaty signed and the number stays yours.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE NUMBERS, THREE DATES"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TO CONFIRM THE VERDICT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR VERDICT TIME",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SECONDS THEN, MINUTES NOW"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the verdict itself, read once and read plainly. If today's hang landed under ninety seconds, the season built a trained grip and the trend matters more than the line: a rising middle-to-verdict direction means the structure is still arriving, and the protocol continues unchanged. Between ninety seconds and two minutes, you own a grip that functions as a trait, visible in every physical thing you do, and the season's claim is fully proven. Past two minutes, the verdict is rare air: a structural grip that most men at any size never build, earned in the only currency tendons accept. Write all three numbers down, first, middle, verdict, with their dates, because three points make the trend your grandchildren could audit. Put the verdict time in the comments, just the seconds, and the first number beside it if you remember it. We read the bar again in thirty days as a confirmation, then quarterly. The first test embarrassed you in seconds. The verdict answers in minutes. That is the whole season, in one sentence.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CONFIRMATION IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "CALMLY REPEATED",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same bar, a short confirmation of a long verdict. Bring me the same minutes, calmly repeated. Subscribe so the quarterly readings find you hanging. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "dead hang verdict",
+  "dead hang test",
+  "grip tendons",
+  "90-day retest",
+  "hang time",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_dead_hang_front.webp",
+  "big": "120 SEC",
+  "hook": "HANG VERDICT"
+ },
+ "title": "90 Days Later: Your New Dead Hang Time \u2014 The grip tendons Verdict",
+ "v5": true
+}

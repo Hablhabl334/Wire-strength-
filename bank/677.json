@@ -1,0 +1,387 @@
+{
+ "badge": "EP 677 - THE CAFFEINE AUDIT",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE RECEPTORS",
+  "YOUR VERDICT"
+ ],
+ "description": "Caffeine is the world's favourite nerve drug, and most skinny guys dose it like weather instead of like chemistry. Audit yesterday's intake, learn what adenosine blockade really does to your receptors, and fix the five mistakes that turn a useful stimulant into a sleep thief.",
+ "hashtags": [
+  "caffeine audit",
+  "adenosine",
+  "half life",
+  "nerve stimulants",
+  "sleep science"
+ ],
+ "id": "677",
+ "scenes": [
+  {
+   "asset": "ren_punch.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COUNT EVERY SOURCE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE GAP IS THE NUMBER"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR CAFFEINE GAP",
+     "pos": "tr",
+     "text": "HOURS TO BED"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP BOTH FIGURES"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is an audit, and it starts with yesterday. Write down every source of caffeine that passed your lips: coffee at roughly ninety-five milligrams a cup, tea at perhaps half that, cola, energy drinks, chocolate, and the pre-workout scoop whose label you have never actually read. Add the milligrams honestly. Then find the time of your last dose, and count the hours between that dose and the moment you fell asleep. That gap, in hours, is your number. Not the total, the gap. Two men can drink the same coffee and get opposite results, because one finished at breakfast and the other finished at four in the afternoon, and caffeine does not leave on your schedule. It leaves on its own, at a pace set by your liver, indifferent to your plans. Keep both figures, the milligrams and the gap, written down. By the end of this video you will know whether your stimulant is a tool you aim or a leak you live with, and the five mistakes that decide which one it is.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HALF-LIFE: 5 TO 6 HOURS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "MINIMUM RESPECTFUL DISTANCE",
+     "pos": "br",
+     "text": "8 HRS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHALLOW SLEEP, BIGGER DOSE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE THIEF'S METHOD"
+    }
+   ],
+   "big": "8 HRS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE CUTOFF LINE BETWEEN TOOL AND THIEF",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, and it is drawn by a clock inside the drug itself. Caffeine's half-life in a healthy adult averages five to six hours: half of what you drank is still circulating five to six hours later, and a quarter of it another five to six after that. Run the arithmetic on a four o'clock coffee. At ten at night, roughly half of it is still on duty, sitting on your receptors while you try to fall asleep. In one frequently cited study, a four hundred milligram dose taken a full six hours before bed still cost subjects more than an hour of sleep, sleep they did not even realise they had lost. That is the thief's method: not keeping you awake, but making your sleep shallower, so you wake up tired and reach for a bigger dose. The eight-hour line is the minimum respectful distance. Ten is better. Your gap from the test tells you which side of the line your habit lives on.",
+   "section": "THE NUMBER",
+   "sub": "under 6 hrs: it is drinking your sleep - 10+ hrs: aimed like a tool",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Caffeine blocks adenosine receptors.",
+      "The fatigue queues behind them."
+     ],
+     "pos": "tr",
+     "title": "THE BLOCKED DOOR"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TOLERANCE = MORE RECEPTORS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A REAL STIMULANT, A REAL TAX"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "To see why the gap matters, meet the molecule caffeine impersonates. All day, a compound called adenosine accumulates in your brain as the exhaust of thinking and working. Adenosine is the fatigue signal itself: the more of it docks onto its receptors, the sleepier and slower you feel, until sleep clears it overnight. Caffeine is shaped enough like adenosine to sit in those receptors and block them, without pressing the button. The fatigue does not leave. It queues, silently, behind a blocked door, which is why the crash arrives when the caffeine clears and the whole queue docks at once. Under chronic blockade, the brain adapts the only way it can: it grows more receptors. That is tolerance, built over one to two weeks of daily use, and it means the daily coffee drinker is mostly paying to feel normal, defending a baseline his own receptors moved. The stimulant is real. So is the tax. The rest of this episode is accounting.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE EDGE SHRINKS AS THE HABIT GROWS"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "WEEK ONE",
+       90,
+       "cyan"
+      ],
+      [
+       "WEEK FOUR, DAILY",
+       40,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE SAME DOSE, FOUR WEEKS APART"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "THE STUDIED DOSE ZONE",
+     "pos": "tr",
+     "text": "3-6 MG/KG"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "DOSED, TIMED, RESTED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The tolerance research explains the strangest fact about caffeine: the performance effect shrinks as the habit grows. In studies of trained athletes, doses in the range of three to six milligrams per kilogram reliably improve endurance and power output by a few percent, a genuine, measurable edge. But those studies work best on people who are not marinating in the drug daily. The habitual drinker's receptors have multiplied, his sleep has thinned, and his morning cup mostly cancels his withdrawal, the headache and fog that are themselves symptoms of dependence. Compare the two bars below: the same dose, in week one of use and in week four of daily use, drawn from the direction of the tolerance literature. Week one's bar is a boost. Week four's bar is a ransom payment. This is not an argument against caffeine. It is an argument for treating a receptor drug like a receptor drug: dosed, timed, and occasionally rested, so that when you spend it, it pays.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_neck_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MISTAKES ONE AND TWO LIVE HERE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ZERO OF THEM IS COFFEE",
+     "pos": "br",
+     "text": "5 MISTAKES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE CURE IS ARITHMETIC"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TOLERANCE HIDES THE CREEP"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now the five mistakes, and the first two live here because they cause the rest. Mistake one is the afternoon dose: anything after midday is a loan taken against tonight's deep sleep, at an interest rate set by the half-life. Mistake two is dose creep: the cup becomes a mug, the mug becomes two, the pre-workout stacks on top, and because tolerance hides the increase, nobody notices the total until it passes four hundred milligrams and starts taxing the very recovery it was bought to help. Mistake three is using caffeine to outrun sleep debt, which works for a day and compounds for a month. Mistake four is stacking sources blindly, coffee plus energy drink plus pre-workout, counted by nobody. Mistake five is never cycling: no low days, no reset weeks, a receptor population that only ever grows. Notice that none of the five is drinking coffee. All five are refusing to do arithmetic. The audit you ran in the test is the entire cure for four of them.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_punch.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DOSED PER KILO, NOT PER CUP"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A LIGHT MAN'S FULL DOSE",
+     "pos": "br",
+     "text": "1 COFFEE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FULL EFFECT, SMALLER BILL"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE EFFICIENT SIZE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the part of the ledger written in your favour. The studied dose is per kilogram of bodyweight, and you own fewer kilograms. A sixty-kilo man reaches the full ergogenic zone with roughly one hundred and eighty to three hundred and sixty milligrams, which is one strong coffee, honestly brewed. A hundred-kilo man needs up to six hundred for the same per-kilo effect, a dose that wrecks sleep and budgets alike. Your stimulant is cheaper, your ceiling arrives sooner, and your cutoff is easier to honour because a single morning cup can be your whole strategy. The big guys are not beating you on chemistry; they are outspending you on it, and buying side effects you get to skip. Light frame, light dose, full effect. It is the same story this channel keeps finding: the systems that matter scale with the body, and yours is the efficient size.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Now we train the nerves unplugged. Four rounds of push-ups, crisp and fast, no stimulant on board. This is your real baseline talking. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CURFEW: 8-10 HRS BEFORE BED"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KNOW YOUR MILLIGRAMS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "CAFFEINE INSTEAD OF SLEEP"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TWO LOW DAYS A WEEK"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol turns the five mistakes into five rules. Rule one: set a caffeine curfew eight to ten hours before bed and treat it like a training time, fixed and boring. Rule two: know your milligrams. Read the pre-workout label once, count your cups once, and write your real daily total where you can see it. Rule three: keep the total under roughly four hundred milligrams on ordinary days, the ceiling most safety reviews settle on for healthy adults. Rule four: defend your sensitivity with two low-caffeine days a week, or a lighter week each month, so the dose you take on the day that matters still pays like week one. Rule five, the one that protects all the others: caffeine is never a substitute for sleep. It is a spotlight for a rested nervous system, not a generator for an empty one. Follow the five and the drug works for you. Break them and you work for the drug.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ THE GAP, NOT THE TOTAL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN AUDIT AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR GAP AND TOTAL"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your caffeine verdict, read off the gap from your audit. Ten hours or more between last dose and sleep: your stimulant is aimed like a tool, and your receptors are probably still honest. Eight to ten: the borderland; you keep most of the benefit and pay a little sleep for it, so tighten the curfew before you touch the dose. Under eight hours, or a total you could not count: the thief is in the house, and your tired mornings are not a character flaw, they are a schedule. Fix the gap first, for two weeks, and audit again. Put your gap and your total in the comments, both numbers, honestly counted. In thirty days, same audit, and we will see what the arithmetic bought you. The drug was never the problem. The dose makes the tool, and the clock makes the dose.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_punch.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same audit, same honest labels. Bring me a wider gap and a dose you can say out loud. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "caffeine science",
+  "caffeine mistakes",
+  "adenosine",
+  "caffeine half life",
+  "pre workout science",
+  "sleep and caffeine",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_punch.webp",
+  "big": "8 HRS",
+  "hook": "THE CAFFEINE AUDIT"
+ },
+ "title": "5 caffeine science Mistakes That Are Destroying Your nerve stimulants",
+ "v5": true
+}

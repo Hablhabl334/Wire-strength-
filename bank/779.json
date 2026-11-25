@@ -1,0 +1,399 @@
+{
+ "id": "779",
+ "v5": true,
+ "title": "Why Your nutrient windows Matter More Than Muscle (The meal timing Episode)",
+ "description": "The muscle gets built during windows, or it does not get built at all. Count your feedings one final time and learn why the hours you eat in outrank the muscles you eat for.",
+ "tags": [
+  "why nutrient windows matter",
+  "nutrient windows",
+  "meal timing importance",
+  "feeding windows",
+  "building windows",
+  "skinny guy timing",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "nutrient windows",
+  "meal timing",
+  "why it matters",
+  "gaining",
+  "calisthenics",
+  "windows"
+ ],
+ "category": "gaining",
+ "badge": "EP 779 - WHY WINDOWS MATTER",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE WINDOWS",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_plank_hold.webp",
+  "big": "3-4",
+  "hook": "WHEN, THEN WHAT",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today the windows take the | stand. | List yesterday's feedings. | Every meal, snack, shake. | Note each one's hour. | Count the real feedings. | Protein aboard, not sips. | That count is your number. | Second, max strict push-ups. | Floor to lockout, clean. | Count the honest reps. | That is your second number. | Keep the pair together. | At the end I tell | you why the windows outrank | the muscle they build. | Everyone asks what to eat. | Almost nobody asks when the | building is open. | A delivery at midnight to | a closed site builds nothing | by morning. | Let us check your hours. | Count the open windows.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "WHEN, THEN WHAT",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "REAL FEEDINGS",
+     "label": "PROTEIN ABOARD",
+     "pos": "br",
+     "at": 9
+    },
+    {
+     "kind": "chip",
+     "text": "DELIVERIES NEED OPEN SITES",
+     "pos": "tr",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 21
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "3-4",
+   "label": "WINDOWS A DAY IS WHEN BUILDING IS ACTUALLY OPEN",
+   "sub": "1-2 windows: the site is mostly closed - 3-4 open: the crew works all day",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the claim, stated precisely. Your muscle can only switch its building machinery fully on a limited number of times per day, once per feeding, with a pause required between firings. Three to four feedings therefore means three to four building shifts, and one or two feedings means the site stands closed for most of the day regardless of how much protein eventually arrives. This is why the windows outrank the muscle in the practical ranking: the muscle is the product, but the windows are the factory hours, and no product outproduces its factory's hours. A man can own perfect materials and a perfect blueprint and still build slowly in a factory that opens twice a day. Open the factory longer and the same materials start compounding.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "FACTORY HOURS",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "3-4",
+     "label": "SHIFTS PER DAY",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "SAME MATERIALS, MORE HOURS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "PRODUCT VS HOURS",
+     "pos": "br",
+     "at": 26
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "The mechanism is the shift system itself. A protein feeding raises amino acid levels in the blood, the muscle senses the rise, most sharply through the leucine signal, and the building machinery runs at full rate for a few hours. Then, even if amino acids remain available, the machinery throttles down into its refractory pause, the muscle-full state, until the next genuine arrival restarts it. Two consequences follow that every gainer should hold. First, the day's building is roughly the sum of its shifts, so shift count is a real variable, not a detail. Second, constant grazing defeats the system, because arrivals that never pause never re-trigger. The windows are not superstition. They are the duty cycle of the machinery you are trying to run. The duty cycle has a daily boundary worth adding: the first feeding starts the day's cycle and the last one ends it, which is why the evening anchor matters beyond its protein. A day whose windows open early and close late simply contains more building hours than a compressed day, at identical totals.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "THE DUTY CYCLE",
+     "lines": [
+      "Feeding fires the machinery.",
+      "Pauses let it fire again."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_plank_sag.webp",
+     "at": 11
+    },
+    {
+     "kind": "chip",
+     "text": "SHIFTS SUM TO THE DAY",
+     "pos": "br",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "GRAZING DEFEATS ITSELF",
+     "ok": true,
+     "pos": "tr",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science gives the windows their correct size: real, but second in rank. Distribution studies show the spread day outbuilding the stacked day at equal protein, a genuine effect of shift count. But the same literature shows total daily protein and total energy outranking distribution, which is why this channel teaches totals first and windows second. The honest hierarchy is: eat enough, then eat it in shifts, then stop optimizing. Men invert this hierarchy constantly, perfecting their timing atop an empty total, like a factory with exquisite hours and no materials. Your push-up number guards the other end of the hierarchy: it reports whether the shifts, however well timed, are being fed with training orders worth building. Windows, totals, orders. In that order, and the building takes care of itself. The hierarchy has a mercy built into it for busy men: because totals outrank windows, a chaotic day with enough food beats a perfectly timed day without it. Windows are the second story of the house. Totals are the foundation, and nobody in this audience is allowed to decorate a house that has no foundation.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE HONEST HIERARCHY",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "THE RANKING",
+     "items": [
+      [
+       "DAILY TOTALS",
+       90,
+       "cyan"
+      ],
+      [
+       "WINDOW SPACING",
+       65,
+       "cyan"
+      ],
+      [
+       "MINUTE RULES",
+       10,
+       "gold"
+      ]
+     ],
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "TOTALS, SHIFTS, STOP",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "HOURS NEED MATERIALS",
+     "pos": "br",
+     "at": 28
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "Go deeper and the windows reveal their quietest power: they organize the day. A man with anchored feedings has a skeleton for his hours, and training, work, and rest hang on it naturally, because every anchor is also a pause, a decision point, a moment of maintenance. A man without windows drifts through a day of continuous low-grade grazing or fasting, and his training lands wherever exhaustion puts it. Over months, the organized day wins not through any single mechanism but through the absence of chaos: fewer missed meals, fewer drifted sessions, fewer days written off entirely. The windows matter more than muscle partly because they are upstream of the consistency that builds muscle. Structure is the nutrient nobody lists on a label.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "STRUCTURE IS A NUTRIENT",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "ABSENCE OF CHAOS",
+     "label": "THE QUIET POWER",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "ANCHORS ORGANIZE EVERYTHING",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "UPSTREAM OF CONSISTENCY",
+     "pos": "br",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage with windows is that your shifts are cheap to open. Each of your feedings needs only a palm of protein and a few hundred calories, so three or four shifts fit inside an ordinary skinny guy's appetite without force-feeding, while the big man's four shifts are four banquets. There is also a recovery advantage specific to your training: bodyweight sessions can be placed between shifts with a precision gym commutes never allow, so your hardest work reliably lands in a fed state with a feeding after it. The system, training and windows alike, fits inside a normal life and a normal stomach. That is not a small thing. That is the entire reason this audience can out-consistency every other audience in the building.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "CHEAP SHIFTS TO OPEN",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "NORMAL STOMACH",
+     "label": "NORMAL LIFE",
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "OUT-CONSISTENCY EVERYONE",
+     "ok": true,
+     "pos": "tr",
+     "at": 17
+    },
+    {
+     "kind": "chip",
+     "text": "NO FORCE-FEEDING",
+     "pos": "br",
+     "at": 24
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pushup_top.webp",
+   "exercise": "PUSH-UP SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Work a shift with me, on the clock. Four rounds of push-ups, forty seconds on, twenty off. Full shifts, real pauses between them, no grazing reps in the rests. The pause is what makes the next shift possible, in the gym exactly as at the table.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The windows protocol, final form, four rules. One: fix three or four feeding anchors to events that already happen daily, and defend them as appointments for one month until the rhythm is self-running. Two: give every anchor its protein and its energy, because a shift fired without materials is a whistle blown at an empty site. Three: space the anchors by genuine pauses, eating nothing between except the planned gap snacks, so each arrival re-triggers the machinery cleanly. Four: review the map monthly alongside the trend and the tests, because the windows earn their keep in the other numbers, not in how virtuous the schedule feels. Run this for a season and your factory hours will stop being a topic. They will just be when you eat, which is what victory looks like here.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "ANCHORS AS APPOINTMENTS",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "MATERIALS AT EVERY SHIFT",
+     "ok": true,
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "GENUINE PAUSES",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "ALL-DAY GRAZING",
+     "ok": false,
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_plank_hold.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. One or two feedings with modest push-ups: your factory hours are the shortest in the building and your engine is waiting for shifts, so installing anchors outranks everything else this month. Three or four feedings but low push-ups: the hours are open and the orders are weak, so the training floor gets your ambition while the kitchen runs itself. Many feedings, grazing style, with any number: your windows are being defeated by their own frequency, and installing pauses is the surprising prescription. Three or four clean shifts and climbing push-ups: the hierarchy is honored in your house, totals, shifts, orders, and the verdict is to change nothing. Comment your feeding count and your push-up number. The count is your factory's true schedule. Bring the month's map, with its anchors marked, to the retest. A map that shows four honest anchors holding through ordinary weeks is the certificate this episode issues, and it is worth more than any single day's perfect timing.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 6
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "ONE SEASON OF SHIFTS",
+     "pos": "br",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT YOUR COUNT",
+     "ok": true,
+     "pos": "tr",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, list the same day and push the same test. Bring me open windows and a bigger number. Subscribe, and let the shifts fire on time until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "SHIFTS ON TIME",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

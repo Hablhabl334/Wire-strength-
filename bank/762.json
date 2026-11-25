@@ -1,0 +1,394 @@
+{
+ "id": "762",
+ "v5": true,
+ "title": "Your Snack Test Reveals Your Hidden Strength",
+ "description": "Between your meals hides a second diet: the snacks. Audit yours, count what they really add, and discover whether your between-meal eating is building you or quietly briefing against you.",
+ "tags": [
+  "snack test",
+  "snacks for gaining",
+  "healthy gaining snacks",
+  "between meal eating",
+  "skinny guy snacks",
+  "calorie snacks",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "snack test",
+  "gaining snacks",
+  "calorie gaps",
+  "gaining",
+  "calisthenics",
+  "snacking"
+ ],
+ "category": "gaining",
+ "badge": "EP 762 - SNACK: THE TEST",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE GAPS",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pinch_hold.webp",
+  "big": "400+",
+  "hook": "THE SECOND DIET",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today we audit the snacks. | The second, hidden diet. | List yesterday's snacks. | Everything between meals. | The handfuls, the bars, | the bites nobody counts. | Now grade them honestly. | Total their calories. | Roughly, but honestly. | That total is your number. | Second, grip the bar. | Max dead hang time. | Straight arms, still body. | Count the honest seconds. | That is your second number. | Keep the pair together. | At the end I tell | you what your snacks are | doing. | For most skinny guys the | snacks are near zero, | or worse, appetite killers eaten | right before meals. | Let us read your second | diet.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "AUDIT THE SECOND DIET",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "SNACK CALORIES",
+     "label": "YESTERDAY'S TOTAL",
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "chip",
+     "text": "NEAR ZERO, OR WORSE",
+     "pos": "tr",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 22
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "400+",
+   "label": "CALORIES OF DELIBERATE SNACKING A GAINING DAY CAN HOLD",
+   "sub": "near zero: the gaps are empty - snacking before meals: appetite spent, not added",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the line for your snack total. A gaining day has room for four hundred or more calories of deliberate snacking, placed in the gaps where meals cannot go, and that room is often the entire difference between a surplus and another month at the same weight. Near zero is the common score, and it is not a discipline problem: snacks fail because they are unplanned, and unplanned snacking depends on food being nearby at the exact moment hunger flickers. The darker pattern is the mistimed snack, two hundred empty calories twenty minutes before lunch, which adds little and subtracts appetite from the meal that mattered. Your hang number, meanwhile, is quietly listening to all of this, because grip is built from the same deliveries as everything else.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "ROOM IN THE GAPS",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "400+",
+     "label": "DELIBERATE SNACKING",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "PLANNED OR IT FAILS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "TIMING CAN SUBTRACT",
+     "pos": "br",
+     "at": 26
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "The mechanism of a good snack is gap geometry. Your day has natural spaces, mid-morning, mid-afternoon, the hour before bed, where a full meal is impossible but two to four hundred calories fit without touching the next meal's appetite, provided the snack lands at least an hour before that meal. Inside those spaces, dense portable foods do the work: nuts, trail mix, cheese, milk, bars built on oats and nut butter. The snack is not a treat and not a cheat. It is a structural beam placed where the day's architecture has a hole. This is also why grazing all day fails the gainer: constant nibbling keeps appetite permanently half-spent and never lets a real meal land at full hunger. Beams are placed. Grazing is just weather. The pre-bed gap deserves its own mention, because it is the longest protected space in most days. A dense snack an hour before sleep meets no meal to threaten and faces a whole night of building hours to feed. Many veteran gainers guard that slot more carefully than any other in the day.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "GAP GEOMETRY",
+     "lines": [
+      "Snacks are beams in holes.",
+      "Grazing is just weather."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_grip_squeeze.webp",
+     "at": 11
+    },
+    {
+     "kind": "chip",
+     "text": "AN HOUR BEFORE MEALS",
+     "pos": "br",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "PLACE THE BEAMS",
+     "ok": true,
+     "pos": "tr",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pinch_hold.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science of snacking for gainers is mostly the science of density and timing. Energy-dense snacks deliver the gap's calories in a small volume, so the stomach barely registers them and the next meal survives intact. Timing studies of appetite show the danger zone clearly: eating within the half hour before a meal reliably shrinks that meal, while eating ninety minutes before leaves it nearly untouched. There is also a protein footnote worth placing: a snack carrying fifteen to twenty grams of protein can fire its own small building window, which is why yogurt, milk, and cheese outperform pure sugar snacks of equal calories for our purposes. Equal calories are not equal snacks. The gainer's snack is dense, timed, and carries blocks. One more timing subtlety: the snack before training is the exception that proves the hour rule. A small, fast snack thirty to sixty minutes before a session serves energy without stealing a meal, because the meal it precedes is the post-training one, eaten after the work is done.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "DENSE, TIMED, WITH BLOCKS",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "SNACK QUALITY AT EQUAL CALORIES",
+     "items": [
+      [
+       "SUGAR SNACK",
+       35,
+       "gold"
+      ],
+      [
+       "DENSE + PROTEIN",
+       80,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "90 MINUTES IS SAFE",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "EQUAL IS NOT EQUAL",
+     "pos": "br",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "Go deeper and snacking reveals a behavioral truth: the snack is the meal with no ceremony, so it is the meal most governed by environment. Nobody cooks a snack. It is grabbed, which means its quality was decided earlier, at the store and at the moment someone chose where food lives in the house and the bag. The men who snack well have engineered the grab: a jar of nuts on the desk, trail mix in the bag, cheese where the eyes land first. The men who snack badly engineered nothing, and their grabs land on whatever a vending machine or a petrol station decides. You do not rise to the level of your intentions at four in the afternoon. You fall to the level of your desk drawer.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE MEAL WITH NO CEREMONY",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "DESK DRAWER",
+     "label": "DECIDES AT 4 PM",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "ENGINEER THE GRAB",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "ENVIRONMENT AGAIN",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage in the snack game is that your gaps need so little. Four hundred calories is a handful of trail mix and a glass of milk, carried in a pocket and a bottle. The big man's gap-filler is another cooking session. There is a second advantage: snacking is the one gaining habit with zero social cost. Nobody schedules around your handful of nuts, nobody comments on your desk yogurt, and the habit survives travel, work, and chaos better than any meal ritual. When a skinny guy tells me he cannot find time to eat more, he is almost always describing meals. The snacks were never asking for time. They were asking for placement, and placement is a one-time decision with a daily payout.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "ZERO SOCIAL COST",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "1 DECISION",
+     "label": "DAILY PAYOUT",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "PLACEMENT, NOT TIME",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "SURVIVES CHAOS",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_relaxed.webp",
+   "exercise": "DEAD HANG",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Hang with me while the snack lesson settles. Four rounds of dead hangs, forty seconds on, twenty off. Straight arms, quiet body, breathe. Grip is built in these seconds, and grip, like snacking, rewards the man who shows up in the gaps.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The snack protocol, four rules. One: choose two fixed gap slots, mid-morning and mid-afternoon or pre-bed, and give each a default snack you can execute without thinking. Two: stock the grab points, desk, bag, and kitchen counter, with dense foods only, because the grab obeys what is present. Three: obey the hour rule, no snacking inside sixty minutes before a meal, protecting the appetite the meal deserves. Four: count the snack total for three ordinary days and write it beside your meal totals, because the second diet stays invisible until somebody writes it down. A week of placed snacks is worth more than a month of intending to eat more, and the scale will say so at the retest.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "TWO FIXED SLOTS",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "STOCK THE GRAB POINTS",
+     "ok": true,
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "THE HOUR RULE",
+     "ok": true,
+     "pos": "tr",
+     "at": 17
+    },
+    {
+     "kind": "mark",
+     "text": "GRAZING ALL DAY",
+     "ok": false,
+     "pos": "br",
+     "at": 24
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. Snack total near zero with a modest hang: your gaps are empty and your grip is waiting on the same deliveries, so placing two snacks is this week's entire assignment. A strong snack total but a short hang: the second diet is working and the grip needs direct training intent, so the food system can run while you train the hands. Mistimed snacks, eaten against meals, with any hang at all: your problem is geometry, not quantity, and moving the same food ninety minutes earlier may gain you more than adding food would. Strong snacks and a strong hang: your between-meal system is a builder's system, protect the placements and retest in thirty days. Comment your snack total and your hang seconds. The second diet, written down, stops being invisible. Write the snack total where the meal totals live. The day a man first sees his full intake, meals plus the second diet, is usually the day the mystery of his plateau quietly ends.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 6
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN RETEST",
+     "pos": "br",
+     "at": 17
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, audit the same snacks and hang the same bar. Bring me fuller gaps and a longer hang. Subscribe, and let the beams hold the day up until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 2
+    },
+    {
+     "kind": "mark",
+     "text": "BEAMS IN THE GAPS",
+     "ok": true,
+     "pos": "br",
+     "at": 5
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 8
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

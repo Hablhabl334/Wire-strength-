@@ -1,0 +1,396 @@
+{
+ "badge": "EP 617 - PUSH-UP VERDICT",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "THE CHAIN, JUDGED",
+  "YOUR VERDICT"
+ ],
+ "description": "Ninety days after the first strict count, the push-up verdict is read. Same floor, same depth, same rules, and the final judgment on your chest tendons and pressing chain. See the season's total in reps, and why the verdict count is worth more than the number suggests.",
+ "hashtags": [
+  "push-ups",
+  "90 days later",
+  "the verdict",
+  "chest tendons",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "617",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FINAL READING"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "NO PACING TRICKS",
+     "pos": "br",
+     "text": "ONE SET"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNTIL FORM TRULY BREAKS"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "THE VERDICT STARTS NOW",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Ninety days later. | The floor reads the verdict. | Your first strict count | is in the log. | Every rep earned, | chest to the floor. | Some of you stopped | before twenty. | And hated the honesty. | Today the count returns | for its final reading. | Same floor, same depth. | Same full lockout. | One set, no pacing tricks. | Just strict reps | until form truly breaks. | Count them out loud. | That is the verdict number. | Keep it beside the first. | At the end | I tell you | what ninety days built | in your pressing chain. | And what it is worth | everywhere except here. | Down on the floor. | The verdict starts now.",
+   "poses": [
+    "ren_pushup_front_top.webp",
+    "ren_pushup_front.webp",
+    "ren_pushup_front_bottom.webp"
+   ],
+   "section": "THE RETEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "40 STRICT = A TRAIT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A SYSTEM REBUILT",
+     "pos": "br",
+     "text": "+20 REPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE CHAIN, INSPECTED",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "40 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE VERDICT LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The verdict line sits higher than the line the first test used, because you are not the athlete the first line was built to grade. Forty strict reps is the verdict line: the point where a push-up count stops being a fitness test result and becomes a trait, a thing you can produce on any floor, in any country, with no warm-up and no equipment, while men with far more impressive mirrors watch their own counts die in the twenties. Read the season as three numbers. The first count was the chain's raw material. The retest count was the chain under construction. Today's count is the chain, inspected. If the journey from first to verdict is twenty reps or more, you have not improved at an exercise, you have rebuilt a system, nerve, muscle and tendon in sequence, and systems keep their gains the way exercises never do. If the total gain is smaller, the verdict still reads true: it will show exactly which clock ran slow, and the protocol scene names the correction for each one.",
+   "section": "OLD VS NEW",
+   "sub": "first you under 15: a new chain - 40 strict: a pressing trait, demonstrable anywhere",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_back_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Force travels instead of leaking.",
+      "Bankruptcy arrives much later."
+     ],
+     "pos": "tr",
+     "title": "THE CHAIN'S NEW ECONOMICS"
+    },
+    {
+     "asset": "elbow_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "AUTOPILOT FOR TWENTY REPS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "CHEAPER EVERYWHERE YOU PUSH",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The mechanism verdict, in full. A strict push-up is a chain of tendons pretending to be a simple exercise: wrist, forearm, elbow, shoulder, chest, each link transmitting force the next one spends. On day one, your set died young because the chain leaked: the tendons were compliant, force bled off at every joint, each rep cost more than the one before, and the system hit bankruptcy while the chest still had money. Ninety days of honest pressing changed the chain's economics at every link. The tendons around the elbow and shoulder stiffened, so force now travels instead of leaking. The nerve learned the recruitment order so well that the first twenty reps run on something close to autopilot, sparing the expensive signal for the reps that need it. And the muscles built endurance in exactly the ranges the test visits. The verdict count is simply the new bankruptcy point of a cheaper chain. Nothing about it is a trick, which is why it transfers: cheaper force transmission is cheaper everywhere your arms push against the world, and the world offers pushing opportunities daily.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_45_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EARLY REPS VS LATE REPS"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FRESH QUALITY",
+       70,
+       "cyan"
+      ],
+      [
+       "TIRED QUALITY",
+       65,
+       "cyan"
+      ],
+      [
+       "DAY ONE, EITHER",
+       25,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT THE SEASON BUILT"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TWENTIETH EFFORT"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE SCORE YOU WILL SPEND",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science of the verdict count has a wrinkle worth respecting: the last reps of a strict set are not performed by the same system as the first reps, and ninety days changed them differently. Early reps run on fresh recruitment and stored elastic energy. Late reps run on whatever the nervous system can still persuade to fire, in a chemical environment that is actively hostile, with the tendons carrying a growing share of the stabilization the tired muscles abandon. This is why the verdict count predicts real-world pressing better than a fresh strength test does: life rarely asks for one perfect push. It asks for the twentieth effort, tired, awkward, unplanned. Training research on repetition endurance shows these late-rep qualities, recruitment under fatigue, tendon-mediated stability, are trainable and durable, and they are exactly what your season of submaximal volume was quietly building while the headline count climbed. Read the verdict, then, as two scores in one: the chain's fresh quality, and its degraded quality. The second score is the one your future self will actually spend.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CERTIFY THE COUNT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "STRENGTH FIRST, TRICKS NEVER",
+     "pos": "br",
+     "text": "THE HONEST ORDER"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "MAKEUP ON THE HEADLINE",
+     "pos": "tr",
+     "text": false
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRUTH COMPOUNDS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The deep dive audits the verdict the way the retest episode taught you: by its signatures. Watch the recording in your memory of today's set. If the depth held to the final five reps and the plank stayed one piece while the lockouts shortened, your chain failed in the honest order, strength first, tricks never, and the count is fully certified. If the hips began to wave or the depth quietly rose in the last third, the headline count is wearing makeup, and the certified count is the number of reps before the first signature faded. Neither outcome is a scandal. What matters is that the verdict you log is the certified one, because the next season's protocol is dosed from it, and a program built on a made-up number is a program built on sand. There is a strange pride available here that bigger numbers cannot buy: the man who logs thirty one honest reps over thirty eight theatrical ones is training with the truth, and truth compounds. The floor saw the set. The log should say what the floor saw.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HIGH VOLUME, HIGH HONESTY"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "FARMED FOR 90 DAYS",
+     "pos": "br",
+     "text": "THE PRODUCTIVE MIDDLE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE PUNCHLINE, REWRITTEN",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FLOOR HAS NO HUMOR"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The advantage, read at verdict volume. Your pressing load all season was two thirds of a light body, which meant the chain could be trained at high volume, high frequency, and high honesty simultaneously, a combination a heavy presser cannot afford: his sets are shorter, his joints bill him more per rep, and his form signatures fade faster under his own mass. You farmed the productive middle for ninety days, and the verdict count is the harvest of that farming, rep by rep, none of them given, all of them grown. Put the number in its social context one last time, because this test's context is merciless: forty strict reps is a count most adult men, including most who train with weights and look the part, cannot produce on demand. The skinny guy was supposed to be the joke in this test. The joke required him to stay untrained. A season of honest volume rewrote the punchline, and the floor, which has no sense of humor and no respect for appearances, just read the new version aloud.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PUSH-UP LADDER",
+   "music": "drive",
+   "narration": "Now we keep the verdict alive together. Four rounds: thirty seconds of strict push-ups, thirty seconds of rest, each round stopping two reps before failure. The chain stays rich by spending wisely. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "TWO SESSIONS KEEP THE TRAIT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FRONTIER: LOAD, NOT REPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "TEST QUARTERLY, TRAIN WEEKLY",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "ADMIRING THE MAX WEEKLY",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "After a verdict, pressing protocol has two honest directions. To keep the trait: two submaximal sessions a week hold the count within a few reps indefinitely, because endurance built across ninety days is loyal, it leaves slowly and only when fully ignored. To build past it: the frontier is no longer reps, it is load and leverage. Weighted push-ups, feet-elevated sets, and slow archer variations ask the chain for tension bodyweight can no longer provide, and the count becomes the base camp rather than the summit. Choose by your verdict's certified number: below the line, the next block is still a volume block, more honest reps at submaximal doses. Above it, load the chain and let the count look after itself. And bury the alumnus mistake: re-testing the max every week to admire it. A verdict admired weekly becomes a verdict defended, then a verdict inflated, then a fiction. Test quarterly. Train weekly. The floor respects that order.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE COUNTS, THREE DATES"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TO CONFIRM THE VERDICT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR VERDICT COUNT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WHAT YOU BUILT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the push-up verdict, read plainly. Past forty strict: a pressing trait, certified, portable, and permanent for as long as you feed it twice a week, which is to say, yours. Thirty to forty: the chain is trained and the line is a matter of one more honest block, with the trend pointing only one way. Under thirty: the verdict names the slow clock, usually tendon time or plain volume, and the protocol above is dosed exactly for it. Write the three counts down, first, retest, verdict, with their dates, because three points make the trend no bad week can argue with. Put the verdict count in the comments, just the reps, certified ones only. If you remember the first count, set it beside the verdict and let the two numbers tell the season's story without your help. We confirm the count in thirty days, then read it quarterly. The first test counted what you had. The verdict counts what you built. There is a difference, and it is the whole channel.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CONFIRMATION IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "STRICT ENOUGH TO SIGN",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, a short confirmation of a long verdict. Bring me the same count, strict enough to sign. Subscribe so the quarterly readings find you pressing. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "push-up verdict",
+  "push-up test",
+  "chest tendons",
+  "90-day retest",
+  "max push-ups",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_front.webp",
+  "big": "40 REPS",
+  "hook": "PUSH-UP VERDICT"
+ },
+ "title": "90 Days Later: Your New Push-Up Number \u2014 The chest tendons Verdict",
+ "v5": true
+}

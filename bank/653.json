@@ -1,0 +1,387 @@
+{
+ "badge": "EP 653 - THE RANK RETEST",
+ "category": "retests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE RANKING",
+  "YOUR VERDICT"
+ ],
+ "description": "How many pull-ups does the average skinny guy actually do? Fewer than you think. Run your max, rank it against the real benchmark data, and find out whether you are still average or quietly ahead of your entire weight class.",
+ "hashtags": [
+  "pull up test",
+  "pull up max",
+  "fitness benchmarks",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "653",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME BAR, SAME RULES"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLEAN REPS ONLY"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "TESTED MEN, NOT INFLUENCERS",
+     "pos": "tr",
+     "text": "REAL DATA"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Time to rank yourself. | The pull-up max test. | You ran it before. | Same bar, same rules. | Dead hang at the bottom. | Chin over at the top. | No kicking, no swinging. | Every rep fully clean. | Go until you fail. | That number is your rank. | But rank against who? | Not the internet monsters. | Against the average guy. | The average skinny guy. | Your actual weight class. | Benchmark data exists for this. | Real tested men, real numbers. | Finally, I place you. | On the real ladder. | Keep your number safe. | It will mean something soon.",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NOT THE ALGORITHM'S LADDER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE AVERAGE SKINNY GUY",
+     "pos": "br",
+     "text": "2-4 REPS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "5 CLEAN = AHEAD OF MOST"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "READ AGAINST REAL DATA"
+    }
+   ],
+   "big": "5 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHERE THE AVERAGE SKINNY GUY ACTUALLY SITS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the benchmark the fitness internet never shows you, because it is not dramatic. In tested groups of untrained young men, the average pull-up max is not ten, or even five. Most untrained men cannot do three clean reps, and a large share cannot do one. Among skinny men specifically, the picture splits: less muscle to pull with, but far less mass to pull. The data lands the average skinny guy around two to four clean reps. Five clean reps already puts you ahead of most of your weight class. Eight puts you in rare air. And double digits, at a light bodyweight, is a genuinely elite relative-strength result, whatever the comment sections claim. Your number today gets read against that ladder, not against a shirtless algorithm.",
+   "section": "THE NUMBER",
+   "sub": "0-2: the untrained majority - 8+: ahead of almost everyone your size",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "All of your weight, every rep.",
+      "No system can hide."
+     ],
+     "pos": "tr",
+     "title": "WHY THE PULL-UP RANKS"
+    },
+    {
+     "asset": "ren_hang_side_active.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO HIDING, NO BORROWING"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SMALL NUMBER, BIG INFORMATION"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Why is the pull-up the ranking test and not another push-up? Because it cannot be borrowed against. A push-up moves roughly two thirds of your bodyweight and lets strong systems cover for weak ones. A pull-up moves all of you, through the exact systems this channel trains: finger and forearm cables at the bar, lats and upper back as the engine, and a nervous system that must recruit nearly everything it owns in the right order. There is no technique trick that fakes a clean rep and no momentum that survives a dead-hang start. That purity is why benchmark researchers love it and why your rank on it means something. The number is small. The information in it is not. It also explains a pattern every skinny guy has felt: your first pull-up arrives long before you look any different. The rep is a recruitment exam before it is a muscle exam. The back you need for five clean reps is mostly the back you already own, finally being dialed in the right order, at full voltage, from a dead hang.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE FAILURE ADDRESSES"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "GRIP",
+       50,
+       "red"
+      ],
+      [
+       "BOTTOM",
+       30,
+       "gold"
+      ],
+      [
+       "TOP",
+       20,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE UNTRAINED REPS DIE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNLOCKING, NOT BUILDING"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NOTE WHERE IT DIED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The benchmark data hides a second story: why the average is so low. Pull-ups fail untrained men at three addresses. The grip quits first for most, long before the back is tired. The bottom position quits second, because starting from a dead hang demands strength at the longest muscle length, where untrained nerves recruit worst. And the top quits third, the final chin-over inches where the leverage is worst. Trained men do not have different anatomy. They have patched the three addresses, usually in that order, which is why early pull-up progress feels like unlocking rather than building. Your retest today is also a diagnostic. Note where your last rep died. That address is your next training block, and the verdict at the end will name it. Notice, too, what the failure map does to your motivation. A max of three stops being a character judgment the moment you can say which address ended it. Grip, bottom or top: each one is a two-to-four-week training block with a known drill. Benchmarks tell you where you stand. The failure address tells you where to dig.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RELATIVE STRENGTH IS YOUR GAME"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE ONLY FAIR LOAD",
+     "pos": "br",
+     "text": "YOU VS YOU"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY IS HOME FIELD"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "A word about relative strength, the statistic your weight class secretly wins. Researchers express pull-up performance against body mass because the movement is you versus you. A ninety-kilo man doing eight reps is moving a load that would crush most gyms' cable stacks, and it deserves respect. But rep for rep, the light man who reaches ten clean pull-ups owns the rarer adaptation: his tendons transmit force at a higher percentage of his system's size, and his nerves recruit a larger share of what he has. This is why climbers, gymnasts and fighters cluster at lighter weights for pulling sports. The ladder you are ranked on today is the honest one for your build, and on this ladder, skinny is not the handicap. It is the home field.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEAPER REPS COMPOUND"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PER WEEK AT THE BAR",
+     "pos": "br",
+     "text": "MORE DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMPOUND INTEREST ON REPS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KEEP SHOWING UP"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Follow the arithmetic of the advantage one step further. To add one pull-up, you must gain enough strength to move your bodyweight once more. The lighter the bodyweight, the smaller the strength deposit each new rep requires, which is why light beginners add reps in clusters while heavy beginners add them in singles separated by months. Your practice economics are better too: a set of pull-ups at sixty kilos costs your elbows and shoulders a fraction of what the same set costs at ninety, so you can train the movement more days per week and recover between them. Rank is not a gift given to light men. It is compound interest on cheaper reps, collected by the ones who keep showing up to the bar. Climbers have a saying for this: the best training weight is the one you wake up with. Yours happens to be the weight class where pulling strength compounds fastest, and the ladder keeps the receipts to prove it.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "check": 3,
+   "exercise": "PULL-UPS",
+   "music": "drive",
+   "narration": "Now we buy the next rank together. Three rounds of clean pull-ups, dead hang every rep, stop one rep before the kicking starts. Quality is the currency here.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_doorframe_row.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PATCH THE FAILURE ADDRESS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "GREASE THE GROOVE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NEVER TO FAILURE ON EASY DAYS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "UNLOGGED NUMBERS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol, aimed at the address where your last rep died. If the grip quit: finish every session with a max hang, and add towel hangs twice a week. If the bottom quit: train the first fifteen centimeters, dead-hang starts with a two-second pause, five sets of two, twice a week. If the top quit: hold chin-over-bar for time and lower over five full seconds, because the top is an eccentric address. For everyone: grease the groove on two non-training days, one easy set of half your max every hour or two, never to failure. And log every max attempt with its conditions, same bar, same start. The ladder only respects numbers it can compare.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE LADDER DOES NOT MOVE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE RE-RANK",
+     "pos": "br",
+     "text": "90 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your rank. Zero to two clean reps: you are standing exactly where the average untrained skinny guy stands, and the data says the first three reps are the fastest you will ever gain. Three to five: you have left the average behind, quietly, which is the only way it ever happens. Six to nine: top slice of your weight class, a pulling system most men your size never build. Ten or more: rare air, elite relative strength, full stop. Put your number in the comments, just the number, and in ninety days we re-rank you on the same ladder. Ladders do not move. Climbers do. One last piece of honesty about ladders: the men above you on this one are not a different species. They are earlier starters and steadier attenders, which means the rungs between you are made of calendar pages, not genetics.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 90 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A HIGHER RANK"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Ninety days from now, same bar, dead hang start, clean reps only. Bring me a higher number and we move you up the real ladder. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "pull up test",
+  "pull up benchmarks",
+  "how many pull ups average",
+  "retest",
+  "pull up max",
+  "skinny guy strength",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pullup_top.webp",
+  "big": "TOP 10%",
+  "hook": "THE RANK RETEST"
+ },
+ "title": "The the average skinny guy Benchmark: Where Your benchmark data Ranks",
+ "v5": true
+}

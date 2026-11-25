@@ -1,0 +1,397 @@
+{
+ "badge": "EP 611 - WALL SIT RETEST",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "THE KNEE CABLES",
+  "YOUR VERDICT"
+ ],
+ "description": "The wall sit test put your back against the wall and your knee tendons on the clock. Today we sit again: same wall, same ninety degrees, old time against new time. See what your knee tendons built while nobody was watching, and the protocol that takes the sit into its next league.",
+ "hashtags": [
+  "wall sit",
+  "wall sit retest",
+  "knee tendons",
+  "isometric",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "611",
+ "scenes": [
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME WALL, SAME NINETY"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE HONEST RULE",
+     "pos": "br",
+     "text": "HANDS ON NOTHING"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLIDE BELOW = STOP"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "OLD TIME IN YOUR HEAD",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STILLNESS, ON THE CLOCK"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Back against the wall. In the wall sit episode you slid down until your knees hit ninety degrees, thighs parallel to the floor, back flat, hands off your legs, and the clock started asking your knee tendons hard questions. Most of you lasted somewhere between forty five seconds and a minute and a half, and the shaking at the end was not weakness, it was the system reaching the edge of what it could hold still. Today we sit again. Same wall, same ninety degrees, same rule about the hands: they rest on nothing, because hands on thighs is a different, easier test wearing this one's name. One attempt, full honesty, and when your hips slide below the line or your back peels off the wall, the clock stops. Keep your old time in your head before you slide down. At the end I will tell you what the gap between your two sits proves about the cables crossing your knees, and why stillness was the hardest thing you ever trained.",
+   "section": "THE RETEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "2 MIN = TRAINED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A COMMON, REAL GAP",
+     "pos": "br",
+     "text": "+30-45 SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE WALL HAS REPORTED",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "2 MIN",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE TRAINED SIT LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The line, unchanged since the first sit. Two minutes at ninety degrees is the trained line for this test: below it, the knee system is still under construction, above it, you own isometric endurance that most people, including most people who train legs with weights, cannot demonstrate against a wall. Under sixty seconds on day one was the standard starting point, and it said nothing about your legs' power. It said your patellar tendon and the muscles it serves had never been asked to hold a long, honest, unmoving contraction. Wall sit time is one of the fastest-moving numbers on this channel when training is right, because the position is simple and the dose easy to repeat, so a gap of thirty to forty five seconds across a block is common and real. A small gap is also readable: it usually means the sits in training were too short, all suffering and no duration. Either way, the wall has reported. The rest of the episode is the translation.",
+   "section": "OLD VS NEW",
+   "sub": "old you under 60: the cables were new - 2 minutes plus: knees that hold like furniture",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Steady tension is its favorite language.",
+      "Stiffer cable, longer hold."
+     ],
+     "pos": "tr",
+     "title": "THE CABLE ACROSS THE KNEE"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SHAKE IS A RELAY RACE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "LATER, SMALLER SHAKING",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "What changed between your two sits lives in a structure most people never think about until it hurts: the patellar tendon, the thick cable that crosses the front of your knee, connecting the thigh's engine to the shin. In a wall sit, that cable holds the entire contraction. Your thigh pulls, the cable transmits, the shin stays put, and the position holds only as long as the whole chain can keep tension without moving. Isometric loading is the tendon's favorite language: long, steady tension tells it to lay down collagen and stiffen, and a stiffer cable means the muscle's force is transmitted instead of absorbed, so the same thigh can hold the same angle for longer before the system starts to shake. The shake is the nerve cycling motor units in and out as they fatigue, a relay race inside your thigh. A trained system runs the relay with more runners and better timing, so the shaking starts later and stays smaller. Your new time is the relay, improved, plus the cable, stiffened, added together and read by a clock.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRONGEST AT THE TRAINED ANGLE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "CABLE",
+       40,
+       "cyan"
+      ],
+      [
+       "RELAY",
+       35,
+       "cyan"
+      ],
+      [
+       "CALM",
+       25,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE THE SIT IMPROVED"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MEDICINE AND TRAINING, SAME HOLD"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "STILLNESS HAS A PHYSIOLOGY",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science of isometrics explains why this humble test punches so far above its appearance. Holding a joint still under load produces strength gains that are strongest at the trained angle and spread generously to the angles around it, which is why a ninety degree sit quietly upgrades your stairs, your squat's bottom, and your landings. Isometric loading is also what researchers reach for when tendons are unhappy, because long steady holds appear to calm tendon pain while they build: the medicine and the training are the same exercise. And long isometric holds also train the blood vessels' response to sustained effort, part of why the sit feels disproportionately hard for its simple looks. Your retest gap, then, is three adaptations in a trench coat again: a stiffer patellar cable, a better relay in the thigh, and a system that has learned to stay calm while holding still. Stillness, it turns out, is a skill with a physiology.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ THE FAILURE'S SHAPE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "DIFFERENT DIAGNOSES",
+     "pos": "br",
+     "text": "SLIDE VS SURRENDER"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "TISSUE LIMIT BEATS ALARM LIMIT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SECONDS SECOND, SHAPE FIRST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the deep reading of your sit, the one the stopwatch cannot give you: where in the sit did you fail? If the end came as a slow slide, hips sinking below the line while your back stayed honest, the thigh's endurance was the limit and the cable held fine. If the end came as a sudden negotiation, back peeling, hands flying to the thighs, the system was still strong and the mind called the meeting to a close, which is a different diagnosis with a different prescription. And if the shaking this time started later and the slide came smoother than the first test's collapse, you are watching the relay improve in real time. Compare the shape of the failure, not just the seconds. Two sits with the same time but different endings are not the same result: the one that fails slowly and honestly is the stronger system, because its limit is tissue, not alarm. Alarms can be retrained in weeks. The protocol ahead assumes you will read your failure's shape before you read its number, every retest, from now on.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRONG DOSE, LIGHT TOTAL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "WHAT HEAVIER MEN RATION",
+     "pos": "br",
+     "text": "ALMOST DAILY"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "ATTENDANCE, RECORDED IN SECONDS",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PRACTICE BEATS SUFFERING"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the wall sit is written into its physics. The sit holds a fixed share of your bodyweight through your knees, and your bodyweight is the smallest in the building, so your tendons get the same quality of long tension while the total stress per session stays lower and recoverable. That is why skinny sitters can train this position almost daily while heavier athletes must ration it: your dose signals collagen and still lets you repeat tomorrow, and repetition is the entire secret of isometric adaptation. Look at your two times again with that lens. The gap was not built by suffering more than other men. It was built by being able to practice more than other men, at the exact position the test measures, with a body that lets practice happen on consecutive days. The wall does not know your weight class. It only knows who showed up against it most often, and the clock keeps that attendance record in seconds. Yours just improved its handwriting.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "check": 3,
+   "exercise": "WALL SIT",
+   "music": "drive",
+   "narration": "Now we sit the next number into existence together. Three rounds: sixty seconds against the wall, forty five to walk it off. Back flat, knees at ninety, hands on nothing. Breathe like you mean to stay. Go.",
+   "rest": 45,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 60
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "BIG GAP: WIDEN THE ANGLES",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MID GAP: MORE TOTAL MINUTES"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "SLIDING DEEPER MID-SET",
+     "pos": "tr",
+     "text": false
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE POSITION NEVER NEGOTIATES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol, matched to your gap. If your time jumped by thirty seconds or more, the ninety degree angle is yours and it is time to widen the territory: add sits at a slightly higher and slightly lower angle, and one session a week of split-squat holds, because the strength you built spreads to nearby angles only when you visit them. If your gap was ten to thirty seconds, keep the angle and add duration density: more total minutes per week at submaximal holds, four sits of a minute instead of one heroic maximum, because your cable was underfed on total tension time. If the sit stalled, check the failure's shape first: alarm failures need shorter, calmer, more frequent sits, and tissue failures need the load reduced to a higher angle until the duration rebuilds. And bury the classic: sliding lower as the set burns and calling the deeper angle the same test. The line is ninety degrees, marked by your thighs, and a retest is only a retest when the position never negotiates.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE BOTH TIMES DOWN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR NEW TIME",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PATIENT WALL, LOADED MAN"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your new wall sit time, and its verdict. Under a minute still: the knee cables are new to this language, and frequency is the entire prescription, short honest sits on most days, no heroics required. One to two minutes: building, the collagen going down on schedule, the relay learning its timing, and the line is now a matter of weeks, not talent. Past two minutes: trained. You own knees that hold like furniture, and the position has become a tool you can use to build everything around it. Write both times down with the date, old sit and new sit, and put the new one in the comments, just the seconds. If you remember the first, put it beside the new one and let the wall confirm what your thighs already told you. We retest in thirty days, same wall, same ninety degrees, same empty hands. The wall will be exactly as patient as it was today. Be exactly as loaded.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "CROSS THE LINE",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wall, same angle, same clock with no mercy in it. Bring me a sit that crosses the two minute line. Subscribe so retest day finds you. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "wall sit retest",
+  "wall sit test",
+  "knee tendons",
+  "isometric endurance",
+  "retest",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_wall_sit.webp",
+  "big": "+45 SEC",
+  "hook": "WALL SIT RETEST"
+ },
+ "title": "Your New Number: The wall sit retest Retest Nobody Does",
+ "v5": true
+}

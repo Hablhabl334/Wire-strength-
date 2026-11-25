@@ -1,0 +1,401 @@
+{
+ "badge": "EP 724 - THE EMPTYING CLOCK",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE GUT",
+  "YOUR VERDICT"
+ ],
+ "description": "A normal meal and a clock: this digestion test measures your emptying time and separates absorption myth from eating reality. Here is why you almost certainly absorb nearly everything, what actually limits skinny gainers, and the habits that speed the whole line.",
+ "hashtags": [
+  "digestion test",
+  "emptying clock",
+  "absorption",
+  "calisthenics",
+  "gaining"
+ ],
+ "id": "724",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A NORMAL MEAL, NORMALLY EATEN"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLOCK ENDS AT LIGHT AND EMPTY"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "EMPTYING TIME + COMFORT SCORE",
+     "pos": "tr",
+     "text": "2 NUMBERS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PLUMBING VS MYTHOLOGY"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is a normal meal, eaten normally, with a clock running. Sit down to an ordinary lunch or dinner, the size you would typically serve yourself, and note the time you finish. Then simply pay attention: the test ends when your stomach feels light and empty again, the fullness gone, the idea of eating neutral rather than impossible. The hours between are your emptying time, and they are today's number. Also give the meal a comfort score out of ten: ten means you could have eaten more, five means pleasantly full, one means the meal became an event. Write both numbers down. Skinny men are told endlessly that their digestion is the problem, that food passes through unabsorbed, wasted. This episode separates the plumbing from the mythology, and it starts with your own two numbers.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE HEALTHY BAND IS WIDE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "STOMACH TIME FOR A MIXED MEAL",
+     "pos": "br",
+     "text": "2-4 HRS"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EMPTINESS IS A STOMACH EVENT"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ABSORPTION HAPPENS ELSEWHERE"
+    }
+   ],
+   "big": "3 HRS",
+   "card": "bignum",
+   "check": 1,
+   "label": "A NORMAL EMPTYING TIME FOR A MIXED MEAL",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the reading frame. A mixed meal, protein, fat, carbohydrate, fiber, normally leaves the stomach across two to four hours, with the intestine's work continuing long after the stomach feels light, so an emptying time inside that band is the healthy standard, not a defect. Under two hours usually means the meal was small or liquid-heavy, a fast line that gaining can exploit deliberately. Over four hours with a low comfort score points at dose and pacing before it points at disease: very large, very fatty meals empty slowly in every human alive. And here is the frame's most important line, the one this episode exists to deliver: the feeling of emptiness is a stomach event. Absorption is an intestinal event, longer, quieter and, in a healthy gut, astonishingly complete. The two numbers you wrote describe the waiting room. They say almost nothing about the factory.",
+   "section": "THE NUMBER",
+   "sub": "under 2 hrs: a fast line - 2 to 4: the healthy band - over 4 with discomfort: dose and pacing",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The healthy gut misses almost nothing.",
+      "The bottleneck is the loading dock."
+     ],
+     "pos": "tr",
+     "title": "95% CAPTURED"
+    },
+    {
+     "asset": "ren_farmer_carry.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A TENNIS COURT OF ABSORPTION"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HOW MUCH, HOW OFTEN, HOW COMFORTABLY"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FACTORY WAS NEVER THE PROBLEM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Follow a meal through the factory honestly. The stomach is a holding and grinding station: it churns food into a liquid stream and meters it into the intestine at a rate the downstream line can handle, which is why fat and large volumes slow the release, the line protecting itself from flooding. The small intestine is where absorption actually happens, across a surface area so large it is routinely compared to a tennis court, and its efficiency in a healthy person is not a sometime thing: upwards of ninety-five percent of the energy in ordinary food is captured. The colon finishes with water and leftovers. So when a skinny man says his body does not absorb his food, the physiology answers gently: it does, almost all of it, unless a genuine medical condition is interfering, which is a doctor's question, not a YouTube diagnosis. The bottleneck for gaining was never the factory floor. It is the loading dock: how much arrives, how often, and how comfortably the stomach accepts the next delivery.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO HONEST DIALS: LIQUID AND BALLAST"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "LOADING DOCK",
+       85,
+       "cyan"
+      ],
+      [
+       "ABSORPTION",
+       10,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE THE GAINING PROBLEM LIVES"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE POST-MEAL WALK",
+     "pos": "tr",
+     "text": "10 MIN"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "OPERATIONS, NOT EXOTIC MEDICINE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science of the loading dock is more useful than the mythology of the factory. Gastric emptying speeds up with liquids and slows with fat and fiber, which hands the gainer two honest dials: drink calories when the schedule is tight, add ballast when a meal must hold. Eating pace matters measurably: fast eating outruns the fullness signals, which lag by about twenty minutes, while distracted eating blurs the same signals. And a gentle ten-minute walk after a meal is one of the best-supported small habits in this whole area, aiding the stomach's work and smoothing the glucose curve afterward. None of this is exotic. It is operations management for a system that already absorbs superbly, and it explains why the fix for most skinny gainers is not digestive enzymes or detoxes. It is meal size, meal frequency, meal pace and a short walk: the loading dock, professionalized.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KNOW THE REAL WARNING SIGNS"
+    },
+    {
+     "asset": "ren_balance_test.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Persistent symptoms outrank protocols.",
+      "Nearly everyone else: it is the dock."
+     ],
+     "pos": "br",
+     "title": "WHEN IT IS A DOCTOR'S QUESTION"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE DOCK ADAPTS TOO"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One honest caution belongs in the deep dive, because this channel does not trade in false reassurance. A small minority of people who cannot gain do have something medical underneath: thyroid trouble, celiac disease, inflammatory conditions, diabetes and others can all genuinely impair absorption or burn the surplus, and their signatures are specific: persistent diarrhea, pain, blood, night symptoms, unintentional weight loss despite honestly high intake. If your numbers ever arrive with those companions, the correct next step is a doctor and real testing, promptly, not another protocol from a fitness channel. For everyone else, and it is nearly everyone, the deep truth stands: the gut adapts to its workload like everything else you own. Regular larger meals gradually raise comfortable capacity and smooth the whole line's operation. The loading dock, staffed daily, gets better at its job. Train it like you train everything: progressively, patiently, and with the numbers written down.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A TIMETABLE WITH YOUR NAME ON IT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "COMFORTABLE BEATS HEROIC",
+     "pos": "br",
+     "text": "5 DELIVERIES"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A LINE THAT RUNS ON TIME"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PROGRESSIVE OVERLOAD, APPLIED TO LUNCH"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantages at the loading dock are structural and immediate. Your meals start smaller, so the progressive overload of eating, a tenth more per meal per week, reaches a gaining surplus in a handful of steps instead of a campaign. Your emptying line, tested today, gives you a personal scheduling number: you now know how far apart your meals can sit, which turns the vague advice to eat more into a timetable with your name on it. Your training sits beside your kitchen, so the post-meal walk and the next feeding are frictionless. And your surplus is small enough that the dock never has to process heroic loads: five comfortable deliveries beat two punishing ones, in comfort, in consistency and, across a season, in total tonnage absorbed by that superb factory of yours. The men who envy big appetites are envying the wrong asset. The asset is a line that runs on time.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "check": 3,
+   "exercise": "FARMER CARRY",
+   "music": "drive",
+   "narration": "Now we load the dock the training way. Three rounds of farmer carries, forty seconds walking heavy, twenty seconds rest. Grip, posture, appetite: carries wake up all three. Eat a real meal within the hour.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_pinch_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SCHEDULE BY YOUR EMPTYING TIME"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LIQUID FAST, BALLAST SLOW"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "WALK AFTER THE BIG MEALS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COMFORT RISING = ADAPTING"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The digestion protocol, four rules. One: schedule meals by your emptying time, not by the clock on the wall: when the stomach reads light, the next delivery is due, and for most of you that builds a four-to-five-meal day naturally. Two: tune the dials deliberately: liquid calories when time is short, ballast when a meal must hold through a long gap, and never a heroic fat load before a busy afternoon. Three: eat like the line matters: seated, unhurried, screens away for the first ten minutes, and a ten-minute walk after the two biggest meals. Four: grow the dose by a tenth weekly and retest the emptying pair monthly; comfort rising alongside volume is the signature of a dock adapting, and it is the truest gaining metric nobody tracks. Your factory was always world-class. Professionalize the deliveries.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOU ABSORB NEARLY EVERYTHING"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN TIME THE LINE AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR EMPTYING HOURS"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE GAME WAS ALWAYS DELIVERIES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. An emptying time of two to four hours with a comfort score of five or better: a healthy line running a normal schedule, and your gaining work is pure logistics, more deliveries, slightly larger, on your measured rhythm. Under two hours: a fast line, which is not a disorder but a tool; it means you can fit more meals than most men, and this season's surplus may be easier for you than for anyone. Over four hours with low comfort: the dose is outrunning the dock, and smaller, more frequent, less fatty meals will move your totals further than any supplement aimed at a factory that was never broken. In every band, the truth about gut absorption stands: you absorb nearly everything. The game was always deliveries. Put your emptying hours in the comments, just the number. In thirty days, we time the line again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A MORE COMFORTABLE LINE"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same kind of meal, same two numbers, honestly scored. Bring me a shorter line or a more comfortable one. Subscribe, and keep today's pair safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "digestion test",
+  "gut absorption",
+  "gastric emptying",
+  "eating more comfortably",
+  "skinny guy gaining",
+  "digestion science"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_balance_test.webp",
+  "big": "3 HRS",
+  "hook": "THE EMPTYING CLOCK"
+ },
+ "title": "Your Digestion Test Reveals the Truth About Your gut absorption",
+ "v5": true
+}

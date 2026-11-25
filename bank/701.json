@@ -1,0 +1,413 @@
+{
+ "badge": "EP 701 - THE NEURAL DRIVE",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE DRIVE",
+  "YOUR VERDICT"
+ ],
+ "description": "Ten push-ups against the clock: this sprint test measures your neural drive, not your muscle size. Here is how motor unit recruitment decides how much of your strength you can actually use, why skinny guys often fire faster than big guys, and the daily drill that raises your drive in weeks.",
+ "hashtags": [
+  "neural drive",
+  "push-up test",
+  "motor units",
+  "calisthenics",
+  "explosive strength"
+ ],
+ "id": "701",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A SPRINT, NOT A SET"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FULL SPEED, EVERY REP"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE YOUR TIME DOWN"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "The clock reads your nervous system."
+     ],
+     "pos": "br",
+     "title": "NOT MUSCLE. DRIVE."
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP THE NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Stand up. | Clear some floor space. | Get into push-up position. | Ten push-ups. | As FAST as possible. | Start your clock. | Explode off the floor. | Every rep, full speed. | Chest down, arms locked. | No pacing yourself. | This is not endurance. | This is a sprint. | Stop at ten. | Read your TIME. | Write it down. | Under eight seconds? | Between eight and twelve? | Or past twelve? | Keep that number. | It is not measuring muscle. | It measures something hidden. | Your nervous system's DRIVE. | How fast it recruits. | How hard it fires. | At the end | I tell you | exactly what it means. | And how to raise it.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE DRIVE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "FULL RECRUITMENT, INSTANTLY",
+     "pos": "br",
+     "text": "8 SEC"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SIZE NEVER ASKED"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HOW MUCH OF YOU GOES?"
+    }
+   ],
+   "big": "8 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "TEN FAST PUSH-UPS: THE DRIVE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten honest push-ups in under eight seconds means your nervous system can recruit almost everything you own, almost instantly. Between eight and twelve, the wiring works but fires in stages, like lights coming on one room at a time. Past twelve seconds, the muscle is probably fine and the drive is asleep: the signal leaves headquarters slowly, and force arrives late to every rep. Notice what this number never asks about. It does not ask how big your chest is, what you weigh, or what the mirror says this morning. It asks one question only: when you say go, how much of you actually goes?",
+   "section": "THE NUMBER",
+   "sub": "under 8 sec: wired drive - 8 to 12: building - over 12: drive asleep",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Small units first, by default.",
+      "Big units must be ordered in."
+     ],
+     "pos": "tr",
+     "title": "THE SIZE PRINCIPLE"
+    },
+    {
+     "asset": "ren_pushup_front_top.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RATE CODING = FIRING SPEED"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SAME MUSCLE, NEW COMMANDER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE TROOPS WERE ALWAYS THERE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Inside every muscle sits an army organized into squads. Each squad is a motor unit: one nerve cell and every fiber it commands. Small squads handle small jobs, a posture tweak, a slow reach. The big squads, the ones wired to your largest, fastest fibers, only report for duty when the demand is serious. This is the size principle, and it runs your whole strength life. A lazy nervous system sends the small squads first and dribbles the big ones in late, so a hard effort feels hard while half your army is still in the barracks. A trained nervous system does the opposite: it recruits the big units early and fires them faster, a skill scientists call rate coding. Same muscle. Same fibers. Completely different force, because the commander changed, not the troops.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WEEKS 1-8: MOSTLY NEURAL"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "DRIVE",
+       80,
+       "cyan"
+      ],
+      [
+       "SIZE",
+       20,
+       "gold"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE EARLY STRENGTH COMES FROM"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "EXTRA WEIGHT NEEDED TO START",
+     "pos": "tr",
+     "text": "0 KG"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TRAIN THE COMMANDER FIRST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the study pattern that should rewire how you see your first year of training. When beginners start lifting, their strength climbs steeply for roughly the first four to eight weeks, while their muscles barely change size at all. Researchers have measured this for decades: early strength is mostly neural. The brain learns to recruit more units, fire them faster, and stop braking with the opposing muscles. Only later does size become the main story. Read that again if you are skinny. The fastest strength you will ever gain is already inside you, locked behind recruitment, and it does not require a single extra kilo of bodyweight to unlock. The big guy at the gym spent years building troops. Your first job is cheaper: train the commander who is currently leaving yours at home. There is one more consequence worth naming before we train. Because recruitment is a skill, it is also perishable in a specific way: it fades with disuse faster than size does, which is why a strong man returning from a month off feels weak before he looks smaller. The good news inside that fact is the mirror image: the skill also returns faster than size, within days of honest practice. Your drive is not a fixed trait you were issued. It is a performance your nervous system gives, and performances improve with rehearsals exactly like this one.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GAS PEDAL VS HANDBRAKE"
+    },
+    {
+     "asset": "ren_pushup_45_mid.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Beginners brake hard on every rep.",
+      "Training turns the brake down."
+     ],
+     "pos": "br",
+     "title": "THE BRAKE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SPEED CANNOT HIDE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is a second dial most people never touch: the brake. Every time you push, the muscles on the other side of the joint quietly resist, a protective reflex that keeps joints safe and force capped. Beginners brake hard. Their push is a negotiation between the gas pedal and the handbrake, and the wobble you see in a shaky first push-up is the argument happening in real time. Training turns the brake down, not off. The nervous system learns which efforts are safe to fully commit to, and commitment is literally measurable as force. This is why your ten-rep sprint time matters more than a shaky max attempt: speed exposes the negotiation. A slow grind can hide behind effort. A sprint cannot hide at all.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_back_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT = MORE CLEAN LESSONS"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "OF QUALITY REPS PER WEEK",
+     "pos": "br",
+     "text": "100s"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BUILT TO WIN THIS TEST"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MAIN EVENT, NOT A CONSOLATION"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the part nobody tells the skinny guy: drive training favors the light. Explosive push-ups at sixty kilos are a skill you can practice daily, in high quality, with full recovery between sessions. The heavy man pays for every explosive rep with more joint stress and more fatigue, so his commander gets fewer clean lessons per week. Yours gets hundreds. Relative strength, the kind that moves your own body fast, is precisely the quality recruitment controls most. Climbers, gymnasts and fighters have known this forever: the athletes who look least impressive in a t-shirt often own the fastest nervous systems in the room. Your test today is not a consolation prize for small muscles. It is the main event of your first year, and you are built to win it.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "EXPLOSIVE PUSH-UPS",
+   "music": "drive",
+   "narration": "Now we train the commander. Five rounds: ten seconds of push-ups at absolute maximum speed, then twenty seconds rest. Every rep is an order shouted, not mumbled. If speed dies, the round ends.",
+   "rest": 20,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MAX INTENT, ALWAYS FRESH"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STOP WHEN SPEED DROPS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NEVER TRAIN DRIVE TIRED"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RETEST EVERY SUNDAY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The drive protocol, four rules for the next thirty days. One: every day, do three to five single push-ups at maximum intent, spread through the day, always fresh, never grinding. Intent is the lesson; fatigue is noise. Two: twice a week, run the sprint test format as training, five rounds like today, stopping any round where speed visibly drops. Three: never train drive tired. A slow rep teaches slowness with the same loyalty a fast rep teaches speed, and your nervous system believes everything you practice. Four: retest every Sunday, same floor, same warm-up, and log the time next to the date. Drive responds fast, faster than any muscle you will ever build, and the log is how you watch a hidden system become visible.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ASLEEP IS NOT WEAK"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE SPRINT AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SECONDS"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WIRING CHANGES FASTEST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. Past twelve seconds: your drive is asleep, which is the best news on this channel, because sleep is not weakness, it is untrained wiring, and wiring is the fastest thing you own that changes. Eight to twelve: the commander is learning; a month of daily intent work usually pulls this band down hard. Under eight: you are wired, and your next frontier is not more drive but more troops, the size work this channel builds on top of fast cables. Whatever your number, it described your nervous system today, not your worth and not your ceiling. Put your seconds in the comments, just the number. In thirty days we sprint again, and the clock will introduce you to your new commander.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A LOUDER COMMANDER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, same ten push-ups, full speed. Bring me a faster clock and a louder commander. Subscribe, and keep today's time somewhere safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "neural drive",
+  "motor unit recruitment",
+  "explosive push-ups",
+  "nervous system strength",
+  "calisthenics science",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_top.webp",
+  "big": "8 SEC",
+  "hook": "DRIVE BEATS SIZE"
+ },
+ "title": "Why Your motor unit recruitment Matter More Than Muscle (The neural drive Episode)",
+ "v5": true
+}

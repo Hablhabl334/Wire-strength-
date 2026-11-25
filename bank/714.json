@@ -1,0 +1,413 @@
+{
+ "badge": "EP 714 - READ YOUR SORENESS",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SECOND BOUT",
+  "YOUR VERDICT"
+ ],
+ "description": "Thirty slow squats today, two soreness scores across two days: this test watches the repeated bout effect happen in your own legs. Here is how to read soreness as data instead of drama, and the rules that separate useful ache from warning light.",
+ "hashtags": [
+  "soreness test",
+  "repeated bout effect",
+  "doms",
+  "calisthenics",
+  "squat test"
+ ],
+ "id": "714",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIVE SECONDS DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE LOWERING IS THE TEST"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SCORE IT TWICE: DAY 1, DAY 2"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Soreness is data with a delay."
+     ],
+     "pos": "br",
+     "title": "READ IT, DO NOT FEAR IT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO SCORES, TWO DAYS"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Thirty squats. | Very slow ones. | Five seconds down. | Every single rep. | Stand tall between reps. | Feet flat, chest proud. | No bouncing at the bottom. | No rushing the stand. | The lowering is the test. | Count your reps quietly. | Stop at thirty. | Or when form dies. | Now the real test starts. | Tomorrow morning, score it. | Zero to ten. | How sore are your legs? | First steps out of bed. | Then score again | on day two. | Two scores, two days. | Write them both down. | Most guys fear soreness. | Or they chase it. | You will read it. | At the end | I show you how.",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A CLEANUP REPORT, LATE BY DESIGN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "WHEN IT SHOULD BE FADING",
+     "pos": "br",
+     "text": "DAY 4"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "IT GRADES DOSE VS PROTECTION"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PROTECTION IS THE FAST PART"
+    }
+   ],
+   "big": "DAY 2",
+   "card": "bignum",
+   "check": 1,
+   "label": "SORENESS PEAKS LATE BECAUSE IT IS A CLEANUP REPORT",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the reading frame before your scores even arrive. Soreness from slow eccentrics typically climbs through the first day, peaks around day two, and fades by day four, because it tracks the immune system's cleanup schedule, not the workout's quality. A peak of one to three says the dose was light for you: your legs have seen this work before, or the load was modest. Four to six is a real first exposure, the classic signature of new eccentric work arriving in unprotected tissue. Seven and above says the dose outran the protection, and the week will collect the debt in shortened sessions and guarded movement. None of these numbers grade the workout. They grade the relationship between the dose and your current protection, and protection, as you are about to prove to yourself, is the fastest thing in this story.",
+   "section": "THE NUMBER",
+   "sub": "peak 1-3: light dose - 4-6: a real first exposure - 7+: the dose outran you",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Scattered nanoscale disruptions.",
+      "Cleanup chemistry writes the ache."
+     ],
+     "pos": "tr",
+     "title": "FRAYED, NOT TORN"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WHY IT PEAKS ON DAY TWO"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STRENGTH IS DECIDED ELSEWHERE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A NARROW, SPECIFIC SIGNAL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Under the soreness sits a precise little drama. Lowering slowly, your quadriceps lengthen under load, and the weakest internal links in a small share of fibers give way, microscopic disruptions in the force-producing machinery. The muscle does not tear; it frays at the nanoscale, in scattered spots. Over the next two days, immune cells move in to clear the debris and rebuild, and their chemistry sensitizes the local nerve endings, which is why the ache peaks late and why it hurts most when the muscle is pressed or stretched. The signal's content, decoded, is narrow and specific: unaccustomed eccentric load happened here, at roughly this dose. It says nothing, nothing at all, about whether the session will make you stronger. Strength is being decided elsewhere, by tension, volume and recovery, in rooms soreness never visits.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE REPEATED BOUT EFFECT"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FIRST BOUT SORENESS",
+       80,
+       "red"
+      ],
+      [
+       "SECOND BOUT",
+       35,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME WORK, SECOND TIME"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "OF PROTECTION FROM ONE BOUT",
+     "pos": "tr",
+     "text": "WEEKS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SMOKE ALARM, NOT A TARGET"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the experiment hiding inside your calendar: repeat this exact test in fourteen days and the science predicts your scores collapse, often by half or more, on identical work. This is the repeated bout effect, one of the most robust findings in exercise science: a single exposure to eccentric work protects the muscle against damage from the same work for weeks afterward. The protection is built from several small upgrades, fibers reinforced, connective tissue braced, the nervous system distributing load across more motor units so no single thread takes the whole hit. Sit with what that does to soreness as a scoreboard. The better adapted you become, the less soreness the same excellent workout produces. A metric that falls as you improve is not a target. It is a smoke alarm: valuable when it rings, meaningless to chase, and dangerous to disable.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE SIGNALS, ONE VOLUME KNOB"
+    },
+    {
+     "asset": "ren_split_squat_top.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Each demands a different answer.",
+      "The warning light outranks plans."
+     ],
+     "pos": "br",
+     "title": "ACHE, FATIGUE, WARNING"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LITERACY, NOT ENDURANCE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Learn to separate the three signals men lazily call soreness, because they demand three different responses. The dull, symmetrical ache that peaks on day two and fades by day four is damage signaling: normal, informational, train gently through it. The tired heaviness that arrives with a hard week and lifts after rest is fatigue: a scheduling signal, answered with sleep and an easier day. And the sharp, one-sided, joint-centered pain that changes how you move is a warning light: it does not fade on the cleanup schedule, it localizes, and it outranks every plan in this episode. That third signal is where self-coaching ends: back off the movement, and see a professional if it persists. The skill this episode is really teaching is not enduring soreness. It is literacy: reading three different messages in a body that only has one volume knob for all of them.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CLEAN SIGNALS, LOW NOISE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THE TIDY ADAPTATION CYCLE",
+     "pos": "br",
+     "text": "2 WEEKS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ADAPTATION AS A DATED LOG ENTRY"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOUR DASHBOARD ATTRIBUTES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage as a reader of soreness is a quiet background. At bodyweight loads, your eccentric damage per session runs moderate, so your signals arrive clean: when slow squats genuinely light you up, the dose was new, and when they do not, you are protected; there is little noise in between. The heavy lifter's dashboard is chaos by comparison, every week mixing damage from loads his joints are still negotiating, fatigue from sessions that cost him days, and signals he cannot attribute to any single cause. Yours attributes beautifully. There is also a compounding edge: because your recovery bill per session is smaller, you can run the repeated bout experiment on schedule, new stimulus, protection, progression, in tidy two-week cycles, turning your legs into a laboratory where adaptation is not a rumor but a recurring, dated entry in a log you keep yourself.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_top.webp",
+   "check": 3,
+   "exercise": "SLOW SQUATS",
+   "music": "drive",
+   "narration": "Now a training dose of the test movement. Three rounds: forty-five seconds of slow squats, five seconds down, stand tall, then thirty seconds rest. We are installing protection, not chasing a score.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FIRST BOUT AT HALF DOSE"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PERFORMANCE IS THE GRADE"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "THE WARNING LIGHT OUTRANKS PLANS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REPEAT IN FOURTEEN DAYS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The soreness rules, four of them, for the rest of your training life. One: introduce every new eccentric movement at half dose, because the first bout's job is to install protection, and the second bout is where the real training begins. Two: never judge a session by tomorrow's ache; judge it by next month's performance, and keep the ache in the log as context, not as a grade. Three: train gently through the dull symmetrical ache, rest the heavy fatigue, and stop for the sharp warning light, every time, without negotiation. Four: repeat today's exact test in fourteen days and compare peaks; when the second score lands at half the first, you will be holding the repeated bout effect in your own handwriting, and no one will ever sell you soreness as a target again.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PROTECTION IS THE STRENGTH"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THE REPEAT THAT PROVES IT",
+     "pos": "br",
+     "text": "14 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR DAY-TWO PEAK"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BUILT SILENTLY, ASKING NO CREDIT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict, delivered across two mornings. A peak under three: your legs were already protected for this work, and your progression can afford a bigger eccentric menu. A peak of four to six: a textbook first exposure, protection now under construction, and the fourteen-day repeat will show you the construction finished. A peak over seven: the dose outran you this once; note it, halve the next first-bout of anything new, and let the repeat prove how fast your body learns. In every band, the title's promise holds: the test revealed hidden strength, because the strength was never the soreness. It was the protection your body built in response, silently, in two weeks, asking for no credit. Put your day-two peak in the comments, just the number. In thirty days, squat slow again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A CALMER DASHBOARD"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same thirty squats, same five seconds down, same two scores. Bring me a smaller peak and a calmer dashboard. Subscribe, and keep this week's two scores safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "soreness test",
+  "repeated bout effect",
+  "doms",
+  "slow squats",
+  "muscle damage signals",
+  "recovery science"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_squat_mid.webp",
+  "big": "48 HRS",
+  "hook": "WHEN SORE PEAKS"
+ },
+ "title": "Your Soreness Test Reveals Your Hidden Strength",
+ "v5": true
+}

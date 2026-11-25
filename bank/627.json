@@ -1,0 +1,401 @@
+{
+ "id": "627",
+ "v5": true,
+ "title": "The dead hang retest Benchmark: Where Your grip tendons Ranks",
+ "description": "The dead hang was the first test this channel ever set. Today you hang again and we rank your new time against the benchmark bands. Bring your old number, because the comparison between then and now is the real result.",
+ "tags": [
+  "dead hang retest",
+  "dead hang benchmark",
+  "grip tendon strength",
+  "dead hang test",
+  "grip strength",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "dead hang",
+  "retest day",
+  "grip strength",
+  "benchmark",
+  "calisthenics",
+  "tendon training"
+ ],
+ "category": "retests",
+ "badge": "EP 627 - DEAD HANG RETEST",
+ "checklist": [
+  "THE RETEST",
+  "THE BENCHMARK",
+  "THE CABLES",
+  "YOUR RANK"
+ ],
+ "thumb": {
+  "asset": "ren_dead_hang.webp",
+  "big": "90+ SEC",
+  "hook": "DEAD HANG RETEST",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you hung from a bar. | The clock counted. | Your grip gave out. | You wrote that number down. | Today, same bar. | Same overhand grip. | Chalk if you used chalk. | Nothing if you did not. | Jump up. | Arms straight. | Shoulders packed down. | Feet off the ground. | And just hang. | No swinging. | No re-gripping. | When your fingers open, | the test is over. | That is your NEW time. | Got it? | Hold it next | to the old one. | At the end, | I rank you | against the benchmark, | and the gap | gets its verdict.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME BAR, SAME GRIP",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "YOUR OLD TIME: REMEMBER IT",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "NO RE-GRIPPING",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "NEW TIME LOCKED IN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "90 SEC",
+   "label": "WHERE THE BENCHMARK SITS NOW",
+   "sub": "under 30: untrained - 60: trained - over 90: elite cables",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the benchmark, the same line this channel set on day one. Ninety seconds is elite grip territory, the level where your tendons have clearly rebuilt themselves. Sixty seconds is the trained line, proof of a working system. Under thirty is simply untrained, and untrained was where almost every skinny guy started, including most of the men who now hang for two minutes. Today your rank matters less than your movement. A rank you climbed into beats a rank you were born near, every single time, because climbing is the skill that keeps working for the next ninety days too.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "90+ SEC",
+     "label": "ELITE GRIP TERRITORY",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "60 SEC = TRAINED",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "CLIMBING BEATS STARTING HIGH",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look inside the forearm. Your fingers contain almost no muscle at all. The engines sit up here, in the forearm, and they pull on long tendons that run through your wrist like cables through a tunnel. A dead hang loads those cables with your full bodyweight, second after second. Over ninety days of hanging and gripping, the tendon material itself changes. The collagen fibers align tighter along the line of pull, the cable gets stiffer, and a stiffer cable wastes less of the muscle's force. That is the hidden upgrade behind a longer hang. Your forearm did some growing, sure, but the cables learned to transmit like steel instead of rope. One more detail the benchmark cannot see but your hands can feel. Skin and callus adapt too. Ninety days of bar work toughens the palms and teaches your grip where the bar wants to sit, in the fingers' strong groove instead of the palm's weak fold. Part of your new time is simply a hand that stopped arguing with the bar. That is not cheating. That is the interface maturing, and every serious grip athlete in history has counted it as part of the system.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "FINGERS HAVE NO MUSCLE",
+     "lines": [
+      "Forearm engines pull tendon cables."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "STIFFER CABLE, LESS WASTE",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "90 DAYS",
+     "label": "OF CABLE REMODELING",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now compare the two hangs like a scientist would. On day one your grip failed from the outside in: skin slipped, fingers uncurled one by one, and the burn in your forearms made the decision before your strength did. A trained hang fails differently. The grip stays quiet, the shoulders stay packed, and the end comes as one clean release when the cables finally reach their limit. Research on grip endurance shows the same pattern: trained hangers do not just last longer, they last cleaner, with less wasted tension everywhere else. If your new hang felt calmer even at the same time, that calm is itself a measurable upgrade in the system. One more reading deserves space in the result. Watch which hand failed first today, and whether it was the same hand as day one. A persistent one-sided failure is not a character flaw; it is a training order. The trailing hand gets extra sets next block, hung slightly longer, rested slightly more, until the pair fails together. Elite hangs are symmetrical hangs, and the road there is paved with honest attention to the hand nobody watches.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "DAY 1 HANG",
+       30
+      ],
+      [
+       "DAY 90 HANG",
+       90
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "TRAINED HANGS FAIL CLEAN",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "CALM IS A METRIC TOO",
+     "lines": [
+      "Less wasted tension means longer holds."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "SAME BAR, NEW SYSTEM",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "There is a second system that upgraded while you were not watching: your shoulders and your nerve signal. A dead hang is also a shoulder test, because packed shoulders keep the joint safe under load, and ninety days of hanging taught your lats and lower traps to switch on without you thinking about it. The nerve signal to your forearm got more efficient at the same time. Fewer stray contractions, less shaking, more of your effort arriving at the fingers where it counts. This is why retests matter more than first tests. The first test measured your starting point. The retest measures your wiring, and wiring is what training actually rebuilds. And consider what the packed shoulder really protects across a lifetime of hangs. The shoulder joint is built for mobility, not for dangling a body from, and the men who hang for decades are the ones whose muscles learned to center the joint under load early. Every quiet, organized hang you banked this season was a deposit in that account too. Grip gets the headline. The shoulder keeps the pension.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "SHOULDERS LEARNED TO PACK",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "nerve_pathway_plate.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "LESS SHAKE",
+     "label": "MORE SIGNAL AT THE FINGERS",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "RETESTS MEASURE WIRING",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "And here is the skinny advantage, stated plainly. A dead hang is your bodyweight against your grip, and you simply bring less bodyweight to the fight. The two-hundred-pound guy's cables hold a two-hundred-pound load. Yours hold far less, so you can hang longer per session, practice more days per week, and recover before he does. Volume is the language tendons understand best. Every extra quality hang is another remodeling signal, and your lighter frame lets you send more signals with less damage. The benchmark table does not adjust for bodyweight, friend. It never did. Your rank today was earned with the one advantage the heavy guys cannot buy.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "LESS LOAD, MORE PRACTICE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "HEAVY: HANGS/WK",
+       3
+      ],
+      [
+       "YOU: HANGS/WK",
+       5
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "VOLUME IS THE LANGUAGE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "THE TABLE NEVER ADJUSTS",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "DEAD HANG SETS",
+   "work": 30,
+   "rest": 30,
+   "rounds": 4,
+   "asset": "ren_dead_hang.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we hang together. Four rounds of thirty seconds: jump up, pack the shoulders, breathe slow, and own the bar. If thirty is easy, your retest already told you why."
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-level protocol starts with the three mistakes that stall retest gains. Mistake one is maxing out every session. Daily limit hangs fry the cables and the next test measures fatigue, not progress. Mistake two is a slippery bar changing the test. Same bar, same chalk rules, every retest, forever. Mistake three is ignoring the thumb and the pinky side of the grip, the quiet weak links that open first. The protocol: two heavy hang days a week, one towel hang day for the fingers, and pinch work twice a week. Then rest the system and let the collagen finish the job you started. One weekly detail protects the whole protocol: the deload week. Every fourth week, hang at half volume and skip the max attempts entirely. Tendon collagen finishes its construction during the quiet weeks, not the loud ones, and the men who skip deloads are the men whose retests mysteriously stall at month three. Build the quiet in before your body schedules it for you.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "MAXING OUT DAILY",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "CHANGING THE BAR",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "IGNORING WEAK FINGERS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE NEXT-LEVEL PROTOCOL",
+     "lines": [
+      "2 heavy days. 1 towel day. Pinch twice."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR RANK",
+   "label": "THE RETEST VERDICT",
+   "sub": "comment both numbers - old and new",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Verdict time. Rank yourself honestly against the bands. Over ninety seconds: elite cables, and your next mountain is one-arm hang prep. Sixty to ninety: trained, ranked, and climbing, so the protocol above is your road. Thirty to sixty: the building band, where the biggest gaps of the next ninety days are waiting. Under thirty: untrained still, which only means the easy gains are all still yours. The rank is a snapshot. The gap between your two numbers is the movie, and the movie is what this channel cares about. Comment both numbers below, old and new, and set the next retest thirty days out.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "90+ SEC",
+     "label": "ELITE: ONE-ARM PREP NEXT",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "THE GAP IS THE MOVIE",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT OLD AND NEW",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RETEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "First hang made you a beginner. This hang made you a rank. Keep the bar honest, keep the dates circled, and bring me a longer time next retest. Subscribe so retest day never catches you sleeping. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "BRING BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

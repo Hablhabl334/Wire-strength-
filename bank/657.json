@@ -1,0 +1,382 @@
+{
+ "badge": "EP 657 - RANK: THE CHANGE",
+ "category": "retests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE RANKING",
+  "YOUR VERDICT"
+ ],
+ "description": "This season the rank test moves to the dip bars. Max clean dips, ranked against the benchmark data for men your size: find your new rank, compare it with the pull-up ladder from last season, and see if the change is real or just noise.",
+ "hashtags": [
+  "dip test",
+  "dip max",
+  "retest results",
+  "calisthenics",
+  "fitness benchmarks"
+ ],
+ "id": "657",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A NEW LADDER: PUSHING"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FULL REPS ONLY"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "PULL RANK VS PUSH RANK",
+     "pos": "tr",
+     "text": "TWO LADDERS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "The rank test moves. | Today: the dip bars. | Two chairs work fine. | Grip the edges firmly. | Start at full lockout. | Lower until shoulders drop | below your elbows. | Press back to lockout. | No bouncing, no kicking. | Count only full reps. | Go until you fail. | That number is your rank. | A new ladder this season. | Pushing, not pulling. | Benchmark data exists here too. | Real men, real testing. | Finally, I place you. | And compare the ladders. | Did your rank change | when the direction flipped? | Keep your number safe. | We read it against data.",
+   "poses": [
+    "ren_dip_top.webp",
+    "ren_dip_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FULL BODYWEIGHT, SMALLER TEAM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE TRAINED LINE",
+     "pos": "br",
+     "text": "15 REPS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TWO RANKS = ONE MAP"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NOISE DISCIPLINE APPLIES"
+    }
+   ],
+   "big": "15 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE TRAINED LINE ON THE DIP LADDER",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the dip ladder, built from the same kind of tested-population data as the pull-up rankings. The average untrained young man manages somewhere between five and eight honest dips, and a large share of heavier beginners manage fewer, because the dip charges full bodyweight through a smaller team of muscles than the pull-up does. Fifteen clean reps is the trained line for a man your size. Twenty or more is genuinely rare pushing strength, the kind that shows up in gymnasts and almost nowhere else. Read the ladder with the same noise discipline as last audit: a rep or two either way is weather. Four or more is a season's real movement. Your number today joins your pull-up rank from last season, and the pair of them is the first honest map of your upper body we have ever owned.",
+   "section": "THE NUMBER",
+   "sub": "under 6: the untrained majority - over 20: rare pushing strength for your size",
+   "type": "card"
+  },
+  {
+   "asset": "ren_dip_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Pressing force, plus bottom integrity.",
+      "The bottom never lies."
+     ],
+     "pos": "tr",
+     "title": "TWO TESTS IN ONE"
+    },
+    {
+     "asset": "elbow_anatomy_plate.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A TABLE OF RANKS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BOTH NUMBERS ARE TRUE"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Why rank pushing separately at all? Because the dip interrogates a chain the pull-up never meets: chest, front shoulders and triceps pressing through elbow and shoulder tendons that spend their lives at the opposite job. And it adds a witness the pull-up lacks: the bottom position, where the shoulder sits loaded at its longest, most honest angle. A dip max therefore measures two things at once, pressing force and bottom-position integrity, and it fails men at whichever is weaker. This is why ranks between ladders so rarely match. A man can be a top-decile puller and a median dipper in the same body, on the same morning, and both numbers are telling the truth. Your body is not one rank. It is a table of ranks, and today we fill in the row the mirror cares about most. There is a humbling footnote for the pressing chain: it ages its ranks faster than the pulling chain does. Shoulder tendons complain earlier and forgive slower than elbows and lats, which is why the dip ladder rewards the patient and punishes the ambitious with a precision the pull-up ladder rarely matches.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EARLY GAINS ARE TECHNICAL"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "LEARNING",
+       70,
+       "gold"
+      ],
+      [
+       "STRUCTURE",
+       45,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT A FIRST DIP MAX MEASURES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STRICT RULES, HONEST RANK"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "AN UNINFLATED BASELINE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The benchmark data carries a warning specific to this ladder: dip numbers improve deceptively fast at first, and the reason is not strength. Early dip gains are heavily technical. The nervous system learns the groove, the bounce at the bottom gets quietly elastic, and the lockout stops leaking force sideways. Researchers see the same pattern in all novel pressing tests: the first month measures learning as much as muscle. That is precisely why this audit uses strict depth and a dead stop at the top on every rep. The rules strip the technique dividend out of the comparison, so the rank you earn today is the rank your tissues own. It also means a modest first dip rank is no insult. It is an uninflated baseline, the most valuable kind, because every later audit inherits its honesty. The depth rule deserves its own footnote. Partial reps inflate a dip max by a third or more, because the hardest segment of the movement is precisely the bottom third that partial reps delete. A strict-depth fifteen is worth more, in any honest table, than a bounced twenty-five.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ THE GAP, NOT THE GRADE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE BALANCE TARGET",
+     "pos": "br",
+     "text": "1 BAND"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NEGLECT IS A CHOICE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now compare your two ladders, because the gap between them is the most useful number in this episode. Pull rank far above dip rank is the classic skinny-guy signature: a back built by a channel that worships cables, and a pressing chain living on leftovers. Dip rank above pull rank is rarer here and usually means a pushing sport in your past. Ranks within a band of each other mean balanced construction, the profile least likely to stall or get hurt. None of these is a grade. Each is a routing instruction. The season's training should flow toward the lower ladder until the two rows of the table sit within one band, because the body progresses at the speed of its neglected half, and neglect, unlike genetics, is a choice you can unmake in ninety days.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SMALLEST FULL PRICE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A WEEK OF PRACTICE",
+     "pos": "br",
+     "text": "4 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DEPTH IS WHERE IT BUILDS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOU GET TO LIVE THERE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The dip ladder, like the pull-up ladder, quietly favors the light. Every rep presses your full bodyweight, and your full bodyweight is the smallest full price in the room, so your shoulders and elbows can afford the practice volume that turns a median rank into a trained one. The heavy beginner's dip training is a negotiation with joint pain by week three. Yours is a skill you can rehearse four days a week and recover from overnight. There is a second, sneakier advantage: your bottom position is cheaper to own. The shoulder stress at full depth scales with the load being held there, and your load is kind, so you can train the honest deep position that heavy men must ration. Depth is where dip strength is built. You get to live there.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "check": 3,
+   "exercise": "DIPS",
+   "music": "drive",
+   "narration": "Now we raise the lower ladder together. Three rounds of dips, full depth, dead stop at the top, stop two reps before the bounce starts. Honest reps only.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_dip_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "VOLUME DAY + TOP SET DAY"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SLOW NEGATIVES FOR THE BOTTOM"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SUPPORT HOLDS ACCUMULATE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "MORE PULLING DAYS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol for the pushing rank. First: two dip sessions a week, one for volume at sixty percent of max per set, one for a single honest top set, logged. Second: own the bottom. Finish each session with three slow negatives, five seconds down, stepping back up instead of pressing, until the deep position feels like furniture instead of danger. Third: support the chain. The dip's quiet partners are the straight-arm support hold and the lockout itself, so accumulate two minutes of support holds across each session. Fourth: if your pull rank towers over this one, steal one pulling day per week and give it to pushing until the ladders sit within a band. Balance is not a personality trait. It is a scheduling decision.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE GAP IS THE ASSIGNMENT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE PUSH RE-RANK",
+     "pos": "br",
+     "text": "90 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your pushing rank. Under six clean reps: the untrained majority, and the fastest-climbing address on the whole table. Six to fourteen: building, the wide middle where steady attenders live. Fifteen to nineteen: trained, ahead of most men your size at the movement the mirror watches. Twenty plus: rare air, gymnast territory, earned at full depth or not at all. Now place it beside your pull-up rank and read the gap out loud. That gap, not either number alone, is your next season's assignment. Put your dip number in the comments, just the number. In ninety days we re-rank the pushing ladder and check whether the table balanced. And if the gap between your ladders embarrasses you, remember what it replaces: most men never learn their gap exists. They just feel vaguely stuck for a decade and call it genetics.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 90 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A NARROWER GAP"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Ninety days from now, same bars, same depth, dead stop at the top. Bring me a higher rank and a narrower gap. Subscribe, and keep both ladders safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "dip test",
+  "how many dips average",
+  "dip benchmarks",
+  "retest results",
+  "tricep strength",
+  "rank test",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_dip_top.webp",
+  "big": "15 REPS",
+  "hook": "THE DIP RANKING"
+ },
+ "title": "Your Rank Test: Did It Actually Change? (Your benchmark data Results)",
+ "v5": true
+}

@@ -1,0 +1,392 @@
+{
+ "badge": "EP 737 - TRAIN HUNGER HORMONES",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE HORMONE SYSTEM",
+  "YOUR VERDICT"
+ ],
+ "description": "Appetite training fails when it fights your biology with willpower. Stop doing it wrong: this episode tests your average pre-meal hunger, explains how ghrelin entrains to your schedule, and gives you the timing protocol that makes hunger hormones work for you instead of against you.",
+ "hashtags": [
+  "appetite training",
+  "hunger hormones",
+  "ghrelin",
+  "meal timing",
+  "eat more"
+ ],
+ "id": "737",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RATE BEFORE YOU EAT"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THREE MEALS, ONE AVERAGE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR AVERAGE"
+    },
+    {
+     "at": 28,
+     "kind": "fact",
+     "lines": [
+      "Eating without hunger is the skinny default."
+     ],
+     "pos": "br",
+     "title": "MOST MEALS AT A 4"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test takes one day and a notebook. Before every meal and snack today, pause for five seconds and rate your hunger from one to ten: one is stuffed, five is neutral, seven is properly hungry, stomach aware, food genuinely appealing, ten is ravenous and shaky. Write each rating down before you eat, not after. At the end of the day, average the numbers you recorded before your three main meals. That average is your test result. Most skinny guys discover they eat most meals at a four or a five, not hungry, not full, just eating because the clock or the company suggested it, while their real hunger, when it visits at all, arrives at random hours like an uninvited guest. Keep your average. At the end I will show you what it reveals about your hunger hormones, and why appetite training done wrong is just willpower in a costume.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HUNGRY ON TIME"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "READINESS, NOT SUFFERING",
+     "pos": "br",
+     "text": "7 / 10"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MEALS AT FULL READINESS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NOT HUNGRIER, PUNCTUAL"
+    }
+   ],
+   "big": "7 / 10",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHERE A TRAINED HUNGER SIGNAL SITS BEFORE A MEAL",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Seven out of ten, arriving reliably in the half hour before a meal, is where a trained hunger signal sits. If your average is four or five, your hunger is unscheduled: it exists, but it shows up at useless times, mid-afternoon, late at night, or not at all, and meals happen at whatever size the moment allows. At seven, something beautiful occurs: you sit down genuinely ready, the meal is the largest comfortable one of your day, and digestion starts with a system already primed. Hunger at seven is not suffering. It is readiness. The goal of appetite training is not to be hungrier in general. It is to be hungry on time, at full strength, exactly when food is in front of you.",
+   "section": "THE NUMBER",
+   "sub": "averaging 4-5: hunger is unscheduled - arriving at 7 before meals: ghrelin on staff",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 10,
+     "kind": "fact",
+     "lines": [
+      "Ghrelin learns your meal times.",
+      "It rises early for a kept schedule."
+     ],
+     "pos": "tr",
+     "title": "A TIMETABLE, NOT A GAUGE"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 20,
+     "kind": "swap"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EMPTY, THEN FULL"
+    },
+    {
+     "at": 40,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "GRAZING BLURS THE SIGNAL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the system to train instead of fighting. Ghrelin, the hunger hormone, is secreted by the stomach and rises before meals, but its deepest habit is entrainment: it learns. Feed at consistent times and within two weeks ghrelin begins rising shortly before those times, sharpening hunger, priming acid and enzymes, even making food taste better. This is a circadian, schedule-following system, closer to a train timetable than a fuel gauge. Appetite training done wrong treats hunger as a fuel gauge to override with force: bigger meals, forced feedings, constant grazing that never lets hunger build at all. Grazing is the hidden saboteur. A stomach that is never empty never sends a clean hunger signal, so the man who snacks all day to gain often eats smaller meals and no more total than before. Empty, then full, on a schedule: that rhythm is the training. Meet the supporting cast briefly, because ghrelin does not work alone. Insulin, leptin, and the gut's fullness peptides all file reports to the same brain circuits, and they read the same schedule. A chaotic eating pattern does not scramble one hormone; it scrambles the committee. A kept schedule gives the whole committee a shared calendar, which is why the improvement, when it comes, feels global rather than local.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORCE VS RHYTHM"
+    },
+    {
+     "at": 11,
+     "items": [
+      [
+       "FORCED DAY",
+       2200
+      ],
+      [
+       "RHYTHM DAY",
+       2750
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RHYTHM IS A GENERATOR"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Watch the same man run two strategies for a month. Strategy force: he eats every two hours regardless of hunger, forces a giant dinner, and relies on discipline. His pre-meal hunger averages four, meals feel like chores, and by week three he is skipping the sessions he dreads. Strategy rhythm: three meals and one shake at the same times daily, nothing between except water, hunger allowed to build. By week three his pre-meal hunger averages seven, meals are the biggest of his life and genuinely enjoyable, and his daily total is higher on less effort. Studies of ghrelin and meal timing support the rhythm: the hormone anticipates habitual meals and amplifies hunger for them. Willpower is a battery. Rhythm is a generator. Train the generator.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANSWER THE SIGNAL"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CHOSEN AROUND YOUR REAL LIFE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEPT BEATS PERFECT"
+    },
+    {
+     "at": 23,
+     "kind": "fact",
+     "lines": [
+      "You schedule it. You honor it."
+     ],
+     "pos": "br",
+     "title": "THE TWO-SIDED CONTRACT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "One nuance separates good appetite training from a new kind of wrong. Hunger must be answered, not just scheduled. If your seven-out-of-ten arrives and you routinely delay the meal by two hours of errands, the wave crashes, the hormone learns that signaling is pointless, and the system dulls again. The contract is two-sided: you provide the schedule, and you honor the signal when it fires. Practically, this means your meal times must be times you can actually keep, chosen around your real life, not an influencer's. A seven o'clock breakfast you keep beats a perfect five a.m. plan you abandon. Boring, kept, and answered: those three adjectives build more appetite than any supplement ever bottled.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE QUICKEST WIN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TO HUNGER ON STAFF",
+     "pos": "br",
+     "text": "2-3 WEEKS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MULTIPLIES EVERYTHING ELSE"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "UNSCHEDULED, NOT DAMAGED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The skinny advantage in hormone training is speed. Your system is not damaged, just unscheduled, and unscheduled systems respond fast: two to three weeks of kept times and the hunger arrives like staff reporting for duty. Compare that to the months muscle needs. Appetite rhythm is the quickest win in the entire gaining project, and it multiplies everything else: bigger comfortable meals, better digestion, easier surplus, better training fuel. The big guy trying to suppress his hunger hormones envies the direction you get to train yours. You are not fighting your biology. You are finally giving it a timetable and letting it work.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "check": 3,
+   "exercise": "PRIMER SQUATS",
+   "music": "drive",
+   "narration": "Train with me, and note the timing: this primer belongs fifteen minutes before a meal. Four rounds of easy squats, forty on, twenty off. Movement is the match that lights hunger. Finish, wash up, and sit down to eat on schedule.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TIMES YOU CAN KEEP"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WATER ONLY BETWEEN"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "CONSTANT GRAZING"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "FORCING GIANT MEALS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The hormone protocol, replacing the wrong way entirely. One: pick three meal times and one shake time that fit your real life, and hold them within thirty minutes, daily, weekends included. Two: between meals, water only; let the tank empty so the signal can build cleanly. Three: when hunger fires near a meal time, eat within the half hour, honoring the contract. Four: rate your pre-meal hunger for the first week to watch the average climb toward seven. Five: protect the schedule for three full weeks before judging it, because entrainment is a two-week minimum. No forcing, no grazing, no heroics. Just a timetable, kept, until your own hormones start doing the heavy lifting for you. A practical trick for the loading phase, the empty hours before meals: keep your hands and eyes busy and the kitchen out of sight lines. Hunger builds fastest when food is neither eaten nor watched. The wave does not need help arriving. It needs an unobstructed beach and a man who is not staring at the water.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR AVERAGE"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THEN RE-RATE",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR AVERAGE"
+    },
+    {
+     "at": 28,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BORING WINS HERE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Read your average. Four to five: your hunger is unscheduled, and rhythm training is your highest-value fix, worth more than any food change this month. Six: the system is waking up; tighten the times and stop grazing and it finishes the climb. Seven, arriving on time: your hormones are on staff, and your remaining problem is meal size or total calories, a much better problem to have. Retest in thirty days: same ratings, same meals, new average. Comment your average and your three meal times. Let us see who keeps the most boring schedule. Boring wins here. And if your average today was already near seven, protect the asset. Trained hunger is perishable; a month of travel, night shifts, or chaos can scramble it again. The good news is that re-training is faster than the first training, like every skill the body relearns. The timetable remembers being kept.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HUNGRY AND ON TIME"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same notebook, same three meals. Bring me an average that arrives hungry and on time. Subscribe, and keep today's ratings safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "appetite training",
+  "hunger hormones",
+  "ghrelin training",
+  "increase appetite naturally",
+  "meal schedule",
+  "skinny guy appetite",
+  "hunger cues"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_horse_stance.webp",
+  "big": "7 / 10",
+  "hook": "HUNGER BY APPOINTMENT"
+ },
+ "title": "Stop Doing appetite training Wrong: Train Your hunger hormones Instead",
+ "v5": true
+}

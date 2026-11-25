@@ -1,0 +1,387 @@
+{
+ "badge": "EP 690 - THE COLD PROTOCOL",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE DOSE",
+  "YOUR VERDICT"
+ ],
+ "description": "Cold exposure, dosed like medicine instead of endured like a dare: eleven minutes a week, placed on the right days, at the right distance from your lifting. Retest your rewarming time and build the temperature week properly.",
+ "hashtags": [
+  "cold protocol",
+  "deliberate cold",
+  "rewarm test",
+  "dosing",
+  "blood flow"
+ ],
+ "id": "690",
+ "scenes": [
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME TEST, PROTOCOL GRADE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WRITE IT BESIDE THE OLD ONE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR BASELINE",
+     "pos": "tr",
+     "text": "REWARMING TIME"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MEDICINE OR ORDEAL: THE DOSE DECIDES"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is the temperature test again, and its repetition is the point: protocols are graded by baselines. Bowl of cold water, one hand in for sixty seconds, out, dry once, clock running. Time until warmth and full feeling return to every fingertip, no shaking, no warm water, no helping. That rewarming time is your number, and if you ran this test earlier in the season, you already own the comparison that makes today interesting. Write the time beside the old one. The cold episodes so far taught you what cold does and what it costs; this episode is about dose, the variable that separates medicine from ordeal. Every effective thing in this season turned out to have a dose: protein had grams per kilo, caffeine had milligrams per kilo, collagen had fifteen grams and sixty minutes. Cold has minutes per week, and most men are taking ten times the useful dose in the wrong places, then wondering why the tool feels like a punishment. Keep your rewarming time. By the end, your cold will have a prescription, and prescriptions are what separate this channel from the ice-bath influencers.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A WEEKLY TOTAL, NOT A SESSION"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SPLIT ACROSS THE WEEK",
+     "pos": "br",
+     "text": "11 MIN"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ARITHMETIC, NOT TOUGHNESS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NINE TIMES THE COST, NOT THE BENEFIT"
+    }
+   ],
+   "big": "11 MIN",
+   "card": "bignum",
+   "check": 1,
+   "label": "A WEEK OF COLD, DOSED LIKE MEDICINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the dose that circulates through the deliberate-cold research community, drawn from laboratory work on cold and metabolic signalling: a total of roughly eleven minutes of genuine cold exposure per week, split across two to four sessions, appears sufficient to trigger the adaptive signals most people are chasing, the vessel training, the norepinephrine response, the brown-fat conversation. Read the number correctly. It is a weekly total, not a session length, and it reframes the entire practice: the man doing twenty minutes daily is not getting nine times the benefit; he is mostly getting colder, at nine times the cost to his schedule and, near his lifting, to his adaptation. Eleven minutes is two cold showers finished cold, or a handful of short plunges, placed deliberately. Dose makes the medicine, and cold's dose is small, which is the best news in this episode: the tool that looked like it demanded toughness actually demands only arithmetic and a calendar.",
+   "section": "THE NUMBER",
+   "sub": "total weekly exposure, split across days - not one heroic plunge",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The first minutes carry the message.",
+      "The rest carry only the cold."
+     ],
+     "pos": "tr",
+     "title": "SIGNALS SATURATE"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FRONT-LOADED BENEFITS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DOSE TO THE SIGNAL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "What does a correct dose of cold actually buy? Three adaptations, all downstream of controlled stress. First, the vascular reflexes train: vessels that are repeatedly asked to clamp and release become crisper at both, which is part of why your rewarming time is the season's chosen gauge of the whole network. Second, the nervous system gets a large, brief catecholamine signal; studies of cold immersion report norepinephrine rising several-fold during exposure, which is the alertness and mood effect users describe, and it arrives whether the plunge lasts three minutes or thirty, because the signal is front-loaded. Third, repeated cold nudges metabolism toward heat production, the brown-fat pathway that burns fuel to warm the core, a slow adaptation measured in weeks. Notice the pattern: every benefit is a signalling event, and signalling events saturate. The first minutes carry the message; the remaining minutes carry only the cold. Dose to the signal, respect the four-hour distance from lifting that the mistakes episode established, and the tool works at a fraction of the fashionable cost.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PLACEMENT IS HALF THE DOSE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "REST-DAY COLD",
+       85,
+       "cyan"
+      ],
+      [
+       "POST-LIFTING COLD",
+       45,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE SAME COLD, TWO CALENDAR SQUARES"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "ALL SEASON LONG",
+     "pos": "tr",
+     "text": "TIMING BEAT QUANTITY"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE CALENDAR IS A VARIABLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Placement is the second half of dosing, and the research draws a clear map. Cold placed after endurance-style work, or on rest days, costs little and buys its signals cleanly. Cold placed in the hours right after strength work taxes the adaptation that session was for, as the four-hour rule from episode six seventy-nine established. The bars below put the two placements side by side as outcomes over a training block: same total cold, same lifter, different calendar squares, different results. There is one more placement the science quietly endorses: cold before a day that demands alertness rather than growth, the morning of a competition or a heavy workday, where the catecholamine signal is the product and adaptation is not on the menu. The lesson generalises beyond cold, and it is worth stating once plainly: in this season, timing has beaten quantity in every single system we have measured, protein, caffeine, collagen, and now temperature. The calendar is a training variable. Men who ignore it are not training less hard; they are training less accurately.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COLD MORNINGS, WARM EVENINGS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A FULL DOSE AT YOUR SIZE",
+     "pos": "br",
+     "text": "SHOWER FINISHES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NEVER NUMB AN INJURY INTO TRAINING"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "UNGLAMOROUS ON PURPOSE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now build the week, because a protocol you cannot picture is a protocol you will not run. Cold lands on rest-day mornings, two to four exposures totalling your eleven minutes: the cold finish to a shower counts honestly at your size, and a short plunge counts double, so most skinny guys complete the week's dose with shower finishes alone. Heat takes the opposite shifts: before stiff, creaky sessions as part of the warm-up, and after easy days when the goal is blood flow, relaxation, and the heat-shock side of the ledger. Between the two, ordinary training days stay thermally boring, warm room, warm muscles, no experiments. Two standing cautions complete the design. Never use cold to numb an injury into training; pain that needs numbing needs assessment, and if it persists, a professional, full stop. And treat the first exposures of any new cold practice as a dose to build, minutes added across weeks, because the reflexes being trained are the same ones that make sudden heroic plunges a fainting risk for the unprepared. The week is built.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THIN INSULATION, FAST SIGNAL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "YOUR REAL EXPOSURE",
+     "pos": "br",
+     "text": "2-3 MIN"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FEEDBACK LOOPS CLOSE SOONER"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE CHEAPEST TEACHER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The dose arithmetic is where the lean frame collects its dividend, because cold dose is really about how fast the cold reaches the tissue that matters. With thin insulation, a cold shower's signal arrives at your vessels and muscles within moments; the exposure that takes a heavily built man ten minutes of immersion to internalise takes you two or three. Your eleven weekly minutes are therefore genuinely sufficient, where the big man's protocol, copied from influencers with tubs and time, often runs long simply to feel the same internal event. The same thin insulation makes your heat doses efficient too, and your rewarming, the test's number, quick to improve as the reflexes train. There is a budget line here as well: your entire temperature programme costs a shower you were taking anyway and a bowl of water. The season keeps finding the same shape: at the light end of the scale, signals arrive faster, doses run smaller, and feedback loops close sooner. Cold is not the skinny man's punishment. Properly dosed, it is one of his cheapest teachers.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "check": 3,
+   "exercise": "WALL SIT",
+   "music": "drive",
+   "narration": "Now build heat from the inside. Three wall sits, sixty seconds, thighs burning, blood moving. Your own furnace, no equipment. Sit and burn.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 60
+  },
+  {
+   "asset": "ren_wall_sit_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ELEVEN MINUTES, THEN STOP"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE FOUR-HOUR MOAT IS ABSOLUTE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DAILY ICE BATHS AFTER LIFTING"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "GRADE THE TREND, NOT THE DAY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The temperature protocol, as rules for the wall. Rule one: total the week's cold near eleven minutes, split across rest-day mornings, and stop there; more is a hobby, not a dose. Rule two: the four-hour moat around lifting is absolute, no cold on a freshly trained body and none on a body part about to train. Rule three: heat is scheduled, not incidental, before stiff sessions and after easy days, as deliberately as any set in the programme. Rule four: progression is weekly and small, a minute added here, a degree colder there, because the reflexes adapt on the calendar like everything else in this season. Rule five: the rewarming test returns monthly, same bowl, same water, same hand, and its trend, not any single reading, grades the whole system. Five rules, and temperature stops being weather in your training life and becomes climate: set on purpose, stable across weeks, and quietly working for you in the background of every other adaptation you are chasing.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EXPRESS, NORMAL, OR BOTTLENECK"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME BOWL, SAME WATER",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT BOTH TIMES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your temperature verdict, from the rewarming clock. Under two minutes: an express network, reflexes trained and responsive; the protocol's job for you is maintenance, eleven quiet minutes a week holding a system that already works. Two to four minutes: normal traffic with room to sharpen, and a month of scheduled cold is the most likely purchase of a faster hand available to you anywhere in this series. Over five minutes, or a finger that lags far behind the rest: the network is the bottleneck, and it gets the protocol before any new exercise does, with the standing reminder that fingers staying white, blue, or numb in ordinary life belong in front of a professional, not in a training log. Put your minutes and seconds in the comments, and your old time too if you have it; the pair is the story. In thirty days, same bowl, same water. You came in enduring cold like a dare. You leave prescribing it like a clinician, in minutes, on a calendar.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same bowl, same cold water, same honest clock. Bring me a faster hand. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "cold exposure protocol",
+  "deliberate cold",
+  "cold shower benefits",
+  "temperature training",
+  "blood flow",
+  "recovery protocol",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_grip_squeeze.webp",
+  "big": "11 MIN",
+  "hook": "THE COLD PROTOCOL"
+ },
+ "title": "Stop Doing heat and cold Wrong: Train Your blood flow Instead",
+ "v5": true
+}

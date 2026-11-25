@@ -1,0 +1,387 @@
+{
+ "badge": "EP 698 - THE TEMPO TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE STIFFNESS PLAN",
+  "YOUR VERDICT"
+ ],
+ "description": "Tendon stiffness as a twelve-week plan: heavy slow calf work in phases, isometrics for cranky days, and plyometrics admitted only after the base is built. The tempo calf test grades the spring's construction.",
+ "hashtags": [
+  "tempo test",
+  "stiffness plan",
+  "heavy slow",
+  "achilles",
+  "twelve weeks"
+ ],
+ "id": "698",
+ "scenes": [
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE UP, THREE DOWN"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO BOUNCE AT EITHER END"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR NUMBER",
+     "pos": "tr",
+     "text": "TEMPO REPS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A CONSTRUCTION PROJECT"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is the calf raise at a tempo that forbids cheating: the tempo test. One leg on a step's edge, heel free, wall for balance. Rise for a slow count of three, lower for a slow count of three, full range top to bottom, no bounce at either end and no shortening as the burn arrives. Count the clean reps on your weaker side until the tempo breaks or the range shrinks; that count is your number, and it grades the calf and its Achilles as one system under the exact conditions the stiffness plan trains: slow, heavy-feeling, honest strain. Test the strong side too and note the gap, because the plan has a rule for gaps, as every plan in this season seems to. Keep both numbers, weaker side first, with the step and the tempo recorded. By the end of this video, tendon stiffness stops being a quality you hope your training happens to build and becomes a twelve-week construction project with phases, a pain rule, and a graduation day for plyometrics. First, the calendar itself, because the tendon's timeline is the plan's founding fact.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRADED AT THE SEASON, NOT THE WEEK"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE HONEST QUOTE",
+     "pos": "br",
+     "text": "12 WEEKS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THREE PHASES OF FOUR"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "START NOW, NOT SOON"
+    }
+   ],
+   "big": "12 WEEKS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE TENDON TIMELINE: MONTHS, NOT DAYS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the calendar that governs everything in this episode. When researchers run heavy loading programmes and measure tendon stiffness, the programmes run eight to fourteen weeks before the change is solid enough to grade, and twelve is the honest planning figure this protocol adopts. The reason is turnover: collagen, the tendon's substance, is synthesised and remodelled on a slow cycle, and the crosslinking that constitutes stiffness accumulates across many dosed sessions separated by the refractory rests the tissue demands. Muscle, by contrast, shows strength changes in a fortnight, mostly neural, which creates the central frustration of tendon work: the motor improves on a schedule the spring cannot match, and the man who judges his tendon programme at week three is grading a building at the scaffolding stage. Twelve weeks is not a punishment. It is the tendon's honest quote for the job, and like every honest quote in this season, it comes with a discount for the man who starts now instead of negotiating. The plan is three phases of four weeks. The test returns monthly.",
+   "section": "THE NUMBER",
+   "sub": "muscle adapts in weeks - tendon stiffness is measured across a season",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Heavy and slow delivers it.",
+      "Spacing and feeding complete it."
+     ],
+     "pos": "tr",
+     "title": "STRAIN IS THE ORDER FORM"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TEMPO IS NOT A STYLE"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ISOMETRICS: THE PRESSURE VALVE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Recall what the construction is actually building, because the phases follow from it. Stiffness lives in the collagen cable itself: more material, better crosslinked, aligned along the line of pull, so the tendon stretches less under a given load and returns its stored energy faster and more completely. The signal that orders this construction is strain magnitude, the four-and-a-half percent neighbourhood from the spring episode, delivered by heavy slow contractions that give the fibroblasts a long, unambiguous message. The builders then work on their own schedule, synthesis rising after each bout, the refractory quiet period following, net material accumulating across weeks when the bouts are spaced and fed. Two consequences shape the plan. First, tempo is not a style preference: slow reps keep the strain on the tendon instead of letting momentum and bounce smuggle it away, which is why the test itself is a tempo test.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HEAVY STIFFENS, LIGHT ENDURES"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "LIGHT, HIGH-REP",
+       35,
+       "red"
+      ],
+      [
+       "HEAVY AND SLOW",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "STIFFNESS GAINED IN A BLOCK"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "WHEN PLYOMETRICS ARE ADMITTED",
+     "pos": "tr",
+     "text": "PHASE THREE"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "POURED, NOT RENTED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The comparative evidence for heavy slow work is the plan's foundation, so examine it once, carefully. In studies that pit light, high-repetition loading against heavy, slow resistance for tendon stiffness, the heavy groups are the ones whose tendons measurably stiffen across a training block, while the light groups gain muscular endurance and leave the spring largely as they found it. The bars below sketch that direction. A second finding disciplines the plan's later phase: plyometric work, hopping and jumping, is a powerful stiffness stimulus in a prepared tendon and a provocative one in an unprepared tendon, which is why the plan admits it only in phase three, dosed like a strong medicine. And a third, quieter finding supports the whole enterprise: tendon stiffness gained through a season of loading persists far better than fitness qualities do, because the material itself changed. You are not renting this adaptation by the week. You are pouring a foundation, and foundations are graded in decades. Twelve weeks for a quality that stays for years is the best exchange rate in this entire season, and it is available on a staircase.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BASE, LOAD, SPRING"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE BACKPACK ENTERS",
+     "pos": "br",
+     "text": "PHASE TWO"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE PAIN RULE IS ABSOLUTE"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SEE A PROFESSIONAL IF IT PERSISTS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The phases, in full, because the deep dive owes you the whole blueprint. Phase one, weeks one to four, the base: isometric holds at mid-range, forty-five seconds, several rounds, three days a week, plus tempo calf raises at bodyweight until the tempo is a habit your nervous system owns. Phase two, weeks five to eight, the load: the tempo raises take a backpack, added in small steps whenever the last set stops being genuinely hard, because hard is the strain zone's address, and the holds remain as the cranky-day substitute. Phase three, weeks nine to twelve, the spring: low-dose plyometrics enter, pogo hops in short, crisp sets with full recovery, layered on top of the heavy work, never replacing it, and the test's cousin becomes training only now that the base can cash it.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "INCREMENTS OF A FEW PERCENT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE DOSING INSTRUMENT",
+     "pos": "br",
+     "text": "A BACKPACK"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SURVIVES HOLIDAYS AND DEADLINES"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE REAL THING, MOST RUNNABLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The plan's dosing precision is the light man's home advantage, and it is worth pricing against the alternative. His strain steps are bodyweight, then a backpack with two books, then four: increments of a few percent, exactly the granularity tendon work wants, available in a hallway. The heavy man's smallest honest increment is a plate, and his bodyweight alone may already exceed the dose his tendon is ready for, which is why big jumpers nurse big Achilles problems. Your problem is the opposite and far cheaper: you must add load deliberately, on schedule, which is an administrative task rather than a medical one. There is a second advantage in the test itself: the tempo calf raise at your mass is a pure reading, uncontaminated by the sheer joint loads that make heavy men's calf tests a negotiation with their knees. And a third in the timeline: twelve weeks of a plan that fits in a hallway and a backpack is a plan that survives holidays, deadlines, and life, and tendon plans die of interruption more than of any other cause.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "check": 3,
+   "exercise": "SINGLE-LEG BALANCE",
+   "music": "drive",
+   "narration": "The ankle complex under quiet load: single-leg balance, three rounds, forty seconds a side. The tendon works even in stillness. Stand tall, breathe, hold.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THREE DAYS, NEVER CONSECUTIVE"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A BOUNCED REP DID NOT HAPPEN"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DAILY MAXIMAL HOPPING"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "JUDGED AT TWELVE WEEKS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The stiffness plan, as rules. Rule one: three tendon days a week, never consecutive, because the refractory tissue is built in the rests as much as in the bouts. Rule two: tempo is law, three seconds up and three down on every loaded rep, and a rep that bounces is a rep that did not happen. Rule three: load progresses in backpack steps whenever the final set stops being hard, and the log records load and reps together, because the strain zone is found by arithmetic, not by feel. Rule four: isometrics are the standing substitute on cranky days, forty-five-second holds at mid-range, and using them is discipline, not defeat. Rule five: plyometrics wait for phase three, arrive in small doses, and leave immediately if the pain rule speaks. Rule six, the one that protects the other five: the test is monthly, the judgement is at twelve weeks, and a tendon trending worse under a careful plan gets assessed, not argued with. Six rules and a staircase. The spring you grade in three months is being decided by the tempo you keep this week.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDERBUILT, WORKING, OR STRONG"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME STEP, SAME TEMPO",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR WEAKER SIDE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your tempo verdict, weaker side first, as always in this plan. Under eight clean reps: the system is underbuilt, motor and spring together, and phase one was written for exactly this reading; expect the count to climb before the stiffness does, and let it. Eight to fifteen: a working base, the backpack phase will do the heavy construction, and the side gap, if you have one, gets an extra set on the trailing side until it closes to within a fifth. Over fifteen with strict tempo: a strong, honest calf-tendon unit, ready for phase three's spring work whenever the calendar arrives there. Record the step, the tempo, and the load beside the reps, because a tempo test graded under different conditions is a different test wearing the same name. Put your weaker-side reps in the comments, just the number. In thirty days, same step, same count of three, and we compare. The spring will not announce itself in the mirror or the photograph. It will announce itself here, in clean reps at a tempo that forbids lies.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same step, same slow count of three. Bring me more clean reps and a narrower gap. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "tendon stiffness protocol",
+  "heavy slow resistance",
+  "calf raise tempo",
+  "achilles training",
+  "isometric holds",
+  "tendon plan",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_calf_raise.webp",
+  "big": "12 WEEKS",
+  "hook": "THE TEMPO TEST"
+ },
+ "title": "Stop Doing tendon stiffness science Wrong: Train Your tendon stiffness Instead",
+ "v5": true
+}

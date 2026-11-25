@@ -1,0 +1,402 @@
+{
+ "badge": "EP 526 - THE ELBOW LEVER",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "Hands on the floor, elbows dug into your stomach, feet floating behind you. The elbow lever looks like a strength trick, but the muscle story is a lie: this skill is priced by wrist leverage, not arm size. Take the test, learn the lever, and find out what your hold time really measures.",
+ "hashtags": [
+  "elbow lever",
+  "wrist leverage",
+  "calisthenics",
+  "skill training",
+  "bodyweight strength"
+ ],
+ "id": "526",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANDS FLAT, FINGERS WIDE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "UNTIL FEET FLOAT",
+     "pos": "br",
+     "text": "LEAN"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO KICKING UP"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WOBBLE IS ALLOWED"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Clear some floor space. | Kneel down tall. | Hands flat, fingers wide. | Thumbs facing forward. | Bend your elbows slightly. | Dig them in hard, | right beside your navel. | Tuck them into | your hip bones. | Now lean forward, slowly. | Weight pours into hands. | Your feet get light. | Toes leave the floor. | Start your clock there. | Hold the balance point. | No kicking up. | No hopping into it. | The clock stops when | feet touch down again | or elbows slide off. | That clean hold time | is your number. | Keep it somewhere safe. | At the end I | tell you what it means. | One honest attempt. | Wobble is allowed. | Falling is data too. | This test grades levers, | not your worth.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "10 CLEAN SEC = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PRESS-READY BALANCE",
+     "pos": "br",
+     "text": "20+ SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A SHELF CAN BE BUILT"
+    }
+   ],
+   "big": "10 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF CLEAN LEVER IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten clean seconds in a full elbow lever, feet floating, elbows locked into your body, no kicks and no saves, is real lever control. Under three seconds, the problem is almost never strength; your elbows have not found their shelf yet, and a shelf can be built in days. Over twenty seconds, your wrists and shoulders are already pricing weight like a gymnast's, and the harder floor skills are open to you. Notice what the number does not measure. It does not measure your arm size, your bench press, or your bodyweight. It measures how honestly you can park your entire mass on two small levers and hold the price. That is why this test belongs at the front of the season: it separates the guys who own leverage from the guys who only own muscle, and it does it in ten seconds, on any floor, with no equipment but a clock.",
+   "section": "THE NUMBER",
+   "sub": "under 3: the shelf is missing - over 20: press-ready balance",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Elbows are the fulcrum.",
+      "Wrists collect the bill."
+     ],
+     "pos": "tr",
+     "title": "THE SEESAW RULE"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CENTER OF MASS LEADS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LEVERAGE, NOT SIZE"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TENDONS HOLD THE ANGLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is why muscle is the wrong story. When you lean into an elbow lever, your body becomes a seesaw. Your elbows are the fulcrum, planted into your abdomen like a shelf. Everything in front of that shelf, your head, chest and shoulders, must be paid for by everything behind it, your legs and hips. The bill collector is your WRIST. As you lean, your center of mass slides forward of your hands, and your wrists bend deeper under the full load, holding the angle that keeps the seesaw from tipping. Bigger arms do not change that geometry at all. A heavier front half just raises the price. What actually holds you is wrist leverage: the tendons and small stabilizers of the forearm keeping a bent wrist rigid while your whole body hangs off it. That is a connective-tissue skill, trained in seconds of honest lean, and it is exactly the kind of strength that never shows in a mirror.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE ELBOW IS A BRACKET"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "WRIST GIVES",
+       55,
+       "red"
+      ],
+      [
+       "SHELF SLIPS",
+       30,
+       "gold"
+      ],
+      [
+       "ARMS FAIL",
+       15,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT ENDS THE HOLD"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKELETON PARKS, MUSCLE BALANCES"
+    },
+    {
+     "asset": "ren_plank_hold.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Look at the elbow itself, because the shelf is an anatomy trick. The tip of your elbow, the olecranon, is a bony hook, and when you dig it into the soft wall of your abdomen it catches like a bracket on a wall. That bracket is why beginners can float their first lever in a single session: the skeleton does the parking, and the muscles only do the balancing. But the bracket has rules. Slide it too high and it rests on ribs, which bruise and slip. Slide it too wide and the seesaw twists sideways. The science of this skill is mostly shelf placement, repeated until it is automatic. Underneath the trick, real adaptation is happening too. The wrist extensors and the forearm tendons are holding a loaded, bent position, and loaded positions at long lengths are precisely what connective tissue responds to. Every clean ten-second hold is a small deposit in tissue that takes weeks to thicken and years to make bulletproof.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TABLETOP PRESS FIRST"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "SLOW, SHOULDERS TRAVELING",
+     "pos": "br",
+     "text": "10 ROCKS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NEVER TRAIN COLD WRISTS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Before the lever, wake the wrist up with its foundation drill: the tabletop press. Hands flat on the floor, fingers forward, arms straight, and rock your shoulders gently past your hands and back, ten slow rocks. This is the wrist learning its loaded angle at a price your body can afford, a rehearsal of the exact position the lever will demand. Two minutes of rocks, most days, and within two weeks the bent wrist stops feeling like a warning and starts feeling like a tool. Warm tissue bends further and complains less. Cold tissue is where lever practice goes to get injured, so never skip the rehearsal.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT = CHEAPER LEVER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "LESS RECOVERY DEBT",
+     "pos": "br",
+     "text": "MORE PRACTICE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE ENTRY TICKET"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LEVERS PAY LIGHT FIRST"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now the part nobody tells the skinny guy. The elbow lever is one of the few skills where being light is a genuine mechanical advantage, not a consolation prize. The seesaw does not care how much mass you own; it cares how the mass is arranged around the shelf. A lighter body puts less total load through the bent wrist at the same lean, which means your connective tissue can afford more practice, more often, with less recovery debt. The big guy's lever practice is rationed by his own weight. Yours is not. This is the pattern of this entire season: leverage skills pay the light athlete first. Gymnasts are not small because the sport shrank them. The sport selected the bodies that levers reward. Your build is not the obstacle to floor skills. It is the entry ticket, and this test is where you start cashing it.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "ELBOW LEVER HOLDS",
+   "music": "drive",
+   "narration": "Now we build it together. Find your shelf, lean in, and hold each round for ten seconds. Rest, reset the elbows, and go again. Clean seconds only.",
+   "rest": 50,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "3 SESSIONS A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "NO KICKING IN"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ELBOWS ON THE SHELF"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BREATHE THROUGH THE SHAKE"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CLEAN SECONDS ONLY"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Here is your week. Three lever sessions, never on back-to-back days, because the wrist tissue you are training rebuilds between sessions, not during them. Each session: two minutes of tabletop rocks, then five lever attempts, stopping every attempt the moment the shelf slips or the wrist starts to fold. You are collecting clean seconds, not surviving ugly ones. Mistake one: kicking into the lever. The kick hides a shelf that was never placed, and it teaches your body to gamble instead of balance. Mistake two: elbows floating beside your ribs instead of dug into the shelf. Without the bracket, your arms are doing a bent-arm hold, and bent-arm strength was never the point. Mistake three: holding your breath and muscling through the shake. The shake is balance information. Breathe through it, and the nervous system learns to make a hundred tiny corrections instead of one big panic. Progress looks like this: the shelf finds itself faster, the float lasts longer, and the wrist complains less. That is the whole game for the next thirty days.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNSHELVED, NOT WEAK"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE LEVER KEEPS BOOKS"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under three seconds: you are not weak, you are unshelved, and that is the fastest fix in this entire season. Three to ten: the bracket is placed and the wrist is learning its trade; a month of clean seconds moves you quickly. Over ten clean: your wrist leverage is certified, and the lever family, frog stands, and press work are all open doors now. Over twenty: stop calling it a beginner skill; your connective tissue is ahead of most trained men. Whatever your number was, it measured a lever, not your potential. Put your seconds in the comments, just the number, and retest in thirty days on the same floor, with the same shelf. The lever does not lie, and it does not flatter. It just keeps the books.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BRING YOUR NUMBER BACK"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, same shelf, same clock. I want to see what your wrist learned to hold. Subscribe, and bring your new number back here. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "elbow lever",
+  "wrist leverage",
+  "calisthenics skills",
+  "elbow lever tutorial",
+  "straight arm strength",
+  "balance skills",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_wrist_lever.webp",
+  "big": "10 SEC",
+  "hook": "ELBOW LEVER"
+ },
+ "title": "Why Your wrist leverage Matter More Than Muscle (The elbow lever Episode)",
+ "v5": true
+}

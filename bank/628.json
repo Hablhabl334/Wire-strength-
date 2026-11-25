@@ -1,0 +1,396 @@
+{
+ "id": "628",
+ "v5": true,
+ "title": "The grip retest Benchmark: Where Your finger tendons Ranks",
+ "description": "Your fingers were tested with the towel hang and the pinch hold. Today the grip retest ranks your finger tendons against the benchmark. Bring your old numbers, because finger tendons change quietly and the retest is the only way to catch them doing it.",
+ "tags": [
+  "grip retest",
+  "finger tendon strength",
+  "grip benchmark",
+  "towel hang test",
+  "pinch grip",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "grip strength",
+  "retest day",
+  "finger tendons",
+  "benchmark",
+  "calisthenics",
+  "tendon training"
+ ],
+ "category": "retests",
+ "badge": "EP 628 - GRIP RETEST",
+ "checklist": [
+  "THE RETEST",
+  "THE BENCHMARK",
+  "THE FINGERS",
+  "YOUR RANK"
+ ],
+ "thumb": {
+  "asset": "ren_grip_squeeze.webp",
+  "big": "RANKED",
+  "hook": "GRIP RETEST",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "section": "THE RETEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you tested your fingers. | Towel over the bar. | Grip it and hang. | The clock counted down | until your fingers opened. | You wrote that number down. | Today we rank them again. | Same towel. | Same thickness. | Same two hands. | Squeeze like you mean it. | Shoulders packed. | Feet off the ground. | No kicking. | No re-gripping the towel. | When a hand slips off, | the test is over. | That is your NEW time. | Got it? | Set it beside the old one. | At the end, | I rank your finger tendons, | and the gap tells the truth.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME TOWEL, SAME THICKNESS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "YOUR OLD TIME: REMEMBER IT",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "NO RE-GRIPPING",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEW TIME LOCKED IN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "45 SEC",
+   "label": "THE TOWEL HANG BENCHMARK",
+   "sub": "under 15: untrained fingers - 30: trained - over 45: crushing cables",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the benchmark for the towel hang, the harshest honest grip test a skinny guy can run at home. Forty-five seconds means your finger tendons rank in crushing territory, because the towel steals every mechanical advantage your palm normally gives you. Thirty seconds is the trained line. Under fifteen is untrained, and that was the starting rank for nearly everyone who ever took this test, including men who now crush a towel for a full minute. Remember what a retest really ranks. Not your worth, not your genetics. It ranks the current state of four small cables per hand, and cables are the most trainable tissue you own.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "45+ SEC",
+     "label": "CRUSHING TERRITORY",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "30 SEC = TRAINED",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "CABLES ARE TRAINABLE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at the machinery honestly. Each finger is a puppet with no engine of its own. The flexor tendons run from your forearm, through the wrist, and out to the fingertips, sliding through little pulley rings that keep them tight to the bone. A towel hang loads those tendons and pulleys harder per second than almost any gym exercise, because the thick, soft grip forces the fingers to work at a weak angle. Ninety days of this work does two things. The tendons stiffen along their line of pull, and the pulleys and the tissue around them toughen to handle the friction. Your fingers did not grow new muscle. The whole cable-and-pulley system got rebuilt for load. One more detail lives in the skin itself. Ninety days of towel work rebuilt your grip interface: callus in the right places, fingers that seat into the towel's fold without hunting, and a squeeze that starts from the pinky side instead of discovering it late. Coaches call this grip organization, and it is worth seconds all by itself. The towel did not get easier. Your hand got smarter about the towel, and smarter hands make tendons look stronger than they were last season.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "FINGERS ARE PUPPETS",
+     "lines": [
+      "Forearm engines, tendon strings, pulley rings."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "STIFFER CABLES, TOUGHER PULLEYS",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "8 CABLES",
+     "label": "FOUR PER HAND, ALL REBUILT",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now read your two numbers the way a coach reads them. On day one, towel hangs usually end because the fingers uncurl from the pinky side first. That is the weakest cable announcing itself. If today's hang ended with both hands letting go together, or with the shoulders giving up before the fingers, your weak link moved, and a moved weak link is real progress even when the clock barely changed. Studies of grip training show finger flexor endurance improves in exactly this order: first the small fingers catch up, then total time climbs. So do not just compare seconds today. Compare how the hang ended. The ending is the diagnosis. One more comparison sharpens the diagnosis. Test your pinch on both hands separately at the next session and compare them to each other, not just to history. Most men discover a thumb gap they never suspected, because two-handed pinches let the strong thumb cover for the weak one exactly the way two-legged life hides a weak ankle. The pair-reading habit applies inside each test too. Every layer of this system rewards the man who measures one side at a time.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "DAY 1 TOWEL HANG",
+       15
+      ],
+      [
+       "DAY 90 TOWEL HANG",
+       45
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "WATCH HOW IT ENDS",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "THE ENDING IS THE DIAGNOSIS",
+     "lines": [
+      "Pinky first means pinky is the program."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "WEAK LINKS MOVE FIRST",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pinch_hold.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "There is a second half to this retest, so grab your pinch setup, the same books, plates, or block you used on day one. The pinch tests the thumb, the one finger with its own real muscle, and the partner every grip quietly depends on. Ninety days ago your thumb time probably embarrassed your hang time. Thumbs respond to training faster than any other part of the grip because the thenar muscles actually can grow, unlike the finger cables that only remodel. If your pinch gap is bigger than your hang gap, that is not a contradiction. It is two tissues improving at their own honest speeds, and today both of them get ranked. And the thumb's faster clock carries a warning worth hearing. Because the thumb improves quickly, it tempts you to judge the whole grip by it. Resist. The fingers are the slow system and the honest one, and a program built around the fast responder will always look successful right up until the towel tells the truth. Judge the pair by the slower clock. That is the rule for every system in this channel, and the grip is where it is easiest to forget.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "NOW THE THUMB GETS RANKED",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "ren_thumb_press.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "THUMBS ADAPT FASTEST",
+     "label": "REAL MUSCLE, REAL GROWTH",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "TWO TISSUES, TWO SPEEDS",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe for grip day is the oldest one on this channel. Grip is the great equalizer because it barely cares how big your arms look. Forearms hide their strength, and finger tendons do not show in a mirror at all. A skinny guy with ninety days of honest grip work will out-hang and out-crush men carrying twenty extra pounds of show muscle, because his cables trained while theirs posed. Your lighter body helps here too. Every hang and pinch you practiced loaded your fingers against less total weight, so you banked more reps, more days, more signals. The benchmark table only sees seconds. It never asks what you weigh.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "GRIP IGNORES THE MIRROR",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "SHOW MUSCLE GRIP",
+       20
+      ],
+      [
+       "TRAINED CABLES",
+       45
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "CABLES TRAINED, THEIRS POSED",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "THE TABLE NEVER ASKS WEIGHT",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "TOWEL HANG SETS",
+   "work": 20,
+   "rest": 40,
+   "rounds": 4,
+   "asset": "ren_finger_hang.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we train the fingers together. Four rounds: twenty seconds on the towel, forty to shake the hands out and reset. Squeeze through the pinky side, not just the strong fingers."
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_spread.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-level protocol is built from the three mistakes that freeze grip retests. Mistake one is training only the strong fingers and wondering why the pinky still opens first. Spread and extension work balances the hand. Mistake two is wet or chalked hands changing the friction and faking the test. Retest rules stay frozen: same towel, same hands, same conditions. Mistake three is crushing every day. Finger tendons remodel slower than muscles recover, and daily max work is how retests go backwards. The protocol: two towel days, two pinch days, one finger extension day each week, and the retest stays thirty days away where it belongs. One weekly detail keeps the protocol honest: the open-hand reset. After every grip session, spend two minutes on finger extensions and gentle spreading, the exact opposite of the day's work. Fingers that only ever close eventually complain at the tendons' sliding tunnels, and a balanced hand stays a trainable hand. Strong is not just how hard you can squeeze. It is how completely you can open afterward.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "STRONG FINGERS ONLY",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "CHANGING THE CONDITIONS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "CRUSHING EVERY DAY",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE FINGER PROTOCOL",
+     "lines": [
+      "Towel x2. Pinch x2. Extension x1."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR RANK",
+   "label": "THE GRIP RETEST VERDICT",
+   "sub": "comment your old and new towel times",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Verdict time, fingers first. Over forty-five seconds on the towel: your finger tendons rank in crushing territory, and your next test is the one-hand towel hang. Thirty to forty-five: trained and ranked, with the pinch protocol as your next climb. Fifteen to thirty: the building band, where pinky-side work pays the fastest interest. Under fifteen: still untrained, which means every easy gain is still sitting on the table waiting for you. Whatever the clock said, comment both towel times below, old and new, and circle the next retest thirty days out. Finger tendons change quietly. The retest is how we catch them.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "45+ SEC",
+     "label": "CRUSHING TERRITORY",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "PINKY WORK PAYS FASTEST",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT BOTH TIMES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RETEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your fingers kept their promise quietly for ninety days. Now you have the rank to prove it. Keep the towel honest, keep the dates circled, and bring me stronger cables next time. Subscribe for every retest day. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "BRING BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

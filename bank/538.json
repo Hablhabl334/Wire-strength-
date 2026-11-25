@@ -1,0 +1,397 @@
+{
+ "badge": "EP 538 - WALL HANDSTAND",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE BALANCE",
+  "YOUR VERDICT"
+ ],
+ "description": "Kick up against a wall and start the clock. Your wall handstand time grades two hidden systems at once: the wrist bones that carry you and the balance nerves that keep you there. Take the test, read your number, and start building toward freestanding.",
+ "hashtags": [
+  "wall handstand",
+  "handstand",
+  "calisthenics",
+  "balance",
+  "wrist strength"
+ ],
+ "id": "538",
+ "scenes": [
+  {
+   "asset": "ren_wall_slide.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINGERS SPREAD WIDE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "ONE STRAIGHT LINE",
+     "pos": "br",
+     "text": "HEELS TO THE WALL"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ARMS STAY LOCKED"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COME DOWN WITH CONTROL"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Clear a wall and the floor in front of it. Place your hands flat on the floor, fingers spread wide, about a hand's length from the wall, shoulder-width apart. Kick up gently, one leg then the other, until your heels rest against the wall and your body is one straight line upside down: arms locked, ribs down, legs together, toes pointed. Start your clock when both heels touch the wall and your line is set. The clock stops when your feet leave the wall and you come down, your elbows bend, or your back arches into a banana you cannot correct. That time is your number. Keep it somewhere safe. At the end I will tell you what it reveals about the two hidden systems every handstand is secretly made of, and why your time today is the first page of a freestanding story.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 SEC = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "FREESTANDING IS CALLING",
+     "pos": "br",
+     "text": "60+ SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE SMALLER GRADE COUNTS"
+    }
+   ],
+   "big": "30 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "AGAINST THE WALL IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Thirty clean seconds against the wall, straight line, locked arms, breathing normally, means the handstand's two hidden systems are both online. Under ten seconds, one of them is brand new to its job, and the good news is that new systems learn at embarrassing speed. Over sixty seconds, the wall has nothing left to teach your strength, and only balance keeps you from freestanding. Here is what the clock actually grades. It is not a shoulder press, and it is not a party trick. It is your wrists carrying your entire body on a base the size of two hands, while your nervous system solves an upside-down balance problem it has been avoiding since you were a toddler. Your time is the smaller of those two grades. This episode exists to find out which one is smaller, and to train it.",
+   "section": "THE NUMBER",
+   "sub": "under 10: the systems are new - over 60: freestanding is calling",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Wrists carry the load.",
+      "Fingers steer the balance."
+     ],
+     "pos": "tr",
+     "title": "BALANCED BY FINGERS"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "AN ARCH OF SMALL BONES"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FOUNDATION, NOT WARM-UP"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DOZENS OF CORRECTIONS A MINUTE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "System one is the wrist, and it is a bone story before it is a muscle story. Upside down, your entire bodyweight pours through the small carpal bones of the wrist, stacked like a arch of pebbles, held in line by ligaments and the forearm muscles that steer pressure between your fingers and the heel of your hand. That steering is the handstand's secret. You do not balance a handstand with your shoulders. You balance it with your fingers, pressing and releasing the floor in tiny corrections, dozens per minute, while the wrist bones carry the load. This is why wrist preparation is not a warm-up nicety in this skill; it is the foundation pour. Wrists that have never carried weight complain at ten seconds and adapt within weeks, because bone and ligament respond to load exactly like tendon does: slowly, completely, and only if you keep showing up with honest weight.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANDS BECOME THE NEW FEET"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "WRISTS QUIT",
+       35,
+       "red"
+      ],
+      [
+       "SHOULDERS QUIT",
+       30,
+       "gold"
+      ],
+      [
+       "BALANCE PANIC",
+       35,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT ENDS A WALL HOLD"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STRAIGHT LINE, HONEST GRADE"
+    },
+    {
+     "asset": "ren_balance_test.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "System two is the balance network, and its science is stranger. Right side up, your balance runs on autopilot: eyes, inner ear and pressure sensors in your feet negotiate without asking you. Upside down, every input is inverted, the feet sensors go silent, and the brain must rebuild the whole negotiation using your hands as the new feet. Research on handstand training shows the brain does exactly that, remapping hand pressure into the balance circuits within weeks of practice, which is why beginners improve so violently fast at first. The wall is the training wheels for that remap: it removes the falling problem so the nervous system can learn the correction problem in peace. The banana back, by the way, is the brain cheating: arching moves your mass toward the wall and shrinks the balance problem. A straight line is a bigger problem and a better education. Your time in a straight line is the honest grade, and it is the one we train.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE SYSTEM, TWO ORIENTATIONS"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "GROUND SCHOOL GRADE",
+     "pos": "br",
+     "text": "30 SEC"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RAISE THE CEILING FIRST"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The balance test you already know, one leg, eyes open, thirty seconds, is the handstand's ground school. It proves your nervous system can run a balance negotiation on a narrow base, which is the same software the handstand needs, just pointed the other way. If your ground balance is shaky, your wall time will be capped no matter how strong your wrists get, and two weeks of daily balance work will raise the ceiling before you ever kick up. The body does not own separate balance systems for up and down. It owns one system and two orientations, and training either orientation makes the other cheaper. Cheap is what we are buying all season.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TUITION PRICED PER KILO"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "WHILE THEY RATION",
+     "pos": "br",
+     "text": "DAILY MINUTES"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOU ARE ON A SCHOLARSHIP"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A DATE, NOT A DREAM"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage upside down is the oldest one on this channel. The wrists carry a percentage of bodyweight, the shoulders hold a multiple of it, and both bills shrink with your mass. A light athlete can practice handstands daily, in good positions, while a heavy athlete's wrists ration him to twice a week and his shoulders end sessions early. Balance learning is repetition learning: the brain remaps on total quality minutes, and you can simply afford more minutes. This is why the handstand world, like the lever world, is populated by the light. It is not that heavy men cannot handstand. It is that the tuition is priced per kilo, and you are on a scholarship. Spend it on minutes, every day, and the freestanding version of this test stops being a dream and becomes a date.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_slide.webp",
+   "check": 3,
+   "exercise": "WALL HANDSTAND",
+   "music": "drive",
+   "narration": "Now we go upside down together. Three rounds against the wall: kick up, set the line, hold thirty seconds, come down with control. If thirty is beyond you today, hold what you own and finish the clock standing tall.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DAILY BEATS HEROIC"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "NO ATTACKING THE WALL"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BREATHE, DO NOT STATUE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "GRADUATE ON SCHEDULE"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALL SAFE COINS"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Short daily sessions beat heroic weekly ones in this skill, because balance software installs in daily doses and wrist tissue loves frequent, moderate loads. Five days a week: wrist rocks and tabletop presses first, then three wall holds like our block, then one minute of ground balance per leg. Mistake one: kicking up like you are attacking the wall. The kick is part of the skill; a violent entry spends your first ten seconds recovering instead of balancing. Mistake two: holding your breath for the whole hold. Upside-down blood pressure is real, and statues faint; breathe shallow and steady, and your times will double without any new strength. Mistake three: training only against the wall forever. Once sixty seconds is yours, start pulling one heel off the wall for a few seconds each hold, buying freestanding balance in small, safe coins. The wall is a teacher. Graduate from it on schedule.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NEW SYSTEMS LEARN FASTEST"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PAGE ONE OF FREESTANDING"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under ten seconds: a system is new, wrist or balance, and new systems are the fastest learners you own; your first month will feel unfair. Ten to thirty: both systems are online and negotiating; daily minutes will push you to the line quickly. Over thirty clean seconds: certified, your wrists carry you and your brain balances you, the full handstand package in training form. Over sixty: the wall is a formality, and freestanding practice is your next season's headline. Put your seconds in the comments, just the number, and retest in thirty days at the same wall with the same straight line. Upside-down books are kept in seconds too, and yours just opened to page one.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PEEL HEELS OFF THE WALL"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wall, same line, longer clock. Bring me a bigger number and we will start peeling heels off that wall together. Subscribe, and keep your number safe. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "wall handstand",
+  "handstand test",
+  "wrist strength",
+  "balance training",
+  "handstand progression",
+  "calisthenics skills",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_wrist_lever.webp",
+  "big": "30 SEC",
+  "hook": "WALL HANDSTAND"
+ },
+ "title": "Your Wall Handstand Time Reveals Your Hidden Strength",
+ "v5": true
+}

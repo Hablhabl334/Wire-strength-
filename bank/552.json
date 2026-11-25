@@ -1,0 +1,410 @@
+{
+ "badge": "EP 552 - SPRINT START MISTAKES",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NERVES",
+  "YOUR VERDICT"
+ ],
+ "description": "A sprint is decided before your muscles even get a vote. Your first ten meters are a nerve-speed contest, and five common start mistakes are slowing the signal. Time your ten meters, find your number, and rewire the launch.",
+ "hashtags": [
+  "sprint start",
+  "nerve speed",
+  "acceleration",
+  "10 meter test",
+  "sprint training"
+ ],
+ "id": "552",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MARK TEN METERS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THREE HONEST ATTEMPTS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "BEST TIME"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A NERVE-SPEED CONTEST"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR TIME SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Mark ten meters on flat ground: two cones, two shoes, two water bottles, anything. Start from a standstill behind the first mark, one foot forward, like you are about to be pushed. On your own go, sprint through the second mark at full effort and time it, phone in hand or a friend on the stopwatch. Three attempts, full recovery between them, and your best honest time is your number today. Most people have never timed their first ten meters, which is strange, because those ten meters are the purest measure of how fast your nervous system can turn intention into force. This episode is about the five sprint start mistakes that are destroying your nerve firing speed, the small errors at the launch that tax every step after them. Keep your time safe. At the end, I will tell you exactly what it says about your wiring.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A TWO-SECOND AUDIT"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "GENUINELY FAST NERVES",
+     "pos": "br",
+     "text": "1.9 SEC"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNPRACTICED IS FIXABLE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "VOLTAGE, NOT SIZE"
+    }
+   ],
+   "big": "2.0 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN SLOW WIRING AND FAST",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for a standing ten meters. Around two seconds is where an untrained launch becomes a trained one. Over two point two, nothing is wrong with your legs; your start is simply unpracticed, and unpracticed is the most fixable condition in sport. Under one point nine, you own firing speed most people never build, whatever the mirror says about your size. Notice what this test refuses to measure: your top speed, your endurance, your muscle. Ten meters is over before any of those get a say. It is a two-second audit of how quickly your brain can recruit everything you have, in the right order, at full voltage. That is why sprinters obsess over the start, and why your number today says more about your nervous system than any flex could.",
+   "section": "THE NUMBER",
+   "sub": "over 2.2 sec: untrained launch - under 1.9: genuinely fast nerves",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The start is an electrical event.",
+      "Muscles only follow the signal."
+     ],
+     "pos": "tr",
+     "title": "IGNITION BEFORE ENGINE"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FORCE IN FRACTIONS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CRISP REPS REWIRE"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NEVER TRAIN IT TIRED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the wiring. A sprint start begins as an electrical event: your brain issues one command, and the signal races down the spine and out to the hip, thigh, calf and foot in a precisely ordered sequence. Coaches call the result rate of force development, how much force you can produce in the first fractions of a second, and in a ten-meter sprint those fractions are the whole race. Your muscles are the engine, but the nerves are the ignition and the throttle in one. A slow start is rarely weak muscle. It is a signal arriving late, or arriving everywhere at once, muscles fighting each other instead of taking turns. The beautiful part is that wiring trains beautifully. Every crisp, maximal, fully-rested start teaches the sequence again, cleaner and faster, which is why sprinters train starts in tiny doses and never when tired.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FALL, THEN CATCH"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "AIMED BACKWARD",
+       90,
+       "cyan"
+      ],
+      [
+       "LEAKED UPWARD",
+       45,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FORCE DIRECTION AT THE START"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DIRECTION BEATS MAGNITUDE"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science of the start has a surprise in it: in the first steps, you are not really running. You are falling forward under control and catching yourself with violent pushes against the ground. Elite starters leave the line at roughly forty-five degrees, body in one straight plank from head to heel, because at that angle nearly all their force points backward into the ground, and the ground returns it as forward motion. Stand too upright too early and half your push leaks upward, wasted on bouncing instead of traveling. Researchers measuring force plates under sprinters found the best starters are not the strongest athletes; they are the ones who aim their force best in the first three steps. Direction beats magnitude at the launch. Your ten-meter time is grading your aim as much as your power.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE STRETCH REFLEX"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TIME TO DECIDE",
+     "pos": "br",
+     "text": "ZERO"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHOUT SOONER, ANSWER FASTER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRAIN BOTH DIRECTIONS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One more layer of the wiring deserves its own minute: the stretch reflex. When your foot strikes the ground mid-sprint, the calf and Achilles are loaded so fast that the muscle has no time to decide anything. Instead, a spinal reflex fires the contraction automatically, a protective circuit older than conscious thought. Fast sprinters are partly born with snappy reflexes, but the circuit is also trainable: short, stiff, springy ground contacts teach it to answer sooner and harder. This is why the start and the sprint reward the same quality from two directions. The launch is your brain learning to shout sooner. The steps are your spine learning to answer without asking. Train both, and the ten meters take care of themselves. It also explains why the start rewards relaxation at the line. Tension is slow: a sprinter who clenches everything before the go has already spent part of his firing budget on noise, muscles arguing with each other before the race begins. The fastest starters look almost loose in the stance, still and quiet, because they are saving the entire surge for the single moment it matters. Stillness, then violence. That is the whole recipe, and it is learnable.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORCE DIVIDED BY MASS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "MORE LAUNCH PER NEWTON",
+     "pos": "br",
+     "text": "LESS MASS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE LIGHT OWN THE LAUNCH"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOUR NEIGHBORHOOD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage at the start line is written in physics. Acceleration is force divided by mass, and the mass in that equation is you. A lighter body needs less force to reach the same acceleration, which means your existing strength buys you more launch than it buys a heavier athlete with identical legs. Sprint coaches know this in their bones: the early meters belong to the light and the wired, and heavy athletes spend fortunes trying to buy back the start that light athletes get nearly free. Your ten meters are the one neighborhood of sport where the skinny guy is the local. The mistakes in the next scene are the only thing standing between you and owning it outright.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "SPRINT STARTS",
+   "music": "drive",
+   "narration": "Now we rewire the launch together. Six starts, ten hard seconds each, long rests between them. Every start maximal, every rest full. Wiring is built fresh, never tired.",
+   "rest": 50,
+   "rounds": 6,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "STANDING TALL AT THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "ROCKING BEFORE YOU GO"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "POPPING STRAIGHT UP"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "TRAINING STARTS TIRED"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "LONG RUNS FOR SHORT SPEED"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The five sprint start mistakes destroying your nerve firing speed. Mistake one: standing tall at the line. An upright start aims your force at the sky; lean into the launch until your body is one plank angled toward the ground. Mistake two: stepping backward or rocking before you go. Any movement that is not forward is time donated to the clock; set, still, then explode. Mistake three: popping straight up on step one. The first steps should push you forward, low and driving, not lift you into your running posture early. Mistake four: training starts tired, at the end of sessions. Fatigued reps teach slow wiring with perfect attendance; starts go first, fresh, or not at all. Mistake five: sprinting long distances to get faster at short ones. Ten meters is a nerve skill, and nerves learn from ten-meter doses, not from exhaustion. Fix the five and your time drops before your muscles change at all, because the speed was always in you. It was waiting for a cleaner signal.",
+   "section": "THE MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WIRING IMPROVES FASTEST"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME TEN METERS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Over two point two seconds: an untrained launch, which is the best news on this channel, because wiring improves faster than muscle ever will. Between two point two and two seconds: the signal is arriving, and the five fixes are worth real tenths to you. Under two seconds: your nerves already fire like an athlete's, whatever your arms look like, and your ceiling is set by practice, not by your frame. Put your time in the comments, just the number, honest and best of three. Retest in thirty days, same ten meters, same surface, fresh legs. The clock grades wiring without mercy and without bias, and it is about to start grading you kinder.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER TIME"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ten meters, fresh legs, bring me a faster time. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "sprint start",
+  "10 meter sprint",
+  "acceleration",
+  "nerve firing speed",
+  "rate of force development",
+  "sprint technique",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "10M TIME",
+  "hook": "FIRST TEN METERS"
+ },
+ "title": "5 sprint start Mistakes That Are Destroying Your nerve firing speed",
+ "v5": true
+}

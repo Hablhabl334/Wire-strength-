@@ -1,0 +1,392 @@
+{
+ "badge": "EP 734 - PROTEIN TARGET MISTAKES",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE 5 MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Protein is the building block, but five mistakes waste it: counting wishes instead of grams, one giant protein meal, protein-free mornings, ignoring per-meal thresholds, and buying powder before food. Count yesterday's real grams and rebuild your distribution.",
+ "hashtags": [
+  "protein mistakes",
+  "protein target",
+  "muscle building",
+  "hardgainer",
+  "protein distribution"
+ ],
+ "id": "734",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YESTERDAY, IN GRAMS"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NOTE THE SPREAD TOO"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP BOTH FACTS"
+    },
+    {
+     "at": 24,
+     "kind": "fact",
+     "lines": [
+      "Muscle reads both numbers, not just the total."
+     ],
+     "pos": "br",
+     "title": "TOTAL AND TIMING"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is an audit of your building blocks. Take yesterday and write down every source of protein you ate, with amounts: the eggs, the chicken, the milk, the yogurt, the handful of nuts you are about to overestimate. Price each one in grams from labels or a tracker, honestly, cooked weights where you can. Add them up. That total is your number. Then, because distribution matters as much as totals, note how the grams were spread: how many landed at breakfast, at lunch, at dinner. Most skinny guys discover two facts at once: the total is lower than believed, and nearly all of it arrived in one evening pile. Keep both facts. At the end I will show you the bands and the five mistakes that waste the protein you already buy.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ENOUGH, AND SPREAD"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THE FUNDED LINE",
+     "pos": "br",
+     "text": "120 G"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MEAL BY MEAL, NOT MONTHLY"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "1.6 G PER KILO"
+    }
+   ],
+   "big": "120 G",
+   "card": "bignum",
+   "check": 1,
+   "label": "A REALISTIC DAILY TARGET FOR A 75-KILO SKINNY GUY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. For a seventy-five-kilo skinny guy, roughly a hundred and twenty grams a day is the realistic target, in line with the widely used range of about one point six grams per kilo for building muscle. Under eighty grams, the building blocks are simply missing, and no training program can construct what it is not supplied. Between eighty and a hundred and twenty, you are close, and distribution decides whether the grams count fully. At a hundred and twenty, spread across three or four meals, construction is funded around the clock. Notice the two conditions: enough, and spread. A hundred and twenty grams in one sitting is not the same deposit as thirty grams four times. Your muscles draw from the bloodstream meal by meal, not from a monthly statement.",
+   "section": "THE NUMBER",
+   "sub": "under 80 g: the blocks are missing - 120 g spread over 3-4 meals: construction funded",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "fact",
+     "lines": [
+      "30-40 g switches synthesis fully on.",
+      "It idles again within hours."
+     ],
+     "pos": "tr",
+     "title": "THE SWITCH NEEDS REPEATS"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 12,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEUCINE PULLS THE TRIGGER"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FOUR SWITCH-ONS BEAT ONE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the hidden system. Muscle is built by muscle protein synthesis, a construction process that switches on after a protein meal, runs for a few hours, then idles until the next sufficient meal arrives. Each meal needs a threshold dose, roughly thirty to forty grams for most young men, to switch the process fully on; the amino acid leucine is the main trigger finger. Eat below threshold and the switch barely flickers. Eat one enormous protein meal and the switch runs once, brightly, then the day goes dark for the other twenty hours. This is why distribution is not a detail. Three or four solid switch-ons a day builds more than one giant one, from the exact same total grams. The five mistakes are five ways of leaving the construction site dark.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME GRAMS, DIFFERENT DAYS"
+    },
+    {
+     "at": 18,
+     "items": [
+      [
+       "ONE GIANT MEAL",
+       1
+      ],
+      [
+       "SPREAD X3",
+       3
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br"
+    },
+    {
+     "asset": "ren_towel_curl.webp",
+     "at": 27,
+     "kind": "swap"
+    },
+    {
+     "at": 36,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HOURS LIT, NOT GRAMS PILED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Watch two days with identical totals, a hundred and twenty grams each. Day one: a protein-free morning of toast and coffee, a small lunch, then a heroic hundred-gram dinner. The construction switch fired once. Day two: thirty-five grams at breakfast, forty at lunch, forty-five at dinner. The switch fired three times, and synthesis ran across most of the waking day. Studies comparing protein distributions generally find the spread pattern supports greater daily synthesis than the skewed one, even at equal totals. Skinny guys love the heroic dinner because it feels like commitment. The muscle does not grade feelings. It grades how many hours the site was lit. Spread the grams and the same groceries build more of you. A note on the other side of the curve, so the episode stays honest. Beyond roughly one point six to two grams per kilo, extra protein buys very little extra muscle for most people; the excess is mostly burned as expensive fuel. The target is a ceiling worth reaching, not a floor to keep raising. Spend the surplus calories beyond it on total energy, where they will do more good.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COUNT GRAMS, NOT WISHES"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FOOD FIRST, POWDER LAST"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEIGH IT ONCE, KNOW IT FOREVER"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "The foundation is groceries, not supplements."
+     ],
+     "pos": "br",
+     "title": "BLOCKS BEFORE BRANDS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Mistakes four and five are about honesty and money. Four: counting wishes. The splash of milk in coffee is two grams, not a protein source; the peanut butter sandwich is twelve, not thirty. Wishful counting is why audited totals shock people. When in doubt, weigh the portion once and learn what your usual serving truly carries. Five: buying powder before food. A shake is a fine tool, but a man eating sixty grams from food who buys expensive powder to reach eighty has decorated a hole instead of filling it. Food first: eggs, milk, yogurt, cheese, meat, lentils, the cheap complete sources. Powder is the last twenty grams, never the foundation. Blocks before brands.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE DISCOUNT IS REAL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THREE SWITCH-ONS A DAY",
+     "pos": "br",
+     "text": "3 ANCHORS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MODEST CHANGE, OUTSIZED EFFECT"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TARGET SCALES WITH YOU"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The skinny advantage in protein math is simple arithmetic. Your target scales with your body weight, and your body weighs less, so your total is the cheapest in the gym to reach: a hundred and twenty grams is eggs and milk at breakfast, a normal lunch, a normal dinner, no exotic shopping. The two-hundred-kilo target belongs to someone else. And because your meals are currently small, adding a protein anchor to each one is a modest change with an outsized effect: three anchors, three switch-ons, and the construction site stays lit all day. Small body, small target, big relative upgrade. Protein is the one part of gaining where being skinny is literally a discount.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "check": 3,
+   "exercise": "PUSH-UP SETS",
+   "music": "drive",
+   "narration": "Construction needs a work order, so we train. Five rounds of push-ups, thirty seconds on, thirty off, strict form, chest to a fist. Every round is a delivery request for the protein you are about to eat properly.",
+   "rest": 30,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TARGET FROM YOUR WEIGHT"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ANCHOR EVERY MEAL"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ONE HEROIC PROTEIN MEAL"
+    },
+    {
+     "at": 33,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "WISHFUL COUNTING"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Rebuild your protein day like this. One: set the target from your weight, about one point six grams per kilo, and write the number down. Two: anchor every meal with a named protein source and a rough gram count, thirty to forty grams each, three or four times a day. Three: fix breakfast first, because a protein-free morning is the most common hole and the easiest to close with eggs, milk, or yogurt. Four: audit one honest day per week, weighed, until your estimates stop lying. Five: add powder only after food alone has carried you for two honest weeks. Avoid heroic single meals and wishful counting for thirty days, and the same grocery bill starts building visibly more of you. One shopping habit that makes the whole system cheaper: buy the anchors in their boring bulk forms, eggs by the tray, milk by the large bottle, yogurt plain and big, cheese in blocks, lentils dry. The per-gram cost of protein collapses when the packaging stops being single-serving. Your target does not change. Your grocery bill shrinks around it.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR AUDIT"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THEN RE-AUDIT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TOTAL"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BREAKFAST TELLS ALL"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Read your audit. Under eighty grams: the blocks are missing, and no verdict about your training matters until this is fixed. Eighty to a hundred and twenty, or all of it in one meal: you are a distribution fix away from a fully funded day, the cheapest upgrade in this episode. A hundred and twenty spread across three or four meals: your protein system is genuinely handled, and your plateau lives in total calories or training. Retest in thirty days with a fresh honest audit. Comment your real total and your breakfast grams. The breakfast number tells me everything. If your audit surprised you, you are in the majority, and the surprise itself is the asset. A man who has seen his real number once can never fully unsee it; his estimates recalibrate permanently. That is why one honest day per week, weighed and written, outperforms a month of confident guessing.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP THE SITE LIT"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same audit, same honesty. Bring me a total that funds construction and a spread that keeps it lit. Subscribe, and keep today's grams safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "protein intake",
+  "protein target",
+  "muscle building",
+  "how much protein",
+  "hardgainer protein",
+  "protein distribution",
+  "gain muscle diet"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_towel_curl.webp",
+  "big": "120 G",
+  "hook": "COUNT THE GRAMS"
+ },
+ "title": "5 protein targets Mistakes That Are Destroying Your muscle building blocks",
+ "v5": true
+}

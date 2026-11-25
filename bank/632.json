@@ -1,0 +1,401 @@
+{
+ "id": "632",
+ "v5": true,
+ "title": "The push-up retest Benchmark: Where Your chest tendons Ranks",
+ "description": "The push-up max was one of the first numbers this channel ever asked for. Today the retest ranks your new max against the benchmark bands and reads what changed in your chest tendons and pressing wiring. Bring the old number. The gap is the story.",
+ "tags": [
+  "push-up retest",
+  "push-up benchmark",
+  "chest tendon strength",
+  "push-up max test",
+  "pressing strength",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "push-ups",
+  "retest day",
+  "benchmark",
+  "chest tendons",
+  "calisthenics",
+  "tendon training"
+ ],
+ "category": "retests",
+ "badge": "EP 632 - PUSH-UP RETEST",
+ "checklist": [
+  "THE RETEST",
+  "THE BENCHMARK",
+  "THE PRESS",
+  "YOUR RANK"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_mid.webp",
+  "big": "MAX",
+  "hook": "PUSH-UP RETEST",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you maxed your push-ups. | Hands under shoulders. | Body in one line. | Down, up, count them | until the form broke. | You wrote that number down. | Today we max them again. | Same floor. | Same hand position. | Same depth standard: | chest to fist height. | No bouncing at the bottom. | No sagging hips. | No half reps | at the end. | When a clean rep fails, | the test is over. | That is your NEW max. | Got it? | Set it beside | the old one. | At the end, | I rank your press, | and the gap | gets its verdict.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME FLOOR, SAME STANDARD",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "CHEST TO FIST HEIGHT",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "NO HALF REPS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEW MAX LOCKED IN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "40 REPS",
+   "label": "THE PUSH-UP BENCHMARK",
+   "sub": "under 15: untrained - 25: trained - over 40: pressing cables ranked",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the benchmark this channel set for a strict push-up max. Forty clean reps ranks your pressing system in serious territory for a bodyweight athlete, because reps past thirty are limited less by muscle size than by tendon stiffness and nerve efficiency. Twenty-five is the trained line. Under fifteen is untrained, and it was the starting point for the majority of skinny men who now live above forty. Understand what today's rank really measures. A max set is an endurance test wearing a strength costume. Your tendons, your signal, and your pacing all get graded at once, which is exactly why it is such an honest retest.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "40 REPS",
+     "label": "SERIOUS PRESSING TERRITORY",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "25 = THE TRAINED LINE",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "AN HONEST, LAYERED TEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at the front of the shoulder, where the pressing cables live. The chest muscle does not attach to your arm directly. It hands its force to tendons that cross the shoulder, and the triceps does the same at the elbow. In a push-up, those tendons are loaded and unloaded forty times in a row, and a soft tendon leaks a little force on every single rep. Ninety days of pressing, pauses, and slow negatives stiffens those cables. A stiffer cable returns more of each contraction to the floor, so rep twenty-five costs you less than it used to. Your chest did grow some. But the invisible upgrade, the one the retest actually detects, is transmission. One more detail lives in your tempo, and the retest can hear it. Day-one maxes are usually fast at the start, because speed feels like strength and hides weakness for a few reps. Ninety days later, trained pressers slow down without being told, because the system trusts each rep and stops borrowing momentum. If your new max took longer per rep than the old one, that is not inefficiency. That is a pressing system that stopped panicking, and panicking was always the most expensive thing in the set.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "FORCE CROSSES CABLES FIRST",
+     "lines": [
+      "Chest and triceps hand off to tendons."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_pushup_45_mid.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "STIFFER CABLE, CHEAPER REPS",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "40 LOADS",
+     "label": "PER SET, ALL TRANSMITTED",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_weak.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now read your two maxes like a coach. On day one, skinny guys usually fail a max set in a specific order: the hips sag first, the tempo turns ragged, and the last reps get shallow. That is the nervous system rationing a body it does not yet trust under fatigue. If today's set failed later and cleaner, with the line holding until near the end, your wiring upgraded even if the count only rose a little. Research on repetition maximums shows form breakdown timing is a real fitness marker, not a style point. Count the reps, yes. But also remember how the set died. A cleaner death at a higher number is the double win this retest is hunting for. One more reading of the set deserves a coach's eye. Count how many reps passed before your tempo first broke. That number, the clean-rep count, often improves weeks before the total does, because the wiring upgrades before the endurance arrives. If today's clean count rose while the total crept, your season worked exactly on schedule, and the total is scheduled to follow. Track both numbers in your log from now on. The clean count is the leading indicator; the max is just its shadow.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "DAY 1 MAX",
+       15
+      ],
+      [
+       "DAY 90 MAX",
+       40
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "HOW THE SET DIED MATTERS",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "FORM BREAKDOWN IS DATA",
+     "lines": [
+      "Late and clean beats early and ragged."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "THE DOUBLE WIN EXISTS",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "elbow_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "There is a joint in this story that push-up discussions always forget: the elbow. The triceps tendon and the structures around the elbow absorb the lockout force of every rep, and they are a common reason pressing progress stalls with a deep ache that is not quite pain. Ninety days of graded pressing, if you followed the protocol, loaded that tendon progressively enough to remodel instead of complain. If your elbows feel quieter at high reps today, that is tendon adaptation reporting for duty. And if the ache is still there or sharper, hear this clearly: persistent joint pain is a professional's job, so see one if it persists, and let the retest wait until you have answers. And the elbow's paragraph has a partner: the wrist. Pressing through a flat, organized wrist keeps the force line clean into the forearm, while a bent-back wrist leaks force and borrows trouble. Ninety days of strict reps usually fixes wrist position without a single cue, because the system self-organizes under honest standards. If your wrists look like a tabletop at the bottom of each rep today, add that to the list of quiet upgrades the retest just certified.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE ELBOW TAKES EVERY LOCKOUT",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "ren_pushup_bottom.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "QUIETER ELBOWS",
+     "label": "TENDONS REPORTING IN",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "PAIN THAT PERSISTS: GET CHECKED",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front_top.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe for push-up day is the reason this test humbles gym guys. A bench press number can be borrowed from a big chest and a short memory of good days. A strict push-up max cannot be borrowed from anything. It grades your whole front side as one system, at your bodyweight, with nowhere to hide a weak link. And bodyweight is the skinny guy's home turf. Less mass per rep means more reps per session, more sessions per week, and more tendon signals banked across ninety days. The benchmark does not care what you bench. It cares what you can repeat, cleanly, when the only load is you.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "NOWHERE TO HIDE A WEAK LINK",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "BENCH NUMBERS BORROWED",
+       1
+      ],
+      [
+       "PUSH-UP MAXES EARNED",
+       1
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "BODYWEIGHT IS HOME TURF",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "REPEATABLE BEATS BORROWABLE",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "PUSH-UP SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "asset": "ren_pushup_top.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we press together. Four rounds: forty seconds of smooth push-ups, twenty seconds of rest. Stay two reps short of failure every round, and keep the line from head to heels unbroken."
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_bottom.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-level protocol is built against the three mistakes that freeze push-up retests. Mistake one is maxing out weekly. A max set is a test, not a training plan, and weekly tests mostly measure accumulated fatigue. Mistake two is depth drift. As you get stronger the reps quietly get shallower, and the retest ends up grading a different exercise. Fist height, every rep, forever. Mistake three is ignoring the pause. Bottom-pause reps are the tendon builders of the pressing world. The protocol: two pressing days a week built on submax sets, one pause day, one slow-negative day, and the max stays on the calendar thirty days out. One weekly detail protects the whole pressing plan: the scapula set. Once a week, finish with slow push-up plus reps, the extra shoulder blade push at the top of each rep. The small muscles that set your shoulder platform decide how cleanly the big ones can work, and they are the first thing sloppy volume lets decay. A max is only ever as honest as the platform it was pressed from.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "MAXING OUT WEEKLY",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "DEPTH DRIFT",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "SKIPPING THE PAUSE WORK",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE PRESSING PROTOCOL",
+     "lines": [
+      "Submax x2. Pause x1. Negatives x1."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR RANK",
+   "label": "THE PUSH-UP RETEST VERDICT",
+   "sub": "comment your old and new maxes",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Verdict time. Over forty strict reps: your pressing system ranks in serious territory, and your next test is the one-arm progression ladder. Twenty-five to forty: trained and ranked, with pause work as the road upward. Fifteen to twenty-five: the building band, where submax volume pays the fastest interest in all of pressing. Under fifteen: untrained still, which only means the steepest gains remain unclaimed and yours. The number is a snapshot; the gap is the movie. Comment both maxes below, old and new, and circle the next retest thirty days from now. Then go train like the gap insulted you.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "40+ REPS",
+     "label": "SERIOUS TERRITORY",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "PAUSE WORK IS THE ROAD UP",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT BOTH MAXES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RETEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_mid.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "First max made you honest. This max made you ranked. Keep the depth standard frozen, keep the pauses in the plan, and bring me a bigger number next retest. Subscribe so you never miss one. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "BRING BOTH MAXES",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

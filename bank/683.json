@@ -1,0 +1,387 @@
+{
+ "badge": "EP 683 - THE THRESHOLD COUNT",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SWITCH",
+  "YOUR VERDICT"
+ ],
+ "description": "Forget the daily protein total for one episode. Count yesterday's threshold meals instead, the ones big enough to actually switch on muscle building, and fix the five distribution mistakes that leave a skinny guy's switch off for most of the day.",
+ "hashtags": [
+  "threshold meals",
+  "protein synthesis",
+  "leucine",
+  "meal timing",
+  "muscle building"
+ ],
+ "id": "683",
+ "scenes": [
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COUNT MEALS, NOT GRAMS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A HEROIC DINNER COUNTS ONCE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR THRESHOLD COUNT",
+     "pos": "tr",
+     "text": "0 TO 4"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP THE LIST"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test ignores your protein total completely and counts something ruder: yesterday's threshold meals. A threshold meal is one that carried roughly a palm and a half of protein food, somewhere around twenty-five to forty grams of real protein: a proper portion of chicken, fish, eggs, Greek yogurt, or their honest equivalents. A coffee with milk does not count. A handful of nuts does not count. A heroic dinner counts exactly once, no matter how heroic. Go through yesterday meal by meal, including the snacks that were secretly meals, and count how many times the switch could genuinely have been flipped. Most skinny guys, when they run this count honestly, land on one. One threshold meal, usually dinner, standing alone in a day of near misses. That count, zero to four, is your number, and it may explain more about your stalled progress than any total ever printed on an app. Keep the count, and keep the meal list. By the end you will know what a threshold actually is inside the muscle, and how to flip the switch three times a day without eating like a competitive strongman.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SYNTHESIS RUNS IN SHIFTS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THREE SHIFTS A DAY",
+     "pos": "br",
+     "text": "3 MEALS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A SCHEDULE, NOT AN APPETITE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FIXABLE IN A WEEK"
+    }
+   ],
+   "big": "3 MEALS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THREE THRESHOLD MEALS: THREE BUILDING SHIFTS A DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Muscle protein synthesis, the construction process this episode is about, does not run as a smooth daily average. It runs in shifts, triggered by meals, and each shift needs a minimum order of materials before the crew clocks in at all. Three threshold meals spread across the day means three real shifts: morning, midday, evening, each one a few hours of net building. One threshold meal means one shift and a long overnight of the balance tipping the other way, no matter how large that single meal was, because the crew cannot bank Tuesday's bricks for Wednesday's wall. This is the arithmetic the daily total hides. Two men can both eat one hundred grams of protein and build at different rates, one spreading it across three shifts, the other spending it in a single evening and wondering why the total is not working. Your count from the test is therefore not a diet grade. It is a shift schedule, and schedules, unlike appetites, can be fixed in a week.",
+   "section": "THE NUMBER",
+   "sub": "0-1 shifts: the crew clocks in once - 3-4 shifts: building runs all day",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Leucine flips the switch via mTOR.",
+      "Then the muscle goes refractory."
+     ],
+     "pos": "tr",
+     "title": "THE TURNSTILE"
+    },
+    {
+     "asset": "ren_towel_curl.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A TURNSTILE, NOT A FUNNEL"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FULLY, A FEW TIMES A DAY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Inside the muscle, the shift system runs on a specific trigger: the amino acid leucine. When a meal delivers enough leucine, roughly two to three grams, which rides along inside twenty-five to forty grams of quality protein, leucine's arrival is read by a sensor pathway called mTOR, the construction manager, and synthesis switches on hard. Below the threshold, the manager never gets the memo; the amino acids are simply burned as fuel or used elsewhere, useful but not structural. Then comes the part nobody warns you about: after a full shift, the muscle goes refractory for a few hours, a state researchers call muscle full, where more protein cannot immediately retrigger the switch. The system is a turnstile, not a funnel. It wants distinct, separated, adequate doses, and it ignores both the timid snack and the doubled portion. Understand the turnstile and the whole confusing literature on protein timing collapses into one sentence: flip the switch fully, a few times a day, with hours in between.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE COMPOUND INTEREST OF SHIFTS"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "ALL AT DINNER",
+       50,
+       "red"
+      ],
+      [
+       "THREE THRESHOLD MEALS",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE SAME 100 GRAMS, SPENT TWO WAYS"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "IN THAT ORDER",
+     "pos": "tr",
+     "text": "COUNT, TOTAL, TIMING"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "DISTRIBUTION POLISHES, NOT REPLACES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The distribution studies put numbers on the turnstile. When researchers feed the same daily protein in different patterns, skewed toward one large evening meal versus spread across the day in threshold-sized portions, the spread pattern produces more total synthesis across twenty-four hours. The effect is not magic and it is not enormous; it is the compound interest of extra shifts. The bars below sketch the direction honestly: the same hundred grams, spent as one shift against the same hundred grams spent as three. Notice what this research does not say. It does not say the post-workout shake is a sacred window; training sensitises muscle to protein for a day or more, so the window is wide and forgiving. It does not say more meals are always better; a fourth and fifth shift add little once three solid ones are in. And it does not rescue a total that is simply too low, because distribution polishes a sufficient total, it does not replace one. Count first, total second, timing third. That ordering is the episode in one line.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE ROOT: THE SCHEDULE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE CLASSIC SKINNY PATTERN",
+     "pos": "br",
+     "text": "MISTAKE ONE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE TURNSTILE COUNTS CROSSINGS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE DAY BEATS THE WINDOW"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The five mistakes, then, and you have met the family before in other costumes. Mistake one is the classic skinny pattern itself: a bird's breakfast, a forgettable lunch, a heroic dinner, one shift pretending to be three. Mistake two is fearing that breakfast protein is wasted, when the morning shift is in fact the most commonly missing and the cheapest to install. Mistake three is counting only the shake: the powder is a meal like any other, and the man who drinks forty grams post-workout then eats two threshold-free meals has flipped the switch once and logged it as a strategy. Mistake four is the giant post-workout panic, slamming a huge shake inside a mythical thirty-minute window while the rest of the day starves; the window is wide, the day is long, and the day wins. Mistake five appears in cutting phases: dropping protein when calories drop, exactly when the research suggests protein matters most for keeping muscle. Five mistakes, one root: watching the total and ignoring the schedule. The turnstile only counts crossings.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pinch_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A MODEST PLATE AT YOUR SIZE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE WHOLE FIX, USUALLY",
+     "pos": "br",
+     "text": "1 BREAKFAST"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REARRANGING, NOT FORCE-FEEDING"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE EASIEST SIZE TO SCHEDULE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the arithmetic that makes skinny men smile. The threshold scales with the body it feeds: at your size, a threshold meal is a modest plate, two eggs and yogurt at breakfast, a normal chicken lunch, an ordinary dinner. You are not force-feeding; you are rearranging. The hundred-kilo man must construct three large protein events a day, a logistical campaign with a grocery budget to match. You need three ordinary meals eaten on purpose. There is a subtler advantage too: smaller meals clear the refractory period cleanly and sit comfortably, so your three shifts can be spaced like clockwork without the bloated misery that makes big eaters abandon distribution within a week. The whole fix, for most skinny guys, is one anchored breakfast. That single meal converts the classic pattern into the studied pattern, adds a shift that never existed, and does it before nine in the morning. No supplement in this episode. Just a shift schedule, and yours is the easiest size to schedule.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_doorframe_row.webp",
+   "check": 3,
+   "exercise": "DOORFRAME ROW",
+   "music": "drive",
+   "narration": "Now we place the order the shifts will fill. Three rounds of doorframe rows, hard squeeze at the top. Training writes the order; meals deliver it. Go.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ANCHOR THE BREAKFAST"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PALM AND A HALF PER MEAL"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHIFTS 3-5 HOURS APART"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "AUDIT WITH THE COUNT, WEEKLY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol is a schedule, so it is written like one. Anchor breakfast first: build one threshold breakfast you can repeat without thinking, eggs plus Greek yogurt, or oats with milk and a scoop of something honest, and eat it within an hour or two of waking. Second, apply the palm-and-a-half rule at lunch and dinner without weighing anything; your hand is the scale this protocol trusts. Third, space the shifts three to five hours apart so each refractory period clears before the next crossing. Fourth, if the day runs long, add a pre-sleep option, a glass of milk or a yogurt, which feeds the overnight hours the dinner shift cannot reach. Fifth, audit one ordinary day a week with the test's count, not an app, not a spreadsheet, just the count, because the count is the metric that runs the system. Do this for thirty days and the threshold count becomes a habit with a number attached, which is this channel's favourite kind of habit.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CHEAPEST VERDICT TO FIX"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "COUNT ANOTHER YESTERDAY",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR COUNT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your threshold verdict. A count of zero or one: the crew clocked in once, and your next month of gains is sitting in a breakfast you have not been eating; this is the cheapest verdict in the season to fix. A count of two: building, with one shift missing, and the audit itself told you which one. A count of three or four, honestly graded: the schedule is a solved problem, and your ceiling now sits with your total, your training, and your patience, exactly where a serious man wants it. Put your count in the comments, just the number of threshold meals, no essays. In thirty days, count another ordinary yesterday and compare. Totals are vanity; schedules are sanity. You came in counting grams like everyone else. You leave counting shifts, and shifts are what the muscle counts.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same count, ordinary day, honest list. Bring me three shifts. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "protein mistakes",
+  "muscle protein synthesis",
+  "protein distribution",
+  "leucine threshold",
+  "meal timing",
+  "skinny guy diet",
+  "nutrition science"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_farmer_carry.webp",
+  "big": "3 MEALS",
+  "hook": "THE THRESHOLD COUNT"
+ },
+ "title": "5 protein science Mistakes That Are Destroying Your muscle protein synthesis",
+ "v5": true
+}

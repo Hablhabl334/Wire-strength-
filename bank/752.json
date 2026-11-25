@@ -1,0 +1,394 @@
+{
+ "id": "752",
+ "v5": true,
+ "title": "Your Breakfast Test Reveals Your Hidden Strength",
+ "description": "The first meal of the day quietly decides whether a skinny guy gains or stalls. Take the breakfast test, get your number, and see why the morning is the easiest delivery of the whole day to fix.",
+ "tags": [
+  "breakfast for gaining",
+  "morning protein",
+  "skinny guy breakfast",
+  "first meal muscle",
+  "gaining breakfast",
+  "breakfast test",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "breakfast test",
+  "morning protein",
+  "gaining",
+  "skinny to strong",
+  "calisthenics",
+  "muscle building"
+ ],
+ "category": "gaining",
+ "badge": "EP 752 - BREAKFAST: THE TELL",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE FIRST MEAL",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_squat_top.webp",
+  "big": "30 G",
+  "hook": "THE FIRST DELIVERY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Here is today's test. | Think of yesterday's breakfast. | What did you actually eat? | Now grade it honestly. | Did it carry real protein? | Eggs, dairy, meat, fish? | Or was it mostly bread, | jam, juice, and hope? | Give it a score. | Zero to thirty grams. | That is your first number. | Second, stand up now. | Max bodyweight squats. | Clean depth, full stand. | Count every honest rep. | That is your second number. | Keep the pair together. | At the end I tell | you why breakfast grades your | week. | Most gaining fails quietly before | nine in the morning. | The day starts in debt | and never climbs out. | Let us read your morning.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "GRADE YOUR BREAKFAST",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "0-30 G",
+     "label": "THE MORNING SCORE",
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "chip",
+     "text": "DEBT BEFORE NINE",
+     "pos": "tr",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 22
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "30 G",
+   "label": "OF PROTEIN AT BREAKFAST, THE MORNING LINE",
+   "sub": "under 10 g: the day starts empty - 25 g plus: the first delivery landed",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the line for your breakfast score. Thirty grams of protein at the first meal is the morning target for most skinny guys chasing muscle, roughly three eggs and a glass of milk, or a serious bowl of Greek yogurt. Under ten grams, which describes a shocking number of breakfasts, the first delivery of the day simply never happened, and the muscle that waited all night for blocks keeps waiting until lunch. Between ten and twenty-five, the day has started, but weakly, and the total usually needs a heroic dinner to recover. Above twenty-five, the morning is handled, and the rest of the day only needs to be ordinary. Ordinary days are the secret. A handled morning makes gaining feel boring, and boring is what works.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE MORNING LINE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "30 G",
+     "label": "FIRST DELIVERY",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "BORING IS WHAT WORKS",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "ORDINARY DAYS WIN",
+     "pos": "br",
+     "at": 27
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "Why does the first meal carry this much weight? Because you wake up in a deficit by design. All night, with no deliveries arriving, the balance of your muscle tilted slowly toward breakdown. That is normal and harmless for one night. Breakfast is the moment the tilt reverses: amino acids arrive, the building switch flips on, and the site reopens for the day. Delay that moment by hours, or fake it with sugar and caffeine, and the site idles through the very hours when you are most active and most likely to train. The mechanism is not magic. It is scheduling. The earliest delivery sets the day's rhythm, and a rhythm of three or four solid deliveries is what a gaining body actually runs on. Notice what this does to the rest of the day's math. A thirty gram breakfast means lunch and dinner each need only a normal portion to reach the daily line. The day stops requiring a single heroic meal, and heroic meals were always where gaining plans went to die.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "THE OVERNIGHT TILT",
+     "lines": [
+      "Sleep tilts muscle to breakdown.",
+      "Breakfast flips the switch back."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_balance_test.webp",
+     "at": 10
+    },
+    {
+     "kind": "chip",
+     "text": "SCHEDULING, NOT MAGIC",
+     "pos": "br",
+     "at": 17
+    },
+    {
+     "kind": "mark",
+     "text": "REOPEN THE SITE EARLY",
+     "ok": true,
+     "pos": "tr",
+     "at": 24
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The research on meal distribution adds a detail worth knowing. When total daily protein is equal, people who spread it across the day, starting with a real breakfast, tend to build and keep more muscle than people who back-load everything into the evening. The body seems to use each feeding window partly separately, like a site that can only accept so many blocks per delivery. There is also a training angle: men who eat a real breakfast report steadier energy in morning and midday sessions, and steadier sessions produce better numbers over months. Your squat count today is a snapshot of that steadiness. None of this requires perfection. It requires the first window of the day to stop being the empty one. There is a sleep angle too, and it closes the loop. Men who eat a real breakfast tend to snack less chaotically at night, and steadier evenings mean steadier sleep, and sleep is when a large share of the actual building work gets signed off. The morning plate reaches further than the morning.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "WINDOWS ARE SEPARATE",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "bars",
+     "title": "DAILY PROTEIN, SAME TOTAL",
+     "items": [
+      [
+       "BACK-LOADED DAY",
+       50,
+       "gold"
+      ],
+      [
+       "SPREAD FROM BREAKFAST",
+       78,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "STOP THE EMPTY WINDOW",
+     "ok": true,
+     "pos": "tr",
+     "at": 16
+    },
+    {
+     "kind": "chip",
+     "text": "STEADIER SESSIONS",
+     "pos": "br",
+     "at": 23
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "Here is the deeper reason breakfast fails for skinny guys specifically: appetite is trainable, and the untrained appetite sleeps in. Many lean men wake with almost no hunger, force nothing down, and then wonder why the day's total never arrives. The fix used by experienced gainers is unglamorous: start smaller than the target and let the stomach learn. A shake, a yogurt, two eggs, whatever fits this week, eaten at the same time daily. Within two or three weeks the morning hunger usually shows up on its own, because the body learns the schedule like it learns a training time. You are not forcing a meal. You are teaching a rhythm. The test you took today is simply the before picture of that rhythm.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "APPETITE IS TRAINABLE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "2-3 WEEKS",
+     "label": "TO TEACH THE RHYTHM",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "START SMALLER, DAILY",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "THE BEFORE PICTURE",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage in this project is real: breakfast is the cheapest meal to upgrade on earth. The big guy chasing three thousand calories must engineer every meal. You need one repeatable morning plate, bought once a week, cooked half-asleep, and your entire gaining curve bends. There is a second advantage hiding here too. A skinny frame that starts eating early often finds the whole day easier, because hunger compounds: fed mornings create hungry afternoons, and hungry afternoons make dinner effortless instead of forced. The men who fail at gaining usually fail at the forced dinner, not the training. Fix the first meal and the last one fixes itself. That is leverage, and leverage is the skinny guy's oldest friend on this channel.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "CHEAPEST UPGRADE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "1 PLATE",
+     "label": "BOUGHT WEEKLY",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "HUNGER COMPOUNDS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "LEVERAGE, AGAIN",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_top.webp",
+   "exercise": "SQUAT LADDER",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Train with me before the day starts. Four rounds of squats, forty seconds on, twenty off. Sit deep, stand tall, keep the reps honest. This is the engine. Breakfast is the fuel. Both get built.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "This week's protocol is a single assignment with four supports. The assignment: hit twenty-five grams of protein at breakfast, seven days in a row. Support one: decide the plate tonight, not tomorrow morning, because willpower at dawn is a rumor. Support two: put the food where you will trip over it, front of the fridge, pan on the stove. Support three: keep a liquid backup for the rushed days, a shake counts when the plate cannot happen. Support four: tick the day off somewhere visible, because a visible streak defends itself. Seven handled mornings will do more for your month than any new exercise. Then retest the same breakfast and the same squats.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "DECIDE TONIGHT",
+     "ok": true,
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "mark",
+     "text": "FOOD IN YOUR PATH",
+     "ok": true,
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "LIQUID BACKUP READY",
+     "ok": true,
+     "pos": "tr",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "DECIDING AT DAWN",
+     "ok": false,
+     "pos": "br",
+     "at": 23
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, reading the pair. Breakfast under ten grams and squats ordinary: your mornings are the leak, and it is the best leak to have, because it is fixed at one table in one week. Breakfast solid but squats low: the fuel is arriving and the engine needs the work, so this week's training matters more than any menu change. Breakfast empty but squats high: you are running a strong engine on fumes, the classic skinny-guy pattern, and your gains are waiting at the breakfast table specifically. Both numbers healthy: your rhythm is already a gainer's rhythm, protect it and retest in thirty days. Comment your breakfast grams and your squat count. The morning pair tells the truth about the whole day. If your breakfast score was near zero, do not be embarrassed by it. Be pleased. You have found the single cheapest upgrade in your entire gaining life, sitting in your own kitchen, costing a few eggs and ten minutes.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 5
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN RETEST",
+     "pos": "br",
+     "at": 13
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr",
+     "at": 22
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, same breakfast audit, same squat test. Bring me a handled morning and a bigger number. Subscribe, and let the first delivery land every day until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 2
+    },
+    {
+     "kind": "mark",
+     "text": "FIRST DELIVERY DAILY",
+     "ok": true,
+     "pos": "br",
+     "at": 5
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 8
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

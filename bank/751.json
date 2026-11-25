@@ -1,0 +1,394 @@
+{
+ "id": "751",
+ "v5": true,
+ "title": "Why Your muscle building blocks Matter More Than Muscle (The protein targets Episode)",
+ "description": "Your training is the order, but protein is the delivery. Count yesterday's protein, test your push-ups, and learn the one number that decides whether a skinny guy's work turns into muscle or just tiredness.",
+ "tags": [
+  "protein target",
+  "how much protein",
+  "muscle building blocks",
+  "skinny guy gaining",
+  "protein for muscle",
+  "gaining diet",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "protein target",
+  "muscle building",
+  "skinny to strong",
+  "gaining",
+  "calisthenics",
+  "nutrition"
+ ],
+ "category": "gaining",
+ "badge": "EP 751 - PROTEIN: THE BLOCKS",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE BLOCKS",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_top.webp",
+  "big": "1.6 G/KG",
+  "hook": "BLOCKS BEFORE MUSCLE",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today the test is two | numbers. | First, yesterday's protein. | Every meal, honestly counted. | Every snack, every shake. | Write the total down. | Second, your strength number. | Max strict push-ups. | Chest to the floor. | Full lockout, every rep. | Stop when form breaks. | That is your second number. | Keep both numbers safe. | At the end I tell | you what the pair really | means. | Most skinny guys train hard | and deliver almost nothing. | The workout is the order. | Protein is the delivery truck. | If the truck never arrives, | the site stays empty. | So count before you judge. | No guessing, no rounding up. | Yesterday, exactly as eaten. | Then push until honest failure. | Two numbers, one truth. | Let us see your delivery.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "TWO NUMBERS TODAY",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "WRITE IT DOWN",
+     "label": "NO GUESSING",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "chip",
+     "text": "ORDER VS DELIVERY",
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP BOTH NUMBERS",
+     "ok": true,
+     "pos": "br",
+     "at": 25
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "1.6 G/KG",
+   "label": "GRAMS OF PROTEIN PER KILO OF YOU, DAILY",
+   "sub": "under 1.0: building on credit - 1.6 plus: the blocks are on site",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the line your first number is graded against. Research on people trying to build muscle keeps landing near the same place: around one point six grams of protein per kilogram of body weight, per day. Below one gram per kilo, the delivery is short almost every day, and the body rations what arrives toward survival first and new muscle last. Between one point two and one point six, building happens, but slowly, and mostly on your best weeks. At one point six and above, the supply stops being the limit, and your training becomes the limit instead, which is exactly where a hard worker wants the bottleneck to be. Your push-up number matters too, and we will pair them at the verdict. A strong engine with an empty truck still goes nowhere.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE DELIVERY LINE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "1.6 G/KG",
+     "label": "THE RESEARCH LINE",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "SUPPLY STOPS LIMITING",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "TRAINING BECOMES THE LIMIT",
+     "pos": "br",
+     "at": 26
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "Here is what protein actually is, because the word hides the machine. Protein is not one material. It is a chain of building blocks called amino acids, and your muscles are rebuilt from those blocks every single day, training or not. Muscle is not a statue you carve once. It is a building site that never closes: old protein is broken down, new protein is laid down, and the balance between the two decides whether you grow. Training shouts the order to build. But the foreman can only lay blocks that are physically on site. Eat too few blocks and the order is real, the effort is real, and the wall simply does not rise. That is why this number matters more than any single workout. One more detail makes the target kinder than it sounds: the research line is an average across many bodies, not a cliff edge. A man at one point four is not failing. He is simply leaving a little growth on the table most weeks, and knowing the line lets him decide whether that trade is worth it.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "THE NEVER-CLOSING SITE",
+     "lines": [
+      "Muscle breaks down daily.",
+      "Protein eaten becomes the rebuild."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_towel_curl.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "ORDERS NEED BLOCKS",
+     "pos": "br",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "THE WALL NEEDS DELIVERIES",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_farmer_carry.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The second half of the science is distribution, and it surprises most people. Your muscle can only switch its building machinery fully on a few times a day, and each switch needs a decent dose of blocks at once, roughly a palm-and-a-half of protein food per meal for most skinny guys. One giant protein dinner after a day of near-zero does not rescue the day, because the earlier switches never fired. Spread across three or four meals, the same total builds more. Studies comparing equal daily protein keep finding the spread pattern ahead. Think of it as deliveries scheduled through the day instead of one truck at midnight. The site works daylight hours. Feed it while it is open, and the same groceries suddenly build a bigger wall. There is also a quality footnote the spread pattern gives you for free. Different protein foods carry slightly different block profiles, and a day built from several sources, eggs at breakfast, dairy at lunch, meat or legumes at dinner, covers the full set of blocks more reliably than one food repeated. Variety is not gourmet advice. It is supply insurance.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "SPREAD BEATS STACKED",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "SAME PROTEIN, TWO DAYS",
+     "items": [
+      [
+       "ONE BIG DINNER",
+       45,
+       "gold"
+      ],
+      [
+       "SPREAD OVER 4 MEALS",
+       80,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "FEED THE DAYLIGHT HOURS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "SWITCHES NEED DOSES",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "One deeper truth before we train: your body has no protein warehouse. Fat is stored, carbohydrate is stored a little, but amino acids are not shelved for later in any real amount. What you do not use today is mostly burned or converted, which means yesterday's heroic shake does not cover today's empty plate. This is why gaining feels unfair to the inconsistent. Five good days can be quietly cancelled by two empty ones, because the site received no blocks on those days and the balance tipped back to breakdown. The men who gain are rarely the men with the perfect plan. They are the men whose ordinary Tuesday looks like their motivated Monday. Consistency is not a personality trait here. It is the whole supply chain.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "NO PROTEIN WAREHOUSE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "EVERY DAY",
+     "label": "DELIVERY DAY",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "TUESDAY EQUALS MONDAY",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "CONSISTENCY IS SUPPLY",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Now the part nobody tells the skinny guy: this target is cheaper for you than for the big guy. One point six grams per kilo of a sixty-five kilo frame is about one hundred and four grams a day. The one hundred kilo man needs one hundred and sixty for the same signal. Your smaller body is a smaller site, and smaller sites are cheaper to supply. You also carry a second advantage: a light body doing bodyweight work gets a stronger training signal per session, because every rep moves a higher share of your max. The big guy's problem is effort. Yours was only ever delivery. And delivery is the easiest problem in this whole game to fix, because it repeats three times a day at a table.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "A SMALLER SITE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "104 G",
+     "label": "AT 65 KILOS",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "DELIVERY IS FIXABLE",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "THREE CHANCES DAILY",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pushup_top.webp",
+   "exercise": "PUSH-UP LADDER",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Now we train the engine while the lesson settles. Four rounds of push-ups, forty seconds on, twenty off. Smooth reps, full range, stop each round two reps before failure. Build the order. Then go feed the site.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The protocol for this week has four rules, and none of them needs an app. One: anchor every meal to a protein you can point at, eggs, dairy, meat, fish, or a deliberate plant pairing, not a vague hope. Two: front-load the day, because a strong breakfast makes the daily total nearly unmissable by dinner. Three: keep a rescue food at home and at work, something shelf-stable for the days the plan collapses. Four: count honestly for seven days, not forever, just long enough to learn what your normal actually delivers. Most skinny guys discover their normal is half the target. That discovery, not a supplement, is the moment gaining actually starts.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "ANCHOR EVERY MEAL",
+     "ok": true,
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "mark",
+     "text": "FRONT-LOAD THE DAY",
+     "ok": true,
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP A RESCUE FOOD",
+     "ok": true,
+     "pos": "tr",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "GUESSING YOUR INTAKE",
+     "ok": false,
+     "pos": "br",
+     "at": 23
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_weak.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "So, your verdict, the pair of numbers read together. Protein under one gram per kilo and a modest push-up count: the engine and the supply both need work, and supply is the faster fix, so start there this week. Protein near target but push-ups low: the truck is fine and the orders are weak, so your training needs more intent, not more food. Protein low but push-ups strong: you are the classic case, a good engine starved of blocks, and you may gain faster than anyone once the deliveries start. Protein at target and push-ups climbing: nothing is broken, stay the course and retest in thirty days. Comment both numbers below. The pair, honestly counted, is the most useful comment on this channel. And if your count shocked you today, let it. The shock is the useful part. Almost nobody's honest first count matches the story they told themselves, and the men who gain are the ones who believed the count instead of defending the story.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 5
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN RETEST",
+     "pos": "br",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, count the same day and push the same test. Bring me a fuller truck and a bigger number. Subscribe, and let the deliveries run daily until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "DELIVER DAILY",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

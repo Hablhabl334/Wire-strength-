@@ -1,0 +1,410 @@
+{
+ "badge": "EP 571 - 20-METER REVEAL",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE POWER CHAIN",
+  "YOUR VERDICT"
+ ],
+ "description": "Twenty meters is where acceleration becomes power: every link of the leg, hip to ankle, firing in sequence at full speed. Time yours, and discover the total leg power that no mirror and no squat rack can measure.",
+ "hashtags": [
+  "20 meter sprint",
+  "total leg power",
+  "hidden strength",
+  "acceleration",
+  "sprint test"
+ ],
+ "id": "571",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWENTY METERS, FLAT GROUND"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEST OF THREE, FULL RECOVERY"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "YOUR TIME"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE CONNOISSEUR'S DISTANCE"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR TIME SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Mark twenty meters on flat ground, start line and finish line, nothing else required. From a standstill, one foot forward, leaning in, sprint the full twenty at everything you have and time it, a friend on the watch or a phone at the finish. Three attempts, generous recovery, best honest time counts. That time is your number today. Twenty meters is the connoisseur's distance. Ten meters grades your start, your wiring alone. Twenty meters grades the whole machine as it opens up: the start, the transition, the first taste of upright speed, every link of the leg chain firing in sequence under rising velocity. Coaches call what it measures total leg power, and it is the most honest single number in field sport, which is why professional combines test exactly this neighborhood. Your legs have been keeping this number secret. Today we ask. Keep your time safe. The reading happens at the end.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PARTS VERSUS A MACHINE"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "A CONDUCTED CHAIN",
+     "pos": "br",
+     "text": "UNDER 3.0"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ORGANIZATION UNDER SPEED"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO SEAMS VISIBLE"
+    }
+   ],
+   "big": "3.2 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN PARTS AND A MACHINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for twenty meters from a standing start, as a guide. Around three point two seconds is where a collection of parts becomes a machine. Slower than three point five, the usual x-ray finding is not weakness in any single link; it is links firing separately, the start ending before the stride begins, the transition negotiated like a gear change in an old truck. Under three seconds, the chain conducts: start flowing into stride, stride into speed, no seams visible, and the time reflects a system rather than a sum. This is why the twenty is graded differently from the ten. The ten asked whether your nerves can fire. The twenty asks whether everything you own, nerves, tendons, muscles, technique, can stay organized while the speed rises. Organization under speed is the rarest athletic quality there is, and it is trainable.",
+   "section": "THE NUMBER",
+   "sub": "over 3.5 sec: links firing separately - under 3.0: a conducted chain",
+   "type": "card"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Every link, in sequence,",
+      "contacts shrinking to 0.2 seconds."
+     ],
+     "pos": "tr",
+     "title": "A WAVE AT RISING SPEED"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TAXED ON EVERY STRIDE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NO WEAK LINKS"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FLYING, EXPLAINED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the chain the twenty meters audits. The hip extensors, glutes and hamstrings, are the prime movers of the stride's power phase, swinging the thigh down and back. The quads extend the knee and manage the landing's opening. The calf and Achilles finish each contact with elastic violence, and the hip flexors reload the whole apparatus for the next cycle. Total leg power is not any of these. It is the product of all of them arriving in sequence at rising speed, a wave that must keep its shape while the ground contacts shrink toward two-tenths of a second. Break the wave anywhere, a late hip, a soft ankle, a slow reload, and the twenty meters tax the break on every stride. Hold it together and the distance feels shorter than it is, which is the sensation athletes describe as flying and physiologists describe as a chain with no weak links.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE CHAPTERS, THREE SYSTEMS"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "EARLY: WIRING",
+       70,
+       "cyan"
+      ],
+      [
+       "LATE: SPRINGS",
+       55,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE TIME IS LOST"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A DIAGNOSTIC MAP"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Sprint science divides the twenty meters into chapters, and each chapter grades a different system. The first five meters are nearly pure nerve: recruitment speed and aim. The next five are transition, where posture rises and the stride lengthens, a technique chapter as much as a physical one. The final ten begin the upright phase, where tendon stiffness and swing speed take over the billing. A single time over twenty meters therefore contains a diagnostic map: lose your time early and the wiring needs work; lose it in the middle and the transition is leaking; lose it late and the springs or the reload are the ceiling. This is why good coaches time segments, not just totals. Your single number today is the headline. The protocol at the end teaches you to read its chapters, because a chain is fixed link by link, never all at once.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE PATIENT UNFOLD"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TO FULLY UPRIGHT",
+     "pos": "br",
+     "text": "8-10 STEPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FEELS SLOWER, IS FASTER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CONFESSES TO A CAMERA"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The transition chapter deserves its own minute, because it is where untrained sprinters donate the most time. Rising too early is the classic error: the athlete pops upright within the first steps, posture vertical, stride suddenly short and bouncy, all the start's hard-won forward momentum converted into altitude. The correct transition is patient, the body unfolding over eight to ten steps like a plane rotating off a runway, each step a little more upright than the last, the eyes rising with the horizon instead of snapping to it. It feels slower. It is dramatically faster, because force keeps pointing where travel lives. If your twenty has a mysterious slow middle, the transition is the first suspect, and it is a suspect that confesses to a phone camera in one session.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ACCELERATION STILL GOVERNS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SMALL DOSES OF PRACTICE",
+     "pos": "br",
+     "text": "DAILY"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PRACTICED LIKE AN INSTRUMENT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MOST DEMOCRATIC QUALITY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage over twenty meters is that the distance is short enough for your gifts to govern it entirely. Acceleration still dominates; top-end speed, where mass and absolute power throw their weight around, has barely entered the room. Your mass is small, so your acceleration is cheap. Your chain's links are lightly loaded, so they can be rehearsed often, and organization under speed is a rehearsal quality above all. The heavy athlete's twenty is a power event he must survive. Yours is a coordination event you can practice like an instrument, daily in small doses, until the chapters flow without seams. The stopwatch over twenty meters does not know what you weigh. It knows how you are organized, and organization is the most democratic quality in sport.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "20M SPRINTS",
+   "music": "drive",
+   "narration": "Now we organize the chain together. Five twenty-meter sprints, full intent, patient transition, long walk-back rests. Every run a single unbroken sentence, no seams.",
+   "rest": 60,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 15
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE START WRITES THE BOOK"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "UNFOLD OVER TEN STEPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FIVE OR SIX, FULLY FRESH"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FILM ONE RUN A WEEK"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TEST MONTHLY, IDENTICAL"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for a twenty-meter machine. Step one: keep the start sacred, falling start, full voltage, because the first chapter writes the rest of the book. Step two: rehearse the transition deliberately, a few runs each session where your only job is unfolding gradually over ten steps, eyes rising slowly; patience here buys the middle chapter outright. Step three: keep total volume small and quality absolute, five or six full twenties with complete recovery, because organization is learned by a fresh system or not at all. Step four: film one run a week from the side, phone on a bag, and read your own chapters: early, middle, late; the camera is the cheapest coach in this entire season. Step five: test monthly under identical conditions, and let ordinary sprint days and hill days feed the chain between tests. A month of organization and the same twenty meters return a time with no seams in it.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PARTS AWAITING A CONDUCTOR"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SEAMLESS SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time, read as an organization grade. Over three point five seconds: a collection of strong parts awaiting a conductor, the highest-upside profile in sprinting, because the parts are already yours. Between three point five and three point two: the chapters are forming, and your remaining time hides in the transition, the cheapest chapter to fix. Under three point two: a conducted chain, total leg power in the true sense, in a frame the mirror never credited. Put your time in the comments, just the number, best of three, honest start. Retest in thirty days, same twenty meters, same surface, fresh legs. The chain keeps its books in seamless seconds, and yours are about to flow.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER TIME"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same twenty meters, same flat ground, bring me a faster time. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "20 meter sprint",
+  "sprint test",
+  "total leg power",
+  "acceleration",
+  "hidden strength",
+  "sprint training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "20M TIME",
+  "hook": "THE FULL CHAIN TEST"
+ },
+ "title": "Your 20-Meter Time Reveals Your Hidden Strength",
+ "v5": true
+}

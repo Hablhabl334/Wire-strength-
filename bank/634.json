@@ -1,0 +1,401 @@
+{
+ "id": "634",
+ "v5": true,
+ "title": "Your Morning Strength Test: Did It Actually Change? (Your daily nerve rhythm Results)",
+ "description": "Ninety days ago your morning strength test gave a number that felt unfairly low. Today we run it again and read the results honestly: did your morning actually change, or did your rhythm just get exposed? Bring the old morning number.",
+ "tags": [
+  "morning strength test",
+  "morning push-up max",
+  "nerve rhythm results",
+  "circadian strength",
+  "retest results",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "morning strength",
+  "results",
+  "retest day",
+  "nerve rhythm",
+  "calisthenics",
+  "push-ups"
+ ],
+ "category": "retests",
+ "badge": "EP 634 - MORNING RESULTS",
+ "checklist": [
+  "THE RETEST",
+  "THE NUMBER",
+  "THE RHYTHM",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_top.webp",
+  "big": "AM",
+  "hook": "MORNING RESULTS",
+  "accent": "violet"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you tested at dawn. | Alarm, floor, push-ups. | Half asleep, fully honest. | The number felt low. | You wrote it down anyway. | Today we rerun the morning. | Same rules as day one. | Within thirty minutes of waking. | Before coffee. | Before food. | Same floor, same standard. | Max clean push-ups. | Chest to fist height. | Body in one line. | When the form breaks, | the test is done. | That is your | NEW morning number. | Got it? | Lay it beside | the old one. | At the end, | I tell you what changed, | and what only looked changed.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WITHIN 30 MIN OF WAKING",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "BEFORE COFFEE, BEFORE FOOD",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "FORM BREAK ENDS IT",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEW MORNING NUMBER SET",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "+20%",
+   "label": "WHAT A REAL MORNING GAIN LOOKS LIKE",
+   "sub": "same reps: rhythm only - more reps: the system grew",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is how to read this morning's result before emotion gets a vote. A morning number that rose twenty percent or more across ninety days means your base system genuinely grew, because morning tests are too cold and too honest to inflate much. A small rise, under ten percent, usually means your rhythm adapted a little while your base strength mostly waited for the evening sessions. And a flat morning number beside a climbing evening number is not bad news at all. It is your rhythm telling you where your training actually lives. The morning test is a thermometer. Today we find out whether the room warmed up, or whether you just learned where the cold spot is.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "+20%",
+     "label": "A REAL SYSTEM GAIN",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "THE MORNING IS A THERMOMETER",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "READ BEFORE YOU FEEL",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at what a morning test actually measures. In the first hour after waking, your core temperature sits near its daily low, and nerve signals literally travel slower in a cooler system. Your muscles are the same muscles you had last night. The wiring is running at reduced speed, and your brain is also shaking off sleep inertia, that heavy, half-powered state everyone knows and nobody tests in. So a morning max is a measurement of your floor: the least strength you can access on your worst-configured hour. Floors matter more than ceilings for real life. Nobody schedules their emergencies for their peak hour. One more detail separates a real morning gain from a scheduling trick. If you simply started waking earlier, your test now happens deeper into the cold part of the curve, and a flat number might actually hide an improvement. If you started waking later, the reverse applies. This is why the protocol fixes the wake-to-test window at thirty minutes and asks you to log the actual wake time beside the result. Morning data is the most honest data you own, but only when the morning itself is standardized.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "THE MORNING MEASURES YOUR FLOOR",
+     "lines": [
+      "Cold nerves. Sleep inertia. Honest reps."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "spine_anatomy_plate.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "FLOORS BEAT CEILINGS",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "WORST HOUR",
+     "label": "MOST HONEST NUMBER",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now, what could actually have changed in ninety days? Three things, in order of likelihood. First, base strength: if you trained hard at any hour, the floor rises with the ceiling, slowly and honestly. Second, time-specific adaptation: if you trained in the mornings, your nervous system learned to switch on earlier, recruiting motor units faster despite the cold, and the morning gap narrows. Third, sleep quality: better sleep raises the morning number without a single extra workout, because the floor is built overnight. Read your result against those three levers. Your gap is a fingerprint, and one of those three fingers is yours. One more lever hides in plain sight: light. Morning light exposure is the strongest signal that sets the rhythm curve itself, and men who get outside early tend to show steeper, healthier daily curves than men who live under ceiling light. If your mornings moved indoors this season, part of any morning stagnation may be a light story wearing a strength costume. The fix costs nothing and asks little: ten minutes outside before the day's first screen. Your push-up max will file the report.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "AM DAY 1",
+       16
+      ],
+      [
+       "AM DAY 90",
+       22
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "THREE LEVERS, ONE FINGERPRINT",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "SLEEP BUILDS THE FLOOR",
+     "lines": [
+      "Overnight work, morning proof."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "FIND YOUR LEVER",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_weak.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "There is a fourth possibility, and a good retest has to say it out loud. If your morning number went down, the test is not accusing your muscles. Morning numbers are the first casualty of accumulated fatigue, creeping under-recovery, and the slow sleep debt that builds across a hard block. The evening number can hide that debt for weeks behind adrenaline and habit. The morning cannot. So a falling morning max beside a stable evening max is one of the most useful warnings in all of self-coaching. It says the system is spending faster than it is rebuilding, and it says it early, while the fix is still just rest and food instead of a layoff. And a word for the men whose morning number is their identity. There is a particular pride in owning the cold hours, in being dangerous before coffee, and this channel respects it completely. But let the data stay data. The morning test is a floor measurement, not a personality, and the healthiest relationship with it is curiosity: what moved, why, and what lever to pull next. Floors rise for men who study them without flinching.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "A FALLING AM IS A WARNING",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "nerve_pathway_plate.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "EARLIEST",
+     "label": "FATIGUE ALARM YOU OWN",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "THE FIX IS REST, EARLY",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe for morning people is worth saying slowly. Every piece of strength content you have ever seen was filmed at someone's best hour, warmed up, caffeinated, and lit. Your morning number was measured at your worst hour, cold, fasted, and half asleep, and it still climbed. Pound for pound, that cold number might be the most impressive statistic on this entire channel, because it represents strength you own unconditionally, at any hour, in any state. Athletes call this readiness. You do not need to be invited to perform. You wake up already holding this much, and ninety days ago you held less.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "STRENGTH YOU OWN UNCONDITIONALLY",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "FILMED AT PEAK",
+       40
+      ],
+      [
+       "YOUR COLD NUMBER",
+       22
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "READINESS IS THE REAL STAT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "ANY HOUR, ANY STATE",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "MORNING PUSH-UP SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "asset": "ren_pushup_mid.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we train the floor together. Four rounds: forty seconds of clean push-ups, twenty to rest. Whatever hour it is for you, move like the morning standard: strict, smooth, no borrowed reps."
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-level protocol depends on which lever your result pointed at. If base strength is the lever, the prescription is boring: keep the evening sessions heavy and let the floor follow. If rhythm is the lever, move two sessions a week into the first hour and watch the morning number chase the evening one. If sleep is the lever, guard the last hour of the night like training, because for morning numbers, it is. The three mistakes to retire: testing after coffee sometimes, comparing mornings across different wake times, and panicking at one cold result. Retest mornings are standardized, monthly, and read as trends, never as single verdicts. One weekly detail feeds the morning number more than any workout: the consistent wake time. Seven days a week, within the same half hour, because a rhythm trained on weekdays and destroyed every weekend never stabilizes. Your morning max is built the night before and the month before, in the boring regularity nobody films. Guard the wake time and the floor rises on its own schedule.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "COFFEE BEFORE SOME TESTS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "RANDOM WAKE TIMES",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "PANICKING AT ONE RESULT",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "MATCH THE LEVER",
+     "lines": [
+      "Base, rhythm, or sleep. Fix that one."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "CHANGED?",
+   "label": "THE MORNING VERDICT",
+   "sub": "comment your old and new morning numbers",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, did it actually change? If your morning max rose twenty percent or more, yes, completely: your floor is higher than it was ninety days ago, and that is the deepest kind of progress this channel measures. If it rose a little, it changed the way rhythms change, gradually, and your lever is identified. If it stood still while your evenings climbed, your strength changed but your morning did not, which is a scheduling answer, not a failure. If it fell, it changed in the direction of a warning, and warnings are results too. Comment both morning numbers below, and set the next morning retest thirty days out, same wake time, same cold rules.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "+20%",
+     "label": "THE FLOOR ROSE: DEEPEST GAIN",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "WARNINGS ARE RESULTS TOO",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RETEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_top.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your morning number is your floor, and floors are what real life stands on. Raise it patiently, read it honestly, and bring me a warmer engine next retest. Subscribe so the morning checks never slip. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "SAME WAKE TIME",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

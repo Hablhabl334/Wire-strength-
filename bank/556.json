@@ -1,0 +1,410 @@
+{
+ "badge": "EP 556 - HILL SPRINT FIX",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NERVES",
+  "YOUR VERDICT"
+ ],
+ "description": "Most people run hills like a punishment and quit before the nerves learn anything. Run right, a hill is a wiring gym for your leg power nerves. Time your hill sprint, get your number, and learn the version that builds launch power instead of just fatigue.",
+ "hashtags": [
+  "hill sprints",
+  "leg power",
+  "nerve training",
+  "sprint power",
+  "hill training"
+ ],
+ "id": "556",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THIRTY METERS OF SLOPE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEST OF THREE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "HILL TIME"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A WIRING GYM, NOT PUNISHMENT"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR TIME SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a hill: a slope you can sprint for about thirty meters, steep enough that you cannot reach top speed, gentle enough that you can still run tall. Mark the start and the finish. From a standstill, sprint the hill at full effort and time it, best of three attempts, walking back down slowly between them. Your best time is your number today. Hills have a reputation as punishment, the finisher at the end of practice, the thing coaches threaten you with. That reputation wastes them. Run with the rules in this episode, a hill is the safest speed teacher there is and a direct training stimulus for your leg power nerves, the wiring that decides how violently your legs can fire in sequence. This episode is about stopping the hill done wrong, the survival shuffle, and training the launch instead. Keep your time safe. At the end, I will tell you what it says about your wiring.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRAVITY AUDITS EVERY STEP"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "FIRING IN ORDER",
+     "pos": "br",
+     "text": "UNDER 6 SEC"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MOMENTUM FORGIVES, HILLS DON'T"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A WIRING REPORT"
+    }
+   ],
+   "big": "6.0 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN SHUFFLING AND LAUNCHING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for thirty meters of honest hill, and treat it as a guide, since hills vary: around six seconds is where surviving becomes launching. Slower than that, most runners are doing what tired bodies do on slopes: shortening the stride, sitting back, braking with every step, spending the climb instead of attacking it. Faster, and the signature changes: the body leans as one plank, the knees drive, the ground gets struck and left behind, and the nervous system runs its power sequence cleanly under load. Notice what the hill grades that flat ground hides. On the flat, momentum forgives sloppy firing. On a slope, gravity audits every step in real time, and any break in the sequence is paid for immediately in speed. Your time today is a wiring report with a stopwatch attached.",
+   "section": "THE NUMBER",
+   "sub": "over 7 sec on 30m: surviving the hill - under 6: nerves are firing in order",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Hip, thigh, calf, reload.",
+      "Arriving intact, in order."
+     ],
+     "pos": "tr",
+     "title": "POWER IS THE WAVE"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FORCE AND SPEED TOGETHER"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE WAVE ARRIVING INTACT"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A CENTURY OF HILLSIDES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the wiring behind leg power. A powerful stride is a sequence: hip flexors whip the knee up, glutes and quads drive the leg down and back, the calf and Achilles finish the push, and the other leg is already reloading. Each link fires in turn, milliseconds apart, commanded from the spine like a wave rolling down the chain. Power is not any single link. Power is the wave arriving intact. Hills train the wave under resistance, because the slope removes your momentum crutch and forces every link to produce real force on every step, at sprint speed, in order. That is a very specific education for the nervous system: high force, high speed, correct sequence, repeated. Flat sprinting teaches speed. Weights teach force. The hill is the rare teacher that teaches both in the same lesson, which is why sprinters have lived on hillsides for a century.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A FORM COACH THAT NEVER SLEEPS"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "PATTERN + LOAD",
+       95,
+       "cyan"
+      ],
+      [
+       "FLAT REPS ONLY",
+       55,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT THE HILL TEACHES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MISTAKES PRICED OUT"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science of hill training explains its second gift: the slope is a form coach that never sleeps. On flat ground, overstriding, reaching your foot out in front of your body, is a braking error many runners never feel. On a hill, overstriding is instantly punished, because a foot landing ahead of you on a slope stops you like a chock under a wheel. The hill quietly deletes the error and installs the correct pattern instead: foot striking under the body, knee driving up, body leaning from the ankles as one piece. Studies of resisted sprinting, hills included, show improvements in early acceleration that transfer to flat speed, precisely because the pattern is the same pattern, loaded. You are not running a different movement on the hill. You are running your sprint with the mistakes priced out of it.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FULL EFFORT, CAPPED SPEED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SUB-MAX VELOCITY",
+     "pos": "br",
+     "text": "MAX SIGNAL"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE HILL'S BARGAIN"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FREE AND OUTSIDE YOUR DOOR"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One more property makes the hill the honest sprinter's friend: it caps your speed, and the cap is a safety feature. Most sprint injuries happen at top velocity, where hamstrings lengthen at maximum speed under maximum load. On a hill you work at full effort but reduced velocity, which means the nervous system receives a maximum signal while the tissues face sub-maximum speeds. Coaches call this the hill's bargain: neural intensity without mechanical recklessness. For a light athlete building power without a sprint program or a physio on staff, that bargain is close to perfect. You get to shout at full volume in a room that cannot echo back an injury. Few training tools offer that trade, and none of them are free and standing outside your door.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRAVITY CHARGES BY THE KILO"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PER WEEK, AFFORDABLY",
+     "pos": "br",
+     "text": "MORE SESSIONS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WIRING IS A FREQUENCY GAME"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FIRING OVER BENCHING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage on the hill is the oldest one in this season: gravity charges by the kilogram. Climbing is work against your own mass, so a lighter runner pays a smaller toll on every step while receiving the same neural lesson at the same relative effort. Where a heavy athlete's hill session is a strength workout with a recovery bill attached, yours is a wiring session you can repeat often, and wiring is a frequency game. The sequence sharpens with every clean, rested, maximal climb, and you can afford more of them per week than the big man can. Hills do not care how much you bench. They care how you fire, and firing is the one quality where the light body holds all the scheduling advantages.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "HILL SPRINTS",
+   "music": "drive",
+   "narration": "Now we climb the right way together. Five hill sprints, fifteen hard seconds, walk down slowly, breathe, repeat. Every climb a launch, never a survival shuffle.",
+   "rest": 60,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 15
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE RIGHT SLOPE"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ATTACK THE FIRST FIVE STEPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHORT DOSES, LONG RESTS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STOP WHILE YOU ARE FAST"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TWICE A WEEK AT MOST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol that turns a hill into a wiring gym. Step one: choose the slope honestly, steep enough to slow you, gentle enough to run tall; if your form collapses into a crouch, the hill is too steep for power work. Step two: attack the first five steps like a start, lean from the ankles, drive the knees, and let the stride open only as the hill allows. Step three: keep the doses short and the rests long, fifteen seconds of climb, a slow walk down, full breathing before the next; the moment your steps turn to survival, the neural lesson is over and only fatigue remains. Step four: stop the session while you are still fast, five or six quality climbs beat fifteen degrading ones, every time, for wiring. Step five: twice a week at most, with flat speed work on other days, because the hill teaches the loaded pattern and the flat teaches it to fly. A month of this and your time on the same hill tells the story.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PATTERN FIRST, TIME SECOND"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME HILL, SAME MARKS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time. Slow and shuffling today: your wiring has simply never been taught under load, and the hill is the fastest teacher you own; expect the pattern to change before the time does, smoother first, quicker second. Mid-range and driving: the wave is forming, and your remaining gains live in freshness and frequency, more clean climbs, fewer tired ones. Fast and tall on the slope: you own leg power nerves that flat-ground runners twice your size would trade for, and your ceiling now is set by how patiently you protect the quality. Put your time in the comments, just the number, same hill, best of three. Retest in thirty days, same slope, same marks. Gravity keeps its books without sentiment, and it grades improvement generously.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER CLIMB"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same hill, same thirty meters, bring me a faster climb. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "hill sprints",
+  "sprint training",
+  "leg power",
+  "nerve training",
+  "acceleration",
+  "hill running",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "HILL TIME",
+  "hook": "THE HILL GRADES YOU"
+ },
+ "title": "Stop Doing hill sprints Wrong: Train Your leg power nerves Instead",
+ "v5": true
+}

@@ -1,0 +1,394 @@
+{
+ "id": "764",
+ "v5": true,
+ "title": "Your Surplus Number Reveals Your Hidden Strength",
+ "description": "Gaining runs on one number above all: the surplus. Estimate yours honestly, test your strength beside it, and learn why a small, steady excess beats every heroic bulk ever attempted.",
+ "tags": [
+  "surplus number",
+  "calorie surplus",
+  "how much surplus to gain",
+  "skinny guy surplus",
+  "lean bulk numbers",
+  "gaining calories",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "calorie surplus",
+  "surplus test",
+  "lean bulk",
+  "gaining",
+  "calisthenics",
+  "eat more"
+ ],
+ "category": "gaining",
+ "badge": "EP 764 - SURPLUS: THE NUMBER",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SURPLUS",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_squat_top.webp",
+  "big": "+300",
+  "hook": "SMALL, STEADY, DAILY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today we price your surplus. | Rebuild yesterday's eating. | Every meal, snack, shake. | Total the calories honestly. | Use labels, use anchors. | No rounding, no mercy. | Now subtract your maintenance. | The calories you burn daily. | Roughly, from any calculator. | What remains is your number. | Positive, negative, or zero. | Second, max bodyweight squats. | Deep, clean, full stand. | Count the honest reps. | That is your second number. | Keep the pair together. | At the end I tell | you what your surplus reveals. | This is the master number. | Every gaining question is secretly | this question. | Let us ask it properly.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "PRICE YOUR SURPLUS",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "IN MINUS OUT",
+     "label": "YESTERDAY'S TRUTH",
+     "pos": "br",
+     "at": 8
+    },
+    {
+     "kind": "chip",
+     "text": "THE MASTER NUMBER",
+     "pos": "tr",
+     "at": 14
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 19
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "+300",
+   "label": "CALORIES A DAY ABOVE MAINTENANCE, THE GAINER'S LANE",
+   "sub": "near zero: maintenance in disguise - plus 750: fat joins the project",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the lane your number is graded against. For a skinny guy training with bodyweight, a surplus of roughly two hundred and fifty to four hundred calories a day is the productive lane: enough energy to fund new tissue at the fastest rate his body can actually build it, without inviting the fat gain that a bigger surplus guarantees. Near zero, the most common honest score, the body maintains beautifully and builds almost nothing, which is why so many hard trainers look identical year after year. Above seven hundred and fifty, the extra energy cannot become muscle faster, so it becomes storage, and the bulking hero spends spring dieting off his own enthusiasm. The lane is narrow, unglamorous, and entirely sufficient. Small, steady, daily is not a compromise. It is the physics of the tissue.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE PRODUCTIVE LANE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "+300",
+     "label": "THE DAILY TARGET",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "SMALL, STEADY, DAILY",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "HEROIC BULKS BACKFIRE",
+     "pos": "br",
+     "at": 27
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "The mechanism is an energy budget with a strict cashier. Your body pays its bills in order: organs and brain first, activity second, temperature and repair after that, and new muscle construction only from what remains, because construction is optional and survival is not. A surplus is simply the remainder that reaches the construction desk. This ordering explains two mysteries at once. It explains why training harder on the same food can stall growth: you raised the activity bill and shrank the remainder. And it explains why the surplus does not need to be large: the construction desk can only process so much material per day regardless of funding, because the crew, the machinery, and the protein supply all have daily capacities. Fund the desk modestly every day and the crew works every day. The cashier has one more rule that protects you: the remainder is computed daily, not weekly, in the ways that matter. A feast on Sunday does not retroactively fund Tuesday's construction, which is why the lane is a daily discipline and why weekend warriors of eating stay the same shape as their weekdays deserve.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "THE STRICT CASHIER",
+     "lines": [
+      "Survival bills are paid first.",
+      "Muscle is built from the remainder."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_balance_test.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "FUND THE DESK DAILY",
+     "pos": "br",
+     "at": 20
+    },
+    {
+     "kind": "mark",
+     "text": "CAPACITY IS DAILY",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science of the rate is worth knowing precisely, because it sets your patience correctly. A beginner skinny guy building under good conditions might add a kilo of muscle in a month or two; an intermediate, half that. Tissue simply does not accumulate faster, which is why the scale target for this lane is a gain of roughly a quarter to a half kilo per week at most, and slower is often cleaner. Studies comparing surplus sizes find exactly what the cashier predicts: beyond the modest lane, extra calories add fat at an increasing share while muscle gain barely moves. The surplus is therefore a precision instrument disguised as a rough one. Your estimate does not need laboratory accuracy. It needs to be honestly in the lane, verified by the scale's trend, which the next episodes will teach you to read. A calibration note for your estimate: packaged foods and labels will get you within a reasonable margin, and restaurant meals will not, so estimate those generously and move on. The lane is wide enough to forgive honest estimation. It is not wide enough to forgive skipping the estimate entirely.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "PATIENCE, PRICED",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "WHERE EXTRA CALORIES GO",
+     "items": [
+      [
+       "IN THE LANE",
+       70,
+       "cyan"
+      ],
+      [
+       "DOUBLE SURPLUS",
+       30,
+       "gold"
+      ]
+     ],
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "TREND VERIFIES THE ESTIMATE",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "TISSUE HAS A SPEED LIMIT",
+     "pos": "br",
+     "at": 28
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "The deep problem with surplus is that maintenance itself is a moving target wearing a disguise. Your burn is not a fixed number from a calculator. It rises as you gain weight, rises on active days, and adapts subtly when you eat more, through fidgeting, posture, and a hundred small expenditures researchers group under one label. This is why a surplus that worked in month one quietly becomes maintenance by month four, and the scale stalls without anything being wrong. The gainer's skill is not finding the number once. It is re-finding it, calmly, every time the trend flattens for two or three honest weeks. Plateaus are not failures of effort. They are invoices from a bigger body, asking to be fed at its new rate.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "MAINTENANCE MOVES",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "2-3 WEEKS",
+     "label": "FLAT = RE-PRICE",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "INVOICES, NOT FAILURES",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "THE BIGGER BODY'S BILL",
+     "pos": "br",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage in the surplus game is the lane's smallness relative to your life. Three hundred calories is one shake, or one snack plus a bigger dinner portion, changes so minor your family will not notice them at the table. The heavy man's bulk is a logistical operation; yours is a rounding adjustment with a ritual attached. There is a subtler advantage: at a small surplus, mistakes are small too. A misjudged week costs you a few hundred grams of fat at worst, correctable in days, while the heroic bulker's misjudged month costs him a diet. Precision is easier at small scales, and small scales are the native country of the skinny guy. Live in your country. The physics there is friendly.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "A ROUNDING ADJUSTMENT",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "+300",
+     "label": "BARELY VISIBLE",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "SMALL MISTAKES, SMALL COSTS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "FRIENDLY PHYSICS",
+     "pos": "br",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_top.webp",
+   "exercise": "SQUAT SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Spend some of the budget with me. Four rounds of squats, forty seconds on, twenty off. Deep, smooth, honest reps, stopping two before failure. Training writes the order. The surplus you priced today is the wages that pay the crew.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The protocol to hold the lane, four rules. One: set your surplus by addition, not redesign: keep your normal diet and add one fixed item, a shake or a snack, worth roughly three hundred calories, so the surplus is a single measurable thing. Two: weigh yourself three mornings a week and watch only the weekly average, never the day, because the day is weather and the week is climate. Three: if the average has not moved in three weeks, add one hundred and fifty calories and repeat, small steps with pauses between them. Four: if the average climbs faster than half a kilo a week for a month, trim the same small step back. This is steering, not dieting: tiny corrections, long horizons, and a number that stays in its lane.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "ADD ONE FIXED ITEM",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "WEEKLY AVERAGE ONLY",
+     "ok": true,
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "SMALL STEPS, PAUSES",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "mark",
+     "text": "DAILY SCALE PANIC",
+     "ok": false,
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. A surplus near zero with ordinary squats: you have been maintaining with great dedication, and the single fixed addition is your whole assignment this month. A surplus in the lane but low squats: the wages are arriving and the orders are weak, so training intent is your lever and the food can run on ritual. A negative number, an accidental deficit, with strong squats: you are an engine outrunning its fuel completely, and your fastest gains of the year are waiting on one daily shake. A surplus in the lane and squats climbing: the master number is mastered, protect the ritual and retest in thirty days. Comment your surplus estimate and your squat count. The pair is the gaining equation, written in two numbers. If your number came out negative, receive it as the best news in this season. A man in an accidental deficit owns the easiest fix in gaining: he does not need a new program, a new metabolism, or a new personality. He needs lunch to be slightly larger, starting today.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 6
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN RE-PRICE",
+     "pos": "br",
+     "at": 17
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, rebuild the same day and squat the same test. Bring me a steady lane and a bigger number. Subscribe, and let the small surplus run daily until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "SMALL, STEADY, DAILY",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

@@ -1,0 +1,401 @@
+{
+ "id": "638",
+ "v5": true,
+ "title": "Your New Push-Up Number: Did It Actually Change? (Your chest tendons Results)",
+ "description": "Your push-up max from ninety days ago is written down somewhere. Today you beat it or you learn why not. We rerun the max, read the results honestly, and decide whether your pressing system actually changed. Bring the old number.",
+ "tags": [
+  "push-up results",
+  "push-up retest",
+  "push-up max change",
+  "chest tendon results",
+  "pressing test",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "push-ups",
+  "results",
+  "retest day",
+  "chest tendons",
+  "calisthenics",
+  "max test"
+ ],
+ "category": "retests",
+ "badge": "EP 638 - PUSH-UP RESULTS",
+ "checklist": [
+  "THE RETEST",
+  "THE RESULT",
+  "THE PRESS",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_mid.webp",
+  "big": "NEW MAX",
+  "hook": "PUSH-UP RESULTS",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you counted push-ups | until the form broke. | That number went on record. | Today we count again. | Same floor. | Same hands, same width. | Same depth: | chest to fist height. | Body like a plank. | No bouncing. | No sagging. | No resting at the top. | Keep a steady tempo | until a clean rep | simply will not come. | That count is | your NEW max. | Got it? | Put it next | to the old one. | At the end, | we decide if your press | actually changed, | or just performed better today.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME FLOOR, SAME WIDTH",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "CHEST TO FIST HEIGHT",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "NO RESTING AT THE TOP",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEW MAX LOCKED IN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "THE GAP",
+   "label": "HOW A MAX RESULT IS READ",
+   "sub": "under +3: noise - +5 to +10: real - +15: system rebuilt",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the scale for reading a push-up max, and it is stricter than your feelings. A gain of one to three reps is noise: breakfast and bravery live in that band. Five to ten reps across ninety days is real change, the size that improved tendons, wiring, and pacing produce together. Fifteen or more means the pressing system was rebuilt, and usually means day one massively understated you. A lost rep or two, painfully, also has a standard reading: fatigue masking fitness, the most common story in all of retesting. Max sets are emotional events. The scale exists so the emotion does not get to do the math.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "+5 TO +10",
+     "label": "REAL CHANGE, FULL STOP",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "UNDER +3 IS NOISE",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "LET THE SCALE DO THE MATH",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at the system whose change we are auditing. A push-up is not one muscle showing off. It is the chest handing force through its tendon into the arm, the triceps handing force through its tendon into the forearm, the shoulder stabilizers keeping the joint centered, and the trunk refusing to sag, forty times in a row. A max set fails at the weakest handoff, not the strongest muscle. Ninety days of pressing work upgrades the handoffs: stiffer tendons leaking less force per rep, stabilizers firing in better order, and a nervous system that rations effort across the set instead of spending it all by rep ten. Your new number is the audit of every handoff at once. One more detail hides in your breathing, and max sets expose it without mercy. Day-one pressers hold their breath, brace chaotically, and lose reps to pressure chaos as much as to strength. A trained set breathes like a metronome: in on the way down, out through the sticking point, the trunk staying organized while the air moves. If your new max felt calmer in the chest even as the reps climbed, your result includes a breathing upgrade, and breathing upgrades transfer to every test in the battery without a single extra session.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "MAX SETS FAIL AT HANDOFFS",
+     "lines": [
+      "Not at the strongest muscle."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_pushup_45_mid.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "STIFFER HANDOFFS, LESS LEAK",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "EVERY REP",
+     "label": "AUDITS THE WHOLE CHAIN",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_weak.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now read the shape of your set, not just its size. Coaches who test maxes watch where the breakdown begins. Day-one sets usually die from the bottom: reps get shallow, the hips sag, the tempo stutters. A trained set dies from the top: the depth stays honest, the line holds, and the failure is a clean inability to lock out one more. If your new max died cleaner and later, your wiring improved in ways the count understates. Research on fatigue and movement quality backs this up: skilled systems preserve form deeper into exhaustion. So score yourself twice today, once in reps and once in honesty, and let both scores into the verdict. One more number in your set deserves recording from today onward: the sticking-point rep, the first rep where your tempo visibly slowed. On day one it probably arrived early and announced the end. In a trained set it arrives late and is survived several times, because the system learned to grind without disorganizing. The distance between the first slow rep and the final rep is your reserve, and reserves are what the next ninety days are for. Log it beside the max.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "DAY 1 MAX",
+       16
+      ],
+      [
+       "DAY 90 MAX",
+       27
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "WHERE IT DIED IS DATA",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "SCORE TWICE: REPS AND HONESTY",
+     "lines": [
+      "Both belong in the verdict."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "CLEANER DEATH, BETTER SYSTEM",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "elbow_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "One structure deserves a sentence of gratitude and a sentence of caution: the elbow. Every lockout of every rep sends the set's force through the triceps tendon and the elbow joint, and across ninety days those tissues either adapted or accumulated complaints. If your elbows feel stronger and quieter at depth today, that is graded loading doing its slow work. If instead a deep ache has been growing, treat it as information, not weakness, and remember the standing rule of this channel: persistent joint pain belongs to a professional, so see one if it persists. Tendons reward patience and punish denial, in that order, every time. And the handoffs include one nobody coaches: the floor itself. Hands that slip, sweat, or hunt for position mid-set tax every rep that follows. Trained pressers set their hands once, screw them into the floor slightly, and never think about them again, because the base of the chain stopped leaking attention. If today's set was the first where your hands simply disappeared from your thoughts, that disappearance is a measurable skill, and it showed up in your count whether you noticed it or not.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE ELBOW AUDITS EVERY LOCKOUT",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "ren_pushup_bottom.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "QUIETER ELBOWS",
+     "label": "GRADED LOADING WORKED",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "PERSISTENT PAIN: GET CHECKED",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front_top.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe on results day is about what a max actually proves for a skinny guy. Absolute strength contests will always be tilted toward bigger frames. But a strict push-up max is a strength-to-weight examination, and it is the rare test where your body is both the athlete and the barbell. The big guy presses more total mass per rep and gasses sooner. You press less, last longer, and accumulate the weekly volume that rebuilds tendons. Your result today was not produced despite being skinny. A good part of it was produced because of it, by a system that could practice this movement more than any heavier rival could.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "ATHLETE AND BARBELL IN ONE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "HIS REPS PER WEEK",
+       120
+      ],
+      [
+       "YOUR REPS PER WEEK",
+       200
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "VOLUME BUILT THIS RESULT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "SKINNY WAS THE METHOD",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "PUSH-UP SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "asset": "ren_pushup_top.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we press together with the new standard. Four rounds: forty seconds on, twenty off, every rep to fist height. Stay two reps shy of failure and keep the plank line unbroken from first rep to last."
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_bottom.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-level protocol is chosen by your band. Noise band: change nothing except your patience, and add one submax volume day, because the system is close and underfed. Real-change band: protect the recipe, add pause reps once a week, and let the next block consolidate. Rebuilt band: your next test is no longer the standard max, it is the one-arm progression and weighted push-ups, where your new ceiling gets explored. Every band retires the same three mistakes: weekly max attempts, depth that drifts upward as fatigue rises, and comparing your max to a fresh man's max on a different day. Retests are monthly, standardized, and compared only to your own history. One weekly detail protects the max you are building: the two-rep rule in training. Every working set this season stops two reps before failure, no exceptions outside test day. Grinding to failure weekly teaches your nervous system that pressing ends in collapse, and it spends the max set waiting for the collapse it remembers. Train like a man who always has two more, and on test day, you will.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "WEEKLY MAX ATTEMPTS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "DEPTH DRIFT UNDER FATIGUE",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "COMPARING ACROSS DAYS AND MEN",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "YOUR BAND PICKS YOUR ROAD",
+     "lines": [
+      "Noise, real, or rebuilt: train accordingly."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "CHANGED?",
+   "label": "THE PUSH-UP VERDICT",
+   "sub": "comment your old and new maxes",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, did it actually change? If you gained five or more strict reps, yes: tendons, wiring, and pacing all improved, and the result will still be there next month. If you gained under three, the honest verdict is not yet proven, and one more block of volume is the answer, not a new program. If you lost reps, read fatigue first, tendons second, and your ego last. Comment both maxes below, old and new, exactly as they happened, and set the next retest thirty days out. This channel trusts men who report honest numbers. The floor will do the rest.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "+5 REPS",
+     "label": "CHANGED, AND IT WILL KEEP",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "HONEST NUMBERS GET TRUSTED",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT BOTH MAXES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RETEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_mid.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "First max told you where you stood. This one told you whether you moved. Keep the standard frozen, keep the volume honest, and bring me a bigger count next retest. Subscribe so max day never sneaks past. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "BRING BOTH MAXES",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

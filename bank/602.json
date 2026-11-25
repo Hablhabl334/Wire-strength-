@@ -1,0 +1,391 @@
+{
+ "badge": "EP 602 - AGE-GROUP RETEST",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "BEATING YOUR DECADE",
+  "YOUR VERDICT"
+ ],
+ "description": "Your age-group test gave you a line for your decade, and a number to chase. Today we re-run the test and grade you against your decade again, old number against new. Find out whether you climbed your age group, and what the next decade's line demands.",
+ "hashtags": [
+  "age benchmarks",
+  "fitness test",
+  "dead hang",
+  "retest day",
+  "calisthenics",
+  "strength test"
+ ],
+ "id": "602",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRADED BY DECADE"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "SAME HONEST CLOCK",
+     "pos": "br",
+     "text": "SAME BAR"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANG UNTIL YOU DROP"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": "KEEP THE NEW NUMBER",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Remember the age-group test. | We graded your hang | against your own decade. | Not against teenagers. | Not against athletes. | Against your age group. | You wrote that number down. | Today we run it again. | Same bar. | Same straight arms. | Same honest clock. | Grab the bar now. | Feet off the ground. | Shoulders quiet, grip deep. | Hang until you drop. | That is your new number. | Keep it in your head. | At the end | I tell you | whether you climbed | your whole decade. | Or just kept pace. | Most people never retest. | You are not most people. | Your old number is waiting. | Let us see the gap.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE RETEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "60 SEC: AHEAD OF YOUR DECADE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "RARE AIR, ANY AGE",
+     "pos": "br",
+     "text": "90 SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "OLD YOU VS NEW YOU",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "60 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE FOR YOUR DECADE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the frame again, because it is the fairest one on this channel. A dead hang means something different at twenty five than at forty five, so the age-group test never graded you against the internet. It graded you against the line for your decade: roughly sixty seconds puts a man ahead of most of his age group, ninety puts him in rare air for any age, and under thirty means the cables are untrained, whatever the birth certificate says. Now put your two numbers on that frame. Your old number had a position in your decade. Your new number has a new position. The distance between them is the only score that was ever honest, because it compares you to the one opponent who shares your age, your joints and your starting point exactly: the man who took the first test. Benchmarks tell you where you stand. Retests tell you where you are going, and going beats standing.",
+   "section": "OLD VS NEW",
+   "sub": "your old number vs today: same decade, new position in it",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Collagen lays down at 20 and at 45.",
+      "Load is the only question it asks."
+     ],
+     "pos": "tr",
+     "title": "THE TENDON DOES NOT CHECK ID"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "AVERAGES = PEOPLE WHO STOPPED"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "IMPROVED ON SCHEDULE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why does the same decade produce such different numbers on the second run? Because the test was never measuring your age. It was measuring three systems that age only touches when they are left alone. First, the grip tendons, which stiffen under load at forty exactly as they do at twenty, just on a slightly slower schedule. Second, the nerve drive to the forearm, the signal that keeps the fingers closed, which stays trainable across your whole life. Third, the shoulder's passive structures, which tolerate hanging better the more gradually they are loaded. The benchmark data behind the age lines shows averages falling decade by decade, but averages are built from people who stopped loading these systems. Nothing in the biology of a tendon checks your date of birth before it lays down collagen. Your two numbers are the proof in your own file: the system that supposedly declines with age just improved on schedule, because you loaded it on schedule.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAINED 40 BEATS UNTRAINED 25"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "UNTRAINED 25",
+       25,
+       "red"
+      ],
+      [
+       "TRAINED 40",
+       70,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "HANG BY TRAINING, NOT AGE"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE NUMBER, THREE SYSTEMS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "YOUR DISTRIBUTION, YOUR CONTROL",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Look at the spread inside a single decade and the benchmark idea gets sharper. In every age group researchers test, the gap between the average man and the trained man is far bigger than the gap between one decade and the next. A trained forty year old hangs longer than an untrained twenty five year old, comfortably, and it is not close. That means your decade line was never a ceiling. It was a census of your untrained neighbors. The retest matters because it moves you within the only distribution you control: your own. There is a second lesson in the data, too. Grip endurance tracks with long term health markers in study after study, not because hanging is magic, but because it reports on muscle, tendon and nerve in one honest number. So your new number is doing double duty today. It grades your training, and it quietly grades the systems that decide how capable you stay as the decades stack up.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE MOVING WALKWAY TRAP"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "IT DOES NOT AGE",
+     "pos": "br",
+     "text": "YOUR OLD NUMBER"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE GAP CANNOT BE GAMED",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOU SET IT YOURSELF"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the trap inside age benchmarks, and the retest is how you escape it. The trap is grading on a curve you did not choose: beat your decade and it is easy to relax, as if the line owed you rest. But your decade's line drops every ten years, which means a man can get weaker and still beat his age group, sliding downhill on a moving walkway and calling it winning. The retest kills that illusion because it keeps your own old number in the room. Your old number does not age. It does not soften. It sits there at its exact seconds and asks whether the man holding the bar today is stronger than the man who held it last season. Chase the decade line for fun if you like, it is a good party trick. But train for the gap between your two numbers. That gap is the only benchmark that can never be gamed, because you set it yourself, at your best, on a day you remember.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALLEST FULL LOAD ON THE BAR"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PER UNIT OF STRESS",
+     "pos": "br",
+     "text": "MORE SECONDS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "CAPABILITY, NOT BODY TYPE",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MIRROR SITS OUT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the age game is the one this channel keeps handing you: you are light. Every second of a hang is your tendons holding your bodyweight, and your bodyweight is the smallest full load on the bar. That means more seconds per unit of tendon stress, more training volume per week, and faster climbing through your decade's ranks than a heavier man doing the identical program. But there is a subtler edge in the retest itself. Skinny guys are used to being underestimated by every mirror and every scale, so a number that grades you against your decade and still puts you near the top is not vanity, it is calibration. It tells you the truth your reflection never did: capability is a trainable system, not a body type. Your new number is your decade's argument, settled. Bring it to the next family dinner. The mirror can sit this one out.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Now we train the next decade line together. Three rounds on the bar: forty five seconds hanging, forty five resting. Shoulders down, grip deep, breathe slow. Go.",
+   "rest": 45,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "TRAIN FOR THE NEXT LINE",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE BENCHMARK DAY A MONTH"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "SLEEP BUILDS THE CABLE",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "CHASING A YOUNGER DECADE",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol for the age-group climb has three rules. Rule one: train for the next line, not your current one. If you just beat sixty, your sessions now target ninety: longer holds, one arm assisted hangs, and one heavy day a week where the hold is loaded with a backpack. Rule two: keep one benchmark day a month, a single max hang on a fresh morning, logged with the date, because a decade is climbed in monthly entries, not in one heroic test. Rule three: protect the systems the test reports on. Sleep and protein are not soft advice here, they are the raw materials of collagen and nerve recovery, and the data on grip and aging is partly a data set about who kept supplying both. The mistake to bury: comparing your number to a younger decade's line and calling yourself behind. That comparison is rigged and useless. Your decade, your old number, your gap. That is the whole scoreboard.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REFUSING THE SLIDE IS A WIN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT NUMBER + DECADE",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SYSTEMS READ THE LOG"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict, graded the only fair way. If your number fell, do not hide from it: a fall on a fresh day means the last block underloaded the cables, and the protocol above is the correction, starting this week. If you held your position, you did what most of your decade does not, you refused the slide, and holding ground against the walkway is a win the census will never show you. If you climbed, and most of you who trained will have climbed, then understand what you actually proved today: your systems did not read your birth certificate, they read your training log. Put your new number in the comments with your decade, just the seconds and the age group, and keep both numbers written down together. We retest in thirty days. Your old number is already waiting there, patient as ever, asking the only question that matters. What did you load?",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "UNTOUCHABLE NUMBER",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same bar, same decade, same honest clock. Bring me a number your old self cannot touch. Subscribe so retest day finds you ready. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "age benchmarks",
+  "age group test",
+  "dead hang test",
+  "fitness benchmarks",
+  "retest",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_dead_hang.webp",
+  "big": "YOUR DECADE",
+  "hook": "AGE RETEST"
+ },
+ "title": "Your New Number: The age benchmarks Retest Nobody Does",
+ "v5": true
+}

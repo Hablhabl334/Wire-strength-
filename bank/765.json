@@ -1,0 +1,394 @@
+{
+ "id": "765",
+ "v5": true,
+ "title": "Your Trend Test Reveals Your Hidden Strength",
+ "description": "One weigh-in is weather. The trend is climate. Weigh yourself across a week, compute the only scale number that tells the truth, and learn to read your gaining like a scientist instead of a gambler.",
+ "tags": [
+  "trend test",
+  "weekly average weight",
+  "weighing yourself to gain",
+  "scale trend",
+  "skinny guy weigh in",
+  "tracking weight gain",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "weight trend",
+  "weekly average",
+  "trend test",
+  "gaining",
+  "calisthenics",
+  "scale truth"
+ ],
+ "category": "gaining",
+ "badge": "EP 765 - TREND: THE TEST",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TREND",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_balance_test.webp",
+  "big": "7 DAYS",
+  "hook": "CLIMATE, NOT WEATHER",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today we test the trend. | Not one weigh-in. | Seven mornings, one week. | Same scale, same time. | After waking, before breakfast. | Write every number down. | Then average all seven. | That average is your number. | Compare it to last week's. | If you kept last week's. | That difference is the trend. | Second, max strict push-ups. | Floor to lockout, clean. | Count the honest reps. | That is your second number. | Keep the pair together. | At the end I tell | you how scientists read scales. | One weigh-in is weather. | Noise, water, and timing. | The trend is climate. | And climate decides everything. | Let us read yours properly.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "SEVEN MORNINGS",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "THE AVERAGE",
+     "label": "IS THE NUMBER",
+     "pos": "br",
+     "at": 9
+    },
+    {
+     "kind": "chip",
+     "text": "WEATHER VS CLIMATE",
+     "pos": "tr",
+     "at": 14
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 20
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "7 DAYS",
+   "label": "AVERAGED, IS THE SMALLEST SCALE TRUTH YOU CAN TRUST",
+   "sub": "daily swings: plus or minus a kilo of water - weekly trend: the tissue's real story",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is why the test demands seven days. Your body weight swings by a kilo or more between mornings for reasons that have nothing to do with tissue: water held after a salty meal, glycogen topped up or drained, food still in transit, a hot night's sweat. A single weigh-in samples that noise and calls it you. The seven-day average cancels most of the noise, because the water swings point in both directions across a week while real tissue only moves one way. What survives the averaging is the trend, and the trend is the only scale statement worth steering by. Gainers who steer by single mornings chase ghosts, cutting food after water spikes and celebrating water drops as muscle. Gainers who steer by trends look boring and gain steadily.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "NOISE CANCELS, TREND SURVIVES",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "7 DAYS",
+     "label": "THE TRUST UNIT",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "STEER BY CLIMATE",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "STOP CHASING GHOSTS",
+     "pos": "br",
+     "at": 26
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "The mechanism of the noise is worth understanding once, so it never fools you again. Most of the swing is water, and water follows three masters: salt, which holds it in the tissues; glycogen, the carbohydrate stored in muscle and liver, which binds several grams of water per gram; and the gut itself, whose contents weigh what they weigh until they leave. A hard training day drains glycogen and its water, so you wake lighter and call it loss. A feast day refills both, so you wake heavier and call it gain. Neither was tissue. Tissue, muscle and fat alike, moves at the pace the surplus episodes described, a few hundred grams a week at most. The average is simply the instrument matched to the phenomenon: slow signal, patient measurement. A detail for the careful: the average works best when the weigh-ins share conditions, which is why the test fixes the hour and the routine. Seven scattered weigh-ins, mornings and evenings mixed, average the noise of your schedule rather than the state of your body. Same conditions are what make the seven numbers one instrument.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "WATER'S THREE MASTERS",
+     "lines": [
+      "Salt, glycogen, gut contents.",
+      "Tissue moves slower than all three."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_plank_hold.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "SLOW SIGNAL, PATIENT TOOL",
+     "pos": "br",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "MATCH TOOL TO PHENOMENON",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science of self-weighing is kinder than the folklore. Studies of people who weigh themselves frequently find that regular weighing, paired with a calm interpretation, improves weight management in both directions, losing and gaining, because feedback closes the loop between intention and result. The harm stories come from interpretation, not measurement: the daily number treated as a verdict produces the anxiety, never the scale itself. Researchers who work with trends use exactly the tool you built today, rolling averages compared across weeks, because it converts an emotional instrument into a boring one. Boring is the goal. A boring scale is a dashboard. An exciting scale is a slot machine, and nobody builds a body on a slot machine. There is a minimum dose of data under the science too: the trend needs roughly three weeks to separate itself from the starting water shifts of a new surplus. Judge a new surplus at week one and you are reading the tide coming in, not the land being built. Patience is not a virtue here. It is a measurement requirement.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "FEEDBACK CLOSES THE LOOP",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "STEERING INSTRUMENTS",
+     "items": [
+      [
+       "SINGLE MORNINGS",
+       25,
+       "gold"
+      ],
+      [
+       "WEEKLY AVERAGES",
+       90,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "BORING IS THE GOAL",
+     "ok": true,
+     "pos": "tr",
+     "at": 17
+    },
+    {
+     "kind": "chip",
+     "text": "DASHBOARD, NOT SLOT MACHINE",
+     "pos": "br",
+     "at": 24
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "One deeper skill completes the test: reading the trend's slope, not just its direction. A gaining trend has a healthy band, roughly a quarter to a half kilo per week for most skinny guys, slower for the advanced. Inside the band, do nothing, because the system is working and every adjustment is a risk. Below the band for two consecutive weeks, the surplus has quietly become maintenance, and the answer is the small addition from the protocol, not a panic feast. Above the band for two weeks, fat is joining faster than muscle can, and the answer is the small trim. Two weeks is the magic patience: one flat week is weather wearing a disguise, but two is the climate clearing its throat. Learn the band and the patience, and the scale becomes the calmest voice in your training life.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE SLOPE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "2 WEEKS",
+     "label": "THE MAGIC PATIENCE",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "INSIDE THE BAND, DO NOTHING",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "CLIMATE CLEARS ITS THROAT",
+     "pos": "br",
+     "at": 28
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage with the trend is that your band is wide and your corrections are small. A quarter kilo a week is a gentle slope, visible in the average within a fortnight, and the corrections it demands are the hundred-and-fifty-calorie steps a single snack provides. The heavy dieter's trend work is a war against a body fighting back. Yours is gardening: watch the slope, water a little, watch again. There is also a psychological edge the skinny guy should claim proudly: your trend only needs to move one direction, slowly, and every other number on this channel, the tests and retests, exists to explain its movement. The scale is the headline. Everything else is the article explaining it.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "GARDENING, NOT WAR",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "0.25 KG",
+     "label": "PER WEEK IS PLENTY",
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "THE SCALE IS THE HEADLINE",
+     "ok": true,
+     "pos": "tr",
+     "at": 17
+    },
+    {
+     "kind": "chip",
+     "text": "SMALL CORRECTIONS",
+     "pos": "br",
+     "at": 24
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pushup_top.webp",
+   "exercise": "PUSH-UP SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Train the headline's explanation with me. Four rounds of push-ups, forty seconds on, twenty off. Smooth, strict, patient reps, no rushing the count. The trend rewards patience in the gym exactly as it does on the scale.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The trend protocol, four rules. One: same scale, same spot on the floor, same morning routine, because instruments must be boring to be trusted. Two: record every weigh-in in one place, a note on the phone is enough, and compute the average every Sunday. Three: act only on two-week signals, and act in the small steps this season prescribes, an addition or a trim of about a hundred and fifty calories. Four: never weigh at night, never after a feast, never in anger, because a number collected in emotion will be read in emotion. Keep these four and the scale becomes what it should have been all along: a quiet instrument on the wall of the lab, reporting climate to a scientist.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "SAME SCALE, SAME SPOT",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "AVERAGE EVERY SUNDAY",
+     "ok": true,
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "TWO-WEEK SIGNALS ONLY",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "WEIGHING IN ANGER",
+     "ok": false,
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. A rising trend inside the band with modest push-ups: the climate is right and the engine is the next project, so train with intent while the food runs itself. A flat trend for two weeks with any push-up count: the surplus has become maintenance, and the small addition, not more effort, is the verdict's prescription. A falling trend: you are dieting by accident, whatever your intentions say, and the trend outranks intentions in this court. A rising trend and climbing push-ups: the full system is working, food and training in their lanes, and your job is the hardest one in gaining: change nothing. Comment your weekly average change and your push-up number. Climate reports are the comments this channel trusts most. Keep the four averages you collect this month somewhere permanent. A year from now they will read like the first page of a biography, and you will be glad the scientist who wrote it insisted on climate from the very beginning.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 5
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "FOUR CLIMATES TO COMPARE",
+     "pos": "br",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT YOUR TREND",
+     "ok": true,
+     "pos": "tr",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, bring me four weekly averages and the same push-up test. Bring me climate, not weather, and a bigger number. Subscribe, and let the averages accumulate until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "CLIMATE, NOT WEATHER",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

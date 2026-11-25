@@ -1,0 +1,410 @@
+{
+ "badge": "EP 555 - CALF BOUNCE FIX",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "YOUR VERDICT"
+ ],
+ "description": "Calf raises done the usual way train the muscle and starve the tendon. The bounce test shows which one you have been building. Count your springy single-leg reps, get your number, and learn to train the calf tendon stiffness that actually moves you.",
+ "hashtags": [
+  "calf training",
+  "achilles tendon",
+  "calf raises",
+  "tendon stiffness",
+  "bounce test"
+ ],
+ "id": "555",
+ "scenes": [
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE FOOT, WALL FOR BALANCE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE BOUNCE PER SECOND"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "BOUNCE COUNT"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SPRING, NOT SIZE"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR COUNT SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand on one foot at the edge of a step or on flat ground, fingertips on a wall for balance only. Rise onto the ball of your foot and lower, springy and rhythmic, one bounce per second if you can, heel kissing the ground and leaving again without a pause. Count your clean single-leg bounces until the rhythm breaks or the spring dies. That count is your number today. Then, if you are honest, try the other leg too. Most calf training happens seated in a machine or grinding slowly through two-legged raises, and it builds a calf that looks like something and bounces like nothing. The bounce test grades the other quality, the one your ankle actually uses when you run, jump and land: tendon stiffness, the spring rate of the cable behind your ankle. Keep your count safe. At the end, I will tell you what it reveals about the spring you have really been building.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A SPECTATOR CANNOT KEEP TIME"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "A TRAINED SPRING",
+     "pos": "br",
+     "text": "30+"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EVERY STEP COLLECTS OR PAYS"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMALL TEST, ENORMOUS AUDIT"
+    }
+   ],
+   "big": "25 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN A LOOK AND A SPRING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for a single-leg bounce test. Twenty-five rhythmic reps is where a calf stops being a look and becomes a spring. Under fifteen, the tendon has mostly been a spectator while the muscle did slow, grinding work, and the rhythm exposes it, because a spectator cannot keep time. Over thirty, you own a trained spring, the kind that returns energy on every step you take in life, thousands of times a day, whether you are training or not. Pause on that thought. Your calves are the only muscles that work every single step, and the difference between a stiff tendon and a slack one is paid or collected on every one of those steps. This test is small. What it audits is enormous.",
+   "section": "THE NUMBER",
+   "sub": "under 15: the tendon is a spectator - over 30: a trained spring lives there",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The calf stays nearly still.",
+      "The Achilles does the bouncing."
+     ],
+     "pos": "tr",
+     "title": "MUSCLE HOLDS, TENDON SPRINGS"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STIFFNESS IS THE EXCHANGE RATE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FLOATING VERSUS EFFORT"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE THICKEST CABLE YOU OWN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look behind the ankle. Your calf muscle is shorter and smaller than it looks, because much of what fills the back of your lower leg is its tendon, the Achilles, the thickest cable in the body. The muscle's real job in bouncing is not to lift you. It is to hold tension, nearly still, while the tendon stretches and recoils beneath it like a bungee being plucked. That division of labor is the whole secret of efficient movement: muscle holds, tendon springs, and the energy bill stays tiny. Stiffness decides the exchange rate. A stiff tendon returns the energy of each landing quickly and almost completely. A compliant one returns it slowly and partially, and the muscle must pay the difference in work, which is why slack springs feel like effort and stiff springs feel like floating.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO DIFFERENT LESSONS"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "SPRING TRAINING",
+       95,
+       "cyan"
+      ],
+      [
+       "GRIND ONLY",
+       40,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT EACH STYLE BUILDS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SAME MUSCLE, DIFFERENT CABLE"
+    },
+    {
+     "asset": "ren_calf_raise_front.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Tendon science draws a line most calf training never crosses: muscle and tendon adapt to different lessons. Muscle grows from effort and fatigue, the burn of slow grinding reps. Tendon stiffens from high tension held and released, heavy loads, springy contacts, and long slow eccentrics where the heel lowers under control. Train only the first lesson for years and you build exactly what the bounce test exposes: a strong motor bolted to a soft cable, powerful in the gym and ordinary on the ground. Researchers who imaged the Achilles of trained jumpers found measurably stiffer tendons than in equally strong non-jumpers, same muscle, different cable. The encouraging reading is that the cable is trainable at any age, responding to heavy slow resistance within a few months. Your number today is not your calf's destiny. It is its current syllabus.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE RHYTHM IS A GRADE TOO"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "METRONOME PACE",
+     "pos": "br",
+     "text": "1 PER SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STIFFNESS PLUS PUNCTUALITY"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TEACH THE ORCHESTRA"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is a quieter detail in the bounce test worth its own minute: the rhythm. A healthy spring keeps time almost by itself, because the stretch reflex fires the calf at the right instant without asking your brain. When the rhythm breaks down early, before the muscle is truly tired, it is often the timing that failed first, the nervous system losing the beat under fatigue. This is why dancers and sprinters drill rhythm relentlessly, and why your bounce count mixes two grades into one number: the stiffness of the cable and the punctuality of the conductor. Training the bounce with a metronome, one clean contact per second, rebuilds both at once. You are not only stiffening a tendon in this episode. You are teaching an orchestra to keep time. The metronome has one more virtue: it makes progress visible before the count changes. A bounce that stays clean at one per second for twenty seconds, then twenty-five, is improving in quality even while the total looks stuck, because holding rhythm under rising fatigue is itself the adaptation arriving. Watch the quality of the last five bounces, not just the number. That is where the spring announces what it is becoming.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DOSES YOUR FRAME CAN AFFORD"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SMALL DEPOSITS COUNT",
+     "pos": "br",
+     "text": "DAILY"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOUR LIFESTYLE IS THE PROGRAM"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SPEND IT ON PURPOSE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in calf tendon work is that the dose scales with your life. A heavier athlete's Achilles absorbs enormous forces on every step, so his spring training must be rationed like medicine, a little at a time, with recovery guards posted. Your tendon trains at bodyweight doses your whole frame can afford daily: stairs taken springily, walks that become bounces, a minute of hops while the kettle boils. Tendons remodel on exactly this diet, frequent moderate tension, patiently repeated, and they barely notice heroic gym sessions by comparison. The skinny guy's spring is built in the margins of an ordinary day, hundreds of small deposits the heavy athlete cannot afford to make. Your lifestyle is the program. The episode just teaches you to spend it on purpose.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "check": 3,
+   "exercise": "CALF RAISES",
+   "music": "drive",
+   "narration": "Now we build the spring together. Three rounds of single-leg calf raises, slow and full, weak leg first. Up strong, lower slower. The tendon is listening.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLOW, FULL, HONEST RAISES"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ADD THE SPRING WORK"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEAVIER THAN FEELS REASONABLE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REST IS WHEN IT REMODELS"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RESPECT THE CALENDAR"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol that trains the tendon instead of just the muscle. Step one: keep your slow raises, but make them honest, full range, a three-second lower, a pause at the bottom; the tendon thickens under time and tension, not under bouncing half-reps. Step two: add the spring work the muscle-only routine skips, short sets of rhythmic single-leg bounces like today's test, stopping while the rhythm is still clean. Step three: load it heavier than feels reasonable, a backpack, a held weight, one leg at a time, because tendon stiffness answers to high tension more than to high reps. Step four: respect the tendon's calendar, train it every other day at most; cables remodel slower than muscles and they do it during rest, not during the session. Step five: if the back of your ankle ever aches sharply or stays sore into the next morning, back off and see a professional if it persists. Six to eight weeks of this and the bounce test grades a different spring.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CABLE GETS A JOB"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR COUNT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME STEP, SAME TEMPO"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your count. Under fifteen bounces: the tendon has been a spectator and the muscle a soloist; the protocol gives the cable its first real job, and early gains come quickly. Fifteen to twenty-five: a spring under construction, rhythm improving, and your remaining progress lives in load and patience. Over twenty-five: a working spring, returning energy on every step of your life, in a lower leg the mirror probably calls small. Put your count in the comments, just the number, weaker leg, honest rhythm. Retest in thirty days, same step, same tempo. The tendon keeps its books slowly and pays them honestly, and yours just opened an account.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SPRINGIER COUNT"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same step, same rhythm, bring me a springier count. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "calf raises",
+  "calf tendon",
+  "achilles stiffness",
+  "single leg calf raise",
+  "calf bounce test",
+  "tendon training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_calf_raise.webp",
+  "big": "1 LEG",
+  "hook": "BOUNCE, DON'T GRIND"
+ },
+ "title": "Stop Doing calf stiffness Wrong: Train Your calf tendon stiffness Instead",
+ "v5": true
+}

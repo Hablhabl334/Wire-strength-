@@ -1,0 +1,410 @@
+{
+ "badge": "EP 557 - KNEE DRIVE FIX",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NERVES",
+  "YOUR VERDICT"
+ ],
+ "description": "Your stride is only as fast as the leg coming forward, and that leg is swung by hip flexor nerves most people never train. Count your knee drives, get your number, and learn to fire the fastest forgotten muscles in your body.",
+ "hashtags": [
+  "knee drive",
+  "hip flexors",
+  "high knees",
+  "sprint speed",
+  "stride rate"
+ ],
+ "id": "557",
+ "scenes": [
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THIGH TO PARALLEL"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TEN SECONDS, MAXIMUM RATE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "KNEE COUNT"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE RETURN HALF COUNTS"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR COUNT SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand tall, arms ready like a sprinter. When the clock starts, drive your knees up alternately, thigh to parallel, as fast as you possibly can for ten seconds, staying in place, tall and light on your feet. Count every knee that reaches parallel. That total is your number today. Everyone trains the push: the leg driving down and back, the glamorous half of the stride. Almost nobody trains the return, the leg swinging forward and up to begin the next step, and yet your stride rate is capped by whichever half is slower. The forward swing belongs to the hip flexors, a group of muscles buried deep in the front of the hip, and to the nerves that fire them, which this episode is about. The ten-second test grades those nerves with no equipment and no mercy. Keep your count safe. At the end, I will tell you what it says about the forgotten half of your speed.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A CANNON RELOADING BY HAND"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "BOTH HALVES FIRING",
+     "pos": "br",
+     "text": "34+"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE FIRST REPORT CARD"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RATE IS SET BY THE SLOW HALF"
+    }
+   ],
+   "big": "30 DRIVES",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN ONE HALF AND A FULL STRIDE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for ten seconds of honest knee drives. Thirty is where the forgotten half stops being the bottleneck. Under twenty-four, your stride is a powerful push waiting on a slow return, like a cannon that reloads by hand; the push can be world-class and the rate will still be set by the swing. Over thirty-four, both halves of your stride are firing in the same league, and your speed is limited by power and stiffness instead, the better problems to have. Sit with the strangeness of that for a moment. Half of every stride you have ever run is performed by muscles you have probably never deliberately trained, responding to nerves you have never deliberately fired at full speed. Your count today is the first report card that half has ever received.",
+   "section": "THE NUMBER",
+   "sub": "under 24 in 10 sec: the swing is the bottleneck - over 34: both halves firing",
+   "type": "card"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "No other muscle swings the leg.",
+      "The flexors own the return."
+     ],
+     "pos": "tr",
+     "title": "THE ONLY WAY FORWARD"
+    },
+    {
+     "asset": "ren_leg_swing.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BURST, THEN SILENCE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE COUNT MEASURES THE BURST"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SITTING VERSUS CYCLING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the front of the hip. The hip flexors, chiefly the iliopsoas, run from your spine and pelvis down to the top of your thigh bone, and they are the only muscles that can swing your leg forward. In sprinting, that swing is not a gentle lift. At full speed the thigh must reverse direction violently, decelerating from its backward drive and whipping forward fast enough to be ready for the next ground contact, and the whole reversal is a nerve event as much as a muscle event: motor units recruited in a burst, fired at high frequency, switched off just as abruptly so the leg can extend again. Slow nerves here do not look like weakness. They look like a stride that floats, a runner who seems to sit while others cycle. Your count measured the burst: how many full-speed reversals your hip wiring can produce before the signal frays.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REPOSITIONING IS THE LIMIT"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "SWING SPEED",
+       90,
+       "cyan"
+      ],
+      [
+       "PUSH FORCE ALONE",
+       50,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT SETS STRIDE RATE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WIRING LEARNS PRACTICED SPEED"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Stride research holds a finding that surprises most runners: at top speed, the limiting factor is rarely how hard you can push the ground. It is how fast you can reposition the limbs between pushes. Elite sprinters do not just strike harder; they cycle sooner, their swing legs arriving early and giving the push more time to matter. The nervous system sets that cycling rate, and like all nerve qualities it is trainable with the right stimulus: very fast, very brief, fully rested efforts at maximum frequency, which is precisely what the ten-second test delivers and what the training in this episode repeats. Slow, tired, high-rep knee lifts teach the opposite lesson, a swing that cruises. The wiring learns the speed it practices at, and it practices at whatever speed you actually do, not the speed you intended.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A POSTURAL MUSCLE IN COSTUME"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE CHAIR TRAINS IT QUIET",
+     "pos": "br",
+     "text": "ALL DAY"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLEEPY, NOT JUST TIGHT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A PERMISSION SLIP IN BURSTS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The hip flexors hide one more secret: they are postural muscles wearing a sprinter's costume. The iliopsoas connects your thigh directly to your lumbar spine, which means it also stabilizes your lower back with every step, every sit, every hour at a desk. Desk hours shorten and quieten it, and a quiet flexor is a slow flexor: the muscle that should whip your thigh forward has been trained by your chair to do almost nothing, politely, all day. This is why so many modern runners feel their hip flexors as tight when the truer word is sleepy. Waking them is not stretching them into length. It is reminding the nerves that this muscle is allowed to fire fast and hard, a permission slip written in ten-second bursts.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A CHEAPER LEG TO SWING"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "FASTER REVERSAL PER BURST",
+     "pos": "br",
+     "text": "LESS MASS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "QUICK BEFORE STRONG"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FAVORITE, UNTOLD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in swing training is leverage and mass, working together for once. The hip flexors must accelerate your leg, and a lighter leg is a cheaper leg to swing: less mass at the end of the lever means the same nerve burst produces a faster reversal. Heavy athletes carry their muscle on the very limb that must be whipped forward, paying for their power with their rate. You pay almost nothing. This is the mechanical reason light sprinters look quick before they look strong, their legs cycling like bicycle spokes while bigger runners are still reloading. The ten-second test is one of the few athletic audits where your build is not the underdog in the room. It is the favorite, waiting for its nerves to be told.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "HIGH KNEES",
+   "music": "drive",
+   "narration": "Now we fire the forgotten half together. Four rounds of high knees, twenty seconds at maximum rate, tall and light. Rest long between rounds. Rate is built fresh.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BRUTALLY SHORT DOSES"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REST LIKE YOU MEAN IT"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TALL, UNDER YOUR HIPS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ONE LOADED SESSION A WEEK"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TEST MONTHLY, NOT WEEKLY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol that trains the hip flexor nerves instead of just tiring the legs. Step one: keep the doses brutally short, ten seconds of maximum-rate drives, because the nerve quality you are buying lives in the first seconds before fatigue rewrites the signal. Step two: rest like you mean it, forty seconds or more between rounds; a swing trained tired learns to cruise, and cruising is the disease, not the cure. Step three: stay tall and strike under your hips, chest up, ground contacts quick and quiet; if you start leaning back and reaching, the drill has left the hip flexors and joined the circus. Step four: add the loaded whisper, marching with a light band or cable pull for slow strength once a week, so the burst has muscle to command. Step five: test monthly, not weekly, and let ordinary sprinting days double as practice. Six weeks of this and the ten-second count climbs, and with it, the half of your stride nobody sees.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BOTTLENECKS HOLD CHEAP SPEED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR COUNT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME RULES, FRESH LEGS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your count. Under twenty-four drives: the swing is your bottleneck, and that is excellent news, because bottlenecks are where the cheap speed lives; your push has been waiting on this half for years. Twenty-four to thirty-four: the return is waking, and your gains now live in freshness and frequency, more crisp ten-second bursts scattered across your week. Over thirty-four: both halves of your stride fire in the same league, a genuinely athletic wiring hiding in a light frame. Put your count in the comments, just the number, honest ten seconds, thigh to parallel. Retest in thirty days, same rules, fresh legs. The forgotten half keeps its books in drives per ten seconds, and it just got its first training plan.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER COUNT"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ten seconds, same tall posture, bring me a faster count. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "knee drive",
+  "hip flexors",
+  "high knees",
+  "sprint mechanics",
+  "stride speed",
+  "nerve training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "10 SEC",
+  "hook": "THE FORGOTTEN HALF"
+ },
+ "title": "Stop Doing knee drive Wrong: Train Your hip flexor nerves Instead",
+ "v5": true
+}

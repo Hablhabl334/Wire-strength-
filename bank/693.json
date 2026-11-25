@@ -1,0 +1,387 @@
+{
+ "badge": "EP 693 - THE BROAD JUMP TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE VOLTAGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Neural drive, run as a protocol: explosive work first, sets of five or fewer, full rests, and intent treated as a training variable. Measure your standing broad jump and learn to keep every rep at full voltage.",
+ "hashtags": [
+  "broad jump test",
+  "neural drive",
+  "full voltage",
+  "explosive",
+  "power"
+ ],
+ "id": "693",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LAND AND HOLD IT"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEST OF THREE, FULL REST"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR VOLTAGE READING",
+     "pos": "tr",
+     "text": "CM OF JUMP"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NOTE YOUR HEIGHT TOO"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is the standing broad jump, the horizontal cousin of the vertical test from earlier in this season. Tape a line on the floor, toes behind it, feet shoulder-width. Swing your arms, dip, and jump forward as far as you honestly can, landing on both feet and holding the landing without a stumble or a step. Measure from the line to the back of your nearer heel. Three attempts, full rest between them, best distance counts, in centimetres. That distance is your number, and like the vertical jump it grades the nervous system before it grades anything else: in the half-second of the jump, your brain must recruit the big motor units, fire them at maximum rate, and sequence ankles, knees, hips, and arms into one coordinated detonation, while the tendons hand back whatever spring they stored. There is no pacing, no second chance inside the rep, and no way to borrow from endurance. It is a single reading of your voltage. Keep your best centimetres, and note your height too, because the verdict grades the jump against the body that made it. By the end, you will own the protocol that keeps every explosive rep at full voltage.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A RATION, NOT A TARGET"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE FULL-VOLTAGE ZONE",
+     "pos": "br",
+     "text": "\u22645 REPS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BATTERY MANAGEMENT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BRIGHTNESS OVER WARMTH"
+    }
+   ],
+   "big": "\u22645 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHERE EVERY REP STAYS FULL-VOLTAGE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the protocol's founding number, and it is a ration, not a target. Explosive work lives at five reps or fewer per set, because output in a jump, throw, or sprint decays rep by rep as the nervous system's fastest firing fatigues, and somewhere around the fifth or sixth consecutive effort you are no longer training drive. You are training the ability to produce mediocre power while tired, a different quality with a different name, and for most skinny guys, a quality they already own in surplus. The five-rep ceiling is what makes neural training so strangely cheap in time: the whole session's real work might be fifteen total jumps. But each of those jumps must be an attempt, full intent, full rest behind it, full distance in front of it. Think of voltage as a battery that recharges in minutes and drains in seconds.",
+   "section": "THE NUMBER",
+   "sub": "rep six onwards: a different, lesser exercise - neural work is a quality ration",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The goal you are given.",
+      "Organises the recruitment."
+     ],
+     "pos": "tr",
+     "title": "INTENT IS AN INPUT"
+    },
+    {
+     "asset": "ren_jump_peak.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "POTENTIATION: SEASONING, NOT STRUCTURE"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TWO DIALS PLUS INTENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Two mechanisms decide whether a rep is full-voltage, and both are trainable. The first is intent. In studies of explosive movement, the instruction matters measurably: athletes told to jump as high or as far as possible, with the outcome as the only goal, produce more force faster than athletes cued on technique details, because the brain organises recruitment around the goal it is given. Intent is not a mood. It is an input, as real as load, and the protocol treats it that way: one cue, total commitment, every rep. The second mechanism is potentiation: a brief, heavy or explosive effort can leave the nervous system temporarily more excitable for the following minutes, a window coaches exploit with primer sets and contrast pairs, one heavy effort followed by an explosive one that borrows the raised voltage. The effect varies between individuals and fades fast, which is why the protocol uses it as seasoning rather than structure.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "END THE SET AT THE DROP"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "REPS 1-3",
+       100,
+       "cyan"
+      ],
+      [
+       "REPS 7-10",
+       82,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "ONE SET, RUN TOO LONG"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "THE SPEED-DROP LIMIT",
+     "pos": "tr",
+     "text": "10%"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EDITORIAL, NOT METABOLIC"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The quality-control rule of neural work comes from velocity research, and it is the most useful number in this episode after the five-rep ceiling. When coaches track jump height or bar speed across a set, they end the set when output drops by roughly ten percent from the best rep, because beyond that line the nervous system is practising a slower pattern and engraving it. Practise is not neutral: the system learns what it repeats, and reps at ninety percent output teach ninety percent firing with the same diligence that maximal reps teach maximal firing. The bars below show a set run past its welcome: the first jumps at full voltage, the later ones a slow leak disguised as hard work. This is why neural sessions feel strangely easy to the muscles and strangely demanding to the mind. The work is not metabolic. It is editorial: every rep is reviewed, and the set ends the moment quality does. Men raised on the gospel of fatigue find this suspicious.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIRST, SMALL, GUARDED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE WHOLE MAIN WORK",
+     "pos": "br",
+     "text": "3-5 SETS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A GAUGE IS NOT A WORKOUT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BANKED BEFORE THE GRIND"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Assemble the session, then, the way the deep dive always insists: in order, with reasons. Neural work goes first, after the warm-up and before everything, because the switchboard's voltage is a daily resource that grinding spends. A primer may open it, a few heavy, crisp efforts or submaximal jumps ramping toward the real attempts, each one brighter than the last. The main work is small: three to five sets of three to five jumps, throws, or short sprints, full rests of two to three minutes, the ten-percent rule standing guard over every set. Contrast pairs are the optional flourish, one heavy set followed by an explosive set inside the potentiation window, used sparingly by men whose baseline is already trained. Two neural days a week is the full dose for almost everyone; the system adapts to quality signals quickly and to nagging badly. And the test itself is monthly, fresh, best of three, same floor, because a gauge consulted daily becomes a workout and stops being a gauge.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FORCE PER KILO IS THE GRADE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE WHOLE SESSION'S REAL WORK",
+     "pos": "br",
+     "text": "15 JUMPS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE HIGHEST-LEVERAGE WORK"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SORTED BY VOLTAGE PER KILO"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Acceleration is the light man's home physics, and the broad jump is where it pays him openly. The jump grades force relative to mass, and your mass is the smallest denominator in the room, so every increment of recruitment and rate coding converts into centimetres at an exchange rate the heavy man cannot match: he must find far more absolute force to move his larger mass the same extra distance. This is why neural training is the highest-leverage work a skinny guy can do. Muscle is slow to build and expensive to feed; drive is fast to build and free, and at your size it shows up on the tape measure within weeks. There is a competitive corollary worth savouring: in any test scored per kilo, sprint starts, jumps, climbs, the light man's wiring is worth more than the big man's bulk, and wiring is the quality this protocol trains in fifteen jumps a session. The gym's hierarchy is sorted by load. The tape measure's hierarchy is sorted by voltage per kilo.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "BROAD JUMPS",
+   "music": "drive",
+   "narration": "The protocol, live: five single broad jumps, each one a maximum attempt, long rest between. No rhythm, no rushing. Every jump is the test. Jump.",
+   "rest": 45,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 15
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EXPLOSIVE FIRST, ALWAYS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE 10% RULE HAS NO APPEALS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "JUMP SETS AS CONDITIONING"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOU GET WHAT YOU REPEAT BRIGHTLY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The voltage protocol, written as rules. Rule one: explosive work first in the session, always, while the battery is full. Rule two: sets of five or fewer, and the set ends early the moment output drops by about a tenth, no appeals. Rule three: rests are two to three minutes and they are part of the training, not a break from it; scroll nothing, breathe, and let the system recharge. Rule four: one intent cue, repeated identically, jump through the wall, land like a cat, whatever makes your brain spend everything in one go. Rule five: two neural days a week, a monthly test, and the inputs protected around both, sleep the night before and caffeine timed the way this season taught you. Follow the five and a session's explosive work takes fifteen minutes and outperforms the hour of tired jumping it replaces. The rule underneath all five deserves to be said plainly: in neural training, you do not get what you tolerate. You get what you repeat at full brightness. Repeat brightly.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRADED AGAINST YOUR OWN HEIGHT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME LINE, FRESH LEGS",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CENTIMETRES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your broad jump verdict, graded against your own height, which is the fairest ruler a jump can use. Under nine-tenths of your height: the voltage is low relative to the frame it moves, and that is the most trainable diagnosis in this entire season; expect the protocol to move the tape within weeks. Around your height, give or take a hand's width: a wired system, drive and spring in working order, with the ten-percent rule as your next level of polish. Beyond one point one times your height: serious elastic power, the kind that makes coaches ask what you weigh, and your job is maintenance and protection of the inputs. Record the floor and the footwear with the number, because a jump on grass and a jump on concrete are cousins, not twins. Put your centimetres in the comments, best of three, honestly landed. In thirty days, same line, same floor, fresh legs. You came in thinking power was a muscle quality. The tape measure disagrees, politely, in centimetres: power is a wiring quality, and yours is trainable this month.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same line, same floor, rested legs. Bring me more centimetres. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "neural drive protocol",
+  "broad jump test",
+  "explosive training",
+  "rate of force",
+  "power training",
+  "intent training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "\u22645 REPS",
+  "hook": "THE BROAD JUMP TEST"
+ },
+ "title": "Stop Doing neural drive Wrong: Train Your motor unit recruitment Instead",
+ "v5": true
+}

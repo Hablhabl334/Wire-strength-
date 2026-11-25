@@ -1,0 +1,393 @@
+{
+ "badge": "EP 550 - LANDING MISTAKES",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Every landing you make is either a deposit in your tendons or a withdrawal from your joints. Five common landing mistakes are making that choice badly, hundreds of times a week. Take the silence test, find your mistakes, and land rich instead.",
+ "hashtags": [
+  "landing mechanics",
+  "shock absorption",
+  "calisthenics",
+  "landing mistakes",
+  "tendon health"
+ ],
+ "id": "550",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STEP OFF, DON'T JUMP"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "SLAP TO NEAR SILENCE",
+     "pos": "br",
+     "text": "5 LEVELS"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE HONEST ATTEMPTS"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOUR LEVEL IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DECISIONS, NOT ADAPTATIONS"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Back to the step from the silence test: a sturdy box or step about thirty centimeters high, flat ground in front. Step off, do not jump, land on both feet, and score the landing from one to five. One is a slap and a jolt. Three is audible but controlled. Five is near silence, a cat landing, force vanishing into your legs. Three attempts, best honest level, and that level is your number today. Keep it somewhere safe. The silence episode graded your shock absorption. This one names the five landing mechanics mistakes that are destroying it, the small technical errors, repeated across every jump, hop, stair and curb in your life, that route force into your joints instead of your tendons. The good news is structural: mechanics are the fastest thing in this entire season to fix, because they are decisions, not adaptations. Your tendons have been waiting for you to make better ones.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEVEL 5 = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF LANDINGS A WEEK",
+     "pos": "br",
+     "text": "THOUSANDS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "AS QUIET AS THE LOUDEST LINK"
+    }
+   ],
+   "big": "LEVEL 5",
+   "card": "bignum",
+   "check": 1,
+   "label": "NEAR SILENCE IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, same as the silence test, because force does not care which episode measures it. Level five is near silence with deep, smooth absorption. Levels one and two mean at least one of the five mistakes is billing your joints for force your tendons volunteered to absorb, and the billing is not occasional: the average active person lands, steps down or absorbs force thousands of times a week, and a mistaken pattern multiplies quietly across all of them. Level four is the trained neighborhood to live in. Here is the frame for the list ahead. Shock absorption is a skill chain: the foot lands, the springs load, the muscles lengthen, the joints flex in sequence, and the force is spread across time. Each mistake breaks one link of that chain, and the force, which cannot disappear, simply skips to the next link and charges it double. Find your broken links. The chain is only ever as quiet as its loudest one.",
+   "section": "THE NUMBER",
+   "sub": "level 1-2: a mistake is billing your joints - level 4+: tendons are absorbing",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Foot, spring, brakes, joints, stillness.",
+      "Skipped mercies charge double."
+     ],
+     "pos": "tr",
+     "title": "FIVE SMALL MERCIES"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MILLISECONDS ARE THE CURRENCY"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FORCE CANNOT DISAPPEAR"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SPENT IN SOFT TISSUE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Walk the chain once, slowly, so the mistakes have somewhere to live. You arrive at the ground moving downward, carrying several times your bodyweight in force. First link: the forefoot touches and the foot's arch spring tightens, catching the opening share. Second: the Achilles stretches as your heel descends toward, but not slamming into, the ground, storing energy and buying time. Third: the calf and quad lengthen under load, the great eccentric brakes, spreading the force across the longest possible window. Fourth: the ankle, knee and hip flex in sequence, each adding its travel to the absorption distance. Fifth: you arrive at stillness, balanced, the force fully spent inside soft tissue. Every link adds milliseconds and millimeters, and milliseconds are the currency force is paid in. A landing is not one event. It is five small mercies in a row, and the mistakes are the mercies being skipped.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PREPARATION, NOT REACTION"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "STIFF + CAVING",
+       100,
+       "red"
+      ],
+      [
+       "ABSORBED + TRACKING",
+       45,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "PEAK FORCE BY LANDING"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE REPORT CARD AND COMMENTS"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Force plate science gives the chain its numbers. In a stiff landing, peak force can arrive within thirty milliseconds of contact, far too fast for any muscle reaction, which is why preparation, not reaction, is the whole game: the muscles must be switched on before touchdown, a skill called pre-activation, and the joints must be pre-positioned to travel. In a trained landing, the same force spreads over three to four times the duration, and the peak falls by half or more. The knee's link deserves special mention: it must track over the toes as it flexes, guided by the hip, because a knee that caves inward concentrates the entire chain's force onto one edge of the joint and the ligaments beside it. That caving pattern is the single most studied landing error in sports medicine, and it is trainable at any age with exactly the drills in this episode. Your level today is the chain's report card. The mistakes are its teacher's comments.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LAND AND FREEZE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "OF STATUE PER LANDING",
+     "pos": "br",
+     "text": "2 SECONDS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "OVER WHEN IT IS STILL"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The chain's final link, stillness, has a drill of its own: land and freeze. Every landing in your training should end in a two-second statue, no steps, no hops, no arm windmills. The freeze exposes what the sound hides: absorptions that end in a stumble were never finished, and the stumble step is where ankles collect their injuries, sideways and unprepared. Balance training raises the freeze budget directly, two minutes of single-leg work a day, and the silence test's level quietly includes it. If your landings sound fine but never freeze, your chain has four links and a rumor. Build the fifth and the level becomes real, because a landing is not over when it is quiet. It is over when it is still.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEAPER LESSONS, MORE REPS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF KNEES AT STAKE",
+     "pos": "br",
+     "text": "DECADES"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE LONGEST RUNWAY"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FIXES CONVERT FASTER WHEN LIGHT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage in landing repair is that mechanics are learned per landing, and your landings are cheaper. Each practice rep costs your joints a force scaled to your mass, so you can rehearse hundreds of correct landings per week while a heavier athlete must ration the same lessons. And because the mistakes are decisions, your lighter frame converts fixes into levels faster: less force to reroute means the corrected chain succeeds sooner, and success is what the nervous system keeps. There is a lifetime arithmetic here too. The athlete who lands quietly from youth keeps the cartilage the loud lander spends, and the light athlete who fixes his five mistakes early owns the longest runway of all. This episode is small, technical and unglamorous. It might also be the most valuable one in the season, measured in decades of knees.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "QUIET LANDINGS",
+   "music": "drive",
+   "narration": "Now we land the right way together. Three rounds: step off low, land quietly, freeze for two seconds like a statue. Chase the hush and the freeze, never the height.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "STIFF, STRAIGHT LEGS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HEELS SLAMMING FIRST"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "KNEES CAVING INWARD"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "LOUD CALLED POWERFUL"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NEVER FREEZING THE LANDING"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The five landing mistakes destroying your shock absorption. Mistake one: landing on straight, stiff legs. Locked joints skip the muscle brakes entirely and hand the force to cartilage at full speed; bend, sink, and let the chain travel. Mistake two: heels slamming down first or flat-footed. That skips the foot and Achilles springs, the chain's opening links; land on the forefoot and let the heel descend like it is landing an aircraft. Mistake three: knees caving inward. The cave concentrates force on one edge of the joint and its ligaments; track the knees over the toes, always, at every height. Mistake four: landing loud and calling it powerful. Noise is force leaving through your joints; in this skill, quiet is the flex and loud is the leak. Mistake five: never freezing the landing. The stumble step after a fine landing is where ankles get injured, so finish every landing in a two-second statue. Fix the five and your level rises within weeks, because the chain was never weak. It was interrupted.",
+   "section": "THE MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "INTERRUPTED, NOT WEAK"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR LEVEL"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A QUIETER PAGE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your level. Level one or two: a broken link is billing your joints, and the five comments above are your repair list, in order of loudness. Level three: the chain works with interruptions; find your worst link and the level climbs quickly, because mechanics move in weeks, not seasons. Level four: trained absorption, the neighborhood your knees want to retire in. Level five: certified silence with a statue's finish, a landing system that will serve you for decades. Put your level in the comments, just the number, and retest in thirty days from the same height, same ground, same freeze rule. The chain keeps its books in levels, and next month we listen for a quieter page.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A HIGHER LEVEL"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same step, same ground, land quiet and freeze. Bring me a higher level and we will raise the height together. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "landing mechanics",
+  "landing mistakes",
+  "shock absorption",
+  "tendon health",
+  "landing technique",
+  "jump landing",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "5 MISTAKES",
+  "hook": "LANDING"
+ },
+ "title": "5 landing mechanics Mistakes That Are Destroying Your tendon shock absorption",
+ "v5": true
+}

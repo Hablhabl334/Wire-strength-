@@ -1,0 +1,413 @@
+{
+ "badge": "EP 703 - THE COMEBACK CODE",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NUCLEI",
+  "YOUR VERDICT"
+ ],
+ "description": "Your max push-ups today versus the best you have ever done: this comeback test reads your muscle memory. Here is the science of muscle nuclei, why they may stay after the muscle shrinks, and why your second build is faster than your first.",
+ "hashtags": [
+  "muscle memory",
+  "comeback test",
+  "myonuclei",
+  "calisthenics",
+  "push-up max"
+ ],
+ "id": "703",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE SET, EVERYTHING"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FORM DIES, SET ENDS"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE BOTH NUMBERS"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Your muscles kept the receipts."
+     ],
+     "pos": "br",
+     "title": "STORED WORK"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE GAP IS THE STORY"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "One set. | Everything you have. | Max push-ups, right now. | Perfect form only. | Chest to the floor. | Arms fully locked. | No sagging hips. | No half reps. | Count out loud. | Stop when form dies. | That is your number. | Now think back. | Your best ever set. | Months ago, years ago. | What was that number? | Write both numbers down. | Today's, and your peak. | The gap between them | is today's real subject. | Most guys see loss. | I see stored work. | Your muscles kept receipts. | At the end | I show you | what the gap means. | And how fast | it closes.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE COMEBACK LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "A NORMAL RETURN POINT",
+     "pos": "br",
+     "text": "50%"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NUMBERS BEAT THE MIRROR"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE ROAD BACK IS SHORTER"
+    }
+   ],
+   "big": "50%",
+   "card": "bignum",
+   "check": 1,
+   "label": "HALF YOUR OLD MAX IS A NORMAL COMEBACK START",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the comeback line. If today you hit half of your old max, you are standing exactly where returning trainees stand, and the research on retraining says this is the most encouraging place in fitness to stand. Under forty percent usually just means the layoff was long and the first weeks back are about rhythm, not damage. Forty to seventy is the standard return window. Over seventy, you barely detrained at all, whatever the mirror told you. The mirror, by the way, is the worst comeback instrument ever made: it compares today's softest angle against your memory's best lighting. The two numbers you wrote down are better. They are data, and data says the road back is shorter than the road there was.",
+   "section": "THE NUMBER",
+   "sub": "under 40%: long layoff - 40 to 70%: standard return - over 70%: barely detrained",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Extra nuclei outlast the shrinkage.",
+      "The staff stays in a smaller office."
+     ],
+     "pos": "tr",
+     "title": "THE NUCLEI STAY"
+    },
+    {
+     "asset": "ren_pushup_top.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A REOPENING, NOT A REBUILD"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BLUEPRINTS ALREADY ON SITE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MEMORY IS STAFFING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "A muscle fiber is a strange cell: enormous, and run by hundreds of command posts called nuclei, each governing its local stretch of fiber. When you trained before, your fibers did something remarkable: they recruited extra nuclei, donated by satellite cells, to manage the growing territory. Then life happened, training stopped, and the fibers shrank. Here is the episode's claim, the one that changes comebacks forever: the evidence suggests those extra nuclei do not leave when the fiber shrinks. They stay, dormant staff in a smaller office, which means the machinery for your old size is still installed. Retraining is not construction from an empty lot. It is a reopening, with the wiring, the staff and the blueprints already on site. That is muscle memory, and it is not a metaphor. It is staffing.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REGAIN RUNS FASTER"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FIRST BUILD",
+       90,
+       "red"
+      ],
+      [
+       "COMEBACK",
+       35,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "TIME TO THE SAME SIZE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "NEURAL, STRUCTURAL, NUCLEAR",
+     "pos": "tr",
+     "text": "3 LAYERS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A DIFFERENT, FASTER PROJECT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The honest science, with its edges showing. Animal studies show nuclei gained during growth persisting through long shrinkage, and human studies of retraining show the pattern you would predict: returning trainees regain strength and size far faster than they first built them, often in a third of the time. Some of that speed is neural, the commander from our drive episode remembering old orders. Some is structural, tendons and skill patterns that never fully left. And some, the evidence increasingly says, is nuclear: fibers that kept their extra command posts can rebuild protein faster from day one. Scientists still argue about how permanent nuclei are in humans, and this channel will not sell you certainty it does not own. But every layer of the evidence points the same direction: a comeback is a different, faster project than a first build.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_45_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SKILL DECAYS SLOWEST"
+    },
+    {
+     "asset": "ren_pushup_front_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Coordination in days.",
+      "Strength in weeks. Size in months."
+     ],
+     "pos": "br",
+     "title": "THE ORDER OF RETURN"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEEK TWO IS THE TRAP"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One more layer, and it is the one you can feel this week. Your nervous system kept its own receipts: the recruitment patterns, the bracing, the timing of a clean push-up were stored as skill, and skill decays far slower than muscle. That is why your first session back feels clumsy for ten minutes and then strangely familiar, like a language you once spoke returning sentence by sentence. Expect the order of return to follow the order of decay in reverse: coordination first, within days; strength next, within weeks, riding the neural wave; visible size last, across one to three months, as the kept nuclei spin production back up. Knowing the order matters because most comebacks die in week two, when strength is rising but the mirror has not moved yet and the trainee concludes it is not working. It is working. It is just working in the order biology scheduled. Notice, too, what the comeback does to your relationship with the numbers themselves. A first-time trainee's max is a hope; a returner's max is a coordinate on a road he has already driven, with the old peak as a surveyed destination rather than a rumor. That is why returners so often look calmer in week two than beginners do: they are not wondering whether the road exists. They are watching distance markers they remember pass by, one session at a time.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_back_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR PEAK WAS BODYWEIGHT-BUILT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "NO RAMP-UP COST TO START",
+     "pos": "br",
+     "text": "DAY ONE"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOU RUN ON EVIDENCE"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FAITH VS RECEIPTS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "If you are skinny and returning, you hold a specific edge: your old peak was built at low bodyweight, which means your stored patterns are bodyweight patterns, perfectly matched to the training you can do anywhere, starting today, with no equipment and no ramp-up cost. The heavy returner often has to rebuild around joints that now carry more load and habits that changed with his size. Your comeback course is the same floor, the same movements, the same numbers to chase, and your nuclei kept the staffing for exactly this work. There is also a psychological edge nobody prices in: you have proof, written in your own history, that your body responds. First-time trainees run on faith. You run on evidence. In a project measured in months, the man with evidence outlasts the man with motivation.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Now we reopen the office. Four rounds: thirty seconds of clean push-ups at a pace you can hold with perfect form, thirty seconds rest. Not a max test, a reminder to the staff that production restarts today.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HALF VOLUME, WEEKLY ADDITIONS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "OLD MOVEMENTS FIRST"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "TENDONS LAG THE NUCLEI"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RETEST EVERY TWO WEEKS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The comeback protocol, four rules. One: start at half your old volume and add a little each week; the nuclei are ready before your tendons are, and the cables, as this channel never stops saying, adapt slower than muscle. Two: train the old movements first, the exact ones your memory is stored in, before inventing new ones; you are reopening a specific factory, not touring the industry. Three: protein and sleep are production inputs now, not lifestyle garnish; a reopening with no supplies stalls at the loading dock. Four: retest the max set every two weeks, same rules, and log it against the old peak. Most returners watch the gap close fastest in the first month, and the log turns that closing into fuel.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "AFTER AND NEXT, NOT BEFORE AND AFTER"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN WE COUNT AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT TODAY'S MAX"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOUR PEAK IS IN STORAGE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. Under forty percent of your old max: a long layoff, nothing more, and the steepest, most satisfying climb in training ahead of you, because early comeback gains arrive weekly. Forty to seventy: the standard return, staff intact, production restarting on schedule; expect the gap to halve within about a month of honest work. Over seventy: you never really left; your body kept almost everything and hid it under a few quiet weeks. In every band, the same truth holds: the two numbers you wrote are not before and after. They are after and next. Your peak is not behind you. It is in storage, staffed, waiting for the reopening order you just gave it. Put today's max in the comments, just the number. In thirty days, we count again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A REOPENED FACTORY"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, same rules, one set to failure with clean form. Bring me a smaller gap and a reopened factory. Subscribe, and keep both numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "muscle memory",
+  "muscle nuclei",
+  "myonuclei",
+  "comeback training",
+  "push-up max test",
+  "calisthenics science"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_mid.webp",
+  "big": "2-3X",
+  "hook": "REGAIN, NOT REBUILD"
+ },
+ "title": "Why Your muscle nuclei Matter More Than Muscle (The muscle memory Episode)",
+ "v5": true
+}

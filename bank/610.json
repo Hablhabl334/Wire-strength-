@@ -1,0 +1,390 @@
+{
+ "badge": "EP 610 - THE REMATCH",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "EVERY SYSTEM REPORTS",
+  "YOUR VERDICT"
+ ],
+ "description": "The rematch is the retest of retests: the full original battery, hang, push-ups, wall sit and jump, run again in one session against your first-ever numbers. Every system you have trained reports on the same day. Old you versus new you, no hiding behind a single good test.",
+ "hashtags": [
+  "the rematch",
+  "full retest",
+  "old vs new",
+  "every system",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "610",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY TEST, ONE SESSION"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "DAY-ONE YOU",
+     "pos": "br",
+     "text": "ONE OPPONENT"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LINE ONE: THE PRESS"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "IT WILL NOT TIE",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Today is the rematch. | Every test you took | comes back at once. | The hang, the push-ups, | the wall sit, the jump. | One session, no mercy. | Against one opponent: | the man from day one. | We start with pressing. | Same floor, strict reps. | Chest down, full lockout. | Count them honestly. | Stop at true failure. | That is your first line. | Then the bar waits. | Then the wall. | Then the jump marks. | Four lines, one day. | At the end | I tell you | the final score | of old you versus you. | And it will not tie. | Down on the floor. | The rematch starts now.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE RETEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FOUR ROUNDS, HEAD TO HEAD"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE REMATCH IS YOURS",
+     "pos": "br",
+     "text": "3 OF 4"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "A LOSS IS A COORDINATE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "4 ROUNDS",
+   "card": "bignum",
+   "check": 1,
+   "label": "OLD YOU VS NEW YOU",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the scoring, because a rematch needs rules or it is just exercise. Four lines, four head-to-head rounds: your new hang against your first hang, new push-ups against first push-ups, new wall sit against the original, new jump against the first marks on the wall. Win a line by beating your old number under the original rules, same bar, same depth, same wall, same honest counting. Win three of the four and the rematch is yours: the season produced a measurably stronger athlete, full stop. Win all four and something rarer happened, every system got loaded, nothing got skipped, and the athlete who showed up today is not an improved version of the day-one man, he is a different one. Lose a line and the loss is not a disgrace, it is a coordinate: it marks the exact system your next block belongs to. A rematch is not a celebration with a scoreboard. It is an audit with a pulse, and the pulse is what makes you read the audit.",
+   "section": "OLD VS NEW",
+   "sub": "win 3 of 4 lines: the rematch is yours - win all 4: a different athlete showed up",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "No borrowing by the third test.",
+      "What remains is the foundations."
+     ],
+     "pos": "tr",
+     "title": "ONE ENGINE, FOUR TESTS"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOUR STANDARD DAY, MEASURED"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "LIFE IS LIVED ON STANDARD DAYS",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why run all four on one day, when each has its own retest episode? Because the rematch measures the thing the single retests cannot: whether the systems share one engine. Every test you own draws on the same three foundations, tendon stiffness, nerve recruitment, and the willingness to stay in the hard middle of an effort. In the single tests, a great day for one system can borrow confidence from nowhere and spike a number. In the rematch, there is no borrowing: by the third test, your nervous system is carrying the fatigue of the first two, your grip is warm, your legs are honest, and what remains is the true level of the foundations themselves. That is why coaches love batteries and athletes fear them. The rematch number, your total across four tired tests, is the closest thing this channel can measure to your actual, portable, any-day strength. Not your best day. Your standard day. And standard days are the ones your life is actually lived on.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ADAPTATION IS SPECIFIC"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FRESH TESTS",
+       100,
+       "cyan"
+      ],
+      [
+       "THE REMATCH",
+       78,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "ALONE VS TOGETHER"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FATIGUE IS GENERAL"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE SECOND COLUMN COUNTS",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science of the battery says something the single tests whisper: adaptation is specific, but fatigue is general, and the gap between those two facts is where real capability lives. Your tendons adapted to exactly the loads you gave them, hang tension in the hands, sit tension in the knees, spring tension in the ankles, pressing tension in the elbows and shoulders. Nothing crossed over for free. But the fatigue you feel by the jump, the last test, is whole-body and whole-nerve, and performing there, tired, coordinated, still honest, is a trainable quality of its own, the quality every sport and every physical job actually purchases. Research on repeated-effort performance shows it improves with exactly this kind of varied, accumulated work, and decays the moment training becomes one comfortable test repeated forever. So read the rematch in two columns: what each system built alone, and what all of them built together. The second column is smaller, harder, and worth more. It is the column your future self will spend.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE ORDER OF FAILURES"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "stat",
+     "label": "IN FAILURE ORDER",
+     "pos": "br",
+     "text": "A BIOGRAPHY"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE WEAKEST CHAPTER IS NEXT",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the deepest reading of the rematch, the one that takes a season to earn. Compare not the totals but the order of your failures. On day one, your battery probably ended the same way for everyone: the grip went first, the legs burned second, and the jump was a rumor by the time you reached it. Watch today's order. If the hang now outlasts the press, your season was a tension season. If the wall sit became your strongest line, your knees' tendons took the most honest loading of your life. If the jump, performed last and tired, still beat its fresh day-one mark, your spring improved so much that fatigue could not hide it, and that is the single most athletic sentence your record can contain. The order of failures is a biography of your training written in the only order that cannot be edited afterward. Anyone can claim a balanced season. The rematch prints the table of contents, and the weakest chapter is always, helpfully, the one the next season gets to be about.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEAPER ROUNDS, FASTER CLEARING"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "HELD TOGETHER",
+     "pos": "br",
+     "text": "FOUR ROUNDS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "DISAPPOINT DAY-ONE YOU",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HE CANNOT TRAIN"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in a rematch is recovery arithmetic, and it is quietly decisive. Between tests, the systems that clear fatigue fastest get to perform closest to their true level, and a light body clears the costs of bodyweight work faster: less mass moved in every press and sit means less total damage to recover from while the battery is still running. The heavy athlete's rematch degrades test by test, each round paying interest on the last. Yours holds together, round after round, because each round was cheaper for you to buy. This is the same edge that made your weekly volume higher all season, compressed into a single morning where everyone can see it. And there is a morale edge that should not be underestimated: you have been the underdog in every comparison the world offered you, except this one, because this one's opponent is the only man on earth you are guaranteed to be able to beat with honest work. Day-one you cannot train. He cannot load a single tendon. He can only wait at the finish line with his numbers, hoping you stayed like him. Show up and disappoint him.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "check": 3,
+   "exercise": "WALL SIT",
+   "music": "drive",
+   "narration": "Now we train like the rematch taught us. Three rounds of wall sits, sixty seconds on, forty five off, back flat, knees at ninety. One system at a time, full honesty. The next rematch starts here. Go.",
+   "rest": 45,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 60
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "THE LOST LINE GETS THE BLOCK",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WON LINES: MAINTENANCE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "SCHEDULE IT NOW",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "FIT FOR TESTS, TIRED FOR LIFE",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol after a rematch is triage, and triage has rules. Rule one: the line you lost gets the next block. Not the line you enjoyed, not the line that photographs well, the lost one, trained first in the week and first in the session while everything is fresh. Rule two: the lines you won go to maintenance, one or two honest sessions a week, because a won system keeps its gains on a fraction of the work that built them, and the freed recovery is the budget the lost line will spend. Rule three: schedule the next rematch now, a full season out, same order, same rules, written in the log before this week's motivation cools. And bury the post-rematch mistake: celebrating by testing everything again next week to watch the numbers. The rematch is a season's report, not a weekly habit, and a battery run too often becomes the training instead of the measurement of it, which is how athletes end up fit for tests and tired for life.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EIGHT NUMBERS, TWO DATES"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE REMATCH RETURNS",
+     "pos": "br",
+     "text": "NEXT SEASON"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR SCORE",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEAT THEM BOTH"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the final score, and its verdict. Win the rematch three lines to one or better, and the season is certified: not by a coach, not by a mirror, but by the only opponent whose numbers you cannot argue with, because you set them yourself on day one. Win it narrowly, two lines with two close losses, and you have the most coachable result in sport: proof of progress with the coordinates of the remaining work printed on the same page. Lose it, and read the loss the way this channel reads every number: as a loading report, not a character report. The systems that lost were underloaded, and underloading is the most fixable diagnosis in training. Write all eight numbers down, four old, four new, both dates, and put your score in the comments, just the lines: three one, four zero, whatever it honestly was. The next rematch is a season away, same order, same rules. Day-one you will still be waiting at the finish line. So will today's you. Beat them both.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REMATCH NEXT SEASON"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "NOT CLOSE",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "One season from now, same four tests, same order, same honest rules. Bring me a rematch that is not close. Subscribe so the day finds you loaded in every system. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "the rematch",
+  "full battery retest",
+  "every system",
+  "old vs new",
+  "retest",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_mid.webp",
+  "big": "REMATCH",
+  "hook": "EVERY SYSTEM"
+ },
+ "title": "Your New Number: The the rematch Retest Nobody Does",
+ "v5": true
+}

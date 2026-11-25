@@ -1,0 +1,394 @@
+{
+ "id": "761",
+ "v5": true,
+ "title": "Your Shake Test Reveals Your Hidden Strength",
+ "description": "The shake is the skinny guy's oldest tool: calories you can drink when food stops fitting. Build your shake, count its real number, and learn what a proper glass can carry.",
+ "tags": [
+  "shake test",
+  "gaining shake",
+  "homemade mass shake",
+  "liquid calories",
+  "skinny guy shake recipe",
+  "drink your calories",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "gaining shake",
+  "liquid calories",
+  "shake test",
+  "gaining",
+  "calisthenics",
+  "mass shake"
+ ],
+ "category": "gaining",
+ "badge": "EP 761 - SHAKE: THE TEST",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE GLASS",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_grip_squeeze.webp",
+  "big": "600+",
+  "hook": "DRINK THE SURPLUS",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today we test the glass. | Build your usual shake. | The one you actually make. | Not the fantasy recipe. | Now price it honestly. | Milk, oats, nut butter, fruit, | powder, honey. | Add every ingredient's calories. | And its protein grams. | Write both numbers down. | That is your shake's truth. | Second, max strict push-ups. | Floor to lockout, clean. | Count the honest reps. | That is your second number. | Keep the pair together. | At the end I tell | you what your glass is | carrying. | Most shakes are juice wearing | a costume. | A real one is a | meal that forgot to be | solid. | Let us weigh yours.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "PRICE YOUR SHAKE",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "CALORIES + PROTEIN",
+     "label": "BOTH NUMBERS",
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "chip",
+     "text": "MEAL OR COSTUME?",
+     "pos": "tr",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 22
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "600+",
+   "label": "CALORIES IN A SHAKE THAT COUNTS AS A MEAL",
+   "sub": "under 300: a drink, not a delivery - 600 plus with 30 g protein: a meal in a glass",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the line for your glass. A shake earns the title meal when it carries six hundred calories or more with around thirty grams of protein, roughly what a solid gaining lunch delivers. Under three hundred calories, which describes most flavored milk and powder-in-water concoctions, the shake is a drink: pleasant, harmless, and irrelevant to your surplus. Between three hundred and six hundred it is a useful snack that still needs a partner. The ingredients decide everything, and the math is not close: powder in water is a protein drink, while milk, oats, banana, and two spoons of nut butter turn the same glass into the easiest seven hundred calories of a skinny guy's day. Your push-up number tells us what the engine is doing with deliveries like this one.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "MEAL OR DRINK?",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "600+",
+     "label": "THE MEAL LINE",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "INGREDIENTS DECIDE",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "EASIEST 700 OF THE DAY",
+     "pos": "br",
+     "at": 27
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "Why do liquids work where solid food stalls? Because fullness is partly mechanical. The stomach reads volume and stretch, and a blended meal passes through faster than the same ingredients chewed as a solid plate, freeing room hours sooner. Blending also pre-breaks the food's structure, giving digestion a head start. The result is a loophole in the appetite system: energy that arrives with less of the stuffed feeling that suppresses the next meal. This is not a trick to abuse at every meal, because chewing and solid food carry their own benefits and satisfactions. It is a tool for the specific wall every gainer hits, the moment the day still owes four hundred calories and the stomach has officially closed. The glass goes where the plate cannot. A pricing footnote for the skeptical: the homemade glass costs a fraction of any bought mass gainer, and you can read every ingredient on its label because the label is your own shopping list. In a category built on proprietary blends, the blender is a radical act of transparency.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "THE APPETITE LOOPHOLE",
+     "lines": [
+      "Liquids empty faster.",
+      "Room returns hours sooner."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_balance_test.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "WHERE THE PLATE CANNOT",
+     "pos": "br",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "A TOOL, NOT A DIET",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science of liquid calories carries one warning and one reassurance. The warning, from appetite research: calories drunk are generally less filling per calorie than calories chewed, which is precisely why they help gainers and hinder dieters. The reassurance: in gaining studies and decades of practice, a daily homemade shake is the single most reliable surplus tool for light eaters, because it removes the day's hardest eating moment and replaces it with two minutes of drinking. Reliability is the metric that matters. A perfect meal plan you follow four days a week loses to a good shake you drink seven days a week, and the shake's ingredients are cheap, shelf-stable, and identical every time, which makes its number the most trustworthy number in your whole diet. The warning has a mirror image worth hearing: because liquid calories under-fill, they must be added to a day, never swapped into it. The man who replaces lunch with a shake has performed expensive maintenance. The man who adds the shake to lunch has performed gaining. Same glass, opposite results.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RELIABILITY IS THE METRIC",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "SURPLUS TOOLS, RANKED BY STICKING",
+     "items": [
+      [
+       "PERFECT MEAL PLAN",
+       55,
+       "gold"
+      ],
+      [
+       "DAILY HOMEMADE SHAKE",
+       90,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "SEVEN DAYS BEATS FOUR",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "CHEAP AND IDENTICAL",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "Go deeper and the shake reveals its second job: it is the gainer's insurance policy. Every week contains the day when lunch was missed, work ran late, and dinner alone cannot carry the total. Men without insurance end those days in deficit and call it a plateau. Men with a shake ritual, same glass, same time, often right after training or before bed, end those days near target without thinking. Insurance is boring until the day it pays out, and in gaining it pays out weekly. There is also a training dividend: a shake after a hard session is the one post-workout meal nobody is too tired to make, because making it is pouring and blending. The tired man's meal is the one that exists, and the blender makes existence easy.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE INSURANCE POLICY",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "WEEKLY",
+     "label": "IT PAYS OUT",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "SAME GLASS, SAME TIME",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "THE TIRED MAN'S MEAL",
+     "pos": "br",
+     "at": 28
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage with the glass is portion honesty: your surplus is small enough to fit inside it entirely. A heavier gainer needs the shake plus heroic meals. You need your ordinary day plus one real shake, and the day is suddenly a gaining day, repeatable in a dorm, an office, or a kitchen the size of a closet. The shake also scales with you: as your weight and target climb, a second spoon of nut butter raises the glass by two hundred calories without changing the ritual. Tools that scale without new habits are rare. Most gaining advice demands more time, more cooking, more appetite. The shake demands a blender and ninety seconds, which is why it survives contact with real life longer than any meal plan ever printed.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "SURPLUS IN ONE GLASS",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "90 SEC",
+     "label": "TO MAKE IT",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "SCALES WITHOUT NEW HABITS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "SURVIVES REAL LIFE",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pushup_top.webp",
+   "exercise": "PUSH-UP SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Earn the glass first. Four rounds of push-ups, forty seconds on, twenty off. Strict form, full range, stop two reps before failure. Training makes the order. The shake, waiting in the kitchen, is the delivery truck with its engine running.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The protocol for a shake that counts, four rules. One: build it on a liquid base with calories, whole milk or a fortified alternative, never water, because the base is half the payload. Two: the formula is base plus oats plus fruit plus nut butter plus a protein anchor, powder or Greek yogurt, and you write your version's true calories and protein on the fridge. Three: fix its time, after training or as the day's final feeding, so it happens on bad days by ritual rather than by decision. Four: if the scale stalls for two weeks, upgrade the glass before upgrading anything else, one ingredient step at a time. The shake is your surplus's steering wheel. Small turns, made once, steer every day that follows.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "CALORIE BASE, NOT WATER",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "WRITE ITS TRUE NUMBER",
+     "ok": true,
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "FIXED TIME, BY RITUAL",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "POWDER IN WATER",
+     "ok": false,
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. A shake under three hundred with modest push-ups: your glass is a costume and your engine is underfed, so rebuilding the recipe is this week's whole assignment. A real meal-shake but low push-ups: the delivery is solved and the orders need intent, so training gets your focus while the ritual runs itself. A costume shake but strong push-ups: you are the engine outrunning its fuel line, and your ceiling lifts the week the glass becomes a meal. A meal-shake and climbing push-ups: the system is complete, deliveries and orders both working, so protect the ritual and retest in thirty days. Comment your shake's calories and protein, plus your push-up number. A shake recipe with honest numbers is the most useful comment in gaining. If your glass priced out embarrassingly low, you are in the majority and in luck. No episode in this season offers a bigger upgrade for less money than turning flavored milk back into a meal.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 5
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN RETEST",
+     "pos": "br",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT THE RECIPE NUMBERS",
+     "ok": true,
+     "pos": "tr",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, price the same glass and push the same test. Bring me a heavier shake and a bigger number. Subscribe, and let the blender run daily until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "BLENDER RUNS DAILY",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

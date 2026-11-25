@@ -1,0 +1,394 @@
+{
+ "id": "756",
+ "v5": true,
+ "title": "Your Grocery Test Reveals Your Hidden Strength",
+ "description": "Gaining is decided in the grocery store before it is decided in the kitchen. Carry the test, audit your cart, and learn the shopping numbers that separate men who gain from men who intend to.",
+ "tags": [
+  "grocery test",
+  "gaining grocery list",
+  "shopping for muscle",
+  "skinny guy groceries",
+  "what to buy to gain",
+  "calorie dense foods",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "grocery list",
+  "gaining food",
+  "shopping test",
+  "skinny to strong",
+  "calisthenics",
+  "muscle food"
+ ],
+ "category": "gaining",
+ "badge": "EP 756 - GROCERY: THE TEST",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CART",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_farmer_carry.webp",
+  "big": "1 TRIP",
+  "hook": "THE CART DECIDES",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today the test is a | carry. | Two heavy bags, or buckets. | Grip them and walk. | Forty paces, turn, return. | Count your full laps. | Before the grip gives out. | That is your first number. | Second, audit your cart. | Last grocery trip, honestly. | How many foods were dense? | Dense enough to gain on. | Count them on one hand? | That is your second number. | Keep the pair together. | At the end I tell | you why the cart decides | first. | Kitchens cannot cook what stores | never sold you. | Most gaining dies upstream, | in an aisle, quietly. | Let us read your cart.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "CARRY, THEN AUDIT",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "FULL LAPS",
+     "label": "BEFORE GRIP DIES",
+     "pos": "br",
+     "at": 9
+    },
+    {
+     "kind": "chip",
+     "text": "DECIDED UPSTREAM",
+     "pos": "tr",
+     "at": 14
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 20
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "1 TRIP",
+   "label": "ONE WEEKLY TRIP THAT COVERS THE WHOLE WEEK",
+   "sub": "cart of intentions: the week runs dry by thursday - cart with a list: food is simply there",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the line your cart is graded against. One planned trip a week, built from a written list, that stocks enough calorie-dense food to cover seven days of gaining. That is the whole standard, and most skinny guys fail it in a specific way: the trip happens when the fridge is already empty, the list lives in their head, and the dense foods, the oils, nut butters, cheeses, whole milk, oats, and fatty meats, are bought in quantities sized for a dieter. By Thursday the house contains only light food, and light food cannot build a surplus no matter how much of it you heroically eat. The week does not fail at dinner. It fails in the aisle, five days earlier, at the moment the cart rolled past the dense shelf.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE AISLE DECIDES",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "7 DAYS",
+     "label": "COVERED PER TRIP",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "WRITE THE LIST",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "THURSDAY RUNS DRY",
+     "pos": "br",
+     "at": 27
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "The mechanism is about friction, and friction rules eating more than willpower ever will. Every meal you eat this week will be assembled from what is already in your house at the moment hunger arrives. If the dense ingredients are present, the meal can be dense. If they are not, the meal becomes whatever light food exists, and no amount of motivation cooks food that is not there. This is why environment beats intention in every eating study ever run: people eat what is near, visible, and easy. The grocery trip is therefore not errand work. It is the weekly act of programming your future meals. A strong cart is a week of decisions made once, calmly, in advance. A weak cart is seven days of decisions left to your tiredest evening self. The trip also decides your protein before any recipe does. If the anchors are not in the house, no technique rescues the week, because technique works on ingredients, not intentions. This is why experienced gainers guard the weekly trip the way athletes guard a training session: it is one, just held in a store.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "FRICTION RULES EATING",
+     "lines": [
+      "Meals are built from what's home.",
+      "The cart programs the week."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_farmer_carry.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "ENVIRONMENT BEATS INTENTION",
+     "pos": "br",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "DECIDE ONCE, CALMLY",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pinch_hold.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science of the cart comes down to one concept: calorie density, the energy packed into each bite. Watery, fibrous foods fill the stomach at low energy, which is wonderful for dieters and a trap for gainers. Dense foods deliver two or three times the energy in the same stomach space. The research on ad libitum eating, where people eat until satisfied, shows total intake tracks density almost mechanically: raise the density of what is available and intake climbs without any extra effort or discomfort. Your grip test at the start was not a metaphor, by the way. Carrying a week's dense groceries home is genuinely work, and the men who gain tend to be the men whose kitchens are stocked like small warehouses, not like magazine photos. A word on the fresh trap: carts full of beautiful fresh food that spoils by Friday are a light cart in disguise. Frozen and shelf-stable dense foods are not a compromise. They are how the density survives until the day it is actually eaten.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "DENSITY DRIVES INTAKE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "ENERGY PER FULL PLATE",
+     "items": [
+      [
+       "LIGHT FOODS",
+       40,
+       "gold"
+      ],
+      [
+       "DENSE FOODS",
+       95,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "STOCK LIKE A WAREHOUSE",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "NO EXTRA DISCOMFORT",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "One layer deeper: the cart has a second job, protecting the plan from your worst day. Every week contains a day when work runs late, training runs long, and cooking feels impossible. On that day, the gainer with shelf-stable dense food at home, nut butters, oats, UHT milk, trail mix, cheese, eats a lazy nine hundred calories without cooking anything. The gainer without it eats toast. Over a month, the difference between those two worst-days, repeated weekly, is most of the difference between gaining and maintaining. Professionals call this redundancy. Cooks call it a pantry. On this channel we call it what it is: the difference between a plan that survives real life and a plan that only survives good weeks.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE WORST DAY TEST",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "900 KCAL",
+     "label": "WITHOUT COOKING",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "BUILD THE PANTRY",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "GOOD WEEKS LIE",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage at the store is the same one you have at the protein target: your numbers are smaller. A sixty-five kilo gainer's weekly surplus shopping adds a modest list to a normal cart, a few dense staples and one extra protein anchor per day. The two hundred pound man attempting the same rate of gain hauls a second cart. There is also a budget truth worth saying aloud: the cheapest calories in the entire store are the gainer's staples, oats, rice, milk, eggs, peanut butter, bananas, oil. Gaining food is peasant food, priced accordingly. The expensive way to gain is the supplement aisle, and the cheap way is the boring middle of the store, where your cart should live.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "SMALL NUMBERS, SMALL CART",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "CHEAPEST AISLE",
+     "label": "THE BORING MIDDLE",
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "PEASANT FOOD, PRICED SO",
+     "ok": true,
+     "pos": "tr",
+     "at": 17
+    },
+    {
+     "kind": "chip",
+     "text": "SKIP THE POWDER AISLE",
+     "pos": "br",
+     "at": 24
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_farmer_carry.webp",
+   "exercise": "FARMER CARRY",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Now carry like you shop. Four rounds of farmer carries, forty seconds on, twenty off. Heaviest bags or buckets you can hold with straight posture. Grip honest, shoulders down. This is the test and the training in one.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The protocol is a shopping system, four rules. One: the same trip, same day weekly, from a written list that lives on your phone and only gets edited at home. Two: build the list in three blocks, protein anchors for seven breakfasts and dinners, dense staples for the pantry, and the fresh foods you actually enjoy. Three: buy the pantry block in bulk whenever it is cheap, because oats and nut butter do not expire on your schedule. Four: the Thursday rule, a two-minute fridge audit midweek, and a small top-up trip if the dense food is running dry, instead of discovering the empty shelf at dinner. Shop like this for a month and the kitchen problem mostly solves itself.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "WRITTEN LIST, SAME DAY",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "THREE BLOCKS",
+     "ok": true,
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "THURSDAY AUDIT",
+     "ok": true,
+     "pos": "tr",
+     "at": 17
+    },
+    {
+     "kind": "mark",
+     "text": "SHOPPING FROM MEMORY",
+     "ok": false,
+     "pos": "br",
+     "at": 24
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_farmer_carry.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. Strong carry but a light cart: your body is ready and your supply chain is not, the happiest diagnosis in gaining, fixed by one list. Dense cart but a weak carry: the food is arriving and the engine needs building, so training intent is your lever this month. Weak carry and a light cart: start at the store anyway, because food fuels the training that builds the carry, and the order matters. Strong carry, dense cart, and a stocked pantry: your system is a gainer's system, protect the weekly rhythm and retest in thirty days. Comment your laps and your dense-food count. The cart number is the most honest gaining statistic nobody posts. And if the carry surprised you more than the cart did, note that too. Grip is a gaining tool in its own right: the man who can carry the week's food home without thinking about it has one less friction between intention and dinner.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 5
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN RETEST",
+     "pos": "br",
+     "at": 14
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr",
+     "at": 23
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, same carry, same cart audit. Bring me fuller bags and a longer walk. Subscribe, and let the weekly trip run like clockwork until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "ONE TRIP, WEEKLY",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

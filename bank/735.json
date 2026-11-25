@@ -1,0 +1,392 @@
+{
+ "badge": "EP 735 - BREAKFAST MISTAKES",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE 5 MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Breakfast is where skinny guys lose the day before it starts. Five mistakes destroy morning appetite: skipping entirely, coffee first, sugar-only starts, the tiny polite breakfast, and weekend lie-ins. Test the biggest breakfast you can finish and rebuild the morning.",
+ "hashtags": [
+  "breakfast problem",
+  "morning appetite",
+  "big breakfast",
+  "hardgainer",
+  "weight gain"
+ ],
+ "id": "735",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WITHIN AN HOUR OF WAKING"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EAT TO HONESTLY FULL"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 23,
+     "kind": "fact",
+     "lines": [
+      "A small start caps the whole day's total."
+     ],
+     "pos": "br",
+     "title": "THE MORNING SETS THE CEILING"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Tomorrow morning, run this test exactly once. Within an hour of waking, sit down to a real breakfast, eggs, oats with milk, bread, cheese, whatever a full breakfast means in your house, and eat calmly until you are genuinely full, not stuffed, not performing, just honestly full. Then price what you ate in calories. That number, the size of the breakfast you can actually finish in the morning, is your test result. Most skinny guys land somewhere between two and three hundred calories, a token breakfast, and then wonder why the day's total never reaches surplus by bedtime. Keep your number. At the end I will show you the bands, and the five mistakes that keep morning appetite small while the rest of the day blames itself.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE HEAD START RULE"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "THE BUILDING BREAKFAST",
+     "pos": "br",
+     "text": "500 KCAL"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STOP CHASING FROM BEHIND"
+    },
+    {
+     "at": 37,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ORDINARY MEALS CAN FINISH IT"
+    }
+   ],
+   "big": "500 KCAL",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE BREAKFAST A GAINING DAY IS BUILT ON",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Five hundred calories is the breakfast a gaining day is built on. Under three hundred, your morning is a token: polite, present, and far too small to matter, leaving lunch and dinner to perform a miracle they rarely perform. Between three and five hundred, the day has a fighting chance. Above five hundred, eaten within the first hour or two, the whole arithmetic of the day changes: you need only ordinary meals afterward to land in surplus. Think of the day as a race with a head start available every morning. The guys who gain take the head start. The guys who stall spend the day chasing calories from behind, arriving at bedtime three hundred short, again, and calling it a fast metabolism. There is a compounding detail in the head start worth naming. The man who banks five hundred by eight in the morning can afford an ordinary lunch and an ordinary dinner. The man who banks nothing must make one of those meals extraordinary, and extraordinary meals are the ones that get skipped on busy days. Breakfast is where surplus goes to become ordinary, and ordinary is what survives a year.",
+   "section": "THE NUMBER",
+   "sub": "under 300: a token breakfast - 500+: the day starts in surplus territory",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Skip breakfast and the day shrinks.",
+      "Eat early and every meal gets room."
+     ],
+     "pos": "tr",
+     "title": "THE WINDOW EFFECT"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 17,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GHRELIN LEARNS THE MORNING"
+    },
+    {
+     "at": 35,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LOW BY DESIGN, TRAINABLE BY HABIT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the hidden system the mistakes are breaking. Morning appetite is low by design: after the overnight fast, your stomach has shrunk to its resting state and hunger hormones sit near their daily floor. But the system is trainable and rhythmic. Eat soon after waking and you set the day's first anchor: ghrelin learns to rise before breakfast, the stomach stretches early, and every later meal lands on a system that has been awake and working for hours. Skip breakfast and the opposite rhythm forms: the first meal slides to noon, the eating window shrinks to eight hours, and three hundred missing morning calories must be found inside a smaller day. The breakfast problem is not really about breakfast. It is about the size of the window your whole day must fit inside. One more piece of the morning machinery: the stomach's first stretch of the day appears to set a reference the later meals are compared against. An early, real stretch makes the second meal's arrival feel normal sooner. Skip it, and lunch meets a stomach still in its overnight posture, which is part of why skipped-breakfast days so often feature a strangely small lunch too.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "START THE CLOCK EARLIER"
+    },
+    {
+     "at": 12,
+     "items": [
+      [
+       "SKIPPED MORNING",
+       2100
+      ],
+      [
+       "500 KCAL START",
+       2500
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 18,
+     "kind": "swap"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "UNSCHEDULED, NOT ABSENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Compare two identical men on two identical days, differing only in the morning. The first skips breakfast, has coffee, and eats at noon, three, and eight: three decent meals totaling about twenty-one hundred calories, a maintenance day. The second eats five hundred at seven thirty, then the same three meals, slightly smaller because he is less ravenous, totaling twenty-five hundred. The second man did not eat more meals or suffer more fullness. He simply started the clock earlier, and his appetite, trained by two weeks of mornings, began asking for breakfast before the alarm finished ringing. Appetite research and every coach's notebook agree on the mechanism: regular morning eating entrains morning hunger. The appetite you swear you do not have at seven a.m. is mostly an appetite you never scheduled.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COFFEE AFTER FOOD"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SUGAR-ONLY STARTS CRASH"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PROTEIN + FAT WALKS IN CALMLY"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "The first hour writes the day's appetite script."
+     ],
+     "pos": "br",
+     "title": "DELICATE MACHINERY"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Mistakes two and three deserve a close look, because they masquerade as innocence. Two: coffee first. Caffeine genuinely blunts appetite for an hour or two, so the man who drinks coffee on waking and plans to eat later is chemically postponing his own breakfast, often past the point where the morning allows it. Eat first, or at least with, the coffee. Three: the sugar-only start, juice and a pastry, which spikes and crashes blood sugar and leaves a strange hollow hunger that is somehow also an aversion to real food. A breakfast with protein and fat walks in calmly and stays. The morning is delicate machinery. Feed it like you respect it.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE HIGHEST-LEVERAGE MEAL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE EASIEST BIG ASK",
+     "pos": "br",
+     "text": "500 KCAL"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MOVES THE WHOLE DAY"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRAINS TOMORROW'S APPETITE TOO"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the skinny advantage at breakfast, and it surprises people. You need the smallest surplus in the gym, which means your breakfast target, five hundred calories, is the easiest big breakfast anyone is asked to eat: oats with milk and peanut butter, or eggs, bread, and cheese. No force-feeding, no thousand-calorie challenges. And the payoff is doubled for you, because the morning meal also trains the appetite system you will rely on for every future kilo. The big guy's breakfast is maintenance theater. Yours is a lever that moves the whole day. Small target, daily repetition, total-day consequences. Breakfast is the highest-leverage meal a skinny guy owns.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "check": 3,
+   "exercise": "MORNING PRIMER",
+   "music": "drive",
+   "narration": "Prime the morning with me. Four rounds of easy squats, forty seconds on, twenty off, light and loose, the moment you get up. Movement tells the body the day has started. Then breakfast, within the hour, like you mean it.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WITHIN THE HOUR, DAILY"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ADD 50 KCAL A WEEK"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "COFFEE AS BREAKFAST"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "WEEKEND LIE-IN COLLAPSE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Rebuild the morning with five fixes. One: eat within an hour of waking, every day, weekends included; the rhythm is the training. Two: food before or with coffee, never coffee as the breakfast. Three: build the breakfast from protein and fat plus an anchor: eggs and cheese on bread, or oats with milk and peanut butter. Four: start at the size you can finish, even three hundred, and add fifty calories a week; morning appetite grows like any other trained thing. Five: prepare it the night before, because a breakfast that requires morning decisions loses to the snooze button. Thirty days of this and the test number moves, and with it, the whole day's arithmetic. If mornings are rushed, steal the professional trick: assemble the breakfast the night before, oats soaking in milk in a jar, eggs boiled, bread and cheese portioned. The morning then contains zero decisions, only eating. Decision-free mornings are the ones that survive contact with real life.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR NUMBER"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THEN RETEST THE MORNING",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR BREAKFAST"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MORNING IS THE LEAK"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Read your number. Under three hundred: your morning is the leak, and fixing it is worth more than any dinner upgrade. Three to five hundred: you are one anchor food away from a building breakfast; add the oats, the eggs, the cheese. Above five hundred within the hour: your morning is genuinely handled, so your missing calories hide later in the day. Retest in thirty days, same rules, first hour, honest full. Comment your breakfast number and what it consisted of. The replies will become the best breakfast menu on this channel.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "START THE RACE AHEAD"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same test, first hour of the day. Bring me a breakfast that starts the race ahead. Subscribe, and keep today's number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "breakfast for weight gain",
+  "morning appetite",
+  "skinny guy breakfast",
+  "big breakfast",
+  "gain weight breakfast",
+  "appetite morning",
+  "hardgainer breakfast"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_horse_stance.webp",
+  "big": "500 KCAL",
+  "hook": "WIN THE MORNING"
+ },
+ "title": "5 the breakfast problem Mistakes That Are Destroying Your morning appetite",
+ "v5": true
+}

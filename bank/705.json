@@ -1,0 +1,413 @@
+{
+ "badge": "EP 705 - BORROWED DRIVE",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE BLOCKADE",
+  "YOUR VERDICT"
+ ],
+ "description": "Your max push-up set at your normal coffee time: this test measures what caffeine actually lends your nervous system. Here is the adenosine blockade explained, the studied dose range, the tolerance trap, and how to borrow drive without paying for it in sleep.",
+ "hashtags": [
+  "caffeine test",
+  "nerve stimulants",
+  "adenosine",
+  "calisthenics",
+  "push-up max"
+ ],
+ "id": "705",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR NORMAL DOSE ONLY"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE SET TO FAILURE"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE DOSE AND REPS"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Caffeine lends. It never gives."
+     ],
+     "pos": "br",
+     "title": "BORROWED, NOT BUILT"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO NUMBERS, ONE DRUG"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Your normal coffee. | Your normal time. | Nothing fancy today. | Wait thirty minutes. | Then one max set. | Push-ups to failure. | Perfect form only. | Chest to the floor. | Arms fully locked. | Count every rep. | Stop when form dies. | Write the number down. | Also write the dose. | Cups, cans, milligrams. | Whatever you normally take. | And one more thing. | Yesterday's number, | your last max set | without thinking about it. | If you have one. | Two numbers, one drug. | At the end | I tell you | what caffeine really did. | And what it costs.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE STUDIED RANGE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE TYPICAL REAL EFFECT",
+     "pos": "br",
+     "text": "FEW %"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MODEST AND REAL"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RITUAL IS NOT PHARMACOLOGY"
+    }
+   ],
+   "big": "3-6 MG/KG",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE DOSE RANGE THE STUDIES ACTUALLY USED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the dose line. Most of the research showing real effects on strength and muscular endurance used three to six milligrams of caffeine per kilogram of bodyweight, taken about an hour before the effort. For a sixty-kilo man that is one hundred eighty to three hundred sixty milligrams: a strong coffee or two, not a gentle cup of tea. At those doses the typical finding is modest and real: a few percent more strength, a few more reps, a clear drop in how hard the work feels. Below one milligram per kilo, most of the effect is ritual and expectation, which are not nothing, but they are not pharmacology. Your max set today, measured against your normal training, is how you find out which side of the line your habit lives on.",
+   "section": "THE NUMBER",
+   "sub": "typical finding: a few percent on strength and reps - under 1 mg/kg: mostly ritual",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Caffeine covers the fatigue gauge.",
+      "The tiredness is still there."
+     ],
+     "pos": "tr",
+     "title": "THE BLOCKADE"
+    },
+    {
+     "asset": "ren_pushup_front_top.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE GAUGE IS COVERED, NOT EMPTIED"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PERMISSION, NOT POWER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A DISTRACTED GUARD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Caffeine does not give you energy. It hides your tiredness, and the hiding place is a molecule called adenosine. All day, as your brain works, adenosine accumulates and docks into receptors that whisper: slow down, effort costs more, sleep is coming. It is your fatigue gauge, honestly reporting a long day. Caffeine is shaped almost exactly like adenosine, so it slides into those receptors and blocks them, without pressing the button. The gauge is covered, not emptied. With the fatigue signal muted, your brain permits more motor unit recruitment, rates effort as cheaper, and lets you spend strength you were saving. That is why a caffeinated max set feels less like becoming stronger and more like being allowed to use what was already there. Nothing was built. A guard was distracted.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_45_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TOLERANCE: THE RENT RISES"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "MORNING LIFT",
+       70,
+       "cyan"
+      ],
+      [
+       "NIGHT COST",
+       60,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "ONE CUP, TWO SIDES"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE HALF-LIFE OF YOUR CUP",
+     "pos": "tr",
+     "text": "5-6 HRS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "IT BILLS THE NIGHT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Two findings decide whether caffeine is a tool or a trap for you. First, tolerance: within a few weeks of daily use, the brain grows extra adenosine receptors to compensate, and the same dose buys less and less lift, until eventually you are drinking coffee merely to feel normal. The loan shark raised your rent. Second, the half-life: caffeine clears slowly, roughly half of it still circulating five to six hours after your cup, which means an afternoon dose is still on duty at bedtime, quietly thinning the deep sleep that our recovery episodes depend on. Studies that let people dose freely and then measured their sleep found exactly this trade being made invisibly, night after night. The stimulant borrows from the morning and bills the night, and the night is where the building happens.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GENETICS LOADS THE DICE"
+    },
+    {
+     "asset": "ren_pushup_back_top.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Clearance speed is inherited.",
+      "Only the audit finds your number."
+     ],
+     "pos": "br",
+     "title": "YOUR DOSE IS YOURS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MEASURE WHAT YOU TAKE DAILY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The deepest finding in this literature is the most personal: genetics loads the dice. People differ in how fast they clear caffeine and in how strongly their receptors respond, which is why one man gets shaky and wired from a single espresso while his friend drinks two and naps. There is no universal dose, only your dose, and the only honest way to find it is the audit you ran today: same test, with and without, numbers written down. Run that comparison twice more this month before you conclude anything, because day-to-day strength wobbles on its own. And notice what the audit really is: you, treating a drug like a scientist instead of a habit. Most lifters never once measure the thing they take every single day. Your two numbers already put you ahead of them. There is also a cheaper experiment hiding in plain sight: the blind test. On one audit day, have someone else make your drink and keep the secret of whether it is caffeinated, then run the max set and guess afterward. Men are routinely surprised in both directions, some discovering their ritual was doing the lifting, others discovering the drug works even when belief is removed. Either answer is worth money: one frees you from a subscription, the other confirms a tool.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR DOSE COSTS LESS"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "SAME FLOOR, SAME TEST, ALL YEAR",
+     "pos": "br",
+     "text": "0 DRIFT"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A WEAPON, NOT A SUBSCRIPTION"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAVE IT FOR TEST DAY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage with stimulants is, again, arithmetic and honesty. The studied dose is per kilogram, so your effective dose is cheaper and smaller than a heavy man's, and bodyweight training gives you a perfect measuring instrument: the same max set, on the same floor, comparable across weeks with zero equipment drift. The gym lifter's numbers hide inside different machines, different barbells, different days. Yours cannot hide. There is a second edge: because your training costs less absolute fatigue, you can afford stimulant-free training most days and keep caffeine as what it should be, an occasional tool with its power intact, instead of a daily tax you pay to feel baseline. The man who saves the drug for test day owns a weapon. The man who needs it to start his morning owns a subscription.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "EXPLOSIVE PUSH-UPS",
+   "music": "drive",
+   "narration": "Now spend a little of that borrowed drive well. Five rounds: ten seconds of maximum-speed push-ups, twenty seconds rest. Fast, clean, loud intent. When speed fades, the round is over.",
+   "rest": 20,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LOW ON EASY DAYS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STUDIED DOSE, ONE HOUR BEFORE"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "CUTOFF: 8-10 HRS BEFORE BED"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "AUDIT IT MONTHLY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The caffeine protocol, four rules. One: keep daily intake low or zero on easy days, so tolerance stays down and the drug keeps its edge for the days that matter. Two: when you use it, use a studied dose, three to six milligrams per kilo, about an hour before the session, not a hopeful sip whenever. Three: set a hard cutoff eight to ten hours before bed, because the half-life does not negotiate and your deep sleep is worth more than any session. Four: once a month, run today's audit, max set with your normal dose versus a recent uncaffeinated max, and write down what the drug actually bought you. If the honest answer is nothing, you just saved money for the rest of your life.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A SMALL, REAL JOB"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN AUDIT THE LOAN AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT TODAY'S REPS"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "IT RENTS, IT NEVER BUILDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. If today's caffeinated set beat your normal max by a rep or three, the drug is doing its small, real job, and your only task is to protect that edge with the cutoff and the easy-day rule. If it matched your normal max, your habit has likely been taxed by tolerance into a morning ritual, pleasant, warm, and pharmacologically silent. If it somehow did worse, look at last night's sleep before you blame the molecule; caffeine on a tired brain mostly reveals the tiredness it was hired to hide. In every case the truth of this episode stands: caffeine never built a single fiber. It rents you access to your own strength and bills your sleep for the service. Put today's reps in the comments, just the number. In thirty days, audit again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NUMBERS LIKE A SCIENTIST"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same coffee, same clock, one max set with clean form. Bring me the reps and the dose, written down like a scientist. Subscribe, and keep today's numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "caffeine science",
+  "nerve stimulants",
+  "adenosine",
+  "caffeine and strength",
+  "push-up max test",
+  "pre workout science"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_top.webp",
+  "big": "+5%",
+  "hook": "BORROWED DRIVE"
+ },
+ "title": "Why Your nerve stimulants Matter More Than Muscle (The caffeine science Episode)",
+ "v5": true
+}

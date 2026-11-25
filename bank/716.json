@@ -1,0 +1,413 @@
+{
+ "badge": "EP 716 - TEST YOUR TIMING",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CURVE",
+  "YOUR VERDICT"
+ ],
+ "description": "A push-up max forty-eight hours after your last hard session, compared to your fresh best: this timing test draws your supercompensation curve. Here is the dip, the rise and the overshoot, and how to schedule hard days on the rising edge.",
+ "hashtags": [
+  "timing test",
+  "supercompensation",
+  "recovery curve",
+  "calisthenics",
+  "push-up max"
+ ],
+ "id": "716",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COUNT THE HOURS FIRST"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE MAX SET, CLEAN FORM"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REPS + HOURS, BOTH WRITTEN"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Two numbers make a curve."
+     ],
+     "pos": "br",
+     "title": "YOUR RECOVERY, DRAWN"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHERE DO YOU STAND?"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Timing matters today. | Find your last hard session. | Your last tough workout. | Count the hours since. | Roughly forty-eight? | Perfect, test now. | Not forty-eight? | Test anyway, note hours. | One max set. | Push-ups to failure. | Perfect form only. | Chest down, lock out. | Count every rep. | Write the number down. | Beside it, the hours. | Hours since hard work. | Now your fresh best. | Your max when rested. | You know this number. | Two numbers, one curve. | The gap between them | is your recovery, drawn. | At the end | I show you | the whole curve. | And where you stand.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COORDINATES, NOT FAILURES"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE RECOVERED LINE",
+     "pos": "br",
+     "text": "90%"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LEARN WHERE YOUR DIP IS"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SCHEDULES ARE BUILT FROM THESE"
+    }
+   ],
+   "big": "48 HRS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE CLASSIC WINDOW WHERE THE CURVE TURNS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is how to read your pair. If today's set reached ninety percent or more of your fresh best, the curve has done its work: the fatigue cleared, the rebuilding finished, and you are standing at or near the overshoot, the small window where you are briefly better than baseline. Seventy-five to ninety percent means you tested on the climb: systems mostly restored, something still refilling, and one more day would likely have bought the rest. Under seventy-five percent, you caught the dip itself, the honest trough where a hard session's cost is still being paid. None of these readings is a failure. Each is a coordinate, and coordinates are what schedules are built from. The tragedy is not testing in the dip. The tragedy is training your whole life without ever learning where your dip is.",
+   "section": "THE NUMBER",
+   "sub": "at 90%+ of fresh: recovered - 75 to 90%: still climbing - under 75%: the dip is real",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Different accounts, different speeds.",
+      "The overshoot is where progress lives."
+     ],
+     "pos": "tr",
+     "title": "SPEND, REFILL, OVERFILL"
+    },
+    {
+     "asset": "ren_pushup_front_top.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SEVERAL CURRENCIES AT ONCE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LAND ON THE RISE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TOO EARLY: THE DIP. TOO LATE: GONE."
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The curve has a shape, and the shape has a logic. A hard session spends you in several currencies at once: fuel in the muscles, calm in the nervous system, integrity in the fibers and the cables. Immediately after, performance sits below baseline, not because you got worse, but because the accounts are overdrawn. Then recovery refills them at different speeds: fuel within a day or so, neural freshness across one to three days, fiber and tendon integrity on the slowest clock of all. If the refill is allowed to finish, the body, being an optimist built by scarcity, slightly overfills the accounts it expects to need again. That overshoot is supercompensation, the only place progress actually lives. Train again before the refill and you spend from the dip. Wait far too long and the overshoot quietly evaporates, unspent. The whole art of programming is landing sessions on the rise.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_45_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A BUNDLE, NOT ONE CURVE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "TWO MODERATE",
+       80,
+       "cyan"
+      ],
+      [
+       "ONE HEROIC",
+       55,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "TWO WAYS TO SPEND A WEEK"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "EACH SYSTEM PEAKS ALONE",
+     "pos": "tr",
+     "text": "DIFFERENT DAYS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "VISIT THE OVERSHOOT OFTEN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science adds two honest complications. First, the curve is not one curve: it is a bundle, one per system, and they peak on different days. Your fuel may be ready tomorrow while your tendons are still mid-repair, which is why a man can feel fresh and still be borrowing against his cables. Second, the curve's size is dose-dependent: a moderate session digs a shallow dip and pays a modest overshoot, while a heroic session digs a canyon and takes a week to repay, often netting less progress than two moderate sessions would have. This is the mathematics under the channel's recurring sermon: consistency beats heroics, because the curve rewards the man who visits the overshoot often, not the man who visits the canyon bravely. Your two numbers today are your first surveyed points on your own bundle of curves.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR RECOVERY CONSTANT"
+    },
+    {
+     "asset": "ren_pushup_back_top.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Test at 24, 48, 72 hours.",
+      "The chart programs itself."
+     ],
+     "pos": "br",
+     "title": "SURVEY IT YOURSELF"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "IT CANNOT BE DOWNLOADED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the practical instrument this episode is really building: your personal recovery constant. Test the same movement at different delays across the coming month, twenty-four hours after a hard day, forty-eight, seventy-two, always logging reps against hours, and your bundle of curves stops being theory and becomes a chart with your name on it. Most men discover their push system is ready near forty-eight hours while their legs want seventy-two, and that their tendons, judged by stiffness and feel, run a full day behind their muscles. That chart, once drawn, programs itself: hard upper-body work lands where the upper curve rises, legs where theirs does, and the heroic combined days that used to flatten a whole week quietly disappear from the calendar. Data this personal cannot be downloaded. It can only be surveyed, one honest max set at a time.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINE INCREMENTS, SHORT CURVES"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "TO THE OVERSHOOT, EVERY MONTH",
+     "pos": "br",
+     "text": "MORE VISITS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A CHART THAT SCHEDULES A SEASON"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A DIFFERENT GAME"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantages in curve-surfing are structural. Bodyweight training doses fatigue in fine increments: a few sets more or less tunes the dip's depth precisely, where a barbell man's smallest plate jump can overshoot his week. Your sessions also cost less absolute damage, so your curves run shorter and you get more overshoot visits per month, more landings on the rise, more compounding. And your test instrument is perfect: the same floor, the same movement, the same load, you, so a five-rep difference means recovery, not equipment drift. The heavy trainee's curve hides inside different gyms, bars and plates. Yours will stand naked in a notebook, four data points deep, accurate enough to schedule a season around. In a sport where the schedule is half the result, the man with the honest chart is playing a different game.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Now a moderate deposit into the account. Four rounds: thirty seconds of clean push-ups, thirty seconds rest, stopping each round well before failure. We are digging a shallow dip on purpose today.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SURVEY BEFORE YOU SCHEDULE"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOUR DATA SETS THE DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "MODERATE IS THE DEFAULT DEPTH"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MOVE THE SESSION, NOT THE STANDARD"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The timing protocol, four rules. One: survey before you schedule: this month, log max sets at twenty-four, forty-eight and seventy-two hours after hard days and draw your own curves, upper body and legs separately. Two: place hard sessions on the rise your data shows, not on the days a generic program assigns, because the generic program has never met your tendons. Three: keep most sessions moderate, the depth of dip you can repay in two days, and reserve the heroic session for rare, planned occasions with a week to absorb it. Four: when life shortens sleep or food, move the session, not the standard: a max attempted in the dip teaches the log a lie and the body a debt. The curve is patient. Be as smart as the curve.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE DIP IS A DISCOVERY"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN SURVEY THE CURVE AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR PERCENTAGE"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STRENGTH, SCHEDULED"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. At ninety percent or better of fresh: you tested on the rise or the overshoot, your spacing is working, and the protocol's job is to protect that rhythm from enthusiasm. Seventy-five to ninety: you are a day early for this system, a small, fixable scheduling fact that your survey will confirm within the month. Under seventy-five: you found your dip, which is not a disgrace but a discovery, the single most schedulable fact about your body. In every band, the title's promise holds: the test revealed hidden strength, because the strength was never missing on the low days. It was scheduled, sitting in accounts that refill on a curve you can now draw. Put today's percentage in the comments, just the number. In thirty days, survey again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A HAND-DRAWN CURVE"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, one hard session, one clock, one max set at forty-eight hours. Bring me a higher percentage and a hand-drawn curve. Subscribe, and keep today's pair of numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "timing test",
+  "supercompensation",
+  "recovery curve",
+  "push-up max test",
+  "training schedule",
+  "fatigue and recovery"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_top.webp",
+  "big": "48 HRS",
+  "hook": "TEST YOUR TIMING"
+ },
+ "title": "Your Timing Test Reveals Your Hidden Strength",
+ "v5": true
+}

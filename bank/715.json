@@ -1,0 +1,401 @@
+{
+ "badge": "EP 715 - COLD HANDS, TRUE GRIP",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE FLOW",
+  "YOUR VERDICT"
+ ],
+ "description": "One minute of cold water, then a dead hang: this temperature test reads your blood flow's grip on your grip. Here is what cold does to nerves and vessels, why cold plunges after training carry a hidden cost, and the warm-up that returns your seconds.",
+ "hashtags": [
+  "temperature test",
+  "cold hands",
+  "blood flow",
+  "calisthenics",
+  "dead hang"
+ ],
+ "id": "715",
+ "scenes": [
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE MINUTE, BOTH HANDS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DRY FAST, STRAIGHT TO THE BAR"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "COLD NUMBER VS WARM NUMBER",
+     "pos": "tr",
+     "text": "THE PRICE"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WRITE BOTH NUMBERS"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test starts at the sink. Fill a basin with the coldest water your tap makes, add ice if you have it, and immerse both hands and wrists for exactly one minute. It will ache a little; that ache is part of the data. The second the timer ends, dry your hands fast, go straight to the bar, and hang: arms straight, full grip, until your fingers open. That time is your cold number. Beside it belongs your ordinary hang, the same test on a normal warm day, which this channel has had you record more than once. Write the cold number next to the warm one. The difference between them is the price your blood flow charges your grip in the cold, and by the end of this episode you will know exactly who is collecting, and how to negotiate the rate down.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A TAX, NOT A GRADE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE NORMAL HUMAN BAND",
+     "pos": "br",
+     "text": "15-40%"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PHYSIOLOGY, NOT FAILURE"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PLUMBING HAS PRIORITIES"
+    }
+   ],
+   "big": "-30%",
+   "card": "bignum",
+   "check": 1,
+   "label": "A TYPICAL COLD TAX ON GRIP ENDURANCE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the reading frame. A cold tax under fifteen percent means your hands rewarm and reperfuse fast, a genuinely useful trait that winter workers and climbers would envy. Fifteen to forty percent is the normal human tax: cold costs everyone grip, because the body defends its core by rationing the extremities, and your number sits inside physiology, not failure. Over forty percent, the tax is large enough to become a training variable: your pre-session warm-up, your room temperature, even your clothing are now measurable levers on your performance. Notice, again, what this test never claims: it does not grade your grip strength, which the warm number already owns. It grades your plumbing's priorities under stress, and plumbing, like everything else on this channel, responds to training and to protocol.",
+   "section": "THE NUMBER",
+   "sub": "drop under 15%: warm-blooded hands - 15 to 40%: the normal tax - over 40%: your warm-up is the lever",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Vessels ration the fingers.",
+      "Cold nerves conduct slowly."
+     ],
+     "pos": "tr",
+     "title": "TWO COLLECTORS"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A STARVED ENGINE, A LAGGING DRIVER"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NOTHING TO DO WITH STRENGTH"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "REVERSED IN FIVE MINUTES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The cold collects its tax through two collectors working together. The first is the vessels: exposed to cold, the small arteries in your hands constrict, a reflex called vasoconstriction, deliberately starving the fingers of warm blood to protect the core's temperature. Less flow means the forearm's working muscles receive less oxygen and clear their waste more slowly, so fatigue arrives early and stays late. The second collector is the wiring itself: nerve conduction literally slows as tissue cools, so the signals commanding your grip travel at reduced speed and the fine, rapid corrections that keep fingers curled arrive late. Your cold hang therefore fails for compound reasons: a starved engine and a lagging driver. Neither has anything to do with how strong you are. Both reverse completely as the hands rewarm, which is why this tax, uniquely among the channel's tests, can be renegotiated in about five minutes.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HEAT: THE SIMPLE TOOL"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "PAIN RELIEF",
+       70,
+       "cyan"
+      ],
+      [
+       "ADAPTATION COST",
+       60,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "COLD, HONESTLY WEIGHED"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE WINDOW WHERE COLD COSTS",
+     "pos": "tr",
+     "text": "AFTER LIFTING"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A MEDICINE, DOSED LIKE ONE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The wider science of heat and cold sorts itself into two honest piles. Heat is the simpler tool: warm tissue is more compliant, better supplied and quicker to conduct, which is why every warm-up in sport is, at bottom, a heating protocol, and why stiff, sore areas often feel better under warmth. Cold is the double agent. It genuinely numbs pain and can settle an angry, overheated tissue, which is why ice has its place after an acute knock. But the research on routine cold immersion after strength training carries a warning this channel takes seriously: plunging into cold water in the hours after lifting appears to blunt some of the very adaptations the session was for, including strength and size gains, as if the body, rushed into emergency mode, files the workout under survival instead of construction. Cold is a medicine with indications and side effects. Dose it like one.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE RESPONSE ITSELF ADAPTS"
+    },
+    {
+     "asset": "ren_dead_hang.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Vessels learn a measured policy.",
+      "Working hands stay functional."
+     ],
+     "pos": "br",
+     "title": "NEGOTIATED RATES"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NEVER FREE, ALWAYS CHEAPER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is a trainable layer here, and outdoor workers have owned it for centuries: the cold response itself adapts. Repeated, sensible cold exposure teaches the vessels a more measured policy, constricting less wildly and reopening sooner, a pattern sometimes visible as the hands' hunting response, waves of returning flow that keep working hands functional in winter. Fishermen, roofers and winter climbers do not have different anatomy; they have negotiated rates. Your basin test, repeated monthly through a cold season, tracks your own negotiation in seconds. But hold the deep dive's second truth beside the first: adaptation to cold is specific and modest, it never makes cold free, and it is bought with exactly the currency this episode warns about when the timing collides with training. Negotiate with the cold on rest days and mornings. Keep it away from the hours when your muscles are filing the day's construction paperwork.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOU REWARM FASTER"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "A CONTROLLABLE LABORATORY",
+     "pos": "br",
+     "text": "YOUR ROOM"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SIDE EFFECTS, SPOTTED IN A WEEK"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO WINTER COMMUTE TAX"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the temperature game is response speed. A lighter body with less tissue to rewarm and a smaller core-to-extremity project returns to full function faster after cold than a heavy frame does, and your grip test instrument, the hang, is sensitive enough to time that return precisely. You also hold the scheduling advantage this whole topic turns on: bodyweight training happens where you live, which means your environment is controllable, warm room, warm hands, no winter walk to a cold gym taxing your first sets before they start. The big man's January sessions begin with a commute his hands pay for. Yours begin at full price only if you let them. And because your loads are your body, the adaptation cost of a mistimed plunge is easier to spot in your numbers within a week. Your laboratory detects side effects other men train through for months without naming.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Now, with warm hands and a warm room, we train the grip the cold just taxed. Three rounds: thirty seconds of dead hang, thirty seconds rest. Full grip, quiet shoulders, long exhales.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WARM HANDS BEFORE GRIP WORK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "COLD LIVES ON REST DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NO PLUNGE AFTER LIFTING"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LOG THE TAX PERCENTAGE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The temperature protocol, four rules. One: warm hands before grip work, always, two minutes of warm water, movement and friction in cold months; it is the cheapest performance purchase on this channel. Two: schedule cold exposure away from strength training, mornings or rest days, so the adaptation paperwork never gets interrupted by an emergency. Three: use heat as the daily tool, warm showers, warm rooms, warm-ups that actually warm, because compliance and flow are the background state your training prefers. Four: retest the basin protocol monthly through the cold season and log the tax percentage; watch it shrink as your vessels learn their manners, and let the number, not the trend of the year, tell you whether your negotiation is working.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WAITING BEHIND A REFLEX"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN CHILL AND HANG AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR COLD SECONDS"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FIVE WARM MINUTES DISMISS IT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. A cold tax under fifteen percent: fast vessels and a trait worth keeping; your winter training loses almost nothing to the weather. Fifteen to forty: the normal human rate, and your levers are the boring ones, warm-up, room, clothing, scheduling, each worth real seconds you measured today. Over forty: your plumbing is dramatic, and the protocol stops being advice and becomes infrastructure; warm the hands like you mean it and keep cold in its scheduled place. In every band, the title's promise holds: the test revealed hidden strength, because your warm number was there all along, waiting behind a reflex that five warm minutes can dismiss. Put your cold seconds in the comments, just the number. In thirty days, chill and hang again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SMALLER TAX"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same basin, same minute, same bar, hands dried fast. Bring me a smaller tax and a warmer negotiation. Subscribe, and keep today's pair of numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "temperature test",
+  "blood flow",
+  "cold water grip",
+  "dead hang test",
+  "heat and cold science",
+  "vasoconstriction"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_dead_hang_front.webp",
+  "big": "1 MIN",
+  "hook": "COLD HANDS, TRUE GRIP"
+ },
+ "title": "Your Temperature Test Reveals Your Hidden Strength",
+ "v5": true
+}

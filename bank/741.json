@@ -1,0 +1,392 @@
+{
+ "badge": "EP 741 - TRAIN YOUR PROTEIN",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE BUILDING SYSTEM",
+  "YOUR VERDICT"
+ ],
+ "description": "Protein targets done wrong chase a daily total and ignore the per-meal threshold that actually builds muscle. Stop it: test your first meal's protein, learn how the building blocks are laid hour by hour, and install the anchor system that hits your target by default.",
+ "hashtags": [
+  "protein targets",
+  "building blocks",
+  "protein per meal",
+  "muscle building",
+  "protein anchors"
+ ],
+ "id": "741",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE MEAL ONLY: THE FIRST"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PRICE IT HONESTLY"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR GRAMS"
+    },
+    {
+     "at": 26,
+     "kind": "fact",
+     "lines": [
+      "Most first meals carry under 15 g of protein."
+     ],
+     "pos": "br",
+     "title": "THE DARK MORNING SITE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test looks at one meal only: your first one. Tomorrow, eat your normal first meal of the day, whatever it usually is, and afterwards price its protein honestly, in grams, from labels or a tracker. Not the day's total, not your best meal, just the first. That number is your result. For most skinny guys it lands between five and fifteen grams, a coffee's splash of milk, a slice of cheese, a rumor of protein, while the day's heroic dinner tries to compensate for a construction site that sat dark all morning. The first meal is the test because it is the most commonly broken one, and because fixing it changes the shape of the whole day. Keep your first-meal grams. At the end I will show you the threshold it needs to cross, and the anchor system that crosses it by default.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BOOKKEEPING VS BIOLOGY"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THE LIT MEAL",
+     "pos": "br",
+     "text": "30-40 G"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FOUR LIT MEALS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LEUCINE FLIPS THE SWITCH"
+    }
+   ],
+   "big": "40 G",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE PER-MEAL DOSE THAT FULLY SWITCHES CONSTRUCTION ON",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Thirty to forty grams is the per-meal dose that fully switches muscle protein synthesis on for most young men. Under fifteen grams, the switch barely flickers: some amino acids arrive, the construction crew glances up, and goes back to sleep. Between fifteen and thirty, the site lights partially. At thirty to forty, with enough of the amino acid leucine in the mix, synthesis runs at full rate for the next few hours. This reframes the entire protein question. A daily total is bookkeeping. The threshold is biology. A hundred and twenty grams delivered as four lit meals builds a different body than the same hundred and twenty delivered as one bonfire and three flickers. Train the thresholds, and the total takes care of itself.",
+   "section": "THE NUMBER",
+   "sub": "under 15 g: the switch barely flickers - 30-40 g: the site is lit for hours",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 6,
+     "kind": "fact",
+     "lines": [
+      "Each meal starts a 3-5 hour shift.",
+      "The day fits about four."
+     ],
+     "pos": "tr",
+     "title": "SHIFTS, NOT PILES"
+    },
+    {
+     "asset": "nerve_pathway_plate.webp",
+     "at": 12,
+     "kind": "swap"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE MUSCLE-FULL EFFECT"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "START EVERY SHIFT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the system to train. Think of your muscles as a construction site that works in shifts. Each protein meal is a delivery of blocks plus a foreman's signal, leucine, that starts the shift. The shift runs roughly three to five hours, then winds down no matter how many blocks are piled nearby, a pattern researchers call the muscle-full effect. Then the site waits for the next delivery and the next signal. Your day therefore has room for about three or four full shifts, and your growth is roughly the sum of the shifts you actually started. Protein targets done wrong obsess over the size of the pile. Protein targets done right obsess over the number of shifts started and whether each delivery crossed the foreman's threshold. Blocks matter. Shifts multiply them.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BONFIRE VS ANCHORS"
+    },
+    {
+     "at": 18,
+     "items": [
+      [
+       "BONFIRE DAY",
+       1
+      ],
+      [
+       "ANCHOR DAY",
+       3
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br"
+    },
+    {
+     "asset": "ren_towel_curl.webp",
+     "at": 27,
+     "kind": "swap"
+    },
+    {
+     "at": 36,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NEW ARRANGEMENT, SAME GROCERIES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Compare two days at the same total, a hundred and twenty grams. Bonfire day: ten grams at breakfast, twenty at lunch, ninety at dinner. One full shift, two flickers, and a long dark morning when the body, fresh from the overnight fast, was actually most ready to build. Anchor day: thirty-five at breakfast, forty at lunch, forty-five at dinner. Three full shifts, spread across the day, the site lit from morning to evening. Distribution studies in both young and older adults generally favor the anchor pattern for total daily synthesis. The lesson is almost rude in its simplicity: the protein you already buy builds more of you when it is divided like you mean it. No new groceries. New arrangement. One more comparison hides inside the bonfire day, and it is about the morning specifically. After the overnight fast, the body is primed to build, amino acid sensitivity is high, and the first delivery of the day may be the most valuable shift of all. The bonfire pattern wastes exactly that shift, daily, for years. Anchor day starts collecting it from tomorrow morning.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANCHORS HAVE FACES"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LEARN FIVE, BUILD ANYWHERE"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMPLETE PROTEINS SIGNAL BEST"
+    },
+    {
+     "at": 36,
+     "kind": "fact",
+     "lines": [
+      "Verified once, known forever."
+     ],
+     "pos": "br",
+     "title": "FROM TRACKER TO HANDS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "One refinement separates trained protein from merely counted protein: the quality of the anchor. The leucine signal is strongest in complete proteins, dairy, eggs, meat, soy, which is why a breakfast built on Greek yogurt, eggs, or milk crosses the threshold so reliably, while a same-gram pile of low-leucine fragments may not. Practically, each anchor should have a face: a food you can picture, with a known gram count you have verified once. Three hundred milliliters of milk, about ten grams. Two eggs, about twelve. A thick Greek yogurt, fifteen to twenty. A palm of chicken or meat, twenty-five to thirty-five. Learn five faces and you can build a lit meal anywhere, in any kitchen, without an app, forever. That is what training a target actually means: the knowledge moves from the tracker into your hands. A word about plant-based anchors, since many viewers build from them. Lentils, chickpeas, soy foods, and grain-and-legume combinations can absolutely light the shift; they simply need honest gram counts and, for some, slightly larger portions to match the leucine of dairy and eggs. The faces differ. The threshold does not. Learn your own five faces, whatever your kitchen's rules are.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FULL PROGRAM FITS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "INSIDE A NORMAL APPETITE",
+     "pos": "br",
+     "text": "4 SHIFTS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LIVABLE SURVIVES THE YEAR"
+    },
+    {
+     "at": 32,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMALL TOTAL, FULL COVERAGE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The skinny advantage in shift math is your smaller total. Four lit meals at thirty-five grams is a hundred and forty, near the top of your needs, and each of those meals is an ordinary size you can actually eat: eggs and toast, a normal lunch, a normal dinner, a yogurt or shake to close. The big lifter chasing two hundred plus grams must force a fourth and fifth shift into a day that resists him. Your entire construction schedule fits inside a normal appetite, properly arranged. Being skinny means the full program is small enough to be livable, and livable is the only kind of program that survives a year. Arrange the blocks you already buy, and the site stays lit from breakfast to bed. And notice what the anchor system does to your confidence at the table. A man who knows his five faces stops experiencing meals as vague events that might have contained protein. He sees shifts starting. That quiet certainty, repeated three times a day, is what a trained target feels like from the inside.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "check": 3,
+   "exercise": "PUSH-UP SETS",
+   "music": "drive",
+   "narration": "Work orders first, then deliveries. Five rounds of push-ups, thirty on, thirty off, strict and smooth. Training is the foreman's other signal: it tells today's protein exactly where to build. Then go light the first shift properly.",
+   "rest": 30,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ANCHORS FIRST, PLATE SECOND"
+    },
+    {
+     "at": 11,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FIX THE FIRST MEAL FIRST"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "THE 90 G BONFIRE"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "TRACKER WORSHIP"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Install the anchor system. One: write your five anchor foods with their verified grams on a card on the fridge. Two: build every meal by choosing anchors first, thirty to forty grams worth, then adding the rest of the plate around them. Three: fix the first meal this week, before touching any other; eggs, milk, yogurt, cheese, pick your faces and make them automatic. Four: if a fourth shift is hard to eat, drink it: the evening shake counts as a full delivery. Five: audit one day per week until your guesses match reality. No bonfires, no flickers, no app worship. Anchors at every meal, shifts started all day, blocks laid while you live your life.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR FIRST MEAL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR ANCHORS"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE ANCHOR SHORT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Read your first meal. Under fifteen grams: your site opens dark every day, and this fix, one anchored breakfast, is worth more than any supplement on earth. Fifteen to thirty: you are one anchor short; add the yogurt, the extra egg, the glass of milk, and the shift lights fully. Thirty or more: your morning is genuinely handled, so audit lunch, the second most common flicker. Retest in thirty days: same test, first meal only. Comment your first-meal grams and its anchor foods. The breakfasts in the replies will be a field guide for every skinny guy who finds this channel.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LIT FROM THE MORNING"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same test, first meal of the day. Bring me grams that light the site from the morning. Subscribe, and keep today's number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "protein per meal",
+  "protein threshold",
+  "muscle protein synthesis",
+  "protein anchor",
+  "how much protein per meal",
+  "building muscle diet",
+  "leucine threshold"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_towel_curl.webp",
+  "big": "40 G",
+  "hook": "FIRST MEAL COUNTS"
+ },
+ "title": "Stop Doing protein targets Wrong: Train Your muscle building blocks Instead",
+ "v5": true
+}

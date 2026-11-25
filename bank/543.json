@@ -1,0 +1,397 @@
+{
+ "badge": "EP 543 - THE HILL TEST",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE POWER",
+  "YOUR VERDICT"
+ ],
+ "description": "Find a hill, pick a line thirty meters up it, and sprint. Your hill time grades your leg power nerves, the system that turns strength into uphill speed. The hill cannot be argued with, and that is why we trust it. Take the test and read your number.",
+ "hashtags": [
+  "hill sprints",
+  "leg power",
+  "calisthenics",
+  "sprint test",
+  "uphill"
+ ],
+ "id": "543",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MODERATE, STEADY SLOPE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "UP THE HILL, FULL SEND",
+     "pos": "br",
+     "text": "30 METERS"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RUN THROUGH THE LINE"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BEST HONEST TIME COUNTS"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE HILL CANNOT BE ARGUED WITH"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a hill with a steady, moderate slope, steep enough that you cannot reach top speed, gentle enough that you can still run tall. Mark a start line and a finish line thirty meters up the slope, and measure it honestly with paces or a phone. Stand behind the start, staggered stance, and on go, sprint up the hill with everything you have: drive your knees, pump your arms, stay on the front of your feet, and run through the finish line like it owes you money. Time it with a friend, a stopwatch in hand, or video frames. Take two attempts with full rest between them and keep the faster honest one. That time is your number. Keep it somewhere safe. At the end I will tell you what it reveals about the power nerves in your legs, and why a hill is the most honest laboratory your speed will ever have.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "6 SEC = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SERIOUS UPHILL SPEED",
+     "pos": "br",
+     "text": "UNDER 5.5"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NOWHERE FOR POWER TO HIDE"
+    }
+   ],
+   "big": "6 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "FOR 30M UPHILL IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Six seconds for thirty meters uphill, on a moderate slope, from a standing start, is trained leg power. Over seven and a half, your power nerves are sleepy: the strength may be in your legs, but the signal that turns strength into uphill drive is arriving underpowered. Under five and a half, you own acceleration that hills cannot hide, and hills hide almost everything. Here is the truth the hill tells. On flat ground, speed can be borrowed from momentum, technique and elastic bounce. On a hill, gravity taxes every step continuously, momentum dies between strides, and there is nowhere for weak power to hide. What remains is the raw product of your nervous system and your legs: force, produced fast, again and again, against a load that never lets up. Your hill time is that product, priced in seconds, and it is one of the most honest numbers in this season.",
+   "section": "THE NUMBER",
+   "sub": "over 7.5: power nerves are sleepy - under 5.5: serious uphill speed",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Fast units need a maximal signal.",
+      "Tentative signals get slow units."
+     ],
+     "pos": "tr",
+     "title": "STRENGTH WITH A DEADLINE"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SIZE PRINCIPLE, EXAMINED"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FULL SIGNAL OR SLOWER YOU"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NERVES DECIDE, MUSCLES DELIVER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Power is strength with a deadline, and the deadline is set by your nerves. To sprint uphill, your brain must recruit the fast, powerful motor units in your glutes, quads and calves almost instantly, and keep recruiting them as fatigue tries to switch them off one by one. These fast units are the expensive ones: they produce the most force, tire the quickest, and are only called up when the nervous system sends a genuinely maximal signal. A tentative signal gets the slow units, and slow units do not win hills. This recruitment order is called the size principle, and hill sprinting is its public examination. Every step uphill is a fresh exam question: full signal, or a slower you. The other half of the mechanism is elastic: the hill shortens your ground contact options and forces the calf and Achilles to work as power producers, not just springs. Nerves decide. Muscles deliver. The hill grades both in one number.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MECHANICS WITHOUT CUES"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "HORIZONTAL FORCE",
+       85,
+       "cyan"
+      ],
+      [
+       "TOP SPEED",
+       40,
+       "gold"
+      ],
+      [
+       "INJURY RISK",
+       25,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "HILL VS FLAT TRAINING"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE SLOPE IS ENOUGH"
+    },
+    {
+     "asset": "ren_leg_swing.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Coaches have used hills for a century, and the science explains their loyalty. The slope forces a forward body angle and front-foot contact automatically, teaching acceleration mechanics without a single cue. It also caps your top speed, which caps the forces that injure hamstrings at full velocity, making the hill the safest place to train maximal intent. Studies of resisted sprinting, the hill's laboratory cousin, show it preferentially builds horizontal force production, the exact quality that separates accelerators from the merely fast. And the nervous system adapts specifically: after weeks of hill work, recruitment of the fast units happens earlier in each contraction and survives fatigue longer. In plain terms, your power nerves stop being a rumor and become a habit. The hill time is simply the habit, timed. There is no app for this and no shortcut around the slope. There is only the slope, and the slope is enough.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PATTERN BEFORE INTENT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "OF SWINGS, THEN STRIDES",
+     "pos": "br",
+     "text": "2 MIN"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REHEARSE FOR FREE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Before hills, wake the pattern with leg swings, because the hill asks your hips to cycle fast under load and cold wiring answers slowly. Two minutes of swings, building speed, teaches the flexors and extensors their handover rhythm at low cost. Then one or two easy uphill strides at seventy percent, feeling the slope's angle, before any timed or maximal work. The sequence is not superstition. It is the nervous system's rehearsal schedule: pattern first, at low price, then intent, at full price. Athletes who skip the rehearsal spend their first three hill reps learning what the swings would have taught for free, and three reps is most of a hill session.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "POWER-TO-WEIGHT IS THE EVENT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "FOR THE HEAVY, UPHILL",
+     "pos": "br",
+     "text": "THE TAX WINS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE SLOPE BELONGS TO YOU"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EFFICIENCY IS POWER"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The hill is where the skinny advantage stops being polite. Uphill, every step lifts your entire mass against gravity, so the power-to-weight ratio is not a statistic, it is the whole event. A heavy athlete brings more absolute power and pays more absolute tax, and on a slope the tax wins: his ratio is worse, his steps slow sooner, and his fast units fatigue under a load yours never meet. Your ratio, a full nervous system driving a light frame, is precisely the hill's favorite mathematics. This is why mountain runners and hill sprinters share your silhouette across every country on earth. The flat track may belong to the powerful. The slope belongs to the efficient, and efficiency, measured honestly, is a kind of power the mirror has never once reported.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "HILL SPRINTS",
+   "music": "drive",
+   "narration": "Now we climb together. Five rounds: sprint your hill at full intent for the work block, then walk down slowly through the long rest. Every rep is a maximal signal or it does not count.",
+   "rest": 50,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "ren_toe_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "2 SESSIONS, FULLY RESTED"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "TOO STEEP IS NOT SPRINTING"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FRESH TISSUE ONLY"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PROTECT THE SIGNAL"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY REP A WEAPON"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Two hill sessions, separated by at least two full days, because maximal nerve work is the most fatiguing training in this season despite looking like child's play. Each session: swings, two easy strides, then five to eight hill sprints like our block, with walk-down recoveries long enough that every rep is a weapon. Mistake one: choosing a hill that is too steep. If you cannot run tall and drive your knees, the slope is a climbing wall, not a sprint hill; find the moderate grade. Mistake two: sprinting hills on tired legs from leg day. Power nerves are fresh-tissue only, and tired practice teaches tired recruitment. Mistake three: turning the session into conditioning with short rests. The burning, breathless version trains endurance, which is a fine thing and a different thing. This episode is about the signal. Protect its freshness like it matters, because on the hill, it is the only thing that does.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLEEPY, NOT WEAK"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO APPEALS ON THE HILL"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Over seven and a half: your power nerves are sleepy, and the hill is the alarm clock they cannot ignore; expect the time to fall quickly in the first month. Six to seven and a half: the signal is waking, and twice-weekly maximal intent is the entire prescription. Under six clean seconds: certified, your leg power nerves are trained, a quality most strong men have never once developed. Under five and a half: you own uphill speed that flat-ground athletes will underestimate exactly once. Put your time in the comments, just the number, and retest in thirty days on the same hill, same lines, same honest timing. The hill keeps its books in seconds and accepts no appeals. We will be back to read them.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER TIME"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same hill, same thirty meters, full intent. Bring me a faster time and we will find a longer hill together. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "hill sprints",
+  "hill sprint time",
+  "leg power",
+  "power nerves",
+  "sprint training",
+  "uphill running",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "6 SEC",
+  "hook": "HILL SPRINT"
+ },
+ "title": "Your Hill Sprint Time Reveals the Truth About Your leg power nerves",
+ "v5": true
+}

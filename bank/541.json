@@ -1,0 +1,397 @@
+{
+ "badge": "EP 541 - THE 10-METER TEST",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SIGNAL",
+  "YOUR VERDICT"
+ ],
+ "description": "Ten meters, from a standstill, against the clock. Your 10-meter time is the purest readout of nerve firing speed in your legs: how fast your brain can recruit everything you own. Take the sprint test, learn the truth, and train the signal with us.",
+ "hashtags": [
+  "sprint test",
+  "10 meter",
+  "nerve speed",
+  "acceleration",
+  "explosive power"
+ ],
+ "id": "541",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MARK BOTH ENDS"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LOW ANGLE, VIOLENT STEPS",
+     "pos": "br",
+     "text": "EXPLODE OUT"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RUN THROUGH THE LINE"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BEST HONEST TIME COUNTS"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FRACTIONS ARE THE STORY"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Find ten meters of flat ground, a corridor, a quiet street, a park path, and mark both ends. Stand behind the start line in a staggered stance, one foot forward, body coiled and leaning in like you are about to fall into the run. Have a friend time you, or start a phone timer with your thumb as you explode out; better, film it and read the time off the frames. On go, drive out hard: low body angle, violent first steps, no standing up tall until the finish. Run through the line, not to it. Your time for ten meters from a dead stop is your number. Take two attempts and keep the faster honest one. Keep it somewhere safe. At the end I will tell you what those fractions of a second reveal about the speed of the signal between your brain and your legs, and why that signal, not muscle, is the first thing sprint speed is made of.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "1.8 SEC = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SPRINTER WIRING",
+     "pos": "br",
+     "text": "UNDER 1.7"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SIGNALS ARE TRAINABLE"
+    }
+   ],
+   "big": "1.8 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "FOR 10 METERS IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. One point eight seconds for ten meters from a standstill is a wired nervous system. Over two point two, your legs are not necessarily weak; the signal that recruits them is sleepy, arriving late and recruiting in the wrong order, and signals are spectacularly trainable. Under one point seven, you own acceleration most gym athletes cannot buy, because it lives in the wiring, not the muscle. Here is the truth this test tells. Ten meters is too short for endurance, too short for top speed, too short for technique to matter much. What remains is pure recruitment: how many muscle fibers your nervous system can switch on, how fast, in the first three steps. That is nerve firing speed, and it is the foundation under every sprint, jump and cut you will ever make. Your number is its first honest measurement.",
+   "section": "THE NUMBER",
+   "sub": "over 2.2: the signal is sleepy - under 1.7: sprinter wiring",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Muscle obeys. Signal decides.",
+      "Recruitment is the real event."
+     ],
+     "pos": "tr",
+     "title": "THE MISSING ATHLETE"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WHOLE ORCHESTRA, ONE DOWNBEAT"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAINS FASTER THAN TISSUE"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HUNDREDTHS OF A SECOND"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Follow the signal. A sprint start begins as an intention in your brain, becomes an electrical command racing down the spinal cord, and arrives at the leg muscles through motor nerves in a few hundredths of a second. The muscle's job is simply to obey, and the size of the obedience depends on how many motor units the signal recruits and how synchronized their firing is. In the first steps of a sprint, the demand is total: quads, glutes, hamstrings and calves must fire near-maximally, in sequence, several times per second. Untrained wiring recruits late, partially, and out of order, like an orchestra starting a song one section at a time. Trained wiring fires the whole orchestra on the downbeat. This is why beginners get faster in weeks without gaining a gram of muscle: the muscle was always there. The signal was the missing athlete, and it trains faster than any tissue in your body.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TENDON SPRING ASSISTS"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "RATE OF FORCE",
+       60,
+       "cyan"
+      ],
+      [
+       "MAX STRENGTH",
+       25,
+       "gold"
+      ],
+      [
+       "MUSCLE SIZE",
+       15,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT PREDICTS 10 METERS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FORCE THAT ARRIVES INSTANTLY"
+    },
+    {
+     "asset": "ren_leg_swing.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The science adds a second actor: the tendon spring. Once the signal fires the muscle, the Achilles tendon stores the landing energy of each step and returns most of it into the next push, like a pogo stick with a nervous system. In acceleration, ground contact times are long enough that muscle does most of the work, but the spring's share grows with every step. Studies of sprint starts show the first step is nearly all muscle and signal, which is why the start grades wiring so purely. The other finding worth your money: rate of force development, how fast force rises after the signal, predicts short sprint times better than maximum strength does. A man who can eventually produce huge force but produces it slowly will lose ten meters to a lighter man whose force arrives instantly. Your 10-meter time is essentially a rate-of-force exam, and the pass mark is written in your nerves before it is written in your muscles.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE HANDOVER IS THE CEILING"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "OF SWINGS BEFORE SPRINTS",
+     "pos": "br",
+     "text": "2 MIN"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WARM WIRING PLAYS BETTER"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The leg swing is the signal's rehearsal room. Swinging one leg forward and back at rising speed teaches the hip's nerves their fastest firing pattern without the cost of full sprinting: the flexors fire, the extensors fire, and the handover between them gets quicker and cleaner. That handover, agonist off as antagonist on, is called reciprocal inhibition, and its speed is a hard ceiling on how fast your legs can cycle. Two minutes of swings before sprint work wakes the pattern up. Athletes who drill the handover find their first steps sharper within the same session, not because anything grew, but because the wiring arrived at practice already warm. Signals, like musicians, play better after scales.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "INERTIA IS THE OPPONENT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SMALLER LOAD, MORE SPEED",
+     "pos": "br",
+     "text": "FULL SIGNAL"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ISSUED TO YOUR BUILD"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RATIO WINS THE START"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now the advantage, and in acceleration it is not subtle. The first ten meters are a fight against your own inertia: every step must accelerate your entire mass from near zero. Less mass means the same signal produces more acceleration, full stop, which is why the early meters of any race favor the light and powerful over the merely huge. The big man's extra muscle helps him only if his wiring can recruit it instantly, and his extra non-muscle mass is pure tax on every step. Your build brings the best ratio on the start line: a full nervous system driving a smaller load. Sprint coaches have known this forever, which is why their accelerators look like you and their shot-putters look like him. Different events, different bodies, and the ten-meter event was issued to yours.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "10M SPRINTS",
+   "music": "drive",
+   "narration": "Now we fire the signal together. Five rounds: explode over ten meters at full intent, then walk back slowly during the long rest. Sprinting is a quality sport; if a rep feels slow, rest more, never grind.",
+   "rest": 48,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 12
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NEVER ON TIRED LEGS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "90 PERCENT TEACHES SLOW"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REST UNTIL IT'S A WEAPON"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HUNDREDTHS FALL BETWEEN TESTS"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FULL INTENT OR NOTHING"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Two sprint sessions, never on tired legs, because firing speed is a fresh-tissue quality and practicing it slow teaches slow. Each session: leg swings to warm the handover, then five to eight ten-meter starts like our block, full recovery between every rep. Mistake one: sprinting at ninety percent to survive the workout. The signal only upgrades at full intent; submaximal sprinting is just running. Mistake two: short rests. A tired nervous system fires late, and late firing practiced is late firing learned, so rest until every rep feels like a weapon again. Mistake three: testing your ten meters every session. The stopwatch is monthly news. Weekly work is intent, freshness and clean first steps, and the hundredths fall off in the dark between tests, the way they always do.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLEEPY, NOT WEAK"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BOOKS IN HUNDREDTHS"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Over two point two: your signal is sleepy, not your legs, and sleepy signals are the fastest improvers in this entire series; expect real hundredths within a month. One point eight to two point two: the wiring is waking up, and fresh, full-intent practice is the whole prescription. Under one point eight: certified, your nerve firing speed is a genuine asset, rarer than muscle and harder to buy. Under one point seven: guard it, train it, and enter every race of your life expecting to lead at ten meters. Put your time in the comments, just the number, and retest in thirty days on the same ground, same start, same honest timing. The signal keeps its books in hundredths, and next month we audit them.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ten meters, same staggered start, full intent. Bring me a faster number and we will lengthen the track together. Subscribe, and keep your time safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "10 meter sprint",
+  "sprint start",
+  "nerve firing speed",
+  "sprint test",
+  "acceleration",
+  "explosive legs",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "1.8 SEC",
+  "hook": "10-METER TEST"
+ },
+ "title": "Your 10-Meter Time Reveals the Truth About Your nerve firing speed",
+ "v5": true
+}

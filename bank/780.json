@@ -1,0 +1,394 @@
+{
+ "id": "780",
+ "v5": true,
+ "title": "Why Your weekly averages Matter More Than Muscle (The scale trends Episode)",
+ "description": "The final test of the test log. Your weekly average is the number that has been quietly grading every other number this season. Weigh the week, close the log, and learn why the average outranks even the muscle it measures.",
+ "tags": [
+  "why weekly averages matter",
+  "weekly averages",
+  "scale trends",
+  "the final test",
+  "average weight meaning",
+  "gaining measurement",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "weekly averages",
+  "scale trends",
+  "the final test",
+  "gaining",
+  "calisthenics",
+  "measurement"
+ ],
+ "category": "gaining",
+ "badge": "EP 780 - WHY AVERAGES MATTER",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE AVERAGES",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_wall_sit_front.webp",
+  "big": "780",
+  "hook": "THE LAST TEST",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "This is the final test. | Of the whole test log. | Seven mornings, this week. | Same scale, same hour. | Average all seven numbers. | Compare last week's average. | One signed difference. | That is your first number. | Second, max bodyweight squats. | Deep, clean, full stand. | Count the honest reps. | That is your second number. | Keep the pair together. | At the end, | the last verdict. | Seven hundred eighty tests led | to this one question: | what did the numbers build? | Not just muscle. | Anyone can chase muscle for | a month. | The numbers built a scientist. | Let us take his final | exam.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE FINAL TEST",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "ONE SIGNED DIFFERENCE",
+     "label": "THE EXAM QUESTION",
+     "pos": "br",
+     "at": 9
+    },
+    {
+     "kind": "chip",
+     "text": "780 TESTS LED HERE",
+     "pos": "tr",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 21
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "780",
+   "label": "TESTS IN THE LOG, AND EVERY ONE GRADED BY THIS NUMBER",
+   "sub": "daily moods: forgotten by friday - the average: the season's true report card",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the final claim of the test log. Every number this channel ever asked you for, the hangs, the dips, the protein counts, the gaps, the surplus, was a question. The weekly average is the grade, because it is the one number that cannot be argued with, flattered, or rushed: tissue, arriving or not arriving, at the pace physics allows. Muscle matters, of course; it is the point of the whole project. But the average matters more in the only sense that decides outcomes: it is the feedback that keeps every other system honest for years. A man can lose his way in any single test. He cannot lose his way with a rising average, a strong test battery, and the patience this log taught him. The average is the compass. The muscle is just where the compass was pointing.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE GRADE OF ALL GRADES",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "780",
+     "label": "TESTS IN THE LOG",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "THE COMPASS, NOT THE DESTINATION",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "CANNOT BE FLATTERED",
+     "pos": "br",
+     "at": 27
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "The mechanism deserves its final, clearest statement. Your weight on any morning is tissue plus weather: water answering to salt and glycogen, contents in transit, the residue of yesterday's training. The tissue moves at a few hundred grams a week. The weather moves at a kilo a day. Any instrument that reads both at once must separate them, and averaging across seven mornings is the separation, letting the weather cancel and the tissue accumulate into visibility. That is the whole trick, and it is not a trick. It is the same principle behind every honest measurement in science: repeat, average, compare. The scale was never your enemy or your friend. It was a sensor waiting for a scientist, and becoming that scientist was the real curriculum of this entire log. One property of the average deserves the log's last mechanism note: it is the only number that improves by being ignored between readings. The tests reward attention. The average rewards a man who collects faithfully and then goes and lives his week, training, eating, sleeping, while the mathematics quietly does its work.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "REPEAT, AVERAGE, COMPARE",
+     "lines": [
+      "Weather cancels over seven mornings.",
+      "Tissue accumulates into visibility."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_plank_hold.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "A SENSOR, WAITING",
+     "pos": "br",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "YOU BECAME THE SCIENTIST",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science of the average, reviewed one last time with the season's evidence assembled. Averages work because noise is random and signal is directional. They fail when weeks are rigged, when collection is sloppy, and when they are read without a strength test beside them, because mass alone cannot tell muscle from water from fat. Read properly, paired with performance, the weekly average predicts the only thing a gainer needs to know: whether the current system, food, rhythm, stores, and training together, is producing tissue. Not whether it should. Whether it is. Every other number in this log explains a part. The average integrates them all into a verdict, weekly, calmly, for as long as you keep the record. Integration is what makes it king. And the pairing rule, stated for the final time: never read mass without performance, and never read performance without mass. Together they are a scientist's dashboard. Apart, each is a rumor with a number attached, and this log was built, from its first test to this one, to retire rumors.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE INTEGRATOR",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "WHAT EACH NUMBER KNOWS",
+     "items": [
+      [
+       "ANY SINGLE TEST",
+       40,
+       "gold"
+      ],
+      [
+       "THE WEEKLY AVERAGE",
+       95,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "WHETHER IT IS, NOT SHOULD",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "KING BY INTEGRATION",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "The deepest truth in the log is about time, so let it close the season. Every test you ever took here measured a moment. The average measures a direction, and direction, compounded, is destiny in any slow system. A quarter kilo a week is invisible in a mirror and undeniable in a year. The men who built remarkable bodies were not the men with the best days. They were the men whose averages pointed the right way for the longest unbroken stretch, through plateaus they audited, gaps they closed, and stalls they answered with one change at a time. You now own every tool they used, because the tools were never the exercises. The tools were the numbers, and the numbers were always yours.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "DIRECTION, COMPOUNDED",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "0.25 KG",
+     "label": "IN A YEAR, UNDENIABLE",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "THE LONGEST UNBROKEN STRETCH",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "THE TOOLS WERE NUMBERS",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your final advantage is the one this channel promised at the very beginning: a skinny guy's numbers are small, honest, and quick to read, and a small surplus, honestly averaged, beats a heroic bulk weighed in panic, every season of your life. The big man's measurement problem is a war against noise. Yours is a garden with a rain gauge. And there is one more advantage, the one the whole test log was secretly building: you no longer need this channel to tell you whether you are gaining. The instrument is yours, the record is yours, the verdicts are yours. A teacher's real product is a student who can grade his own work. By that measure, this final episode is not an ending. It is a graduation.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "A GARDEN WITH A RAIN GAUGE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "GRADUATION",
+     "label": "NOT AN ENDING",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "GRADE YOUR OWN WORK",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "THE COMPASS IS YOURS",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_top.webp",
+   "exercise": "THE FINAL SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "One last time, train with me. Four rounds of squats, forty seconds on, twenty off. Deep, clean, patient reps, the way you have learned to count everything: honestly, and without rushing the verdict. This is the last timer in the log. Make it a good one.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The final protocol is the whole season compressed into four rules, and it is the only protocol you need to keep. One: keep the levels full, protein at its target, surplus in its lane, stores maintained, windows open, gaps closed, because the average grades all of them together. Two: test monthly, one number per system, recorded beside the averages, because explanations must keep arriving as long as grades do. Three: when the average stalls for two honest weeks, audit, choose the single expired input, change it once, and wait three weeks, because calm correction is the master skill. Four: never abandon the record. The record is the project. Men restart diets; scientists continue datasets, and datasets, continued, become bodies.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "KEEP THE LEVELS FULL",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "TEST MONTHLY",
+     "ok": true,
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "ONE CHANGE, THREE WEEKS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "ABANDONING THE RECORD",
+     "ok": false,
+     "pos": "br",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "The last verdict of the test log, and it is read the way all of them were: the pair, together, honestly. A rising average in the band with strong squats: the system is complete, and the verdict is the one this channel gives its graduates: continue, and trust the record over every future doubt. A flat average with a known expired input: you hold the diagnosis and the protocol, which means you are not stuck, you are mid-correction. A falling average: the compass has spoken, and you already know the answer is food, promptly and without drama. Whatever your pair says today, it is not the end of anything. It is this month's reading in a log that now runs on your authority. Comment your weekly change and your squat number. The log's final entry is yours to write. So the log ends where it began, with a man, a number, and a decision to trust it. Everything between was commentary. Keep the record, keep the levels, and let the next seven hundred eighty numbers be written by the scientist the first ones made.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE LAST VERDICT",
+     "pos": "tr",
+     "at": 6
+    },
+    {
+     "kind": "stat",
+     "text": "YOUR AUTHORITY",
+     "label": "THE LOG RUNS ON IT",
+     "pos": "br",
+     "at": 17
+    },
+    {
+     "kind": "mark",
+     "text": "WRITE THE FINAL ENTRY",
+     "ok": true,
+     "pos": "tr",
+     "at": 28
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "The test log closes here, but your record does not. Keep the averages rising, keep the tests honest, and keep trusting numbers over mirrors for the rest of your training life. Thank you for counting with me. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE LOG CLOSES",
+     "pos": "tr",
+     "at": 2
+    },
+    {
+     "kind": "mark",
+     "text": "THE RECORD CONTINUES",
+     "ok": true,
+     "pos": "br",
+     "at": 5
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 9
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

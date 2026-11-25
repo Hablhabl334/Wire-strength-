@@ -1,0 +1,394 @@
+{
+ "id": "758",
+ "v5": true,
+ "title": "Your Meal Timing Test Reveals the Truth About Your nutrient windows",
+ "description": "The anabolic window, the six-meal myth, the fasting wars: meal timing is buried under folklore. Run the test, then hear the truth about your nutrient windows, ranked by what actually matters.",
+ "tags": [
+  "nutrient windows truth",
+  "anabolic window myth",
+  "meal timing facts",
+  "how many meals to gain",
+  "skinny guy timing",
+  "protein window",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "nutrient windows",
+  "timing truth",
+  "anabolic window",
+  "gaining",
+  "calisthenics",
+  "meal frequency"
+ ],
+ "category": "gaining",
+ "badge": "EP 758 - TIMING: THE TRUTH",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TRUTH",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_plank_hold.webp",
+  "big": "3-4",
+  "hook": "MEALS THAT MATTER",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Same audit, truth edition. | Yesterday, on paper. | List every eating moment. | Every meal, snack, shake. | Count them, honestly. | That count is your number. | No judging it yet. | Second, the strength check. | Max strict push-ups. | Floor to lockout, clean. | Count the honest reps. | That is your second number. | Keep the pair together. | At the end I tell | you which timing rules are | real and which are folklore. | This topic collects myths faster | than any other. | Six meals, magic windows, | fasting wars, all noise. | Under the noise sits a | small, honest truth. | Let us dig it out.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "COUNT THE MOMENTS",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "EVERY FEEDING",
+     "label": "HONESTLY LISTED",
+     "pos": "br",
+     "at": 9
+    },
+    {
+     "kind": "chip",
+     "text": "MYTHS COLLECT HERE",
+     "pos": "tr",
+     "at": 14
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 20
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "3-4",
+   "label": "REAL FEEDINGS A DAY COVER A GAINER'S WINDOWS",
+   "sub": "1-2 feedings: windows stand empty - 6 plus: fine, but rarely necessary",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the truth in one line: for a skinny guy gaining on bodyweight training, three to four real feedings a day cover the nutrient windows that matter, and the jump from two to three is worth far more than the jump from four to six. The famous thirty-minute anabolic window, the one that sold a generation of shakes to be chugged in locker rooms, does not survive the evidence: what you eat across the whole day dwarfs the importance of the exact minute after training. The six-meal doctrine fails the same audit from the other side: at equal totals, six small meals build no more than three solid ones for most people. Windows are real. They are just wide, forgiving, and measured in meals per day, not minutes per workout.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "WIDE, FORGIVING WINDOWS",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "3-4",
+     "label": "FEEDINGS A DAY",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "TWO TO THREE MATTERS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "MINUTES ARE FOLKLORE",
+     "pos": "br",
+     "at": 26
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "The mechanism underneath the truth is the feeding window inside your muscle. After a protein feeding, the building machinery switches on, rises for a couple of hours, and then becomes temporarily deaf to more protein even if it keeps arriving, a refractory pause researchers call muscle-full. That pause is why grazing constantly does not stack windows: the machinery needs the pause and a fresh arrival to fire again. It is also why the day's architecture is simple: space real feedings a few hours apart and each one gets its own full window. The system is less like a furnace needing constant coal and more like a bell that must stop ringing before it can ring again. Ring it three or four times a day, properly, and you have rung everything there is to ring. Notice what the wide window does to your stress as well. A man who believes he has thirty minutes to eat correctly after training organizes his life around a fiction and feels guilty inside an ordinary day. A man who knows he has hours eats lunch like a person. Lower guilt, same building, better adherence. The truth is not just accurate. It is livable.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "THE BELL, NOT THE FURNACE",
+     "lines": [
+      "Building fires, pauses, refires.",
+      "Constant grazing stacks nothing."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_plank_sag.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "MUSCLE-FULL IS REAL",
+     "pos": "br",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "SPACE THE FEEDINGS",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "Now rank the timing claims the way the evidence ranks them. At the top, unglamorous and undefeated: hitting your daily protein and calorie totals, which timing cannot rescue if missed and cannot ruin if hit. Second: a protein feeding within a few hours on either side of training, a wide barn door of a window that any normal meal schedule already hits. Third: spreading protein across the day's meals rather than stacking it at night, worth a modest edge. Fourth, and last: everything measured in minutes, the chugged shake, the forbidden late meal, the precise fasting hour, where the evidence thins into marketing. Spend your discipline in that order and timing becomes what it should be: a solved, boring background detail of a gaining life. A final ranking note for the evening meal, since folklore haunts it too: eating before bed does not sabotage a gainer. For our purposes a fed evening, even a late one, usually serves the surplus and may serve the overnight building hours. The scale cares about the week's totals, not the clock's opinion of your dinner.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RANKED BY EVIDENCE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "WHERE TIMING VALUE LIVES",
+     "items": [
+      [
+       "DAILY TOTALS",
+       90,
+       "cyan"
+      ],
+      [
+       "MINUTE RULES",
+       12,
+       "gold"
+      ]
+     ],
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "DISCIPLINE IN ORDER",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "BORING AND SOLVED",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "One deeper truth hides in the fasting wars, so let us settle it for this audience. Fasting is a tool for eating less, and it works at that job honestly. A skinny guy whose problem is eating enough has no business borrowing a dieter's best tool and aiming it at himself. The sixteen-hour fast that helps his heavier friend lose weight will reliably help him lose the afternoon window, the breakfast window, and eventually the argument with the scale. Tools are not good or bad. They are aimed. On this channel the aim is a surplus reached comfortably and repeatedly, and every timing practice gets one question: does it make the surplus easier or harder? Practices that make it harder are out, however fashionable, however loudly the internet rings its own bell about them.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "TOOLS ARE AIMED",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "1 QUESTION",
+     "label": "EASIER OR HARDER?",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "AIM AT THE SURPLUS",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "BORROWED TOOLS MISFIRE",
+     "pos": "br",
+     "at": 28
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage in the truth is freedom, and freedom is a gaining tool. The man who believes in minute-rules trains with a stopwatch anxiety, eats in locker rooms, and quits by month three because the ritual is unbearable. The skinny guy who knows the windows are wide builds a schedule that fits his actual life: breakfast, lunch, a bag snack, dinner, training wherever it lands. Sustainable beats optimal in every long study of real humans, because the optimal plan abandoned in March builds less than the good plan still running in December. You are not trying to win a week. You are building a five-year rhythm of ordinary, well-timed days, and ordinary days are the ones a real life can actually repeat.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "FREEDOM IS A TOOL",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "DECEMBER",
+     "label": "BEATS MARCH",
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "SUSTAINABLE BEATS OPTIMAL",
+     "ok": true,
+     "pos": "tr",
+     "at": 17
+    },
+    {
+     "kind": "chip",
+     "text": "A FIVE-YEAR RHYTHM",
+     "pos": "br",
+     "at": 24
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pushup_top.webp",
+   "exercise": "PUSH-UP SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Ring the bell with me. Four rounds of push-ups, forty seconds on, twenty off, spaced like good meals: work, pause, work again. Stop two reps before failure each round. The pause is part of the training, exactly like the pause between feedings.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The truth-based protocol, four rules. One: set three or four feeding times that fit your real day and defend them like appointments, because windows you schedule are windows you hit. Two: put a protein anchor in each one, so every bell-ring carries blocks, not just calories. Three: let training land where life puts it, with a normal meal somewhere in the few hours around it, and spend zero anxiety on minutes. Four: review weekly, not daily: count how many days hit all your feedings, and fix the schedule, not yourself, when a day keeps failing. A schedule that fails every Thursday is a Thursday problem, and Thursday problems have Thursday solutions, like a bigger Wednesday shop or a desk snack that lives at work.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "FEEDINGS AS APPOINTMENTS",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "A PROTEIN ANCHOR EACH",
+     "ok": true,
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "ZERO MINUTE ANXIETY",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "CHUGGING IN LOCKER ROOMS",
+     "ok": false,
+     "pos": "br",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_plank_hold.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. One or two feedings with modest push-ups: your windows are mostly empty and the count, not the clock, is your fix, so add one real feeding this week before touching anything else. Three or four feedings but low push-ups: your timing is already honest and the engine needs intent, so the training, not the schedule, gets your attention. Five or six feedings with strong push-ups: you may keep your rhythm if you love it, but know that you could simplify to four and lose nothing, and simpler survives longer. Three or four feedings and climbing push-ups: this is the truth working, wide windows, hit daily. Comment your feeding count and your push-up number, and retest both in thirty days. If your count was five or six and your life feels like a food timetable, give yourself permission to simplify. The evidence will not punish four honest feedings. It will reward the version of the plan still standing in six months.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 6
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN RETEST",
+     "pos": "br",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, list the same day and push the same test. Bring me wider windows and a bigger number. Subscribe, and let the bells ring on schedule until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "BELLS ON SCHEDULE",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

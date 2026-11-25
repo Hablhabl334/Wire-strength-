@@ -1,0 +1,414 @@
+{
+ "badge": "EP 566 - KNEE TENDONS OVER MUSCLE",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDON",
+  "YOUR VERDICT"
+ ],
+ "description": "Every force your thigh produces must pass through one short cable below your kneecap, and on one leg that cable carries everything. Take the single-leg test, and learn why the tendon, not the muscle, is the strength you actually own.",
+ "hashtags": [
+  "knee tendons",
+  "single leg strength",
+  "patellar tendon",
+  "tendon training",
+  "split squats"
+ ],
+ "id": "566",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG ONLY"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SIXTY SECONDS PER LEG"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "ONE PER LEG",
+     "pos": "tr",
+     "text": "2 NUMBERS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE TENDON DECIDES"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP THEM SAFE"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "One leg only today. | Stand before a box. | Knee height, roughly. | One foot planted firmly. | Other toe behind, | touching lightly only. | Sink down slowly. | Thigh near parallel. | Drive back up. | Count the clean reps. | Sixty seconds, first leg. | Then the other leg. | Count those reps too. | The smaller number rules. | Write both numbers down. | Keep them somewhere safe. | Your thigh did work. | Your tendon decided how much | of that work counted. | At the end here | I explain that sentence | and grade your cable.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "POTENTIAL VERSUS DELIVERY"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "PASSES ONE GATE",
+     "pos": "br",
+     "text": "100%"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DELIVERIES ARE WHAT TESTS MEASURE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "GRADED SEPARATELY, AT LAST"
+    }
+   ],
+   "big": "ONE GATE",
+   "card": "bignum",
+   "check": 1,
+   "label": "EVERY NEWTON PASSES THROUGH ONE CABLE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the frame, and it is worth slowing down for. Your thigh muscle is an engine that can only deliver its power through one short cable: the patellar tendon, running from kneecap to shin. If that cable is stiff and well-built, nearly all the engine's force arrives at the bone, crisply, on time. If it is compliant, force leaks into stretch, arrives late and discounted, and the same muscle posts a smaller number. This is why two people with identical thighs can own different single-leg strength, and why the stronger-looking leg is not always the stronger one. Muscle is potential. The tendon is the delivery system, and deliveries are what tests measure. Your two numbers today graded the delivery system of each leg separately, possibly for the first time in your life.",
+   "section": "THE NUMBER",
+   "sub": "muscle produces force - the tendon decides how much of it arrives",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "One cable delivers the force",
+      "and sets the kneecap's leverage."
+     ],
+     "pos": "tr",
+     "title": "TRANSMISSION AND LEVERAGE"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A SMALL SPRING INSIDE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "VAGUENESS IS LATENCY"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "UPGRADING IN THE DARK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the gate itself. The patellar tendon is short, thick and built like a bridge cable, and it has a second job beyond transmission: it sets the kneecap's leverage, holding it at the distance from the joint that lets your thigh produce its best force. Under load, the tendon stretches a few percent, stores a little energy, and returns it, a small spring inside the strength movement. Its stiffness decides the system's responsiveness: a stiff tendon transmits force in a sharp wave, so the leg feels powerful and precise; a compliant one transmits in a swell, so the same leg feels vague and slow, especially at the bottom of a single-leg squat where direction reverses. That feeling of vagueness is not weakness. It is latency, force arriving behind schedule, and latency is a tendon property. When you train single-leg strength, the muscle gets the credit in the mirror. The tendon does the upgrading in the dark.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE DELIVERY CEILING"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "TENDON DELIVERY",
+       90,
+       "cyan"
+      ],
+      [
+       "MUSCLE SIZE ALONE",
+       40,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT LIMITS THE TEST"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE STRENGTH THE WORLD MEETS"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Tendon research has measured what lifters feel. In studies of strength athletes, patellar tendon stiffness correlates with how fast force can be produced, the quality that decides single-leg control, jumping and change of direction. Training experiments show the tendon responding to heavy, slow, high-strain loading with measurable increases in stiffness within two to three months, while the muscle grows on its own slower schedule. The asymmetry of the two tissues explains the familiar plateau: muscle adapts, the test stops improving, and everyone blames the muscle, when the true ceiling was the delivery system all along. It also explains the beginner's miracle of single-leg training, where numbers jump in the first weeks: the nervous system and the tendon begin upgrading immediately, long before any visible muscle arrives. Your test today cannot see your thighs' potential. It can only see what your tendons delivered, which is the only strength the world will ever meet.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "IT MANAGES FORCE TOO"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THAN MUSCLE'S",
+     "pos": "br",
+     "text": "A SLOWER CALENDAR"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMPLAINTS ARE SCHEDULING DATA"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BUILT TO LAST DECADES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is a protective chapter in the tendon's story. A stiff, well-trained patellar tendon does not just deliver force; it manages it, spreading load across its fibers and across time, which is part of why trained tendons tolerate the chaotic forces of sport better than untrained ones attached to equally strong muscles. Knee tendon pain, the classic jumper's knee, tends to visit the undertrained and the suddenly overloaded, the engine upgraded faster than the cable. The lesson is not to fear load. It is to respect the cable's slower calendar, raising its dose gradually, letting it thicken at its own pace, and treating its occasional complaints as scheduling information rather than weakness. Build the engine and the cable together, in that order of patience, and the system lasts decades. The calendar point deserves emphasis, because it changes how you should judge your progress. Muscle soreness fades in days and muscle size shifts in months, but a tendon thickens on a schedule of seasons, and it does its building silently, without soreness to announce the work. Judge the gate by the test, monthly, and not by how the leg feels on a given Tuesday. Feelings are weather. Deliveries are climate.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FAVORITE TRAINING ZONE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A WEEK, RECOVERABLY",
+     "pos": "br",
+     "text": "SEVERAL TIMES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PRACTICED LIKE A CRAFT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WIN THE GRADING THAT COUNTS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage at the gate is the load itself. Single-leg work loads the patellar tendon with most of your bodyweight, and your bodyweight sits in the tendon's favorite training zone: heavy enough to signal real adaptation, light enough to repeat several times a week without the joint negotiations heavy athletes endure. They must schedule their tendon work like surgery. You can practice it like a craft, a few quality sets scattered through ordinary days, and tendon craft is a frequency business. Months of that quiet repetition build a delivery system that outperforms bigger engines with neglected cables, which is why light athletes so often look deceptively strong on one leg. The mirror grades the engine. The test grades the gate. You are built to win the grading that counts. And there is a durability dividend: a delivery system trained at bodyweight doses tends to stay trained, maintained by ordinary life long after a gym-built engine would have needed its appointments renewed.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "check": 3,
+   "exercise": "SPLIT SQUATS",
+   "music": "drive",
+   "narration": "Now we upgrade the gate together. Three rounds of split squats, weak leg first, slow down, pause, drive. The weak side sets the reps, and both sides do them.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEAK LEG FIRST"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SLOW, PAUSED, HIGH STRAIN"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STRAIGHT LINES, STRAIGHT CABLES"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "DEPTH, THEN LOAD"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RESPECT THE CALENDAR"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for a tendon-first single leg. Step one: weak leg first and weak leg sets the dose, so the delivery system that lags receives the freshest, fullest training. Step two: slow the lowering to three seconds and pause at the bottom; high strain held over time is the tendon's construction signal, and the pause stops momentum from forging the delivery. Step three: keep the knee tracking over the toes, because the cable adapts along the line it is loaded on, and straight lines build straight cables. Step four: progress load gradually, depth first, then a backpack, respecting the tendon's calendar of every other day at most for hard sessions. Step five: if the front of the knee aches sharply or the ache lingers into the next day, reduce the dose, and see a professional if it persists. Eight weeks of deliveries, and the smaller number stops being smaller.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WAITING TO BE ASKED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT BOTH NUMBERS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BETTER DELIVERY SERVICE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your two numbers, read as delivery grades. Close together and strong: both gates are built, a system most two-legged training never produces; maintain it weekly. A clear gap: one delivery system is undertrained, not damaged, and it will be the faster student of the two, because lagging tendons respond like they have been waiting to be asked. Low on both sides with vague, wobbly reps: the gates are new to this work, and the first month is pure upgrade, nerves and tendon learning together. Put both numbers in the comments, weak leg first, just the pair. Retest in thirty days, same box, same rules. The tendon keeps its books per leg, in deliveries per minute, and yours are about to improve their service.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SMALLER GAP"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same box, one leg at a time, bring me a smaller gap. Subscribe, and keep both numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "knee tendon",
+  "patellar tendon",
+  "single leg strength",
+  "tendon stiffness",
+  "split squat",
+  "unilateral training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "1 LEG",
+  "hook": "THE GATEKEEPER"
+ },
+ "title": "Why Your knee tendons Matter More Than Muscle (The single-leg strength Episode)",
+ "v5": true
+}

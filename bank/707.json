@@ -1,0 +1,401 @@
+{
+ "badge": "EP 707 - THE STIFFNESS TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SPRING",
+  "YOUR VERDICT"
+ ],
+ "description": "Twenty seconds of pogo hops, counted honestly: this test reads the stiffness of your springs. Here is what tendon stiffness really is, how heavy slow loading rebuilds it, and why the strongest spring is the one matched to its owner.",
+ "hashtags": [
+  "stiffness test",
+  "tendon stiffness",
+  "pogo hops",
+  "calisthenics",
+  "achilles"
+ ],
+ "id": "707",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANDS ON HIPS, ANKLES WORK"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLEAN AND QUIET ONLY"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "COUNT THE CONTACTS",
+     "pos": "tr",
+     "text": "20 SEC"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WRITE THE COUNT DOWN"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is twenty seconds long and impossible to fake. Stand tall on flat ground, hands on your hips, and bounce on both feet like the ground is a trampoline you barely trust: small, quick pogo hops, ankles doing the work, knees almost straight, as many clean contacts as you can in twenty seconds. Count only the hops where you leave the ground cleanly and land quiet. That count is your number. It looks like a coordination drill, but the clock is reading something deeper: every contact is your Achilles tendon loading and recoiling in about a quarter of a second, and the number of quality bounces you can stack before they decay is a field measure of your spring system, its stiffness, its timing, its honesty. Write the count down. Springs keep receipts too.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SPRING LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "ENERGY RETURNED, NOT SPENT",
+     "pos": "br",
+     "text": "35+"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A PROPERTY, NOT A VERDICT ON YOU"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STIFFNESS IS TRAINABLE"
+    }
+   ],
+   "big": "35+",
+   "card": "bignum",
+   "check": 1,
+   "label": "CLEAN HOPS IN 20 SECONDS: A WORKING SPRING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for the pogo test. Over thirty-five clean contacts in twenty seconds means your springs load and return energy at a rate that supports running, jumping and landing without the muscles paying full price for every step. Twenty-five to thirty-five is the building band: the spring works, but contacts get sloppy or slow as fatigue visits, and the system is part tendon, part effort. Under twenty-five, the springs are soft for this job: each landing is being absorbed by muscle work instead of elastic return, which is why bouncing feels like labor instead of rhythm. None of this grades your worth as an athlete. It grades one physical property, how much your tendons deform under load, and that property, unlike your height or your frame, is trainable on a schedule we will lay out today.",
+   "section": "THE NUMBER",
+   "sub": "under 25: soft springs - 25 to 35: building - over 35: stiff, timed, honest",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "How little it stretches under load.",
+      "Springs return. Cushions absorb."
+     ],
+     "pos": "tr",
+     "title": "STIFFNESS, DEFINED"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE ACHILLES: YOUR BIGGEST SPRING"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ENERGY BACK, OR ENERGY SPENT"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COUNTED IN CONTACTS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Stiffness has a precise meaning here, and it is not tightness, soreness or stretching range. A tendon is stiff in proportion to how little it lengthens when a force pulls on it. Picture two ropes lifting the same weight: the stiff rope stretches a centimeter, the soft rope stretches four. Both hold, but they do different jobs. The stiff rope returns the load's energy quickly and keeps the muscle's fibers near the length where they produce force best. The soft rope absorbs energy, delays it, and makes the muscle work at shifting lengths like a rower in a stretching boat. Your Achilles is the biggest spring you own, and in running it can return a large share of each stride's energy for free, if it is stiff enough to behave like a spring instead of a cushion. Your hop count today is that behavior, counted.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "tibialis_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HIGH STRAIN IS THE ORDER"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "HEAVY + HOLDS",
+       85,
+       "cyan"
+      ],
+      [
+       "LIGHT BOUNCING",
+       30,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT REMODELS COLLAGEN"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE COLLAGEN TIMELINE",
+     "pos": "tr",
+     "text": "12+ WEEKS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE TEST AUDITS, WORK BUILDS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The training research on stiffness is unusually clear about the recipe. Tendons stiffen in response to high strain: heavy loads, slow strong contractions, and long isometric holds, applied over twelve weeks or more. Light, bouncy, low-force work, the kind most people call tendon training, mostly trains skill and leaves the material largely unchanged, because the collagen never receives a strong enough order to remodel. The studies also draw the map's edges: stiffness adapts regionally, most where the strain actually visits, and it grows together with strength when the program raises both, which is why the strongest tendons belong to people who lift heavy and hold long, not to people who only bounce. Your pogo number, then, is best read as an outcome gauge. The construction work happens elsewhere, in the slow heavy minutes, and the test just audits the building.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MATCHED, NOT MAXIMAL"
+    },
+    {
+     "asset": "ren_calf_raise_front.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Stiffness must fit its engine.",
+      "Forces relocate; they never vanish."
+     ],
+     "pos": "br",
+     "title": "THE MATCHING RULE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A PAIR, ALWAYS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is a catch, and honest channels say it out loud: stiffer is not infinitely better. A spring must match its engine. Make a tendon dramatically stiffer while the muscle stays the same and the forces simply relocate, arriving faster and harder at the muscle fibers and the junctions between tissues, which have their own limits. Make it too soft and energy leaks, timing smears, and the muscle pays retail for every step. Elite sprinters and elderly walkers sit at opposite ends of this dial, and neither setting would serve the other. Your target is not maximum stiffness. It is matched stiffness: a spring tuned to your mass, your strength and your sports, stiff enough to return energy, compliant enough to protect the machinery. This is why the channel trains stiffness and strength as a pair, always, and why today's verdict will speak of matching, not maximizing.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT LOAD, REAL STRAIN"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "MAINTENANCE THAT COMPOUNDS",
+     "pos": "br",
+     "text": "WEEKLY"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PROGRESS CANNOT HIDE"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COUNTED IN CONTACTS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in spring building is that your body is a light load on an honest spring. Heavy, slow calf work at your bodyweight already strains the Achilles near the zone where remodeling orders get written, and you can repeat that work frequently because the absolute forces, and therefore the recovery bill, stay moderate. The heavy man's spring work is a major construction project with major downtime. Yours is weekly maintenance that compounds. There is a second edge: your hop test is exquisitely comparable across months. Same body, nearly the same mass, same floor, so when the count climbs, it is the spring that changed, not the conditions. Most people test their tendons so loosely that progress hides inside measurement noise. Yours will stand in the open, counted in contacts, impossible to argue with.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "POGO HOPS",
+   "music": "drive",
+   "narration": "Now we rehearse the spring. Four rounds: twenty seconds of pogo hops, tall and quiet, then forty seconds of rest. Quality only: when the bounce turns to mush, the round is already over.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEAVY AND SLOW BUILDS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BOUNCING ONLY AUDITS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NEVER STIFFNESS WITHOUT STRENGTH"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "48 HOURS FOR COLLAGEN"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The stiffness protocol, four rules. One: build with heavy and slow, two or three sessions a week of strong calf raises through full range plus long isometric holds at mid-range, the recipe the research actually supports. Two: keep the pogo work as seasoning, short, fresh and infrequent, because bouncing audits the spring but does not rebuild it. Three: raise stiffness and strength together, always in the same block, so the pair stays matched and forces have somewhere welcome to go. Four: respect the collagen calendar, forty-eight hours between heavy tendon sessions and a retest of today's hop count once a month, same shoes, same floor, same twenty seconds. Springs are infrastructure. Infrastructure is built on schedules, not enthusiasm.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SOFT IS A STARTING MATERIAL"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN BOUNCE AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR HOP COUNT"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A MATERIAL, NOT A TALENT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. Under twenty-five clean hops: soft springs, and the good news is that soft is a starting material, not a sentence; a season of heavy slow work rewrites this number more reliably than almost any other on the channel. Twenty-five to thirty-five: a building spring, energy partly returned, partly billed to the muscles, and the paired protocol is exactly your prescription. Over thirty-five with the hops staying quiet to the final second: a matched spring, honestly built, the kind that makes running feel like rhythm instead of labor. In every band, remember the episode's real claim: the count never measured your talent. It measured a material property you can change on a schedule. Put your hop count in the comments, just the number. In thirty days, bounce again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MORE CONTACTS, QUIETER LANDINGS"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, same shoes, twenty seconds of honest bouncing. Bring me more contacts and a quieter landing. Subscribe, and keep today's count somewhere safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "tendon stiffness",
+  "stiffness test",
+  "pogo hops",
+  "achilles tendon",
+  "spring mechanics",
+  "calisthenics science"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "20 SEC",
+  "hook": "COUNT YOUR SPRING"
+ },
+ "title": "Why Your tendon stiffness Matter More Than Muscle (The tendon stiffness science Episode)",
+ "v5": true
+}

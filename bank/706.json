@@ -1,0 +1,413 @@
+{
+ "badge": "EP 706 - THE SLEEP TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE HORMONES",
+  "YOUR VERDICT"
+ ],
+ "description": "A dead hang within two minutes of waking: this morning test reads last night's recovery better than any tracker. Here is what sleep actually secretes, what short nights quietly tax, and the protocol that makes your mornings stronger.",
+ "hashtags": [
+  "sleep test",
+  "recovery hormones",
+  "dead hang",
+  "calisthenics",
+  "sleep science"
+ ],
+ "id": "706",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO PHONE, NO COFFEE"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WITHIN TWO MINUTES OF WAKING"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE BOTH NUMBERS"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Strength reads last night honestly."
+     ],
+     "pos": "br",
+     "title": "THE MORNING REPORT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "IT NEVER LIES POLITELY"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Tomorrow morning, listen carefully. | Alarm goes off. | Feet on the floor. | No phone, no coffee. | Straight to the bar. | Within two minutes | of waking up. | Grip the bar. | Hang, arms straight. | Start your clock. | Shoulders quiet, legs still. | Hang until you drop. | That time is the test. | Write it down. | Next to it, write | last night's sleep. | Hours, honestly counted. | Two numbers, one story. | Your morning strength | is last night's report. | It never lies politely. | At the end | I tell you | what the pair means. | And how to fix | the cheap half.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR BEST IS THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE RECOVERED BAND",
+     "pos": "br",
+     "text": "-10%"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE BAR PAINTS NOTHING"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEFORE THE DAY STARTS LYING"
+    }
+   ],
+   "big": "YOUR BEST",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE ONLY FAIR LINE IS YOUR OWN FRESH MORNING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "This test has no universal line, and that is its honesty. Your benchmark is your own best morning: the hang you produce after your best recent night of sleep. Within ten percent of that best, you woke recovered, whatever the clock said you slept. Ten to twenty-five percent down, the night taxed you; something in it, length, timing, quality, cost you strength you own. More than twenty-five percent down, the night failed you outright, and training hard today would be spending from an empty account. Most men judge sleep by how they feel at breakfast, after light, food and caffeine have painted over the evidence. The bar at minute two paints nothing. It asks the nervous system directly, before the day starts lying to you.",
+   "section": "THE NUMBER",
+   "sub": "within 10% of best: recovered - 10 to 25% down: taxed - over 25% down: last night failed you",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Deep sleep pulses growth hormone.",
+      "Morning strength is a hormone report."
+     ],
+     "pos": "tr",
+     "title": "THE NIGHT SHIFT"
+    },
+    {
+     "asset": "ren_dead_hang_front.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STAGES HAVE SPECIFIC JOBS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RECALIBRATED OVERNIGHT"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CUT SLEEP, AMPUTATE STAGES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Sleep is not rest in the way a chair is rest. It is a scheduled chemical shift, run by hormones, in stages. The deepest stage, slow-wave sleep, concentrated in the first half of the night, is when your pituitary releases the day's biggest pulse of growth hormone, the signal that tells tissues to repair and rebuild. Testosterone follows its own overnight arc, rising with sleep and peaking toward morning, which is one reason morning strength is a hormone report. Meanwhile the brain clears metabolic waste, refills the glycogen your muscles spent, and rebalances the nervous system's sensitivity, literally recalibrating how loudly your motor units can be called tomorrow. Cut the night short and you do not lose a little of everything evenly. You amputate specific stages, and each stage takes its specific job with it.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIVE-HOUR WEEKS TAX HORMONES"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FEELS FINE",
+       75,
+       "gold"
+      ],
+      [
+       "PERFORMS FINE",
+       45,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SHORT SLEEP, MEASURED"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE CLIFF, MEASURED CHEAPLY",
+     "pos": "tr",
+     "text": "SECONDS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FEELING FINE IS NOT DATA"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The studies on short sleep are uncomfortably consistent. Restrict healthy young men to around five hours a night for a week and their daytime testosterone drops by an amount comparable to years of aging. Restrict athletes' sleep and reaction time, sprint output and accuracy all sag within days, while injury rates in young athletes who chronically sleep under eight hours run markedly higher than in their rested teammates. And the cruelest finding: the sleep-deprived often rate themselves as only slightly tired while their measured performance falls off a cliff. Feeling fine is not data. That is precisely why this channel tests the morning instead of asking it. Your hang time after a short night is the cliff, measured in seconds, impossible to argue with and cheap to collect. The flip side of the same research deserves equal honesty: extending sleep is one of the few interventions that reliably improves performance in already-trained people, which is why professional teams now employ sleep coaches and schedule travel around nights rather than the reverse. Nothing about that world is closed to you. The intervention is a defended bedtime and a fixed alarm, the two cheapest performance tools ever measured, and your morning hang is the receipt that proves whether you actually used them.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STAGES ARE NOT EVENLY SPREAD"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Late bed taxes repair.",
+      "Early alarm taxes the tail."
+     ],
+     "pos": "br",
+     "title": "TWO SHORT NIGHTS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ANCHOR THE WAKE TIME"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One detail decides whether your fix works: the stages are not evenly spread across the night. Deep, hormone-heavy slow-wave sleep clusters in the first cycles after you fall asleep, while the dream-rich REM stage clusters toward morning. This asymmetry creates two different kinds of short night. Going to bed late but waking on time mostly amputates the front of the night and delays everything. Waking brutally early amputates the REM-rich tail. Both cost you, differently: one taxes the body's repair shift, the other taxes mood, learning and the fine calibration of skill. It is also why a fixed wake time with a flexible bedtime beats the reverse for most people: anchor the end you cannot move, and let sleep pressure, which builds all day, pull the start earlier on its own.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FREE ANABOLIC"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "NO EQUIPMENT, NO REFILL",
+     "pos": "br",
+     "text": "0 COST"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOU CANNOT HIDE FROM THE LOAD"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EVERY STRONG MORNING IS A RECEIPT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the skinny advantage nobody puts on a poster: sleep is the one anabolic tool that costs nothing, requires no equipment, and scales perfectly with being light. Your joints carry less load into the night, your breathing works against less mass, and the body you are repairing is a smaller, cheaper construction project than the heavy man's, finished faster by the same night shift. More importantly, bodyweight training is uniquely honest about sleep: your morning hang, your push-up max, your wall sit all read your recovery directly, because the load is you. The gym lifter can hide a bad night behind a lighter plate choice. You cannot hide from yourself, which means you get the feedback loop that actually fixes the problem. Every strong morning you produce is a receipt proving the cheapest supplement in the world worked.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Now we spend a little of last night's work. Three rounds: thirty seconds of dead hang, thirty seconds rest. Quiet shoulders, full grip, breathe slow. This is the test movement turned into training.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FIX THE WAKE TIME"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MORNING LIGHT SETS TONIGHT"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NO CAFFEINE EXCEPTIONS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FIND YOUR PERSONAL NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The sleep protocol, four rules, in order of power. One: fix your wake time and defend it seven days a week; the anchor drags the whole system into rhythm, and rhythm is what stages are made of. Two: get outside light into your eyes within an hour of waking; it sets the clock that will make you sleepy on time tonight. Three: caffeine obeys the cutoff from our stimulant episode, eight to ten hours before bed, no exceptions for good intentions. Four: run the morning hang test twice a week and log it beside the night's hours; within a month you will know your personal number, the hours below which your strength falls, and that number will run your evenings better than any tracker score. You do not need more discipline. You need your own data.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RECOVERED: TRAIN AS PLANNED"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN TEST THE MORNING AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR MORNING SECONDS"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FACTORY, NOT THE PRODUCT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict, from this morning's pair of numbers. Within ten percent of your best morning: recovered, train as planned, and notice what last night looked like, because that night is your template. Ten to twenty-five percent down: train, but trim the top end; skill work, technique, volume at moderate effort, and an earlier bed tonight is part of the session. Over twenty-five percent down: the night failed, and the strongest move available today is a walk, light work, and a defended bedtime; smashing a max on an empty account is how small debts become injuries. In every band, the episode's truth holds: you did not lose strength overnight. You revealed the state of the factory that builds it. Put your morning seconds in the comments, just the number. In thirty days, test again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE NIGHT THAT BUILT IT"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, alarm, floor, bar, two minutes, no phone and no coffee first. Bring me a longer hang and the night that built it. Subscribe, and keep this morning's numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "sleep science",
+  "recovery hormones",
+  "growth hormone sleep",
+  "morning strength test",
+  "dead hang test",
+  "sleep and muscle"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_hang_side_active.webp",
+  "big": "2 MIN",
+  "hook": "TEST BEFORE BREAKFAST"
+ },
+ "title": "Why Your recovery hormones Matter More Than Muscle (The sleep science Episode)",
+ "v5": true
+}

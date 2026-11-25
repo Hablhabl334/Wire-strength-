@@ -1,0 +1,387 @@
+{
+ "badge": "EP 678 - THE COLLAGEN WINDOW",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE COLLAGEN CLOCK",
+  "YOUR VERDICT"
+ ],
+ "description": "Your tendons are collagen, and collagen runs on a clock most lifters have never heard of. Test your calf-raise number, learn why the research says the snack must land an hour before the loading, and fix the timing mistakes that leave your cables underfed.",
+ "hashtags": [
+  "collagen window",
+  "tendon health",
+  "gelatin",
+  "vitamin c",
+  "calf raises"
+ ],
+ "id": "678",
+ "scenes": [
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG, SLOW TEMPO"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WEAKER SIDE COUNTS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR TENDON NUMBER",
+     "pos": "tr",
+     "text": "CLEAN REPS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP THE COUNT"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is a tendon test wearing a calf exercise as a disguise. Stand on one leg at the edge of a step, heel free, other foot tucked behind you. Rise up on a slow count of three, lower on a slow count of three, full range, no bounce, no rushing the hard part. Count every clean rep on your weaker side until the tempo breaks or the range shrinks. That count is your tendon number: it grades the Achilles, the calf, and the collagen cable that joins them, all in one honest set. Tendons do not announce themselves like muscles. They keep quiet for years and then present the entire bill at once, which is why this channel tests them while they are still whispering. Keep your rep count, and note which side you tested, because the side matters at the verdict. By the end of this video you will know the sixty-minute rule that decides whether the collagen you eat becomes the cable you load, or just an expensive snack.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PEAK AMINO ACIDS: ABOUT ONE HOUR"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE DELIVERY LEAD TIME",
+     "pos": "br",
+     "text": "60 MIN"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SIGNAL MEETS MATERIALS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "IT COSTS A GLANCE AT THE CLOCK"
+    }
+   ],
+   "big": "60 MIN",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE SNACK MUST LAND ONE HOUR BEFORE THE LOADING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the number this episode is built on. In a small but much-discussed study, subjects who took gelatin with vitamin C one hour before a short bout of exercise showed roughly double the collagen synthesis markers of the groups who timed it differently. One hour is not a ritual; it is pharmacology. After you swallow gelatin or collagen peptides, the amino acids they carry, glycine and proline above all, rise in the blood and peak around the one-hour mark. Tendons, unlike muscles, have a poor blood supply, so the building blocks cannot be rushed to the site after the fact. They must already be circulating when the loading signal fires, because the signal and the materials have to meet. Take the same snack with the workout and the peak arrives as the session ends: the workers clocked in after the delivery window closed. Sixty minutes early is the whole trick, and it costs nothing but a glance at the clock.",
+   "section": "THE NUMBER",
+   "sub": "with the workout: too late - one hour before: amino acids on site",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Loading raises both sides.",
+      "Materials decide the net."
+     ],
+     "pos": "tr",
+     "title": "SYNTHESIS VS BREAKDOWN"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A REMOTE SITE ON A SLOW ROAD"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FEED FIRST, THEN FIRE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the cable itself. A tendon is collagen the way a rope is fibre: long triple-helix strands, bundled, crosslinked, built to transmit force and store spring. The builders are cells called fibroblasts, sitting inside the rope, and their working day is a balance: they lay down new collagen while enzymes take old collagen apart. Hard loading tilts both sides of the ledger up, synthesis and breakdown rise together, and for the first day or so after a heavy session breakdown can actually lead. What decides the net result over weeks is whether the fibroblasts had materials during their working hours. This is the deep difference between tendon and muscle. Muscle is flooded with blood and forgives sloppy timing. The tendon is a remote site on a slow road, and it eats what the blood brought an hour ago. Feed the road, then fire the signal, in that order, and the balance tips toward a thicker, stiffer, stronger cable.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TEN MINUTES OF LIGHT LOADING"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "WITH THE SESSION",
+       40,
+       "red"
+      ],
+      [
+       "ONE HOUR BEFORE",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE SAME SNACK, DIFFERENT CLOCK"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "THE TENDON'S REFRACTORY PERIOD",
+     "pos": "tr",
+     "text": "~6 HRS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TIMING WAS THE TREATMENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The study behind the sixty-minute rule deserves a closer look, because its design is the lesson. Researchers gave subjects gelatin and vitamin C at different times relative to a brief loading session, ten minutes of light rope skipping, then measured collagen synthesis in engineered ligament tissue fed by the subjects' blood. The one-hour-before group roughly doubled the synthesis signal. Notice what the loading was: ten minutes, light, almost embarrassingly easy. Tendon cells respond to a short bout of strain and then go quiet for hours, a refractory period of roughly six hours, so the researchers were not training the tendon hard. They were knocking on the door at the moment the blood was full of bricks. The bars below sketch the direction of that result: the same snack, the same ten minutes, separated only by the clock. Timing was not a detail in this study. Timing was the treatment.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FASHION IS WHERE TIMING DIES"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ONE THEME: THE CLOCK",
+     "pos": "br",
+     "text": "5 MISTAKES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SCAFFOLD FOOD, NOT MUSCLE FOOD"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO MORTAR CREW, NO WALL"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now the mistakes, because collagen has become a fashionable powder and fashion is where timing goes to die. Mistake one is taking it with the workout, the error the whole episode exists to correct. Mistake two is skipping the vitamin C: it is not decoration, it is a required cofactor for the enzymes that crosslink new collagen, and without it the bricks arrive with no mortar crew. Mistake three is the marathon tendon session: an hour of pounding does not beat ten focused minutes, because the cells stopped listening after the first bout and will not listen again for hours. Mistake four is loading tendons hard every day for the same reason; the refractory clock makes daily maximal tendon work mostly noise. Mistake five is expecting collagen to build muscle: its amino profile is poor in leucine, the muscle trigger, so it is scaffold food, not muscle food, and it never replaces real protein at meals. Five mistakes, one theme: the right material, at the wrong time, in the wrong dose, is the wrong material.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRAIN WITHOUT A BARBELL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A STAIRCASE IS THE GYM",
+     "pos": "br",
+     "text": "10 MIN"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ACCESS, PRECISION, COST"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE LEAST LUGGAGE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your frame turns this protocol into a bargain. The loading bout that knocks on the tendon's door does not need a barbell; it needs strain, and a light man's bodyweight delivers honest strain to his own cables with nothing but a step and a wall for balance. The big man must load a leg press to reach his tendons through all that mass and muscle. You reach yours with the calf test you just did, repeated as ten calm minutes. The snack is cheap, the session is short, the equipment is a staircase, and the whole intervention happens in your kitchen an hour before you train anyway. This is the pattern worth noticing across this season: the skinny disadvantage is almost always a story about total size, while the skinny advantages are about access, precision, and cost. Collagen timing is pure access. The window is open to everyone, but you walk through it carrying the least luggage.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "POGO HOPS",
+   "music": "drive",
+   "narration": "This is the knock on the door: light, springy pogo hops, ankles doing the work, four short rounds. Stay bouncy, stay quiet. The tendons are listening.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "15 G, ONE HOUR BEFORE"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TEN MINUTES OF LOADING"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SECOND SESSION: 6 HRS LATER"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "COLLAGEN AS YOUR ONLY PROTEIN"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol fits on an index card. Take roughly fifteen grams of gelatin or collagen peptides with about fifty milligrams of vitamin C, a small glass of juice covers it, sixty minutes before training. When the hour lands, give the target tendon about ten minutes of light, rhythmic loading: pogo hops, skipping, or slow calf raises, the kind of work from today's timer block. If you want a second tendon session in a day, separate it by at least six hours so the cells are listening again. Run three or four tendon days a week rather than seven; the refractory clock makes more into less. Keep your ordinary protein at meals untouched, because the scaffold crew and the muscle crew eat different food and both must be fed. Then be patient in the specific way tendons demand: judge this protocol at twelve weeks, not twelve days. Cables are built on the calendar, not on the stopwatch.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDERBUILT IS GOOD NEWS HERE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME STEP, SAME TEMPO",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR WEAKER SIDE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your tendon verdict, from the calf test. Under ten clean reps on the weaker side: the cable is underbuilt, and it is the best news in this episode, because the fix is cheap, timed, and already in your kitchen. Ten to twenty: a working base; the window protocol will thicken what the reps built. Over twenty with a small gap between sides: strong cables, and your job is maintenance and patience. If one side trails the other by more than a fifth, give the weak side an extra set every session until the gap closes; tendons forgive slowly but they do keep the score fairly. Put your weaker-side reps in the comments, just the number. In thirty days, same step, same tempo, same side, and we retest. The mirror will not show you a tendon changing. The count will.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same step, same slow count. Bring me more clean reps on the weak side. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "collagen timing",
+  "gelatin vitamin c",
+  "tendon health",
+  "collagen synthesis",
+  "calf raise test",
+  "tendon training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_achilles_profile.webp",
+  "big": "60 MIN",
+  "hook": "THE COLLAGEN WINDOW"
+ },
+ "title": "5 collagen timing Mistakes That Are Destroying Your collagen synthesis",
+ "v5": true
+}

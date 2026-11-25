@@ -1,0 +1,392 @@
+{
+ "badge": "EP 605 - WEAK-SIDE RETEST",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "CLOSING THE GAP",
+  "YOUR VERDICT"
+ ],
+ "description": "The weak-side test exposed the gap between your left and right, and then most people train both sides equally and wonder why the gap stays. Today we retest both sides and measure the gap itself. See whether your weak side caught up, and the protocol that closes the last of it.",
+ "hashtags": [
+  "weak side",
+  "left vs right",
+  "balance test",
+  "retest day",
+  "nerve training",
+  "calisthenics"
+ ],
+ "id": "605",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRONG SIDE FIRST, SAME RULES"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "ONE GAP",
+     "pos": "br",
+     "text": "2 NUMBERS"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FOOT DOWN = CLOCK STOPS"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "THE GAP IS THE NUMBER",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO WALL, NO HOPPING"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Time to face the gap again. In the weak-side episode you stood on one leg, eyes open, arms still, and timed how long each side could hold you without the foot grabbing at the floor. Then you did the same count with single-leg calf raises, slow and full, until the form broke. Almost everyone found the same thing: one side was not slightly worse, it was embarrassingly worse, sometimes half the other side's number, and that difference, the gap, became your real number. Today we measure the gap again. Same floor, same order, strong side first so the rules match the first test, then the weak side, best of two honest attempts each. No holding the wall, no hopping back to center and calling it balance. When the foot goes down or the raises turn to bouncing, the clock stops. Get your old two numbers in your head. At the end I will tell you what a shrinking gap proves about the wiring between your brain and your weak side, and what a stubborn one is trying to say.",
+   "section": "THE RETEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 10% = BALANCED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE GOVERNOR ZONE",
+     "pos": "br",
+     "text": "OVER 25%"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE PERCENTAGE IS THE VERDICT",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "UNDER 10%",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE BALANCED LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the scale for the gap itself, the same one from the first test. Take your weak side's number, divide it by your strong side's, and look at what is missing. A gap under ten percent is the balanced line: the two sides are close enough that your body stops compensating, and movement becomes honest. Between ten and twenty five percent, you are in the normal trained-under-construction zone, one side clearly apprenticed to the other. Over twenty five percent, the weak side is not a detail, it is the governor on everything you do, because your nervous system will not let the whole body produce force the weak link cannot survive. Now place your old gap and your new gap on that scale. Both sides probably improved, that is expected, but the verdict of this retest lives in the percentage, not in either number alone. A shrinking gap means the wiring evened out. A growing one means your strong side has been doing the weak side's homework again.",
+   "section": "OLD VS NEW",
+   "sub": "a gap over 25 percent: your weak side is running the show - under 10: the wiring evened out",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The weak side is under-called, not under-built.",
+      "Wobble is a negotiation full of pauses."
+     ],
+     "pos": "tr",
+     "title": "SAME HARDWARE, QUIETER SIGNAL"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BALANCE = THE SIGNAL'S READOUT"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "AN UPGRADED SIGNAL",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why does a weak side exist at all, and what changed between your two gaps? The muscles on your two sides are near-identical hardware. The difference is wiring. Your nervous system sends the strong side a loud, practiced signal and the weak side a quieter, later one, because almost everything in daily life, stairs, carrying, even rising from a chair, is quietly led by one side. Balance is the purest readout of that signal: standing on one leg is your nerve negotiating with gravity a hundred times a second, and the weak side's negotiation is full of pauses and corrections you can feel as wobble. Training the weak side on its own, single-leg work where it cannot hide behind its partner, forces the signal to strengthen: the nerve fires earlier, the small stabilizers wake sooner, and the corrections get smaller. That is what a shrinking gap is made of. Not new muscle. An upgraded signal to muscle that was there all along, waiting to be called properly.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_toe_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CROSS-EDUCATION: A SMALL DONATION"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FIRST TEST",
+       28,
+       "red"
+      ],
+      [
+       "TODAY",
+       11,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE GAP, OLD VS NEW"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EQUAL TRAINING FREEZES THE GAP"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "STUMBLES ARRIVE ON ONE LEG",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science here has a twist most people never hear: training one side improves the other, a little, through the shared wiring in the spinal cord and brain, an effect researchers call cross-education. But the retest exposes its limit. Cross-education gives the untrained side a small neural donation, maybe a tenth of the trained side's gain, which is exactly why training both sides equally keeps the gap frozen: the strong side gets the full deposit plus its own donation, and the weak side gets the deposit minus the head start. The math never closes. The only way the percentage moves is asymmetric work, the weak side training first, training more, and training while fresh, which is the protocol coming up. There is a second finding worth your respect: side gaps predict injury better than total strength does, because landings and stumbles always arrive on one leg, and the leg they arrive on does not ask which one you trained. Your gap is not a cosmetic number. It is the measurement of the exact situation your body will face on the worst step of your year.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hip_rotation.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO GAPS, STACKED"
+    },
+    {
+     "asset": "hip_joint_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "stat",
+     "label": "READ THE MAP",
+     "pos": "br",
+     "text": "ANKLE LOW, HIP HIGH"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "A DIAGNOSIS, NOT A SHRUG",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Look closer at where your gap lives, because the retest usually finds it is not one gap but two, stacked. The first is the ankle and foot: the weak side's small stabilizers fire late, so the wobble starts low. The second is the hip: the weak side's hip muscles let the pelvis drift and tilt, and no ankle can balance a platform that is sliding above it. This is why some of you closed the balance gap but not the raise gap, or the reverse: you fixed the floor you trained and left the other untouched. Read your two sub-numbers like a map. Balance improved but raises did not: the signal got better, the strength did not, so load the weak side heavier. Raises improved but balance did not: the muscle arrived but the negotiation is still clumsy, so slow down and add eyes-closed and head-turn balance work. A retest that only gives a total is a shrug. A retest that localizes the gap is a diagnosis, and diagnosis is what the next block is built from.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALLER MASS, SMALLER WOBBLES"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "WHAT WIRING WANTS",
+     "pos": "br",
+     "text": "MANY FRESH REPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "YOUR OWN CONTROL GROUP",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE ONLY VARIABLE: ATTENTION"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the balance game is, once again, the body you keep apologizing for. Balance is a negotiation between your mass and gravity conducted through one ankle, and less mass means smaller corrections, slower wobbles, and a negotiation your nerve can actually win while it is still learning. A heavier man relearning his weak side fights bigger forces with the same size stabilizers, and his practice sessions end sooner because every correction costs more. Yours can run long and often, which is exactly what wiring work wants: many small, fresh, successful negotiations. There is also a fairness point hidden in this retest. The gap is the one number on this channel where the strong side cannot help you cheat. It stands there as the control group of your own experiment, proving what your body does when a signal is practiced, while the weak side proves what happens when it is not. Same genes, same food, same sleep. The only variable was attention. That is the most encouraging control group a skinny guy ever gets.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "check": 3,
+   "exercise": "SINGLE-LEG BALANCE",
+   "music": "drive",
+   "narration": "Now we wire the weak side together. Four rounds: thirty seconds of single-leg balance on the weak side, twenty seconds to switch and breathe. Eyes open, soft knee, tall posture. The strong side rests today. Go.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_toe_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "WEAK SIDE FIRST, ALWAYS",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STRONG SIDE: MAINTENANCE ONLY"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "ONE CHAOS DRILL A WEEK",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "SKIPPING THE WEAK SIDE TIRED",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol is asymmetric on purpose, because symmetry built the gap's stubbornness. Rule one: the weak side goes first in every session, while the wiring is fresh, and it gets one extra set of everything, balance, raises, holds. Rule two: the strong side trains for maintenance only, matched to the weak side's current numbers, never its own, so it stops running away from the comparison. Rule three: add one chaos drill a week for the weak side, balance with head turns, then eyes closed for the final seconds, because the worst step of your year will not arrive with your eyes politely fixed on the horizon. And bury the mistake that froze so many gaps: testing only the strong side because it feels good, or skipping the weak side on tired days, which are precisely the days the wiring needs the appointment. Weak side first, weak side extra, strong side patient. That is the entire politics of closing a gap.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE ALL FOUR NUMBERS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR GAP PERCENT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WIRING OR HIDING?"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your gap, and its verdict. Over twenty five percent still: your weak side remains the governor, and the asymmetric protocol is not optional for you, it is the whole next block, starting with weak-side-first as a law, not a preference. Between ten and twenty five: the wiring is evening out on schedule, the apprentice is catching the master, and another block of the same politics will land you near the line. Under ten percent: balanced. Your body has stopped compensating, your landings and stairs are honest on both sides, and you now own something most gym members never test, let alone build. Write all four numbers down, both sides, both dates, because the gap only exists on paper where the two tests can see each other. Put your new gap in the comments, just the percentage. We retest in thirty days, same floor, same order, same rules, and we find out whether the last of the gap was wiring or was hiding.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "SINGLE-DIGIT GAP",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, weak side first in every session until then. Bring me a gap in single digits. Subscribe so retest day finds you balanced. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "weak side test",
+  "left vs right",
+  "balance retest",
+  "nerve balance",
+  "unilateral training",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_balance_test.webp",
+  "big": "GAP: 8%",
+  "hook": "WEAK SIDE"
+ },
+ "title": "Your New Number: The left vs right Retest Nobody Does",
+ "v5": true
+}

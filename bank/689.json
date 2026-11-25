@@ -1,0 +1,387 @@
+{
+ "badge": "EP 689 - THE COLLAGEN RECIPE",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE RECIPE",
+  "YOUR VERDICT"
+ ],
+ "description": "The collagen protocol, written as a recipe instead of a rumour: the dose, the hour, the ten-minute loading bout, and the six-hour spacing, all graded by a single-leg calf test you can run on any staircase.",
+ "hashtags": [
+  "collagen recipe",
+  "tendon loading",
+  "gelatin dose",
+  "calf test",
+  "vitamin c"
+ ],
+ "id": "689",
+ "scenes": [
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG, FULL RANGE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WEAKER SIDE FIRST"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR TWO NUMBERS",
+     "pos": "tr",
+     "text": "REPS + THE GAP"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "AMOUNTS, TIMES, SCHEDULE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is the staircase standard for tendon health: the single-leg calf raise, done properly. Stand on the edge of a step, one foot, heel hanging free, fingertips on the wall for balance only. Rise as high as the ankle allows, lower below the step's level, and repeat at a steady, honest tempo, no bouncing out of the bottom and no shortening the range as it burns. Count the clean reps on your weaker side until form breaks: that is your number, and it grades the calf, the Achilles, and the collagen that binds them into one working cable. Test the strong side too, and note the gap between them, because the verdict at the end has a special instruction for men whose sides disagree. Keep both numbers, weaker side first. By the end of this video, the collagen protocol stops being something you heard about and becomes a recipe with amounts, times, and a schedule, the way every useful thing in this season eventually becomes a protocol. First, the dose itself, because the recipe begins, as recipes do, with ingredients weighed honestly.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GLYCINE AND PROLINE, WEIGHED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE STUDIED DOSE",
+     "pos": "br",
+     "text": "15 G + VITAMIN C"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "T-MINUS SIXTY MINUTES"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A PROMISE SOMEBODY MEASURED"
+    }
+   ],
+   "big": "15 G",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE STUDIED DOSE, ONE HOUR BEFORE LOADING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the recipe's first line, taken from the protocol the research actually used. Roughly fifteen grams of gelatin, or the equivalent in collagen peptides, carrying the glycine and proline a tendon is built from, taken with vitamin C, around fifty milligrams, a small glass of orange juice covers it, because vitamin C is a required cofactor for the enzymes that stitch new collagen together. And the timing from the window episode stands as the recipe's second line: swallow it one hour before the loading bout, so the amino acids are peaking in the blood when the tendon fires its building signal. Fifteen grams is not a mystical amount; it is simply the dose at which the blood levels in the studies rose enough to feed the engineered tissue they tested. More has not been shown to be better, and less leaves the delivery thin. A recipe is a promise that somebody measured. This one was, in a laboratory, with the tissue itself reporting back.",
+   "section": "THE NUMBER",
+   "sub": "15 g gelatin or peptides + vitamin C - swallowed at T-minus 60 minutes",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Ten minutes of signal.",
+      "Six hours of deafness."
+     ],
+     "pos": "tr",
+     "title": "THE BAKERY SCHEDULE"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KNOCKING ON AN EMPTY DOOR"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COOK TO THE TISSUE'S SCHEDULE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why does the loading bout in this recipe last only about ten minutes? Because of how tendon cells listen. When a tendon is strained, its fibroblasts switch on collagen production, but they do not stay switched on: after a short bout of loading they become refractory, deaf to further signal for hours, roughly six by the estimates used in this research area. A sixty-minute tendon session is therefore not six times a ten-minute one; it is one signal followed by fifty minutes of knocking on a door nobody is answering. This refractory rhythm explains the whole architecture of the recipe: short bouts, widely spaced, each one arriving when the blood is full and the cells are listening again. It also explains why tendons cannot be trained like muscles in a single heroic session and why the men who grind their Achilles daily often own the angriest tendons in the gym. The tissue runs a bakery schedule: brief firings, long rests, fresh ingredients delivered just before each firing. Cook to the tissue's schedule and it builds.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DURATION IS NOT THE DOSE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "10 MIN BOUT",
+       85,
+       "cyan"
+      ],
+      [
+       "60 MIN BOUT",
+       88,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "COLLAGEN SIGNAL BY BOUT LENGTH"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "BEAT ONE LONG ONE",
+     "pos": "tr",
+     "text": "2 SHORT BOUTS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MEDICINE, NOT PUNISHMENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The bout-length research is the part of this literature that surprises lifters most, so let us put it on the bars plainly. When tendon tissue and the animal models behind this work receive short loading bouts versus long ones, the collagen synthesis response does not scale with duration the way muscle protein synthesis scales with volume. Ten focused minutes capture most of the available signal; stretching the bout to an hour adds fatigue, breakdown signalling, and wear, but little additional building, because the listening window has closed. Two short bouts in a day, separated by the refractory gap, outproduce one long bout on the same tissue. The conclusion rewires how a tendon day should look: brief, deliberate, almost easy-feeling loading, performed with the seriousness of a man taking medicine rather than the violence of a man punishing a weakness. Your calf test at the start is the heavy end of the spectrum, a monthly measurement. The recipe's bouts are the light end, a near-daily knock on the door.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TENDON READS AMINO ACIDS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE HONEST CHECKPOINT",
+     "pos": "br",
+     "text": "12 WEEKS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DIFFERENT GROCERIES, DIFFERENT CREWS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "REST DAYS COUNT TOO"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The recipe's remaining details, the ones that separate a protocol from a pile of powder. On the ingredient itself: gelatin and collagen peptides both delivered in the research; gelatin sets in liquid and is cheap, peptides dissolve invisibly and cost more, and either is acceptable because the tendon reads amino acids, not branding. On the vitamin C: it is a true cofactor, not a garnish, but the dose is small and ordinary food covers it; this is not a licence for megadoses. On rest days: the recipe still applies, because tendons keep their own training calendar and a ten-minute bout on a rest day is often the best-placed one of the week, arriving when no lifting competes for the body's attention. On patience: collagen turnover is slow, the scaffold rebuilds across months, and the honest checkpoint for this recipe is twelve weeks, with the calf test run monthly to watch the reps climb as the cable thickens. And on the boundary of the claim: this protocol supports the tendon's own building programme.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A KITCHEN AND A STAIRWELL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TWICE A DAY AT MOST",
+     "pos": "br",
+     "text": "10 MIN"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CONSISTENCY IS THE ACTIVE INGREDIENT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CHEAP ENOUGH TO NEVER MISS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Price the whole recipe on a skinny man's life and the advantage stops being subtle. The loading bout is bodyweight calf work and skipping on a staircase, equipment you already own by being alive near stairs. The dose is a packet and a glass of juice. The time cost is ten minutes, twice a day at most, and the scheduling cost is one glance at a clock an hour before training. Compare the heavy man's tendon problem: his cables carry far greater absolute loads, his injury risk per session is higher, and his loading bouts need equipment, spotters, and planning to reach the same strain honestly. Your tendon programme fits in a kitchen and a stairwell, which means it will actually happen three hundred days a year, and in a slow-turnover tissue, the programme that happens is the only one that works. Consistency is the active ingredient in every recipe in this season. Yours is the body and the budget that make consistency cheap. That is not a small advantage.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "check": 3,
+   "exercise": "SLOW CALF RAISES",
+   "music": "drive",
+   "narration": "The recipe's loading bout, in miniature: slow calf raises, three seconds down, full stretch, full rise. Three rounds. This is the knock on the door. Knock properly.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 60
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "T-MINUS 60: THE DOSE"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TEN EASY MINUTES"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "COLLAGEN INSTEAD OF MEALS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "JUDGE AT TWELVE WEEKS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The recipe, written as a card for the fridge. Sixty minutes before a loading bout: fifteen grams of gelatin or collagen peptides, with vitamin C, in juice or warm water. The bout itself: about ten minutes of light, rhythmic tendon loading, calf raises, pogo hops, or skipping, finished while it still feels easy, because easy is what a signal feels like. A second bout, if the day allows, waits at least six hours. Run tendon days three or four times a week, and let the calf test, monthly, be the only maximal effort in the system. Keep meals and their protein untouched; the recipe is an addition to a fed body, not a substitute for feeding it. And keep the calendar honest: photograph your test numbers, date them, and judge the recipe at twelve weeks by the reps and the gap between sides. Men fail this protocol in exactly two ways: they skip the hour, or they skip the weeks. The recipe fits on a card.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WEAKER SIDE FIRST, ALWAYS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME STEP, SAME TEMPO",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT REPS AND GAP"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your calf verdict, weaker side first. Under twelve clean reps: the cable is underbuilt, and the recipe now has a clear job and a cheap one; expect the count to climb steadily as the scaffold thickens. Twelve to twenty: a working base, the range where the protocol's patience matters most, because progress here is monthly rather than weekly and men quit at exactly this plateau. Over twenty: strong cables, and the recipe becomes maintenance, two bouts a week holding the line. The gap rule stands above the bands: if one side trails the other by more than about a fifth, the trailing side takes an extra set in every bout until the gap closes, because tendons are loaded one leg at a time in running, jumping, and landing, and the weak cable sets the system's true grade. Put your weaker-side reps in the comments, and the gap if you measured it. In thirty days, same step, same tempo. The recipe is written. Now it needs a cook who shows up.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same step, same slow tempo. Bring me more clean reps on the weak side. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "collagen protocol",
+  "gelatin recipe",
+  "tendon loading",
+  "vitamin c collagen",
+  "calf raise test",
+  "tendon health",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_calf_raise.webp",
+  "big": "15 G",
+  "hook": "THE COLLAGEN RECIPE"
+ },
+ "title": "Stop Doing collagen timing Wrong: Train Your collagen synthesis Instead",
+ "v5": true
+}

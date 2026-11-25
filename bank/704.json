@@ -1,0 +1,401 @@
+{
+ "badge": "EP 704 - THE PROTEIN LINE",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SYNTHESIS",
+  "YOUR VERDICT"
+ ],
+ "description": "Yesterday's protein, counted honestly: this audit test reads your muscle protein synthesis better than any supplement ad. Here is the per-meal line, the daily total research supports, and why distribution across the day decides what your training becomes.",
+ "hashtags": [
+  "protein test",
+  "muscle protein synthesis",
+  "protein intake",
+  "calisthenics",
+  "gaining"
+ ],
+ "id": "704",
+ "scenes": [
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YESTERDAY, MEAL BY MEAL"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PALM OF MEAT \u2248 25 G"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "DAILY TOTAL + BIGGEST MEAL",
+     "pos": "tr",
+     "text": "2 NUMBERS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HONEST ESTIMATES ONLY"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test needs no floor space. It needs yesterday. Reconstruct everything you ate and drank yesterday, meal by meal, and estimate the protein in each: a palm of meat or fish is roughly twenty-five grams, an egg six, a cup of milk eight, a scoop of Greek yogurt fifteen, a protein shake twenty-five if you had one. Add the day up, then find your single biggest meal's number. Write down both: the daily total and the biggest meal. No judgment, no app required, honest estimates only. Those two numbers describe your muscle protein synthesis, the actual construction rate of you, more truthfully than any workout you did this week. Training sends the order. This audit checks whether the supplies ever arrived.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE DAILY LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE PER-MEAL RESPONSE LINE",
+     "pos": "br",
+     "text": "0.4 G/KG"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TOTAL IS THE BUDGET"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DISTRIBUTION IS THE PLAN"
+    }
+   ],
+   "big": "1.6 G/KG",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE DAILY LINE RESEARCH KEEPS FINDING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here are the lines. Across many studies, muscle building in training adults climbs with protein intake up to roughly one point six grams per kilogram of bodyweight per day, with little extra found beyond about two point two. At sixty kilos, that is roughly ninety-five to one hundred thirty grams a day. Then the second line, the one almost nobody checks: per meal, synthesis responds up to about zero point four grams per kilogram, roughly twenty-five to forty grams for most of us, before the meal's extra protein mostly gets burned as fuel. A day can hit the total and still waste it, if ninety grams arrive in one heroic dinner while breakfast and lunch ran on fumes. Total is the budget. Distribution is the spending plan.",
+   "section": "THE NUMBER",
+   "sub": "under 1.2: under-supplied - 1.6 to 2.2: the building zone - per meal: about 0.4 g/kg",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Cross the threshold, synthesis switches on.",
+      "Then the crew goes home."
+     ],
+     "pos": "tr",
+     "title": "LEUCINE: THE STARTING GUN"
+    },
+    {
+     "asset": "ren_towel_curl.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MUSCLE-FULL EFFECT"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SCHEDULE CREWS, NOT MOUNTAINS"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SPACING WINS THE DAY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Muscle protein synthesis is exactly what it sounds like: your cells assembling new muscle protein from amino acids, the construction shift that training orders and food supplies. The shift has a foreman, an amino acid called leucine, which acts less like a brick and more like the starting gun: when leucine in a meal crosses a threshold, the synthesis machinery switches fully on for a few hours. Then comes the part that ruins most skinny guys' days: the muscle-full effect. Once switched on and supplied, the machinery winds down even if more protein keeps arriving, like a crew that has finished its shift and gone home. You cannot pay one crew triple to work three shifts. You can only schedule the next crew, a few hours later, with the next real meal. That is why the day is won by spacing, not by one enormous dinner.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME PROTEIN, MORE BUILDING"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "EVEN SPACING",
+       80,
+       "cyan"
+      ],
+      [
+       "ONE BIG MEAL",
+       55,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SYNTHESIS ACROSS THE DAY"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "SYNTHESIS AND BREAKDOWN NEVER STOP",
+     "pos": "tr",
+     "text": "24 HRS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CHECK THE BRICKS BEFORE THE CREW"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The distribution studies make the point with numbers. When researchers fed the same daily protein in different patterns, evenly across three or four meals versus skewed into one large meal, the even pattern produced measurably more synthesis across the day. Same protein, same cost, more building, purely from scheduling. There is a second finding skinny guys should tattoo on the fridge: synthesis and breakdown run all day, every day, and you are always doing a little of both. Training tilts the balance toward building for a day or two afterward, but only in a body that keeps getting supplied. The underfed trainee is not failing to build because his workouts are wrong. He is running a construction site where the crew shows up, looks for bricks that never arrived, and leaves. His audit numbers, the ones you wrote down today, would show it instantly.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE NIGHT SHIFT"
+    },
+    {
+     "asset": "ren_pinch_hold.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "The night crew needs materials.",
+      "Ordinary food is the whole technology."
+     ],
+     "pos": "br",
+     "title": "PRE-SLEEP PROTEIN"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LOGISTICS, NOT HEROICS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "A word about the night shift, because it is the longest gap in your supply line. You sleep for seven or eight hours, which means your construction site sits unsupplied for a third of every day, and breakdown, which never sleeps, keeps its slow shift running. This is why the last meal of the day carries unusual weight in the research: a solid protein feeding before bed gives the night a crew and materials, and studies of pre-sleep protein show it gets used for synthesis overnight rather than wasted. You do not need a specialty product for this. Cottage cheese, Greek yogurt, eggs, milk, any slow, ordinary protein you actually like is the entire technology. The deep principle of this episode hides here: muscle is not built in the heroic moments. It is built in the boring logistics of supply, repeated daily, including while you are unconscious.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PER-KILO MATH FAVORS YOU"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THE 60-KILO DAILY TARGET",
+     "pos": "br",
+     "text": "~100 G"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SMALL UPGRADES PAY YOU MORE"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SHORTER SUPPLY LINE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now your advantage, and it is arithmetic. The daily line is per kilogram, which means the skinny guy's target is smaller in absolute terms: at sixty kilos, roughly one hundred grams a day builds at the research rate, a target reachable with four ordinary feedings of twenty-five grams. The hundred-kilo man needs one hundred sixty grams, every day, forever, and his grocery bill and his stomach both know it. Your supply line is shorter, cheaper and easier to hold under real-life conditions: travel, busy weeks, low appetite days. And because your absolute numbers are small, small upgrades pay you proportionally more. Adding one twenty-five-gram feeding to a sixty-gram day is a forty percent supply increase. The big man would need a whole extra meal to buy the same percentage. In the logistics war, you are the smaller country with the shorter border.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "check": 3,
+   "exercise": "SLOW PUSH-UPS",
+   "music": "drive",
+   "narration": "Supplies are half the job; the order still has to be sent. Four rounds: forty seconds of slow push-ups, three seconds down, clean lockouts, then twenty seconds rest. This is today's construction order, signed in reps.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TARGET FROM YOUR WEIGHT"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FOUR FEEDINGS, NOT ONE MOUNTAIN"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "BREAKFAST IS NOT OPTIONAL"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "AUDIT ONE DAY A WEEK"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The synthesis protocol, four rules. One: set your daily target from your weight, roughly one point six grams per kilo, and write it where you will see it every morning. Two: split it into four feedings of roughly equal protein, breakfast included, because the muscle-full effect makes three good crews beat one giant one. Three: anchor each feeding to something that already happens, waking, lunch, post-training, before bed, so the system runs on rails instead of willpower. Four: close the night with a real protein feeding, then audit one random day per week against the target, exactly like today's test. You are not dieting. You are running supply logistics for a construction project, and projects finish when logistics stop failing.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SUPPLY IS THE HIGHEST-VALUE FIX"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN AUDIT YESTERDAY AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR DAILY TOTAL"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME FOOD, BETTER SCHEDULE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict, from the two numbers you wrote. A daily total under one point two grams per kilo: your training has been ordering construction that never got supplied, and fixing supply is the single highest-value change available to you this month. In the one point six to two point two zone with a biggest meal under forty grams: your logistics are sound, and your job is simply to keep the rails oiled. A big total carried by one giant meal: you own the bricks and keep missing the crews; spread the same food across the day and synthesis rises without eating a gram more. Whatever your audit showed, it measured the system honestly, which is more than most trainees ever do. Put your daily total in the comments, just the number. In thirty days, audit again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SUPPLY LINE THAT NEVER GOES DARK"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same audit: yesterday's meals, two numbers, no mercy and no apps. Bring me a supply line that never went dark. Subscribe, and keep today's totals safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "protein science",
+  "muscle protein synthesis",
+  "protein per meal",
+  "leucine threshold",
+  "skinny guy diet",
+  "calisthenics nutrition"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_farmer_carry.webp",
+  "big": "40 G",
+  "hook": "THE LEUCINE LINE"
+ },
+ "title": "Why Your muscle protein synthesis Matter More Than Muscle (The protein science Episode)",
+ "v5": true
+}

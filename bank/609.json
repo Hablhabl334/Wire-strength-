@@ -1,0 +1,391 @@
+{
+ "badge": "EP 609 - RANK RETEST",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "UP THE TABLE",
+  "YOUR VERDICT"
+ ],
+ "description": "The rank test placed you against the average skinny guy: his hang, his numbers, his line. Today we rank you again with your new number. See how far up the table you climbed, and what the men above you are actually doing differently.",
+ "hashtags": [
+  "rank test",
+  "dead hang",
+  "skinny guy",
+  "percentile",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "609",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "AGAINST THE AVERAGE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "FULL EFFORT",
+     "pos": "br",
+     "text": "ONE HANG"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNTIL THE FINGERS OPEN"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "YOUR RANK IS WAITING",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "The rank test returns. | Last time we ranked you | against the average | skinny guy. | Not against athletes. | Against the average. | His hang was the line. | You hung, you ranked. | Some of you placed low | and did not love it. | Today we rank again. | Same bar, same rules. | Straight arms, honest clock. | One hang, full effort. | Until your fingers open. | That is today's entry. | Keep it in your head. | At the end | I tell you | how far you climbed | up the whole table. | And who is still | above you, and why. | Grip up. | Your rank is waiting.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE RETEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "AVERAGE: 20-30 SEC"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PAST 90 SECONDS",
+     "pos": "br",
+     "text": "TOP 10%"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE AVERAGE NEVER MOVES",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "TOP 25%",
+   "card": "bignum",
+   "check": 1,
+   "label": "PAST THE AVERAGE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the table again, the one from the rank test. The average untrained skinny guy hangs for roughly twenty to thirty seconds before his untrained cables call it a day. The middle of the table, the fiftieth percentile of men who have done some training, sits around forty five to sixty. The top quarter starts near seventy five seconds, and the top ten percent lives past ninety, in territory where grip stops being a test and becomes a trait. On the first run, most of this channel's viewers ranked in the lower half and met the average line up close. Now place your new number. Notice the strange mercy of a ranking table: the average did not move while you were training. He never does. Every second you added was pure climb, past men who are standing perfectly still. That is the whole secret of percentiles. You do not have to outrun the world. You have to outrun the version of the table that is not training, which is most of it.",
+   "section": "OLD VS NEW",
+   "sub": "your old rank vs today: the average did not move - you did",
+   "type": "card"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Same muscles, different cables.",
+      "Rank = tension, recorded over time."
+     ],
+     "pos": "tr",
+     "title": "THE TABLE IS A LOADING HISTORY"
+    },
+    {
+     "asset": "forearm_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "QUIT EARLY = A REFLEX"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "LEARNED TO STAY CALM",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "What separates the ranks on this table is not effort, and the mechanism scene owes you the real answer. The men at the bottom of the table have the same forearm muscles as the men at the top, within a few percent. What they do not have is the cable upgrade: finger tendons that have been loaded slowly, heavily and often enough to lay down collagen and stiffen. Ranking tables for grip look like talent tables only until you understand the tissue. Then they read as loading histories. The top of the table is simply the men whose tendons have the longest, most consistent record of tension over time. Your climb between the two tests is that record, extending itself. There is a second, quieter separator: the nerve's willingness to keep the fingers closed as the burn builds. Untrained systems quit early as a protective reflex, long before the tissue is truly done. Trained systems negotiate. Every hang you finished this season taught the negotiation, and the table today is partly a ranking of who learned to stay calm inside a burning forearm.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HEAVY, OFTEN, LONG ENOUGH"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "QUIT MONTH ONE",
+       70,
+       "red"
+      ],
+      [
+       "STILL TRAINING",
+       30,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHY MEN LEAVE THE TABLE"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TABLE THINS AT PERSISTENCE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "RANK = ATTENDANCE",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is what the men above you are actually doing, because the science scene promised you their secrets and they are disappointingly unglamorous. Studies of grip training and tendon adaptation keep landing on the same three ingredients: heavy slow loading, the kind a hang or a carry gives for free; frequency, tendons respond to being asked often more than to being destroyed occasionally; and time, eight to twelve weeks minimum before the structural gains even report in. There is no fourth ingredient. No rank on the table was bought with a supplement, a gadget, or a secret exercise with a name like a fighting move. The percentiles also hide a statistical gift for you: most men who start grip training quit inside the first month, which means the table thins out exactly where persistence begins. Your rank today is not mostly a measure of your tendons. It is a measure of your attendance. The men above you are not more gifted. They have simply attended longer, and attendance, unlike gift, is a decision you can copy tomorrow morning.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GLANCE, ADJUST, EYES FORWARD"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "NOT THE GOAL",
+     "pos": "br",
+     "text": "THE REPORT"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "MANAGING THE NUMBER",
+     "pos": "tr",
+     "text": false
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE ROAD IS THE LOAD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One warning about ranks before the verdict, because this test can corrupt the thing it measures. A percentile tells you where you stand in a crowd, and crowds are a terrible coach. If your rank jumped, the temptation is to protect it, to test often, train cautiously, and manage the number instead of building the system. If your rank barely moved, the temptation is to chase the men above you with loads your cables have not earned, which is how tendons get injured by arithmetic. Both temptations make the same mistake: treating the rank as the goal instead of the report. The men at the very top of this table got there by ignoring the table for months at a time, loading honestly, and letting the ranking happen to them. Use your rank the way you use a mirror in a car: glance, adjust, then eyes back on the road. The road is the load, the frequency, the weeks. The rank is just the scenery confirming you are moving. Scenery never drove anyone anywhere.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SECONDS PER UNIT OF STRESS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "YOU TRAINED",
+     "pos": "br",
+     "text": "ONE VARIABLE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE ADVANTAGE, COLLECTED",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME BUILD, DIFFERENT BOOKS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage on this table deserves its own scene, because the rank test is secretly weighted in your favor and nobody told the average skinny guy. The hang ranks you on seconds, and seconds are bought with tendon tension against bodyweight. Your bodyweight is the smallest full load at the table, so your tendons purchase more seconds per unit of stress, more training volume per week, and faster percentile climbing than any heavier man running the same program. The average skinny guy, the one this test is named after, has the identical advantage and never uses it, because he believes the mirror's story that the table is not for people built like him. You are the control experiment that disproves him: same build, same starting line, one variable changed, which is that you trained. When your rank climbs past where the average sits, it is not a upset. It is the advantage finally being collected by the one man in the demographic who showed up to collect it.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Now we climb the table together. Three rounds: forty five seconds on the bar, forty five down. Deep grip, quiet shoulders, calm inside the burn. The men above you are doing exactly this. Go.",
+   "rest": 45,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "ONE HEAVY DAY A WEEK",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FOUR SHORT DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "TWELVE WEEKS BEFORE LOOKING",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "TESTING WEEKLY",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol for the climb has three rules, one per ingredient. For load: one heavy day a week, hangs or carries at a weight that makes forty seconds a genuine fight, because the top of the table is built at tensions the comfortable days never reach. For frequency: short hangs on at least four other days, submaximal, the kind you can do while the kettle boils, because tendons count appointments, not intentions. For time: commit to the full twelve weeks before you even look at the table again, because the structural gains that move percentiles report on that clock and no other. And bury the rank-killer: testing weekly and training for the test. Every max hang you spend outside the program is recovery stolen from the adaptation that would have raised the max. Train the system, glance at the table monthly, and let the men above you wonder what happened when you pass them without ever having watched them.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NUMBERS, RANKS, DATE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT RANKING",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR NEW TIME",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HE NEVER MOVES. YOU DID."
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your rank, and its verdict. If you are still in the lower half, the table has told you the truth the average already knows about himself and avoids: the cables are underloaded, and the protocol above is the entire correction, three ingredients, no secrets left to buy. If you crossed into the top quarter, you have passed the average line for good, and the men around you now are the ones who train, which means every further second gets more expensive and more worth it. If you broke into the top ten percent, your grip has become a trait: it will show up in every pull, carry and climb for years, maintained by a fraction of the work that built it. Write both numbers down with their ranks and the date. Put your new time in the comments, just the seconds, and your old one beside it if you remember it. We re-rank in thirty days, same bar, same rules, same unmoving average. He will be exactly where you left him. Be somewhere else.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RE-RANK IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "A HIGHER RANK",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same bar, same table, same average standing still. Bring me a rank he cannot pronounce. Subscribe so ranking day finds you loaded. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "rank test",
+  "average skinny guy",
+  "dead hang ranking",
+  "fitness percentile",
+  "retest",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_dead_hang.webp",
+  "big": "TOP 15%",
+  "hook": "YOUR RANK"
+ },
+ "title": "Your New Number: The the average skinny guy Retest Nobody Does",
+ "v5": true
+}

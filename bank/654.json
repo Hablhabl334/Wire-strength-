@@ -1,0 +1,388 @@
+{
+ "badge": "EP 654 - THE REMATCH",
+ "category": "retests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "EVERY SYSTEM",
+  "YOUR VERDICT"
+ ],
+ "description": "The rematch is the test battery's decider: two minutes of squats where legs, lungs, tendons and nerves all vote at once. Re-run it against your first score and see what ninety days did to every system you own, at the same time.",
+ "hashtags": [
+  "squat test",
+  "the rematch",
+  "leg endurance",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "654",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE DECIDER TEST"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLEAN REPS ONLY"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "VOTES AT ONCE",
+     "pos": "tr",
+     "text": "EVERY SYSTEM"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE REMATCH RESPECTS RECEIPTS"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Welcome to the rematch. | The two-minute squat test. | You ran it once before. | Same rules today. | Feet flat, hip width. | Hips below the knees. | Stand tall every rep. | Two minutes on the clock. | Count every clean rep. | Rest only standing up. | No sitting, no stopping. | That count is your score. | This is the decider. | Every system votes at once. | Legs, lungs, tendons, nerves. | Your first score exists. | At the end we compare. | And name what changed most. | Keep today's number safe. | The rematch respects receipts.",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A PARLIAMENT RESULT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE TRAINED LINE",
+     "pos": "br",
+     "text": "60 REPS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE SYSTEM ENDS IT EARLY"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FIND THE FILIBUSTER"
+    }
+   ],
+   "big": "60 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN TESTED AND TRAINED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for the rematch. Two minutes of clean, full-depth bodyweight squats. An untrained man typically lands between thirty-five and fifty reps before his legs or his breathing call the vote. Sixty clean reps is the trained line: the point where no single system is weak enough to end the test early. Above seventy-five, the battery is reporting something rare, a body with no obvious bottleneck at this intensity. Read your score as a parliament result, not a single grade. A low score never means everything is weak. It means one system hit its limit while the others still had votes to cast, and the whole point of the rematch is finding out whether that same system is still the one filibustering your progress.",
+   "section": "THE NUMBER",
+   "sub": "under 40: one system is voting no - over 75: every system showed up",
+   "type": "card"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Tendons subsidize. Nerves meter.",
+      "Lungs fund the next rep."
+     ],
+     "pos": "tr",
+     "title": "FIVE SYSTEMS, ONE REP"
+    },
+    {
+     "asset": "achilles_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO SPECIALISTS ALLOWED"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COOPERATION IS THE TEST"
+    }
+   ],
+   "check": 2,
+   "music": "dark",
+   "narration": "Why does this test audit every system at once? Follow a single rep. Your Achilles and knee tendons store and return elastic energy at the bottom, subsidizing the stand. Your quads and glutes supply the force, metered by nerves that must recruit hard without letting the movement wobble. Your heart and lungs fund the whole operation, clearing the burn fast enough for the next rep to look like the last one. And your balance system keeps the stack aligned while fatigue tries to fold it. Ninety days of training touched all five. The rematch is simply the first test honest enough to bill them simultaneously. Single-system tests let specialists shine. This one only lets systems cooperate, and cooperation is what a body actually is. Fatigue is the examiner that makes the audit honest. Any system can look adequate for ten reps. The rematch waits until the fortieth, when the subsidies shrink, the burn argues loudly, and the body must decide what it actually is. That is why this score predicts your other tests better than any of them predicts this one.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PACING IS THE BIGGEST MOVER"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "PACING",
+       90,
+       "cyan"
+      ],
+      [
+       "ENDURANCE",
+       65,
+       "gold"
+      ],
+      [
+       "RAW STRENGTH",
+       40,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT MOVES A REMATCH SCORE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKILLS TRAIN FASTEST"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TWO ENGINES ARE CHEMISTRY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The research on repeated-effort tests explains where rematch gains actually come from, and it is not where most men guess. Between a first and second battery, ninety days apart, the biggest mover is usually pacing, which is a nervous-system skill: your brain learns the test's price curve and stops overspending in the first thirty seconds. The second mover is local endurance in the quads, a metabolic adaptation built by exactly this kind of repeated work. Raw leg strength, the thing men assume decides it, ranks third. This ordering is good news disguised as an insult. It means your rematch score can jump without you getting much stronger, because two of its three engines are skills and chemistry, and both train faster than structure does. There is a training consequence hiding in that ordering. If pacing and endurance move the score most, then the cheapest ninety-day win is not a new exercise. It is rehearsing this exact test, at this exact rhythm, until your nervous system stops treating minute two as an emergency and starts treating it as a commute.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FOUR QUARTERS, FOUR QUESTIONS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "EACH QUARTER ASKS ONE SYSTEM",
+     "pos": "br",
+     "text": "30 SEC"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FIND YOUR QUARTER"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Watch your own rematch film in your head and split it into quarters, because each thirty seconds interrogates a different system. The first quarter asks your nerves: can you find the rhythm before the burn arrives? The second asks your tendons: is the bounce at the bottom free, or are you paying full price per rep? The third asks your lungs: does your breathing stay a metronome or become a negotiation? The fourth asks your character's wiring: when every signal says stop, does the form hold? Your first test and today's test will differ most in exactly one quarter. That quarter is the biography of your last ninety days, written in reps. Find it, and you have found your next season's training target without a single guess.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEAPEST INVOICE PER REP"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "WHERE THE DISCOUNT COMPOUNDS",
+     "pos": "br",
+     "text": "50 REPS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BUILT FOR YOUR BUILD"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EXCELLENT IS ALLOWED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The rematch quietly favors your build, and the scoring hides it. Every rep costs force proportional to the mass being lifted, and your mass is low, so your per-rep invoice is the cheapest in the room. Across two minutes that discount compounds rep after rep: the heavy man's fiftieth squat is performed by legs that have moved tonnes more than yours have. His test ends as a strength event. Yours gets to stay an endurance and skill event, which are the trainable kinds. This is why light athletes dominate repeated-effort leaderboards in every sport that has them. The rematch is not a consolation test for small men. It is the event the calendar built for them, and your score today is allowed to be genuinely excellent.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_top.webp",
+   "check": 3,
+   "exercise": "SQUATS",
+   "music": "drive",
+   "narration": "Now we train the rematch engine together. Three rounds of squats: smooth rhythm, full depth, stand tall. We are practicing the pace, not chasing the burn.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE TARGET, FROM DATA"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SLOW ECCENTRICS FOR TENDONS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NASAL BREATHING FINISHER"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "TRAINING EVERYTHING AT ONCE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol, written for whichever quarter failed you. If quarter one was chaos: open every leg session with two calm minutes of squats at test pace, teaching the nerves the rhythm while fresh. If quarter two was expensive: add slow eccentric squats, four seconds down, twice a week, and let the tendons learn to recycle force. If quarter three broke your breathing: finish sessions with one minute of continuous squats, nasal breathing only, building the funding system. If quarter four folded your form: train split squats, because single-leg strength is what form hides behind when both legs are tired. One target, chosen by data, trained for ninety days. That is how rematches are won before they start. Write the quarter scores down today, even roughly: reps at thirty seconds, sixty, ninety, one-twenty. Memory lies about fatigue, but a split sheet cannot, and the next rematch will be graded against those splits, not against a feeling.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HONOR THE DIFFERENCE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE THIRD MATCH",
+     "pos": "br",
+     "text": "90 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT BOTH SCORES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the rematch verdict. Under forty clean reps: one system is still voting no, and the quarters told you which; that is a training target, not a verdict on you. Forty to sixty: the parliament is functional, every system present, none yet strong. Sixty to seventy-five: trained, balanced, no bottleneck at this intensity. Above seventy-five: your systems cooperate like a team that has played a season together, because they have. Compare with your first score and honor the difference, whatever its size. Put both numbers in the comments, first and rematch. In ninety days, the decider runs a third time. And if the rematch score jumped while your other numbers barely moved, do not let anyone call it a soft gain. Cooperation is the quality your body uses for everything outside this room, from stairs to sport to work. The decider improved at deciding, and that is the improvement that transfers.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 90 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A BIGGER SCORE"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Ninety days from now, same two minutes, same depth, same counting rules. Bring me a bigger score and we name a new weakest quarter together. Subscribe, and keep both scores safe. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "squat test",
+  "2 minute squat test",
+  "rematch test",
+  "retest",
+  "leg endurance",
+  "every system test",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_squat_bottom.webp",
+  "big": "2 MIN",
+  "hook": "THE REMATCH"
+ },
+ "title": "The the rematch Benchmark: Where Your every system Ranks",
+ "v5": true
+}

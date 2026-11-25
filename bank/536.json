@@ -1,0 +1,401 @@
+{
+ "badge": "EP 536 - THE TRANSITION TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "The muscle-up is two exercises and a secret third one in the middle: the transition, where a pull becomes a press over the bar. Your transition level grades elbow leverage, the skill that decides who actually gets over the bar. Take the test and find your level.",
+ "hashtags": [
+  "muscle up",
+  "transition",
+  "calisthenics",
+  "elbow leverage",
+  "bar skills"
+ ],
+ "id": "536",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PULL HARD AND HIGH"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "PULL TO FULL MUSCLE-UP",
+     "pos": "br",
+     "text": "5 LEVELS"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO CHICKEN WING"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOUR LEVEL IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DECIDED IN THE MIDDLE"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Find a straight bar. | Grip it, palms down. | Slightly wider than shoulders. | Hang tall, arms straight. | Pull hard and high. | Chest to the bar. | Now the real test. | Level one ends there. | Level two: one elbow | flips over the bar. | Level three: both elbows | over, chest on bar. | Level four: press up | to straight arms. | Level five: full muscle-up, | smooth, no kip. | Your level is | the highest step | you complete cleanly. | No jumping in. | No chicken wing | counts at level three. | Keep your level safe. | At the end I | tell you what it means. | One honest attempt. | The middle is where | muscle-ups are decided.",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEVEL 3 = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE FULL MUSCLE-UP",
+     "pos": "br",
+     "text": "LEVEL 5"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A THIRD, HIDDEN EXERCISE"
+    }
+   ],
+   "big": "LEVEL 3",
+   "card": "bignum",
+   "check": 1,
+   "label": "BOTH ELBOWS OVER IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Level three, both elbows flipped over the bar with your chest resting on it, is the moment the muscle-up stops being a pull-up problem and becomes a pressing problem, and pressing problems are solvable. Level one, a strong chest-to-bar pull with no transition, tells us your pulling base is real but the middle skill is unbuilt. Level five is the full strict muscle-up, the graduation. Here is what your level reveals. Thousands of men can pull to their chest and dip from a bar, yet cannot muscle-up, because the muscle-up is not those two exercises. It is a third, hidden exercise between them, the transition, where your body must rotate around the bar through the weakest leverage your elbows will ever work at. Your level grades that hidden exercise, and hidden exercises are this channel's whole religion.",
+   "section": "THE NUMBER",
+   "sub": "level 1: pulling strength first - level 5: the full muscle-up",
+   "type": "card"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Elbows rotate around the bar.",
+      "Neither pull nor press has leverage."
+     ],
+     "pos": "tr",
+     "title": "THE DEAD ZONE"
+    },
+    {
+     "asset": "ren_pullup_top.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FALSE GRIP SHORTENS IT"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN THE EXPENSIVE MIDDLE"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SKILL LIVES THERE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The transition is an elbow lever problem wearing a bar costume. Picture the moment: your chest is at the bar, your forearms point up, and your body hangs below your hands. To get over, your elbows must rotate from pointing down to pointing up behind you, while your hands stay fixed on the bar. In that rotation, the elbow passes through an angle where neither the pulling muscles nor the pressing muscles have any leverage worth the name, a dead zone where the joint is folded to its limit and loaded with most of your bodyweight. The structures that survive the dead zone are the elbow's connective tissue and the small rotators that steer the forearm, plus one technique: keeping the wrists over the bar with a false grip, which shortens the dead zone dramatically. This is why strong men stall here for a year. They train the pull and the dip, the two easy thirds, and never once train the expensive middle where the skill actually lives.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE PATH IS A CURVE"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "THE PULL",
+       20,
+       "cyan"
+      ],
+      [
+       "THE TRANSITION",
+       65,
+       "red"
+      ],
+      [
+       "THE DIP",
+       15,
+       "gold"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE MUSCLE-UPS STALL"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ARRANGE YOUR LEVERAGE"
+    },
+    {
+     "asset": "ren_dip_top.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The science of getting over a bar is the science of the path your chest travels. A pull-up's path is a straight line up. A muscle-up's path is a curve: out, up, and over, like a shallow wave, so the body arrives at the bar with its mass already moving toward the top position. Athletes who pull straight up crash into the bar's underside and must muscle through the longest possible dead zone. Athletes who learn the curve shorten the zone and need dramatically less freak strength. The second science is grip. A false grip, wrists draped over the bar so the heel of the hand sits on top, pre-rotates the forearm and deletes the hardest degrees of the transition entirely. It feels awkward for two weeks and then feels like cheating, except it is the technique every ring gymnast on earth uses. Leverage is not only something your body has. It is something your hands can arrange, and arranging it is a learnable, testable skill.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE DOOR IS A DEEP DIP"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "PAUSED AT THE BOTTOM",
+     "pos": "br",
+     "text": "5 REPS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN THE FOLDED RANGE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The top half deserves its own minute, because level three is not the finish, it is the doorway. From chest-on-bar, the press-out is a dip from the deepest position a dip can start, elbows folded completely, shoulders at their most vulnerable angle. Men who arrive at level three and cannot press out do not need more pulling; they need deep dip strength, trained on a low bar with feet assisting, through the exact folded range. Five slow reps, pausing at the bottom, twice a week. The doorway has a door, and the door is a deep dip. Build the door and the transition test turns into a formality you pass on the way up.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A SURVIVABLE DEAD ZONE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "CLEANER REPS, FASTER GROOVES",
+     "pos": "br",
+     "text": "LESS SWING"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PRICED FOR YOUR BODY"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE BAR'S LOUDEST AMEN"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage over the bar is, once more, written in kilograms. The transition's dead zone charges a multiple of bodyweight through folded elbows, and the multiple is fixed while the bodyweight is yours to be grateful for. A light athlete's dead zone is survivable years earlier than a heavy one's, which is why the muscle-up is a rite of passage among lean calisthenics athletes and a party trick heavy lifters respect from a distance. There is a second advantage: lighter bodies swing less, and the strict muscle-up is an anti-swing skill, so your practice reps are cleaner and your technique grooves faster. The bar does not reward the biggest puller in the park. It rewards the athlete whose whole system, pull, transition and press, is priced for his body. That pricing is this channel's oldest sermon, and the muscle-up is its loudest amen.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "check": 3,
+   "exercise": "TRANSITION PULLS",
+   "music": "drive",
+   "narration": "Now we train the middle together. Three rounds on a low bar if you have one: pull high, flip the elbows over, press out, then reverse slowly. Feet can help today. The groove is the goal.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_dip_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "2 SESSIONS A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "CHICKEN WING DOESN'T COUNT"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FALSE GRIP HANGS DAILY"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TENDON TERRITORY, RESPECT IT"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE ZONE SHRINKS ON SCHEDULE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week over the bar. Two transition sessions, because elbows at folded angles rebuild on the same tissue calendar as every lever in this season. Each session: transition pulls on a low bar like our block, deep dips paused at the bottom, and false grip hangs to teach the wrists their new home. Mistake one: the chicken wing, one elbow flipping early and the other dragging behind. It gets you over today and builds an asymmetric pattern that caps you forever; if one side wings, the rep does not count. Mistake two: kipping harder to hide a missing transition. A kip is a different skill's tool, and this test grades the strict middle. Mistake three: training the transition at full intensity daily. Folded, loaded elbows are tendon territory. Twice a week, full recovery, and the dead zone shrinks on schedule instead of sending you invoices.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE MIDDLE IS UNBUILT, YET"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR LEVEL"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO KIP, NO WING"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your level. Level one: your pull is honest and the middle is unbuilt, the most common address in calisthenics; the low bar is your new home. Level two: one elbow has learned the road, and the other is a month of symmetric practice behind it. Level three: certified, the transition is yours, and only the deep press stands between you and the full skill. Level four: you are a press-out away from graduation photos. Level five: the strict muscle-up, owned, and with it every bar skill in this season gets easier. Put your level in the comments, just the number, and retest in thirty days with the same rules: no kip, no wing, no mercy. The middle decides, and your middle is improving on schedule.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dip_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SHOW ME YOUR ELBOWS"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same bar, pull high and show me your elbows. Bring me a higher level and we will finish the muscle-up together. Subscribe, and keep your level safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "muscle up",
+  "muscle up transition",
+  "elbow leverage",
+  "transition test",
+  "calisthenics skills",
+  "bar muscle up",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_pullup_top.webp",
+  "big": "1 REP",
+  "hook": "THE TRANSITION"
+ },
+ "title": "Your Transition Test Reveals Your Hidden Strength",
+ "v5": true
+}

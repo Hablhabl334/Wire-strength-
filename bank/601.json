@@ -1,0 +1,405 @@
+{
+ "badge": "EP 601 - GRIP RETEST",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "STRONGER CABLES",
+  "YOUR VERDICT"
+ ],
+ "description": "Ninety days ago the heavy bags set your grip number, and almost nobody ever goes back to check what changed. Today we retest it: same load, same hold, old number against new number. See what your finger tendons actually built, and the protocol that takes the number higher.",
+ "hashtags": [
+  "grip strength",
+  "grip retest",
+  "farmer hold",
+  "tendon training",
+  "finger strength",
+  "calisthenics"
+ ],
+ "id": "601",
+ "scenes": [
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME LOAD, SAME TEST"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "HONEST OR NOTHING",
+     "pos": "br",
+     "text": "ONE ATTEMPT"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINGERS PEEL = DONE"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "OLD NUMBER IN YOUR HEAD",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP THE NEW ONE SAFE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Welcome back to the test almost nobody repeats. Weeks ago, in the grip episode, you picked up the heaviest things in your house, one in each hand, heavy shopping bags, water jugs, a loaded suitcase, and you held them at your sides until your fingers started to open on their own. That time was your grip number, and if you were like most skinny guys, it was somewhere between thirty and fifty seconds, and it stung your pride a little. Good. Today we run it again. Same load, exactly the same load, same straight arms, same quiet shoulders, and you hold until the fingers peel. No warm-up games, no lighter practice set. One honest attempt, best posture you own. Get your old number in your head before you start, because the whole point of today is the distance between that number and this one. Ready? Pick them up. Clock starts now, and keep your new number safe. At the end I will tell you what the gap between your two numbers actually proves about your finger tendons.",
+   "section": "THE RETEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DAY ONE: 30-45 SEC"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE TRAINED LINE",
+     "pos": "br",
+     "text": "75 SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "+10 SEC = REAL ADAPTATION",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "75 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE TRAINED GRIP LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here are the two numbers side by side, yours from the first test and the line that matters. On day one, most skinny guys hold somewhere between thirty and forty five seconds before the fingers start to unroll. That was never a strength verdict, it was an untrained verdict, because the finger tendons had simply never been asked to work at full bodyweight tension for time. Seventy five seconds is the trained line for this hold. Past it, your grip outlasts almost every bigger guy in a normal gym, because his hold is limited by exactly the same cables and his hands carry more weight with the same size tendons. If your new number moved by ten seconds or more, that is real adaptation, not motivation. If it moved by less, stay with me, because the protocol scene names the exact reason holds stall, and it is almost never effort. It is load choice, and it is fixable this week.",
+   "section": "OLD VS NEW",
+   "sub": "old you under 45: untrained cables - 75 plus: a grip that outlasts the big guys",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "More collagen along the line of pull.",
+      "Stiffer cable, less wasted force."
+     ],
+     "pos": "tr",
+     "title": "THE CABLE UPGRADE"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ENGINE IN THE FOREARM"
+    },
+    {
+     "at": 22,
+     "kind": "stat",
+     "label": "OF COLLAGEN BUILDING",
+     "pos": "tr",
+     "text": "WEEKS"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": "SAME HANDS, NEW CABLES",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "So what actually changed inside the hand between your two numbers? Remember the chain from the first grip episode. Your fingers carry almost no muscle of their own. The engines sit in your forearm, and they pull on cables of tendon that run through the wrist and into each fingertip. When you hold a heavy load, those cables take the full tension, second after second. Tendons answer that kind of slow, heavy tension by building more collagen into the cable, laying it down along the line of pull, which makes the cable thicker and stiffer over weeks. A stiffer cable wastes less of the engine's force on stretch, so the same forearm can hold the same load for longer before the signal fades and the fingers peel. That is the whole story of your new number. You did not grow new hands. You rebuilt the cables the old hands were always hanging from, and rebuilt cables hold longer before they complain.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pinch_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MUSCLE: DAYS. TENDON: WEEKS"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "DAY ONE",
+       40,
+       "red"
+      ],
+      [
+       "TODAY",
+       75,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "HOLD TIME, OLD VS NEW"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SLOW TISSUE IS HONEST"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "IT RECORDS WHAT YOU LOADED",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the part the first episode did not tell you, because you needed a second number to see it. Tendon adaptation runs on a slower clock than muscle. Muscle responds in days, which is why your forearms felt stronger in week one, but the cable itself remodels over eight to twelve weeks, and its stiffness keeps climbing long after the burn in the muscle stops being the limit. That is why the retest gap surprises people: the first test measured your muscle's endurance, but this one measures your tendon's upgrade, and the tendon is the part that was actually holding you back. Research on heavy slow loading shows tendon stiffness rising steadily across a training block exactly like the one you just did, carries, holds and hangs, all asking the cable to stay quiet under tension. Two numbers, one lesson: the slow tissue is the honest tissue. It does not care about your motivation. It only records what you actually loaded, week after week.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_spread.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FOUR CABLES AND A THUMB"
+    },
+    {
+     "asset": "ren_thumb_press.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "stat",
+     "label": "CAN CAP THE WHOLE HOLD",
+     "pos": "br",
+     "text": "1 FINGER"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "WEAK LINKS INTRODUCE THEMSELVES",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One detail separates a good retest from a misleading one: your fingers are not one grip, they are four cables and a thumb, and they do not adapt at the same speed. The index and middle fingers usually carry the show in a farmer hold, while the ring and little fingers fade early, and the thumb quietly decides how the load sits in the palm. If your new number jumped but the hold felt lopsided, one side of the hand doing the work while the other side went numb, that is information, not failure. It tells you the next block needs pinch work and finger-by-finger loading, which is exactly what the protocol coming up prescribes. Spread your fingers now and press each fingertip against your thumb, one by one. If one feels like a stranger, you just found the cable that has been letting the others do its job. Weak links do not hide from a retest. They introduce themselves.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "20 KG IS 20 KG FOR EVERYONE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "LESS JOINT STRESS",
+     "pos": "br",
+     "text": "SAME TENSION"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "HONEST LOADS, HONEST CABLES",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LIGHT FRAME, LONG HOLDS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the reframe, and this retest makes it better than the first episode could. Grip is the most bodyweight-honest test on this channel, because the load in your hands does not scale down for being light, a twenty kilo bag is twenty kilos for everyone, but the body hanging off your own grip in every other test is lighter for you. That means your cables get the same training tension as a heavy guy's while your joints carry less total stress everywhere else. Look at your two numbers again. The gap between them was built by a tissue that does not know your weight, only your consistency. Big guys stall on grip for years because their ego picks loads their cables cannot hold long enough to adapt. You never had that problem. Your loads were honest from day one, and honest loads are the only language tendons speak. Light frame, heavy cables, long holds. That combination is quietly rare, and it is yours now.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "check": 3,
+   "exercise": "FARMER HOLD",
+   "music": "drive",
+   "narration": "Now we build the next number together. Pick up your retest load, stand tall, and hold. Three rounds, forty seconds on, forty off. Quiet shoulders, fingers wrapped deep. Go.",
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_pinch_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "NUMBER JUMPED: ADD LOAD",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": "TOO HEAVY ALL BLOCK",
+     "pos": "br",
+     "text": false
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE PINCH SESSION A WEEK"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "NEVER RETEST TIRED HANDS",
+     "pos": "br",
+     "text": false
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FRESH DAY, SAME LOAD"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the next-level protocol, built from what your retest just told us. Rule one: if your number jumped by fifteen seconds or more, add load, not time. Take the hold up by roughly ten percent and chase the old number again at the new weight, because cables adapt to tension, and tension just went down relative to your strength. Rule two: if your number barely moved, your load was too heavy all block. Drop to a weight you can hold for a full minute and rebuild from there, long holds are the stimulus, not heroic twenty second struggles. Rule three: add one pinch session a week, a thick book or a plate pinched between thumb and fingers, three holds of twenty seconds, to bring the thumb and the weak fingers up to the family's standard. And the mistake to bury: never retest on tired hands. A retest after a training day measures fatigue, not adaptation, and it will lie to you with a straight face. Fresh day, same load, honest number.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE BOTH NUMBERS DOWN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR NEW NUMBER",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "OLD BESIDE NEW"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your new grip number, and what it says about you. If you are still under forty five seconds, your cables are untrained, not broken, and the protocol above is your next six weeks, no mystery left. Between forty five and seventy five, you are building: the collagen is going down, the stiffness is rising, and your number will keep moving as long as the load keeps creeping. Past seventy five, you own a trained grip, the kind that shows up in every pull, carry and climb you will ever do, and most bigger men never build it. Now do the most important part of any retest: write both numbers down, old and new, with today's date. Put your new number in the comments, just the seconds, and if you remember your first one, put that beside it. We retest again in thirty days, same load, same rules, and we find out what the next layer of cable is worth.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "A BIGGER GAP",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same bags, same floor, same honest hold. Bring me a bigger gap and we will raise the load together. Subscribe so your retest day finds you. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "grip retest",
+  "grip strength",
+  "farmer hold",
+  "finger tendons",
+  "grip test",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_farmer_carry.webp",
+  "big": "+30 SEC",
+  "hook": "GRIP RETEST"
+ },
+ "title": "Your New Number: The grip retest Retest Nobody Does",
+ "v5": true
+}

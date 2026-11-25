@@ -1,0 +1,393 @@
+{
+ "id": "754",
+ "v5": true,
+ "title": "Your Creatine Test Reveals the Truth About Your muscle energy stores",
+ "description": "Forget the marketing and the fear. Run the same dip test, then hear the plain truth about your muscle energy stores: what creatine is, what it is not, and who it actually helps.",
+ "tags": [
+  "creatine truth",
+  "muscle energy stores",
+  "creatine myths",
+  "creatine monohydrate facts",
+  "skinny guy supplements",
+  "phosphocreatine",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "creatine truth",
+  "energy stores",
+  "supplement facts",
+  "gaining",
+  "calisthenics",
+  "strength test"
+ ],
+ "category": "gaining",
+ "badge": "EP 754 - CREATINE: THE TRUTH",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TRUTH",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pullup_mid.webp",
+  "big": "95%",
+  "hook": "STORES START PART-FULL",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Same test, deeper truth. | Grip the bar, palms away. | Max strict pull-ups. | Chin over the bar. | Dead hang between reps. | No swinging, no kicking. | Count only clean reps. | That is your number. | Write it down now. | Keep it for the verdict. | Today is not about selling. | It is about separating the | truth from the noise. | Creatine attracts both. | Miracle claims from sellers. | Horror stories from strangers. | Your stores do not care. | They are chemistry, not opinion. | And chemistry can be tested. | Pull until it is honest. | Then let us talk truth.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "TRUTH, NOT NOISE",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "MAX PULL-UPS",
+     "label": "STRICT ONLY",
+     "pos": "br",
+     "at": 8
+    },
+    {
+     "kind": "chip",
+     "text": "CHEMISTRY, NOT OPINION",
+     "pos": "tr",
+     "at": 13
+    },
+    {
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "br",
+     "at": 18
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "95%",
+   "label": "OF YOUR QUICK-ENERGY FUEL IS REBUILT BETWEEN EFFORTS",
+   "sub": "stores part-full: the rebuild slows early - stores full: the last reps live longer",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the truth the whole episode hangs on. The fuel your muscles burn in a hard rep is rebuilt almost entirely between efforts, in the rest seconds and the easier moments, and the speed of that rebuilding is set by how much phosphocreatine your fibers keep in stock. Nobody's stores sit at one hundred percent full from diet alone in the way brochures imply, and nobody healthy sits at zero either. Most people live in a middle band, and the width of that band is the opportunity. Filling stores to the top is worth real reps to the man at the bottom of the band and nearly nothing to the man already at the top. That single fact explains every contradictory creatine story you have ever heard.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE MIDDLE BAND",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "95%",
+     "label": "REBUILT BETWEEN EFFORTS",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "POSITION IS EVERYTHING",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "EVERY STORY EXPLAINED",
+     "pos": "br",
+     "at": 26
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "Let us clear the mechanism of its myths first. Creatine is not a steroid, not a hormone, and not a stimulant. It is a small compound your liver and kidneys assemble daily from amino acids, and your muscles store it as a fuel reserve. Roughly half of a typical person's supply is made in-house and half arrives from food, mainly meat and fish. Supplementing simply tops up a system that already exists and already runs your hardest seconds. The fear stories collapse under one question: if this compound were foreign and dangerous, why does your own body manufacture it every day of your life? The honest cautions are narrower: buy plain monohydrate from a reputable maker, drink normally, and if you have kidney disease, talk to a doctor first, as you should before any supplement. The same question test works on the other side of the counter, too. Any product that promises to replace this simple system, loading phases, cycles, exotic salts, must explain what it does that the basic compound does not. In decades of comparisons, none has beaten plain monohydrate on results. The premium versions sell packaging, not chemistry.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "MADE IN-HOUSE",
+     "lines": [
+      "Your body builds creatine daily.",
+      "Food and powder only top it up."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_grip_squeeze.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "NOT A STEROID",
+     "pos": "br",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "PLAIN MONOHYDRATE ONLY",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_towel_curl.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "Now the evidence, stated the way a skeptic would want it. Across hundreds of controlled trials, creatine's clearest effect is on repeated high-intensity work: sets, sprints, and efforts where the quick fuel system is the bottleneck. The average strength and lean-mass gains over a training block are real but modest, and they arrive because the extra reps accumulate, not because the powder builds anything directly. The safety record in healthy adults at three to five grams daily is long and reassuring by supplement standards, which is a low bar this one clears comfortably. What the evidence does not support: dramatic transformations, fat loss claims, or benefits for slow endurance work. Truth is a smaller country than marketing. But the land inside its borders is solid, and it is cheap to live there. Hair, kidneys, cramping: the three rumor staples. Controlled work has looked at each directly at normal doses in healthy people and the dramatic versions of the stories have not survived contact with data. That is not a promise about you personally, which is why the doctor boundary exists. It is a statement about where the evidence actually stands.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "MODEST AND REAL",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "WHERE THE EVIDENCE LIVES",
+     "items": [
+      [
+       "HARD REPEATED SETS",
+       82,
+       "cyan"
+      ],
+      [
+       "SLOW ENDURANCE",
+       15,
+       "gold"
+      ]
+     ],
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "EXTRA REPS ACCUMULATE",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "TRUTH IS SMALLER",
+     "pos": "br",
+     "at": 28
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "The deepest truth is about the water, because the water is where the rumors breed. When stores fill, each fiber holds a little more water inside the cell, and the scale typically rises one to two kilos in the first weeks. That water is not under your skin softening your outline, and it is not fat. It is inside the muscle, where it may even support the building environment. Men quit in week two because the mirror seems softer in bad lighting, right before the reps would have started climbing. Know the sequence in advance and the sequence cannot scare you: water first, reps second, visible muscle third, spread across months. Almost every supplement disappointment is a man judging step three on the timetable of step one.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "WATER FIRST, REPS SECOND",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "1-2 KG",
+     "label": "INSIDE THE FIBER",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "KNOW THE SEQUENCE",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "JUDGED TOO EARLY",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Here is why the truth favors the skinny guy who hears it. The supplement industry's favorite customer is the man who buys hope monthly and changes products quarterly. The skinny guy who understands stores needs exactly one boring powder, bought in a big plain bag a few times a year, and then he is done shopping and free to train. Your advantage is not the creatine. It is the temperament this channel trains: test, learn your number, apply the one lever that fits, retest. While others chase novelty, your stores quietly sit full, your last reps quietly survive, and your logbook quietly separates from theirs. Boring inputs, compounding quietly, beat exciting inputs abandoned loudly, every single year of your training life.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "ONE BORING POWDER",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "4x A YEAR",
+     "label": "ONE PLAIN BAG",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "DONE SHOPPING",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "COMPOUNDING QUIETLY",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pullup_mid.webp",
+   "exercise": "PULL-UP SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Spend the stores while the truth settles. Four rounds of pull-ups, forty seconds on, twenty off. Dead hang between reps, chin over clean. Stop two reps before failure. The last honest reps are the ones this episode is about.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The truth-based protocol has four rules. One: plain creatine monohydrate only, because every fancy version charges more for the same molecule with weaker evidence. Two: three to five grams daily, loading optional, consistency mandatory. Three: judge it at thirty days by the retest, not at ten days by the mirror, because the sequence runs water, then reps, then muscle. Four: keep it in its lane, a stores tool, while protein, calories, and sleep do the building. If a claim about any supplement cannot tell you which lane it works in and what test would prove it, treat the claim as entertainment. Your pull-up number is not entertainment. It is the court this claim gets tried in.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "PLAIN MONOHYDRATE ONLY",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "JUDGE AT 30 DAYS",
+     "ok": true,
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP IT IN ITS LANE",
+     "ok": true,
+     "pos": "tr",
+     "at": 17
+    },
+    {
+     "kind": "mark",
+     "text": "FANCY VERSIONS",
+     "ok": false,
+     "pos": "br",
+     "at": 24
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict on the truth, read from your own number. Pull-ups that died suddenly after strong early reps: your pattern fits the quick-fuel limit, and full stores are a rational, cheap experiment with a clear retest. Pull-ups that ground down slowly from rep one: your limit reads as plain strength and technique, and no powder outranks another month of honest pulling. And if you already eat meat or fish daily and your reps are strong, accept the possibility that your stores were never low, and let the thirty-day retest prove it before you spend another coin. Comment your pull-up number and your honest guess about your stores. In thirty days we compare guesses with numbers, and the numbers win, as they always do here. Keep the guess and the number together for the retest. If they match, your instincts about your own body are calibrated, which is a skill worth more than the supplement. If they do not match, you have learned something no video could have told you.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "NUMBERS WIN",
+     "pos": "tr",
+     "at": 5
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "GUESSES VS NUMBERS",
+     "pos": "br",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, same bar, same rules, same honest counting. Bring me fuller stores and a bigger number. Subscribe, and let the plain daily habit run until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "PLAIN AND DAILY",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

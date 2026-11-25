@@ -1,0 +1,396 @@
+{
+ "id": "637",
+ "v5": true,
+ "title": "Your New Jump Height: Did It Actually Change? (Your Achilles stiffness Results)",
+ "description": "Ninety days ago you chalked the wall and left a mark. Today you jump again and we read the results: did your Achilles actually get stiffer and faster, or did you just get braver? Bring the old mark. The wall kept it for you.",
+ "tags": [
+  "jump results",
+  "jump retest",
+  "Achilles stiffness change",
+  "vertical jump test",
+  "spring results",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "vertical jump",
+  "results",
+  "retest day",
+  "achilles tendon",
+  "calisthenics",
+  "spring training"
+ ],
+ "category": "retests",
+ "badge": "EP 637 - JUMP RESULTS",
+ "checklist": [
+  "THE RETEST",
+  "THE RESULT",
+  "THE SPRING",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_jump_peak.webp",
+  "big": "NEW MARK",
+  "hook": "JUMP RESULTS",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE RETEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you chalked your fingertips. | Reached as high as possible. | Then jumped and marked again. | The gap was your jump. | You measured it and wrote it down. | Today the wall gets new chalk. | Same wall. | Same shoes, or barefoot, | exactly as day one. | Reach mark first, standing tall. | Then three jumps. | Best jump counts. | Dip quick and shallow. | Drive and reach | with the same hand. | Measure from reach to peak. | That is your NEW jump. | Got it? | At the end, | we decide if the spring changed, | or just the courage.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME WALL, SAME CHALK",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "REACH MARK FIRST",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "BEST OF THREE COUNTS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEW JUMP LOCKED IN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "3-5 CM",
+   "label": "WHAT A REAL SPRING GAIN LOOKS LIKE",
+   "sub": "under 2 cm: noise - 3-5: tendon change - 10+: technique woke up",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the honest scale for reading a jump result. Under two centimeters is noise: sleep, warmup, and chalk placement live in that band. Three to five centimeters in ninety days is a genuine tendon result, the size that stiffening Achilles tendons actually produce, and it deserves respect. Ten centimeters or more almost always means day one's jump was held back by technique and hesitation, and the spring spent ninety days mostly unchanged while the skill caught up. None of these readings is bad. But they prescribe different training, and pretending a technique gain was a tendon gain is how the next ninety days get wasted chasing the wrong thing.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "3-5 CM",
+     "label": "GENUINE TENDON CHANGE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "UNDER 2 CM IS NOISE",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "NAME THE GAIN CORRECTLY",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "achilles_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at the spring whose results we are reading. When you dip, your calf muscles contract and hold their length while the Achilles tendon stretches like a drawn bowstring, banking elastic energy. At takeoff, the tendon recoils and returns that energy in a fraction of a second, faster than muscle alone can contract. Ninety days of hops, jumps, and heavy calf work increase the tendon's stiffness, meaning it takes more force to stretch it the same amount. A stiffer spring stores energy at higher tension and returns it quicker, with less lost as heat. Your new mark is that physics, printed on a wall in chalk. One more detail decides whether your new mark is real: the reach. The jump is measured from your standing reach, and a lazy reach on retest day gifts you centimeters you did not earn, while a heroic day-one reach can steal a genuine gain. This is why the protocol has you set the reach mark fresh, at full stretch, every single test, before any jumping. Springs are honest. Measuring tapes are only as honest as the hands holding them, and today your hands held both.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "A BOWSTRING, NOT A ROPE",
+     "lines": [
+      "Stiffer stores more, returns faster."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_achilles_profile.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "LESS LOST AS HEAT",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "FRACTION",
+     "label": "OF A SECOND TO RECOIL",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_achilles_profile.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now the deeper reading, because a jump result has two authors. The first author is the tendon, and it writes slowly: a few centimeters across a season. The second author is coordination: the timing of your dip, the swing of your arms, the exact moment your ankles, knees, and hips extend together. Coordination writes fast, in the first weeks, and then stops. If your ninety-day gain arrived early and flattened, coordination did the work and your tendon is still the beginner it was. If your gain arrived late and steady, the tendon finally reported for duty. The training prescription splits right there, so be honest about which curve was yours. One more distinction matters for the next block. There is a difference between a jump that rose because the spring stiffened and a jump that rose because the dip got longer and more muscular. The second jump is a squat in disguise, and it does not transfer to the reactive, quick-contact situations where springs earn their keep. If your new mark came with a noticeably deeper, slower dip, celebrate carefully. The protocol's shallow, quick dip exists precisely to keep this test grading the tendon and not the squat.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "TECHNIQUE CURVE",
+       80
+      ],
+      [
+       "TENDON CURVE",
+       45
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "TWO AUTHORS, ONE MARK",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "EARLY AND FLAT = SKILL",
+     "lines": [
+      "Late and steady = tendon."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "BE HONEST ABOUT YOUR CURVE",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "There is a second result written in your landings, so listen to them before you leave the wall. A spring that truly stiffened lands differently: quicker contact, less heel slam, knees tracking straight instead of collapsing inward, and a sound like a cat instead of a sack of books. Reactive strength researchers measure exactly this, ground contact quality, because it reveals tendon function that a single max jump hides. If your best jump barely moved but your landings got quiet and springy across all three attempts, your Achilles still changed, just in the direction of durability first. Height often follows durability by a season. Springs, like tendons, keep their own schedule. And a stiffer spring changes your floor, not just your ceiling. Men with trained Achilles tendons report that ordinary movement feels cheaper: stairs, hills, hurrying for a bus. That is the same recoil doing small work a thousand times a day instead of one maximal repayment. Your retest measured the loudest version of the upgrade. The quiet version is a daily discount on being alive in your body, and it compounds with every step.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "LISTEN TO THE LANDINGS",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "ankle_ligament_plate.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "QUIETER",
+     "label": "LANDINGS ARE A RESULT TOO",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "DURABILITY BEFORE HEIGHT",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe on results day belongs to physics. Jump height is decided by takeoff velocity, and takeoff velocity is force divided by the mass it must move. Your mass is the smallest variable in the room, which means every unit of tendon stiffness you build buys you more height than it buys the heavy guy building the exact same tendon. His spring must launch a house. Yours launches a bicycle. This is why skinny jumpers keep embarrassing bigger athletes at this test, and why your few centimeters of honest tendon gain are worth more, centimeter for centimeter, than the same gain on a heavier frame.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "FORCE DIVIDED BY MASS",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "HIS FRAME TO LAUNCH",
+       90
+      ],
+      [
+       "YOUR FRAME TO LAUNCH",
+       65
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "YOUR CM ARE WORTH MORE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "THE BICYCLE BEATS THE HOUSE",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "POGO HOPS",
+   "work": 20,
+   "rest": 40,
+   "rounds": 4,
+   "asset": "ren_jump_peak.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we train the spring that the wall just graded. Four rounds of pogo hops: twenty seconds quick and stiff, forty seconds walking it off. Short contacts, tall chest, landings like a cat."
+  },
+  {
+   "type": "art",
+   "asset": "ren_eccentric_drop.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-level protocol depends on which author wrote your result. If technique wrote it, the next ninety days belong to the tendon: heavy slow calf raises, eccentric drops, and low-volume hops, because the easy skill gains are spent. If the tendon wrote it, keep the recipe and add coordination polish: arm swing timing and dip rhythm, the remaining free centimeters. If neither wrote much, audit the basics first, sleep, session count, and whether the spring work actually happened twice a week. The mistakes to retire: testing after leg training, comparing jumps across different shoes, and measuring from a lazy reach. The reach sets the jump, so reach like you mean it. One weekly detail keeps the spring honest between retests: the low-amplitude day. Once a week, keep every hop small, fast, and quiet, never chasing height. Tendons stiffen best under thousands of submaximal, perfectly elastic contacts, the kind that look like nothing on camera. The max jumps are the exam. The quiet hops are the education, and skipping the education to cram for exams is a strategy that fails in every subject ever tested.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "TESTING AFTER LEG DAY",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "DIFFERENT SHOES, DIFFERENT TEST",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "THE LAZY REACH",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "MATCH THE PROTOCOL TO THE AUTHOR",
+     "lines": [
+      "Skill spent? Build tendon. Tendon in? Polish."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "CHANGED?",
+   "label": "THE JUMP VERDICT",
+   "sub": "comment your old and new marks in centimeters",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, did it actually change? If you gained three to five centimeters with landings that sound quieter, yes: your Achilles is a stiffer, faster spring than it was ninety days ago, and that is the result this channel exists to produce. If you gained ten or more, your technique changed gloriously and your tendon is next in line. If you gained under two, the truthful verdict is not yet, and the prescription is heavy calf work and patience, in that order. Comment both marks below in centimeters, and set the next wall date thirty days out. Springs report quarterly. The wall will be ready.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "3-5 CM",
+     "label": "A STIFFER, FASTER SPRING",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "QUIETER LANDINGS CONFIRM IT",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT BOTH MARKS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT RETEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Two chalk marks, ninety days apart, and the higher one is not an accident. Keep the calf work heavy, keep the hops honest, and bring me a new line next retest. Subscribe so the wall never waits alone. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "BRING BOTH MARKS",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

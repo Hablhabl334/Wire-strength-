@@ -1,0 +1,384 @@
+{
+ "badge": "EP 665 - THE COMEBACK TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NUCLEI",
+  "YOUR VERDICT"
+ ],
+ "description": "Life interrupted your training once, and it will again. The comeback test measures what your muscles actually kept while you were gone: the nuclei that remember, the speed of the return, and the truth about whether muscle memory is real science or gym folklore.",
+ "hashtags": [
+  "muscle memory",
+  "comeback test",
+  "myonuclei",
+  "calisthenics",
+  "push up test"
+ ],
+ "id": "665",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DAY ONE BACK, HONEST RULES"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RECALL YOUR BEST-EVER MAX"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "WHAT THE LAYOFF TOOK",
+     "pos": "tr",
+     "text": "THE GAP"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP BOTH NUMBERS"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Welcome back, officially. | The comeback test is simple. | Push-up max, clean reps. | Same rules as always. | Chest to fist height. | Lockout every single rep. | Go until form breaks. | That count is today's truth. | Now recall the other number. | Your best-ever max. | From before the layoff. | Before life interrupted. | Hold both numbers together. | The gap between them | is what the layoff took. | Or failed to take. | At the end: the reveal. | what your muscles kept | while you were gone. | More than you fear. | And stranger than you think. | Keep both numbers safe.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A COORDINATE, NOT A SENTENCE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE NORMAL DAY-ONE RANGE",
+     "pos": "br",
+     "text": "50-70%"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE ROAD BACK IS SHORTER"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WATCH THE CLIMB RATE"
+    }
+   ],
+   "big": "50-70%",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHAT A COMEBACK MAX USUALLY SHOWS ON DAY ONE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the frame for a comeback number, because day-one maxes terrify returning men unnecessarily. After a layoff of a few months, a first honest max commonly lands at fifty to seventy percent of the old best, and the missing reps feel like a verdict. They are not. They are mostly the fast-fading layers leaving first, exactly as the order of loss predicts: neural polish dulls within weeks, endurance chemistry within a month or two, and both make a max test, which is a performance, look far worse than the underlying structure is. The structure, the muscle and its machinery, leaves much more slowly and returns much more quickly than it was first built. Researchers who track retraining find the road back is typically covered in a fraction of the original time. So read today's percentage as a starting coordinate, not a sentence. The comeback test's real measurement happens over the next four weeks, in how fast the number climbs.",
+   "section": "THE NUMBER",
+   "sub": "under 40%: the layoff was long and total - over 80%: the memory is strong in you",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Extra nuclei stay after shrinking.",
+      "Reopening beats rebuilding."
+     ],
+     "pos": "tr",
+     "title": "THE STAFF NEVER LEFT"
+    },
+    {
+     "asset": "ren_pushup_back_top.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DORMANT, NOT GONE"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMEMBERED IN STAFF"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the strange and wonderful mechanism with your name on it: muscle nuclei. A muscle fiber is an enormous cell, too big for one nucleus to manage, so it keeps hundreds of them, each governing its local district of protein building. When you trained the first time, your fibers recruited extra nuclei, donated by satellite cells, to run the construction of new tissue. Here is the discovery that rewrote the textbooks: when you detrain and the fiber shrinks, the extra nuclei, in the best-supported model, do not leave. They stay, dormant staff in a smaller factory, keeping their districts ready. Retrain, and the factory does not need to hire and train new management. It reopens with the old team at their desks, which is the cellular explanation for why the comeback is faster than the first build. Your muscles, quite literally, remember being bigger, in staff if not in size.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO ARCHIVES, ONE FACT"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FIRST BUILD",
+       100,
+       "gold"
+      ],
+      [
+       "THE COMEBACK",
+       45,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "BUILDING VS REBUILDING"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ARCHIVED, NOT ERASED"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "REOPENED IN WEEKS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Honest science requires the footnotes, and this channel prints them. The nuclei story is best supported in animal studies and increasingly in human work, but human muscle is harder to audit, and some researchers argue the retained advantage also lives in a second archive: the epigenetic layer, chemical marks on the muscle's DNA that remember which genes training switched on, and switch them back on faster the second time. Both archives may be real; the observable fact beneath the debate is not contested. Retraining is measurably faster than first-time training, across ages and training histories, and the advantage can persist for years after the layoff. What is contested is only which filing cabinet the memory sits in. For the man doing the push-ups, the practical translation is identical: your past training was not erased by your past layoff. It was archived, and archives can be reopened on a schedule of weeks.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE GROOVE OUTLASTS THE VOLTAGE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF HONEST SUBMAXIMAL WORK",
+     "pos": "br",
+     "text": "2 WEEKS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMEMBERING OUT LOUD"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The comeback has one more layer the nuclei cannot explain, and it might be the biggest: skill. A push-up max is also a motor pattern, a groove your nervous system cut rep by rep, and grooves fade far more slowly than strength does. Watch a returning trainee's first set and you can see the groove arguing with the weakness: the path is right, the bracing is right, only the voltage is missing. This is why the comeback protocol should begin below your pride. The pattern remembers more than the tissue can currently fund, and men tear the comeback by letting the groove write checks the structure cannot cash in week one. Two weeks of honest submaximal work lets the funding catch up to the memory. Then the climb becomes the fastest progress of your training life, and it feels, every returning man says, less like building and more like remembering out loud.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_45_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEAP BUILD, CHEAPER REBUILD"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A DIFFERENT ANIMAL",
+     "pos": "br",
+     "text": "ARCHIVE \u2260 BEGINNER"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SOMEONE WHO PAUSED"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRAIN LIKE IT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your build is the comeback's favorite candidate, for a reason accountants would approve: your original build was cheap, so your rebuild is cheaper. The tissue a light man must restore is a modest amount in absolute terms, his joints tolerate daily practice while it returns, and his numbers are heavily recruitment-driven, the fastest layer to restore. There is also a psychological dividend specific to this channel's audience. The skinny guy returning from a layoff usually carries a story that he has lost everything and become the beginner again. The nuclei say the story is false at the cellular level: he is a former trainee with an archive, which is a completely different animal from a beginner, and he should train and eat like one. The first build made you someone. The layoff only made you someone who paused.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Now we reopen the archive together. Three rounds of push-ups at honest effort, two reps shy of failure every round. We are reminding the staff, not punishing them.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEEK 1: GROOVE, NOT PROOF"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WEEK 3: FIRST HONEST MAX"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EAT AND SLEEP LIKE BUILDERS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "DAY-ONE MAX TO FAILURE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The comeback protocol, four weeks, four rules. Week one: volume at half your old loads, every pattern you used to own, nothing to failure; the goal is blood flow and groove, not proof. Week two: add weight to the groove, top sets at seventy percent of the old best, and let the nuclei wake to a familiar workload. Week three: the first honest max attempt, logged, and most returning men find the number has been sprinting. Week four: resume the normal program, one level below your old one, and climb. Throughout: eat like a builder, because the staff cannot construct without materials, and sleep like it is your job, because on a comeback, it is. And keep the day-one number forever. It is the most encouraging document you own: proof, in your own handwriting, of how little a layoff actually took.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "POLISH GONE, STRUCTURE HOME"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN READ THE CLIMB RATE",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT TODAY'S MAX"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your comeback verdict. Day one at eighty percent or better of your best: the layoff barely touched the archive; resume almost where you left off, humbly. Fifty to eighty: the textbook comeback profile, polish gone, structure home, and the next month will be the fastest progress you have made since your first season. Under fifty: the layoff was long or life was loud, and still the nuclei math is on your side; the climb back remains shorter than the first climb, by years of stored advantage. Whatever the number, hear the episode's title plainly: your muscles kept the staff, the groove and the archives. Put today's max in the comments, just the number. In thirty days we retest, and the climb rate, the real verdict, gets its first reading.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SPRINTING NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, same fist, same honest rules. Bring me a number that has been sprinting and we will read the climb together. Subscribe, and keep both numbers safe. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "muscle memory",
+  "comeback test",
+  "muscle nuclei",
+  "myonuclei",
+  "retraining",
+  "push up max",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_top.webp",
+  "big": "DAY 1 BACK",
+  "hook": "THE COMEBACK TEST"
+ },
+ "title": "Your Comeback Test Reveals the Truth About Your muscle nuclei",
+ "v5": true
+}

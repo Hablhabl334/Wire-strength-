@@ -1,0 +1,387 @@
+{
+ "badge": "EP 676 - THE TEMPERATURE TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE DELIVERY",
+  "YOUR VERDICT"
+ ],
+ "description": "Fill a bowl with cold water and give me sixty seconds of one hand. The time your fingers take to come back to life is a direct reading of your blood flow, the delivery network every other system in this channel depends on. Here is what your rewarming time means, and how to train the network itself.",
+ "hashtags": [
+  "temperature test",
+  "blood flow",
+  "circulation",
+  "recovery",
+  "calisthenics"
+ ],
+ "id": "676",
+ "scenes": [
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE HAND, SIXTY SECONDS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO HELPING THE HAND"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR DELIVERY GRADE",
+     "pos": "tr",
+     "text": "REWARMING TIME"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP THE TIME"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test needs a bowl, cold water, and a clock. Fill the bowl with the coldest water your tap gives you, and add ice if you have it. Plunge one hand in, all the way to the wrist, and keep it there for sixty full seconds. It will ache a little. That ache is the point. At sixty, pull the hand out, dry it once, and start your clock. Now simply wait, hand resting open on the table, and watch your fingertips. The cold will have driven the blood out of them; they may look pale. Your number is the time until warmth and full feeling return to every fingertip, until the hand feels completely like yours again. Stop the clock there. No shaking the hand, no running it under warm water, no helping. The network has to do the work alone, because the network is what we are measuring. Keep the time, in minutes and seconds. By the end of this video you will know whether your delivery system runs express or local, and why that single number quietly decides how fast everything else you train can grow.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A ROUGH GUIDE, NOT A DIAGNOSIS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE REWARMING LINE",
+     "pos": "br",
+     "text": "3 MIN"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EXPRESS UNDER TWO"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DELIVERY IS TRAINABLE"
+    }
+   ],
+   "big": "3 MIN",
+   "card": "bignum",
+   "check": 1,
+   "label": "FULL FEELING BACK: THE HEALTHY REWARMING LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, offered as a rough guide rather than a diagnosis, because room temperature and water temperature move it around. In a healthy, responsive vascular system, a hand chilled for one minute usually rewarms completely within about three minutes: colour returns, warmth spreads from the palm outward, and feeling is fully back. Under two minutes is an express network, the kind trained people tend to own. Between three and five, the system works but opens its vessels slowly, like a road crew that arrives eventually. Beyond five minutes, or fingers that stay pale and numb long after the rest of the hand is warm, the delivery is sluggish enough to be worth training, and worth mentioning to a doctor if it is a pattern in your daily life too. Your number today is not about toughness. Cold tolerance is a party trick. This is about how fast your blood agrees to come back, because that same agreement is what feeds a muscle after you have trained it.",
+   "section": "THE NUMBER",
+   "sub": "under 2 min: express network - over 5 min: delivery under construction",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Cold clamps the vessels shut.",
+      "Rewarming is the staged reopening."
+     ],
+     "pos": "tr",
+     "title": "THE CLAMP AND THE RELEASE"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "OXYGEN IN, WASTE OUT"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ROADS BEFORE CITY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at what the cold actually did. Your hand is fed by arteries that branch into ever smaller vessels, ending in capillary beds finer than hair. When cold water hit the skin, sensors reported a threat to your core temperature, and the nervous system answered by clamping those vessels nearly shut, a reflex called vasoconstriction. Blood was recalled to the centre to protect the organs, and your fingers were left running on reserves. Rewarming is the reverse negotiation: as the threat fades, the clamps release in stages, vessels dilate, and blood returns carrying everything tissue lives on. Oxygen for energy. Glucose and amino acids for building. Heat itself. And on the way out, the same blood hauls away carbon dioxide and the waste of work. Every adaptation this channel trains, tendon, nerve, muscle, is delivered or denied by this network. A strong muscle fed by a slow network recovers slowly. A modest muscle on an express network can train again tomorrow. That is why we test the roads before we judge the city.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE LINING LEARNS"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "AT REST",
+       10,
+       "red"
+      ],
+      [
+       "UNDER LOAD",
+       100,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FLOW IN A TRAINED LIMB (RELATIVE)"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "PRACTISED OPENINGS",
+     "pos": "tr",
+     "text": "10,000"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "YOU CANNOT FAKE IT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The numbers behind the network are bigger than most people guess. At rest, a muscle receives a modest share of your blood flow, enough for housekeeping. Under hard work, that same muscle's flow can multiply many times over, as vessels inside it dilate and call down a flood. The speed of that call is a trainable quality called endothelial function: the inner lining of your vessels learns, from repeated demands, to release its dilating signals faster and more completely. This is one reason trained people rewarm quickly after the cold test. Their linings have practised opening ten thousand times, in every hard set they ever finished. It is also why the rewarming test is honest: you cannot fake a faster endothelium for the camera. It either opens or it does not. The comparison below is drawn in relative units, resting flow against working flow in a trained limb, and the gap between those bars is the entire business of this episode.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COLD TEACHES, HEAT HOLDS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ONE READING",
+     "pos": "br",
+     "text": "2 REFLEXES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A GAUGE, NOT A DIAGNOSIS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SEE A PROFESSIONAL IF IT PERSISTS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "One more layer, because temperature is not just a test here, it is a training signal in its own right. Deliberate cold teaches the vessel reflexes to respond crisply, the same way a startle drill teaches a sprinter. Deliberate heat does the opposite job: it holds vessels open, raises flow passively, and is one reason a warm muscle is a strong, safe muscle. Your rewarming time sits downstream of both reflexes, which is why it reads the whole network in one number. A caution that belongs in every science episode: this test is a training gauge, not a medical instrument. Fingers that turn white or blue in ordinary cold, or numbness that lingers for many minutes, are reasons to see a professional, not reasons to train harder. Inside normal limits, though, the message is friendly. The network is plastic. It remodels toward whatever you repeatedly ask of it, and the rest of this video is about asking well.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SHORTER ROUTES EVERYWHERE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "FAST FEEDBACK",
+     "pos": "br",
+     "text": "SMALL SYSTEM"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOUR NUMBER MOVES FAST"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WELCOME THIS TEST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your build quietly wins this test, and it is worth understanding why. The network serves volume: every kilogram of you is tissue that must be perfused, warmed, and fed. A lighter man runs shorter routes to everywhere. His heart moves blood to the fingertips and back on a shorter circuit, his surface loses heat fast but his smaller mass also rewarms fast, and the vessel reflexes have less territory to negotiate over. Heavy men often rewarm slowly for the same reason a city has traffic: more districts, longer roads. You are a small town with new highways. This is also why temperature tools dose so efficiently on a lean frame, a theme the cold episodes later in this season build on. The advantage is not that your number starts perfect. It is that your number moves quickly when you train the network, because the network you are training is compact. Small system, fast feedback, honest grades.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "check": 3,
+   "exercise": "CALF RAISES",
+   "music": "drive",
+   "narration": "Now we prime the network. The calf is called the second heart because every raise squeezes blood upward. Three rounds, tall and slow. Make the pump work.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MOVE EVERY DAY"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WARM UP LIKE YOU MEAN IT"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "TEMPERATURE ON PURPOSE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TRAIN THE PUMP"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for a faster network is unglamorous, which is how you know it is real. First, move daily: walking is the base layer of circulation, and the man who sits for ten unbroken hours is training his vessels to be lazy no matter what his workouts say. Second, warm up like you mean it: five honest minutes before hard work is not ceremony, it is the flow arriving before the demand, and cold muscles under load are where strains live. Third, use temperature on purpose: warmth before stiff sessions, cold kept for the jobs the later episodes assign it, never sprayed randomly at everything. Fourth, train the pump muscles, calves especially, the way the timer block just did. None of this is a supplement. All of it compounds. Do it for thirty days and the bowl of cold water will grade the change more honestly than any mirror.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EXPRESS, NORMAL, OR BOTTLENECK"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN RETEST THE ROAD",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your temperature verdict. Under two minutes: an express network. Your delivery is an asset; protect it with daily movement and spend your training worry elsewhere. Two to four minutes: normal traffic. The system works, and thirty days of the protocol will likely pull you toward the express line. Over five minutes, or one finger lagging far behind the others: delivery is your bottleneck this month, and it deserves the protocol before any new exercise does. Put your rewarming time in the comments, minutes and seconds, exactly as the clock read it. In thirty days, same bowl, same water, same rules, and we compare. Hidden strength was the promise of this channel. Today you learned it travels by road, and you just timed the road.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same bowl, same cold water, same honest clock. Bring me a faster hand. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "temperature test",
+  "blood flow",
+  "circulation test",
+  "vasodilation",
+  "recovery science",
+  "skinny guy fitness",
+  "calisthenics science"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_grip_squeeze.webp",
+  "big": "3 MIN",
+  "hook": "THE TEMPERATURE TEST"
+ },
+ "title": "Your Temperature Test Reveals the Truth About Your blood flow",
+ "v5": true
+}

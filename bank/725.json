@@ -1,0 +1,406 @@
+{
+ "badge": "EP 725 - CHEAP CALORIES WIN",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE DENSITY",
+  "YOUR VERDICT"
+ ],
+ "description": "Your last grocery basket, audited item by item: this test reads the calorie density your gaining actually runs on. Here is why density, not appetite alone, decides whether a small stomach can hold a surplus, and the cheap anchor foods that fix any basket.",
+ "hashtags": [
+  "grocery test",
+  "calorie density",
+  "cheap calories",
+  "calisthenics",
+  "gaining"
+ ],
+ "id": "725",
+ "scenes": [
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SORT THE BASKET INTO TWO PILES"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "100 KCAL PER 100 G: THE LINE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR DENSITY SHARE",
+     "pos": "tr",
+     "text": "%"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE BASKET NEVER LIES"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is your last grocery shop, audited honestly. Spread the receipt, or the bags themselves, and sort what you bought into two piles. Pile one: foods that carry at least one hundred calories in every hundred grams, the dense crew: oils, butter, nuts and nut butters, cheese, whole milk, oats, rice, pasta, bread, fatty meats, dried fruit. Pile two: everything lighter, the vegetables, fruits, lean proteins, diet drinks and salads that fill a bag and barely dent a calorie count. Now estimate what share of your basket's weight sits in pile one. That percentage is today's number. No shame in it, whichever way it lands: most skinny men's baskets audit terribly, not because they shop badly for health, but because they shop for a different sport than the one they are trying to play. Write the percentage down. The basket never lies about the season ahead.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A DIETER'S BASKET, A GAINER'S INTENT"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE FOUNDATION LINE",
+     "pos": "br",
+     "text": "50%"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NOTHING IS BANNED"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FOUNDATIONS DECIDE CAPACITY"
+    }
+   ],
+   "big": "50%",
+   "card": "bignum",
+   "check": 1,
+   "label": "HALF THE BASKET DENSE: A GAINER'S SHOP",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the reading frame. Under twenty-five percent dense, your basket belongs to a man trying to lose weight, whatever his intentions were at the door: the volume required to reach a surplus from that food would defeat any stomach, including a big one. Twenty-five to fifty is the mixed middle most health-conscious shoppers land in, where gaining is possible but every day is an uphill negotiation with fullness. Over fifty percent dense is a gainer's basket: meals assemble themselves into surpluses at portions a skinny stomach can actually finish, and the day stops being a siege. Notice the frame's mercy: nothing in pile two is banned, judged or removed. Vegetables and lean protein keep their jobs. Density is about what the basket is built from, the foundation share, because foundations decide what a structure can hold.",
+   "section": "THE NUMBER",
+   "sub": "under 25%: a dieter's basket - 25 to 50%: the mixed middle - over 50%: built to gain",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pinch_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Same volume, same fullness.",
+      "Density triples the delivery."
+     ],
+     "pos": "tr",
+     "title": "ONE LITER, TWO DESTINIES"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE PHYSICS OF A SMALL STOMACH"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE BASKET DOES THE FORCE-FEEDING"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ARITHMETIC BEFORE COOKING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The mechanism is stomach economics, and it is pitiless arithmetic. Your stomach comfortably holds roughly a liter of food per sitting, a volume that evolution set and willpower cannot amend. Fill that liter with salad, fruit and lean chicken at forty to eighty calories per hundred grams and the meal lands near five hundred calories, eaten bravely, finished full. Fill the same liter with rice, cheese, eggs and olive oil at one hundred fifty to two hundred fifty per hundred grams and the identical volume, identical fullness, identical effort delivers three times the energy. Calorie density is therefore not a detail of gaining; for a small-stomached man it is the whole physics of it. The men who gain without force-feeding are not tougher than you. Their baskets do the force-feeding for them, silently, at the level of arithmetic, before a single meal is cooked.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FULLNESS TRACKS VOLUME, NOT ENERGY"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "SALAD GREENS",
+       20,
+       "red"
+      ],
+      [
+       "OATS (DRY)",
+       350,
+       "gold"
+      ],
+      [
+       "PEANUT BUTTER",
+       600,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CALORIES PER 100 GRAMS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "DENSITY AND PRICE POINT THE SAME WAY",
+     "pos": "tr",
+     "text": "CHEAPEST"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE DENSEST LEGAL CARGO"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The research on density and intake is some of the most reliable in nutrition science, because it survives every diet ideology: when people eat meals of lower energy density, they consume fewer calories while reporting the same fullness, and when density rises, intake rises with fullness unchanged. The stomach meters volume and weight far more faithfully than it meters energy, a design that served our ancestors well in a world where food was mostly lean and fibrous, and that quietly sabotages the modern skinny man shopping the perimeter of a health-food store. The same science explains the classic gaining anchors: foods like peanut butter near six hundred calories per hundred grams, oils near nine hundred, oats and rice near three hundred fifty dry, are not magic, they are simply the densest legal cargo a basket can carry, and most of them are also among the cheapest calories in the entire shop.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANCHORS: DENSE, CHEAP, STABLE"
+    },
+    {
+     "asset": "ren_farmer_carry.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Anchors work without daily decisions.",
+      "Stock six and the share climbs itself."
+     ],
+     "pos": "br",
+     "title": "RAISE THE FLOOR"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SYSTEMS BEAT INTENTIONS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Meet the anchor foods properly, because the deep dive is a shopping list disguised as science. An anchor is a food that is dense, cheap, shelf-stable and easy to add to meals you already eat: olive oil over everything savory, peanut butter into shakes and onto toast, whole milk as the default drink of the gaining months, oats as the breakfast base, cheese and butter as finishers, rice and pasta as the plates everything else rides on, dried fruit and nuts as the desk and pocket snacks that turn dead time into deliveries. Each anchor is a small permanent raise to every meal it touches, which is why anchors beat recipes: a recipe must be chosen daily, while an anchor, once stocked, raises the floor of your intake automatically. Stock six anchors and your basket's density share climbs without a single decision at the shelf. Systems beat intentions, in the pantry as in the program.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A SURPLUS MEASURED IN MOUTHFULS"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "YOUR COST PER GAINED KILO",
+     "pos": "br",
+     "text": "LOWEST"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE RECEIPT, ONE PERCENTAGE"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SHOP LIKE IT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantages in the density game close this season's argument. Your surplus is small, a few hundred calories, which at anchor-food densities is a shockingly tiny volume: two tablespoons of peanut butter, a glass of whole milk, a drizzle of oil across dinner, changes measured in mouthfuls, not meals. Your budget stretches further than any heavy gainer's, because your total intake is smaller and the dense anchors are the cheapest calories in the shop, so your cost per gained kilo may be the lowest in the entire sport. And your audit is instant and repeatable: one receipt, two piles, one percentage, a test you can rerun at every shop for the rest of your life. The big man's gaining problem is appetite against a huge target at a huge price. Yours is a basket percentage and a handful of mouthfuls. Shop like it.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "check": 3,
+   "exercise": "FARMER CARRY",
+   "music": "drive",
+   "narration": "Now we train the shopping muscles themselves. Four rounds of farmer carries, forty seconds on, twenty off, the heaviest honest load you can hold. This is literally the grocery test as an exercise.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STOCK THE SIX ANCHORS FIRST"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "DENSE BASE, HONORED SUPPORT"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "RAISE THE FLOOR BEFORE THE CEILING"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A MYSTERY BECOMES A SYSTEM"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The density protocol, four rules. One: stock the six anchors before anything else changes: oil, peanut butter, whole milk, oats, cheese, and one dried snack, and let the basket's share climb on its own. Two: build every plate on a dense base, rice, pasta, oats or bread first, then let the lean and the green take their honored supporting roles. Three: add one anchor to each existing meal before adding any new meals, because raising the floor beats raising the ceiling for consistency. Four: audit one basket a month with today's two-pile test and log the percentage beside the scale's weekly trend; the two numbers together will tell you, in writing, whether your gaining is a mystery or a system. From today, it is a system.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pinch_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE EXCHANGE RATE BETWEEN FULL AND FED"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN AUDIT THE SHOP AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR BASKET PERCENT"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLEARED OF SUSPICION, OR CAUGHT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. Under twenty-five percent dense: you have been shopping for a different sport, and the anchors list is the single highest-value change in this entire season, worth more than any supplement ever sold to you. Twenty-five to fifty: the mixed middle, where two or three stocked anchors and a dense base at dinner typically carry a man into surplus without a single heroic meal. Over fifty: a gainer's basket, built correctly, and if the scale still refuses to move, the audit has done its final job, which is to clear the basket of suspicion and point honestly at total quantity and consistency. In every band, the truth about calorie density stands: fullness is volume, gaining is energy, and density is the exchange rate between them. Put your basket percentage in the comments, just the number. In thirty days, audit the shop again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A DENSER BASKET"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, one receipt, two piles, one honest percentage. Bring me a denser basket and a scale that has started to believe you. Subscribe, and keep today's percentage safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "grocery test",
+  "calorie density",
+  "cheap calories",
+  "gaining on a budget",
+  "calorie dense foods",
+  "skinny guy shopping"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_farmer_carry.webp",
+  "big": "100 KCAL",
+  "hook": "CHEAP CALORIES WIN"
+ },
+ "title": "Your Grocery Test Reveals the Truth About Your calorie density",
+ "v5": true
+}

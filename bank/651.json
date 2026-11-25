@@ -1,0 +1,384 @@
+{
+ "badge": "EP 651 - THE AGE-GROUP RETEST",
+ "category": "retests",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CHANGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Ninety days of training means nothing until you measure it against the line for your age. Re-run your push-up test, put today's number next to the one you started with, and see exactly where you rank in your age bracket now.",
+ "hashtags": [
+  "push up test",
+  "fitness benchmarks",
+  "retest day",
+  "calisthenics",
+  "push up max"
+ ],
+ "id": "651",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME TEST, SAME RULES"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLEAN REPS ONLY"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "OLD VS NEW",
+     "pos": "tr",
+     "text": "2 NUMBERS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP BOTH NUMBERS"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Find your old number. | The push-up test. | From your first weeks here. | You wrote it down. | Today we run it again. | Same floor, same rules. | Chest to fist height. | Full lockout, every rep. | No sagging in the middle. | No bouncing at the bottom. | Go until form breaks. | Count only clean reps. | That count is today's number. | Now here is the twist. | Your age has a bracket. | Every bracket has a line. | Trained, average, and untrained. | Finally, I rank you. | Against men your own age. | And against your old self. | Keep both numbers safe. | The old one matters. | The new one decides.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RANKED BY AGE BRACKET"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE TRAINED LINE",
+     "pos": "br",
+     "text": "TOP 25%"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED MOVES FASTEST"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "OLD YOU VS NEW YOU"
+    }
+   ],
+   "big": "TOP 25%",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHERE A TRAINED MAN YOUR AGE SITS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the frame before we judge your number. Published benchmark tables rank push-up maxes by age bracket, and the lines are lower than gym talk suggests. For a man in his twenties, the average sits around twenty clean reps. The trained line, roughly the top quarter of the bracket, starts near forty. Under fifteen is simply untrained, and untrained is the best place to start because it moves the fastest. Notice what the table really says: your bracket is not a life sentence. It is a snapshot of who trained and who did not. Ninety days ago you were a line in that table. Today we find out which line you are now, and the only comparison that pays is the one against your first number.",
+   "section": "THE NUMBER",
+   "sub": "below average is a starting point - the bracket only moves one way",
+   "type": "card"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Nerves adapt in weeks.",
+      "Muscle in months. Tendons slowest."
+     ],
+     "pos": "tr",
+     "title": "THREE CLOCKS"
+    },
+    {
+     "asset": "ren_pushup_back_top.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE COMMITTEE VOTES"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A PUMP CANNOT FAKE THIS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "So what actually changed between your two numbers? Not one thing. A push-up max is a committee vote. Your chest and triceps supply the force, but your tendons decide how much of it reaches the floor, your nerves decide how many muscle fibers get invited, and your bracing decides how much leaks out through a sagging middle. In ninety days every member of that committee adapted at its own speed. Nerves first: within weeks, recruitment sharpened and reps you already owned became available on demand. Muscle next: fibers thickened slowly, adding real force through the middle weeks. Tendons last and slowest: the cables stiffened month by month, wasting less of every push. Your new number is the sum of three clocks, and that is why it is honest. A pump can fake size for an hour. It cannot fake a committee. There is one more member worth naming: the trunk. A push-up is a plank that moves, and every watt your midsection fails to hold is a watt the rep never sees. Men are often surprised that their push-up max rises during seasons when they trained mostly bracing and heavy carries. The committee noticed, even if the mirror did not.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EARLY GAINS ARE NEURAL"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FIRST 90 DAYS",
+       100,
+       "cyan"
+      ],
+      [
+       "SECOND 90 DAYS",
+       45,
+       "gold"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "PUSH-UP GROWTH BY PHASE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE BEND IS NORMAL"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOU ARE THE CURVE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Benchmark data has a second use nobody mentions: it tells you what is normal to gain. In the research on untrained men starting bodyweight training, push-up maxes commonly climb fifty to one hundred percent in the first three months, because the early gains are mostly neural, and neural gains are generous. After that the curve bends. The second ninety days pays less per week, not because you are failing, but because the easy wiring is done and the slower tissues take over the schedule. This is where most men quit, right at the bend, mistaking a normal curve for a personal ceiling. The tables protect you from that mistake. If your bracket rank jumped a full band this quarter, you are not behind the curve. You are the curve, behaving exactly as measured bodies behave. The tables carry one more quiet mercy for late starters. Because the neural layer adapts at any age, the first-bracket jump is available to a man beginning at thirty-five almost exactly as it is to a man beginning at twenty. The brackets are age-adjusted precisely because the machinery of adaptation ages far slower than the machinery of vanity.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CONDITIONS MOVE THE COUNT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME WARM-UP, SAME FLOOR",
+     "pos": "br",
+     "text": "SAME TIME"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WRITE THE CONDITIONS DOWN"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "One detail decides whether your retest is data or just a memory: the conditions. A max taken fresh on a Sunday morning and a max taken after work on a Friday are two different tests wearing the same name. Sleep, food, time of day and warm-up can each move the count by several reps, which is larger than a month of honest progress at your stage. So the channel rule is boring and strict. Retest in the morning. Retest rested. Same warm-up, same floor, same fist height under the chest. Write the conditions next to the number, every time. A number without conditions is a story. A number with conditions is a measurement, and measurements are the only thing this channel trusts.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_45_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEAPER REPS, MORE PRACTICE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A WEEK OF PRACTICE",
+     "pos": "br",
+     "text": "4 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FREQUENCY IS THE SHORTCUT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RANK = PRACTICE, VISIBLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the part the benchmark tables will never print: your bracket is easier to climb than a heavy man's. Every rep you own is a rep at your bodyweight, and your bodyweight is low, which means your joints can afford the practice volume that progress is actually made of. The heavy beginner chasing the same table must ration his attempts, because each max test costs his elbows and shoulders several times the force yours pay. You can test monthly without breaking. You can train the movement four days a week. Frequency is the skinny guy's legal shortcut, and the age brackets reward exactly that: the man who practices most, climbs most. Your rank today is not your weight class talking. It is your practice schedule, made visible.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Now we train the next bracket together. Three rounds: clean push-ups, steady tempo, stop two reps before form breaks. We are buying the next line in the table.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEEKLY TOP SET, LOGGED"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PAUSE AT THE BOTTOM"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LEVERAGE BEFORE VOLUME"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HEROICS THEN SILENCE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol for the next ninety days, built for a man who already owns his base. Rule one: add a weekly top-set day, one honest max attempt, rested, logged with its conditions. Rule two: train the sticking point, not the highlight. Most push-up maxes die two inches off the floor, so twice a week, pause one second at the bottom of every rep and let the cables learn the weakest address. Rule three: progress the leverage before the volume. When forty clean reps fall, elevate the feet or slow the lowering to four seconds; a harder rep teaches more than ten easy ones. And rule four: protect the streak. Three sessions a week, every week, beats a heroic month followed by silence. The bracket does not reward heroes. It rewards attendance.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO VERDICTS, ONE NUMBER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE THIRD TEST",
+     "pos": "br",
+     "text": "90 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT OLD AND NEW"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict, and it has two parts. Against your bracket: if you crossed into the trained band, you now out-push three quarters of the men your age, most of whom outweigh you. If you are still below the line, the table says the gap is measured in weeks of attendance, not talent. Against your old self: any honest gain above twenty percent in ninety days means the system worked exactly as designed. Write both numbers in the comments, old and new, just the pair. In ninety days we run this test a third time, same rules, same conditions, and the bracket gets another chance to be wrong about you. And keep perspective on the whole exercise: this test takes ninety seconds and costs nothing, yet it now holds a season of your training in two comparable numbers. That is a better progress report than any photograph.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 90 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A HIGHER BAND"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Ninety days from now, same floor, same fist, same morning rules. Bring me a bigger number and we climb another band together. Subscribe, and keep both numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "push up test",
+  "push up benchmarks",
+  "age group fitness",
+  "retest",
+  "calisthenics progress",
+  "push up max",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_pushup_top.webp",
+  "big": "YOUR RANK",
+  "hook": "AGE-GROUP RETEST"
+ },
+ "title": "The age benchmarks Benchmark: Where Your benchmark data Ranks",
+ "v5": true
+}

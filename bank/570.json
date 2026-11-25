@@ -1,0 +1,410 @@
+{
+ "badge": "EP 570 - 10-METER REVEAL",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NERVES",
+  "YOUR VERDICT"
+ ],
+ "description": "Ten meters, two seconds, no hiding. Your 10-meter time is the purest x-ray of the strength nobody can see: how fast your nervous system can turn you into motion. Take the test and find out what yours reveals.",
+ "hashtags": [
+  "10 meter test",
+  "hidden strength",
+  "sprint start",
+  "nerve speed",
+  "acceleration"
+ ],
+ "id": "570",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO MARKERS, TEN METERS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEST OF THREE, FULLY RESTED"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "YOUR TIME"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "AN X-RAY OF HIDDEN STRENGTH"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR TIME SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Two markers, ten meters apart, flat ground. Stand behind the first, one foot forward, leaning in like a man about to be pushed. On your own go, sprint through the second marker at everything you have, and time it. Three attempts, full recovery, best honest time counts. That time is your number today, and this episode treats it as what it really is: an x-ray. Not of your muscles, which the mirror already grades, generously or otherwise, but of your hidden strength, the speed at which your nervous system can recruit everything you own and aim it at the ground. Hidden strength is the kind that does not show in photographs and wins in the first three steps of every race, game and chase of your life. Most people go decades without ever having theirs measured. You are about to have yours read aloud. Keep your time safe. The reading happens at the end.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MACHINERY PRESENT, DELIVERY NEW"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "THE SECRET IS OUT",
+     "pos": "br",
+     "text": "1.9 SEC"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MILLISECONDS, NOT MUSCLE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SIGNAL IS TRAINABLE"
+    }
+   ],
+   "big": "2.0 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE THE X-RAY DRAWS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line the x-ray draws, around two seconds for a standing ten meters. Over two point two, your hidden strength is still hidden, mostly from yourself: the machinery is present, the delivery unpracticed, and the first steps come out at a fraction of their voltage. Under one point nine, the secret is out; your nervous system delivers like an athlete's, and anyone who races you learns it inside three steps. Between the two is the most interesting territory in sprinting, where ordinary people discover that the gap between them and the fast was never made of muscle. It was made of milliseconds of delay, scattered across a sequence that practice can tidy in a month. The x-ray does not care about your weight class, your gym, or your genetics story. It reports the signal, and the signal is trainable.",
+   "section": "THE NUMBER",
+   "sub": "over 2.2 sec: hidden strength, still hidden - under 1.9: it is not hidden anymore",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "One decision, delivered as voltage.",
+      "Muscles only follow orders."
+     ],
+     "pos": "tr",
+     "title": "IT BEGINS AS ELECTRICITY"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A SURGE, THEN SILENCE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "IT ONLY APPEARS IN MOTION"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FULL VOLTAGE OR NOTHING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at what the x-ray sees. A start begins as electricity: one decision, racing from brain to spinal cord to the nerves of hip, thigh, shin and foot. The muscles then produce the force, but the order, timing and violence of their recruitment were all decided upstream, in the wiring. Physiologists measure the output as rate of force development, and its early phase belongs almost entirely to the nerves: motor units recruited in a surge, firing at multiples of their resting rate, opposing muscles politely silenced so nothing cancels. This is hidden strength's anatomy. It cannot be photographed, flexed or weighed, which is why the fitness world ignores it and why start lines keep embarrassing the visibly strong. Your ten meters graded the one strength that only ever appears in motion, at full voltage, in the first two seconds of asking.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EARLY AND WELL-AIMED"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "DELIVERY + AIM",
+       95,
+       "cyan"
+      ],
+      [
+       "FORCE OWNED ALONE",
+       35,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT DECIDES TEN METERS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A SYSTEM AUDIT"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The research on short sprints reads like a defense of the invisible. Force plate studies show the best ten-meter performers are distinguished less by how much force they own than by how early and how well-aimed their force is, with the first three steps deciding most of the result. Electromyography shows their muscles switching on sooner and switching off cleaner, a coordination quality that improves with a few weeks of maximal, rested practice. And comparative testing keeps producing the same scandal: athletes with far bigger gym numbers losing ten-meter races to lighter athletes whose only advantage is delivery. The scandal is only a scandal if you believed strength lives in the muscle. If it lives in the system, muscle plus nerve plus aim, the results make perfect sense, and your x-ray today was a system audit from the start.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FIRST STEP PUBLISHES IT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "HIDE IN STEP ONE",
+     "pos": "br",
+     "text": "TENTHS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A FALL, CAUGHT AT SPEED"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LEARNABLE IN AN AFTERNOON"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Hidden strength has a second hiding place worth exposing: the first step. Watch any start in slow motion and you will see the race effectively decided by who leaves the ground moving forward and who leaves it moving up. The great first step is a fall caught at speed: body pitched, foot striking behind the hips' line, all force converted to travel. The ordinary first step is a polite hop into posture, half the voltage spent becoming a runner instead of going anywhere. The difference is worth tenths over ten meters, and it is pure technique, learnable in an afternoon of falling starts. Your x-ray grades the wiring, but the first step is where the wiring's report gets published, one way or the other.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR BUILD IS THE PROTAGONIST"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TO UPGRADE THE WIRING",
+     "pos": "br",
+     "text": "WEEKS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE RIGHT STRENGTH, GRADED"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A BETTER STORY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the part of the x-ray you will like. Hidden strength is the one strength where your build is the protagonist. Acceleration divides force by mass, so the delivered force of a light athlete buys more motion than the same delivery on a heavy frame, and delivery itself, being neural, can be trained at any size with equal rights. Put the two together and the first ten meters become the skinny athlete's home event: a contest where his mass is an asset and his ceiling is set by wiring he can upgrade in weeks. The mirror has been grading the wrong strength your whole life. The stopwatch over ten meters grades the right one, and it has been waiting to tell you a better story about your body.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "SPRINT STARTS",
+   "music": "drive",
+   "narration": "Now we develop the x-ray together. Six falling starts, ten seconds each, long rests, maximum intent. Lean, topple, catch, and let the hidden strength out.",
+   "rest": 50,
+   "rounds": 6,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FRESH AND FIRST"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PUBLISH THE FIRST STEP"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REST A FULL MINUTE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SECOND WEEKLY ROOM"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SAME MACHINE, EVERY PHOTO"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for making hidden strength visible. Step one: train starts fresh and first, six to eight maximal efforts at the front of a session, because delivery is a quality that only exists at full battery. Step two: use the falling start to publish the first step correctly, lean until you topple and catch the fall, so the wiring's force is spent on travel. Step three: rest a full minute or more between efforts and end the session while the starts are still crisp; the system files the last lesson loudest. Step four: give the wiring a second weekly room, hills or flat speed, short and sharp, so delivery learns to perform under different demands. Step five: test monthly under identical conditions, same markers, same surface, rested legs, because an x-ray is only useful when the machine does not change between photographs. A month of this and the next photograph shows a different athlete in the same frame.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE HIGHEST UPSIDE HERE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MEASURED AT LAST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the reading of your x-ray. Over two point two seconds: your hidden strength is genuinely hidden, an unpracticed delivery system in a light frame, which makes you the highest-upside athlete in this entire season; the protocol is your developing fluid. Between two point two and two seconds: the picture is clearing, delivery forming, and your remaining gains are aim and freshness. Under two seconds: the secret is out, your system delivers like an athlete's, and your first three steps are a weapon nobody can see coming, which is the best kind. Put your time in the comments, just the number, best of three, honest stance. Retest in thirty days, same ten meters, same surface. Hidden strength keeps its books in tenths of a second, and it rewards the people who finally measure it.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER TIME"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ten meters, lean and topple, bring me a faster time. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "10 meter sprint",
+  "sprint test",
+  "hidden strength",
+  "nerve firing speed",
+  "acceleration",
+  "sprint start",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "10M TIME",
+  "hook": "THE X-RAY TEST"
+ },
+ "title": "Your 10-Meter Time Reveals Your Hidden Strength",
+ "v5": true
+}

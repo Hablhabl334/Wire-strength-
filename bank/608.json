@@ -1,0 +1,400 @@
+{
+ "badge": "EP 608 - THE 90-DAY RECORD",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "EVERY SYSTEM REPORTS",
+  "YOUR VERDICT"
+ ],
+ "description": "Ninety days ago you set a full record: hang, push-ups, wall sit, one battery, one morning. Today the whole battery comes back. Re-run every test under the original rules and compare the full record, line by line. This is the season's report card, and every system you trained is on it.",
+ "hashtags": [
+  "90 days",
+  "the record",
+  "full retest",
+  "report card",
+  "calisthenics",
+  "strength test"
+ ],
+ "id": "608",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE MORNING, FOUR NUMBERS"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "RETURNS IN FULL",
+     "pos": "br",
+     "text": "THE BATTERY"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LINE ONE: THE HANG"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "EVERY LINE GETS COMPARED",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Ninety days ago | you set a record. | Not one test. | A whole battery. | The hang, the push-ups, | the wall sit too. | One morning, four numbers. | You wrote them all down. | Today the battery returns. | We start where you started: | the bar. | Same rules as day one. | Straight arms, honest clock. | Hang until you drop. | That is line one | of the new record. | Then we press. | Then we sit. | Every line gets compared. | At the end | I tell you | what ninety days built | across every system. | And what it skipped. | Grip the bar. | The record reopens now.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE RETEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A BATTERY CANNOT HAVE A LUCKY DAY"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ONE PATTERN",
+     "pos": "br",
+     "text": "4 SYSTEMS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "A MAP OF YOUR WEEKS",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "4 LINES",
+   "card": "bignum",
+   "check": 1,
+   "label": "ONE RECORD, NINETY DAYS APART",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the record itself, the frame for everything today. Four lines: your hang in seconds, your strict push-ups in reps, your wall sit in seconds, and the fourth line, the one nobody else tracks, the total: all of it added into one battery score that treats you as one athlete instead of a collection of party tricks. On day one, that record was mostly a list of good intentions and untrained cables. Its purpose was never to impress anyone. Its purpose was to make today possible, because a single test can have a lucky day, but a battery cannot. Four different systems, four different tissues, one morning: the truth comes out in the pattern, not in any single line. A line that jumped tells you a system got trained. A line that stalled tells you a system got skipped, politely, for ninety days. Read the record the way a coach reads it, as a map of where your weeks actually went. The map does not flatter. That is what maps are for.",
+   "section": "OLD VS NEW",
+   "sub": "a line that fell: the system was skipped - all four up: total adaptation, documented",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Collagen: the slowest, most permanent upgrade.",
+      "Signals: earlier, more complete."
+     ],
+     "pos": "tr",
+     "title": "ONE BODY, EVERY TISSUE"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ASKED IN THE LANGUAGE OF LOAD"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE ANSWER, IN NUMBERS",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "What does ninety days actually do to a body, across every system at once? This is the mechanism scene the whole season has been building toward. The tendons, in the hands, knees, elbows and ankles, spent ninety days laying collagen along the lines of pull you kept loading, and collagen is the slowest, most permanent upgrade you own. The nerves spent ninety days rehearsing recruitment: signals that once arrived late and partial now arrive early and complete, in the hang, the press, the sit, the balance you did not even test today. The muscles added endurance in the exact positions you trained. And underneath all of it, the least visible system adapted too: your tolerance for effort itself, the willingness to stay in the uncomfortable middle of a set where adaptation is farmed. Total adaptation is not four separate miracles. It is one body that got asked, consistently, in its own language of load, and answered in every tissue it has. The record is just the answer, written in numbers.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NERVES, WEEKS, SEASON"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "HANG",
+       70,
+       "cyan"
+      ],
+      [
+       "PUSH-UPS",
+       60,
+       "cyan"
+      ],
+      [
+       "WALL SIT",
+       55,
+       "cyan"
+      ],
+      [
+       "THE SKIPPED ONE",
+       10,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE RECORD, LINE BY LINE"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SYSTEMS MULTIPLY EACH OTHER"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "SILENT = NEVER ASKED",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The science of a ninety day record is the science of compounding, and it explains why the battery surprises people more than any single retest. Each system adapts on its own clock: nerves in days, muscle endurance in weeks, tendons across the full season. A test at two weeks would have shown you mostly nerve. A test at thirty days adds the muscle. Only at ninety do all the clocks report together, and their sum is larger than any of them promised separately, because the systems multiply each other: stiffer tendons make the muscle's force cheaper, cleaner nerve signals make the tendon's load more consistent, and both make the next session better than the last. That is the compounding curve your record just photographed. It also explains the stalls honestly. A line that did not move is a system whose clock never got started, because the load never arrived, not a system that failed. Ninety days is long enough for every tissue to answer. If one stayed silent, the record is telling you it was never asked.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ THE FINGERPRINT"
+    },
+    {
+     "asset": "ren_jump_peak.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "stat",
+     "label": "THE HONEST COACHING",
+     "pos": "br",
+     "text": "ATTENTION VS INTENTION"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "TRAIN THE SILENT LINE FIRST",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now read the record like a detective, because the pattern between the lines is the most valuable data on the page. If your hang and wall sit climbed but your push-ups stalled, your season was a holds season: long tension, patiently loaded, and the pressing chain got whatever energy was left over. If the push-ups climbed and the hang stalled, you trained movement and skipped stillness, a common pattern because moving feels like work and hanging feels like waiting. If everything climbed a little and nothing climbed a lot, you trained like a generalist, which builds the widest base and the fewest headlines. None of these patterns is a failure. Each is a fingerprint of where your attention actually lived for ninety days, as opposed to where you intended it to live, and the distance between those two is the most honest coaching you will ever receive. The next ninety days should be aimed by this fingerprint, not by a generic program. Train the silent line first. The loud ones have already proven they can take care of themselves.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MORE VOLUME PER WEEK"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "RE-MEASURE",
+     "pos": "br",
+     "text": "MEASURE, LOAD"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "BOOKS CAN BE AUDITED",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE PREDICTABLE OUTPUT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage across a ninety day battery is the compounding of every small edge this channel keeps handing you. Light body, so every hold and press costs less per rep and you banked more quality volume per week than a heavier man on the same calendar. Honest numbers, so your training was aimed at real weaknesses instead of flattering fictions. And a test-first system, so your weeks were never random: every session existed to move a line on a record you could see. Multiply those edges across ninety days and the record stops looking like a beginner's luck and starts looking like what it is: the predictable output of a system that measures, loads, and re-measures. The big guys at the gym have ninety days too. Most of them spent it admiring the first ninety. You spent yours keeping books, and books, unlike mirrors, can be audited. Today was the audit. Whatever the lines say, they were earned in the only currency tendons accept: repetitions, honestly counted, across a whole season.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "check": 3,
+   "exercise": "WALL SIT",
+   "music": "drive",
+   "narration": "Now we train the silent line together, whichever yours was. Three rounds of wall sits: sixty seconds against the wall, forty five to shake the legs out. Back flat, knees at ninety, breathe. The record's weakest line gets today's work. Go.",
+   "rest": 45,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 60
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "SILENT LINE GOES FIRST",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LOUD LINES: MAINTENANCE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "A DATE, NOT A TROPHY",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "CHANGING EVERYTHING",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for the next ninety days writes itself from the record, in three rules. Rule one: the silent line goes first. Whatever stalled gets the first session of every week and the freshest energy you own, because attention follows order and order is a decision you control. Rule two: the loud lines go to maintenance, two honest sessions a week at their current loads, enough to keep the collagen signal alive without stealing recovery from the line that needs building. Rule three: the battery gets a date, ninety days from today, same morning rules, same order of tests, written in the log now, not remembered later. A record without a next date is a trophy. A record with a date is a training program. And bury the mistake that ruins more second seasons than any other: changing everything because the first record was not perfect. The system worked. The fingerprint showed you where. Adjust the aim, keep the machine, and let the next audit speak.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ALL FOUR LINES, BOTH DATES"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE FULL BATTERY RETURNS",
+     "pos": "br",
+     "text": "90 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR PROUDEST LINE",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TWO RECORDS = A TREND"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the ninety day record, and its verdict. If every line climbed, you have documented total adaptation: nerves, muscle and tendon all reporting in, and the next season is about load, not discovery. If most lines climbed and one stalled, you have the most useful result a retest can give, a map with the treasure marked: the silent line is your next ninety days, gift-wrapped. If the record barely moved, read it without flinching: ninety days of intention without consistent load produces exactly this page, and the fix is not a new system, it is the same system, actually attended. Write the full record down, all four lines, both dates, and put your total in the comments, or the line you are proudest of, just the number. We run the full battery again in ninety days, same morning, same order, same rules. Two records make a trend. Three make a biography. Yours is being written either way, so write it loaded.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FULL BATTERY IN 90 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "NO SILENT LINES",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Ninety days from now, same morning, same battery, same honest rules. Bring me a record with no silent lines. Subscribe so the next audit finds you loaded. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "90-day record",
+  "fitness battery",
+  "full retest",
+  "total adaptation",
+  "retest",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_hang_side_active.webp",
+  "big": "90 DAYS",
+  "hook": "THE RECORD"
+ },
+ "title": "Your New Number: The the 90-day record Retest Nobody Does",
+ "v5": true
+}

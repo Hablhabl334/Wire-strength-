@@ -1,0 +1,391 @@
+{
+ "badge": "EP 613 - MORNING VERDICT",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "THE RHYTHM, REWRITTEN",
+  "YOUR VERDICT"
+ ],
+ "description": "Ninety days ago the morning test exposed your dawn gap, and you spent a season training the hour itself. This is the verdict episode: same dawn rules, same bar, and the final reading on your daily nerve rhythm. Did the morning finally clock in for good?",
+ "hashtags": [
+  "morning strength",
+  "90 days later",
+  "nerve rhythm",
+  "the verdict",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "613",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINAL READING AT DAWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "ONE STORY",
+     "pos": "br",
+     "text": "3 NUMBERS"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE HONEST DAWN NUMBER"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "THE VERDICT IS TODAY",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Ninety days later. | The dawn test, final reading. | You know the rules | by heart now. | Within an hour of waking. | No coffee heroics. | No long warm-up. | Just the bar and dawn. | Season one, your gap | was a small canyon. | Morning you, evening you, | two different athletes. | You trained the hour. | Dawn session after dawn. | Today we read the verdict. | Grab the bar, hang, drop. | One honest dawn number. | Keep it beside the first. | And beside your evening best. | Three numbers, one story. | At the end | I tell you | what a closed gap proves | about your nerve rhythm. | And what happens next. | The dawn is waiting.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE RETEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIRST GAP: 15-25 SEC"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ONE ATHLETE, ALL DAY",
+     "pos": "br",
+     "text": "UNDER 5 SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE DAWN WAS THE FRONTIER",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "GAP: 5 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "DAWN, ALMOST EVENING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The verdict frame, the same one the first morning test built. Your dawn gap, evening best minus morning best, began this season at fifteen to twenty five seconds for almost everyone: proof that strength had office hours and dawn was outside them. Ninety days of training the hour was supposed to do one specific thing, not make the morning stronger than the evening, but make the morning yours. A gap of ten seconds or less says the overwriting worked. A gap under five says something rarer: your nervous system now treats dawn as a normal working hour, and the strength you own at six in the evening is substantially the strength you own at seven in the morning. Read today's gap next to the first one, because the distance between those two gaps is the season's real result. Your evening number probably improved too, quietly. But the evening was never the problem. The dawn was the frontier, and frontiers are where verdicts get read.",
+   "section": "OLD VS NEW",
+   "sub": "first gap 20 plus: two different athletes - under 5: one athlete, all day",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The rhythm bends toward the demand.",
+      "Preparation replaces negotiation."
+     ],
+     "pos": "tr",
+     "title": "ENTRAINMENT, PHOTOGRAPHED"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE BODY KEEPS APPOINTMENTS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "PUNCTUAL ASKING, ANSWERED",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "What does a closed dawn gap actually prove inside the body? Go back to the machinery from the first test. Morning weakness was never about muscle: it was a nervous system booting in stages, temperature low, signals slow, the spinal fluid and the hormones and the nerve speed all arriving at work on their own schedules. Training the hour did not rebuild any of that hardware. It did something more elegant: it taught the system to anticipate. A nervous system that is asked for full grip strength at the same early hour, week after week, begins preparing before the alarm finishes: circulation and temperature rise on schedule, the signal pathways for grip warm up in advance, and the negotiation that used to eat your first twenty seconds shrinks to a formality. Physiologists call this kind of shift entrainment, the rhythm bending toward the demand. Your two gaps are the before and after photograph of a rhythm being bent by nothing more exotic than repeated, punctual asking. The body keeps appointments it is given regularly. You gave it one at dawn, and it started keeping it.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE PEAK MIGRATES TO THE HOUR"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "DAY ONE",
+       22,
+       "red"
+      ],
+      [
+       "DAY NINETY",
+       5,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE DAWN GAP, BY SEASON"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REGULAR BEATS HEROIC"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE BEST EXCHANGE RATE",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The research said this would happen, and your log is now part of the evidence. Studies of circadian strength show the daily peak migrating toward the habitual training hour over a matter of weeks, with morning trainers gaining their largest improvements exactly where they started weakest: the first hours of the day. The mechanism is partly temperature, partly neural, partly hormonal timing, and entirely unglamorous, which is why it works for anyone willing to be bored at dawn for a season. There is a second finding your verdict should carry: the adaptation is specific to the hour and forgiving about everything else. You did not need dawn workouts every day, or dawn workouts that were hard. You needed dawn workouts that were regular, because a rhythm is a pattern detector, and patterns are made of repetitions at the same time, not of heroic single events. Ninety days, two or three dawns a week, and the canyon became a crack. That ratio, small regular inputs against a lifelong default, is the most encouraging exchange rate in this entire season.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "AVAILABILITY, NOT PERFORMANCE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "MORNINGS AND NIGHTS",
+     "pos": "br",
+     "text": "BOTH DIRECTIONS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE TEST MEASURED A DAY",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A RECEIPT, NOT A FLAW"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the deeper consequence, the one that outlives this test. A man whose strength has office hours organizes his life around them without noticing: he avoids the physical favor at dawn, distrusts himself on the early stairs with the heavy suitcase, and schedules his capability for later, always later. A man whose gap has closed stops negotiating. His strength is simply on, the way his balance is on, and the world gets met at whatever hour it arrives. There is a confidence in that which no peak-hour record produces, because records are performances and this is availability. Notice, too, what the season did to your sleep, because the dawn protocol smuggled in a fixed wake time and defended nights, and most people who run it report the rhythm improving in both directions: stronger mornings built on better nights, better nights protected by earlier mornings. The test measured a hang. The training rebuilt a day. Read your verdict with that in mind, and the few seconds of remaining gap stop looking like a flaw and start looking like a receipt.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DAWN WORK COSTS LESS FOR YOU"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE DOSE THAT WORKS",
+     "pos": "br",
+     "text": "MANY PUNCTUAL DAWNS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "THE MORNING BELONGS TO THE LIGHT",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COLLECTING THE DEED"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage at dawn was decisive all season, and the verdict is where it gets cashed. Training the early hour means producing quality work with a cold, half-booted system, and the cost of that work scales with the body being carried. A light man's dawn hang is a rehearsal. A heavy man's dawn hang is a maximal event that ends his morning training in three attempts. So the skinny trainee could afford the one dose the rhythm actually responds to: many regular, submaximal, punctual dawns. Ninety days of affordable dawns is a training stimulus the heavier athlete literally cannot buy at the same quality, which is why this particular gap, of all the numbers this season produced, may be the one where your build is not a consolation but a genuine competitive edge. The morning belongs to the light. It always did. It just took a season of alarms to collect the deed, and today the deed gets read aloud, in seconds, at dawn, where it counts.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DAWN HANGS",
+   "music": "drive",
+   "narration": "Now we keep the deed paid up together. Four rounds: thirty seconds hanging, thirty resting, submaximal and smooth, the way dawn training should feel. Regular, punctual, unheroic. That is the whole secret. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "TWO DAWNS A WEEK, FOREVER",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DAWN = YOUR HONEST BASELINE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "WEEKENDS COUNT TOO",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE GRADUATE'S MISTAKE",
+     "pos": "br",
+     "text": false
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol after the verdict is maintenance with intent, because rhythms drift back when the appointments stop. Rule one: keep two dawn sessions a week forever, short and submaximal, the standing appointment that tells the rhythm the hour is still claimed. Rule two: let the dawn number become your honest baseline. Test new maxes in the morning once a season, because a strength that only exists at your peak hour is a part-time asset, and you now own the full-time kind. Rule three: protect the fixed wake time on weekends too, within the hour, because a rhythm entrained for ninety days can be smeared by a month of chaotic sleep-ins, and the gap will quietly reopen without any pain to warn you. And bury the graduate's mistake: declaring the dawn conquered and never training it again. The verdict is not a diploma. It is a reading of a living rhythm, and living rhythms are maintained, not owned. Keep the appointments and the gap stays closed.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THREE NUMBERS, ONE DATE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "TO CONFIRM THE DEED",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR DAWN GAP",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "READY FOR THE DAWN"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, the morning verdict, read plainly. If your gap is under five seconds, the season's claim is proven in your own log: one athlete, all day, strength without office hours, and the dawn gap joins the list of things your build was supposed to prevent that turned out to be trainable. If your gap sits between five and ten, the rhythm has bent most of the way, and the maintenance protocol will finish the job across the next season without any new effort, just kept appointments. If the gap is still wide, the verdict is narrower but just as useful: your dawns were not regular enough, and no other variable needs blaming, because this adaptation only ever asked for punctuality. Write the three numbers down, first dawn, today's dawn, evening best, with the date, and put today's gap in the comments, just the seconds. We read the dawn again in thirty days to confirm the deed, and then once a season. The dawn will keep being dawn. You will keep being ready for it.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DAWN CHECK IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "STAYED CLOSED",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, alarm, bar, dawn, same honest reading. Bring me a gap that stayed closed. Subscribe so the verdict checks find you punctual. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "morning strength verdict",
+  "morning vs evening",
+  "nerve rhythm",
+  "90-day retest",
+  "circadian strength",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_grip_squeeze.webp",
+  "big": "GAP: 4 SEC",
+  "hook": "MORNING VERDICT"
+ },
+ "title": "90 Days Later: Your Morning Strength Test \u2014 The daily nerve rhythm Verdict",
+ "v5": true
+}

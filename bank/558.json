@@ -1,0 +1,410 @@
+{
+ "badge": "EP 558 - LANDING FIX",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE ABSORPTION",
+  "YOUR VERDICT"
+ ],
+ "description": "Landing is not the end of a jump. It is a trainable system of springs and brakes that decides where force goes: into your tendons, or into your joints. Score your landing silence, get your number, and train the absorption system directly.",
+ "hashtags": [
+  "landing mechanics",
+  "shock absorption",
+  "tendon training",
+  "land quietly",
+  "jump training"
+ ],
+ "id": "558",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STEP OFF, DON'T JUMP"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SCORE IT ONE TO FIVE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "YOUR LEVEL"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE LANDING IS THE EVENT"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR LEVEL SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a sturdy step or box about thirty centimeters high, flat ground in front of it. Step off, do not jump, land on both feet, and score the landing from one to five. One is a slap and a jolt through your frame. Three is audible but controlled. Five is near silence, a cat landing, the force vanishing into your legs instead of announcing itself to the room. Three attempts, best honest level, and that level is your number today. Most training treats the landing as the period at the end of the jump's sentence, the part you survive on your way to the next rep. That is backwards. The landing is where the force actually arrives, several times your bodyweight of it, and your body must route it somewhere in about a quarter of a second. This episode trains the routing system itself: your tendon shock absorption. Keep your level safe. At the end, I will tell you what it says about your brakes.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NOISE IS ESCAPING ENERGY"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "TENDONS ARE ABSORBING",
+     "pos": "br",
+     "text": "LEVEL 4+"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SILENCE IS ABSORBED FORCE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BRAKES REBUILD AT ANY MILEAGE"
+    }
+   ],
+   "big": "LEVEL 5",
+   "card": "bignum",
+   "check": 1,
+   "label": "NEAR SILENCE IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, and your ears already know it. Level five, near silence with deep smooth absorption, is the standard. Levels one and two mean the force of every landing is being routed past your springs and billed directly to your joints, cartilage and bone paying what tendon and muscle volunteered to cover. Level four is the trained neighborhood where an athletic life can be lived safely for decades. Understand what the sound is measuring. Noise is energy escaping as vibration and impact. A quiet landing is not a gentle event; the same force arrived, but it was stretched across time by yielding tissue, spread so thin it became inaudible. Silence is not the absence of force. It is force, fully absorbed, on schedule. Your level today graded your body's braking system, and braking systems, unlike engines, can be rebuilt at any mileage.",
+   "section": "THE NUMBER",
+   "sub": "level 1-2: joints are paying - level 4+: tendons are absorbing",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Every link hands force onward",
+      "slower than it arrived."
+     ],
+     "pos": "tr",
+     "title": "A RELAY, NOT A PART"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BUYING TIME IS THE JOB"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKIPPED LINKS CHARGE DOUBLE"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SPENT IN SOFT TISSUE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Walk the force through a good landing, link by link. The forefoot touches first and the arch of the foot tightens like a drawn bow, catching the opening share. The Achilles stretches as the heel descends toward the ground without slamming into it, storing energy and, more importantly, buying time. Then the great brakes engage: calf, quad and glute lengthening under load, eccentric contractions that spread the remaining force across the longest window the body can manufacture. Finally the ankle, knee and hip flex in sequence, each contributing its travel, until you arrive at stillness with the force fully spent inside soft tissue. That is tendon shock absorption: not one part, but a relay, where every link's job is to hand the force onward slower than it arrived. Break any link, stiffen it, skip it, and the force skips ahead too, arriving at the next link doubled and early.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PREPARATION, NOT REACTION"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "ABSORBED",
+       45,
+       "cyan"
+      ],
+      [
+       "STIFF + CAVING",
+       100,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "PEAK FORCE BY LANDING STYLE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "QUIET IS PREPARED"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Force plate laboratories have timed the relay, and the numbers explain why technique matters more than toughness. In a stiff, straight-legged landing, peak force can arrive within thirty milliseconds of contact, far too fast for any muscle to react. Absorption, therefore, is not a reaction at all. It is a preparation: muscles pre-activated before touchdown, joints pre-positioned to travel, a plan the nervous system files before you leave the step. In a trained landing, the same total force spreads over three to four times the duration and the peak drops by half or more. The knee's role is the most studied link: it must track over the toes as it flexes, guided by the hip, because a knee caving inward concentrates the relay's entire force onto one edge of the joint. Quiet landers are not softer people. They are better prepared ones, and preparation is a trainable skill with a short learning curve.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINISH IN A STATUE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF STILLNESS PER LANDING",
+     "pos": "br",
+     "text": "2 SECONDS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "OVER WHEN IT IS STILL"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FIFTH LINK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The relay has a final link nobody trains: the freeze. A landing is not finished when it is quiet; it is finished when it is still. Ending every landing in a two-second statue, no steps, no hops, no arm windmills, exposes the absorptions that only sounded complete, the ones that were quietly planning to stumble. The stumble step is where ankles collect their injuries, sideways and unprepared, catching a body the relay thought it had parked. Balance work raises the freeze budget directly, and two minutes of single-leg standing a day is a legitimate braking upgrade disguised as doing nothing. Your silence level includes the freeze whether you scored it or not. Build the fifth link and the level becomes honest all the way down.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEAPER REPS, MORE OF THEM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF QUIET LANDINGS A WEEK",
+     "pos": "br",
+     "text": "HUNDREDS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKILL, NOT TISSUE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DIVIDENDS IN DECADES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in absorption training is that your practice reps are cheap. Every landing costs your joints a force scaled to your mass, and your mass is small, so you can rehearse hundreds of correct, quiet landings a week while a heavier athlete must ration the same lessons like a budget. And because absorption is a skill of preparation, not a tissue that must be grown, your lighter frame converts practice into levels faster: less force to reroute means the corrected relay succeeds sooner, and success is the only teacher the nervous system fully trusts. There is a lifetime dividend too. The athlete who lands quietly from youth keeps the cartilage the loud lander spends, decade after decade. This may be the least glamorous episode in the season. Measured in knees at sixty, it might be the most valuable.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "QUIET LANDINGS",
+   "music": "drive",
+   "narration": "Now we land the right way together. Three rounds: step off low, land quietly, freeze two seconds like a statue. Chase the hush and the freeze, never the height.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEEL DESCENDS, NEVER SLAMS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BEND EVERYTHING IN SEQUENCE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KNEES TRACK OVER TOES"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FREEZE FOR TWO SECONDS"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEIGHT LAST, VOLUME FIRST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol that trains absorption directly. Step one: land on the forefoot and let the heel descend like it is landing an aircraft, never slamming, never staying airborne; the foot and Achilles are the relay's opening links and they set the budget for everyone else. Step two: bend everything in sequence, ankle, knee, hip, sinking as deep as the landing demands; a shallow, stiff reception is a skipped link, and skipped links charge the next one double. Step three: track the knees over the toes, pushed gently outward by the hips, on every landing at every height, no exceptions for tired reps. Step four: freeze for two seconds at the bottom of every training landing, because stillness is the receipt that proves the force was spent. Step five: progress height last and volume first, hundreds of low quiet landings before a single high one, and stop any session where the landings turn loud. Six weeks of this and the level climbs, and your joints stop receiving bills that were never addressed to them.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIND YOUR LOUDEST LINK"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR LEVEL"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A QUIETER PAGE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your level. One or two: your joints are paying for force your tendons volunteered to absorb, and the protocol is your payment plan, starting at low heights with total focus. Level three: the relay works with interruptions; find your loudest link, it is usually the stiff ankle or the caving knee, and the level climbs within weeks. Level four: trained absorption, the neighborhood your knees want to retire in. Level five: certified silence with a statue's finish, a braking system that will serve you for decades. Put your level in the comments, just the number, best of three honest attempts. Retest in thirty days, same step, same ground, same freeze rule. The relay keeps its books in levels, and next month we listen for a quieter page.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A HIGHER LEVEL"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same step, same ground, land quiet and freeze. Bring me a higher level and we will raise the height together. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "landing mechanics",
+  "shock absorption",
+  "tendon health",
+  "jump landing",
+  "landing technique",
+  "eccentric training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "LEVEL 5",
+  "hook": "LAND LIKE A CAT"
+ },
+ "title": "Stop Doing landing mechanics Wrong: Train Your tendon shock absorption Instead",
+ "v5": true
+}

@@ -1,0 +1,392 @@
+{
+ "badge": "EP 730 - HUNGER HORMONE MISTAKES",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE 5 MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Your hunger hormones are trainable, but five common mistakes keep scrambling the signal: chaotic meal times, liquid fasting windows, tiny breakfasts, weekend collapse, and fighting hunger instead of scheduling it. Test your hunger-return time, then fix the mistakes in order.",
+ "hashtags": [
+  "hunger hormones",
+  "appetite training",
+  "ghrelin",
+  "hardgainer mistakes",
+  "eat more"
+ ],
+ "id": "730",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NORMAL BREAKFAST, NOTED"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO SNACKS, JUST WATCH"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KEEP YOUR GAP"
+    },
+    {
+     "at": 23,
+     "kind": "fact",
+     "lines": [
+      "Hunger rises when your body expects food."
+     ],
+     "pos": "br",
+     "title": "GHRELIN KEEPS A SCHEDULE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test reads your hunger hormones directly. Eat your normal breakfast, whatever it usually is, and note the time you finish. Then live your normal morning, no snacks, no grazing, and watch for the moment real hunger returns: not boredom, not a craving, but the clear stomach-growling, food-sounds-great signal. Note that time too. The gap between finishing breakfast and hunger's return is your number. It tells us how your hunger hormone, ghrelin, is currently scheduled, and whether your eating pattern has trained it or scrambled it. Keep the gap in mind. At the end, I will show you the bands, and the five mistakes that push skinny guys into the worst one.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PREDICTABLE IS THE PRIZE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE TRAINED BAND",
+     "pos": "br",
+     "text": "2.5-4 HRS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HUNGER LIKE A TRAIN"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "OR HUNGER LIKE WEATHER"
+    }
+   ],
+   "big": "2 HRS",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHERE A SCRAMBLED HUNGER SIGNAL USUALLY LANDS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for the hunger-return test. Around two hours is where a scrambled signal usually lands: hunger drifting back vaguely, weakly, at random times, never strong enough to demand a real meal. Under ninety minutes means breakfast was barely a rumor, too small to register. The healthy band for a gaining skinny guy is two and a half to four hours: hunger returning clearly, strongly, and predictably, like a train you can plan meals around. Predictability is the real prize. Ghrelin, your main hunger hormone, is famous for one habit: it learns your schedule and rises before your usual meals. Train the schedule and the hormone works for you. Scramble it, and hunger becomes weather.",
+   "section": "THE NUMBER",
+   "sub": "under 90 min: breakfast was a rumor - 2.5 to 4 hrs: a trained, reliable rhythm",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "fact",
+     "lines": [
+      "Same times for two weeks.",
+      "Hunger starts arriving early, on purpose."
+     ],
+     "pos": "tr",
+     "title": "GHRELIN ENTRAINS"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 16,
+     "kind": "swap"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CONSISTENCY IS THE SIGNAL"
+    },
+    {
+     "at": 33,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ACCIDENTAL TRAINING IS STILL TRAINING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the system the five mistakes are destroying. Ghrelin is released from the stomach, rises before meals, and falls after eating. Crucially, it entrains: feed at the same times for a couple of weeks and ghrelin begins rising shortly before those times, preparing hunger, stomach acid, and your whole digestive line in advance. This is why some people get hungry at noon with clockwork precision. Their hormone keeps their schedule. Now meet the mistakes. Chaotic meal times teach ghrelin nothing. Long accidental fasts followed by huge meals teach it to shout and then go silent. Tiny breakfasts tell it the morning is a famine. Every mistake is the same mistake underneath: an inconsistent signal, trained daily, by accident. One more actor deserves a mention: sleep. Ghrelin's schedule is entangled with your sleep schedule, and short or chaotic sleep reliably distorts hunger signaling the next day, making meals feel both urgent and unsatisfying in the wrong places. The man fixing his meal times usually has to fix his lights-out time in the same month. The hormones keep one calendar, not two.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SCRAMBLED VS SCHEDULED"
+    },
+    {
+     "at": 14,
+     "items": [
+      [
+       "CHAOTIC DAY",
+       1800
+      ],
+      [
+       "SCHEDULED DAY",
+       2600
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 22,
+     "kind": "swap"
+    },
+    {
+     "at": 29,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HUNGER BY APPOINTMENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Compare two mornings. The scrambled eater skips breakfast twice a week, eats lunch anywhere between eleven and three, and wonders why he is never properly hungry, only occasionally ravenous at midnight. The scheduled eater eats at seven, twelve, and seven, roughly, every day. By week three his hunger arrives before each meal like an appointment, his meals are bigger because his stomach expected them, and his total intake climbs without willpower battles. Research on meal timing and ghrelin shows this entrainment clearly: the hormone anticipates habitual meals. You are always training your hunger hormones. The only question is whether the training plan is yours. Notice the deeper principle under the comparison. Neither man changed what he ate. Only when. The foods, the totals available, the kitchen, all identical. Timing alone moved intake by hundreds of calories, because timing is what the hormone actually reads. For a system built on signals, the schedule is a nutrient.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WEEKEND COLLAPSE"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HUNGER IS A DELIVERY WINDOW"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ANSWER THE DOOR"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Skip the signal often enough and it stops signaling."
+     ],
+     "pos": "br",
+     "title": "IGNORED WAVES GO QUIET"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Mistake four and five deserve their own light. Four: the weekend collapse, five clean weekdays undone by sleeping through Saturday's breakfast and grazing at midnight, which re-scrambles the rhythm every single week. Five: fighting hunger when it finally appears, telling yourself you will eat later, later, later, until the wave passes and the meal becomes small. For a skinny guy, a hunger wave is a delivery window. When ghrelin knocks, the stomach is primed, the enzymes are ready, and the biggest comfortable meal of the day is possible. Answer the door. Every ignored wave teaches the hormone to knock more quietly next time.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FASTEST ADAPTATION"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "TO A TRAINED RHYTHM",
+     "pos": "br",
+     "text": "2-3 WEEKS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HUNGER ON STAFF"
+    },
+    {
+     "at": 28,
+     "kind": "chip",
+     "pos": "br",
+     "text": "UNTRAINED, NOT BROKEN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The advantage hiding in this system: hunger hormones are the fastest-adapting part of gaining. Muscle takes months. Appetite rhythm takes two to three weeks of consistent timing. And once the rhythm is trained, it works for you every day without effort, delivering hunger before meals like a staff you do not have to pay. The big guy fighting to eat less envies a weapon you can build in a fortnight. Your hormones are not your enemies. They are untrained employees waiting for a schedule. And notice the mercy in the timeline. A scrambled rhythm took years of accidental training to build, yet the retraining takes weeks, because the hormone is not stubborn, only obedient. It followed the old schedule faithfully. It will follow the new one with the same loyalty. You are not fighting your chemistry. You are finally giving it consistent orders.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "check": 3,
+   "exercise": "PRIMER SQUATS",
+   "music": "drive",
+   "narration": "Train with me, appetite-primer style. Four rounds of easy squats, forty seconds on, twenty off, finishing fifteen minutes before a meal. Movement before food is the oldest hunger signal there is. Then sit down and eat on schedule.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THREE DEFENDED TIMES"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NEVER AN EMPTY MORNING"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "WEEKEND CHAOS"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "NEGOTIATING WITH HUNGER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The fix list, in the order the mistakes hurt you. One: set three meal times and defend them within a thirty-minute window, weekends included. Two: never let a morning start empty; even a small breakfast anchors the whole day's rhythm. Three: when hunger knocks between meals, feed it a real snack instead of negotiating. Four: keep the weekend schedule within an hour of the weekday one. Five: eat the biggest meal when hunger is strongest, not when the clock says you should be hungry. Avoid the reverse of each and your ghrelin becomes an ally inside three weeks. Nothing here costs money. It costs a clock and a promise.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "READ YOUR GAP"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "OF DEFENDED TIMES",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR GAP"
+    },
+    {
+     "at": 32,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RECOGNITION IS REP ONE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Read your gap. Under ninety minutes: your breakfast is too small to start the day's rhythm; fix mistake two first. Around two hours, vague and weak: your signal is scrambled by timing, and the schedule fix is your whole answer. Two and a half to four hours, strong and predictable: your hormones are already trained, so your gaining problem lives in meal size or total calories, not timing. Retest in thirty days after three weeks of defended meal times. Comment your gap and which mistake you recognized first. Recognition is the first rep. If your gap today was strong and predictable, do not skip the rest of the audit. A trained rhythm with small meals is a train arriving on time with no passengers. The rhythm's job is to deliver you, hungry, to plates that are worth arriving for. And when you retest, keep the breakfast identical to today's, same foods, same size, same wake time. The gap only means something when the morning it measures is the same morning.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HUNGER LIKE A TRAIN"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same breakfast, same watch. Bring me a hunger that arrives like a train. Subscribe, and keep today's gap safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "hunger hormones",
+  "ghrelin",
+  "appetite training",
+  "increase hunger",
+  "skinny guy eating",
+  "meal timing",
+  "hardgainer mistakes"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_horse_stance.webp",
+  "big": "2 HRS",
+  "hook": "HUNGER, ON SCHEDULE"
+ },
+ "title": "5 appetite training Mistakes That Are Destroying Your hunger hormones",
+ "v5": true
+}

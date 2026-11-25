@@ -1,0 +1,380 @@
+{
+ "badge": "EP 671 - PROTEIN: THE TRUTH",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TRUTH",
+  "YOUR VERDICT"
+ ],
+ "description": "The second protein audit counts shifts, not just grams: how many times yesterday did a meal actually switch your muscle building on? The truth about synthesis, the muscle-full effect, and why more protein stops meaning more muscle.",
+ "hashtags": [
+  "protein synthesis",
+  "protein truth",
+  "protein test",
+  "calisthenics",
+  "nutrition science"
+ ],
+ "id": "671",
+ "scenes": [
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COUNT SHIFTS, NOT GRAMS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "25-40 G PER REAL MEAL"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "SHIFTS IN A DAY",
+     "pos": "tr",
+     "text": "0-4"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP COUNT AND TOTAL"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The second protein audit counts shifts, not grams. Take yesterday's meals, the same honest list as before, and this time grade each meal with one question: did it carry enough quality protein to switch building fully on? For a man your size that means roughly twenty-five to forty grams: a palm and a half of meat or fish, three or four eggs with something beside them, a large Greek yogurt, a proper scoop of a complete source. Count the meals that crossed the line. That count, zero to four for most men, is your number today, and it is the distribution truth underneath the total you already know. A day can hold a hundred and twenty grams and only one real shift, if the grams arrived in a single landslide. It can also hold a hundred grams across four shifts and build more. Keep your count and your total together. This episode is about the machinery that makes the count matter, and about the ceiling nobody selling powder wants printed.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SHIFTS AND TOTAL, TOGETHER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE WORKING STANDARD",
+     "pos": "br",
+     "text": "3 SHIFTS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SCHEDULING VS SHOPPING"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MOST FIXABLE DOCUMENT"
+    }
+   ],
+   "big": "3 SHIFTS",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE NUMBER OF TIMES A GOOD DAY SWITCHES BUILDING ON",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for the shift count. Three full shifts in a day is the working standard the distribution research keeps pointing at: breakfast, lunch and dinner each crossing the threshold, each separated by enough hours for the machinery to reset. Four is excellent and mostly a matter of a planned snack or shake earning its keep. Two is the crowded modern pattern, lunch and dinner clocking in while breakfast sends its apologies. One or zero is the landslide day, where a heroic evening meal tries to do a whole day's construction in a single shift and, as the science scene will show, mostly cannot. Read your count beside your total from the last audit and the two-by-two becomes your diagnosis: high total, low shifts is a scheduling problem. Low total, high shifts is a shopping problem. Low and low is the classic skinny-guy audit, and it is the most fixable document in this entire series.",
+   "section": "THE NUMBER",
+   "sub": "0-1: one landslide day - 3-4: the factory runs a full roster",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Synthesis runs 2-3 hours per meal.",
+      "Then the muscle is full, and rests."
+     ],
+     "pos": "tr",
+     "title": "A RHYTHM, NOT A TAP"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EXTRA ARRIVALS GET BURNED"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A FACTORY WITH SHIFTS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The machinery under the count is a rhythm, not a tap left running. When a threshold meal lands, amino acids rise in the blood, leucine knocks on the construction office, and muscle protein synthesis climbs for roughly two to three hours. Then, even if amino acids remain available, the synthesis rate falls back toward baseline. Researchers call this the muscle-full effect, and it is the single most inconvenient fact in sports nutrition: the muscle, once fed, politely stops building for a while, and extra protein arriving in that window is mostly oxidized, burned as expensive fuel. The refractory gap is why the day's architecture matters. Three separated shifts exploit three separate windows. One landslide exploits one window and donates the surplus to the fire. Your muscles are not a bucket to be filled once. They are a factory with shifts, breaks, and a foreman who clocks out on schedule whether the trucks keep arriving or not.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO 30-GRAM ABSORPTION CEILING"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "TO BUILDING (AT LINE)",
+       85,
+       "cyan"
+      ],
+      [
+       "TO THE FIRE (PAST IT)",
+       70,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE EXTRA PROTEIN GOES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE WINDOW IS WIDE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SHIFTS MULTIPLY A TOTAL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the truths, plural, because this topic collects myths like a dock collects barnacles. Truth one: there is no thirty-gram absorption ceiling per meal. Your gut absorbs nearly all the protein you eat; the limit is not absorption, it is the synthesis rhythm you just met, a far more interesting ceiling. Truth two: the post-workout window is real but wide. Training sensitizes muscle to protein for a day or more, so the meal after training matters, and the panic does not; a normal meal within a few hours does the job the shakes advertise. Truth three: more total protein past the evidence line mostly buys satiety and expensive calories, which is why the honest curve flattens near one point six grams per kilo. And truth four, the quiet one: none of this architecture rescues a day whose total is low. Shifts multiply a sufficient total. They do not substitute for one. Both audits were necessary. That is why the channel ran them back to back.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pinch_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WALLS BEFORE TRIM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE LONGEST WINDOW",
+     "pos": "br",
+     "text": "NIGHT SHIFT"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PLANTS CAN CROSS IT TOO"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "One refinement for the man who wants the last few percent honestly: protein quality and the leucine threshold interact with age and meal size in ways the headlines flatten. Younger muscle flips its switch at lower leucine doses, which is a quiet advantage of starting this project early. Plant-based meals can cross the same threshold; they simply need larger portions or combinations, because their leucine density runs lower, a solvable arithmetic problem rather than a verdict. And the pre-sleep meal has genuine research behind it: a slow protein before bed gives the night shift, the longest construction window of the day, materials to work with, and studies find overnight synthesis rises accordingly. None of these refinements outrank the two audits. They are the trim on a house whose walls are total and shifts, and this channel builds walls before trim, every time, in every system it has ever examined.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ORDINARY MEALS CROSS IT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A ROSTER, NOT A PROJECT",
+     "pos": "br",
+     "text": "BY FRIDAY"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NO EATING PERFORMANCES"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COMFORTABLE TO TRAIN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the shift economy is portion size, and it is larger than it sounds. A threshold meal for a sixty-kilo man is a normal human meal: eggs and toast with yogurt, a chicken sandwich done properly, a bowl of lentils with intent. The heavy man's threshold is a plate that draws comments. You can run three or four shifts inside an ordinary appetite, on an ordinary budget, without a single eating performance, which means your distribution can be fixed in the time it takes to plan breakfast. There is a compounding courtesy here too: smaller, sufficient meals leave you comfortable to train, while the landslide pattern trains a man to associate evenings with a food coma and mornings with nothing. Your day can be architected like a factory roster by Friday. Most men in this audit need a month of appetite training to say that.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_towel_curl.webp",
+   "check": 3,
+   "exercise": "TOWEL CURLS",
+   "music": "drive",
+   "narration": "Now we place an order worth delivering to. Three rounds of towel curls, slow and full range, the forearm cables working. The next shift you eat is already scheduled by this effort.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ANCHOR THE MISSING SHIFT"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SPACE SHIFTS 3-5 HOURS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FEED THE NIGHT SHIFT"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "GRAZING ALL DAY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The shift protocol, four moves. One: anchor the missing shift, which is breakfast for nine men in ten reading this; eggs, yogurt, milk, leftovers, the cuisine is irrelevant, the threshold is the law. Two: space the shifts three to five hours apart, letting the refractory rhythm reset, instead of grazing protein in a drip that never quite flips the switch. Three: consider the night shift: a slow protein before bed, yogurt or cottage cheese or a shake, feeding the longest window of the day. Four: audit monthly, one ordinary day, count and total both, because this economy drifts with seasons and schedules. That is the entire system. No app subscription, no powder allegiance, just a factory roster kept honestly, reviewed monthly, by a man who now knows what a shift is.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE EFFORT IS BREAKFAST"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN COUNT THE ROSTER AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SHIFT COUNT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your synthesis verdict. Three or four shifts with a total at the line: your factory runs a full roster, and protein has officially retired as your limiting factor; argue about training now, not food. Two shifts, or a total slightly under: one architectural fix stands between you and the same retirement, and it is measured in days. Zero or one shift, whatever the total: the landslide pattern, the most common and most fixable result in this audit's history. And if both numbers were low, take the encouragement the data offers: no episode in this series hands a man more strength per unit of effort than this one, because the effort is breakfast. Put your shift count in the comments, just the number. In thirty days, audit another ordinary day and count the roster again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FULL ROSTER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same audit, ordinary day, honest list. Bring me a full roster and a total at the line. Subscribe, and keep both numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "muscle protein synthesis",
+  "protein truth",
+  "protein per meal",
+  "muscle full effect",
+  "leucine",
+  "protein distribution",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_towel_curl.webp",
+  "big": "3 SHIFTS",
+  "hook": "THE SYNTHESIS TRUTH"
+ },
+ "title": "Your Protein Test Reveals the Truth About Your muscle protein synthesis",
+ "v5": true
+}

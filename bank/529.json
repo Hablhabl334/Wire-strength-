@@ -1,0 +1,402 @@
+{
+ "badge": "EP 529 - ELBOW LEVER TIME",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "Your whole body, balanced on your hands, held up by two elbows and a wrist angle most men never train. Your elbow lever time reveals the hidden strength that floor skills are actually built on. Take the test, read your number, and build the shelf with us.",
+ "hashtags": [
+  "elbow lever",
+  "hidden strength",
+  "calisthenics",
+  "floor skills",
+  "wrist strength"
+ ],
+ "id": "529",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ELBOWS INTO THE STOMACH"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "UNTIL YOU FLOAT",
+     "pos": "br",
+     "text": "LEAN IN"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BODY ONE LINE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BALANCE IS TRAINABLE"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Kneel on the floor. | Hands flat, fingers wide. | Face the camera today. | Bend both elbows. | Plant them into | your stomach, firmly. | One on each side | of your navel. | Lean forward slowly. | Shift weight to hands. | Your knees lift first. | Then your toes float. | Start your clock. | Hold the full float. | Body one straight line. | Head up, eyes forward. | The clock stops when | your feet touch down | or your chest drops. | That float time | is your number. | Keep it somewhere safe. | At the end I | tell you what it means. | Come down gently. | Shake out your wrists. | One honest attempt. | Balance is a skill. | Skills can be trained.",
+   "poses": [
+    "ren_pushup_front_top.webp",
+    "ren_pushup_front.webp",
+    "ren_pushup_front_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "10 SEC = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "FLOOR SKILLS OPEN UP",
+     "pos": "br",
+     "text": "20+ SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PLACEMENT BEFORE STRENGTH"
+    }
+   ],
+   "big": "10 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF FLOAT IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten seconds of full float, feet off the floor, body in one line, elbows planted and wrists holding the angle, is a trained elbow lever. Under three seconds, you do not have a strength problem; you have a placement problem, and placement is the fastest thing in this sport to fix. Over twenty seconds, your floor balance is ahead of most men who train, and the frog stand, the crane, and eventually the press are all realistic next chapters. Sit with what this number reveals. Nobody's arms look impressive holding an elbow lever, because the arms are not the story. The story is a wrist holding a loaded bend, a shelf of elbow parked in the abdomen, and a nervous system making a hundred corrections a minute. Hidden strength is exactly this: capacity that never appears in a photo and decides every skill you attempt.",
+   "section": "THE NUMBER",
+   "sub": "under 3: the shelf is not placed - over 20: floor skills open up",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Shelf parks the weight.",
+      "Wrist decides if it stays."
+     ],
+     "pos": "tr",
+     "title": "THE WRIST DECIDES"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LOADED AT LONG LENGTH"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SECONDS, NOT REPS"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE TIP OF THE TISSUE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Let us name the hidden strength precisely. In the float, your body's entire weight travels through two bent wrists. The wrist sits near the end of its range, loaded, and the forearm's tendons and small stabilizer muscles must keep that angle from collapsing while the body sways above it. This is not the strength of a curl or a press. It is isometric tendon strength at a long, awkward length, the exact quality that gymnastics quietly builds for years before the big skills appear. The elbows help by forming a shelf, yes, but the shelf only parks the weight. The wrist decides whether the parked weight stays parked. And here is the part worth remembering: this tissue does not grow from effort alone. It grows from repeated, controlled exposure to the loaded angle, a few honest seconds at a time, with full recovery between exposures. Your float time is simply the visible tip of that invisible tissue.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINGERS STEER THE FLOAT"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "WEEK 1",
+       3,
+       "cyan"
+      ],
+      [
+       "WEEK 4",
+       10,
+       "gold"
+      ],
+      [
+       "WEEK 12",
+       20,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "TYPICAL FLOAT GROWTH"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SOFTWARE FIRST, TISSUE SECOND"
+    },
+    {
+     "asset": "ren_pushup_front.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Balance science explains why this skill improves so fast at first. Your body senses the float through pressure in the palms, stretch in the wrists, and the inner ear, and it corrects sway by shifting pressure between your fingers like a driver making micro-turns of a wheel. Beginners overcorrect, gripping the floor and rocking. Within a couple of weeks the corrections get smaller and earlier, and float time jumps, not because the tissue transformed overnight, but because the software learned the road. After that honeymoon, progress slows to tissue speed, and seconds arrive monthly instead of daily. Both phases are real training. The early jump teaches you the skill is learnable. The slow phase is where the wrist and forearm actually rebuild. Knowing which phase you are in keeps you patient in the second one, and patience is the whole price of connective tissue. One more detail separates fast learners from slow ones in this skill: hand temperature and skin grip. Cold, slippery palms steal the corrections your fingers are trying to make, so warm your hands, dry them, and if your gym allows it, use a whisper of chalk. The float is a conversation between skin and floor, and like every conversation on this channel, it goes better when both sides can actually hear each other.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REHEARSE THE ANGLE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "HOLD 2 SEC EACH",
+     "pos": "br",
+     "text": "10 ROCKS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LOOKS LIKE NOTHING. ISN'T"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The drill that feeds this test between sessions is the tabletop press, and it deserves its own minute. On all fours, hands under shoulders, rock forward until your shoulders pass your wrists, hold two seconds, rock back. Ten rocks. You are rehearsing the lever's wrist angle at a fraction of the price, teaching the tissue its working position while your knees still carry most of you. Do it before every floor session and on rest days when the wrists feel stiff. It looks like nothing. It is the reason some men's wrists are ready for twenty seconds in a month while others are still negotiating with three.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALLER BILL, SAME TISSUE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "VS HIS THREE HEROIC ONES",
+     "pos": "br",
+     "text": "10 ATTEMPTS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LIGHT IS THE HEAD START"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMALL SWAY, FAST LEARNING"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage, again, is arithmetic. The wrist in an elbow lever holds a percentage of your bodyweight at a fixed awkward angle. Less bodyweight means a smaller bill for the same tissue, which means more quality attempts per session and faster recovery between them. The heavy beginner spends his wrist budget on three heroic attempts. You can afford ten honest ones, and honest attempts are the currency this skill accepts. There is a second, quieter advantage: lighter bodies sway less violently, so your balance corrections stay small and learnable instead of becoming saves. This is the recurring truth of the whole season, so I will keep saying it until it replaces the mirror's version: in leverage sports, light is not the handicap. Light is the head start, and this test is one of the places it shows up first.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "check": 3,
+   "exercise": "ELBOW LEVER FLOATS",
+   "music": "drive",
+   "narration": "Now we float together. Four rounds: place the shelf, lean in, hold ten clean seconds, then rest and shake the wrists out. If the float breaks early, reset and finish the clock.",
+   "rest": 50,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "3 SESSIONS, SPACED OUT"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "NARROW HANDS, NARROW BASE"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EYES FIX THE FLOAT"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TRAIN IT FRESH, FIRST"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE ORDINARY TUESDAY"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Three floor sessions, spaced out, each starting with tabletop rocks and ending before the wrists feel beaten. Five float attempts per session, and every attempt ends the second the form does: feet down, chest dropping, or elbows sliding off the shelf. Mistake one: hands too close together. Narrow hands make a narrow base, and narrow bases charge interest on every sway; spread the fingers and widen the base. Mistake two: looking at your feet. The float balances where the eyes point, so fix your gaze on the floor ahead and let the body organize behind it. Mistake three: training the lever on tired wrists after pressing work. This skill is a precision instrument; schedule it first, while the tissue and the software are both fresh. Progress will not be a straight line. It will be a shelf that places itself, a float that steadies, and then, one ordinary Tuesday, twenty seconds.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNSHELVED, NOT UNSTRONG"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MEASURED IS BUILDABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under three seconds: unshelved, not unstrong, and the fix is placement you can learn this week. Three to ten: the float is real and the software is learning; feed it three fresh sessions a week. Over ten: certified, your wrist leverage is trained tissue now, not a trick. Over twenty: the floor is becoming your territory, and the crane and frog families are yours to explore. Whatever you floated, put the number in the comments, just the seconds, and retest in thirty days with the same hand placement and the same shelf. Hidden strength stops being hidden the moment you measure it. You measured it. Now we build it.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_front_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A LONGER FLOAT"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days, same floor, same shelf, same clock. Bring me a longer float and we will talk about the crane. Subscribe, and keep your number somewhere safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "elbow lever",
+  "elbow lever test",
+  "wrist strength",
+  "calisthenics skills",
+  "floor skills",
+  "balance strength",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_pushup_front_top.webp",
+  "big": "10 SEC",
+  "hook": "ELBOW LEVER"
+ },
+ "title": "Your Elbow Lever Time Reveals Your Hidden Strength",
+ "v5": true
+}

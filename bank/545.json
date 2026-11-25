@@ -1,0 +1,401 @@
+{
+ "badge": "EP 545 - THE SINGLE-LEG TEST",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TENDONS",
+  "YOUR VERDICT"
+ ],
+ "description": "Sit on a chair, stand up on one leg, and count your reps. That simple count grades your knee tendons under real single-leg load, and exposes the left-right gaps two-legged training hides. Take the single-leg test and learn what your knees have been carrying.",
+ "hashtags": [
+  "single leg",
+  "knee tendons",
+  "calisthenics",
+  "strength test",
+  "leg day"
+ ],
+ "id": "545",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ARMS CROSSED, ONE FOOT UP"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "ONE LEG DOES EVERYTHING",
+     "pos": "br",
+     "text": "STAND AND SIT"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO HANDS, NO TOUCHING"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE GAP MATTERS MOST"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLOW AND STRICT"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Find a sturdy chair. | Standard height, no wheels. | Sit tall, feet flat. | Lift one foot up. | Hover it, toes up. | Arms crossed on chest. | Now stand up tall. | One leg does everything. | Sit back down slowly. | That is one rep. | Count your clean reps. | No pushing with hands. | No free foot touching. | No falling into chair. | Test your other leg. | Same rules, same chair. | The weaker leg | is your true number. | Keep both numbers safe. | At the end I | tell you what they mean. | The gap between legs | matters most of all. | One honest set | per leg today. | Slow and strict | beats fast and many.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "10 CLEAN = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "IS HALF THE STORY",
+     "pos": "br",
+     "text": "THE GAP"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHARING HIDES EVERYTHING"
+    }
+   ],
+   "big": "10 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "PER LEG IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten clean single-leg sit-to-stands per leg, arms crossed, no hands, no free foot, is trained knee tendon strength. Under five reps, your knee tendons are undertrained for the loads daily life quietly assumes they can handle, and that gap is both common and fixable. Over fifteen, you own single-leg strength that most two-legged gym programs never build. But the reps are only half the story. The other half is the gap: if one leg scores ten and the other scores six, your true number is six, and the four-rep difference is a map of where your knees' risk and your training's next month both live. Two legs share every squat you have ever done, and sharing hides everything. This test unshares it, one leg at a time, and reads the knee tendons' honest report.",
+   "section": "THE NUMBER",
+   "sub": "under 5: knee tendons are undertrained - over 15: serious single-leg strength",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Everything crosses the patellar tendon.",
+      "Stiffness decides what becomes motion."
+     ],
+     "pos": "tr",
+     "title": "ONE CABLE CARRIES ALL"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SEVERAL TIMES BODYWEIGHT"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRACKING IS THE SECOND JOB"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOUR COUNT IS THE OUTPUT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the knee doing this job alone. Standing up on one leg routes your entire bodyweight through a single joint, and the force crosses it through one cable: the patellar tendon, the thick band that connects your kneecap to your shin and transmits the quad's pull. At the bottom of the sit-to-stand, with the knee deeply bent, that tendon transmits several times your bodyweight, while the quad lengthens and shortens around it like a winch. The tendon is not a passive rope in this story. It stores elastic energy, it thickens under progressive load, and its stiffness decides how much of the quad's force becomes motion and how much is lost as stretch. Meanwhile the knee must track straight over the toes, steered by the hip, or the load concentrates on one edge of the joint. One leg, one tendon, one tracking job. That is the entire mechanism, and your rep count is its output.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ankle_ligament_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A CLINIC INSTRUMENT"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "TENDON CAPACITY",
+       40,
+       "cyan"
+      ],
+      [
+       "STRENGTH",
+       30,
+       "gold"
+      ],
+      [
+       "BALANCE + RANGE",
+       30,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT THE TEST READS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE COVER STORY ENDS"
+    },
+    {
+     "asset": "ren_balance_test.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The science of the sit-to-stand is older than the fitness industry. Clinicians have used timed and counted sit-to-stands for decades to grade leg function in everyone from athletes to grandparents, because the movement compresses a whole laboratory into one chair: strength, tendon capacity, balance and joint range, all in a single honest rep. The research finding that matters most for you is about asymmetry. Side-to-side strength gaps are among the strongest predictors of future knee trouble in active people, and they are invisible in every two-legged exercise, because the strong side silently covers for the weak one rep after rep, year after year. Single-leg testing is how the cover story ends. The second finding is hopeful: tendon capacity responds to slow, heavy, single-leg loading at any age, thickening and stiffening measurably within a season. Your chair is not a toy test. It is the same instrument the clinics use, pointed at your future.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WOBBLE, BURN, OR BLOCKED"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "3 DIFFERENT FIXES",
+     "pos": "br",
+     "text": "3 FAILURES"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DIAGNOSE BEFORE TRAINING"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Balance is the third leg of this test, literally. A single-leg stand-up is a balance act performed under maximum load, and many failed reps are balance failures misfiled as weakness: the foot wobbles, the knee dives inward chasing stability, and the rep collapses before the tendon was ever truly tested. The thirty-second single-leg balance standard from earlier episodes is the foundation here. If you cannot stand quietly on the leg, you cannot yet stand up on it under load, and two weeks of balance work will add reps to this test without a single strengthening session. Diagnose the failure before you train it. Wobble means balance. Burn means strength. A knee that will not bend means range. Three different failures, three different months of training, one honest test to tell them apart.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A DAILY HABIT, NOT AN EVENT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "LESS JOINT COMPLAINT",
+     "pos": "br",
+     "text": "MORE VOLUME"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A PROGRESS REPORT, NOT A COMPLAINT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TEST MONTHLY, TRUST IT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage at the chair is the season's arithmetic at its friendliest. The tendon transmits a multiple of your bodyweight, the multiple is fixed by the movement, and your bodyweight is the variable in your favor. Lighter legs mean each rep is a smaller absolute load, so you can accumulate the high-quality single-leg volume that thickens tendons, more days per week, with less joint complaint. The heavy athlete's single-leg work is a near-maximal event that rations his practice; yours can be a daily habit, and tendons are built by habits, not events. There is also an honesty advantage: at your weight, the chair test stays a tendon and strength exam for years before it becomes a joint-stress problem, so you can test monthly and trust the numbers. The mirror looks at your legs and files a complaint. The chair looks at your legs and files a progress report.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "check": 3,
+   "exercise": "SPLIT SQUAT HOLDS",
+   "music": "drive",
+   "narration": "Now we build it together. Three rounds of split squat holds and slow reps: front leg doing the work, thirty seconds on, thirty off, switching legs each round. Keep the knee tracking over the toes.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_toe_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEAK SIDE SETS THE VOLUME"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HANDS OFF, ALWAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LAND LIKE AN AIRCRAFT"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WORK, NEVER DAMAGE"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE GAP IS THE PROGRAM"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Three single-leg sessions, each starting with balance work, because the test's failures begin there. Main work: split squats and sit-to-stand practice, exactly like our block, always starting with the weaker leg and never letting the stronger leg do more reps than the weaker one earned. That rule feels unfair and is the entire point: the gap only closes if the weak side sets the volume. Mistake one: pushing off the chair with your hands when reps get hard. Hands turn a single-leg test into an arm exercise; cross them and accept the honest count. Mistake two: falling back into the chair on the way down. The lowering is half the tendon training; sit down like you are landing an aircraft, every rep. Mistake three: ignoring a painful knee and pushing through. Tendon training should feel like work, never like damage; if a knee complains sharply, see a professional if it persists, and train the pain-free range meanwhile. Honest reps, weak side first, landings like aircraft.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDERTRAINED IS FIXABLE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR WEAKER REPS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BOOKS KEPT PER LEG"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your numbers, both of them. Under five on the weaker leg: your knee tendons are undertrained, and the next season of single-leg habits is the highest-value training available to you anywhere. Five to ten: the base is real, and the gap, if you have one, is your program now. Over ten clean per leg: certified, your patellar tendons carry trained capacity, and pistols and shrimps become realistic projects. Over fifteen with no gap: your single-leg strength is a finished product; maintain it and spend your ambition elsewhere. Put your weaker leg's reps in the comments, just the number, and retest in thirty days on the same chair with the same rules. The chair keeps its books per leg, and next month we compare both pages.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SMALLER GAP"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same chair, arms crossed, both legs, honest reps. Bring me a smaller gap and we will talk pistols. Subscribe, and keep both numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "single leg test",
+  "sit to stand test",
+  "knee tendons",
+  "single leg strength",
+  "knee strength test",
+  "leg asymmetry",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "10 REPS",
+  "hook": "SINGLE-LEG TEST"
+ },
+ "title": "Your Single-Leg Test Reveals the Truth About Your knee tendons",
+ "v5": true
+}

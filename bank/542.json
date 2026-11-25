@@ -1,0 +1,392 @@
+{
+ "badge": "EP 542 - THE CALF BOUNCE",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SPRING",
+  "YOUR VERDICT"
+ ],
+ "description": "Bounce on the spot, heels never touching, and count your clean hops in thirty seconds. That count grades your calf tendon stiffness, the spring setting that decides how much free energy your legs return. Take the bounce test and learn what your spring is set to.",
+ "hashtags": [
+  "calf bounce",
+  "tendon stiffness",
+  "calisthenics",
+  "pogo hops",
+  "achilles"
+ ],
+ "id": "542",
+ "scenes": [
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HEELS NEVER TOUCH"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "COUNT THE CLEAN BOUNCES",
+     "pos": "br",
+     "text": "30 SEC"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KNEES NEARLY STRAIGHT"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT COUNT IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALL, QUICK, STEADY"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand tall on flat ground, feet under your hips, hands on your hips or lightly touching a wall for balance. Rise onto the balls of your feet and start bouncing: small, quick hops straight up and down, like the ground is hot. The rules are strict. Your heels never touch the ground, not once. Your knees stay nearly straight, soft but not bending into squats. And the bounce stays small, a few centimeters of air, rhythm steady. Start your clock and count every clean bounce for thirty seconds. The count stops being honest the moment a heel kisses the ground or the knees start pumping. That clean count is your number. Keep it somewhere safe. At the end I will tell you what it reveals about the stiffness of the spring in your calf, and why that spring setting quietly decides the running and jumping economy of your whole life.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 CLEAN = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ELITE TENDON STIFFNESS",
+     "pos": "br",
+     "text": "40+ HOPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A STIFFNESS EXAM IN DISGUISE"
+    }
+   ],
+   "big": "30 HOPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "IN 30 SECONDS IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Thirty clean bounces in thirty seconds, heels up, knees quiet, rhythm unbroken, means your calf spring is set to athletic. Under eighteen, the spring is soft: the tendon is absorbing your bounce instead of returning it, and you are paying muscle prices for what should be free energy. Over forty, your Achilles is returning energy like a trained jumper's, and your running economy has a silent sponsor. Here is the truth this simple count tells. Bouncing on straight legs with locked-out heels is almost pure tendon work; the calf muscle barely changes length while the Achilles stretches and recoils. Your count is therefore a stiffness exam disguised as a playground game. A stiff spring returns each bounce quickly and cheaply. A soft spring swallows it and bills the muscle. The number grades which spring you currently own.",
+   "section": "THE NUMBER",
+   "sub": "under 18: the spring is soft - over 40: elite tendon stiffness",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Landing stores energy.",
+      "Takeoff returns it free."
+     ],
+     "pos": "tr",
+     "title": "THE BUNGEE WITH A MEMORY"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MUSCLE HOLDS, TENDON SPRINGS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STIFFER = CHEAPER TO RUN"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ENERGY BACK OR ENERGY BILLED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Meet the spring itself. The Achilles tendon is the thickest tendon in your body, a braided cable running from your calf muscles to your heel bone, and in bouncing it behaves like a bungee cord with a memory. When you land, it stretches and stores elastic energy. When you leave the ground, it recoils and returns the great majority of that energy for free. The muscle's role is mostly to stay stiff and hold the cable's top end still, so the stretch happens in the tendon, not the muscle. Stiffness is the setting that decides everything: a stiffer tendon stores and returns energy faster, with shorter ground contact, while a compliant one stretches longer, returns slower, and leaks energy as heat. Neither setting is a moral quality. But for bouncing, running and jumping, the stiffer spring is simply cheaper to run, and your bounce count is its price tag, readable in thirty seconds.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "plantar_fascia_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO SPRINGS, ONE SYSTEM"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "SOFT SPRING",
+       30,
+       "red"
+      ],
+      [
+       "TRAINED SPRING",
+       50,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "ENERGY RETURNED PER STEP"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STIFFNESS IS TRAINABLE"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The spring has a partner under your foot. The plantar fascia, the thick band along your sole, works as a second, smaller spring: it tightens when your toes bend on landing and recoils at takeoff, returning its own share of energy and stiffening the foot into a lever. Bouncing trains the pair as a system, which is why the test forbids heel contact; a touching heel switches the system off and lets the ground steal the cycle. The research on this system is elegant: in running, the Achilles and foot springs together return roughly half the energy of each step, meaning half of running is, in a sense, free to the athlete with stiff springs. Training studies also show stiffness itself is trainable, responding to exactly this kind of short-contact hopping over weeks, as the tendon remodels its braiding under repeated load. Your count is not a fixed trait. It is a setting, and settings can be changed by the work in the protocol.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CAPACITY FROM THE DROP"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "FIVE-SECOND LOWERINGS",
+     "pos": "br",
+     "text": "3 x 8"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SPEED FROM THE BOUNCE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The eccentric drop is the spring's strength coach. Rise onto both feet on a step edge, lift one foot, and lower the other heel slowly below the step over five seconds. You are loading the Achilles through its full lengthening range, the classic stimulus for tendon remodeling, used in rehab rooms for decades. Three sets of eight per leg, most training days. It feels like physical therapy because it is, but do not let that fool you: the same drill that heals tendons also stiffens them for performance, when progressed patiently. The drop builds the cable's capacity. The bounce teaches it speed. A spring needs both, and this episode's protocol is the marriage of the two.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MORE CYCLES PER SESSION"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE DIAL THIS TEST READS",
+     "pos": "br",
+     "text": "HIGHER FREQUENCY"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE SKINNY KID'S SPRING"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CHEAPER TO RUN"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage in the bounce is the arithmetic of springs. Every bounce must lift your mass against gravity and catch it again, and the tendon does that work at a price scaled to what you weigh. A lighter athlete's spring cycles more times per session at the same tissue stress, accumulating the exact repetitions that remodel a tendon stiffer. The heavier athlete's bounce training is rationed by Achilles load and calf fatigue, the two currencies you hold in surplus. There is also a rhythm gift: lighter bodies naturally bounce at higher frequencies, and frequency is the dial this test reads. The playground knew before the laboratories did: the skinny kid always won the skipping games. He was not more coordinated. His spring was cheaper to run, and now you know the invoice by heart.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "check": 3,
+   "exercise": "CALF BOUNCES",
+   "music": "drive",
+   "narration": "Now we bounce together. Three rounds of twenty seconds: heels up, knees quiet, small and quick, then rest and shake the calves loose. If a heel touches, reset the rhythm and keep going.",
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DROPS FIRST, BOUNCE SECOND"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BENT KNEES KILL THE SPRING"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FIRM GROUND, THIN SHOES"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RESPECT A STIFF MORNING"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BUILT IN WEEKS, KEPT FOR DECADES"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Three spring sessions, spaced across the week, because tendons remodel between sessions and complain when rushed. Each session pairs the two tools: eccentric drops first for capacity, three sets of eight per leg, then bounce blocks like ours for speed. Mistake one: bending the knees to bounce higher. Bent knees turn the spring test into a muscle exercise and the tendon stops learning its job; small and straight is the whole point. Mistake two: bouncing on soft ground or thick foam shoes. A soft surface steals the recoil the tendon is supposed to provide, so train on firm ground in thin shoes or bare feet. Mistake three: daily maximal bouncing in week one. The Achilles is the most honest tendon you own and it files its complaints as morning stiffness; respect a stiff morning and the spring keeps improving for years. Stiffness is built in weeks and kept for decades. Play the long game.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SOFT IS FIXABLE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR COUNT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COUNT THE INTEREST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under eighteen: your spring is soft and billing your muscles for free energy, the most fixable economy problem in your legs. Eighteen to thirty: the spring is waking, and the drop-plus-bounce pairing will move your count steadily. Over thirty clean: certified, your calf tendon stiffness is athletic, and your running has a silent sponsor. Over forty: elite spring, the kind jumpers are measured by. Put your count in the comments, just the number, and retest in thirty days on the same ground, same shoes, same strict rules. Springs keep their books in bounces, and next month we count the interest.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A BIGGER COUNT"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same ground, heels up, thirty seconds of clean bouncing. Bring me a bigger count and we will talk about jumping. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "calf bounce test",
+  "calf tendon stiffness",
+  "achilles stiffness",
+  "pogo hops",
+  "spring mass",
+  "ankle stiffness",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_calf_raise.webp",
+  "big": "30 HOPS",
+  "hook": "CALF BOUNCE"
+ },
+ "title": "Your Calf Bounce Test Reveals the Truth About Your calf tendon stiffness",
+ "v5": true
+}

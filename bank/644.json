@@ -1,0 +1,401 @@
+{
+ "id": "644",
+ "v5": true,
+ "title": "90 Days Later: Your Rematch Test — The every system Verdict",
+ "description": "Ninety days ago you ran the full battery: hang, push-ups, wall sit, balance. Today is the rematch. Every system gets retested in one session, every old number gets challenged, and the season gets its complete verdict. Bring all four old numbers.",
+ "tags": [
+  "the rematch",
+  "full test battery",
+  "90 days later",
+  "every system retest",
+  "season verdict",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "90 days later",
+  "the rematch",
+  "retest day",
+  "every system",
+  "calisthenics",
+  "full battery"
+ ],
+ "category": "retests",
+ "badge": "EP 644 - THE REMATCH",
+ "checklist": [
+  "THE REMATCH",
+  "THE BATTERY",
+  "EVERY SYSTEM",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_top.webp",
+  "big": "REMATCH",
+  "hook": "EVERY SYSTEM",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you ran the battery. | Hang. Push-ups. Wall sit. Balance. | Four numbers, one honest day. | Today is the rematch. | Same order as day one. | Push-up max first, fresh. | Same floor, same standard. | Chest to fist height. | Clean reps only. | When the form breaks, | write the number down. | Rest while I talk. | The hang comes later, | the sit after that, | and balance closes the day. | Four new numbers. | At the end, | every system gets its verdict, | and the season | gets graded whole.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "FOUR TESTS, ONE DAY",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "PUSH-UPS FIRST, WHILE FRESH",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "CLEAN REPS ONLY",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "THE BATTERY IS RUNNING",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "4 NUMBERS",
+   "label": "THE REMATCH SCOREBOARD",
+   "sub": "hang, push-up max, wall sit, balance gap - all four or it does not count",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the rematch scoreboard, the same four tests this channel set on day one. The dead hang for your grip tendons. The push-up max for your pressing system. The wall sit for your knee tendons. And the balance pair for your nerve wiring, graded by the gap. A rematch is not four separate tests that happen to share a day. It is one examination of the whole athlete, taken under the same fatigue, in the same order, against a scoreboard that has waited ninety days without moving a single line. Partial rematches do not count, because the systems you skip are always the ones with news for you.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "4 TESTS",
+     "label": "ONE EXAMINATION",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "SAME ORDER, SAME FATIGUE",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "SKIPPED SYSTEMS HAVE NEWS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at why the battery exists at all. Your body is not four separate machines sharing a skeleton. The tendons, nerves, and muscles you trained this season talk to each other constantly: grip work taught your shoulders to organize, balance work cleaned the signals your legs use in the wall sit, pressing built the trunk that keeps your hang quiet. Scientists call this systems adaptation, and it is why a rematch reads differently than four isolated retests. Gains leak across systems in a trained body. When your balance gap closes and your hang climbs in the same season, that is not coincidence. That is one nervous system upgrading everything it touches. One more detail separates a battery from a workout, and it is the rest between tests. This channel's battery uses fixed rests, long enough to breathe, short enough to stay honest, identical on day one and day ninety. Change the rests and you change the exam. If today's battery felt more manageable between tests, that is recovery adaptation announcing itself inside the protocol, and it only counts because the protocol refused to move. Frozen conditions are not a limitation on the truth. They are the price of it.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "ONE SYSTEM, FOUR WINDOWS",
+     "lines": [
+      "Gains leak across systems."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "spine_anatomy_plate.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "THE BATTERY READS THE WHOLE",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "EVERYTHING",
+     "label": "IT TOUCHES, UPGRADED",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now, how to read a rematch like a scientist instead of a fan. First, expect uneven results. Systems adapt at different speeds: nerves in weeks, muscles in months, tendons across seasons, so a rematch where balance soars and the wall sit creeps is not a mixed result, it is a normal one. Second, grade the battery by its weakest movement, not its best, because the weakest system is the one that will limit next season. Third, remember that four tests in one day tax each other, so compare each number only to its day-one twin, taken under the same battery fatigue. That is the rematch's hidden fairness: day one suffered the same order you did. One more reading of the battery deserves its place. Look at the order your systems fatigued across the day, not just their final numbers. The test whose performance fell furthest from its fresh, standalone best is your recovery bottleneck, and it is frequently not the weakest test in isolation. Batteries expose interactions that single tests structurally cannot see. That is the entire argument for suffering through all four in one day, twice a year, when four comfortable separate days would have been so much easier.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "FASTEST SYSTEM",
+       80
+      ],
+      [
+       "SLOWEST SYSTEM",
+       35
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "UNEVEN IS NORMAL",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "GRADE BY THE WEAKEST",
+     "lines": [
+      "It limits next season."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "COMPARE TWINS, NOT STRANGERS",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "By now in the rematch your wall sit is done too, so let us talk about what the battery reveals that no single test can: your recovery between efforts. On day one, the push-up max probably taxed everything after it, and the later tests graded a tired athlete. A trained system restores itself between tests: breathing settles, forearms clear, legs stop buzzing within minutes. If today's later numbers held up better relative to their twins than the early ones did, your recovery itself adapted, and recovery is the invisible fifth system in every battery. It never gets its own test. The rematch is how it reports. And a battery has a memory effect worth respecting. Men who have run a full battery once approach the second with a strategy: where to spend, where to conserve, when the day turns. That strategy is not gaming the test; it is the test's deepest layer, because managing a whole body's resources across a day of efforts is a physical skill in itself. Your day-ninety battery was taken by a strategist. Your day-one battery was taken by a volunteer. Both sets of numbers are honest. They are not the same sport.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE INVISIBLE FIFTH SYSTEM",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "knee_anatomy_plate.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "RECOVERY",
+     "label": "REPORTS THROUGH THE LATE TESTS",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "SETTLING FASTER IS ADAPTATION",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe for rematch day is about what kind of athlete a battery builds. Single-test training makes specialists with blind spots: huge grips on bodies that cannot balance, big presses on knees that cannot sit. The battery refuses to let you hide, because every season ends with all four windows open at once. A skinny guy has no business building blind spots anyway. Your advantage was never one freak quality. It is that your frame lets you train everything, often, and arrive at a rematch with no embarrassing window. Balanced is not the boring option. On rematch day, balanced is the whole podium.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "NO WINDOW LEFT EMBARRASSING",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "SPECIALIST BLIND SPOTS",
+       2
+      ],
+      [
+       "YOUR BLIND SPOTS",
+       0
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "BALANCED IS THE PODIUM",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "TRAIN EVERYTHING, OFTEN",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "DEAD HANG SETS",
+   "work": 30,
+   "rest": 30,
+   "rounds": 4,
+   "asset": "ren_dead_hang.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now the battery's final working block. Four rounds of hangs: thirty seconds on, thirty off, at rematch standard. Packed shoulders, quiet body. Your grip already posted its number today. This is where it trains."
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Next season's protocol is written by the battery, so read it before you celebrate anything. The system with the biggest gain gets maintenance volume, not more attention; success is preserved, not chased. The system with the smallest gain gets the season's first training slot each week, while you are fresh, because weakest systems starve at the end of workouts. The mistakes that ruin rematch seasons: retesting the battery monthly out of excitement, which turns a season exam into weekly noise; training only the tests instead of the qualities beneath them; and dropping the system that improved most, which is how last season's strength becomes next season's gap. One weekly detail keeps all four systems fed between batteries: the rotation rule. Each week, one system gets the headline session, rotating in order, while the other three get honest maintenance. Over a month, every system leads once and starves never. Batteries fail in the offseason, not on test day, in the weeks where a favorite system ate the whole calendar and the quiet one waited politely to become next season's bad news.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "MONTHLY BATTERY RETESTS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "TRAINING ONLY THE TESTS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "DROPPING YOUR BEST SYSTEM",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE BATTERY WRITES NEXT SEASON",
+     "lines": [
+      "Weakest first. Best maintained."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "THE VERDICT",
+   "label": "THE REMATCH VERDICT",
+   "sub": "comment all four new numbers",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The verdict on the whole season, battery style. If all four numbers improved, your adaptation was total in the literal sense: every system this channel trains moved in ninety days, and that is a season most athletes never have. If three improved, you had a strong season with one honest assignment, and the battery just handed you next season's headline. If two improved, your training worked where it was aimed, and aiming is the skill to build next. If one or none improved on paper, the battery suspects your season, not your potential, and one rested retest of the worst test will confirm it. Comment all four numbers below. The next rematch is already on the calendar.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "4 OF 4",
+     "label": "A SEASON MOST NEVER HAVE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "THE BATTERY HANDS YOU HEADLINES",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT ALL FOUR NUMBERS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT REMATCH: NEXT SEASON",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Four tests, four verdicts, one season graded whole. Whatever the battery said, it said it honestly, and honest is what we train on. Keep every system fed, and bring me a better battery next season. Subscribe for rematch day. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "NEXT REMATCH NEXT SEASON",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "EVERY SYSTEM FED",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

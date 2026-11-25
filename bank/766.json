@@ -1,0 +1,394 @@
+{
+ "id": "766",
+ "v5": true,
+ "title": "Your Trend Test Reveals the Truth About Your weekly averages",
+ "description": "The weekly average is the most honest number in gaining, and the least respected. Run the trend test once more, then hear the truth about averages: why they work, when they lie, and how to use them for five years.",
+ "tags": [
+  "weekly averages truth",
+  "average weight meaning",
+  "trend truth",
+  "scale averages",
+  "gaining measurement",
+  "how to read weight trend",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "weekly averages",
+  "trend truth",
+  "measurement",
+  "gaining",
+  "calisthenics",
+  "scale science"
+ ],
+ "category": "gaining",
+ "badge": "EP 766 - AVERAGES: THE TRUTH",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TRUTH",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_wall_sit_front.webp",
+  "big": "\u00b10.2",
+  "hook": "THE HONEST NUMBER",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Truth edition, trend test. | Seven mornings on the scale. | Same time, same routine. | Average them, honestly. | Now last week's average. | Subtract it from this week's. | That difference is your truth. | One signed number. | Plus, minus, or zero. | Second, max bodyweight squats. | Deep, clean, full stand. | Count the honest reps. | That is your second number. | Keep the pair together. | At the end I tell | you the truth about averages. | Why they work so well. | When they quietly lie. | And how a scientist uses | one for five years. | Weigh like it matters. | Because averaged, it does.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "ONE SIGNED NUMBER",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "THIS WEEK MINUS LAST",
+     "label": "THE TRUTH FORMAT",
+     "pos": "br",
+     "at": 8
+    },
+    {
+     "kind": "chip",
+     "text": "WHEN AVERAGES LIE",
+     "pos": "tr",
+     "at": 14
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 19
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "\u00b10.2",
+   "label": "KILOS PER WEEK, THE BAND WHERE HONEST GAINING LIVES",
+   "sub": "flat for a month: maintenance found you - plus 0.7 weekly: fat is co-authoring",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the truth the averages tell. A weekly change between plus zero point two and plus zero point five kilos is honest gaining for most skinny guys: tissue arriving at a pace muscle can mostly claim. Zero, repeated for a month, is maintenance wearing your surplus as a disguise, and it is information, not failure. Plus zero point seven or beyond, sustained, means fat is co-authoring the gain, because muscle's construction speed has a ceiling the extra energy cannot raise. And a negative trend during a supposed bulk is the average doing its bravest work: contradicting your intentions with arithmetic. Respect the band, respect the zero, and respect the negative most of all. An instrument that will tell you unwelcome truth is the only kind worth owning.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE HONEST BAND",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "\u00b10.2-0.5",
+     "label": "KILOS PER WEEK",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "RESPECT THE NEGATIVE",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "ARITHMETIC OVER INTENTIONS",
+     "pos": "br",
+     "at": 27
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "Why does averaging work so well? Because the noise in a weigh-in is mostly random, pointing up one morning and down the next, while the signal, real tissue change, points one way all week. Averaging is a filter that lets repeated direction accumulate and lets random directions cancel. Seven mornings is enough for the cancellation to matter; three is noticeably worse; one is no filter at all. This is the same mathematics that makes election polls survey thousands and makes your training log more truthful across a month than across a session. The weekly average is not a trick or a comfort blanket. It is the statistically correct way to ask a slow question. Ask a slow question with a fast instrument and the instrument will lie to you daily, with complete sincerity. One more property makes the average trustworthy: it is hard to fool accidentally and easy to audit honestly. A man can cherry-pick a flattering morning from a week of weigh-ins without noticing he did it. He cannot cherry-pick an average without deleting numbers, and deleting numbers leaves evidence in the record itself.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "THE CANCELLATION FILTER",
+     "lines": [
+      "Noise points both ways.",
+      "Tissue points one way."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_plank_hold.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "SLOW QUESTION, RIGHT TOOL",
+     "pos": "br",
+     "at": 20
+    },
+    {
+     "kind": "mark",
+     "text": "SEVEN IS ENOUGH",
+     "ok": true,
+     "pos": "tr",
+     "at": 28
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "Now the honest second half: when averages lie. They lie when the week itself is rigged, a holiday week, an illness week, a travel week, where the average faithfully reports a week that represents nothing about your system. They lie at the very start of a surplus, when glycogen and water refill in days and the first week's jump overstates tissue by a kilo or more. And they lie by omission about composition: the average reports mass, not its division between muscle, fat, and water, which is why this channel pairs every trend with a strength test. A rising average with rising push-ups tells a muscular story. A rising average with flat tests tells a softer one. The average is the headline, the test is the reporting, and a scientist reads both before touching the surplus dial. The composition caveat has a practical partner: the waist measurement, taken weekly at the navel, same conditions. Average rising with waist steady is the muscular story. Both rising fast is the softer one. Two cheap instruments, read together, approach the truth that expensive scans sell.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "WHEN THE WEEK IS RIGGED",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "READING THE AVERAGE",
+     "items": [
+      [
+       "AVERAGE ALONE",
+       45,
+       "gold"
+      ],
+      [
+       "AVERAGE + TEST",
+       92,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "HEADLINE PLUS REPORTING",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "MASS, NOT COMPOSITION",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "The deepest truth about the average is what it does to time. A man watching daily numbers lives in a day-sized world, where every morning is a verdict and every verdict demands a reaction. A man watching weekly averages lives in a month-sized world, where reactions are monthly, small, and calm. Training adaptations, appetite changes, and tissue itself all live in the month-sized world. The average is therefore not just a statistic. It is a device for moving your attention to the timescale where your body actually operates. Men quit gaining in the day-sized world, exhausted by weather. Men finish gaining in the month-sized world, bored by climate and built by it. Choose your world by choosing your instrument.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "CHOOSE YOUR WORLD",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "MONTH-SIZED",
+     "label": "WHERE BODIES OPERATE",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "BORED BY CLIMATE, BUILT BY IT",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "WEATHER EXHAUSTS",
+     "pos": "br",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage with averages is that your signal is clean. A skinny guy gaining slowly has one story in his numbers, tissue arriving, without the dieter's rebound water, the big man's enormous glycogen swings, or the noise of a body in active rebellion. Your weekly average settles into readability faster than almost anyone's, often within three weeks of honest weighing. There is a second advantage: your corrections stay snack-sized all the way up. The average will ask you for a handful of nuts, a slightly bigger shake, a trimmed spoon of oil, never a diet overhaul. A measurement system whose largest demand is a handful of nuts is a system a man can run for five years, and five years is the timescale this channel was built for.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "A CLEAN SIGNAL",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "3 WEEKS",
+     "label": "TO READABILITY",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "SNACK-SIZED CORRECTIONS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "BUILT FOR FIVE YEARS",
+     "pos": "br",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_top.webp",
+   "exercise": "SQUAT SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Work in the month-sized world with me. Four rounds of squats, forty seconds on, twenty off. Patient, deep, identical reps. We are not chasing today's number. We are building the average of all your future numbers.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The averages protocol, four rules for the long run. One: keep one unbroken record, because an average with missing weeks is a story with missing chapters, and the trend across a season is the record's real treasure. Two: annotate the rigged weeks, ill, travel, holiday, in one word beside the number, so future you reads them with the discount they deserve. Three: review monthly, not weekly, for decisions, letting two flat weeks be the smallest signal you ever act on. Four: pair every monthly review with the same strength test, so mass and performance are always read together. Follow this for a year and you will own something rare: a truthful biography of your own body, written in numbers nobody can argue with.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "ONE UNBROKEN RECORD",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "ANNOTATE RIGGED WEEKS",
+     "ok": true,
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "MONTHLY DECISIONS",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "REACTING TO MONDAYS",
+     "ok": false,
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. An average in the honest band with modest squats: the climate is right and the article under the headline needs work, so training intent is this month's project. A flat average for a month with strong squats: you are maintaining at a higher performance, impressive and insufficient, and the small addition is prescribed without negotiation. A fast-rising average with flat squats: the soft story, mass without performance, and the trim plus training intent share the prescription. An honest band and climbing squats: the truth is being told and believed in your house, the rarest state in gaining, so protect the record and retest in thirty days. Comment your weekly change and your squat count. Signed numbers only; the sign is where the truth lives. And when the average and the test disagree someday, believe both. Mass up with performance down is a real state with real causes, sleep, stress, a program gone stale. The instruments are not contradicting each other. They are describing different rooms of the same house.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 6
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "FOUR MORE AVERAGES",
+     "pos": "br",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT THE SIGNED NUMBER",
+     "ok": true,
+     "pos": "tr",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, bring me four more averages and the same squat test. Bring me a biography still being written and a bigger number. Subscribe, and let the record grow until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 2
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE RECORD",
+     "ok": true,
+     "pos": "br",
+     "at": 5
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 8
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

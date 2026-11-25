@@ -1,0 +1,390 @@
+{
+ "badge": "EP 603 - DEAD HANG RETEST",
+ "category": "retests",
+ "checklist": [
+  "THE RETEST",
+  "OLD VS NEW",
+  "THE CABLES GREW",
+  "YOUR VERDICT"
+ ],
+ "description": "The dead hang was the first test this channel ever set, and today it comes back. Recall your original time, hang again under the same rules, and put the two numbers side by side. See what your grip tendons did with the weeks you gave them, and what the next block should target.",
+ "hashtags": [
+  "dead hang",
+  "hang retest",
+  "grip strength",
+  "tendon training",
+  "retest day",
+  "calisthenics"
+ ],
+ "id": "603",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FIRST TEST RETURNS"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "SAME RULES",
+     "pos": "br",
+     "text": "SAME BAR"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANG UNTIL YOU DROP"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": "TWO NUMBERS, ONE BAR",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "The first test returns. | You remember this bar. | Your first hang here | set your first number. | Maybe twenty seconds. | Maybe forty. | It felt honest | and a little brutal. | Today we hang again. | Same bar, same rules. | Arms straight. | Feet off the ground. | No kicking, no swinging. | Grip it and go. | Hang until you drop. | That is your new time. | Hold it in your head. | Next to the old one. | Two numbers, one bar. | At the end | I tell you | what the gap proves | about your grip tendons. | And what it hides. | Get ready. | The clock is honest.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE RETEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "60 SEC = TRAINED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE WIRED LINE",
+     "pos": "br",
+     "text": "90 SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "+20 SEC = REMODELED",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "big": "90 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE WIRED LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The line has not moved since the first episode, because physics does not do sequels. Sixty seconds is a trained hang. Ninety seconds is the wired line, the point where your grip tendons are doing work that most gym members, including much bigger ones, simply cannot match. Under thirty seconds on day one meant untrained cables, and it was the most common result this channel ever saw. Now lay your two numbers across that frame. The first one told you where you started. The second one tells you the speed of the only tissue that matters in a hang. If the gap is twenty seconds or more, your tendons remodeled exactly the way the science said they would. If the gap is small, do not blame the bar. The protocol scene will show you the two reasons hangs stall, and both of them live in how the block was loaded, not in your genetics.",
+   "section": "OLD VS NEW",
+   "sub": "old you under 30: untrained - over 90: elite grip cables",
+   "type": "card"
+  },
+  {
+   "asset": "ren_grip_closeup.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Thicker, stiffer cables leak less force.",
+      "Same signal, more seconds."
+     ],
+     "pos": "tr",
+     "title": "WHY THE GAP EXISTS"
+    },
+    {
+     "asset": "forearm_anatomy_plate.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FINGERS: ALMOST NO MUSCLE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "THE CLOCK IS THE JUDGE",
+     "pos": "tr",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Back to the hand, because the hand is where your gap was built. Your fingers have almost no muscle in them. The force that keeps you on the bar travels from your forearm, down cables of tendon, into the fingers, and a dead hang loads those cables with your entire bodyweight for every second you stay up. In the first test, the cables were the weak link: they stretched, the force leaked, the nerve signal to keep gripping faded, and you dropped. Across a block of hangs, carries and holds, the tendons answered the way tendons answer slow heavy tension. They laid down collagen along the line of pull. The cable got thicker and stiffer. A stiffer cable leaks less force, so the same forearm signal now buys you more seconds. That is the entire mystery of your new time. Nothing about your hands looks different in the mirror. Everything about them is different on the clock, and the clock is the only judge this channel trusts.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_finger_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLIP VS FADE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "DAY ONE: SKIN",
+       30,
+       "red"
+      ],
+      [
+       "TODAY: DEEP",
+       80,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE THE HANG FAILS"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EARLY = NEURAL, LATE = STRUCTURAL"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": "CABLE IS WHAT YOU KEEP",
+     "pos": "br",
+     "text": true
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the layer the first episode saved for today. A hang fails in stages, and your two numbers failed at different stages, which tells us where the adaptation happened. In an untrained hang, the first failure is the skin and the grip position: the hands slide, the fingers open from the outside in, and the drop feels sudden. In a trained hang, the hands stay locked far longer and the failure moves deeper, into the forearm's endurance and the shoulder's patience. If your drop today felt slower, more like a fade than a slip, that is the signature of a tendon that held its stiffness while the muscle tired around it. Studies of isometric grip training show exactly this pattern: the early gains are neural, the later gains are structural, and structural gains are the ones that stay when you take a week off. Your first number was mostly nerve. Your new number is mostly cable. Cable is the part you keep.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME BAR, SAME TIME"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A THICK BAR CAN STEAL",
+     "pos": "br",
+     "text": "10 SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "RE-GRIPPING = FICTION",
+     "pos": "tr",
+     "text": false
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DEFENSIBLE NUMBERS ONLY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One honest warning about retest day, because the number can lie in both directions. A hang is sensitive to everything: the bar's thickness, chalk or sweat, the temperature of your hands, even the time of day. A thicker bar can steal ten seconds from the same tendons. A cold morning can give some back. That is why this channel's rule is same bar, same time, same rules, every retest, forever. Break the rule and you are not measuring adaptation, you are measuring the weather. There is a second, quieter liar: the shake-out. If you re-gripped, shifted hand to hand, or let the swing die and restart, your clock kept running but your cables rested, and the number is fiction. None of this is to make you doubt a good result. It is to make your next one bulletproof. A number you can defend is worth ten numbers you have to explain, and your training log deserves the defensible kind.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT = A MULTIPLIER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "MORE COLLAGEN SIGNAL",
+     "pos": "br",
+     "text": "MORE SECONDS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "RECEIPTS BEAT REFLECTIONS",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TWO DATES, ONE DIRECTION"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The reframe, sharper on retest day than it ever was on day one. A dead hang is the rare test where being light is not a discount, it is a multiplier. Every second costs your tendons your bodyweight in tension, so the lighter man buys more seconds, more total weekly volume, and more collagen signal per session from the exact same program. The heavy guy's hang ends early not because his grip is weak but because his load is enormous, and his tendons get fewer quality seconds to adapt with. You just lived the other side of that trade. Your gap, whatever its size, was built with more high quality tension time than a bigger man could have bought in the same weeks. And notice what the two numbers did to the mirror's old story. The mirror said skinny means weak. The bar kept receipts: two dates, two numbers, one direction. Receipts beat reflections, every single time.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "DEAD HANG",
+   "music": "drive",
+   "narration": "Now we build the next gap together. Three rounds: forty seconds on the bar, forty seconds down. Straight arms, quiet shoulders, deep grip. This is where the next number comes from. Go.",
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "BIG GAP: ADD THE BACKPACK",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMALL GAP: ADD FREQUENCY"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "MAXING EVERY SESSION",
+     "pos": "tr",
+     "text": false
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRAIN BELOW, TEST ON THE DAY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The next-level protocol, matched to your gap. If your time jumped by twenty seconds or more, the cables are ready for load: hang with a backpack at ten percent of your bodyweight, three sets at half your max time, twice a week, and let the plain hang become your warm-up. If your gap was five to twenty seconds, keep the load as it is and add frequency instead, short hangs on five days a week, because your tendons were underfed on total tension time, not on intensity. If your number stalled or fell, check the two usual suspects before you blame the program: you retested tired, or your training hangs were too short to matter, all effort and no duration. Fix it with daily submaximal hangs, thirty seconds, morning and evening, for the next block. And bury this mistake for good: maxing the hang every session. A max is a test, not a training dose. Train below it, test on retest day, and let the gap do the talking.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRITE BOTH NUMBERS DOWN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "UNTIL THE NEXT RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": "COMMENT YOUR NEW TIME",
+     "pos": "tr",
+     "text": true
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SAME BAR, SAME TIME"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your new dead hang time, read the way this channel reads every number. Under thirty still: the cables are untrained and the fix is frequency, plain and unglamorous, and it works on everyone who actually does it. Thirty to sixty: you are building, the collagen is going down on schedule, and the gap will keep widening while the load keeps arriving. Sixty to ninety: trained, full stop, a hang most adults cannot buy at any bodyweight. Past ninety: wired. Your grip tendons are now a system other people can feel when they shake your hand. Write both numbers down with the date, old and new, and put the new one in the comments, just the seconds. If you remember the first one, put it beside it and let the gap speak. We retest in thirty days, same bar, same time, same rules. The bar will be exactly as honest as it was today. Be exactly as loaded.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": "A WIDER GAP",
+     "pos": "br",
+     "text": true
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same bar, same clock, same straight arms. Bring me a gap your first number cannot explain. Subscribe so retest day finds you. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "dead hang retest",
+  "dead hang test",
+  "grip tendons",
+  "hang time",
+  "retest",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_hang_side_active.webp",
+  "big": "+25 SEC",
+  "hook": "HANG RETEST"
+ },
+ "title": "Your New Number: The dead hang retest Retest Nobody Does",
+ "v5": true
+}

@@ -1,0 +1,380 @@
+{
+ "badge": "EP 674 - THE STIFFNESS TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SPRING",
+  "YOUR VERDICT"
+ ],
+ "description": "Twenty seconds of pogo hops will grade the springs in your legs. Tendon stiffness is the hidden strength behind jumping, sprinting and free energy, and this episode shows you how it is measured, what yours says, and the training that stiffens a spring on purpose.",
+ "hashtags": [
+  "stiffness test",
+  "tendon stiffness",
+  "pogo hops",
+  "calisthenics",
+  "elastic energy"
+ ],
+ "id": "674",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANKLES DO THE WORK"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COUNT PLUS QUALITY"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "OF SPRING, GRADED",
+     "pos": "tr",
+     "text": "20 SEC"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE MUSH IS THE MESSAGE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test turns you into a pogo stick and grades the spring. Stand tall, hands on hips, knees nearly straight, and bounce on the balls of your feet: small, quick hops, ankles doing the work, as little knee bend as you can manage. Twenty seconds on the clock. Count two things: how many clean hops you complete, and whether the rhythm stays springy or turns to mush in the final five seconds. Your hop count is the headline number, but the honest number is the pair: count plus quality at the end. A spring that starts at twenty hops and finishes at twenty is a different instrument from one that starts at twenty-five and dies at mush. Keep both. By the end of this episode you will know what stiffness actually is, why it is the most undervalued strength a skinny guy can own, and why the mush at the end is the most informative part of the whole test.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETURNED, NOT MANUFACTURED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE TRAINED RHYTHM",
+     "pos": "br",
+     "text": "2 PER SEC"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FREE ENERGY, ON TAP"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SPONGES ARE OPTIONAL"
+    }
+   ],
+   "big": "SPRINGY",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN A SPRING AND A SPONGE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for the pogo test. A trained spring keeps a quick, even rhythm for the full twenty seconds, roughly two hops per second, with the contact time staying short and the height staying honest; the legs feel like they are returning energy, not manufacturing it. An undertrained spring shows the classic decay: contacts get longer, height shrinks, the knees start helping, and the last five seconds are a negotiation. The physics under the line is simple and profound. With every landing, your Achilles tendon stretches and stores a portion of the impact energy, then returns it into the next hop, free. A stiffer, well-trained tendon returns more of it, faster. A compliant, untrained one returns less, later, and bills the muscle for the difference. Your rhythm at second eighteen is a direct readout of which tendon you currently own. Springs are trainable, sponges are optional, and this episode is the workshop manual for telling them apart and converting one into the other.",
+   "section": "THE NUMBER",
+   "sub": "rhythm dies early: the spring is undertrained - springy to the end: free energy, on tap",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Transmit fast. Bank energy.",
+      "Protect the joint's timing."
+     ],
+     "pos": "tr",
+     "title": "ONE RATIO, THREE JOBS"
+    },
+    {
+     "asset": "ren_eccentric_drop.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NO SLACK IN THE WINDOW"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HIDDEN, NOT POETIC"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Stiffness, defined properly, is a ratio: how much force it takes to stretch a tendon by a given amount. A stiff tendon stretches little and snaps back fast, transmitting muscle force to the bone with minimal delay and minimal loss. That speed matters more than men realize: in any fast movement, the muscle's force must cross the tendon before the ground contact ends, and a slow, stretchy cable spends the contact window still taking up slack. The second job is the energy bank from the test: in running and hopping, the Achilles returns a large share of each stride's cost, which is why springy men look effortless at speeds that bankrupt everyone else. And the third job is protection: a tendon that transmits cleanly lets the muscle work at its best length, sparing the joint the sloppy forces of a system arriving late. One ratio, three jobs, and all three are invisible in a mirror. That is why this channel calls it hidden strength without a hint of poetry.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRAIN SIZE IS THE ORDER FORM"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "HEAVY SLOW LOAD",
+       90,
+       "cyan"
+      ],
+      [
+       "LIGHT FAST ONLY",
+       30,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT BUILDS STIFFNESS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BUILD IT, THEN TUNE IT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PAYS INTO EVERY ACCOUNT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The training research on stiffness is refreshingly specific about what builds it. In the landmark studies, heavy slow loading, high-force isometrics and progressive resistance at long muscle lengths measurably increased tendon stiffness over twelve to fourteen weeks, while light, fast, low-force work alone mostly did not. The tendon's cells respond to the size of the strain, not its speed: big, sustained pulls are the order form for stiffer collagen architecture. Plyometrics then teach the stiffer spring to play in time, which is why the complete recipe pairs the two: heavy slow work to build the instrument, hops and jumps to tune it. The timeline deserves respect: stiffness changes are among the slowest adaptations this channel tracks, arriving in seasons. But they are also among the most durable, and they compound into everything: your sprint, your jump, your landing, even your walking economy on a long day. Few investments in the body pay into so many accounts at once.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "AN OPTIMUM, NOT A MAXIMUM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ON THE SAFE SIDE",
+     "pos": "br",
+     "text": "LONG RUNWAY"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SPRINGY AND DURABLE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The deep truth is that stiffness has an optimum, not a maximum, and the wise trainee aims for the neighborhood, not the horizon. A tendon too compliant wastes force and time. A tendon driven ever stiffer without the muscle and joint keeping pace can shift stress to places less able to hold it, and the research on injury suggests the middle ranges, matched to the athlete's sport and strength, are where the durable men live. For your purposes, the practical reading is reassuring: you are, almost certainly, on the undertrained side of the curve, with a long, safe runway of improvement before optimum becomes a question. The pogo test cannot overshoot you in a season. It can only walk you up the runway, twenty seconds at a time, while the heavy slow work rebuilds the spring beneath the rhythm. Aim for springy and durable. Leave maximal for the laboratories.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE REFUND IS THE BUSINESS MODEL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "STRENGTH UNDER CONSTRUCTION",
+     "pos": "br",
+     "text": "SPRINGY FIRST"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "KINDER FORCES, FULL RECOVERY"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "NOW YOU KNOW THE WORD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your build is the spring economy's natural citizen. Elastic return is worth most to the athlete whose engine is smallest: when your muscles cannot simply outspend the energy bill, a tendon that refunds a large share of every stride is not a detail, it is the business model. Light men also load their springs at kinder absolute forces, so the heavy slow work that builds stiffness can be practiced frequently, with full recovery between sessions, exactly the rhythm tendon construction prefers. And your test is purer: with less mass bouncing on the spring, the pogo rhythm reports the tendon's quality with less noise from the cargo. The heavy athlete must be strong and springy to move well. You can be springy first, and let it masquerade as strength in every fast thing you do, while the strength is still under construction. Many light athletes already live this way without knowing the word for it. Now you know the word, and the workshop is open.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "POGO HOPS",
+   "music": "drive",
+   "narration": "Now we tune the spring together. Four rounds of pogo hops, short and springy, full rest between. The moment the rhythm turns to mush, the round is over: we train springs, not sponges.",
+   "rest": 20,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEAVY SLOW, TWICE A WEEK"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LONG HOLDS AT MID-RANGE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TINY DOSES, ALWAYS FRESH"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "CHASING MUSH FOR VOLUME"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The stiffness protocol, two-handed as the science demands. The building hand: heavy slow calf work twice a week, seated and straight-knee, loads that make eight reps feel like a negotiation, plus long isometric holds at mid-range, thirty to forty-five seconds, because sustained strain is the order form the cells read best. The tuning hand: pogo hops and low jumps twice a week, tiny doses, always fresh, stopping at the first sign of mush, because the spring learns the rhythm it practices. The schedule respects the collagen economy from earlier this season: hard tendon days sit about forty-eight hours apart. And the audit: this same twenty-second test, monthly, same floor, same shoes, counting count and quality both. Stiffness is a season's project. Men who want it in a week are invited to admire the honesty of that sentence until it stops stinging.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SPRINGY OR MUSH, HONESTLY"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN BOUNCE AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT COUNT AND QUALITY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your stiffness verdict. Springy to the final second at a good rhythm: you own a working spring, and the work now is building it heavier and keeping it tuned. Rhythm strong early, mush late: the classic undertrained spring, strong enough to start, not yet stiff enough to refund; the protocol was written for exactly this signature. Mush from the opening seconds: the spring is a sponge today, which is a starting point with an excellent prognosis, because the first season of stiffness gains is the most generous. And the standing caution: tendon pain that localizes to one spot and changes your gait is not a stiffness grade; it is an appointment. Put your hop count in the comments, just the number, and add a word: springy or mush. In thirty days, bounce again and let the spring report its construction.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A RHYTHM THAT SURVIVES"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, same twenty seconds, hands on hips. Bring me a rhythm that survives its own ending. Subscribe, and keep your numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "stiffness test",
+  "tendon stiffness",
+  "pogo hops",
+  "elastic energy",
+  "achilles tendon",
+  "spring test",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "20 SEC",
+  "hook": "THE STIFFNESS TEST"
+ },
+ "title": "Your Stiffness Test Reveals Your Hidden Strength",
+ "v5": true
+}

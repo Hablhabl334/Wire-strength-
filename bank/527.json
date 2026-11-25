@@ -1,0 +1,407 @@
+{
+ "badge": "EP 527 - BACK LEVER TUCK",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "Hang from a bar, tuck your knees, and roll back until your body hangs face-down under the bar. Your tuck time is a pure readout of shoulder leverage: the straight-arm chain that big arms cannot fake. Take the test, learn what the number grades, and train it with us.",
+ "hashtags": [
+  "back lever",
+  "shoulder leverage",
+  "calisthenics",
+  "straight arm",
+  "skill training"
+ ],
+ "id": "527",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PALMS DOWN, ARMS STRAIGHT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "INTO THE TUCK",
+     "pos": "br",
+     "text": "ROLL BACK"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO BENT ELBOWS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LOWER WITH CONTROL"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Find a solid bar. | Grip it, palms down. | Hang tall, arms straight. | Tuck your knees up | tight to your chest. | Now roll backward slowly. | Hips rise, head drops. | You hang face down, | body tucked under bar. | Back roughly level. | Start your clock there. | Hold the tuck position. | Arms dead straight. | No bending elbows. | No swinging for help. | The clock stops when | the tuck falls open | or elbows bend. | That clean hold time | is your number. | Keep it somewhere safe. | At the end I | tell you what it means. | Lower down with control. | Never drop from it. | One honest attempt. | Shoulders do the talking | in this test.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "15 CLEAN SEC = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "STRADDLE IS CALLING",
+     "pos": "br",
+     "text": "30+ SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STRAIGHT ARMS OR NOTHING"
+    }
+   ],
+   "big": "15 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF TUCK IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifteen clean seconds in a back lever tuck, arms locked, body tucked tight and level, is real shoulder leverage. Under five seconds, your shoulders simply have not met this position yet, and positions you have never met always feel weaker than you are. Over thirty seconds, the tuck is yours, and the road to the straddle and the full back lever is a road, not a wall. Understand what the clock is grading. It is not your pull-up strength, and it is not your arm size. A back lever hangs your entire body off straight arms, behind your back, where the shoulder has almost no mechanical help. The number grades the straight-arm chain: tendons, joint capsule, and the small muscles that keep a shoulder honest at its weakest angle. That chain is invisible in a mirror and decisive in every lever you will ever learn.",
+   "section": "THE NUMBER",
+   "sub": "under 5: shoulders are new to this - over 30: straddle is calling",
+   "type": "card"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Huge lever, small muscles.",
+      "Tissue holds the tent up."
+     ],
+     "pos": "tr",
+     "title": "THE TENT RULE"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BALL IN A SHALLOW SOCKET"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TISSUE TIME, NOT EGO TIME"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE CUFF KEEPS IT HOME"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the shoulder from inside. In a back lever, your arm is pulled behind your body and loaded with everything you weigh. The shoulder joint is a ball resting in a shallow socket, and in this position the ball wants to travel forward, out of its home. What stops it is not one big muscle. It is a team: the rotator cuff squeezing the ball into the socket, the rear deltoid and lats holding the arm's angle, and the connective tissue of the capsule sharing the load like ropes on a tent. This is shoulder leverage in its purest form. The lever arm is enormous, the muscles are small, and the tissue does the heavy work. That is why gymnasts build this position in tiny doses over months. The chain adapts, but it adapts on tissue time, not motivation time, and respecting that clock is the difference between a back lever and a shoulder injury with a story attached.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SHAPE IS A LOAD DIAL"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "TUCK",
+       25,
+       "cyan"
+      ],
+      [
+       "ADV TUCK",
+       50,
+       "gold"
+      ],
+      [
+       "STRADDLE",
+       75,
+       "gold"
+      ],
+      [
+       "FULL",
+       100,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME LEVER, FOUR PRICES"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "AFFORD THE NEXT SHAPE"
+    },
+    {
+     "asset": "ren_hang_side_active.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Why the tuck, and why does tuck time predict the full lever? Because the tuck is the same lever with a shorter price. Pulling your knees to your chest drags your center of mass closer to the bar, which shortens the lever arm your shoulders must pay for. Straighten the legs and the mass travels away, and the price climbs steeply, far faster than the visual difference suggests. This is the master key of every lever in this season: body shape is a dial for load. Tuck, advanced tuck, straddle, full: four prices for one position, and your shoulders only ever have to afford the next one. The tuck also protects the lower back while you learn, keeping the spine flexed and quiet instead of arched and loaded. Train the shape you can hold with a straight back and straight arms, and the dial turns itself over the months. Skip shapes, and the dial collects its fee from your shoulders instead.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SKIN-THE-CAT FIRST"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "SLOW, BOTH DIRECTIONS",
+     "pos": "br",
+     "text": "5 REPS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NEVER DROP INTO IT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The entry drill for this whole family is the skin-the-cat: hang, tuck, and roll backward slowly until your arms reach their comfortable limit behind you, then roll back through. It teaches your shoulders the road the back lever lives on, at a price the tuck keeps low, and it stretches and loads the chain in one motion. Five slow reps, most days you train, done with the control of a man defusing something. If the roll feels like a cliff at any point, that point is your current border, and borders are where this season does its work. Never drop into the bottom of it. Lower like you are being graded, because your shoulders are grading you.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY KILO COUNTS HERE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME TISSUE, FASTER GROWTH",
+     "pos": "br",
+     "text": "MORE SESSIONS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOUR BUILD IS THE DISCOUNT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BELIEVE THE LEVER"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Here is the skinny advantage in this position, stated plainly. A back lever hangs your whole mass off your shoulders, so every kilogram you do not carry is a kilogram your straight-arm chain does not have to hold at its worst angle. The heavy guy and you are doing the same exercise on paper. In tissue terms, he is doing a heavier one, with slower recovery between sessions and a steeper price for every shape on the dial. You can practice this lever more often, in better positions, and that practice frequency is exactly what connective tissue converts into strength. This is why the lever sports are full of light athletes, and it is why I keep telling you: your build is not the tax on these skills. It is the discount. The mirror says you are behind. The lever says you are early. Believe the lever.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "check": 3,
+   "exercise": "BACK LEVER TUCK",
+   "music": "drive",
+   "narration": "Now we hang together. Roll into your tuck, lock the arms, and hold each round for fifteen seconds. Breathe, keep the tuck tight, and come down with control.",
+   "rest": 45,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 15
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "2 SESSIONS A WEEK"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BENT ARMS END THE SET"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CONTROL EVERY EXIT"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "30 SEC EARNS THE STRADDLE"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TUCK BUILDS THE TISSUE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week, written for shoulders that last. Two lever sessions a week is plenty to start; this chain grows on rest days. Each session opens with five slow skin-the-cats, then four tuck holds like the ones we just did, stopping every hold two seconds before the shape breaks. Mistake one: bending the elbows to survive. A bent arm turns a lever into a hang and bills a different tissue entirely; if the arms bend, the set is over. Mistake two: dropping out of the tuck. Every exit is part of the training, and the uncontrolled exit is where shoulders collect their injuries. Mistake three: chasing the straddle because the tuck feels easy in week two. Tissue confidence arrives months before tissue strength does. The tuck is not the waiting room for the real skill. The tuck is where the real tissue gets built. Stay there until thirty clean seconds makes the decision for you.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_dead_hang_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NEW IS NOT WEAK"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SHOULDERS KEEP HONEST BOOKS"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under five seconds: your shoulders are new to this country, and new is not weak, it is just unvisited. Five to fifteen: the chain is learning the position, and your seconds will climb fast if you feed them twice a week. Over fifteen clean: your shoulder leverage is certified, the tuck is a tool you own, not a test you fear. Over thirty: turn the dial; the straddle is yours to start. Whatever you hung today, write it down. Put your seconds in the comments, just the number, and retest in thirty days from the same bar with the same tuck. Shoulders keep honest books. In a month, we read the next page together.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NEXT SHAPE ON THE DIAL"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days, same bar, same tuck, same clock. Bring me a bigger number and I will show you the next shape on the dial. Subscribe so you do not miss it. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "back lever",
+  "back lever tuck",
+  "shoulder leverage",
+  "calisthenics skills",
+  "straight arm strength",
+  "gymnastics strength",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_hang_side_tuck.webp",
+  "big": "15 SEC",
+  "hook": "BACK LEVER"
+ },
+ "title": "Your Back Lever Tuck Time Reveals Your Hidden Strength",
+ "v5": true
+}

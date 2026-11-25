@@ -1,0 +1,394 @@
+{
+ "id": "763",
+ "v5": true,
+ "title": "Your Snack Test Reveals the Truth About Your calorie gaps",
+ "description": "Your calorie gaps are not accidents. They are the shape of your day, drawn in missing food. Run the snack audit again, then hear the truth about the gaps and the simple geometry that closes them.",
+ "tags": [
+  "calorie gaps truth",
+  "why am i not gaining",
+  "snacking truth",
+  "missing calories",
+  "skinny guy gaps",
+  "gaining mistakes",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "calorie gaps",
+  "snack truth",
+  "gaining",
+  "skinny to strong",
+  "calisthenics",
+  "not gaining"
+ ],
+ "category": "gaining",
+ "badge": "EP 763 - SNACKS: THE TRUTH",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TRUTH",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_farmer_carry.webp",
+  "big": "2 GAPS",
+  "hook": "THE SHAPE OF YOUR DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Truth edition, snack audit. | Yesterday, find the gaps. | Every stretch between feedings. | Longer than three hours. | Awake, active, unfed. | Count those long gaps. | That count is your number. | Second, grip the bar. | Max dead hang time. | Straight arms, still body. | Count the honest seconds. | That is your second number. | Keep the pair together. | At the end I tell | you the truth about your | gaps. | Gaps are not accidents. | They are architecture. | Your day was built by | someone, somehow, with holes in | specific places. | Today we find the builder. | Count the holes honestly.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "FIND THE HOLES",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "GAPS OVER 3 HRS",
+     "label": "YESTERDAY'S COUNT",
+     "pos": "br",
+     "at": 9
+    },
+    {
+     "kind": "chip",
+     "text": "GAPS ARE ARCHITECTURE",
+     "pos": "tr",
+     "at": 14
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 20
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "2 GAPS",
+   "label": "IS A NORMAL DAY'S COUNT - AND EACH ONE IS A DECISION",
+   "sub": "0 gaps: the day is fully beamed - 3 plus: the day leaks at fixed addresses",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the truth about your gap count. Two long gaps in a day is ordinary, three or more is a leaking day, and the most important property of your gaps is not their size but their address: they recur in the same places, on the same days, for the same reasons. The mid-afternoon gap belongs to work. The evening gap belongs to the commute and the late dinner. The weekend gap belongs to the lie-in and the lost breakfast. Because gaps have addresses, they can be visited and fixed individually, like leaks in specific rooms rather than a general damp. And because they recur, one fix pays out hundreds of times. A single placed snack in a recurring gap is worth more than a week of general trying to eat more.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "GAPS HAVE ADDRESSES",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "2",
+     "label": "THE ORDINARY COUNT",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "ONE FIX PAYS HUNDREDS OF TIMES",
+     "ok": true,
+     "pos": "tr",
+     "at": 20
+    },
+    {
+     "kind": "chip",
+     "text": "FIX ROOMS, NOT DAMP",
+     "pos": "br",
+     "at": 28
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "The mechanism of a gap is a slow leak in two ledgers at once. In the energy ledger, the unfed hours draw on your stores, and a body that spends the afternoon in deficit rarely overeats enough at dinner to repay it fully, because stomach capacity and appetite set a ceiling on repayment. In the building ledger, the gap is a window that never opened: no arrival, no signal, no shift worked. Multiply one gap by three hundred days and you have the true biography of a plateau. It was never one dramatic failure. It was a small, punctual, well-behaved leak, arriving daily at the same time, wearing the disguise of a normal schedule. Normal schedules are written by employers, schools, and habits. Nobody wrote yours with your gaining in mind. There is one more gap with a special address worth hunting: the gap that opens inside training itself, the long session that starts fed and ends in a deep hole, followed by a delayed meal because the shower, the commute, and the phone all vote first. Feed that gap's exit, a shake in the bag, and the day's most expensive hole closes.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "THE PUNCTUAL LEAK",
+     "lines": [
+      "Deficit hours resist repayment.",
+      "Unopened windows never build."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_grip_squeeze.webp",
+     "at": 12
+    },
+    {
+     "kind": "chip",
+     "text": "A PLATEAU'S BIOGRAPHY",
+     "pos": "br",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "NOBODY WROTE YOUR SCHEDULE",
+     "ok": true,
+     "pos": "tr",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pinch_hold.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science of closing gaps has a reassuring shape: the body does not demand the gap be closed perfectly, only consistently. Studies of eating patterns show intake follows availability with embarrassing fidelity, which means the intervention is embarrassingly simple: food, present, at the gap's address, at the gap's hour. There is a second finding worth your attention: pre-commitment beats in-the-moment choice by a wide margin in every eating study that tests it. The snack decided at breakfast happens. The snack decided at three in the afternoon, mid-meeting, does not. This is why the truth about gaps is ultimately a truth about mornings: the day is won or lost when the bag is packed, hours before the first gap opens its mouth. Notice also what the gap map does to blame. Men blame their metabolism for what their afternoons did. The map relocates the problem from the body's character to the day's architecture, and architecture, unlike character, can be renovated on a Saturday.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "AVAILABILITY IS DESTINY",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "WHAT CLOSES A GAP",
+     "items": [
+      [
+       "DECIDED AT 3 PM",
+       30,
+       "gold"
+      ],
+      [
+       "PACKED AT BREAKFAST",
+       88,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "WON AT BAG-PACKING TIME",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "CONSISTENCY OVER PERFECTION",
+     "pos": "br",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "Go deeper and you meet the gap's final disguise: busyness as virtue. The gap hours are usually your most productive hours, and there is a quiet pride in the man who works through lunch, trains through hunger, and treats food as an interruption. That pride is expensive. Your body keeps no separate ledger for noble deficits; an unfed afternoon costs the same whether it was spent in a boardroom or on a beach. The reframe that frees most gainers is to file the snack where it belongs: not as a break from the work, but as part of the day's real work, the part that builds the body the rest of the work depends on. Nobody's promotion was ever delayed by a handful of nuts. Plenty of physiques were.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "BUSYNESS AS VIRTUE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "NO NOBLE LEDGER",
+     "label": "THE BODY'S RULE",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "FILE IT AS WORK",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "EXPENSIVE PRIDE",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage against gaps is that your closures are tiny. Each gap in a skinny guy's day needs two to four hundred calories to close, a pocketful of food, while the big man's gaps demand meals his schedule genuinely cannot hold. Your gaps are therefore closable on your worst days, in your busiest weeks, in the seasons when life is loudest, and those are precisely the seasons when everyone else's gaining stops. There is a compounding elegance here too: close the same gap daily for a year and you have added the calorie equivalent of weeks of surplus, purchased in handfuls, at moments that cost you nothing. The plateau was never a wall. It was a sieve, and sieves are fixed by patching holes, not by pouring harder.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "TINY CLOSURES",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "300 KCAL",
+     "label": "PER GAP, DAILY",
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "PATCH, DON'T POUR HARDER",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "A SIEVE, NOT A WALL",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_relaxed.webp",
+   "exercise": "DEAD HANG",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Hang in the gap with me. Four rounds of dead hangs, forty seconds on, twenty off. Still body, straight arms, patient breathing. Grip grows in these quiet stretches, the same way gaining grows in the quiet stretches of a day: by showing up inside them.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The gap-closing protocol, four rules. One: map your gaps for three days and write down their addresses and hours, because the fix must be mailed to the right place. Two: assign each recurring gap one default food that lives at that address, the desk, the bag, the car, bought weekly with the groceries. Three: set the snack's time by the clock, not by hunger, because hunger in an old gap has been trained into silence and cannot be trusted as an alarm yet. Four: after two weeks, remap. Gaps migrate when patched, and the second map, showing one gap closed and a smaller one revealed, is the truest progress photo in this whole season.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "MAP THE ADDRESSES",
+     "ok": true,
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "mark",
+     "text": "FOOD LIVES AT THE GAP",
+     "ok": true,
+     "pos": "br",
+     "at": 10
+    },
+    {
+     "kind": "mark",
+     "text": "BY THE CLOCK, NOT HUNGER",
+     "ok": true,
+     "pos": "tr",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "WAITING TO FEEL HUNGRY",
+     "ok": false,
+     "pos": "br",
+     "at": 22
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. Three gaps or more with a modest hang: your day leaks at fixed addresses and your grip is downstream of the same story, so mapping and patching is this week's whole work. Zero or one gap but a short hang: your architecture is sound and the hands need direct intent, so train grip while the food system runs. Two gaps and a strong hang: you are performing well through a leaking day, which means your ceiling rises with every patch, a genuinely enviable position. No gaps and a strong hang: your day is fully beamed, protect the system and retest in thirty days. Comment your gap count and your hang seconds. The addresses of your gaps are the most actionable comment you can leave. Bring the map itself to the retest, not just the count. A map with one gap closed and its neighbors intact is worth more than a perfect score you cannot explain, because it shows the system learning, and systems that learn keep improving after the video ends.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 6
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN REMAP",
+     "pos": "br",
+     "at": 16
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT YOUR GAP COUNT",
+     "ok": true,
+     "pos": "tr",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, map the same day and hang the same bar. Bring me fewer holes and a longer hang. Subscribe, and let the patches hold daily until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "PATCHES HOLD DAILY",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

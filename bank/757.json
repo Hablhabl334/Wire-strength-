@@ -1,0 +1,393 @@
+{
+ "id": "757",
+ "v5": true,
+ "title": "Your Meal Timing Test Reveals Your Hidden Strength",
+ "description": "When you eat may matter less than what you eat, but for a skinny guy the gaps between meals are where the day is lost. Take the timing test, count your gaps, and see your real eating rhythm.",
+ "tags": [
+  "meal timing test",
+  "how often to eat to gain",
+  "meal gaps",
+  "eating schedule muscle",
+  "skinny guy meal timing",
+  "nutrient timing",
+  "bodyweight training"
+ ],
+ "hashtags": [
+  "meal timing",
+  "eating schedule",
+  "gaining",
+  "skinny to strong",
+  "calisthenics",
+  "meal gaps"
+ ],
+ "category": "gaining",
+ "badge": "EP 757 - MEAL TIMING: THE TEST",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE WINDOWS",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_wall_sit.webp",
+  "big": "5 HRS",
+  "hook": "THE GAP IS THE LEAK",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "music": "dark",
+   "section": "THE TEST",
+   "check": 0,
+   "narration": "Today we test your rhythm. | Recall yesterday, hour by hour. | When did you first eat? | When did you eat next? | Find the longest gap. | The longest stretch awake with | nothing eaten at all. | Count those empty hours. | That is your first number. | Second, the strength check. | Split squats, weaker leg. | Max clean reps, full depth. | Count every honest rep. | That is your second number. | Keep the pair together. | At the end I tell | you what your rhythm reveals. | Most gaining days do not | fail at the meals themselves. | They fail in the silence | between the meals. | Let us measure your silence.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "MEASURE THE SILENCE",
+     "pos": "tr",
+     "at": 3
+    },
+    {
+     "kind": "stat",
+     "text": "LONGEST GAP",
+     "label": "IN HOURS",
+     "pos": "br",
+     "at": 8
+    },
+    {
+     "kind": "chip",
+     "text": "DAYS FAIL BETWEEN MEALS",
+     "pos": "tr",
+     "at": 14
+    },
+    {
+     "kind": "mark",
+     "text": "KEEP THE PAIR",
+     "ok": true,
+     "pos": "br",
+     "at": 19
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "5 HRS",
+   "label": "THE LONGEST DAYTIME GAP A GAINER CAN AFFORD",
+   "sub": "under 4 hours: the rhythm feeds you - 7 plus: a daily fast in disguise",
+   "music": "calm",
+   "section": "THE NUMBER",
+   "check": 1,
+   "lead_pause": 1.2,
+   "narration": "Here is the line for your gap number. A gaining day can survive a five hour stretch between meals without much damage, because two solid feedings still bracket it. Past seven waking hours with no food, the day has quietly become a fast with meals at both ends, and fasts are a dieter's tool, not a builder's. The uncomfortable discovery for most skinny guys is not the size of the gap but its address: it sits in the working afternoon, defended by meetings, commutes, and the sentence I will eat when I get home. By the time home arrives, the deficit is so deep that one dinner, however large, cannot climb out of it. The gap is not a willpower failure. It is a scheduling hole, and holes can be patched.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "THE AFTERNOON HOLE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "5 HRS",
+     "label": "THE AFFORDABLE GAP",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "HOLES CAN BE PATCHED",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "A FAST IN DISGUISE",
+     "pos": "br",
+     "at": 26
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "music": "dark",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "narration": "Why do gaps matter at all, if the daily total is what counts? Because the building machinery does not run on daily totals. It runs on arrivals. Each protein feeding switches muscle building on for a few hours, and then the switch drifts off until the next arrival. A day with three arrivals gets three building windows. A day with one giant evening arrival gets one window and a long afternoon of drift, no matter how heroic the total looks on paper. Calories obey the daily ledger. Building obeys the clock as well. This is the whole mechanism, and it explains the skinny guy who swears he eats plenty: he does, in one flood, inside one window, while the other windows stand empty and the machinery idles. There is a morning version of the same hole worth naming: the man who wakes at seven and first eats at noon has fasted through the entire first building window of the day. His gap is not in the afternoon at all. It is the whole morning, and it is usually defended by the sentence I am just not hungry yet, which the deep dive will deal with shortly.",
+   "beats": [
+    {
+     "kind": "fact",
+     "title": "ARRIVALS, NOT TOTALS",
+     "lines": [
+      "Each feeding opens a window.",
+      "Empty windows idle the machinery."
+     ],
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "swap",
+     "asset": "ren_balance_test.webp",
+     "at": 11
+    },
+    {
+     "kind": "chip",
+     "text": "BUILDING OBEYS THE CLOCK",
+     "pos": "br",
+     "at": 18
+    },
+    {
+     "kind": "mark",
+     "text": "THREE WINDOWS BEAT ONE",
+     "ok": true,
+     "pos": "tr",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "music": "calm",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "narration": "The science here needs honesty in both directions, so here it is. Meal timing is a second-order lever: total protein and total calories matter more, and any coach who sells timing as magic is selling. But second-order is not zero-order. Studies of protein distribution show the spread pattern building modestly more muscle than the stacked pattern at equal totals, and the gap structure is exactly what decides which pattern your day follows. There is also the training window to place sensibly: a real meal within a couple of hours after hard training is a reasonable, low-cost habit, not because the window slams shut in thirty minutes, that part is folklore, but because the post-training meal is the one tired men skip. Timing advice, done honestly, is mostly the art of protecting meals from being skipped. One more honest ranking: a gap closed with any real food beats a gap left open while you search for the perfect food. The window does not grade your sourcing. It grades arrivals, and an ordinary sandwich at two o'clock outperforms the ideal meal that was still being planned at five.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "SECOND-ORDER, NOT ZERO",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "bars",
+     "title": "EQUAL TOTALS, TWO RHYTHMS",
+     "items": [
+      [
+       "ONE FLOOD WINDOW",
+       52,
+       "gold"
+      ],
+      [
+       "THREE WINDOWS",
+       76,
+       "cyan"
+      ]
+     ],
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "PROTECT MEALS FROM SKIPPING",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "chip",
+     "text": "FOLKLORE REMOVED",
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "music": "calm",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "narration": "Go deeper and the gap reveals its accomplice: hunger itself is scheduled by habit. Your body learns when food usually arrives and raises appetite shortly before those times. A man who never eats at two in the afternoon feels no hunger at two, not because he needs nothing, but because his body stopped asking. This is why the first week of closing a gap feels like force-feeding and the third week feels natural: you are not fighting your appetite, you are retraining its timetable. The practical trick is to make the new feeding small and fixed at first, a shake or a yogurt at the same time daily, and let the timetable learn. Within weeks the gap starts announcing itself with real hunger, and the patch becomes self-maintaining.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "HUNGER KEEPS A TIMETABLE",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "3 WEEKS",
+     "label": "TO RETRAIN IT",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "SMALL AND FIXED FIRST",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "SELF-MAINTAINING LATER",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "music": "calm",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "narration": "Your advantage in the timing game is that your windows are cheap to fill. A big man closing an afternoon gap needs a second lunch. You need three hundred calories that fit in a bag: a shake, a sandwich, a handful of nuts and a banana. Your smaller surplus is a genuine structural edge, because it means your patches can be small, portable, and repeatable on your worst days, not just your organized ones. There is a second edge: bodyweight training travels, and a man who trains anywhere can also eat anywhere on schedule. The rhythm that builds skinny guys is not a chef's rhythm. It is a commuter's rhythm, built from foods that survive a backpack.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "CHEAP WINDOWS TO FILL",
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "stat",
+     "text": "300 KCAL",
+     "label": "FITS IN A BAG",
+     "pos": "br",
+     "at": 11
+    },
+    {
+     "kind": "mark",
+     "text": "A COMMUTER'S RHYTHM",
+     "ok": true,
+     "pos": "tr",
+     "at": 18
+    },
+    {
+     "kind": "chip",
+     "text": "BACKPACK-PROOF FOOD",
+     "pos": "br",
+     "at": 26
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "asset": "ren_split_squat_top.webp",
+   "exercise": "SPLIT SQUATS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "music": "drive",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "narration": "Train the weak side while the rhythm lesson settles. Four rounds of split squats, weaker leg, forty seconds on, twenty off. Full depth, tall chest, honest reps. The gap in your legs closes the same way as the gap in your day: scheduled, repeated, small.",
+   "beats": []
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "music": "calm",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "narration": "The protocol for your rhythm, four rules for the next seven days. One: find your longest gap from today's test and put one fixed feeding inside it, same time daily, small enough to never be skipped. Two: defend the post-training meal by deciding it before the session starts, so tiredness never gets a vote. Three: anchor the day with breakfast and a final evening meal, because a day with fixed ends rarely collapses in the middle. Four: write the day's feeding times down each night, thirty seconds of honesty, because you cannot patch a gap you refuse to look at. Seven days of this and retest the same yesterday-recall. The longest gap should already be shrinking, and shrinking gaps are the sound of a gaining rhythm being built.",
+   "beats": [
+    {
+     "kind": "mark",
+     "text": "ONE FIXED FEEDING",
+     "ok": true,
+     "pos": "tr",
+     "at": 4
+    },
+    {
+     "kind": "mark",
+     "text": "DECIDE BEFORE TRAINING",
+     "ok": true,
+     "pos": "br",
+     "at": 12
+    },
+    {
+     "kind": "mark",
+     "text": "ANCHOR BOTH ENDS",
+     "ok": true,
+     "pos": "tr",
+     "at": 19
+    },
+    {
+     "kind": "mark",
+     "text": "EATING WHEN HOME",
+     "ok": false,
+     "pos": "br",
+     "at": 27
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "music": "calm",
+   "section": "THE VERDICT",
+   "check": 3,
+   "narration": "Your verdict, the pair read together. A gap of seven hours or more with modest split squats: your rhythm is the leak and your legs are downstream of it, so the patch outranks any new exercise this week. A tight rhythm but low reps: the windows are fed and the engine needs the work, so look at training intent, not the clock. A long gap with strong legs: you are performing well despite a daily fast, which means your ceiling rises the moment the afternoon gets fed. Tight rhythm, strong legs: your day is already built like a gainer's day, protect it and retest in thirty days. Comment your longest gap and your split squat number. The gap is the statistic that explains all the others. And do not let a bad gap number shame you. The gap is the most common leak in this entire season, found in students, workers, and fathers alike, because modern days are built to produce it. You are not behind. You are unpatched, which is a much better thing to be.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "READ THE PAIR",
+     "pos": "tr",
+     "at": 5
+    },
+    {
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN RETEST",
+     "pos": "br",
+     "at": 15
+    },
+    {
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr",
+     "at": 25
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "music": "calm",
+   "section": "THE OUTRO",
+   "check": 3,
+   "narration": "Thirty days from now, recall the same day and test the same leg. Bring me a shorter silence and a bigger number. Subscribe, and let the windows open on time until then. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr",
+     "at": 1
+    },
+    {
+     "kind": "mark",
+     "text": "WINDOWS ON TIME",
+     "ok": true,
+     "pos": "br",
+     "at": 4
+    },
+    {
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr",
+     "at": 7
+    }
+   ],
+   "lead_pause": 1.2
+  }
+ ]
+}

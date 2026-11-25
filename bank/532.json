@@ -1,0 +1,396 @@
+{
+ "badge": "EP 532 - THE NORDIC TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "Kneel down, anchor your heels, and lower your whole body toward the floor using nothing but your hamstrings as the brake. The seconds of that lowering reveal eccentric tendon strength that protects knees and builds sprint power. Take the Nordic test and read your number.",
+ "hashtags": [
+  "nordic curl",
+  "hamstring tendons",
+  "calisthenics",
+  "eccentric strength",
+  "knee health"
+ ],
+ "id": "532",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HEELS ANCHORED DOWN"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "ONE STRAIGHT LINE",
+     "pos": "br",
+     "text": "LEAN FORWARD"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HAMSTRINGS ARE THE BRAKE"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SLOWEST FALL WINS"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Kneel on something soft. | Anchor your heels down. | A couch works. | A partner works better. | Body straight, tall kneeling. | Hips locked open. | Now lean forward slowly. | Whole body, one line. | Lower toward the floor. | Hamstrings are the brake. | Start your clock. | Fight the fall. | Every inch, resist. | The clock stops when | you catch yourself | with your hands | or your hips fold. | That lowering time | is your number. | Keep it somewhere safe. | At the end I | tell you what it means. | Push back up | with your hands. | One honest attempt. | The slowest fall | wins this test.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "5 SEC = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "FULL NORDIC IS NEAR",
+     "pos": "br",
+     "text": "8+ SEC"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FORCE WHILE LENGTHENING"
+    }
+   ],
+   "big": "5 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF LOWERING IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Five seconds to lower from tall kneeling to the floor, body in one line, hips open, hamstrings braking the whole way, is trained eccentric strength. Under two seconds, the brake is not weak so much as uninstalled: most men have never once asked their hamstrings to work while lengthening. Over eight seconds, you are within touching distance of the full Nordic curl, one of the most respected strength feats in sport science. Understand what the clock grades. It is not flexibility, and it is not quad strength. It grades the hamstring tendons and muscle fibers doing the hardest job in athletics: producing force while being stretched. That exact quality is what keeps knees safe in sprints and cuts, and it is trainable at any age, starting from exactly the number you got today.",
+   "section": "THE NUMBER",
+   "sub": "under 2: the brake is missing - over 8: full nordic is near",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Hamstrings guard the ACL.",
+      "Braking is their real job."
+     ],
+     "pos": "tr",
+     "title": "THE BODYGUARD RULE"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BRAKE CABLES OF THE LEG"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FORCE WHILE STRETCHING"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "AWAKE OR ASLEEP ON DUTY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Anatomy time, because the Nordic is a tendon story wearing a muscle costume. Your hamstrings cross the back of your knee and attach below it, and they are built from long fascicles and serious tendon, designed to act as the brake cables of the leg. When you lean forward from kneeling, your body becomes a falling lever and those cables are the only thing between you and the floor. They pay out length under enormous tension, millimeter by millimeter, and that paying-out is eccentric contraction. Here is the part that matters for your knees: the hamstrings are the ACL's bodyguard. They pull the shin backward against the forces that strain the ligament, and they do it reflexively, in milliseconds, every time you land or cut. A hamstring that can brake your whole body for five seconds is a bodyguard that shows up. One that folds in one second is a bodyguard asleep on duty.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STUDIED LIKE FEW OTHERS"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "TOP HALF",
+       20,
+       "cyan"
+      ],
+      [
+       "PAST 45 DEGREES",
+       80,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE THE LOWERING IS DECIDED"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CAMP AT THE EXPENSIVE ANGLES"
+    },
+    {
+     "asset": "ren_squat_bottom.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The Nordic is one of the most studied exercises in sports science, and the findings are why it anchors this episode. Programs built on Nordic lowerings have repeatedly cut hamstring injury rates in team sport athletes, in some studies by half. The mechanism is architectural: eccentric training adds length to the muscle's fascicles, giving the brake more cable to pay out before it reaches its limit, and longer fascicles are both stronger brakes and harder to tear. The lowering also exposes the truth about the two halves of the descent. The top half is cheap; gravity's lever is short. Past forty-five degrees the price explodes, and almost everyone's number is decided in that expensive neighborhood. Smart training camps there: partial lowerings to a stack of cushions, raised week by week, so the brake gets trained at the exact angles where it currently quits. There is one more variable worth measuring while you train: the height where your brake quits. Mark it honestly, with cushions or a stack of books, because that height is your true working weight in this exercise, more honest than any percentage chart. When the quitting height drops toward the floor month by month, your fascicles are literally lengthening under you. Few adaptations in the body can be watched with the naked eye. This is one of them, and watching it is half the motivation the protocol runs on.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FLEXIBILITY IS NOT STRENGTH"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "2 SEPARATE BOOKS",
+     "pos": "br",
+     "text": "2 QUALITIES"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN THE BRAKE, NOT THE BLAME"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "A word about the forward fold, because tight hamstrings love to confuse this test. The fold measures how far your pelvis and spine let the hamstrings lengthen passively, which is flexibility. The Nordic measures how much force they produce while lengthening, which is strength. They are cousins, not twins, and plenty of flexible men faceplant the Nordic while plenty of stiff men lower like elevators. If your fold is short, do not blame it for your number. Train the brake with lowerings and the fold separately with gentle folds, and let each quality keep its own books. Confusing them is how men stretch for a year to fix a strength problem.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEAPER RECOVERY, MORE SESSIONS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "WHILE THEY RECOVER",
+     "pos": "br",
+     "text": "2X A WEEK"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NO MOMENTUM, NO LYING"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A NUMBER WE TRUST"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The skinny advantage in the Nordic is, for once, not about the lowering. Everyone's hamstrings meet the same falling lever, scaled to their own mass. Your advantage is in the training economics. Eccentric work is famously expensive: it creates deep soreness that can ration a heavy athlete's practice for days. A lighter body lowers a smaller absolute load, so your brake sessions cost less recovery, and you can train the lowering twice a week while heavier men are still walking downstairs backwards from Monday. Frequency wins again. The other advantage is honesty: there is no momentum in a slow lowering and no partner to impress. The Nordic is just you, gravity, and a clock, which is why its number is one of the most trusted in this entire season.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "check": 3,
+   "exercise": "NORDIC LOWERINGS",
+   "music": "drive",
+   "narration": "Now we lower together. Three rounds of slow lowerings: use your hands to push back up, fight every inch down, and rest between rounds. If the full lowering is too much today, lower to cushions and own that height.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "2 SESSIONS, 3 DAYS APART"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "FOLDED = UNLOADED"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMOVE ONE CUSHION AT A TIME"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PATIENCE IS THE PROTOCOL"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "OWN YOUR HEIGHT"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Two Nordic sessions, at least three days apart at first, because eccentric soreness is real and it is the tax this exercise charges everyone. Each session: three sets of three to five lowerings, exactly like our block, with a cushion stack set at the height where your brake currently quits. Every week or two, remove one cushion. Mistake one: folding at the hips to survive. A folded lowering unloads the hamstrings and loads your excuses; keep the line and shorten the trip instead. Mistake two: dropping the last part. The expensive angles are the training; catch yourself only when the brake truly ends, not when it gets uncomfortable. Mistake three: daily Nordics. This tissue rebuilds slowly and soreness lies about readiness. Twice a week, done honestly, built every strong brake in the research. Patience is not the soft option here. It is the protocol.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNINSTALLED, NOT BROKEN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SLOWEST FALL WINS"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under two seconds: the brake is uninstalled, and you are standing at the start of the best-documented strength upgrade in this season. Two to five: the brake exists and is learning its expensive angles; cushions and twice-weekly honesty will move you fast. Over five clean seconds: your hamstring tendons are certified, and your knees own a bodyguard that shows up. Over eight: start raising the standard; the full Nordic curl, down and up, is a realistic season goal. Put your seconds in the comments, just the number, and retest in thirty days with the same anchor and the same tall kneeling start. The slowest fall wins, and next month we compare falls.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A LONGER LOWERING"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same anchor, same kneeling start, one slow fall. Bring me a longer lowering and we raise the standard together. Subscribe, and keep that number safe. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "nordic curl",
+  "nordic lowering",
+  "hamstring tendons",
+  "eccentric strength",
+  "nordic curl test",
+  "knee protection",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "5 SEC",
+  "hook": "NORDIC CURL"
+ },
+ "title": "Your Nordic Lowering Test Reveals Your Hidden Strength",
+ "v5": true
+}

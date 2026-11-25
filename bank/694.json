@@ -1,0 +1,387 @@
+{
+ "badge": "EP 694 - THE MEAL MAP",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE DISTRIBUTION",
+  "YOUR VERDICT"
+ ],
+ "description": "Map yesterday's meals, find the longest protein gap in your waking day, and install the distribution protocol: thirty-gram anchors, three-to-four-hour spacing, and the pre-sleep shift that feeds the night.",
+ "hashtags": [
+  "meal map",
+  "protein protocol",
+  "distribution",
+  "pre-sleep protein",
+  "thirty grams"
+ ],
+ "id": "694",
+ "scenes": [
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "AN ORDINARY DAY, MAPPED"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FIND THE LONGEST GAP"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR NUMBER",
+     "pos": "tr",
+     "text": "GAP HOURS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE MAP OVER THE TOTAL"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test draws a map instead of running a race. Take yesterday, an ordinary day, not a performance, and write down every meal and snack with its rough protein content: eggs about six grams each, a palm of meat or fish around thirty, a cup of milk about eight, a Greek yogurt pot fifteen or more. Now look at the timeline rather than the total, and find the longest waking stretch in which no real protein arrived: from the last bite of one protein meal to the first bite of the next. Those hours, measured honestly, are your number: the protein gap. For most skinny guys the map shows the same geography: a protein desert from a token breakfast to a late lunch, or from lunch clear through to a heroic dinner, six, seven, eight hours in which the construction system received no deliveries at all. Keep the map, and keep the gap circled. By the end of this video the gap gets a protocol: anchor meals, a spacing rule, and one quiet addition after dark that feeds the shift nobody staffs. First, the size of a single delivery, because the map is measured in meals, and a meal has a threshold.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A PALM AND A HALF"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE FULL DELIVERY",
+     "pos": "br",
+     "text": "30 G"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NEITHER FLOOR NOR CEILING"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "GEOGRAPHY IS THE REST"
+    }
+   ],
+   "big": "30 G",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE PER-MEAL SWITCH FLIP FOR A MAN YOUR SIZE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the delivery size the distribution research keeps pointing to. Studies of how protein should be spread across the day commonly land near four-tenths of a gram per kilogram per meal as the portion that maximises the synthesis response in one sitting, which for a man of sixty to seventy kilos is roughly twenty-five to thirty grams: call it thirty, a number a palm and a half of protein food delivers without a scale or an app. Below twenty grams, the leucine trigger from the threshold episode is often only half-pulled, and the meal registers as a snack in the muscle's accounting whatever the eater intended. Above forty, the extra is not wasted, it is simply not extra synthesis; the refractory system banks nothing. Thirty is therefore not a minimum to fear or a ceiling to worship. It is the size of a full delivery, three or four of which, spaced across the day, constitute the entire distribution protocol.",
+   "section": "THE NUMBER",
+   "sub": "under 20 g: a knock, not a delivery - 30-40 g: the shift clocks in fully",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Refractory: about three hours.",
+      "The night is the longest gap."
+     ],
+     "pos": "tr",
+     "title": "THE MUSCLE'S WORKING DAY"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DELIVERIES EVERY 3-4 HOURS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STAFF THE NIGHT SHIFT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The map makes sense once the muscle's working day is visible. After a threshold meal, synthesis rises, peaks, and then the muscle enters its refractory stretch, the muscle-full state from the threshold episode, during which more amino acids cannot immediately restart the machinery. That refractory window runs roughly three hours, which writes the spacing rule directly into the physiology: deliveries every three to four waking hours keep the system cycling between building and readiness with minimal idle time. Stretch the gap to seven hours and the day's arithmetic turns bleak: one shift in the morning, a long afternoon of net balance or worse, and a single evening shift asked to cover a whole day's construction. Then comes the night, the longest gap of all, eight hours in which the body still repairs and still breaks down protein, traditionally unfed from dinner onward. The protocol's final move addresses exactly that stretch: a modest protein feeding shortly before sleep, which studies find raises overnight synthesis rates, staffing the night shift for the first time in most men's lives.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SIMPLE AND KIND, RARELY BOTH"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "PRE-SLEEP PROTEIN",
+       80,
+       "cyan"
+      ],
+      [
+       "UNFED NIGHT",
+       55,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "OVERNIGHT SYNTHESIS"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "OF A GOOD MAP",
+     "pos": "tr",
+     "text": "THE FINAL SQUARE"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ONE YOGURT, ONE SHIFT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The pre-sleep research deserves its own moment, because it is the rare nutrition finding that is both simple and kind. In studies where subjects took a protein feeding before sleep, overnight muscle protein synthesis ran measurably higher than in the unfed comparison, and longer trials in young men found the habit supported greater strength and size gains across a training programme when total intake was matched. The bars below sketch the overnight direction: fed versus unfed, same day, same training, different night. Read the finding with the season's usual care. It does not resurrect the myth of catabolic nights melting your muscles; the unfed body is not dissolving, it is simply building less than it could. And it does not outrank the total: a man short on daily protein gains more from fixing a meal than from decorating his night. But as the final square of a good map, a sufficient total, threshold meals, honest spacing, the pre-sleep feeding is the cheapest upgrade left, one yogurt between you and a staffed night shift.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MAPS BECOME MEALS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "BREAKFAST TO BEDTIME",
+     "pos": "br",
+     "text": "4 DELIVERIES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE TOTAL FIXES ITSELF"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ORDINARY FOOD, ORDINARY DAYS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Build the protocol day in full, because the deep dive is where maps become meals. Breakfast is the anchor, eaten within an hour or two of waking: thirty grams built from foods that require no cooking ambition, eggs and yogurt, or oats fortified with milk and a scoop of something honest; this single meal closes the classic skinny desert before it opens. Lunch repeats the anchor at the same size, whatever the canteen offers, judged by the palm rule rather than the menu's promises. Dinner is the day's largest delivery, forty grams is a comfortable target, eaten early enough that the pre-sleep shift remains a shift and not a second dinner. The pre-sleep feeding lands thirty to sixty minutes before bed: Greek yogurt, cottage cheese, or a glass of milk with intent, twenty to thirty grams, slow foods for a long night. Totals land where the protein episode wanted them, around one point six grams per kilo for most, achieved here as a side effect of geography rather than by counting.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pinch_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A SMALL COUNTRY, WELL GOVERNED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE WHOLE PROTOCOL",
+     "pos": "br",
+     "text": "3 MEALS + A SNACK"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "IDENTICAL COVERAGE, SMALLER BILL"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EVERY ROAD IS FED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The map of a light man is a small country, and small countries are easy to govern. Your four deliveries are modest plates; your gaps close with a yogurt, not a second lunch; your pre-sleep shift is a glass of milk where a heavy man needs a constructed meal. The whole distribution protocol, which reads like a project in a textbook, executes at your size as three ordinary meals and a snack, which is why it survives contact with real weeks while grander nutrition schemes collapse by Thursday. There is a financial footnote worth stating: protein is the expensive macronutrient, and the per-kilo arithmetic of this entire season means your full protocol costs meaningfully less per month than the same protocol at a hundred kilos, while buying the identical physiological coverage. Cheaper, smaller, simpler, and complete: the distribution protocol is the season's clearest case of the light frame's operating advantage. The big man's map has more roads and more traffic. Yours fits on an index card, and every road on it is fed.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pinch_hold.webp",
+   "check": 3,
+   "exercise": "PINCH HOLD",
+   "music": "drive",
+   "narration": "Grip work while the kitchen does its shift. Three pinch holds, thirty seconds, thumbs and fingers earning their keep. Hold hard, breathe slow. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ANCHOR BREAKFAST"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "NO GAP OVER FOUR HOURS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ONE GIANT EVENING DELIVERY"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE MUSCLE READS ARRIVALS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The distribution protocol, as rules. Rule one: anchor breakfast within two hours of waking, thirty grams, non-negotiable on training days and merely expected on the others. Rule two: no waking gap longer than four hours without a threshold delivery; carry the emergency yogurt the way you carry your keys. Rule three: the palm rule judges every plate, a palm and a half of protein food, no scales after the first calibrating week. Rule four: the pre-sleep shift, twenty to thirty grams inside the last hour before bed, slow food preferred. Rule five: audit the map one ordinary day a week, gap circled, and fix the geography before touching the total, because in this system geography is almost always the fault. Five rules, and protein stops being a number you chase at midnight and becomes a route your day travels by default. The muscle does not read your intentions or your apps. It reads arrivals. Make the arrivals boring, regular, and sufficient, and the construction runs itself.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A ROUTE MEASUREMENT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "DRAW ANOTHER ORDINARY DAY",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR GAP HOURS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your meal map verdict, read off the circled gap. Over six waking hours without protein: a missing shift, and the fix is geographical, one anchored meal placed in the desert, the cheapest upgrade in this episode. Four to six hours: a building map with one long road in it; tighten the spacing and the day closes up. Around three to four hours, with a staffed night: the wired distribution, the map this protocol draws, and your protein system graduates from project to background. Whatever your gap, remember what it is: not a character grade, a route measurement, taken on one ordinary day. Put your gap hours in the comments, just the number, honestly mapped. In thirty days, draw another ordinary day and compare the geography. You came in counting grams like a cashier. You leave reading maps like a logistician, and the muscle, which only ever read arrivals, will notice the difference before the mirror does.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same map, ordinary day. Bring me a shorter gap and a staffed night. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "protein protocol",
+  "protein distribution",
+  "meal map",
+  "pre sleep protein",
+  "protein timing",
+  "muscle protein synthesis",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_farmer_carry.webp",
+  "big": "30 G",
+  "hook": "THE MEAL MAP"
+ },
+ "title": "Stop Doing protein science Wrong: Train Your muscle protein synthesis Instead",
+ "v5": true
+}

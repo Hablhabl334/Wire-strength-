@@ -1,0 +1,401 @@
+{
+ "badge": "EP 722 - HUNGER IS A CLOCK",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CLOCK",
+  "YOUR VERDICT"
+ ],
+ "description": "Minutes from waking to your first true hunger: this appetite test reads your ghrelin clock directly. Here is the truth about hunger hormones, why the first wave arrives when it does, and the fourteen-day reset that moves your mornings.",
+ "hashtags": [
+  "appetite test",
+  "ghrelin",
+  "hunger clock",
+  "calisthenics",
+  "gaining"
+ ],
+ "id": "722",
+ "scenes": [
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WAKE TIME, NOTED"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WATER YES, FOOD NO"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "TO THE FIRST TRUE WAVE",
+     "pos": "tr",
+     "text": "MINUTES"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WRITE DINNER'S TIME BESIDE IT"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test starts the moment you wake. Note the time your eyes open, then do not eat. Live your morning normally, water is fine, and wait for the first true hunger wave: not a thought about food, not a craving for something specific, but the physical signal, the stomach's knock, the slight hollowness that makes breakfast sound like an idea whose time has come. The minutes from waking to that wave are today's number. Write them down, and beside them write what time you ate dinner last night. Most men assume the morning wave reports an empty fuel tank, a gauge reading zero after the overnight fast. The truth this episode is named for is stranger and far more useful: the wave is a clock, set by your habits, and clocks can be reset by anyone willing to keep new hours for two weeks.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EXPECTATION, NOT FUEL"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "HOW EMPTY YOU ACTUALLY WAKE",
+     "pos": "br",
+     "text": "0"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NOBODY WAKES EMPTY"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RENEGOTIATED IN A FORTNIGHT"
+    }
+   ],
+   "big": "90 MIN",
+   "card": "bignum",
+   "check": 1,
+   "label": "A COMMON FIRST WAVE FOR A MAN WHO EATS LATE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the reading frame. A first wave under forty-five minutes usually belongs to a man whose body expects breakfast early and has set its clock accordingly, often because dinner was early too: the system runs a tight, honest schedule. Forty-five minutes to two hours is the broad habitual band, where the wave's timing mostly mirrors last night's dinner hour and years of morning routine. Over two hours, and especially a morning with no wave at all, tells you breakfast is currently a stranger to your system: the clock was never set, because the meal was never kept. None of these numbers measures your fuel. After an overnight fast your liver holds hours of stored energy and your muscles hold more; nobody wakes empty. The wave measures expectation. And expectation, unlike anatomy, can be renegotiated in a fortnight.",
+   "section": "THE NUMBER",
+   "sub": "under 45 min: an early, trained clock - 45 to 120: the habitual band - over 2 hrs: breakfast is a stranger",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Ghrelin arrives before habitual meals.",
+      "The rhythm outvotes the reserves."
+     ],
+     "pos": "tr",
+     "title": "THE ANTICIPATORY KNOCK"
+    },
+    {
+     "asset": "ren_balance_test.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A TIMETABLE WITH A HORMONE ACCENT"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WHO SETS THE TABLE SETS THE APPETITE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LOW LEPTIN, QUIET MORNINGS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The clock's machinery is ghrelin, and its habits are more mechanical than mystical. Ghrelin is secreted in pulses that learn: feed a body at seven every morning and within days the pulse begins arriving before seven, an anticipatory knock, the stomach preparing its acids and its owner for a meal it has been taught to expect. Feed it at noon instead and the morning pulse quietly retires. Layered under the rhythm is leptin, the long-term reporter, which scales with fat mass and tells the brain the size of the reserves; the skinny man's leptin runs low, which should, in theory, make him hungrier, and the fact that it often does not is the episode in miniature: the daily rhythm outvotes the long-term report. Hunger, in practice, is mostly a timetable with a hormone accent. Whoever sets the timetable sets the appetite.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HUNGER MIGRATES TO THE SCHEDULE"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "HABIT AND SCHEDULE",
+       80,
+       "cyan"
+      ],
+      [
+       "ACTUAL FUEL LEFT",
+       25,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT SETS THE WAVE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "FOR PULSES TO MIGRATE",
+     "pos": "tr",
+     "text": "DAYS"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SCHEDULE IT UNTIL IT KNOCKS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The experimental record backs the clock model from several directions. In controlled studies, hunger ratings and ghrelin pulses migrate toward new meal schedules within days, and people kept on fixed routines report hunger that peaks at their habitual times even when the previous meal's size is secretly changed. Shift workers provide the natural experiment: their hunger follows their shifted schedule, not the sun. And the morning itself has a wrinkle worth knowing: for many people, hunger is naturally at its daily low in the first hour after waking, a rhythm older than any habit, which is why the man who waits to feel hungry before breakfast often waits past the useful window entirely. The practical conclusion is liberating: you do not fix a quiet morning appetite by waiting for it. You fix it by scheduling breakfast until the clock learns to knock, which is a training problem wearing a lab coat.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FURNACE STORY, RETIRED"
+    },
+    {
+     "asset": "ren_horse_stance.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Intake and its schedule.",
+      "Not a mythical metabolic fire."
+     ],
+     "pos": "br",
+     "title": "WHAT ACTUALLY DIFFERS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EVERYTHING ABOUT IT ADJUSTS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One more layer of the truth, because it protects you from a popular misdiagnosis. Skinny men are often told their problem is a fast metabolism, a furnace burning everything they eat. Measured carefully, resting metabolism per kilo of lean mass is broadly similar across men; what differs dramatically is intake, and what differs underneath intake is the signaling schedule this episode is about, plus movement habits that quietly spend the surplus. The furnace story is comforting because it is unfixable, and it is mostly wrong, which is the best news in this season: a clock can be reset, a schedule can be trained, and a stomach can be progressively loaded, while a mythical furnace could only be cursed. Your morning minutes today are the first honest measurement of the actual machine. Everything about it is adjustable, and the adjustments are the protocol coming up.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A TIMETABLE NEVER SET"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "TO WATCH THE CLOCK MOVE",
+     "pos": "br",
+     "text": "14 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE CHEAPEST DISCIPLINE IN SPORT"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE WAVE MAY CLOSE THE GAP"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantages in clock-resetting are the familiar ones, sharpened. Your surplus target is small, a few hundred calories, so the schedule you must build is modest: one reliable breakfast wave and one anchor feeding may close the entire gap between you and gaining. Your training lives beside your kitchen, so breakfast can follow morning movement, the most reliable natural appetite cue, without a commute eating the window. And your measurement is exact: minutes to the first wave, taken cold on a normal morning, comparable across months, sensitive enough to show the clock moving within the first fortnight. The big man's appetite problem is a negotiation with powerful satiety signals from a large body. Yours is a timetable that was never set. Timetables are set by keeping them, and keeping them is the cheapest discipline in this entire sport.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "check": 3,
+   "exercise": "PULL-UPS",
+   "music": "drive",
+   "narration": "Now we set today's knock in motion: work. Four rounds of pull-ups, twenty seconds on, forty seconds rest, clean reps only. Nothing schedules lunch like honest effort. Eat a real meal within the hour.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BREAKFAST BY THE CLOCK, 14 DAYS"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LIQUID COUNTS WHILE LEARNING"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DINNER SETS TOMORROW'S WAVE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "RETEST ON DAY FIFTEEN"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The fourteen-day clock reset, four rules. One: choose a breakfast time and keep it for fourteen days whether the wave has arrived or not, because the knock is trained by the meal, never the reverse. Two: make the first days easy to win: a liquid or soft breakfast counts fully while the clock is learning, and size can grow once the appointment is kept. Three: set dinner's time too, since tonight's dinner hour is tomorrow morning's wave, and the two ends of the clock hold each other in place. Four: retest the waking minutes on day fifteen, same rules, and log them beside the dinner time; expect the wave earlier, clearer, and increasingly punctual. You are not waiting to become a breakfast person. You are scheduling yourself into one, fourteen kept appointments at a time.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_horse_stance.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "APPOINTMENTS, NOT ORDERS"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN LISTEN FOR THE KNOCK AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR WAKING MINUTES"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HABITS CAN MAKE NEW ONES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. A wave under forty-five minutes: a trained clock and a morning that works for you; your gaining problem lives later in the day, and this season's other episodes will hunt it there. Forty-five minutes to two hours: the habitual band, a clock set by accident over years, fully capable of being set on purpose over weeks. No wave at all: breakfast is a stranger, which is not a character flaw but an unscheduled hormone, and the fourteen-day reset is written precisely for you. In every band, the truth about hunger hormones stands: they are not orders from your anatomy. They are appointments your habits made, and habits can make new ones. Put your waking minutes in the comments, just the number. In thirty days, we listen for the knock again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BREAKFAST ARRIVES ON TIME"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, eyes open, clock noted, no food until the wave knocks. Bring me fewer minutes and a breakfast that arrives on time. Subscribe, and keep today's number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "appetite test",
+  "hunger hormones",
+  "ghrelin clock",
+  "morning hunger",
+  "leptin",
+  "skinny guy gaining"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_horse_stance.webp",
+  "big": "90 MIN",
+  "hook": "HUNGER IS A HORMONE"
+ },
+ "title": "Your Appetite Test Reveals the Truth About Your hunger hormones",
+ "v5": true
+}

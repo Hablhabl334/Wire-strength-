@@ -1,0 +1,398 @@
+{
+ "badge": "EP 549 - KNEE DRIVE MISTAKES",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Your knee drive is the metronome of your sprint, and it is run by nerves most men have never trained. Five mistakes are slowing that metronome and billing your hip flexor nerves for the damage. Take the drive test, find your mistakes, and speed the signal up.",
+ "hashtags": [
+  "knee drive",
+  "hip flexor nerves",
+  "calisthenics",
+  "sprint mechanics",
+  "speed test"
+ ],
+ "id": "549",
+ "scenes": [
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THIGH TO PARALLEL"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "COUNT THE CLEAN DRIVES",
+     "pos": "br",
+     "text": "10 SEC"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STANDING LEG STAYS TALL"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LOWER LEG IS YOUR NUMBER"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SPRINT'S METRONOME"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand tall beside a wall or post you can touch for balance, feet under your hips, chest up. Now drive one knee up toward your chest as fast as you can and snap it back down, like a sprinter's step frozen and repeated on the spot: thigh to parallel or above, foot dorsiflexed, landing on the ball of the foot, tall through the standing leg. Start your clock and count your clean drives on one leg in ten seconds. A drive stops being clean when the thigh stops reaching parallel, the standing leg bends into a squat, or your torso starts rocking to help. Test both legs and keep the lower count; that is your number. Keep it somewhere safe. At the end I will tell you what it reveals about the nerves that fire your hip flexors, and we will name the five mistakes that are slowing the fastest joint in your sprint.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "12 CLEAN = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SPRINTER FREQUENCY",
+     "pos": "br",
+     "text": "16+ DRIVES"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SPEED IS A CYCLING PROBLEM"
+    }
+   ],
+   "big": "12 DRIVES",
+   "card": "bignum",
+   "check": 1,
+   "label": "IN 10 SECONDS IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twelve clean knee drives in ten seconds on one leg, thigh to parallel every time, torso quiet, is trained hip flexor nerve speed. Under eight, the brake is rarely strength; it is one of the five mistakes ahead putting a hand on your metronome. Over sixteen, your hip flexors fire at sprinter frequency, a quality almost no gym training even attempts to build. Here is why this little count matters so much. Sprinting speed is, at bottom, a cycling problem: your legs can only go as fast as they can be repositioned, and repositioning is the hip flexors' job, pulling the thigh through its swing at frequencies strength alone cannot explain. The signal that drives them, how fast it switches on, how cleanly it switches off so the extensors can fire, is a trainable piece of wiring. Your count is that wiring, timed. The mistakes are what is fraying it.",
+   "section": "THE NUMBER",
+   "sub": "under 8: a mistake is braking you - over 16: sprinter-grade hip nerves",
+   "type": "card"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Flexors on, flexors off, extensors on.",
+      "Slow silencing is a hidden brake."
+     ],
+     "pos": "tr",
+     "title": "THE FASTEST HANDOVER"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A BRAKE, DOZENS OF TIMES"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "QUICKER, NOT BIGGER"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A HANDOVER EXAM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The knee drive runs on the fastest handover in your body. To drive the thigh up, the iliopsoas and the front thigh fire hard. To snap it back down for the next step, they must switch off almost instantly while the glute and hamstring fire in their place. This alternation, flexors on, flexors off, extensors on, is governed by reciprocal inhibition, the spinal circuitry that silences a muscle the moment its opposite number is commanded. When the silencing is slow, the muscles fight each other for a fraction of every cycle, a brake applied and released dozens of times per sprint, invisible and ruinous. When it is fast, the leg whips through its cycle like a piston. Knee drive training is handover training: not bigger flexors, but quicker ones, and a spinal cord that trusts them to alternate at speed. Your ten-second count is a handover exam, and the mistakes ahead are the five ways athletes make the handover slower while trying to make it faster.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A BAND GYMS NEVER VISIT"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "GYM REPS",
+       1,
+       "red"
+      ],
+      [
+       "JOGGING",
+       2,
+       "gold"
+      ],
+      [
+       "SPRINTING",
+       4,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CYCLES PER SECOND"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TEMPO IS LEARNED RESTED"
+    },
+    {
+     "asset": "ren_hip_rotation.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The science of leg cycling explains why this quality hides from ordinary training. Gym work is slow by design: heavy reps take seconds, and the nervous system adapts to the frequencies it practices. Sprint frequencies, three to five full cycles per second at top speed, live in a band that squats and leg presses never visit. Studies of sprint-specific training show the hip flexors are among the most active muscles in the entire sprint cycle and among the least trained in the weight room, a mismatch that explains many fast-twitch mysteries. The other finding is about fatigue: handover speed degrades quickly when tired, which is why drive drills are kept short and fresh, more like piano practice than conditioning. Ten seconds of drives, full rest, perfect alternation. The nervous system is a musician here, and musicians do not learn tempo by playing exhausted. Your count today is your current tempo. The protocol raises it the way tempo is always raised: clean, fast, and rested.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hip_rotation.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "OPEN THE JOINT DAILY"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "OF SLOW ROTATIONS",
+     "pos": "br",
+     "text": "2 MIN"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FAST SIGNAL, OPEN ROAD"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Hip rotation work is the drive's mobility partner, and it deserves its moment. The hip that drives fast must also move freely: a joint that cannot rotate and flex through its full range forces the nerves to fire around restrictions, and firing around things is slow. Slow, deliberate hip circles and rotations, two minutes a day, keep the joint's full map available to the signal, so when speed is requested, the road is open. This is the unglamorous truth under most speed work: the signal can only be as fast as the joint allows it to be. Open the joint daily, then ask it for tempo. Athletes who reverse the order spend years wondering why their fast muscles feel slow.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT PENDULUMS SWING FAST"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PER MINUTE OF PRACTICE",
+     "pos": "br",
+     "text": "MORE HANDOVERS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE METRONOME FAVORS LIGHT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PIANO PRACTICE, NOT A SLOG"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage in the drive is the physics of swinging light things fast. The thigh and shin are a pendulum, and a pendulum's natural frequency rises as its mass falls: lighter legs simply cycle quicker for the same neural effort. Your hip flexors also lift less mass through every drive, so their firing practice accumulates at higher quality across a session, more clean handovers per minute of training. The heavy athlete's drive work is a strength-endurance slog by the second set; yours can stay piano practice, fast and precise, for as long as your calendar allows. This is why the fastest cyclers in sport, sprinters at full flight, are built on the lean side of strong. The metronome favors the light, and the metronome, in the end, is the race.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "check": 3,
+   "exercise": "KNEE DRIVES",
+   "music": "drive",
+   "narration": "Now we raise the tempo together. Four rounds of ten seconds: drive one knee at your cleanest maximum, thigh to parallel, then rest fully. Alternate legs each round, and stop any round the moment the torso starts rocking.",
+   "rest": 50,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 10
+  },
+  {
+   "asset": "ren_hip_rotation.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ROCKING FOR MOMENTUM"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HALF DRIVES, HALF TEMPO"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "TRAINING DRIVES TIRED"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "FORGETTING THE DOWN-SNAP"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SITTING LIFE, CLOSED ROAD"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The five mistakes destroying your hip flexor nerves. Mistake one: rocking the torso to throw the knee up. The rock borrows momentum from your trunk and the flexors learn to wait for help; stay tall and let the hip do its own work. Mistake two: letting the thigh fall short of parallel as you tire. Half drives practice half handovers, and the nervous system keeps the tempo it rehearses; end the set when the height goes, not when the clock does. Mistake three: training drives tired, at the end of hard sessions. Handover speed is fresh-tissue learning, and tired reps engrave a slower tempo with every cycle. Mistake four: never training the down-snap. Everyone drills the drive up and forgets the flexors must switch off for the leg to come down; practice the full cycle, up and down, or the brake stays on. Mistake five: stiff hips from a sitting life. A joint that spends ten hours folded loses its fast range, and no signal outruns a closed road; rotate daily. Fire the five, and the metronome speeds up on its own schedule, which is faster than you think.",
+   "section": "THE MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A BRAKE, NOT A CEILING"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR WEAKER COUNT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COUNT THE TEMPO AGAIN"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Under eight: a mistake is braking your metronome, and the five fixes above are worth more than any new drill; expect the count to climb within weeks. Eight to twelve: the handover works and is learning tempo; fresh, short, frequent practice is the whole prescription. Over twelve clean per leg: certified hip flexor nerve speed, a quality the weight room cannot give and sprinters are made of. Over sixteen: your cycling is elite, and your sprint's ceiling just moved. Put your weaker leg's count in the comments, just the number, and retest in thirty days with the same rules: parallel every time, torso quiet, full cycles. The metronome keeps its books in drives, and next month we count the tempo again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_leg_swing.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER COUNT"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wall, same ten seconds, full cycles only. Bring me a faster count and we will take it to the track together. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "knee drive",
+  "knee drive speed",
+  "hip flexor nerves",
+  "sprint mechanics",
+  "knee drive mistakes",
+  "hip flexor speed",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_leg_swing.webp",
+  "big": "5 MISTAKES",
+  "hook": "KNEE DRIVE"
+ },
+ "title": "5 knee drive Mistakes That Are Destroying Your hip flexor nerves",
+ "v5": true
+}

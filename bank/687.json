@@ -1,0 +1,387 @@
+{
+ "badge": "EP 687 - THE SPRING TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SPRING",
+  "YOUR VERDICT"
+ ],
+ "description": "Count your pogo hops in ten seconds and meet the quality that decides how good your spring is: tendon stiffness. Learn the strain zone where tendons rebuild stiffer, and the five mistakes that keep a skinny guy's springs soft.",
+ "hashtags": [
+  "spring test",
+  "tendon stiffness",
+  "pogo hops",
+  "achilles",
+  "elastic energy"
+ ],
+ "id": "687",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANKLES ONLY, HANDS ON HIPS"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BOUNCING, NOT JUMPING"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR SPRING GRADE",
+     "pos": "tr",
+     "text": "CONTACTS IN 10 SEC"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SAME FLOOR AT RETEST"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test takes ten seconds and a pair of ankles. Stand tall on a flat floor, hands on hips, knees nearly straight, and bounce on the spot using only your ankles, like a pogo stick: small, quick hops, heels barely kissing the ground, the balls of your feet doing the work. Ten seconds on the clock, and count every contact. That count is your number, and it grades a quality most lifters never think about until it fails: the stiffness of your Achilles tendon, the spring that decides how much of every landing you get back as free energy. A stiff, well-tuned spring returns energy fast, so contacts are quick and quiet. A soft spring absorbs the landing and pays it back late and partial, so contacts slow down and the upper body starts helping. Film it from the side if you can; the difference between bouncing and jumping is visible, and only the bouncing counts. Keep your count and your surface noted, because springs are graded on the same floor at the retest. By the end, you will know the strain zone where tendons rebuild themselves stiffer, and why more stretching is exactly the wrong medicine for a soft spring.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MAGNITUDE OVER REPS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE ADAPTATION ZONE",
+     "pos": "br",
+     "text": "4.5-6%"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEAVY ENOUGH TO BE A MAIN EVENT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PROGRESSED OVER MONTHS"
+    }
+   ],
+   "big": "4.5%",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE STRAIN ZONE WHERE TENDONS REBUILD STIFFER",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the number the tendon researchers keep circling. A tendon adapts when it is strained, stretched under load, by a meaningful percentage of its length, and studies of tendon adaptation point to a sweet zone beginning around four and a half percent strain and running upward toward six or so, delivered by genuinely heavy loading: slow, hard contractions against serious resistance. Below that zone, the signal is too faint to bother the builder cells; this is why endless light band work leaves tendons unchanged. Above it, applied sloppily with sudden spikes and no progression, the same signal becomes irritation. The zone explains a paradox that confuses many lifters: tendons respond to the magnitude of strain far more than to the number of repetitions, the opposite of the muscle across the joint, which counts volume happily. Four point five percent is not a number you can feel directly, and you will never measure it at home.",
+   "section": "THE NUMBER",
+   "sub": "too light: no signal sent - sloppy and maximal: irritation, not adaptation",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The calf test grades the motor.",
+      "The pogo test grades the spring."
+     ],
+     "pos": "tr",
+     "title": "MOTOR AND SPRING"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SEPARATE ADAPTATIONS, SEPARATE CLOCKS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE GAP IS WHERE INJURIES BREED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the spring itself. The Achilles is the thickest tendon in the body, a twisted cable of collagen running from calf to heel, and its job in every step and hop is to be stretched by the landing and to recoil before the energy is lost as heat. Stiffness is the quality that decides the split: a stiff tendon stores and returns a high share of the energy quickly, while a compliant one stretches further, returns less, and returns it late, after the moment it was needed. Stiffness is built from the collagen itself, more and better-crosslinked material laid down by the fibroblasts from the collagen episodes, arranged along the line of pull. Two consequences follow that every skinny guy should hear. First, muscle strength and tendon stiffness are separate adaptations on separate clocks; a calf can grow strong in weeks while its spring lags for months, and the gap between them is where strains and tendinopathies breed.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TENDON IS A SNOB ABOUT INTENSITY"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "LIGHT, HIGH-REP",
+       35,
+       "red"
+      ],
+      [
+       "HEAVY AND SLOW",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "STIFFNESS GAINED IN A BLOCK"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "THE MEASUREMENT WINDOW",
+     "pos": "tr",
+     "text": "8-14 WEEKS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HEAVY, SLOW, SPACED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The loading studies draw the practical conclusion. When researchers compare light-load, high-repetition tendon training against heavy, slow resistance work matched for effort, the heavy protocols are the ones that measurably increase tendon stiffness over eight to fourteen weeks, while the light protocols mostly train the muscle's endurance. The tendon, it turns out, is a snob about intensity: it ignores polite requests and answers only to serious strain, delivered slowly enough that it cannot hide behind momentum. The bars below sketch the direction of those results, stiffness gained over a training block, light against heavy. There is a second finding that shapes the protocol later: the tendon also likes its rest. Its builder cells respond to a loading bout and then go quiet for hours, the same refractory behaviour as the collagen window, so stiffness work is dosed in a few serious sessions per week, not in daily drips. Heavy, slow, and spaced: three adjectives that describe almost no popular tendon advice, and nearly all of the effective kind.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRETCHING TRAINS A ROPE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "PANIC OR DENIAL",
+     "pos": "br",
+     "text": "MISTAKE FIVE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ISOMETRICS: BORING, NOT USELESS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SEE A PROFESSIONAL IF IT PERSISTS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The five mistakes that keep springs soft, then. Mistake one: stretching as the main tendon programme. Stretching argues for compliance, the exact opposite quality; a man who only stretches his Achilles is training his spring to be a rope. Mistake two: daily maximal tendon work, hopping and sprinting on a tissue whose builders clock out for hours after each bout and whose material turns over in days, not minutes. Mistake three: bouncing heavy loads from day one, plyometric spikes on a spring with no base, the classic route to a cranky tendon by week three. Mistake four: ignoring the isometric hold, the long, still contraction that research and clinical practice both use to calm irritated tendons and keep training possible; boring is not the same as useless. Mistake five is the pair of opposite panics: treating every tendon ache as damage and stopping all load, or treating every ache as weakness and loading through a worsening trend. Mild, stable discomfort during a careful programme is common; pain that escalates week to week, or sharp local pain, belongs in front of a professional.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DOSES IN TEASPOONS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE FINEST LOAD INCREMENT",
+     "pos": "br",
+     "text": "A BACKPACK"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PRECISION IS THE NATIVE LANGUAGE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A GAUGE IN A HALLWAY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your bodyweight is the most precisely calibrated tendon instrument in this entire discussion, and it belongs to the light man. Tendon strain scales with the force through the cable relative to the cable's size, and a skinny guy's single-leg bodyweight lands his Achilles in a serious training zone without any equipment at all, while a backpack of books adds exact, small increments no barbell can match at the low end. The heavy man, meanwhile, overshoots: his bodyweight plyometrics arrive as maximal spikes whether he planned them or not, which is one reason tendon trouble stalks big jumpers. Your dose arrives in teaspoons; his arrives in buckets. There is a second advantage in the test itself: pogo hops at your mass are low-impact enough to repeat monthly as a pure measurement, a spring gauge you can run in a hallway. Small body, fine increments, honest gauge. The spring was never going to be built by the biggest man in the room. It is built by the most precise one, and precision is the light man's native language.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "check": 3,
+   "exercise": "CALF HOLD",
+   "music": "drive",
+   "narration": "The boring medicine now: isometric calf holds. Rise to mid-range, freeze, and hold while the tendon listens. Three rounds of forty-five seconds. Stay still, stay patient.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEAVY AND SLOW, THREE DAYS"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "ISOMETRICS ON CRANKY DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DAILY MAXIMAL HOPPING"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "JUDGED AT TWELVE WEEKS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The stiffness protocol runs three serious days a week and respects the refractory clock. The base lift is heavy slow calf work: single-leg raises, three seconds up and three down, with a backpack added until the last reps of three or four sets are genuinely hard, because hard is the strain zone's address. On days the tendon feels cranky, substitute long isometric holds at mid-range, the timer block's medicine, which keeps the signal alive without the spike. Plyometrics, the pogo work itself, enter only after four to six weeks of base, and then in small, crisp doses with full recovery, never as conditioning. Progress is logged in load and tempo, not in soreness, and the whole programme is judged at twelve weeks, the tendon's calendar, not the muscle's. One warning label, printed plainly: a tendon that gets steadily worse under a careful programme is not asking for more character. Reduce the dose, and if it persists, have it assessed. Springs are patient tissues. Train them like you intend to keep them for fifty years, because you do.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SOFT, BUILDING, OR STIFF"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME FLOOR, SAME RULES",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CONTACTS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your spring verdict, from the ten-second count. Under twelve contacts: a soft spring, absorbing landings it should be returning, and the best possible news is that the base protocol was practically designed for this exact reading. Twelve to eighteen: a building spring, responsive, with stiffness work likely to show in the count within a couple of months. Over eighteen, with a quiet upper body and no knee bend creeping in: a stiff, honest spring, and your job becomes maintenance and the careful addition of real plyometrics. Whatever your count, record the floor and the footwear with it, because springs are graded under conditions, and a count on carpet is a different measurement from a count on concrete. Put your number in the comments, contacts in ten seconds, plainly counted. In thirty days, same floor, same rules, and we retest the spring. Muscles get the photographs in this sport. Springs get the stopwatch, and the stopwatch is the judge that cannot be flattered.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same floor, same ten seconds. Bring me quicker contacts. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "tendon stiffness",
+  "achilles tendon",
+  "pogo hops",
+  "reactive strength",
+  "tendon training",
+  "spring test",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "4.5%",
+  "hook": "THE SPRING TEST"
+ },
+ "title": "5 tendon stiffness science Mistakes That Are Destroying Your tendon stiffness",
+ "v5": true
+}

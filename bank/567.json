@@ -1,0 +1,410 @@
+{
+ "badge": "EP 567 - LEG NERVES OVER MUSCLE",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE NERVES",
+  "YOUR VERDICT"
+ ],
+ "description": "A hill does not ask how big your legs are. It asks how well they fire together under load. Time your hill sprint, and learn why the nerves conducting your leg power outrank the muscles producing it.",
+ "hashtags": [
+  "leg power nerves",
+  "hill sprints",
+  "nerve training",
+  "sprint power",
+  "recruitment"
+ ],
+ "id": "567",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THIRTY METERS OF SLOPE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEST OF THREE, WALK DOWN"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "HILL TIME"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "GRAVITY REMOVES THE COVER"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR TIME SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Find your hill: thirty meters of slope, steep enough to slow you, gentle enough to run tall. From a standstill at the bottom, sprint to the top marker at full effort and time it. Three attempts, walking down slowly between them, best honest time counts. That time is your number today. A hill is the rudest test in this season because it cannot be flattered. On flat ground, momentum covers for sloppy firing, and a strong leg or two can drag a mediocre performance across the line. On a slope, gravity removes the cover: every step must be produced, in order, at power, or the hill collects the difference immediately. What the hill is really timing is not your legs' size. It is your nervous system's ability to conduct them, hip to thigh to calf, as one instrument under load. Keep your time safe. At the end, I will tell you what the hill heard.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRONG ALONE, UNCONVINCING TOGETHER"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "CONDUCTED POWER",
+     "pos": "br",
+     "text": "UNDER 6 SEC"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "POWER IS A PROPERTY OF TIMING"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CONDUCTORS CAN BE TRAINED"
+    }
+   ],
+   "big": "6.0 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHERE SIZE STOPS AND CONDUCTING STARTS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for thirty meters of hill, as a guide, since slopes vary: around six seconds is where conducted power separates from mere effort. Slower, and the usual story is not small legs. It is a sequence breaking down under load: the hip late, the thigh compensating, the calf arriving after the moment has passed, each muscle strong enough alone and unconvincing together. Faster, and the wave arrives intact step after step, the whole chain firing as one event, and the hill, which grades without sentiment, returns a time that surprises people who judged you by your calves. Power, it turns out, is not a property of muscles. It is a property of timing, and timing is the nervous system's department. Your number today is a conducting grade, and conductors can be trained.",
+   "section": "THE NUMBER",
+   "sub": "over 7 sec on 30m: the orchestra is out of sync - under 6: conducted power",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Muscles are the musicians.",
+      "Nerves decide if it is music."
+     ],
+     "pos": "tr",
+     "title": "AN ORCHESTRA, A CONDUCTOR"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RECRUITMENT, RATE, SEQUENCE"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REHEARSING THE CONDUCTOR"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LATE IS HEARD BY EVERYONE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the chain as the nervous system sees it. A powerful stride is a wave: hip flexors lift, glutes and quads drive down and back, the calf finishes, and the wave must roll through in milliseconds, each link handing force to the next without a gap. The commands originate in the spinal cord's pattern circuits, refined by practice into something closer to music than to machinery: recruitment, firing rate and sequencing, all adjustable, all trainable, and none of them visible in a mirror. Muscle is the orchestra, impressive, necessary, and silent without a conductor. The hill is the concert hall with the rudest acoustics in sport: any musician arriving late is heard by everyone, instantly, in lost speed. When you train hills the way this episode prescribes, you are not mainly building bigger musicians. You are rehearsing the conductor, under the exact conditions where his mistakes cost the most.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RATE BEATS MAXIMUM"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "FIRING RATE + SEQUENCE",
+       95,
+       "cyan"
+      ],
+      [
+       "MAXIMUM SIZE ALONE",
+       40,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT SEPARATES PERFORMERS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEEKS, NOT MONTHS"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The physiology receipts support the conductor. Studies of explosive athletes find that rate of force development, how fast force arrives, separates performers more reliably than maximum strength does, and rate of force development is overwhelmingly a neural quality in its early phase: how many motor units are recruited, how fast they fire, how cleanly opposing muscles get out of the way. Training studies then show the hopeful asymmetry: neural qualities improve in weeks, especially in the less trained, while muscle size improves in months. The hill exploits this asymmetry perfectly, because it demands high force at high speed in sequence, the exact recipe for neural adaptation, while its slope caps top velocity and keeps the lesson safe. You are not behind the strong. You are one well-conducted month away from embarrassing them uphill.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DIPLOMACY BETWEEN MUSCLES"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF ROLE SWITCHES PER RUN",
+     "pos": "br",
+     "text": "DOZENS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEAVINESS IS OFTEN FRICTION"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMOOTHNESS IS TRAINED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "One neural quality deserves its own paragraph because the hill trains it so well: intermuscular coordination, the diplomacy between muscles. In a hard stride, your hamstrings and quads, your hip flexors and glutes, must alternate roles dozens of times, each switching from actor to brake to bystander without negotiation. When the diplomacy fails, muscles co-contract, fighting each other across the same joint, and the athlete pays for force that cancels itself out. It feels like heaviness, like running in water, and it is often misdiagnosed as weakness. Hills expose and repair it, because the slope's constant demand punishes wasted force so immediately that the nervous system tidies the sequence within a few sessions. The smoothness fast hill runners show is not talent. It is diplomacy, trained.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CONDUCTING IS SIZE-BLIND"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME EDUCATION",
+     "pos": "br",
+     "text": "FEWER KILOS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REHEARSAL AT A DISCOUNT"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "CLARITY OVER CALVES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage on the hill is that conducting is bodyweight-blind. The nervous system does not grade its own performance by the size of the limbs it conducts; it grades by clarity, and clarity is trainable at any size. Meanwhile the hill's toll, the actual climbing cost, is charged per kilogram, and you carry the fewest kilograms in the story. So the light athlete gets the same neural education at a lower physical price, recovers sooner, and can rehearse the conductor more often per week. Frequency is how orchestras become orchestras. The heavy athlete is paying concert prices for rehearsal time you get at a discount, and his muscles, for all their size, still wait for their conductor like everyone else's. On the hill, the best-conducted light body beats the under-conducted heavy one, and it is not close for long.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "check": 3,
+   "exercise": "HILL SPRINTS",
+   "music": "drive",
+   "narration": "Now we rehearse the conductor together. Five hill sprints, fifteen hard seconds, slow walk down, full recovery. Every climb in sequence, hip, thigh, calf, as one wave.",
+   "rest": 60,
+   "rounds": 5,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 15
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A SLOPE YOU CAN RUN TALL ON"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SHORT CLIMBS, FULL INTENT"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REST UNTIL FULLY BACK"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STOP WHILE CRISP"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TWICE A WEEK, CONDUCTED"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for a nerve-first hill program. Step one: pick a slope you can run tall on; if the hill breaks your posture into a crouch, it is grading survival, not conducting, so find a gentler teacher. Step two: attack in short climbs, ten to fifteen seconds, at full intent, because the conductor learns from performances, not from exhaustion. Step three: rest until you are fully back, a slow walk down and unhurried breathing; a wave rehearsed tired is a wave taught to arrive late. Step four: stop the session while the climbs are still crisp, five or six at most, since the last rehearsal of the day is the one the nervous system remembers best. Step five: twice a week, with at least a day between, and let flat sprinting on other days show the conductor a faster room. A month of rehearsals and the same hill grades a different orchestra.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMOOTHNESS BEFORE SECONDS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR TIME"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "REHEARSED, NOT BORN"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your time, read as a conducting grade. Slow with a broken rhythm: your orchestra has musicians and no rehearsals; the protocol is pure conducting practice, and the first improvements arrive as smoothness before they arrive as seconds. Mid-range and driving: the wave forms under load, and your gains live in frequency, more crisp climbs across more weeks. Fast and tall on the slope: you own a conducted power that athletes twice your size are still trying to organize, and the hill has the receipts. Put your time in the comments, just the number, same hill, best of three. Retest in thirty days, same slope, same marks. The conductor keeps his books in seconds saved, and he has only just started rehearsing you.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FASTER CLIMB"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same hill, same thirty meters, bring me a faster climb. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "hill sprints",
+  "leg power",
+  "nerve training",
+  "motor unit recruitment",
+  "sprint power",
+  "hill training",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "HILL TIME",
+  "hook": "THE CONDUCTOR WINS"
+ },
+ "title": "Why Your leg power nerves Matter More Than Muscle (The hill sprints Episode)",
+ "v5": true
+}

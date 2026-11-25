@@ -1,0 +1,401 @@
+{
+ "id": "642",
+ "v5": true,
+ "title": "90 Days Later: Your Age-Group Test — The benchmark data Verdict",
+ "description": "Ninety days later, one question remains: where do you stand for your age? Today the push-up test gets read against age-group benchmark data, and your season of work gets its verdict. Bring your old max and your new one. Age is about to become context, not an excuse.",
+ "tags": [
+  "age group benchmark",
+  "push-up test by age",
+  "90 days later",
+  "benchmark data",
+  "age group fitness",
+  "retest day",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "90 days later",
+  "age group",
+  "benchmark",
+  "push-ups",
+  "calisthenics",
+  "retest day"
+ ],
+ "category": "retests",
+ "badge": "EP 642 - AGE-GROUP TEST",
+ "checklist": [
+  "THE RETEST",
+  "THE DATA",
+  "THE PRESS",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_front_top.webp",
+  "big": "YOUR AGE",
+  "hook": "AGE-GROUP TEST",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Ninety days ago | you maxed your push-ups | with no context at all. | Just a number, alone. | Today the number gets context. | Same floor. | Same hand position. | Same depth standard: | chest to fist height. | Body in one line. | Count clean reps only. | No bouncing, no sagging. | No borrowed half reps. | When a clean rep fails, | the test is over. | That is your NEW max. | Got it? | Keep your old | one beside it. | At the end, | I place you | in your age group, | with real benchmark data, | and your season | gets its verdict.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "TODAY THE NUMBER GETS CONTEXT",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "text": "CLEAN REPS ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "NO BORROWED HALF REPS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEW MAX LOCKED IN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR AGE",
+   "label": "THE AGE-GROUP BENCHMARK DATA",
+   "sub": "most men your age test far below their younger selves",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the context almost nobody brings to a push-up max: age-group data. Large fitness assessments keep finding the same humbling pattern. The average man's strict push-up max falls decade by decade, not because aging is merciless, but because training stops. Men in their twenties average in the low twenties for strict reps. By the forties, the average is in the low teens. Past fifty, single digits are normal for the untrained. Which means a trained man does not need a spectacular number to rank high in his age group. He needs a consistent one. Your ninety days of consistency are about to be priced by the only market that matters: men your age who did not train.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "LOW TEENS",
+     "label": "AVERAGE MAX BY THE FORTIES",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "CONSISTENCY IS THE PRICE",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "PRICED AGAINST MEN WHO STOPPED",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Look at what age actually does to the pressing system, because the data has a hopeful fine print. Muscle mass declines slowly with age, yes, but tendon behavior changes more interestingly: older tendons get stiffer in some ways yet slower to adapt, and the nervous system's recruitment speed is the first quality to fade. The fine print is that every one of those qualities responds to training at every age studied. Isometric and pressing work improves tendon function and recruitment in men in their sixties and seventies, not just in the young. Aging sets the slope. Training sets your position on it, and ninety days moved your position more than a birthday can move the slope. One more detail in the age data deserves respect: the spread inside each bracket is enormous. Every decade contains men at five reps and men at fifty, which means the bracket is a population, not a destiny. The statistics describe what men did, never what a man can do. Your ninety days moved you within your bracket's spread by more than the bracket's average moves in a decade of birthdays. Read that twice. Training moved you further in a season than aging moves the average in ten years.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "AGING SETS THE SLOPE",
+     "lines": [
+      "Training sets your position on it."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "swap",
+     "asset": "ren_pushup_45_mid.webp"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "EVERY QUALITY STILL TRAINS",
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "90 DAYS",
+     "label": "BEATS ONE BIRTHDAY",
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_weak.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Now read your season against the age data like a scientist. The right comparison is not you versus a twenty-year-old influencer. It is you versus the statistical version of yourself who spent the same ninety days on the couch. That man lost a little strength this season, because untrained adults always drift downward. You gained. The true gap between the two versions of you is therefore bigger than your rep gain: it is your gain plus his loss, the full distance between training and drifting at your age. Coaches call this the divergence, and it widens every single season you keep training. This is the math that makes starting at any age a winning trade. One more comparison sharpens the verdict. Place yourself not just in your decade but at your exact age's trend line, and notice the direction of travel on each side. The line slopes down a rep or so per year for the average. Your personal line just moved up by a season's worth of reps in a quarter of a year. Two lines, two directions, one crossing point behind you. Everything after a crossing like that is compound interest, and compound interest is the most patient force in any dataset.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "bars",
+     "items": [
+      [
+       "YOU, TRAINED",
+       27
+      ],
+      [
+       "YOU, DRIFTED",
+       13
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "text": "THE DIVERGENCE IS THE GAP",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "GAIN PLUS HIS LOSS",
+     "lines": [
+      "The full distance is the real result."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "text": "IT WIDENS EVERY SEASON",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "elbow_anatomy_plate.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "Age-group honesty includes one warning the young channels skip. Tendons in older athletes adapt, but they also forgive less: recovery between hard pressing days matters more, and joint complaints deserve earlier respect. If your elbows or shoulders have been grumbling through this season, that is not the test failing you, it is the data asking for a professional's eyes. This channel's standing rule does not age out: persistent joint pain means see a professional if it persists, at twenty-five or at fifty-five. The men who train for decades are not the ones who ignored their joints. They are the ones who listened early and adjusted, and they are still pressing when their age group has mostly stopped. And the fine print of the age data includes a gift for the oldest readers. The brackets with the lowest averages also show the largest relative gains when their members finally train, because detraining leaves the most room on the table. A man starting at fifty-five is not too late to the data. He is standing in the bracket where training buys the most visible distance per month. The averages are lowest exactly where the opportunity is highest. That is not a coincidence; it is the same fact read twice.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "OLDER TENDONS FORGIVE LESS",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "pip",
+     "asset": "ren_pushup_bottom.webp",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "text": "LISTEN EARLY",
+     "label": "TRAIN FOR DECADES",
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "PERSISTENT PAIN: GET CHECKED",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front.webp",
+   "section": "",
+   "check": 2,
+   "music": "dark",
+   "narration": "The reframe for age-group day is quietly brutal for the competition. Your age group is not getting stronger while you deliberate. Every year, the average max in your bracket falls, the bar lowers itself, and the men still training become rarer and therefore higher ranked almost by attendance. A skinny guy who simply refuses to stop collects age-group rank the way compound interest collects money: slowly, then embarrassingly. You do not have to beat your younger self. You have to outlast your peers' excuses, and ninety days says you are already doing it. The benchmark data is not a ceiling on you. It is a photograph of everyone who quit.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE BAR LOWERS ITSELF",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "bars",
+     "items": [
+      [
+       "PEERS STILL TRAINING",
+       15
+      ],
+      [
+       "PEERS WHO QUIT",
+       85
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "OUTLAST, DO NOT OUTRUN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "A PHOTOGRAPH OF QUITTING",
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "timer",
+   "exercise": "PUSH-UP SETS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 4,
+   "asset": "ren_pushup_top.webp",
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now we press together at age-group standard. Four rounds: forty seconds of strict push-ups, twenty of rest. Fist height every rep, line unbroken, two reps shy of failure. This is how decades get built."
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_bottom.webp",
+   "section": "",
+   "check": 3,
+   "music": "dark",
+   "narration": "Your next-season protocol respects the data. First, keep two pressing days and add a third only if the joints vote yes, because at every age past thirty, recovery is the program's silent partner. Second, keep the max test monthly and the age-group comparison seasonal, because ranks move slowly and checking them weekly is astrology. Third, add the tendon insurance the young skip: pause reps and slow negatives, the exact stimuli aging tendons answer best. The mistakes to retire: comparing yourself to twenty-year-olds, skipping warmups your younger self survived, and treating a birthday as a verdict. Birthdays are just retest dates with cake. One weekly detail matters more with every birthday: the joint journal. Once a week, one line per joint that talks to you, rated simply as quiet, grumbling, or loud. Aging athletes do not fail from weakness. They fail from ignoring a grumble until it becomes a diagnosis. The journal takes ninety seconds and buys you the early warnings that keep a man pressing into the brackets where the averages get truly embarrassing.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "COMPARING TO TWENTY-YEAR-OLDS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "SKIPPING THE WARMUP",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "BIRTHDAYS AS VERDICTS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE AGE-GROUP PROTOCOL",
+     "lines": [
+      "Recover like it matters. Test like it counts."
+     ],
+     "pos": "br"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "THE VERDICT",
+   "label": "YOUR AGE-GROUP VERDICT",
+   "sub": "comment your max and your age group",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The verdict, with your age group as the jury. If your new max sits above your bracket's trained line, you are officially in the small minority of men your age who still own their pressing strength, and the record proves it. If you are at the line, one more season of the same boring work puts clear water between you and the average. If you are below it, your divergence has still begun, and begun is the whole battle at any age. Comment your max and your age group below, no shame in either number, and set the next test thirty days out. Your bracket is drifting down. You are not.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "stat",
+     "text": "TOP MINORITY",
+     "label": "OF MEN YOUR AGE, IF ABOVE THE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "YOUR BRACKET DRIFTS DOWN. YOU DO NOT",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "COMMENT MAX AND AGE GROUP",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "NEXT TEST: 30 DAYS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_top.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Age gave your number a context, and the context is flattering because you earned it. Keep pressing, keep recovering, and bring me a higher rank next season. Subscribe, because your age group is not waiting. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "NEXT TEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "OUTLAST THE BRACKET",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

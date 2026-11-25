@@ -1,0 +1,380 @@
+{
+ "badge": "EP 670 - THE PROTEIN TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SYNTHESIS",
+  "YOUR VERDICT"
+ ],
+ "description": "No bar, no clock: today's test is an audit of yesterday's plate. Count your protein honestly, divide by your bodyweight, and learn what muscle protein synthesis actually does with that number, including the threshold most skinny guys never reach.",
+ "hashtags": [
+  "protein test",
+  "protein synthesis",
+  "skinny guy gains",
+  "calisthenics",
+  "nutrition science"
+ ],
+ "id": "670",
+ "scenes": [
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "AUDIT YESTERDAY, HONESTLY"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EVERYTHING COUNTS, EVEN HANDFULS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR PROTEIN NUMBER",
+     "pos": "tr",
+     "text": "G PER KG"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP NUMBER AND LIST"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test has no bar and no clock, and it is the one most skinny guys fail in private. Write down everything you ate and drank yesterday, everything, honestly, the way an auditor would: the meals, the snacks, the handfuls, the drink you forgot. Now estimate the protein in it, using labels, a phone, or rough knowledge: an egg is about six grams, a palm of chicken about thirty, a cup of milk about eight. Add it up. Then divide by your bodyweight in kilograms. That quotient, grams per kilo, is your protein number, and it is the raw-material line of every adaptation this channel trains. No judgment yet, and no fixing it today: the test only reads yesterday, exactly as it was. Keep the number, and keep the list, because the list matters as much as the total. By the end you will know what your muscles actually did with that delivery, and why the timing of it may matter as much as the size.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SIGNALS CANNOT BUILD ALONE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE MEASURED LINE",
+     "pos": "br",
+     "text": "1.6 G/KG"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "AUDITS BEAT APPETITES"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MATERIALS FOR THE ORDERS"
+    }
+   ],
+   "big": "1.6 G/KG",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE WHERE THE BUILDERS STOP BEING RATIONED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, and it is one of the best-measured numbers in all of nutrition science. Meta-analyses pooling dozens of protein studies find that muscle and strength gains rise with intake up to roughly one point six grams per kilogram of bodyweight per day, beyond which the average curve flattens, with a cautious upper band near two point two where individual high responders may still gain a little. Below one gram per kilo, the picture is consistent: the builders are rationed, and training quality cannot fully compensate, because you cannot assemble tissue from signals alone. The average skinny guy who swears he eats a lot, when audited, lands near one gram per kilo, and discovers his appetite has been inflating the report for years. Your quotient today is therefore not a diet grade. It is a measurement of whether your last ninety days of training were ever given the materials they ordered.",
+   "section": "THE NUMBER",
+   "sub": "under 1.0: construction on rations - 1.6-2.2: the evidence's home address",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "A daily balance, lobbied by food.",
+      "Leucine flips the building switch."
+     ],
+     "pos": "tr",
+     "title": "SYNTHESIS VS BREAKDOWN"
+    },
+    {
+     "asset": "ren_grip_squeeze.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A LONG WINDOW OF LISTENING"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TOTAL AND TIMING DIFFER"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Inside the muscle, protein lives in a permanent construction economy called muscle protein synthesis and breakdown, MPS and MPB to the researchers. All day, every day, your body dismantles a share of its muscle protein and rebuilds it; training and eating are how you lobby the balance. A protein meal flips the synthesis switch through a specific trigger: the amino acid leucine, whose arrival tells the cell's construction manager, a pathway called mTOR, that materials are on site and building may proceed. Resistance training sensitizes the muscle to that signal for a day or more, which is the real meaning of the famous post-workout window: not a slamming door, but a long period of heightened listening. Your total number decides whether the economy runs a surplus across the day. Your meals' distribution decides how many times the switch gets flipped while the muscle is listening. Both matter. They are not the same matter, and the next scene separates them.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_towel_curl.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SWITCH HAS A REFRACTORY PERIOD"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "ALL AT DINNER",
+       55,
+       "red"
+      ],
+      [
+       "SPREAD OVER 4 MEALS",
+       90,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME PROTEIN, DIFFERENT DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COUNT THE THRESHOLD MEALS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE CHEAPER FIX"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The distribution research gives the audit its second blade. In studies comparing the same daily protein eaten different ways, spreading it across three or four meals, each carrying enough leucine to flip the switch fully, roughly twenty-five to forty grams of quality protein per meal for a man your size, produces more total synthesis across the day than skewing it all into one giant evening meal. The switch, it turns out, has a refractory period like the collagen window: once flipped hard, it rests for a few hours, and protein eaten during the rest is largely burned as fuel rather than built. This is the quiet tragedy of the classic skinny-guy pattern, a bird's breakfast, a forgettable lunch, and a heroic dinner: the total can look respectable while two of the day's three construction shifts never clocked in. Your list from the test shows your distribution at a glance. Count the meals that crossed the threshold. That count is the second number of this episode, and for many men it is the cheaper one to fix.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "IT REMOVES A CEILING"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "POWDER OPTIONAL",
+     "pos": "br",
+     "text": "FOOD FIRST"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "AUDIT BEFORE PRESCRIBING"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "A word of calibration before anyone buys a powder. The protein literature is unusually honest about effect sizes: hitting the line does not transform a body; it removes a ceiling. Men below the line are training with the construction crew rationed, and fixing the ration shows up as the gains they always expected from the same workouts. Men already at the line gain nothing measurable from doubling it, because synthesis is not limited by supply once supply is sufficient; it is limited by the training signal and time. This is why this channel audits before it prescribes. The test's job is to find the minority problem that is actually yours: total, distribution, or neither. Protein is the rare supplement-adjacent topic where the science is strong, the intervention is food, and the marketing is mostly unnecessary. Eat the line, spread across the day, and spend the powder money on groceries.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pinch_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FEWER KILOS, CHEAPER LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "A 60-KILO MAN'S DAY",
+     "pos": "br",
+     "text": "96 G"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE FIX IS A GROCERY LIST"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WELCOME THIS AUDIT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your build makes the protein line the cheapest in the room, and this deserves emphasis because skinny guys are usually told their eating problem is the biggest. It is the opposite. The line is per kilogram, and you own fewer kilograms: a sixty-kilo man needs about ninety-six grams a day, a target reachable with three ordinary meals and a glass of milk's worth of intention. The ninety-kilo man needs a hundred and forty-four, a genuinely logistical project. Your distribution is easier too: smaller meals cross the leucine threshold with modest portions, so your construction shifts clock in without heroic eating. The men who should fear this audit are the big ones. You should welcome it, because it is the rare test where the fix is a grocery list, the timeline is a week, and the advantage was yours before you walked in.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "check": 3,
+   "exercise": "FARMER CARRY",
+   "music": "drive",
+   "narration": "Now we place the order the protein will fill. Three rounds of heavy carries, tall posture, intent in the grip. Training writes the order; dinner delivers it.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ANCHOR THE BREAKFAST"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THREE SHIFTS, NOT ONE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "AUDIT AN ORDINARY DAY"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "A DIET OVERHAUL"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol, in audit order. If your total was under the line: add one threshold meal, not a diet overhaul; a protein-anchored breakfast is the classic missing shift, and it fixes total and distribution simultaneously. If your total passed but your threshold meals numbered under three: move protein earlier, shrink the heroic dinner, and let the refractory switch work three shifts instead of one. If both passed: change nothing, and let this audit retire for a season; not every test ends in homework. Everyone: re-audit on an ordinary day, not a performance day, because the economy runs on ordinary days. And keep the standard honest: food first, powder only as a convenience for a shift you would otherwise miss. The builders do not care about brands. They care about deliveries.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HIDING IN THE KITCHEN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN AUDIT ANOTHER YESTERDAY",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR QUOTIENT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your protein verdict. Under one gram per kilo: the crew was rationed, and your next gains are sitting in a grocery basket, the cheapest strength available to you anywhere in this series. One to one point six: building, with the ceiling close enough to touch; one added threshold meal likely finishes the job. One point six and above, spread over three or more real meals: the supply line is a solved problem, and your ceiling is set by training and time, exactly where a serious man wants it. Put your quotient in the comments, one decimal, honestly audited. In thirty days, audit another ordinary yesterday and compare. Hidden strength was the title, and it was hiding in the kitchen the whole time.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_grip_squeeze.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A BETTER-SPREAD DAY"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same audit, ordinary day, honest list. Bring me a better quotient and a better-spread day. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "protein test",
+  "muscle protein synthesis",
+  "how much protein",
+  "protein per kg",
+  "skinny guy diet",
+  "leucine threshold",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_farmer_carry.webp",
+  "big": "1.6 G/KG",
+  "hook": "THE PROTEIN TEST"
+ },
+ "title": "Your Protein Test Reveals Your Hidden Strength",
+ "v5": true
+}

@@ -1,0 +1,410 @@
+{
+ "badge": "EP 575 - BROAD JUMP REVEAL",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE HIP ENGINE",
+  "YOUR VERDICT"
+ ],
+ "description": "The broad jump is the oldest athletic test there is: no equipment, no excuses, just you and the ground and a number in centimeters. Jump as far as you can, and discover what the distance reveals about the hip power that drives everything you do.",
+ "hashtags": [
+  "broad jump",
+  "hip power",
+  "hidden strength",
+  "standing long jump",
+  "explosive power"
+ ],
+ "id": "575",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO EQUIPMENT, NO EXCUSES"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEST OF THREE, HOLD THE LANDING"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "CENTIMETERS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE OLDEST HONEST TEST"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand behind a line, feet shoulder-width, nothing else required, because this test predates equipment. Swing your arms, dip, and jump forward as far as you possibly can, landing on both feet and holding the landing without falling backward. Measure from the line to the back of your nearest heel. That distance is your number today. Three attempts, best one counts, a fall backward voids the jump. The broad jump is the oldest honest test in athletics, used from ancient games to modern combines, because it asks the whole posterior chain one question at full speed: how much horizontal power can you produce from a standstill? No run-up to borrow momentum from, no wall to slap, just hips, tendons, nerves and aim, converted into centimeters. Your number is the conversion rate. Keep it safe. At the end, I will tell you what it reveals about the engine at your center.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNCONVERTED STRENGTH"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "AN ELITE ENGINE",
+     "pos": "br",
+     "text": "2.6 M+"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE GESTURE, EVERYTHING GRADED"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SEASON IN ONE NUMBER"
+    }
+   ],
+   "big": "2.4 M",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN STRONG AND EXPLOSIVE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for a standing broad jump, offered as a guide. Around two point four meters is where strong becomes explosive. Under two meters, the usual finding is unconverted strength: legs that can produce force slowly and cannot yet spend it in the half-second a jump allows. Over two point six, you own an engine that testing bodies in professional sport treat with respect, whatever it is attached to. The broad jump's special cruelty, and its special honesty, is that it cannot be specialized away. It needs the hip hinge, the tendon springs, the nerve surge and the landing, all in one gesture, which is why it correlates with sprinting, jumping and general athleticism better than almost any single gym number. Your distance today is a summary of the entire season in one measurement. Let us read it properly.",
+   "section": "THE NUMBER",
+   "sub": "under 2.0 m: power is unconverted strength - over 2.6: an elite engine",
+   "type": "card"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Horizontal force comes from hips.",
+      "Everything else assists."
+     ],
+     "pos": "tr",
+     "title": "THE HIP IS THE HEADLINE"
+    },
+    {
+     "asset": "ren_jump_peak.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE COORDINATED DETONATION"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE MOST TRANSFERABLE QUANTITY"
+    },
+    {
+     "at": 28,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A HIP TEST IN DISGUISE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the engine room. A broad jump is powered primarily from the hips: the glutes and hamstrings, the largest muscle group you own, extend the hip violently as the body unfolds from its crouch, while the quads extend the knees and the calves and Achilles deliver the final strike through the forefoot. But the hip is the headline, because horizontal distance is bought with horizontal force, and the hip extensors are the only muscles positioned to produce it at that scale. This is why coaches call the broad jump a hip test wearing a jump's clothes. The tendons contribute their springs, the nerves their surge, the arms their swing, but the currency of the event is hip extension power, delivered in one coordinated detonation. Your distance measured the detonation, and the detonation's size is the most transferable athletic quantity you own.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "OLD, CHEAP AND HONEST"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "POWER PER KILO",
+       95,
+       "cyan"
+      ],
+      [
+       "ABSOLUTE POWER ALONE",
+       55,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT PREDICTS BROAD JUMP"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "IT NORMALIZES FOR SIZE"
+    },
+    {
+     "asset": "ren_jump_peak.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The research file on the broad jump is thick because the test is old, cheap and honest. Broad jump distance correlates strongly with sprint speed, vertical jump and lower-body power measured on laboratory force plates, which is why it survives in combines and military testing long after fancier instruments arrive and leave. Studies also find it responds to exactly the training this season prescribes: heavy hip-dominant strength work builds the engine's displacement, while jump and sprint practice teaches it to detonate on time, and the combination outperforms either alone. One more finding matters for you: relative power, power per kilogram of body mass, predicts broad jump distance better than absolute power does. The test quietly normalizes for size before it grades you. Few athletic audits are that fair, and fewer still are that fair to the light.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CATCH CAN DELETE IT"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "LOST IN THE LANDING",
+     "pos": "br",
+     "text": "10-20 CM"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE CHEAPEST UPGRADE HERE"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE WHOLE ATHLETE, GRADED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The landing deserves its hearing, because the broad jump is the only test in this season where the landing can delete the result. Falling backward after touchdown voids the jump in any honest scoring, which means the event secretly includes an absorption exam: all that horizontal energy must be caught by the same relay of springs and brakes the landing episodes trained, at a forward angle, on two feet, without a step. Athletes lose ten or twenty centimeters here, not in the air but in the catch, sitting back because the relay could not hold the position. Train the landing and the distance grows without the jump changing at all, one of the cheapest upgrades available in this entire block of episodes. The broad jump grades the whole athlete. It just lets the flight do the talking. There is a second landing trick worth pocketing: land with your hips already traveling forward, chest over your knees, so your momentum helps you hold the position instead of pulling you backward onto your heels. The athletes who stick long jumps look like they are about to start running again. That posture is not celebration. It is the catch, finished properly, and it is worth real centimeters.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "POWER PER KILOGRAM WINS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "NO TRAINING CAN GIVE HIM",
+     "pos": "br",
+     "text": "A HEAD START"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE BODY IS THE PROJECTILE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PROOF IN YOUR POCKET"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the broad jump is written into its scoring, and it is worth ending the season's argument here. The distance your engine must produce is the distance your mass travels, and your mass is small, so your power-per-kilogram, the quantity the test actually rewards, starts with a head start no training can give the heavy athlete. He must build an enormous engine to move his frame two point four meters. You must build a good one and teach it to detonate. This is the recurring truth of the whole legs season, visible now in its purest form: in every event where the body is the projectile, the light body is not the limitation. It is the specification. Your broad jump number is about to become the proof you carry in your pocket.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "BROAD JUMPS",
+   "music": "drive",
+   "narration": "Now we detonate together. Four rounds of broad jumps, full distance, held landings, long rests. Every jump a complete sentence: hinge, detonate, catch, freeze.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BUILD THE ENGINE AT THE HIP"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "DETONATE FRESH, ALWAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ARMS ARE FREE CENTIMETERS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TRAIN THE CATCH"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE TAPE MEASURE WITNESSES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for a farther broad jump. Step one: build the engine with hip-dominant strength, deadlift patterns, hip thrusts and heavy split squats, because horizontal force is manufactured at the hip and there is no substitute factory. Step two: practice the detonation fresh, a few maximal broad jumps at the start of sessions, full recovery, because timing is a nerve quality and it refuses to be learned tired. Step three: swing the arms like you mean it, down and back as you dip, ripping forward and up at takeoff; the arms are free centimeters that most jumpers donate to politeness. Step four: train the catch, low quiet landings and freezes, so no distance you earn in the air is refunded on the ground. Step five: test monthly, same line, same surface, best of three, and let sprint and hill work feed the engine between tests. A season of this and the tape measure becomes your favorite witness.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONLY THE DETONATION IS MISSING"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR DISTANCE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE OLDEST BOOK"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your distance, read as an engine grade. Under two meters: unconverted strength, the highest-upside result this test gives, because the engine's parts are present and only the detonation is missing. Two to two point four: conversion underway, and your remaining centimeters live in the arms, the aim and the catch, the cheap chapters. Over two point four: an explosive hip engine in a light frame, a combination that testing bodies respect on sight. Put your distance in the comments, just the number, best of three, landing held. Retest in thirty days, same line, same surface. Hidden strength keeps its oldest book in centimeters of flight, and yours just got its first entry.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A FARTHER JUMP"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same line, same ground, bring me a farther jump. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "broad jump",
+  "standing long jump",
+  "hip power",
+  "horizontal power",
+  "jump test",
+  "explosive strength",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "YOUR CM",
+  "hook": "THE OLDEST TEST"
+ },
+ "title": "Your Broad Jump Distance Reveals Your Hidden Strength",
+ "v5": true
+}

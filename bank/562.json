@@ -1,0 +1,410 @@
+{
+ "badge": "EP 562 - ACHILLES OVER MUSCLE",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SPRING",
+  "YOUR VERDICT"
+ ],
+ "description": "In a jump, your muscles are not the main event. The fastest, largest share of takeoff power comes from a tendon most people never train on purpose. Measure your vertical, and learn why your Achilles stiffness outranks muscle in the one event built for light bodies.",
+ "hashtags": [
+  "achilles tendon",
+  "vertical jump",
+  "tendon stiffness",
+  "elastic energy",
+  "jump higher"
+ ],
+ "id": "562",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WALL CEREMONY"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BEST OF THREE COUNTS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "IS YOUR NUMBER",
+     "pos": "tr",
+     "text": "CENTIMETERS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HOW MUCH WAS MUSCLE?"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP YOUR NUMBER SAFE"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Wall, reach mark, jump mark, you know the ceremony by now if you have been with this season, and if you are new, welcome to the only exam that matters here. Stand sideways to a wall, reach as high as you can, mark it. Then dip and jump, slapping the wall at your peak. The distance between the marks is your vertical, and it is your number today. Three attempts, best one counts, no run-up. This episode asks a rude question about that number: how much of it was muscle? The honest answer, from the biomechanics, is less than you think. The final and fastest portion of your takeoff, the part that separates the floaters from the earthbound, is delivered by a tendon, the Achilles, returning energy it borrowed during your dip. We are going to argue, with receipts, that its stiffness matters more than muscle in this event. Keep your number safe. The verdict at the end is personal.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MUSCLE HAS A SPEED LIMIT"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "THE TENDON IS THE STAR",
+     "pos": "br",
+     "text": "60+ CM"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FLOAT IS ELASTIC"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WHICH SIDE DO YOU TRAIN?"
+    }
+   ],
+   "big": "50 CM",
+   "card": "bignum",
+   "check": 1,
+   "label": "WHERE MUSCLE STOPS AND THE SPRING STARTS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, fifty centimeters, and here is what it separates. Below it, most jumps are muscle events: a strong push, honestly earned, with the tendon contributing a supporting role. Above it, the arithmetic changes, because muscle has a speed limit. A muscle can only shorten so fast, and at the end of a takeoff the body is moving faster than muscle alone can push. The extra speed, the float, the hang time that makes crowds gasp, is elastic: energy the Achilles stored during the dip and returned in the final fraction of a second. Researchers who partitioned jump power found the ankle's elastic contribution rising exactly where the impressive jumps begin. Your number today sits somewhere on that border. This episode is about which side of it your training should live on.",
+   "section": "THE NUMBER",
+   "sub": "under 40 cm: muscle is doing overtime - over 60: the tendon is the star",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Muscle holds. Tendon releases.",
+      "Release speed wins jumps."
+     ],
+     "pos": "tr",
+     "title": "THE ROPE THROWS THE STONE"
+    },
+    {
+     "asset": "ren_achilles_profile.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "POWER AMPLIFICATION"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE TENDON IS THE WEAPON"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "IDENTICAL CALVES, DIFFERENT HEIGHTS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the division of labor at the ankle. Your calf muscle is a modest engine, smaller than its reputation, and it is attached to the ground through the thickest tendon in your body. During the dip, the muscle contracts and holds its length while the tendon stretches, absorbing the energy of your descent. During takeoff, the muscle shortens a little and the tendon recoils a lot, and the recoil is where the magic lives: tendon can release energy far faster than muscle can generate it, a phenomenon called power amplification. A catapult's arm is not strong. The rope's twist is what throws the stone. Your Achilles is that rope, and its stiffness is the tightness of the twist. Two athletes with identical calves can jump different heights because one owns a tight rope and the other owns a loose one. Muscle is the crew. The tendon is the weapon.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STIFFER TENDON, HIGHER JUMP"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "STIFF SPRING",
+       100,
+       "cyan"
+      ],
+      [
+       "LEAKED SPRING",
+       70,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "JUMP HEIGHT, SAME MUSCLE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE SENIOR PARTNER"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The laboratory receipts are unusually direct. When scientists measured Achilles tendon stiffness in jumpers and compared it with jump height, the correlation was stubborn: stiffer tendons, higher jumps, even among athletes with similar muscle strength. When they fatigued or detrained the tendon, jumps fell before strength did. And in the classic experiments on the stretch-shortening cycle, pausing at the bottom of a dip, which lets elastic energy leak away, cost jumpers a large slice of their height while their muscles were exactly as strong as before. Same muscle, less spring, lower jump. It is as clean a demonstration as physiology offers that in this event, the tendon is not the muscle's assistant. It is the senior partner, and muscle is the staff that loads it. Train accordingly, and the wall becomes a different conversation.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO SETS OF BOOKS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "FOR THE TENDON",
+     "pos": "br",
+     "text": "SLOW CALENDAR"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PERFORMANCE IS THE ANNOUNCEMENT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MIRROR LIES BY OMISSION"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "If the tendon is the senior partner, why does everyone train the junior one? Because muscle is visible and tendon is not. Muscle grows in the mirror within months; tendon stiffens invisibly, on a slower calendar, announcing itself only in performance. The fitness world sells what photographs well, so generations of jumpers built bigger calves and wondered why their verticals moved by centimeters while wiry sprinters floated past them. The truth this channel keeps repeating is that the body keeps two sets of books: the mirror's and the stopwatch's, and they are audited by different tissues. Your vertical answers to the second set. Once you see that, the training writes itself: load the tendon heavily and slowly to build it, bounce it quickly to tune it, and let the muscle come along as staff, which it will. There is a generational irony in this worth naming. The athletes of the tendon era were not discovered by better mirrors; they were discovered by better instruments, force plates and ultrasound, which finally let science watch the spring work. The mirror had been grading the wrong tissue for a century because it was the only instrument in the room. Now you own a better instrument: a wall, a piece of chalk, and a number that answers to the tendon.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ENERGY PER KILOGRAM"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "AT A LIGHT MASS",
+     "pos": "br",
+     "text": "ELITE RATIO"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE FAVORITE, FINALLY"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DRESSED CORRECTLY ALL ALONG"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the part that should make you sit up: this argument favors your body specifically. Muscle scales with size, so the big athlete wins the muscle contest by default. But the jump does not ask how much muscle you own. It asks how much elastic energy you can return per kilogram of you, and that ratio is where light bodies feast. Your tendon needs to store and return energy for a small mass, so a moderately stiff Achilles puts you in elite ratio territory that a heavy athlete must build a freakish tendon to match. In the muscle event, you are the underdog. In the tendon event, the favorite. The vertical jump is a tendon event wearing a muscle event's clothes, and you have been dressed correctly for it all along.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "COUNTER JUMPS",
+   "music": "drive",
+   "narration": "Now we pay the senior partner. Four rounds of countermovement jumps, dip fast, reverse faster, full height, full rest. Every rep a deposit in the spring.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEAVY AND SLOW BUILDS IT"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "QUICK CONTACTS TUNE IT"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TEST RESTED OR NOT AT ALL"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REST IS EQUIPMENT"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BUILD, THEN TEACH IT TO THROW"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The protocol for a tendon-first jump program. Step one: heavy slow calf work, single-leg, full range, three-second lowerings, because stiffness is constructed under high tension over time, and there is no shortcut around the construction site. Step two: spring tuning, pogo hops and drop-rebounds with the shortest contacts you can manage, always fresh, because the built spring must learn to answer inside the takeoff window. Step three: keep your max jumps few and honest, testing the vertical when rested, since the test measures the tendon and a tired tendon grades a fiction. Step four: alternate the emphases across the week rather than stacking them daily; tendons remodel during rest, and the calendar is part of the equipment. Step five: protect the asset, warming up before spring work and backing off sharp ankle pain, seeing a professional if it persists. Build the rope tighter, then teach it to throw. That order matters.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "AN IDLE SENIOR PARTNER"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CENTIMETERS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE TENDON KEEPS THE BOOKS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number, read through tendon eyes. Under forty centimeters: your jump is a muscle event with an idle senior partner; the protocol wakes it, and the first gains are the fastest you will ever make in this event. Forty to fifty-five: the partnership is forming, recoil contributing, and your remaining height lives in construction, the heavy slow work. Over fifty-five: your Achilles is the star of a light frame, a combination most athletes cannot buy at any size. Put your centimeters in the comments, just the number, best of three, honest wall. Retest in thirty days, same wall, same marks. Muscle had its century. The tendon is keeping the books now, and it grades savers generously.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A HIGHER SLAP"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wall, same marks, bring me a higher slap. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "achilles tendon",
+  "vertical jump",
+  "tendon stiffness",
+  "elastic energy",
+  "jump higher",
+  "calf tendon",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "YOUR CM",
+  "hook": "MUSCLE ISN'T KING"
+ },
+ "title": "Why Your Achilles stiffness Matter More Than Muscle (The vertical jump mechanics Episode)",
+ "v5": true
+}

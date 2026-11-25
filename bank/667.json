@@ -1,0 +1,380 @@
+{
+ "badge": "EP 667 - DRIVE: THE TRUTH",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE TRUTH",
+  "YOUR VERDICT"
+ ],
+ "description": "Jump as high as you can and you have measured your recruitment speed. This episode tells the truth about motor units: the ceiling nobody reaches, why the first inches of any movement expose your wiring, and how rate of force decides what your strength is worth.",
+ "hashtags": [
+  "motor units",
+  "drive test",
+  "jump test",
+  "calisthenics",
+  "explosive strength"
+ ],
+ "id": "667",
+ "scenes": [
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE SECOND, NO LIES"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THREE ATTEMPTS, BEST COUNTS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "TO FIRE EVERYTHING",
+     "pos": "tr",
+     "text": "0.25 SEC"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR CENTIMETERS"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's drive test takes one second and tells no lies. Stand beside a wall, reach up and mark your highest fingertip touch. Now chalk your fingers, jump from a standstill, no run-up, no step, and slap the wall at the peak. Measure between the two marks. That distance, in centimeters, is your number today. A jump is the purest recruitment exam in this entire series, because it is over before strategy begins: everything you produce must be recruited and fired inside a quarter of a second, in the right order, at maximum rate. There is no pacing, no second rep, no grinding through. Your muscles had the whole of your life to prepare for that quarter second, and the wall just graded the preparation. Take three attempts, keep the best, and keep it safe. By the end of this episode you will know exactly which part of your nervous system the wall was grading, and why the grade matters far beyond jumping.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A WIRING GRADE, NOT A LEG GRADE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE AWAKE LINE",
+     "pos": "br",
+     "text": "50 CM"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FASTEST QUALITY TO TRAIN"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "RE-DONE IN A SEASON"
+    }
+   ],
+   "big": "50 CM",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE JUMP OF A MAN WHOSE WIRING IS AWAKE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for a standing jump in a healthy young man. The untrained average clusters around thirty-five to forty-five centimeters, and it is not primarily a leg-strength measurement: plenty of strong squatters jump modestly, and plenty of light, wiry men outjump them. Fifty centimeters is the mark of wiring that fires fast and completely, the trained line for this test. Beyond sixty, your rate of force is a genuine weapon, the quality that decides sporting moments and emergency ones alike. Under thirty-five is not a verdict on your legs. It is a measurement of recruitment speed, the one strength quality that responds to training faster than any other, because it is a skill of the nervous system before it is a property of muscle. Read your centimeters as a wiring grade. Wiring can be re-done in a season. That is the good news the wall just delivered, whichever number it gave you.",
+   "section": "THE NUMBER",
+   "sub": "under 35: recruitment is sleepy, not weak - over 60: your rate is a weapon",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The biggest units sit unfired.",
+      "Force needs time you don't have."
+     ],
+     "pos": "tr",
+     "title": "THE TWO TRUTHS"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A RACE AGAINST GRAVITY"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CEILING AND SPEED, PHOTOGRAPHED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The truth about recruitment starts with an uncomfortable number: in a single maximal effort, most untrained people recruit only about eighty to ninety percent of their available motor units, and the ones left unfired are disproportionately the largest, strongest units at the top of the stack. Evolution kept them behind a high threshold for good reason: full recruitment is expensive and slightly dangerous, and a body that fired everything to open a jar would not last. The second truth is about time. Even recruited units need a hundred milliseconds or more to reach full force, so a jump's quarter-second window is a race between your force curve and gravity, and the winner is decided by rate: how early the big units arrive and how fast they climb. Jump height is therefore a photograph of two things at once, your recruitment ceiling and your recruitment speed, printed on a wall in chalk. Everything else in this episode is about moving those two numbers.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CEILING AND SPEED TRAIN SEPARATELY"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "HEAVY WORK: CEILING",
+       80,
+       "gold"
+      ],
+      [
+       "EXPLOSIVE: SPEED",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT EACH METHOD BUILDS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE FIRST 100MS IS STRATEGY"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "UPGRADE THE STRATEGY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "What does the research say moves the photograph? Three findings matter. First, heavy strength training raises the ceiling: as maximal force grows, the nervous system practices recruiting the top of the stack under control, and some of that access transfers to fast efforts. Second, explosive training raises the speed: jumps, throws and sprints teach the system to recruit the big units early, in the first milliseconds, which is a distinct skill from recruiting them eventually. Studies separating the two find they are trained by different work and both are required; the strong-but-slow and the fast-but-light are each half-equipped. Third, and most useful for you: the early phase of force, the first hundred milliseconds, is the most trainable part of the whole curve in beginners, because it is almost pure neural strategy. Your wall number today is mostly strategy wearing a costume of strength, and strategy is the fastest thing in this entire channel to upgrade.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "big_vs_lean_jump.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRADED TWICE BY ONE WALL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "BARELY CHANGES; WIRING DOES",
+     "pos": "br",
+     "text": "YOUR MASS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRANSFERS TO EVERY FAST THING"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Here is the deep truth the comparison picture tells: a jump is bodyweight mathematics wearing a neural costume. The force you produce must accelerate your own mass, so every kilo you do not carry is a kilo the same force can throw higher. This is why the world's great jumpers cluster at lean builds, and why a heavier man must be dramatically stronger in absolute terms merely to tie your chalk marks. But do not let the mathematics flatter you into skipping the wiring: within your own body, across your own season, the centimeters you gain will come mostly from recruitment, because your mass is barely changing. The wall thus grades you twice. Against other men, it grades your build, favorably. Against yourself, it grades your nervous system, honestly. The second grade is the one this channel trains, and it is the one that transfers to every fast thing you will ever do, from catching yourself in a stumble to the first step of a sprint.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALLEST MASS, BIGGEST RETURNS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "FRESH PRACTICE, AFFORDABLE",
+     "pos": "br",
+     "text": "DAILY"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE QUALITY THAT LOVES FREQUENCY"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KINDER EVERY SEASON"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in the rate game is structural, and sprinters have always known it. Rate of force is expressed against the mass being moved, and your mass is the smallest full price in the room, so each increment of recruitment speed buys you more visible performance than it buys a heavy man. Your tendons help too: the elastic return in a jump is a larger share of the total at lighter loads, and this channel has been stiffening your springs all along. There is a final, quieter edge: fast qualities are practiced fresh, in tiny doses, and a light body can rehearse jumps and sprints almost daily without the joint bill that forces heavy athletes to ration them. Frequency is how neural skills consolidate. You can afford the most frequency, in the quality that loves frequency most. The wall knows. That is why it graded you kindly, and why it will grade you kinder.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "check": 3,
+   "exercise": "JUMPS",
+   "music": "drive",
+   "narration": "Now we train the first hundred milliseconds together. Four rounds of max jumps, full rest between efforts, every jump an honest attempt at the ceiling. Fresh and fast, never tired and sloppy.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEAVY DAY FOR THE CEILING"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FRESH AND FEW FOR SPEED"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STOP WHEN SPEED DROPS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SPEED WORK WHILE TIRED"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The recruitment protocol, built from the two-dial truth. Dial one, the ceiling: keep one heavy strength session a week for the legs and the pull, because maximal force practice is how the top of the stack gets introduced to the management. Dial two, the speed: twice a week, a handful of maximal jumps and short sprints, always fresh, always few, stopping the moment the height or speed visibly drops, because slow practice teaches slow recruitment. Rule three: never train speed tired. Rate work done in fatigue is rehearsal for being slow, and the nervous system dutifully learns whatever you rehearse. Rule four: retest on the same wall, same chalk, same shoes, monthly. Rate gains arrive in centimeters and weeks, and a monthly wall audit catches them while motivation is still warm.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HONESTY CAN BE TRAINED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN CHALK THE WALL AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CENTIMETERS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your recruitment verdict. Under thirty-five centimeters: sleepy wiring, the most fixable diagnosis in this series, and your season of dial-two work starts today. Thirty-five to fifty: the average band, where most men live and where the first ten centimeters of gain are the cheapest you will ever buy. Fifty to sixty: awake wiring, fast force on command, a quality that quietly upgrades every sport and stumble of your life. Beyond sixty: your rate is a weapon and the ceiling is your next frontier. Whatever the wall said, the truth in the title stands: your jump measured your nervous system's honesty, not your muscles' size, and honesty can be trained. Put your centimeters in the comments, just the number. In thirty days, chalk the wall again and let it grade the rewiring.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A HIGHER MARK"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same wall, same chalk, three honest attempts. Bring me a higher mark and a faster signal. Subscribe, and keep your number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "motor unit recruitment",
+  "drive test",
+  "vertical jump test",
+  "rate of force development",
+  "explosive strength",
+  "neural drive truth",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "YOUR CM",
+  "hook": "THE RECRUITMENT TRUTH"
+ },
+ "title": "Your Drive Test Reveals the Truth About Your motor unit recruitment",
+ "v5": true
+}

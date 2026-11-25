@@ -1,0 +1,406 @@
+{
+ "badge": "EP 718 - 5 TIMING MISTAKES",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE 5 LEAKS",
+  "YOUR VERDICT"
+ ],
+ "description": "A plank the morning after a hard day: this test exposes the leaks in your recovery curve. Here are the five supercompensation mistakes that quietly destroy progress, the receipts that prove each one, and the fixes that plug them this week.",
+ "hashtags": [
+  "timing mistakes",
+  "supercompensation",
+  "plank test",
+  "calisthenics",
+  "recovery"
+ ],
+ "id": "718",
+ "scenes": [
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE MORNING AFTER, ON PURPOSE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HOLD UNTIL THE LINE BREAKS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "TODAY VS YOUR FRESH BEST",
+     "pos": "tr",
+     "text": "THE EXHIBIT"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EVIDENCE ON THE TABLE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test belongs to the morning after. Yesterday you trained hard, or life did it for you; either way, get down into a plank now, forearms down, body in one line, and hold until the line breaks. That time is today's number. Beside it write your fresh plank best, the same test on a rested day, which this channel has measured before. The percentage you lost overnight is the exhibit for this entire episode, because today we are not building a curve, we are hunting leaks in one. Five mistakes account for nearly every stalled recovery curve I have ever seen described, and your plank percentage will point at the ones living in your week. Write the number down. Detectives and coaches both start with the evidence on the table.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A LEAK, NOT A BAD DAY"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "MISTAKES TO AUDIT IN ORDER",
+     "pos": "br",
+     "text": "5"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MISTAKE, RECEIPT, FIX"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PLUGGED THIS WEEK"
+    }
+   ],
+   "big": "75%",
+   "card": "bignum",
+   "check": 1,
+   "label": "BELOW THIS, YOUR CURVE HAS A LEAK, NOT A BAD DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line for a morning-after plank. Ninety percent or better of your fresh best means the curve survived the night: fatigue was priced, recovery ran, and the system is roughly honest. Between seventy-five and ninety, one leak is probably open somewhere in your timing, your dosing or your nights, draining a sum you can measure but not yet see. Under seventy-five percent, do not blame the day; audit all five mistakes, because a leak that large is never weather, it is plumbing. The rest of this episode walks the five in order, from the most common to the most invisible, and for each one you will get the same three things: the mistake, the receipt it leaves in numbers like today's, and the fix that plugs it this week, not someday.",
+   "section": "THE NUMBER",
+   "sub": "90%+: curve intact - 75 to 90%: one leak likely - under 75%: audit all five",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Too soon steals the overshoot.",
+      "Too late lets it evaporate."
+     ],
+     "pos": "tr",
+     "title": "LEAKS 1 AND 2: TIMING"
+    },
+    {
+     "asset": "ren_plank_sag.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FLATLINING DESPITE HEROICS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SCHEDULE FROM DATA, NOT GUILT"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "GREAT SESSIONS, NO IMPROVEMENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Mistake one: training again inside the dip. The session feels brave, the log looks committed, and the curve reads it as theft, because every hard effort launched from below baseline spends the recovery that was supposed to become the overshoot. The receipt: max tests that flatline for months despite heroic effort. The fix: schedule hard days from data, your surveyed recovery times, not from guilt. Mistake two: waiting too long and letting the overshoot evaporate. After the rise comes a quiet fall back to baseline, and the man who trains each muscle every ten days is forever re-buying the same fitness. The receipt: you feel great every session and improve at none of them. The fix: shorten the cycle until your tests, not your feelings, say the rise is being caught. Both mistakes are the same sin in opposite directions: ignoring the curve's timing while respecting its existence.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEAK 3: ONE RATE FOR EVERYTHING"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "MUSCLE",
+       50,
+       "cyan"
+      ],
+      [
+       "NERVES",
+       65,
+       "gold"
+      ],
+      [
+       "TENDONS",
+       95,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE COMMITTEE'S CLOCKS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE NIGHT SHIFT, IGNORED",
+     "pos": "tr",
+     "text": "LEAK 4"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STAGGER THE WEEK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Mistake three: pricing the whole body at one rate. Your muscles, nerves, fuel and tendons recover on different clocks, and a program that rests everything equally wastes the fast systems and rushes the slow ones, especially the cables, which file their recovery in collagen time. The receipt: muscles that feel ready attached to tendons that keep complaining. The fix: stagger the week, hard muscle work while tendons finish, tendon loading while muscles refill. Mistake four: ignoring the night shift. Sleep and food are not recovery's assistants; they are its mechanism, and a perfect curve drawn on a five-hour night is fiction. The receipt: morning tests that sag no matter how the days are spaced. The fix is the sleep protocol from earlier episodes, applied like training, because it is training. Two more leaks, and both hide in the dose itself.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_sag.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEAK 5: HEROIC DOSING"
+    },
+    {
+     "asset": "ren_plank_hold.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Emotion in a timing system.",
+      "Feelings are weather. The curve is climate."
+     ],
+     "pos": "br",
+     "title": "THE ROOT CAUSE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CAP THE DEPTH, RAISE THE FREQUENCY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Mistake five, the deepest leak: heroic dosing. One enormous session digs a dip so deep that the week is spent refilling it, and the overshoot, when it finally comes, barely repays the interest. Two moderate sessions in the same week dig two shallow dips and catch two rises, and the arithmetic is not close. The receipt for heroic dosing is a training life of dramatic Mondays and cancelled Fridays, soreness worn as a medal, and max tests that move in lurches or not at all. The fix is almost insultingly simple: cap the session at the depth you can repay in the time you actually have, and let frequency do the compounding. Underneath all five leaks runs one root cause, and it is the real subject of this episode: training by emotion in a system that runs on timing. Feelings are weather. The curve is climate. The men who improve for years are simply the ones who learned to read the climate and dress for it.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEAKS FOUND IN A FORTNIGHT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "TESTS AT TRIVIAL COST",
+     "pos": "br",
+     "text": "WEEKLY"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SMALL HONEST TRIMS"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A NOTEBOOK BEATS A SEASON"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in leak repair is that your laboratory detects leaks early and cheaply. Bodyweight max tests, the plank, the hang, the wall sit, can be run weekly at trivial cost, so a leaking curve shows up in your log within a fortnight instead of a wasted season. Your dosing is also finely adjustable, a set here, a variation there, which makes plugging leak five a matter of small honest trims rather than program demolition. And your recovery inputs are simple: the same floor, the same food, the same bed, so when the numbers move you know which lever moved them. The heavy trainee's leak hunt runs through gym schedules, equipment queues and a social calendar of training partners. Yours runs through a notebook. In the long arithmetic of progress, the man who finds his leaks in two weeks beats the man who finds his in two years, every single time.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "check": 3,
+   "exercise": "PLANK",
+   "music": "drive",
+   "narration": "Now we plug leaks with practice. Three rounds: forty seconds of plank, strict line, twenty seconds rest. Moderate, clean, repeatable: this is what a well-priced dose feels like.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_plank_sag.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "AUDIT FOR A MONTH FIRST"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TIMING BEFORE EVERYTHING"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NEVER ONE CLOCK FOR ALL SYSTEMS"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CAP THE DEPTH YOU DIG"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The leak-repair protocol, four rules. One: audit before you accuse: log today's morning-after percentage weekly for a month, because a leak is a pattern, and one bad morning is just a morning. Two: fix timing first, spacing hard days by your surveyed curves, since leaks one and two are the most common and the cheapest to close. Three: stagger the systems, never scheduling max muscle work and max tendon work as if they share a clock, because they do not and never will. Four: cap every session at a depth repayable inside your real week, and defend the night shift like a training day, because it is one. Run this for a month and rerun today's test. The curve you rescue will not be the one in the textbooks. It will be yours, watertight.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DRAINED BY SCHEDULING, NOT BY YOU"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN HUNT LEAKS AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR MORNING PERCENT"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MOST FIXABLE VARIABLE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. Ninety percent or better this morning: your curve is watertight today, and the five leaks are a checklist to keep, not a sentence to serve. Seventy-five to ninety: one leak is open, and the episode's receipts, flatlining maxes, evaporating rises, complaining tendons, sagging mornings, heroic Mondays, will tell you which one by Friday. Under seventy-five: audit all five in order, fix the first you find, and retest before hunting the next, because leaks compound and so does repair. In every band, remember the root truth: your recovery curve was never destroyed by your body. It was drained by scheduling, and scheduling is the most fixable variable in this entire sport. Put your morning percentage in the comments, just the number. In thirty days, we hunt leaks again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_sag.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A WATERTIGHT WEEK"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, the morning after a hard day, same plank, same honest clock. Bring me a higher percentage and a watertight week. Subscribe, and keep today's number safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "supercompensation mistakes",
+  "recovery curves",
+  "plank test",
+  "overtraining mistakes",
+  "training timing",
+  "recovery science"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_plank_hold.webp",
+  "big": "5 LEAKS",
+  "hook": "TIMING MISTAKES"
+ },
+ "title": "5 supercompensation Mistakes That Are Destroying Your recovery curves",
+ "v5": true
+}

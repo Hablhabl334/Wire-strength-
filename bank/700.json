@@ -1,0 +1,387 @@
+{
+ "badge": "EP 700 - THE SCAFFOLD TEST",
+ "category": "science",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE SCAFFOLD",
+  "YOUR VERDICT"
+ ],
+ "description": "A third of all the protein in your body is not muscle at all. Test your heel-raise endurance, meet the collagen scaffold that every force you make must travel through, and learn why the cable, not the engine, sets a skinny guy's true ceiling.",
+ "hashtags": [
+  "scaffold test",
+  "collagen",
+  "force transmission",
+  "tendons",
+  "thirty percent"
+ ],
+ "id": "700",
+ "scenes": [
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE SECOND UP, ONE DOWN"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE GAP IS A LESSON TOO"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "YOUR TWO NUMBERS",
+     "pos": "tr",
+     "text": "WEAKER SIDE + GAP"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TEN THOUSAND TRANSMISSIONS A DAY"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Today's test is heel-raise endurance, performed at a metronome's honesty. One leg on a step's edge, heel free, rise and lower at a steady beat, one second up, one second down, full range every rep, no speeding as it burns and no shortening as it begs. Count the clean reps on each side until form fails, and keep both numbers: the weaker side's count is your grade, and the gap between the sides is the episode's second lesson, because force in real life is produced one leg at a time, on stairs, in sprints, in landings, and the weaker cable is the one that sets the system's honest limit. This test closes the season's collagen arc, and it is fitting that it measures endurance rather than a single effort: the scaffold's job is not one heroic contraction but ten thousand transmissions a day, each one leaking or delivering according to the quality of the cable. Keep your weaker count and your gap together. By the end, you will understand why this channel, built for men who think their problem is muscle size, keeps returning to the tissue that is not muscle at all.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE MOST ABUNDANT PROTEIN YOU OWN"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "IS COLLAGEN",
+     "pos": "br",
+     "text": "30%"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE TENANT AND THE BUILDING"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "UNTRAINED AND UNMEASURED"
+    }
+   ],
+   "big": "30%",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF ALL YOUR BODY'S PROTEIN IS COLLAGEN",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the census figure that reframes the whole body. Roughly thirty percent of all the protein in you is collagen, making it the most abundant protein you own, ahead of every contractile fibre you have ever flexed in a mirror. It is the substance of tendons and ligaments, the matrix inside bone, the fascia wrapping every muscle, the cartilage, the skin: the entire scaffold through which, around which, and against which the muscles work. Muscle is the tenant of this building, generating force in rented rooms. Collagen is the structure that decides whether the force reaches the world or dissipates in the walls. For the skinny guy, this census is the most important statistic in the season, because his tenants are modest and everyone tells him to get bigger ones, while his building, the tissue that actually transmits, springs, and protects, goes unmeasured and untrained. Thirty percent of you has been waiting for a programme. This episode, and the collagen arc behind it, are that programme, and your heel-raise count is its opening grade.",
+   "section": "THE NUMBER",
+   "sub": "muscle is the tenant - collagen is the building it lives in",
+   "type": "card"
+  },
+  {
+   "asset": "achilles_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Force is made in the muscle.",
+      "Strength is what survives the scaffold."
+     ],
+     "pos": "tr",
+     "title": "FORCE VS STRENGTH"
+    },
+    {
+     "asset": "ren_calf_raise.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SOONER, FULLER, WITH CHANGE LEFT"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE TRANSMISSION IS THE GRADE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Trace one contraction through the building and the mechanism grades itself. The calf fibres shorten and pull on the Achilles; the Achilles, a collagen cable, transmits the pull to the heel bone; the bone levers the body upward. Every link after the first is scaffold. Now make the cable compliant, a rope with give, and watch the losses compound: the muscle must shorten further to take up the slack before any force reaches the bone, the timing of the transmission smears, and part of the energy that should return as spring is absorbed as stretch and heat. Make the cable stiff and well-crosslinked and the same contraction arrives at the bone sooner, fuller, and with change left over. This is why two men with identical calf muscles post different heel-raise counts and different jump heights: the engines match, the transmissions do not.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS SPENT ON SLACK"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "COMPLIANT CABLE",
+       60,
+       "red"
+      ],
+      [
+       "STIFF CABLE",
+       92,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FORCE ARRIVING AT THE BONE"
+    },
+    {
+     "at": 18,
+     "kind": "stat",
+     "label": "THE SCAFFOLD'S CALENDAR",
+     "pos": "tr",
+     "text": "MONTHS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A TRANSMISSION PROBLEM ACCEPTS PROTOCOLS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The transmission research quantifies what the mechanism describes. When scientists relate tendon properties to performance, stiffer, better-organised tendon tissue is associated with faster force transmission, better rate of force development, and more economical movement, because less of each contraction is spent taking up slack. The bars below put the comparison in its simplest form: of the force a muscle produces, the share that arrives at the bone in time to matter, through a compliant cable against a stiff one. There is a second, slower finding that gives this episode its patience: collagen turnover runs on a calendar of months, and the scaffold you build this season is, quite literally, the structure next season's muscle will hang from. Men who train only the tenant spend years wondering why the building limits them. Men who train both discover that the ceiling they blamed on genetics was a transmission problem, and transmission problems, unlike genetics, accept protocols. Your test today is the baseline of the building.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FULL PICTURE, GATHERED"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THE SCAFFOLD'S GROCERIES",
+     "pos": "br",
+     "text": "GLYCINE AND PROLINE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "IT REPORTS LATE"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "READ ALOUD BY THE TEST"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The deep dive gathers the scaffold's full picture, including the parts the earlier episodes only touched. Vitamin C is the crosslinking crew's essential cofactor, which is why the recipe pairs it with every dose. Sleep serves the scaffold as it serves everything, growth hormone's night work including connective tissue among its clients. Whey and meat, for all their virtues, do not substitute for collagen's amino profile: the scaffold is built disproportionately from glycine and proline, which ordinary muscle protein carries in smaller shares, which is why the recipe exists as a separate grocery rather than a bigger dinner. And the scaffold's patience must be respected in both directions: it adapts slowly to good programmes and complains slowly about bad ones, which is why tendon trouble so often seems to arrive from nowhere; it was arriving for months, in a tissue that reports late. The man who understands the scaffold stops asking why his strength does not match his effort. Effort is spent in the muscle.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CEILING IS TRANSMISSION"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "WEEKS TO MONTHS",
+     "pos": "br",
+     "text": "KITCHEN PRICES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NOBODY GRADED HIS CABLES"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A STRUCTURE WORTH LIVING IN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The skinny ceiling, examined honestly, is the scaffold's best recruiting argument. A light man's muscles are rarely the true limit on his strength; his absolute loads are modest, his engines adequate for his frame, and what separates him from the performance he wants is how much of his force survives transmission, how his springs return energy, how his cables hold their line under repetition. Those are scaffold qualities, and scaffold qualities are the most trainable, cheapest, most home-friendly adaptations in this entire season: dosed on a staircase, fed by a packet and a glass of juice, progressed by a backpack. The big man's ceiling, by contrast, increasingly is his muscle and his mass, qualities that cost years and groceries to move. Your ceiling is a transmission upgrade away, and transmission upgrades are measured in weeks to months at kitchen prices. This is the deepest version of the channel's founding claim: the skinny guy's problem was never that he is small. It is that nobody graded his cables.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_lsit.webp",
+   "check": 3,
+   "exercise": "L-SIT HOLD",
+   "music": "drive",
+   "narration": "Scaffold work through the whole frame: L-sit holds, straight arms pressing down, legs reaching long. Four short rounds. Feel every cable in the chain hold its line.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE DOSE, AN HOUR BEFORE"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REST DAYS ARE CONSTRUCTION DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "COLLAGEN INSTEAD OF MEALS"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "IT NEEDS YOUR TUESDAYS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The scaffold protocol is the season's collagen arc, compressed into standing orders. On tendon days, three or four a week: the recipe's dose an hour before, fifteen grams with vitamin C, then ten minutes of honest loading. Across the week: the stiffness plan's heavy slow work in its phases, tempo as law, load progressed by backpack arithmetic. Between bouts: the refractory respect, six hours minimum, and rest days treated as construction days, because for collagen they literally are. At the table: the scaffold's groceries alongside the muscle's, neither replacing the other, both crews fed. And on the calendar: the tests monthly, the judgement quarterly, because the building's ledger is kept in months and men who audit it weekly only manufacture discouragement. Standing orders, all of them already familiar, which is the point: a season of science ends not in novelty but in a short list of things done consistently. The scaffold does not need your excitement. It needs your Tuesdays, for about twelve of them, and then it will hold your force for years.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_eccentric_drop.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER CONSTRUCTION IS HOPEFUL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SAME STEP, SAME BEAT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT REPS AND GAP"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your scaffold verdict, weaker side and gap together. Under twelve reps: the building is under construction, and that is the most hopeful verdict in the season, because the scaffold responds to the cheapest protocol we have built. Twelve to twenty: a solid frame, transmitting honestly, with the gap rule in force, an extra set for any side trailing by more than a fifth, since the weak cable grades the whole system in every real-world effort. Over twenty with a small gap: a wired scaffold, force arriving where it is sent, and your ceiling from here is set by the tenants and the training, the way it should be. Record the step and the tempo beside the numbers; a heel-raise count without its conditions is a rumour. Put your weaker-side reps in the comments, and the gap beside them. In thirty days, same step, same beat. Episode seven hundred asked why collagen matters more than muscle. Your two numbers are the beginning of the answer, and the next twelve weeks are the rest of it.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_achilles_profile.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KEEP YOUR NUMBER"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same step, same steady beat. Bring me more reps on the weak side and a narrower gap. Subscribe, and keep your numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "collagen importance",
+  "tendon force transmission",
+  "heel raise test",
+  "connective tissue",
+  "scaffold",
+  "collagen synthesis",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_achilles_profile.webp",
+  "big": "30%",
+  "hook": "THE SCAFFOLD TEST"
+ },
+ "title": "Why Your collagen synthesis Matter More Than Muscle (The collagen timing Episode)",
+ "v5": true
+}

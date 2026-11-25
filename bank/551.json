@@ -1,0 +1,414 @@
+{
+ "badge": "EP 551 - SINGLE-LEG MISTAKES",
+ "category": "legs",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Your two legs are not twins. One of them is quietly weaker, and the difference is loading your knee tendons unevenly every single day. Take the single-leg test, find your real number, and fix the five mistakes that widen the gap.",
+ "hashtags": [
+  "single leg strength",
+  "knee tendons",
+  "leg day",
+  "calisthenics legs",
+  "squat form"
+ ],
+ "id": "551",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG ONLY"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "30 SECONDS PER LEG"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "label": "ONE PER LEG",
+     "pos": "tr",
+     "text": "2 NUMBERS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE SMALLER NUMBER RULES"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KEEP THEM SAFE"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "One leg only. | Stand tall now. | Face a chair. | Sit back slowly. | One foot lifted. | Touch the chair. | Stand back up. | That is one rep. | Thirty seconds, right leg. | Count every clean rep. | Now the left leg. | Same thirty seconds. | Same honest counting. | Write both numbers down. | The smaller one matters. | It is your truth today. | Keep both numbers safe. | At the end here | I tell you | what the gap means. | And which mistakes | are widening it daily.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE GAP IS THE NUMBER"
+    },
+    {
+     "at": 11,
+     "kind": "stat",
+     "label": "ONE TENDON OVERLOADED",
+     "pos": "br",
+     "text": "5+ REPS"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TWO-LEG SQUATS HIDE IT"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "HABITS, NOT GENETICS"
+    }
+   ],
+   "big": "SYMMETRY",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE GAP IS THE NUMBER THAT MATTERS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, and it is not the bigger leg. It is the gap between them. Under two reps of difference, your legs share work like partners and both knee tendons load evenly. A gap of five or more means one leg is doing overtime on every stair, every squat, every landing of your life, and its tendon is paying the overtime bill alone. Most skinny guys discover a gap they never suspected, because two-legged squats hide it perfectly: the strong leg quietly steals reps from the weak one, set after set, year after year. The test you just did removes the hiding place. One leg, one number, no theft possible. Whatever your gap is today, it is not a verdict on your genetics. It is a measurement of your habits, and habits are the most changeable thing you own.",
+   "section": "THE NUMBER",
+   "sub": "gap under 2 reps: balanced - gap of 5+: one tendon is overloaded",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Single-leg work doubles the load",
+      "onto one patellar tendon."
+     ],
+     "pos": "tr",
+     "title": "ONE CABLE, FULL BODYWEIGHT"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LOAD TEACHES THE TENDON"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE TRAINS, ONE COMMUTES"
+    },
+    {
+     "at": 30,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE GAP IS THE REPORT CARD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at the knee. Below the kneecap runs the patellar tendon, a thick cable tying your thigh muscle to your shin bone. Every time your knee bends under load, that cable transmits the entire force of the movement, and in single-leg work the load is not halved between two legs. It is doubled onto one. Your whole bodyweight, plus momentum, through one cable a few centimeters wide. Tendons answer that kind of honest load the way they answer everything: they thicken, stiffen and organize their fibers along the line of pull, but only when the load arrives regularly and evenly. An imbalanced pair of legs delivers the opposite education. One tendon gets a training program. The other gets a commute. The strong side adapts, the weak side merely survives, and the gap you measured is the report card of that arrangement.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIMB ASYMMETRY"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "BALANCED",
+       8,
+       "cyan"
+      ],
+      [
+       "YOUR WEAK SIDE",
+       100,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SIDE-TO-SIDE GAP"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEAK SIDE GAINS FASTER"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 25,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Sports science has a name for what you measured: limb asymmetry, and researchers track it because it predicts trouble better than raw strength does. Athletes with large side-to-side gaps in single-leg strength show higher rates of knee tendon pain, not because either leg is weak in absolute terms, but because the overloaded side accumulates micro-damage faster than rest can clear it. The encouraging half of the research is just as clear. Unilateral training, one leg at a time, closes gaps faster than any two-legged program, because the weak leg finally receives its full share of work with nowhere to hide. Studies on split squats and single-leg presses routinely show the weaker side gaining strength at nearly twice the rate of the stronger side in the first months. Your gap is not a flaw in your build. It is simply the side your training never met.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BALANCE IS A SECOND TEST"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "CORRECTIONS PER SECOND",
+     "pos": "br",
+     "text": "DOZENS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STRENGTH PLUS STEERING"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TRAIN THE PILOT TOO"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "There is a second system hiding inside the single-leg test: balance. Standing on one leg is a full-time negotiation between your ankle, your hip and your inner ear, run by nerves that fire corrections dozens of times per second. When those nerves are untrained, the leg wobbles, and every wobble is force arriving at the knee from an angle the tendon never prepared for. This is why two people with identical leg strength can post different numbers on this test. One owns the strength. The other owns the strength and the steering. Single-leg training rebuilds both at once, which is why its benefits leak into everything: stairs, sport, icy ground, old age. You are not just training a leg today. You are training the pilot who flies it. There is a practical trick for the wobble worth knowing: fix your eyes on a single point at eye level and keep them there for the whole set. Vision is the balance system's fastest input, and a wandering gaze is a wandering leg. Athletes also brace the trunk before each rep, a breath held gently against a tightened midsection, which stiffens the platform the leg works from. Small rituals, large returns: the test grades them all without telling you.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE LOAD SCALES WITH YOU"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "SMALL DOSES WORK",
+     "pos": "br",
+     "text": "NEAR DAILY"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FREQUENCY BUYS ADAPTATION"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LIGHT IS THE SCHEDULE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage in single-leg work is the same one hiding in every episode of this channel: the load scales with you. A split squat loads the working tendon with a large share of your bodyweight, and your bodyweight is light, which means you can train the movement often, recover quickly, and stack far more quality reps per week than a heavy lifter whose knees ration his practice. Tendons do not grow from heroic single efforts. They remodel from frequent, honest, repeatable load, and frequency is exactly what a light frame buys. The heavy guy needs days between leg sessions. You can touch single-leg work almost daily in small doses, and small daily doses are the tendon's favorite language. Being light is not the obstacle here. It is the delivery schedule. One more reason the frequency works: the tendon you are training is the same one you climb stairs with, so life itself becomes light practice between sessions, every step a small reminder sent to the cable.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "check": 3,
+   "exercise": "SPLIT SQUATS",
+   "music": "drive",
+   "narration": "Now we close the gap together. Three rounds of split squats, weak leg first, always. Slow down, full control up. The weak side sets the reps for both.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "TWO LEGS LET IT STEAL"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "STRONG LEG FIRST"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "KNEE CAVING INWARD"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BOUNCING THE BOTTOM"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "NEVER RETESTING"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The five single-leg mistakes destroying your knee tendons. Mistake one: always training two legs together. Bilateral work lets the strong leg steal, so the gap you measured never closes; single-leg work is not an accessory, it is the correction itself. Mistake two: starting every set with your strong leg. The fresh, focused reps go to the side that needs them least; weak leg first, every time, while your nerves are sharp. Mistake three: letting the knee cave inward. A caving knee routes force across the tendon at an angle, and angled load is how cables fray; track the knee over the toes. Mistake four: bouncing out of the bottom. Momentum does the hardest part and the tendon learns nothing; pause, then drive. Mistake five: testing once and never retesting. The gap is a living number, and what gets measured gets closed. Fix the five and the smaller number starts climbing within weeks.",
+   "section": "THE MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WEAK LEG FIRST, ALWAYS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT BOTH NUMBERS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MEASURED GAPS CLOSE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your two numbers. A gap of zero to two: balanced cables, a rare and valuable thing; maintain it with one single-leg session a week. A gap of three to four: a working imbalance, the most common result, and the fastest to fix, usually inside two months of weak-leg-first training. A gap of five or more: one tendon is carrying your life, and it deserves help starting this week, gently, with the protocol you just trained. If either knee aches sharply during single-leg work, ease off and see a professional if it persists. Put both numbers in the comments, weak leg first, just the pair. Retest in thirty days, same chair, same rules. Gaps close for the people who measure them.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "A SMALLER GAP"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same chair, one leg at a time, bring me a smaller gap. Subscribe, and keep both numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "single leg strength",
+  "single leg squat",
+  "knee tendon",
+  "patellar tendon",
+  "unilateral training",
+  "leg imbalance",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "1 LEG",
+  "hook": "ONE LEG ONLY"
+ },
+ "title": "5 single-leg strength Mistakes That Are Destroying Your knee tendons",
+ "v5": true
+}

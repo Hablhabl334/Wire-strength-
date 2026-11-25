@@ -1,0 +1,401 @@
+{
+ "badge": "EP 535 - THE SHRIMP TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVER",
+  "YOUR VERDICT"
+ ],
+ "description": "Kneel on one knee with the other foot grabbed behind you, and stand up. The shrimp squat is the pistol's stricter brother, and your reps grade knee leverage with nowhere to hide. Take the shrimp test, read your number, and build the leg that passes it.",
+ "hashtags": [
+  "shrimp squat",
+  "knee leverage",
+  "calisthenics",
+  "single leg",
+  "leg strength"
+ ],
+ "id": "535",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FOOT HELD BEHIND YOU"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "ONE LEG DOES EVERYTHING",
+     "pos": "br",
+     "text": "DOWN AND UP"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO PUSHING OFF"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WEAKER LEG = TRUE NUMBER"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "QUALITY OVER COUNT"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Stand tall, one leg. | Bend the other knee. | Grab that foot behind you. | Hold it with one hand. | Same-side hand, ideally. | Now sit down slowly. | Front leg does everything. | Lower until your | back knee touches | the floor, gently. | Then stand back up. | No pushing off. | No letting go. | No free hand helping. | Count your clean reps. | Test both legs. | The weaker leg | is your true number. | Keep it somewhere safe. | At the end I | tell you what it means. | Use a wall nearby | for balance safety. | One honest set | per leg today. | Quality over count.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 CLEAN REPS = THE LINE"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "ELITE SINGLE-LEG LEVERAGE",
+     "pos": "br",
+     "text": "5+ REPS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NOWHERE TO HIDE"
+    }
+   ],
+   "big": "3 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "PER LEG IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Three clean shrimp squats per leg, down to a gentle knee touch and back up without letting go or pushing off, is certified single-leg leverage. Zero reps today does not mean zero strength; it usually means the front knee cannot travel far enough yet, or the position is simply new, and both are trainable within a season. Five or more per leg puts you in rare company: the shrimp is stricter than the pistol because the held leg cannot counterweight you, so the front knee pays full price with no assistance. What this number reveals is knee leverage in its purest form, one joint, one leg, full bodyweight, maximum travel. There is no second leg to borrow from, no free leg to balance with, and no momentum that survives a slow descent. It is the most honest leg test in this season, which is exactly why it is near the end of it.",
+   "section": "THE NUMBER",
+   "sub": "0 reps: the knee cannot travel yet - 5+: elite single-leg leverage",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Free leg pulls backward.",
+      "Front knee pays everything."
+     ],
+     "pos": "tr",
+     "title": "NO SUBSIDY HERE"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SEVERAL TIMES BODYWEIGHT"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SINGLE, UNSUBSIDIZED, DEEP"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE BOTTOM IS THE PRICE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The shrimp squat is a knee lever with the training wheels removed. In a pistol, the free leg reaches forward and its weight pulls your center of mass toward the front foot, quietly subsidizing the lift. In the shrimp, that leg is folded behind you, its mass pulling you backward, so the front knee must produce the entire lift from the deepest, most bent position a knee ever works from. The quad and its tendon, the patellar tendon below the kneecap, transmit a force several times your bodyweight at the bottom. Meanwhile the ankle must still bend enough to let the knee travel, and the hip must keep the pelvis level while its partner leg is tied up behind you. This is why the shrimp humbles men with impressive two-legged squats. Their strength was real, but it was shared, subsidized and shallow. The shrimp accepts only strength that is single, unsubsidized and deep.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ankle_ligament_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEPTH IS A HUMAN POSITION"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "STAIRS + HILLS",
+       70,
+       "cyan"
+      ],
+      [
+       "CUTS + LANDINGS",
+       85,
+       "gold"
+      ],
+      [
+       "TWO-LEG SQUATS",
+       40,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT THE SHRIMP PREDICTS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LIFE IS SINGLE-LEG"
+    },
+    {
+     "asset": "ren_toe_raise.webp",
+     "at": 22,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The science here is the science of knee travel. A deep single-leg squat asks the knee to slide far forward of the toes while the heel stays down, and for decades that travel was feared as dangerous. The research record says otherwise for healthy knees: deep, controlled knee flexion with forward travel is a normal human position, trained by entire cultures that rest in it daily, and the structures of the knee adapt to loaded depth the way all tissue does, gradually and completely. What actually injures knees in deep work is the combination of depth, speed and surprise: collapsing into depth you cannot control, or twisting under load. The shrimp, done slowly with a gentle touch-down, is the opposite of that profile. There is a second finding worth your attention: single-leg strength shows far less transfer confusion than two-legged strength. A leg that owns the shrimp owns stairs, hills, cuts and landings, because life is a single-leg sport played one step at a time.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DIAGNOSE THE FAILURE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "BALANCE BEFORE REPS",
+     "pos": "br",
+     "text": "30 SEC"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WATCH HOW IT FAILS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Before reps, the shrimp demands a word about balance, because many failed shrimps are balance failures wearing a strength costume. Standing on one leg with the other grabbed behind you removes your usual correction tools, and the body must balance from the ankle and hip alone. The balance test from earlier in this channel, thirty seconds per leg with eyes open, is the honest prerequisite: if you cannot stand on the leg, you cannot yet squat on it. Two weeks of daily single-leg balance, plus slow split squats, converts most zero-rep tests into first reps before strength even enters the conversation. Diagnose before you train. The shrimp will tell you which system failed, if you watch the failure instead of just counting it.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME MULTIPLIER, SMALLER BILL"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "OF DEEP PRACTICE WEEKLY",
+     "pos": "br",
+     "text": "MORE DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "GRADED GENEROUSLY WHEN LIGHT"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE KNEE, WHOLE LIFE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage in the shrimp is the season's physics, applied at the knee. The bottom position charges the front knee a multiple of bodyweight, and the multiplier is the same for everyone while the bodyweight is not. Your knee pays a smaller absolute bill for the identical depth, which means you can practice deep single-leg work more days per week without the joint soreness that rations heavier athletes. There is also a flexibility dividend: lighter, leaner legs fold into the shrimp's shape with less tissue in the way, so the position itself is cheaper to learn. The men this skill was designed by and for, gymnasts and martial artists, share your build for a reason. The shrimp does not ask whether your legs look big in shorts. It asks whether one knee can lift your whole life from the floor, and it grades light bodies generously.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "check": 3,
+   "exercise": "SHRIMP NEGATIVES",
+   "music": "drive",
+   "narration": "Now we descend together. Three rounds: hold the back foot, lower as slowly as you can to a gentle knee touch, then stand up with help if you need it. Switch legs every round, and keep every descent honest.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_toe_raise.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "GATES BEFORE STRENGTH"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "NO DROPPING THE LAST INCHES"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NEVER LET GO MID-REP"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE WEAK LEG SETS THE TARGET"
+    },
+    {
+     "at": 27,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLOWLY, THEN SUDDENLY"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Your week. Three single-leg sessions, each opening with ankle work and balance, because the shrimp fails at gates before it fails at strength. The main work is negatives and split squats, exactly like our block, plus elevated shrimp practice: lower to a stack of books first, and remove books as the bottom becomes yours. Mistake one: dropping the last inches. The bottom is the entire exercise; if you cannot lower into it slowly, raise the target until you can. Mistake two: letting go of the back foot mid-rep. The held leg is the rule that makes the shrimp the shrimp; a released foot is a different, easier test. Mistake three: chasing the strong leg's number with the weak one untrained. Symmetry is the program. The weaker leg sets the session's target, and the stronger leg is only allowed to match it. Reps arrive slowly, then suddenly, like every honest thing in this season.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GATES ARE ASSIGNMENTS"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR WEAKER REPS"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STRICT BOOKS, WORTH READING"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number. Zero reps: you have found a gate, ankle, balance or depth, and gates are assignments, not verdicts; your next month is written by whichever gate stopped you. One to two reps: the position is yours and the strength is under construction, the most productive place in training. Three clean per leg: certified, your knee leverage is genuinely trained, one of the rarest leg qualities in any gym. Five plus: elite, and the pistol variations and loaded single-leg work are all open to you now. Put your weaker leg's reps in the comments, just the number, and retest in thirty days with the same rules: held foot, gentle touch, no push-off. The shrimp keeps strict books, and strict books are the ones worth reading.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "MORE CLEAN REPS"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same rules, both legs, held foot and honest descents. Bring me more clean reps and we will load the position together. Subscribe, and keep your number safe. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "shrimp squat",
+  "shrimp squat test",
+  "knee leverage",
+  "single leg strength",
+  "calisthenics legs",
+  "advanced squat",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "3 REPS",
+  "hook": "SHRIMP SQUAT"
+ },
+ "title": "Your Shrimp Squat Test Reveals Your Hidden Strength",
+ "v5": true
+}

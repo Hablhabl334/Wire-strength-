@@ -1,0 +1,401 @@
+{
+ "badge": "EP 723 - FIX BREAKFAST FIRST",
+ "category": "gaining",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MORNING",
+  "YOUR VERDICT"
+ ],
+ "description": "Tomorrow's breakfast, measured two ways: protein on the plate and minutes until hunger returns. Here is the truth about morning appetite, why the first meal sets the day's entire eating rhythm, and the drinkable fix that works while your clock is still learning.",
+ "hashtags": [
+  "breakfast test",
+  "morning appetite",
+  "protein breakfast",
+  "calisthenics",
+  "gaining"
+ ],
+ "id": "723",
+ "scenes": [
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWO DIALS: PROTEIN AND MINUTES"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "YOUR REAL BREAKFAST, NOT A PERFORMANCE"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE PROTEIN LINE TO BEAT",
+     "pos": "tr",
+     "text": "30 G"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE RHYTHM STARTS HERE"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Tomorrow morning, your breakfast becomes a test with two dials. Eat the breakfast you would actually eat on a training day, not a performance, and as you finish, record two things. First, the protein: estimate the grams honestly, an egg is six, a cup of milk eight, Greek yogurt fifteen to twenty, a palm of anything meaty about twenty-five. Second, start the clock and note the minutes until genuine hunger returns, the same standard as our appetite test. Two numbers: what the meal carried, and how long it held you. Together they grade the most consequential meal of a skinny man's day, because breakfast is not one meal among five. It is the appointment that sets the rhythm section for every meal after it, and this episode will prove that from the hormones outward.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FIRST CONSTRUCTION SHIFT"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "WHAT A BUILT BREAKFAST HOLDS",
+     "pos": "br",
+     "text": "3 HRS"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PROTEIN BUILDS, BALLAST SCHEDULES"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A SNACK IN A COSTUME"
+    }
+   ],
+   "big": "30 G",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE BREAKFAST PROTEIN LINE THAT CHANGES THE DAY",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line, drawn from the protein science earlier in this series. Thirty grams at breakfast crosses the leucine threshold that switches muscle protein synthesis fully on, which makes breakfast the first construction shift of the day instead of a rumor of one. Under fifteen grams, the meal was a snack in a costume: something sweet, something quick, gone in an hour and taking your rhythm with it. Fifteen to thirty is a real start that a small addition completes. And the second dial grades the meal's engineering: a thirty-gram breakfast that holds you three hours is a foundation, while the same protein gone in ninety minutes usually means it arrived without fat, fiber or volume, the ballast that slows the emptying. Protein starts the building. Ballast sets the schedule. Your two numbers grade both.",
+   "section": "THE NUMBER",
+   "sub": "under 15 g: a snack in costume - 15 to 30: a real start - over 30 g + 3 hrs: breakfast is built",
+   "type": "card"
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Each kept meal schedules the next.",
+      "Skipping compresses the whole day."
+     ],
+     "pos": "tr",
+     "title": "TEMPO IS SET AT BREAKFAST"
+    },
+    {
+     "asset": "ren_calf_raise_front.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE LONGEST SUPPLY GAP ENDS HERE"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BUILDING STARTS AT BREAKFAST OR NOON"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "br",
+     "text": "AN APPOINTMENT, NOT AN ACCIDENT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why does the first meal steer the whole day? Because appetite is a rhythm section, and breakfast is where the tempo gets set. The ghrelin system entrains to meal times, so a kept breakfast creates a late-morning knock, which creates lunch on schedule, which creates the afternoon feeding, which makes dinner an appointment instead of an accident. Skip breakfast and the rhythm does not pause politely; it compresses, pushing the day's eating into fewer, later, larger attempts that a skinny stomach handles worst of all. There is a second mechanism, quieter and just as real: the overnight fast is the longest supply gap in your twenty-four hours, and the muscle-full machinery from our protein episode sits idle through all of it. Breakfast ends the fast, restarts synthesis, and tells every system downstream that today is a building day. The man who skips it starts building at noon and wonders why the project runs behind.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "QUIET MORNINGS ARE PHYSIOLOGY"
+    },
+    {
+     "at": 10,
+     "items": [
+      [
+       "INTAKE BY SCHEDULE",
+       85,
+       "cyan"
+      ],
+      [
+       "WAKING RAVENOUS",
+       30,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT PREDICTS A SURPLUS"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "LIQUID CALORIES COUNT THE SAME",
+     "pos": "tr",
+     "text": "IDENTICAL"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STOP WAITING TO WAKE HUNGRY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The truth about morning appetite needs one honest paragraph, because the skinny man's quiet morning is real physiology, not laziness. Hunger hormones run a daily rhythm of their own, and for many people the early morning sits near the rhythm's low point, while sleep inertia and a rising body temperature are still booting the system up. Expecting a roaring appetite at seven in the morning is expecting the orchestra to peak during tuning. The research on breakfast and gaining points somewhere more practical: what predicts a successful surplus is not morning hunger but morning intake, however it is achieved, and intake achieved by schedule and by liquid or soft foods counts identically to intake achieved by appetite. The men who gain are not the men who wake ravenous. They are the men who stopped waiting to wake ravenous and built a breakfast that works on a quiet stomach: drinkable, protein-anchored, and kept at the same time until the clock from our last episode learns to knock.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE DRINKABLE FIX, CONCRETELY"
+    },
+    {
+     "asset": "ren_farmer_carry.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "lines": [
+      "Four minutes to make, two to drink.",
+      "Built for a quiet stomach."
+     ],
+     "pos": "br",
+     "title": "~800 KCAL, ~35 G PROTEIN"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BREAKFAST, RE-ENGINEERED"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Let me build the drinkable fix concretely, because it is the highest-value recipe in this season. Into a blender: five hundred milliliters of milk, eighty grams of oats, a banana, two tablespoons of peanut butter, and a spoon of honey if the week has been hard. That glass carries roughly eight hundred calories and about thirty-five grams of protein, crosses the synthesis threshold, includes fat and fiber for ballast, and empties at liquid speed, which means it asks almost nothing of a quiet morning stomach and returns your hunger in time for a mid-morning meal. It takes four minutes to make and two to drink, it costs less than most snacks, and it can be kept daily for months without cooking a single thing. This is not a supplement and it is not a hack. It is breakfast, re-engineered for the stomach you actually have, while the clock training slowly gives you a bigger one.",
+   "section": "THE DEEP DIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SMALLEST MEAL, THE LARGEST LEVER"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "TO SEE IT IN THE MINUTES",
+     "pos": "br",
+     "text": "2 WEEKS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE APPOINTMENT SOLVES IT"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "MOVE, THEN EAT, THEN RHYTHM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantages at breakfast are the season's refrain, and they are decisive here. Your protein line is thirty grams, not the fifty a heavy man needs to cross the same threshold, so your construction shift is cheaper to start. Your surplus is a few hundred calories, and the drinkable breakfast alone can carry most of it, which means one kept appointment can quietly solve a problem you may have carried for years. Your kitchen is beside your training space, so the sequence the science prefers, move, then eat, then let the rhythm run, fits your mornings without logistics. And your test is exquisitely sensitive: two numbers, grams and minutes, taken on an ordinary morning, will show the fix working within two weeks, in the minutes first and the scale shortly after. Breakfast is the smallest meal to fix and the largest lever in the gaining day. You are built to pull it.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "check": 3,
+   "exercise": "PUSH-UPS",
+   "music": "drive",
+   "narration": "Now the opening move of the gaining morning: work first. Four rounds of push-ups, thirty seconds on, thirty off. Then the drinkable breakfast inside the hour, while the rhythm is listening.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_farmer_carry.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FIXED TIME, APPETITE OPTIONAL"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "30 G PROTEIN, BALLAST ABOARD"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "READ THE SECOND DIAL"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "GRADED BY OUTPUTS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The breakfast protocol, four rules. One: breakfast happens at a fixed time daily, appetite invited but not required, because the clock entrains to kept appointments and this meal sets the day's tempo. Two: anchor it at thirty grams of protein minimum, by food if you can, by the drinkable build if the morning is quiet, with fat or fiber aboard for ballast. Three: judge it by the second dial: if hunger returns inside ninety minutes, add ballast before adding protein; if it never returns by lunch, the meal was too big or too slow, and the liquid version will fix the rhythm. Four: retest the two numbers monthly, same kind of morning, and keep the scale's weekly average beside them. Breakfast is a system, and systems are graded by their outputs, not their intentions.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_calf_raise_front.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE UNSCHEDULED MORNING WAS THE ENEMY"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "THEN GRADE THE MORNING AGAIN",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR BREAKFAST PROTEIN"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE DAY ARRIVES ON TIME"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. Under fifteen grams of protein: your breakfast was a snack in a costume, and the drinkable build is your first, easiest upgrade of the entire season. Fifteen to thirty grams with a short window: a real start missing its ballast, fixed by fat, fiber and a slightly bigger glass. Thirty grams holding you three hours: breakfast is built, and your gaining problem, if one remains, lives in the afternoon, where the next episodes will hunt it with you. In every band, the truth about morning appetite stands: the quiet morning was never your enemy. The unscheduled morning was. Fix breakfast first, and the rest of the day starts arriving on time like it was designed to. Put your breakfast protein in the comments, just the number. In thirty days, we grade the morning again.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THIRTY GRAMS, THREE HOURS"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE CABLE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days from now, same kind of morning, two numbers written down before the day takes them. Bring me thirty grams and a three-hour hold. Subscribe, and keep tomorrow's numbers safe until then. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "breakfast test",
+  "morning appetite",
+  "breakfast protein",
+  "gaining breakfast",
+  "first meal",
+  "skinny guy diet"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_sprint.webp",
+  "big": "30 G",
+  "hook": "FIX BREAKFAST FIRST"
+ },
+ "title": "Your Breakfast Test Reveals the Truth About Your morning appetite",
+ "v5": true
+}
