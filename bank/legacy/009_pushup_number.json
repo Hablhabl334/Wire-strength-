@@ -1,0 +1,183 @@
+{
+  "id": "009",
+  "v3": true,
+  "title": "Your Push-Up Number Reveals Your Real Strength",
+  "description": "Drop down and do as many push-ups as you can. That number says more about your real strength than any gym machine - especially if you are skinny. Here is the hidden math: relative strength, the tendon rope, and the 21-day plan to double your number. Educational content, not medical advice.\n\n#pushups #calisthenics #tendon #fitness #strength",
+  "tags": [
+    "push ups",
+    "push up test",
+    "calisthenics",
+    "tendon training",
+    "skinny guy fitness",
+    "relative strength",
+    "home workout"
+  ],
+  "category": "pushup",
+  "badge": "EP 09 - THE PUSH-UP NUMBER",
+  "checklist": [
+    "THE TEST",
+    "THE HIDDEN MATH",
+    "THE FORM",
+    "THE 21-DAY PLAN"
+  ],
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 2.4,
+      "section": "THE TEST",
+      "check": 0,
+      "narration": "Drop down | and do as many PUSH-UPS as you can. | Right now. | Chest to the floor, | body straight, | no resting at the top. | Got your NUMBER? | Keep it. | Because at the end of this video, | I will tell you | what it says about you.",
+      "music": "dark",
+      "angles": [
+        [
+          "ren_pushup_top.webp",
+          "ren_pushup_mid.webp",
+          "ren_pushup_bottom.webp"
+        ],
+        [
+          "ren_pushup_front_top.webp",
+          "ren_pushup_front_bottom.webp"
+        ]
+      ],
+      "angle_every": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_weak.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "narration": "If that number felt embarrassingly small, listen to me. On the floor, being LIGHT is not a weakness. It is an advantage most skinny guys never hear about. In one study, researchers followed over a thousand men for ten years. The men who could do more than forty push-ups had far fewer heart problems than the men who could not do ten. Not a gym test. A FLOOR test. And the floor is where your bodyweight works for you instead of against you.",
+      "music": "dark"
+    },
+    {
+      "type": "card",
+      "card": "study",
+      "head": "STUDY - THE PUSH-UP TEST",
+      "lines": [
+        "1,104 men followed for 10 years.",
+        "40+ push-ups: up to 96% lower",
+        "risk of heart disease than under 10.",
+        "Your number is a health marker."
+      ],
+      "foot": "Yang et al. 2019 - JAMA Network Open",
+      "section": "THE TEST",
+      "check": 0,
+      "narration": "Read that card again. A thousand men, ten years, and a simple floor test separated them better than most machines in a hospital. Forty push-ups meant up to ninety-six percent lower risk. Under ten was the danger zone. So your number is not vanity. It is a MARKER. And markers can be moved.",
+      "music": "calm"
+    },
+    {
+      "type": "art",
+      "asset": "big_vs_lean_jump.webp",
+      "section": "THE HIDDEN MATH",
+      "check": 1,
+      "narration": "Now the hidden math, the part nobody explains to skinny guys. Every push-up, you lift about seventy percent of your own bodyweight. A ninety-kilo man pushes sixty-three kilos a rep. You, at sixty kilos, push forty-two. His muscles are bigger, yes. But strength is not about the size of the engine alone. It is about how much force reaches the ground. And between the engine and the ground sits a ROPE.",
+      "music": "dark",
+      "lead_pause": 1.2
+    },
+    {
+      "type": "card",
+      "card": "layers",
+      "title": "ENGINE, ROPE, LEVER",
+      "layers": [
+        [
+          "MUSCLE",
+          "the engine - makes the force",
+          62,
+          "white"
+        ],
+        [
+          "TENDON",
+          "the rope - delivers the force",
+          88,
+          "cyan"
+        ],
+        [
+          "BONE",
+          "the lever - moves the load",
+          40,
+          "grey"
+        ]
+      ],
+      "section": "THE HIDDEN MATH",
+      "check": 1,
+      "narration": "Your muscle is the engine. Your bones are the lever. And your tendons are the tow rope between them. Big guys spend years building a bigger engine, then attach it with a cheap, stretchy rope, and half the force leaks out before it moves anything. Skinny guys who train the rope deliver almost everything their engine makes. That is the whole secret of the skinny guy who out-pushes, out-pulls and out-hangs men twice his size.",
+      "music": "calm"
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "section": "THE HIDDEN MATH",
+      "check": 1,
+      "narration": "Watch the middle of the push-up. That is where weak ropes fail. The elbows wobble, the wrists bend back, the force leaks sideways. A trained tendon stays STIFF under load, so the force goes in one direction only. Down. Through the floor. Stiffness is trainable, and it does not need a gym. It needs slow, heavy, honest reps, which is exactly where we go next.",
+      "music": "calm"
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE FORM",
+      "check": 2,
+      "narration": "Three rules | that turn push-ups | into TENDON training. | Rule one: | SLOW on the way down. | Three full seconds. | Rule two: | pause at the bottom, | chest one fist from the floor. | Rule three: | press up FAST, | like you are pushing | the floor away from you. | Slow down, | pause, | explode up. | That rhythm | is the whole method.",
+      "music": "drive",
+      "lead_pause": 1.2,
+      "angles": [
+        [
+          "ren_pushup_top.webp",
+          "ren_pushup_mid.webp",
+          "ren_pushup_bottom.webp"
+        ],
+        [
+          "ren_pushup_front_top.webp",
+          "ren_pushup_front_bottom.webp"
+        ],
+        [
+          "ren_pushup_45_mid.webp",
+          "ren_pushup_back_top.webp"
+        ]
+      ],
+      "angle_every": 4
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_bottom.webp",
+      "exercise": "BOTTOM HOLD",
+      "work": 30,
+      "rest": 15,
+      "rounds": 2,
+      "section": "THE FORM",
+      "check": 2,
+      "narration": "Now hold the bottom position with me. Chest one fist from the floor, body straight. This still hold is where the rope gets built. Go.",
+      "music": "drive"
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "21 DAYS",
+      "label": "THE GREASE-THE-GROOVE PLAN",
+      "sub": "5 easy sets a day, never to failure - then retest",
+      "section": "THE 21-DAY PLAN",
+      "check": 3,
+      "narration": "Here is the plan, and it is stupidly simple. Take your max number and cut it in half. Do that many push-ups, five times a day, spread out, never to failure. That is grease the groove. Your nervous system learns the pattern, your tendons get loaded a little every day, and the reps stay crisp. Twenty-one days. Then you retest.",
+      "music": "calm",
+      "lead_pause": 1.2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "YOUR NUMBER",
+      "check": 3,
+      "narration": "So, back to your number. Under ten: you are not weak, you are UNTRAINED, and untrained is the best place to start because everything works. Ten to twenty-five: your rope is waking up, and the plan will move you fast. Over twenty-five: you already have what most gym guys are missing, relative strength, and it is time someone told you. Whatever your number is, put it in the comments. Just the number. In twenty-one days we test again. Next video, we take this same rope to the pull-up bar, where skinny guys embarrass bodybuilders. This is Wire Strength. Train the cable.",
+      "music": "calm"
+    }
+  ],
+  "v4": true
+}

@@ -1,0 +1,242 @@
+{
+  "id": "010v5",
+  "v4": false,
+  "title": "Your Dead Hang Time Reveals Your Hidden Strength (v5)",
+  "description": "Grab a bar and hang. The clock does not care how big your arms look - it only measures the cables. Here is what your dead hang time says about your grip tendons, your shoulders and your real strength, plus the 30-second test we do together. Educational content, not medical advice.\n\n#deadhang #gripstrength #calisthenics #tendon #fitness",
+  "tags": [
+    "dead hang",
+    "grip strength",
+    "dead hang test",
+    "calisthenics",
+    "tendon training",
+    "skinny guy fitness"
+  ],
+  "category": "grip",
+  "badge": "EP 10 - THE DEAD HANG TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE CABLES",
+    "YOUR TIME"
+  ],
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_hang_side_relaxed.webp",
+        "ren_hang_side_active.webp",
+        "ren_hang_side_tuck.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Grab a bar. | Hang from it. | Right now. | Arms straight, | feet off the ground, | and start your clock. | Got your TIME? | Keep it. | At the end of this video | I will tell you | exactly what it means.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "NO GYM NEEDED",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "chip",
+          "text": "JUST A BAR + A CLOCK",
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "fact",
+          "title": "THE CLOCK IS THE JUDGE",
+          "lines": [
+            "No mirror. No flex. Just seconds."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "fact",
+          "title": "KEEP YOUR NUMBER",
+          "lines": [
+            "We come back to it at the end."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "60 SEC",
+      "label": "THE LINE BETWEEN WEAK AND WIRED",
+      "sub": "under 30: untrained cables - over 90: elite grip",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Sixty seconds is where a normal hang becomes a trained one. Under thirty, your cables are simply untrained, and untrained is fixable. Over ninety, you own a grip most gym guys will never build, no matter how big their arms get.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNTRAINED = FIXABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "90+ SEC",
+          "label": "ELITE GRIP TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "60 SEC = TRAINED",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "section": "THE CABLES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look at the hand. Your fingers have almost no muscle in them. None. The force comes from your forearm, down cables of tendon, into the fingers. A dead hang loads those cables with your entire bodyweight, and cables adapt exactly like ropes under tension. They get thicker. Stiffer. Stronger. And here is the skinny advantage again: less bodyweight to hold sounds easier, but it means you can hang longer, load more often, and build the cables faster than the heavy guy who rips off the bar in twenty seconds.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "FINGERS: ALMOST NO MUSCLE",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "swap",
+          "asset": "ren_finger_hang.webp"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "FOREARM = THE ENGINE",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "fact",
+          "title": "THE CHAIN",
+          "lines": [
+            "Forearm pulls the cable.",
+            "Cable moves the finger."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "ren_hang_side_active.webp"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "HANG TIME BY BODYWEIGHT",
+          "items": [
+            [
+              "LIGHT",
+              90,
+              "cyan"
+            ],
+            [
+              "HEAVY",
+              40,
+              "red"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "SKINNY = MORE REPS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_hang_side_relaxed.webp",
+      "exercise": "DEAD HANG",
+      "work": 30,
+      "rest": 0,
+      "rounds": 1,
+      "section": "THE CABLES",
+      "check": 2,
+      "music": "drive",
+      "narration": "Now hang with me. Thirty seconds. Arms straight, shoulders quiet. This is where the cables get built. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_hang_side_active.webp",
+      "section": "YOUR TIME",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your time. Under thirty: you are not weak, you are unwired, and two weeks of daily hangs will move you fast. Thirty to sixty: the cables are waking up. Over sixty: you already hold what most people are missing. Put your seconds in the comments. Just the number. We retest in fourteen days. Next video, we take these cables to the pull-up bar. Train the cable.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "2 WEEKS OF DAILY HANGS",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "swap",
+          "asset": "ren_dead_hang_front.webp"
+        },
+        {
+          "at": 7,
+          "kind": "stat",
+          "text": "14 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "fact",
+          "title": "YOUR VERDICT",
+          "lines": [
+            "Under 30: unwired, not weak.",
+            "Over 60: you own it."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    }
+  ],
+  "v5": true
+}
