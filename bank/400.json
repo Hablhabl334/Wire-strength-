@@ -1,0 +1,476 @@
+{
+ "id": "400",
+ "v5": true,
+ "title": "The 30-Day dead hang Experiment: Your grip tendons Week by Week",
+ "description": "The thirty-day dead hang experiment told week by week: a Sunday max hang, a new grip challenge each week, and your grip tendons adapting in four instalments. Take the day-zero test, learn what the cables in your fingers do with a month of daily tension, follow the weekly plan, and compare your numbers at the end of each week.",
+ "tags": [
+  "dead hang",
+  "grip tendons",
+  "dead hang experiment",
+  "grip strength",
+  "30 day challenge",
+  "week by week",
+  "calisthenics"
+ ],
+ "hashtags": [
+  "dead hang",
+  "grip strength",
+  "30 day challenge",
+  "week by week",
+  "calisthenics",
+  "hang challenge"
+ ],
+ "category": "experiments",
+ "badge": "EP 400 - HANG WEEK BY WEEK",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_dead_hang.webp",
+  "big": "4 WEEKS",
+  "hook": "HANG WEEK BY WEEK",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Day zero. | Before any training. | We take the test. | The Sunday max hang. | Grab a bar. | Hang at full stretch. | Start your clock. | Drop when you must. | That is your NUMBER. | Reading number one. | Write it down. | Every Sunday for a month | we hang again. | Five readings total. | A film of your tendons | learning their trade. | In thirty days | the last reading lands. | Keep your numbers close. | Let us begin.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: READING ONE",
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "HANG UNTIL YOU DROP",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "text": "EVERY SUNDAY, AGAIN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "FIVE READINGS TOTAL",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Daily hangs, Sunday maxes.",
+      "30 days. A film of tendons."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "text": "KEEP YOUR NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR TIME",
+   "label": "YOUR DAY-ZERO HANG NUMBER",
+   "sub": "under 20 sec: untrained - 30 to 50 sec: building - over 60 sec: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is frame one in plain terms. Under twenty seconds means your grip tendons are untrained, the most common opening frame in this film. Thirty to fifty seconds is the building zone, where weekly readings get exciting fast. Over sixty, you start wired, and your month becomes about extending a strength most people never build. This experiment is told in four weekly chapters, each ending with a Sunday max hang, so instead of one before and after you get the whole adaptation story: the fast neural jump, the tendon construction weeks, and the final consolidation. Your time today is the first number in a row of five. Keep the row somewhere visible. Rows of numbers have a way of pulling you back to the bar.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "FRAME ONE OF FIVE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "5 READINGS",
+     "label": "THE WHOLE STORY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "ROWS PULL YOU BACK",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The mechanism is the one this channel was built on. Your fingers have no muscle worth the name. Your forearm muscles pull long tendons through your wrists and palms, and those cables close your fingers around the bar. A dead hang loads them with your entire bodyweight, the most honest tension they will ever get at home. Under daily tension, the tendons do cable things: collagen fibres multiply and align along the pull, the tissue stiffens, and the sheath the tendon slides through stays slick and healthy. Week by week, the same forearm can hold longer, not because it grew, but because its cables stopped leaking force and started lasting. The Sunday max hang is simply a stopwatch held up to that process. Five stopwatch readings, one per week, and you can watch a tendon become a better cable in numbers.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE CHANNEL'S FIRST CABLE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "STOPWATCH ON A PROCESS",
+     "lines": [
+      "Collagen aligns weekly.",
+      "The hold outlasts the muscle."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "CABLES STOP LEAKING FORCE",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "FIVE READINGS, ONE TENDON",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The week by week science of the hang has a beautiful shape. Week one belongs to the nerves: your brain learns to recruit the forearm fully and to pace the effort, and Sunday's hang often jumps by a third. Week two belongs to the tissue, and it is quiet: collagen turnover peaks, the tendon is spending before it earns, and the Sunday number may stall or even dip. Do not let that dip fool you. It is the sound of construction. Week three, the new collagen starts working, and the hang climbs again on real tissue change. Week four consolidates, and the final Sunday collects everything. Two clocks, one fast and one slow, drawing one staircase. Every grip experiment on this channel follows this shape, and once you have seen your own staircase, you will recognise it in every tendon you ever train again.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "JUMP, DIP, CLIMB, COLLECT",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_grip_squeeze.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE WEEK TWO DIP",
+     "lines": [
+      "Turnover peaks, earnings wait.",
+      "It is the sound of construction."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "SUNDAY READINGS",
+     "items": [
+      [
+       "SUNDAY 0",
+       24,
+       "red"
+      ],
+      [
+       "SUNDAY 4",
+       78,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "TWO CLOCKS, ONE STAIRCASE",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "RECOGNISE IT FOREVER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "One more layer before the plan, because the bar itself is a variable most people never think about. A thin bar lets your fingers wrap further and feels easier. A thick bar opens the hand and makes the same bodyweight feel twenty percent heavier, which is why thick-bar work is a classic grip builder. Chalk, or simply dry hands and a dry bar, removes the skin-slip that steals seconds from honest hangs. And your grip style matters: thumb wrapped is the standard and the safest for max tests, while a thumbless grip is a variation for training days only, never for a tired max. For this experiment, keep the test bar, the test grip and the hand preparation identical every Sunday, because the weekly film only means something if the camera never moves. Vary the training all you like. Never vary the test.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE BAR IS A VARIABLE",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_grip_squeeze.webp"
+    },
+    {
+     "at": 15,
+     "kind": "fact",
+     "title": "VARY TRAINING, NEVER THE TEST",
+     "lines": [
+      "Same bar, grip and prep.",
+      "Every single Sunday."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "THICK BAR: 20 PERCENT HEAVIER FEEL",
+     "pos": "tr"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "text": "THE CAMERA NEVER MOVES",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage in the hang is the purest arithmetic on this channel. The bar charges your bodyweight by the second. A lighter body pays less per second, so your daily practice can hold more total seconds, more days in a row, than a heavy guy's hands will ever tolerate. His experiment becomes a negotiation with sore fingers. Yours becomes a simple daily appointment. And because the Sunday test charges the same low rate, your weekly readings stay clean, unpoisoned by the fatigue that makes heavy testers' numbers bounce randomly. Clean readings, perfect attendance, low cost per second. If the dead hang has a home-field advantage anywhere in the world, it is in a skinny guy's doorway, and this month is played entirely at home.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "CHARGED BY THE SECOND",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_dead_hang_front.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "A SIMPLE DAILY APPOINTMENT",
+     "lines": [
+      "No negotiation with pain.",
+      "Just show up and hang."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "PLAYED ENTIRELY AT HOME",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "CLEAN READINGS WEEKLY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_relaxed.webp",
+   "exercise": "DEAD HANG",
+   "work": 40,
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Hang with me. Three rounds, straight arms, quiet shoulders, slow breathing. Note your best round; it is a preview of Sunday. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days, one chapter per week. Your daily work is hangs totalling about two minutes, and every Sunday is a max test. Week one, Learn: daily hangs in pieces at seventy percent effort, chalk or dry hands, perfect stillness. Sunday, reading one is already behind you; this Sunday is reading two. Week two, Build: daily hangs grow harder, one near-max hang midweek, and do not chase the Sunday number when it stalls, because the stall is the construction phase introducing itself. Week three, Load: add one harder variation daily, a thicker bar, a towel, or the last fifteen seconds on fewer fingers, and watch Sunday respond. Week four, Consolidate: keep the daily two minutes clean, taper the last three days to easy hangs, and the final Sunday is the day thirty max. The hand laws never change: warm up with a short easy hang, stop for sharp finger pain, and keep the body still, because swinging is the grip paying for the body's chaos.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: LEARN AT 70 PERCENT",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "PERFECT STILLNESS",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: DO NOT CHASE SUNDAY",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE STALL INTRODUCES ITSELF",
+     "lines": [
+      "Construction phase, on schedule.",
+      "Chasing ruins the dose."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "SWINGING IS CHAOS TAX",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "FINAL SUNDAY: DAY 30 MAX",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "5 READINGS",
+     "label": "THE FILM COMPLETE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty, the fifth reading. Same bar, same clock, one max hang. Here is how the film usually ends. The typical graph goes from the twenties to somewhere between sixty and ninety seconds, with the week two dip sitting in the middle like a plot twist everyone should expect. If you crossed ninety, your grip tendons are wired at a level that changes every pulling exercise you own. If your graph climbed in a straight line with no dip, your tendons were likely young in training age and built while they learned, a lucky anatomy worth appreciating. If the final number disappointed you, retest after two rest days before judging the month, because a tired grip lies fluently. Put your graph in the comments if you kept it, all five readings. Five numbers, one month, and a pair of cables that will never be untrained again.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE FIFTH READING",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "60 TO 90 SEC",
+     "label": "THE TYPICAL ENDING",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "A TIRED GRIP LIES",
+     "lines": [
+      "Retest after two rest days.",
+      "Before judging the month."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT YOUR GRAPH",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang_front.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Four weeks of hanging, five readings, and your grip tendons finish their first real education. Keep a weekly hang in your life, and subscribe for the next experiment. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "THEIR FIRST EDUCATION",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "KEEP A WEEKLY HANG",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT EXPERIMENT SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,388 @@
+{
+ "id": "518",
+ "v5": true,
+ "title": "Why Your hamstring tendons Matter More Than Muscle (The Nordic curl Episode)",
+ "description": "Why do your hamstring tendons matter more than muscle? Because sprinting, landing, and staying uninjured are braking events, and brakes are made of tendon. Take the Nordic lowering test, then learn why the brake decides how fast you are allowed to go.",
+ "tags": [
+  "nordic curl",
+  "hamstring tendons",
+  "why tendons matter",
+  "eccentric strength",
+  "hamstring injury prevention",
+  "nordic lowering",
+  "calisthenics legs"
+ ],
+ "hashtags": [
+  "nordic curl",
+  "hamstring tendons",
+  "tendons over muscle",
+  "eccentric strength",
+  "injury prevention",
+  "brake strength"
+ ],
+ "category": "skills",
+ "badge": "EP 518 - WHY HAMSTRING TENDONS WIN",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MECHANISM",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_forward_fold.webp",
+  "big": "4 SEC",
+  "hook": "TENDONS BEAT MUSCLE",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_forward_fold.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Kneel tall on something soft, heels anchored under a couch or a partner's hands, body in one straight line from knees to head. Lean forward from the knees and lower toward the floor as slowly as your hamstrings allow, resisting the whole way, and start your clock. Stop it when your hands catch the floor. That lowering time is your number. Note also where the control ended: early, middle, or nearly at the floor, because the range where the brake lets go is part of the grade. Keep both. Today is about why this brake, built mostly of tendon, decides things your quads never get a vote on: how fast you can sprint, how safely you can land, and whether your hamstrings survive the season.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "HEELS ANCHORED, BODY ONE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "SECONDS",
+     "label": "YOUR BRAKE TIME",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "NOTE WHERE CONTROL ENDED",
+     "pos": "tr"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "THAT TIME IS YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "4 SEC",
+   "label": "OF CONTROLLED LOWERING IS THE LINE",
+   "sub": "under 2: the brake is missing - 6+: full nordic in reach",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. Four seconds of controlled lowering, line unbroken, is certified hamstring tendon leverage. Under two seconds means the brake is functionally missing: your body falls and your hands negotiate the landing. Over six seconds and the full Nordic curl, down and back up, is a realistic goal for the year. Now consider what this number predicts that no mirror and no leg extension ever will. It predicts braking capacity, the ability of your posterior chain to absorb force while lengthening, and braking capacity is the quiet variable underneath sprint speed, change of direction, and hamstring health. Every athlete is an engine with brakes, and the top speed of the system is set by whichever is weaker, because no sane nervous system lets the body travel faster than it can stop. Your lowering time is a brake dyno test. Most people have never once measured their brakes, and then they are surprised by what the road does to them.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "4 CONTROLLED SEC = THE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "BRAKE DYNO",
+     "label": "YOUR NUMBER, TRANSLATED",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "TOP SPEED IS SET BY BRAKES",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the back of the thigh. The hamstrings are two-joint muscles, crossing hip and knee, and their tendons are long, which is a design decision worth respecting. In sprinting, the hamstring's great job arrives in late swing phase: the leg is flying forward, the knee is straightening, and the hamstrings must fire while lengthening to brake the shin before the foot lands. That is an eccentric, tendon-heavy task performed at high speed, and it is precisely the task the Nordic trains at low speed. The tendon is the star of this work because tendon is the tissue that stores and returns elastic energy and transmits force without spending metabolic money. Muscle is the engine that tensions the system, but the cable decides how much force actually arrives, how fast, and whether the structure survives its own power. A strong engine with a frayed cable is not a fast car. It is a recall notice. This is why tendons matter more than muscle in the braking business: they are the part that fails, and the part that, trained, refuses to.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "THE BRAKE OF THE SPRINT",
+     "lines": [
+      "Hamstrings fire while lengthening.",
+      "Tendon transmits, muscle tensions."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "achilles_anatomy_plate.webp"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "THE CABLE DECIDES DELIVERY",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THE PART THAT FAILS, TRAINED",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The research story here is unusually consistent, and it is worth hearing carefully. Hamstring strains are the most common injury in sprinting and field sports, and they cluster in the exact lengthening-brake action the Nordic trains. Programs that build eccentric hamstring strength with Nordic lowering have repeatedly been shown to cut those injuries substantially in the athletes who actually do the work. The proposed mechanisms are sensible: the muscle's working length increases, so the brake engages earlier and across more range; the tendon and muscle tolerate higher forces at long lengths; and the nervous system learns to recruit the brake before the emergency instead of during it. Compare the two athletes in pre-season. One adds leg curls, strengthening the muscle in its shortening direction, the direction that never gets injured. The other adds Nordics, strengthening the brake in its lengthening direction, the direction that decides seasons. Same gym time. One of them is training the injury's exact address, and the other is training next door.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "TRAIN THE INJURY'S ADDRESS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "bars",
+     "title": "TWO PRE-SEASONS",
+     "items": [
+      [
+       "SHORTENING WORK",
+       30,
+       "red"
+      ],
+      [
+       "LENGTHENING BRAKE",
+       100,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "THE BRAKE ENGAGES EARLIER",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_leg_swing.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_leg_swing.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The supporting drill is the single-leg hinge, the brake's daily bread. Stand on one leg, hinge at the hips with a flat back until your body forms a T, and return, ten slow reps per side. It teaches the hamstring and glute to share braking work at moderate prices, and it exposes left-right differences the Nordic's two-leg anchor can hide. Three sets, three times a week, is a complete insurance policy's first page. Insurance is the right metaphor for this whole family: nobody frames their premium payments, and everybody wishes they had paid them in the month before the accident.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "SINGLE-LEG HINGES",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "10 REPS",
+     "label": "SLOW, PER SIDE",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "EXPOSE THE DIFFERENCES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "PAY THE PREMIUM",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_forward_fold.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage is that tendon training is the great equalizer of this season, because tendons do not care about your weight class as much as muscles pretend to. The Nordic's load is your bodyweight, priced fairly for a light athlete: heavy enough to build a serious brake, light enough to practice quality reps twice a week without living sore. And the returns on a good brake are wildly disproportionate for a skinny athlete. Your game, whatever it is, is speed, agility, and durability, because mass-based power was never going to be your department. Brakes are the governor on all three. A skinny athlete with an elite brake can sprint at his true top speed, cut without fear, and finish seasons uninjured, which is a career profile most heavier athletes would trade bulk for. The mirror cannot see a brake. The stopwatch, the scoreboard, and the physio's empty appointment book can.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE GREAT EQUALIZER",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "SPEED + DURABILITY",
+     "label": "YOUR DEPARTMENT",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "THE PHYSIO'S EMPTY BOOK",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_leg_swing.webp"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_forward_fold.webp",
+   "exercise": "NORDIC LOWERING",
+   "work": 30,
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Kneel tall with me. One line, lean from the knees, and brake for as much of these thirty seconds as you own. Reset tall between falls. The brake is the exercise. Go."
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "narration": "Here is the protocol the mechanism demands. Dose it like insurance, not like a challenge: two sessions a week, a handful of quality lowers, because tendon tissue adapts to repeated tolerable stress and rebels against heroic weekends. Lower through the range you own and extend the range with targets: cushions in front of you that shrink month by month, so the brake is always being trained at its current frontier instead of being tested past it. Keep the hips extended and the line honest; a folded hip shortens the lever and fires the brake from its own job. And respect the soreness signal in the first month. Eccentric work produces memorable soreness while the tissue remodels, and the correct response is spacing, not surrender: forty-eight hours between sessions, minimum. The monthly shape: partial Nordics twice a week, single-leg hinges between them, one honest timed test. Brakes are built by drivers who check them, and yours now has a number and a schedule.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "HEROIC WEEKENDS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "TESTING PAST THE FRONTIER",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "FOLDED HIPS, FIRED BRAKE",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "IGNORING THE SORENESS SIGNAL",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "INSURANCE, PAID WEEKLY",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_forward_fold.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your time and your range. Under two seconds, control ending early: the brake is missing, and partial lowers to a high target are your starting policy. Two to four seconds with the middle range owned: the brake is real and extending. Over four seconds, control to the floor: your hamstring tendon leverage is certified, and your top speed just got a higher legal limit. Retest in thirty days, same anchor, and record the range where control ends beside the time, because the frontier's address is half the grade. Put your seconds in the comments. Just the number. The road grades brakes without mercy and without appointments. Yours now has a dyno result, and dyno results, unlike opinions, improve on a schedule.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "UNDER 2: THE BRAKE IS MISSING",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_leg_swing.webp"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_forward_fold.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Engines get the glory. Brakes set the speed limit. Build the brake and the limit rises. Subscribe, and bring me your new time in thirty days. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "BRAKES SET THE LIMIT",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "BRING ME THE NEW TIME",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "SEE YOU AT THE RETEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

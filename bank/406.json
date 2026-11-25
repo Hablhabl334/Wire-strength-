@@ -1,0 +1,395 @@
+{
+  "id": "406",
+  "v5": true,
+  "title": "The 30-Day squats Experiment: Your knee and hip tendons Week by Week",
+  "description": "Thirty days of squats, starting with one honest two-minute test. Learn how your knee and hip tendons share every rep, climb the daily squat ladder, and retest on day thirty to see what a month of squatting builds in a light frame.",
+  "tags": [
+    "squat test",
+    "squat challenge",
+    "30 day challenge",
+    "knee tendons",
+    "calisthenics",
+    "bodyweight squats",
+    "squat max"
+  ],
+  "hashtags": [
+    "squats",
+    "30 days",
+    "knee tendons",
+    "squat test",
+    "calisthenics",
+    "experiment",
+    "leg day"
+  ],
+  "category": "experiments",
+  "badge": "EP 406 - 30 DAYS OF SQUATS",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_squat_bottom.webp",
+    "big": "50 REPS",
+    "hook": "SQUAT TEST",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_squat_top.webp",
+        "ren_squat_mid.webp",
+        "ren_squat_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Stand tall, feet flat. | Set a timer: | two minutes exactly. | Sit down deep. | Hips below knees. | Stand all the way. | That is one. | Keep going, steady. | Full depth every rep. | Full stand every rep. | When the timer ends, | or form breaks, | count your REPS. | Write the number down. | Keep it safe. | At the end | I tell you | what it means.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "TWO MINUTES EXACTLY",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "FULL DEPTH, FULL STAND",
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "FORM BREAKS = DONE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "KEEP YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "50 REPS",
+      "label": "SQUATS IN 2 MINUTES, FULL DEPTH",
+      "sub": "under 30: legs unwired - over 70: wired legs",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Under thirty full-depth reps in two minutes, your legs are unwired for this work, which means the month ahead has easy wins stacked inside it. Thirty to fifty is the untrained middle, legs that serve you fine and have never been asked a serious question. Over seventy, your legs already outwork most of the gym. The experiment asks: what does thirty days of daily squatting do to a two-minute number?",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "UNWIRED = EASY WINS INSIDE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "FULL DEPTH OR IT'S NOT A REP",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "70+ REPS",
+          "label": "OUTWORKS MOST OF THE GYM",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Every squat you do is paid for by two tendon systems working as partners. Above the kneecap, the quadriceps tendon carries the force of your thigh muscle into the knee. Below it, the patellar tendon hands that force to the shin. Behind the scenes, the hip tendons, glute and hamstring cables, decide how much of the load the knee must carry at all: strong hips share the bill, lazy hips forward the whole invoice to the knees. This partnership is why squat endurance is a tendon story. Muscles tire and recover in days; the cables set how much force can be transferred, rep after rep, minute after minute, without the system leaking power into wobble and sway. A two-minute test is really a leak test. Thirty days of squats teaches the partnership to share, stiffens the cables at both joints, and plugs the leaks one by one. The legs you see in the mirror barely change. The plumbing underneath changes completely.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "TWO SYSTEMS, ONE BILL",
+          "lines": [
+            "Knee tendons transfer the force.",
+            "Hip tendons decide the share."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_squat_bottom.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "LAZY HIPS BILL THE KNEES",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "LOAD SHARING",
+          "items": [
+            [
+              "HIPS",
+              55,
+              "cyan"
+            ],
+            [
+              "KNEES",
+              45,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "A LEAK TEST, NOT A LEG TEST",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "hip_joint_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The squat is the second light-man stronghold in this season, after the push-up, and for the same reason: the load is you. Sixty kilograms squatted two hundred times a week costs a light frame a fraction of what it costs a heavy one, in joint stress, in recovery, in tendon complaints. Volume is the teacher of tendon systems, and your bodyweight makes volume cheap, so you can attend class every day. There is a subtler gift too. Light squatters can sit all the way down, hips below knees, heels flat, because there is less mass to fold. That deep position loads the knee and hip tendons through their full working range, the exact range heavy, stiff lifters avoid their whole lives. Depth is not a flex. Depth is where the cables get their complete education. This month is built to spend your two unfair advantages, cheap volume and honest depth, on the two joints that carry your whole life around. There is a reason the deepest squatters in the world are rarely the heaviest men in the room. Depth is a skill of proportions and practice, and both of those are on your side of the scale.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE LOAD IS YOU",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "CHEAP VOLUME, HONEST DEPTH",
+          "lines": [
+            "Two unfair advantages.",
+            "Spend both, daily."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_squat_mid.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "WEEKLY JOINT COST",
+          "items": [
+            [
+              "LIGHT",
+              40,
+              "cyan"
+            ],
+            [
+              "HEAVY",
+              85,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "DEPTH EDUCATES THE CABLES",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The protocol is a daily ladder with a weekly rhythm. Every day, squat in small sets spread across the day, always full depth, always a full stand, stopping every set while the reps are still crisp. Your daily total starts near your day-zero number and climbs about ten percent a week. Three days a week, add one focused session: five sets at a steady metronome pace, resting as needed, because rhythm is what a two-minute test actually measures. Week one, learn the depth and the breathing. Week two, the totals climb. Week three is the volume peak. Week four, cut back by a third and move beautifully, arriving at the retest with springs loaded instead of legs emptied. The protections: knees track over toes, heels stay down, and knee pain that is sharp or one-sided ends the day's work; if it persists, see a professional. Soreness in the thigh is tuition. Pain in the joint is a message.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SMALL SETS, ALL DAY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "CRISP REPS ONLY",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_squat_bottom.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "JOINT PAIN IS A MESSAGE",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "stat",
+          "text": "WEEK 3",
+          "label": "THE VOLUME PEAK",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_squat_mid.webp",
+      "exercise": "SQUATS",
+      "work": 60,
+      "rest": 30,
+      "rounds": 3,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Squat with me, day-one style. Three rounds: sixty seconds of steady full-depth squats, thirty seconds of rest. Rhythm over speed, depth over ego. Find your metronome. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is how the month unfolded, week by week. Week one, the depth was the shock: sitting all the way down felt like visiting a country his legs had emigrated from, and the inner thighs complained for days. Week two, the partnership woke up; the hips started paying their share, the knees quieted, and the reps smoothed into one continuous motion instead of a negotiation. Week three, the volume peak, our subject's two-minute pace stopped decaying in the second minute, which is the tendon dividend in its purest form: the system transferring force at rep forty the way it did at rep four. Week four, the taper, everything felt springy and slightly too easy. He reported the change most on stairs and hills, the places where legs file their honest reports. The test was still to come, but the plumbing had already been rebuilt.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: DEPTH SHOCK",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: HIPS PAY THEIR SHARE",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_squat_top.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "REP 40 = REP 4",
+          "lines": [
+            "No second-minute decay.",
+            "Force transfers to the end."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "STAIRS FILE HONEST REPORTS",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Day thirty, two minutes, full depth, no mercy. The pattern this experiment produces in the untrained middle: two-minute totals typically climb by a third or more, and the second minute, the leaky one, gains the most. Read your day zero against the bands: under thirty, this month was built for you. Thirty to fifty, you are weeks from legs that outwork the gym. Over seventy, maintain twice a week and go find a weaker system. Put your reps in the comments. Just the number. Thirty days from now, set the timer and take it again. No partial credit, no rounding up.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE SECOND MINUTE GAINS MOST",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "SAME TIMER, NEW PLUMBING",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR REPS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of squatting, and getting up stops being something you think about. Your legs were never as weak as the timer said; their cables were sharing badly and leaking force. Teach them to share. Retest in thirty days and bring me your reps. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "TEACH THEM TO SHARE",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+ "badge": "EP 488 - SHRIMP SQUAT TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVERAGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Hold your foot behind you, sink until your knee kisses the floor, and stand back up on one leg. Your shrimp squat test counts the clean reps and reveals the truth about your knee leverage: one knee, bent to its deepest angle, lifting your entire body with no partner to help.",
+ "hashtags": [
+  "shrimp squat",
+  "knee leverage",
+  "single leg squat",
+  "calisthenics skills",
+  "knee strength",
+  "bodyweight legs"
+ ],
+ "id": "488",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HOLD YOUR FOOT BEHIND YOU"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "KNEE TOUCHES, THEN STAND",
+     "pos": "br",
+     "text": "REPS"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO HOPPING, NO HELP"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT COUNT IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "One leg. | Standing tall. | Now reach back, | grab your foot | behind you, | like a stretch. | That leg is done. | It helps nothing. | Sink down slowly | on the standing leg | until your back knee | kisses the floor. | Lightly. No crashing. | Now stand up | on that one leg | without letting go, | without hopping. | That is one rep. | Count your clean reps | until the form breaks. | Wobbling is fine. | Grabbing furniture is not. | When you cheat, | stop counting. | That count | is your number. | Keep it close. | The verdict waits | at the end. | | A cushion where the back | knee lands is not softness; | it is equipment. | You will touch down dozens | of times in training, and | a bruised kneecap will end | your month faster than weak | legs will. | Also, test near a wall | you may not touch. | Knowing it is there removes | the fear of falling backward, | and fear makes every leg | stiffer and every rep shorter. | The wall is a seatbelt. | You are graded on the | driving.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "5 REPS = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "KNEE OF A SPECIALIST",
+     "pos": "br",
+     "text": "10+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ZERO IS NORMAL"
+    }
+   ],
+   "big": "5 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "CLEAN AND CONTROLLED IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Five clean shrimp squats in a row, knee kissing the floor, standing up without a hop or a hand, is where one knee stops being a joint and becomes a lifting platform. Zero is the most common score in the world, including in gyms full of squatters, because this test deletes every hiding place. Ten or more, either leg, and you own single-leg knee strength that specialists respect. Judge with cruelty: if the free hand touched anything, the rep was a rumor. Count the weaker leg as your official score, and write down the height you used next to the reps. Five reps to a stack of books and five reps to the floor share a digit and nothing else. Your log should read like a receipt: height, reps, side. In thirty days you will compare receipts, and the shrimp, which gives progress in centimeters of removed books, will show you the most honest progress graph in your training life.",
+   "section": "THE NUMBER",
+   "sub": "0: nowhere to hide - 10+: specialist knee",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "One knee bends to its deepest angle.",
+      "It must lift everything from there."
+     ],
+     "pos": "tr",
+     "title": "THE DEEPEST ANGLE PAYS MOST"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THIGH AT ITS LONGEST"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LEVERAGE IS WORST AT THE BOTTOM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is why one knee faces such a bill. In the shrimp, your standing knee bends to nearly its deepest angle while carrying your entire body alone. At that depth, the thigh muscle works at its longest length and its worst leverage: the load sits far from the joint, the muscle's pull is at its weakest angle, and there is no second leg to borrow a single newton from. The tendons around the knee transmit all of it. This is the purest knee leverage test in bodyweight training, because it removes momentum, removes the partner leg, and asks the question at the exact angle where the answer is most expensive. Your arms are doing quiet work in this lift too. Holding the rear foot pins that leg out of the movement, but it also fixes your balance reference, and letting go mid-rep to windmill is an automatic fail in this test for a reason: the moment the hand releases, the rear leg starts helping and the angle changes. The grip on your own foot is part of the exercise's honesty system. It is a small rule that protects the whole measurement.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ELEVATED START, FLOOR FINISH"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "TO A STEP",
+       8,
+       "cyan"
+      ],
+      [
+       "TO THE FLOOR",
+       3,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CLEAN REPS BY TARGET"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HEIGHT IS THE DIAL"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The good news is that this lever has a dial, and the dial is height. Lower your back knee to a step, a stack of books, a low box, and the standing knee never reaches the expensive angles, so the same leg suddenly owns eight clean reps. Take the target to the floor and the price triples. That is the entire training system in one sentence: start at the height where you can do five honest reps, and lower the target as the bottom angle gets stronger. The shrimp looks like one exercise. It is actually a staircase of levers, and you climb it by removing one book at a time. Compare the shrimp to its famous cousin for a second. The pistol sends the free leg forward, which loads the ankle's flexibility heavily. The shrimp sends it backward, which spares the ankle and concentrates the bill almost entirely on the knee and thigh. That is why some athletes own one and not the other, and why this test exists separately: it isolates knee leverage with the ankle mostly excused. If your pistol is stuck on ankle and your shrimp is strong, your knees were never the problem. Diagnosis is half of training.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_split_squat_top.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The assisted shrimp is the stage almost everyone skips and nobody should. Same position, rear foot held, but your free hand rests lightly on a chair or wall beside you, taking exactly as much balance as you need and not a gram more. It lets you train the deep knee angle at full honesty about the strength, while balance catches up on its own schedule. The rule is dosage: fingertips, not a fist; assistance that decreases weekly, not a permanent crutch. When the fingertips become a decoration, remove the chair and meet the real test with a knee that is already strong.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE ASSISTED SHRIMP",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "FINGERTIPS",
+     "label": "NOT A FIST",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "ASSIST LESS EVERY WEEK",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE SKIPPED STAGE",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE BODY, HALF THE BILL"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LIGHT GUYS STAND UP FIRST",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RATIO WINS AGAIN"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "And yes, the skinny math applies here too. The standing knee lifts one thing: you. A lighter you is a smaller bill at the worst angle, which is why the shrimp squat belongs to lean park athletes while much stronger barbell squatters get stapled to the floor by their own mass. Your knee does not care how much you can lift with two legs and a bar. It cares what it can lift alone, from the deep, and compared to your weight, your legs are richer than they look. There is a confidence dividend in this one that lifters underestimate. Standing up from the floor's neighborhood on one leg, unassisted, is a movement pattern your body files under 'I can get up from anywhere.' Athletes who own it move differently in every sport that involves a scramble, a fall, or a low position. It is hard to price that in reps. Your nervous system prices it in willingness, and willingness is what shows up when a game gets physical.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "check": 3,
+   "exercise": "SHRIMP SQUAT",
+   "music": "drive",
+   "narration": "Sink with me. Forty seconds of shrimp squats to your honest height, slow down, full stand. Knee kisses, never crashes. This is where deep knees get built. Go.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 SESSIONS A WEEK"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "KISS, NEVER CRASH"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DROPPING THE LAST INCH"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HOPPING OUT OF THE BOTTOM"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "REMOVE ONE BOOK AT A TIME",
+     "pos": "tr",
+     "text": "HEIGHT"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol climbs down the staircase. Three sessions a week: five sets of three to five reps at the height where your form is honest, both legs, weaker leg first and weaker leg decides the height. Every rep ends with a full stand, no hop, no hand. When five by five is clean at a height, remove one book and start again. Two warnings from experience: never crash the back knee down, because that knee is a passenger, not a brake; and if the standing knee aches inside the joint rather than burning in the thigh, raise the height and build more base. Thigh burn is the tuition. Joint pain is a bill you do not pay. A word on frequency for this pattern. Deep single-leg knee work is heavy neurological training disguised as a bodyweight exercise, and it taxes recovery like barbell work, not like push-ups. Three hard sessions a week is the ceiling, not the floor, and the weaker leg's soreness gets a vote. If the standing knee is still cooked from Tuesday, Thursday becomes ankle and balance work. The staircase down is climbed over months. There is no prize for descending it in a fortnight and a limp.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ZERO: NOWHERE TO HIDE"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR REPS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Zero clean reps: welcome to the majority, and to the most trainable score on this list. One to five: your knee owns the deep angle at some height, and the staircase down is mapped. Over five to the floor: your knee leverage is certified specialist equipment. Retest in thirty days, weaker leg, floor target, cruel judging. Put your reps in the comments. Just the number. The shrimp accepts no excuses and gives no discounts, which is why its number means something. Judge your thirty days by the receipt, not the feeling. Books removed, reps added, wobble reduced: any one of the three is a month well spent, and most honest trainees get two. The shrimp's gift is that it cannot be argued with. Either the knee touched, the stand was clean, and the hand stayed home, or the rep joins the large and distinguished category of almost. Almost is fine as a stage. It is fatal as a standard.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REMOVE ONE BOOK AT A TIME"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW COUNT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Start high, sink honest, remove one book at a time until the floor is yours. Subscribe, and bring me your new count in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "shrimp squat",
+  "knee leverage",
+  "shrimp squat test",
+  "single leg strength",
+  "calisthenics skills",
+  "knee strength",
+  "bodyweight legs"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "5 REPS",
+  "hook": "ONE KNEE ONLY"
+ },
+ "title": "Your Shrimp Squat Test Reveals the Truth About Your knee leverage",
+ "v5": true
+}

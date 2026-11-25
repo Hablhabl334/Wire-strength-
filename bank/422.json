@@ -1,0 +1,276 @@
+{
+  "id": "422",
+  "v5": true,
+  "title": "The dead hang Habit Nobody Trains (It Builds Your grip tendons)",
+  "description": "Hanging from a bar for a few minutes a day is the habit nobody trains, and it builds the grip tendons your fingers depend on. Take the hang test, see what happens in week one, two and four, and learn the accumulation protocol.",
+  "tags": [
+    "dead hang",
+    "grip tendons",
+    "hang test",
+    "daily habit",
+    "calisthenics",
+    "grip strength",
+    "what happens"
+  ],
+  "hashtags": [
+    "dead hang",
+    "grip tendons",
+    "daily habit",
+    "hang time",
+    "calisthenics",
+    "what happens"
+  ],
+  "category": "whathappens",
+  "badge": "EP 422 - THE DEAD HANG HABIT",
+  "checklist": [
+    "THE TEST",
+    "WEEK BY WEEK",
+    "THE SYSTEM",
+    "YOUR VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_hang_side_active.webp",
+    "big": "90 SEC",
+    "hook": "THE HANG HABIT",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_hang_side_relaxed.webp",
+        "ren_hang_side_active.webp",
+        "ren_hang_side_tuck.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Grab a bar. | Hang from it. | Right now. | Arms completely straight. | Feet off the ground. | Shoulders quiet, breathing steady. | Start your clock. | The hang ends | when your grip opens. | No regripping allowed. | No swinging either. | That is your TIME. | Write it down. | At the end | I tell you | what a daily minute | does to it.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "JUST A BAR + A CLOCK",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "NO REGRIP, NO SWING",
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "GRIP OPENS = DONE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "KEEP YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "60 SEC",
+      "label": "ONE HONEST HANG, ARMS STRAIGHT",
+      "sub": "under 30 sec: unwired grip - over 90: elite cables",
+      "section": "THE TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Read your time like this. Under thirty seconds, your grip cables are unwired, the most fixable diagnosis there is. Thirty to sixty is a normal untrained hang. Over ninety, you hold what most strong men cannot. Now here is what happens when that hang becomes a daily habit instead of a rare test.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "UNWIRED = MOST FIXABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "A HABIT, NOT A TEST",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "stat",
+          "text": "90+ SEC",
+          "label": "ELITE CABLE TERRITORY",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_hang_side_tuck.webp",
+      "section": "WEEK BY WEEK",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Week one, your forearms burn like they are filing a protest, and your hands learn the bar's geography: where it bites, where it lies. The seconds barely move, because week one is the nervous system learning to keep the fingers closed on purpose. Week two, the burn arrives later, and a strange victory lands: a hang that ends because the timer finished, not because your grip opened. Week four, the habit disappears into the day, a minute here, a minute there, and the retest typically shows double the day-one time, sometimes more. The change announces itself off the bar first: jars surrender, bags carry themselves, and your shoulders report more room and less morning stiffness, because the hang was quietly decompressing them the whole time. One habit, two systems, and neither of them needed a gym.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: THE PROTEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: THE TIMER ENDS HANGS",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "JARS SURRENDER FIRST",
+          "lines": [
+            "Grip shows in the kitchen",
+            "before it shows on clocks."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "DOUBLE BY THE RETEST",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Your fingers have almost no muscle in them. The force is built in your forearm and delivered by long tendons, cables running through your wrist like ropes through a pulley. A dead hang loads those cables with your entire bodyweight, continuously, which no other common exercise does: pure sustained tendon tension, the exact stimulus cables rebuild from. And because the load is your own weight, a light man's hang is a strong but survivable signal he can repeat daily, while a heavy man's is a near-maximal event that ends in twenty seconds. More quality seconds per day, more days per week: that arithmetic is why this habit belongs to skinny guys, and why the cables thicken on a schedule the heavy guys cannot match. Climbers learned this generations ago: the hand that hangs daily keeps its grip for decades, while the hand that only squeezes things owns strong fingers attached to tired, untested cables.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "ROPES THROUGH A PULLEY",
+          "lines": [
+            "Forearm builds the force.",
+            "Tendons deliver it."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "chip",
+          "text": "100% BODYWEIGHT, CONTINUOUS",
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "THE LIGHT MAN'S ARITHMETIC",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_hang_side_relaxed.webp",
+      "exercise": "DEAD HANG",
+      "work": 30,
+      "rest": 15,
+      "rounds": 3,
+      "section": "THE SYSTEM",
+      "check": 3,
+      "music": "drive",
+      "narration": "Hang with me, habit style. Three rounds: thirty seconds on the bar, fifteen seconds down to shake out. Arms straight, shoulders long, breathe. Let the cables clock their seconds. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_hang_side_active.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The protocol counts total daily time, not heroics: sets of half your max, spread across the day, building toward three or four accumulated minutes. Now your verdict. Under thirty seconds: this habit was built for you, and doubling is the normal outcome. Thirty to sixty: a month from a grip with seniority. Over ninety: maintain with a few hangs a week. Jump down before your grip tears off, and keep the shoulders quiet; a sharp shoulder pinch means come down. Put your seconds in the comments. Just the number. In thirty days, grab the bar and take it again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "TOTAL TIME, NOT HEROICS",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_dead_hang_front.webp"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "3-4 MIN",
+          "label": "ACCUMULATED PER DAY",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "mark",
+          "text": "COMMENT YOUR SECONDS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang.webp",
+      "section": "YOUR VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "A few minutes a day of holding on, and your hands stop letting go of your life. Your grip was never weak; its cables were never given a daily reason to stay. Give them the reason. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "A DAILY REASON TO STAY",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+ "id": "440",
+ "v5": true,
+ "title": "What 1 Minute of one-leg stand Every Day Does to Your ankle nerves",
+ "description": "Standing on one leg for a minute a day sounds like a party trick. It is actually nerve school for your ankles. Here is the four-week timeline, and the balance test that tells you how old your ankle nerves really are.",
+ "tags": [
+  "one leg stand",
+  "balance test",
+  "ankle nerves",
+  "proprioception",
+  "ankle stability",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "balance test",
+  "one leg stand",
+  "ankle stability",
+  "proprioception",
+  "balance training",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 440 - ONE-LEG STAND DAILY",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "ANKLE NERVES",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_balance_test.webp",
+  "big": "30 SEC",
+  "hook": "THE BALANCE TEST",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand near a wall, lift one foot just off the floor, and start the clock. Hands down, eyes forward, no hopping to save it. When your foot touches down or your hands grab the wall, stop the clock. That time is your number. Test the other side too, and write down the worse one. If one side embarrassed the other, you just found the most valuable information in this episode. One minute a day is the school that fixes it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "NEAR A WALL, HANDS DOWN",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "WORSE SIDE COUNTS",
+     "label": "THAT IS YOUR NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "TEST BOTH SIDES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "text": "1 MINUTE A DAY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "30 SEC",
+   "label": "THE NERVE LINE",
+   "sub": "under 10 sec: sensors asleep - over 45 eyes open: ankle is wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. Under ten seconds on one leg, your ankle sensors are asleep, and every uneven pavement is a small gamble. Ten to thirty, they are waking up. Over forty-five seconds, calm and still, your ankle nerves report faster than most people's, and that speed is what saves ankles before sprains happen.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "SENSORS ASLEEP",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "45+ SEC",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "SPEED SAVES ANKLES",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ankle_ligament_plate.webp",
+   "section": "ANKLE NERVES",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one is a sensor reboot. Your ankle is packed with tiny position sensors that tell your brain where the joint is, hundreds of times a second. On one leg, those sensors finally get your full attention, and the first days are wobbly chaos: your foot makes a hundred tiny corrections a minute. That chaos is the training. Every wobble is a sensor reporting and a muscle answering, and the conversation gets faster daily.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: THE REBOOT",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "nerve_pathway_plate.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "A HUNDRED CORRECTIONS A MINUTE",
+     "lines": [
+      "Every wobble is a report."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "CHAOS IS THE TRAINING",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "ANKLE NERVES",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the conversation speeds up. The delay between a wobble starting and your muscles answering it shrinks, which is the entire physics of not spraining your ankle. Your foot gets quieter, your arms stop windmilling, and the weaker side starts catching up to the stronger one. You will feel it on stairs and uneven ground before you feel it in the test: your feet start placing themselves like they can see.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: FASTER ANSWERS",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_toe_raise.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "REACTION DELAY",
+     "items": [
+      [
+       "SLOW",
+       65,
+       "red"
+      ],
+      [
+       "FAST",
+       35,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "FEET THAT CAN SEE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "nerve_pathway_plate.webp",
+   "section": "ANKLE NERVES",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the mechanism is fully awake. Balance is not a muscle skill, it is an information skill, and your ankle nerves are the reporters. Trained reporters file faster, so your brain spends less time guessing and more time moving. This is why balance training is used to protect ankles in sport: a wired ankle corrects a bad landing before your conscious mind even hears about it. For a light guy the training is pure profit, because balance costs no recovery and stacks with everything else you do. It is the rare upgrade that costs no sweat, no soreness and no schedule. It only costs attention, one minute at a time.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "AN INFORMATION SKILL",
+     "lines": [
+      "Faster reports, faster corrections."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_balance_test.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "ZERO RECOVERY COST",
+     "label": "PURE PROFIT",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "CORRECTS BEFORE YOU KNOW",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_balance_test.webp",
+   "exercise": "ONE-LEG STAND",
+   "work": 30,
+   "rest": 10,
+   "rounds": 3,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now stand with me. One foot up, eyes forward, breathe slow. Thirty seconds a side. Touch down and reset, never quit. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_toe_raise.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is one minute per side, woven into your day. Stand on one leg while the kettle boils, during phone calls, between sets. Keep a wall or chair within reach at first, and chase stillness, not heroics: small corrections are the work, falling over is just data. When thirty calm seconds feel easy, close your eyes for five of them and feel the sensors take the full shift. Progress the surface last: floor, then cushion, then grass.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "CHASE STILLNESS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO HEROICS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "EYES CLOSED LAST",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_balance_test.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "WOVEN INTO THE DAY",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your balance time, judged. Under ten seconds: asleep sensors, and the most satisfying month of progress on this channel. Ten to thirty: the wake-up zone, where the weak side usually doubles. Over forty-five, calm: wired ankles, so train your eyes-closed game and your cushion work. Retest on day twenty-eight, worse side first, and comment your new time. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_toe_raise.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "WORSE SIDE FIRST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "One minute a day, and your ankles go back to school. Start tomorrow, stand tall on one leg, and let your nerves learn to report at full speed. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "FULL-SPEED REPORTS",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

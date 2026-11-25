@@ -1,0 +1,339 @@
+{
+ "badge": "EP 477 - 1 MINUTE OF STAIRS",
+ "category": "whathappens",
+ "checklist": [
+  "THE TEST",
+  "THE TIMELINE",
+  "THE MECHANISM",
+  "YOUR VERDICT"
+ ],
+ "description": "Sixty seconds of stairs a day sounds like nothing. Take the one-minute step test, see what changes by week one, week two and week four, and learn why climbing loads your legs like a strength exercise disguised as a chore. The protocol is one minute. The power is real.",
+ "hashtags": [
+  "stair climbing",
+  "leg power",
+  "one minute",
+  "daily habit",
+  "calisthenics",
+  "leg day"
+ ],
+ "id": "477",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANY STAIRCASE WORKS"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "label": "COUNT EVERY STEP",
+     "pos": "br",
+     "text": "60 SEC"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CLIMB, DO NOT RUN"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT COUNT IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Find a staircase. | Any staircase. | Set a timer | for sixty seconds. | Now climb. | Step after step, | as many as | you can count. | Every step counts. | Every landing counts. | When the timer ends, | stop where you are. | That step count | is your number. | Keep it safe. | At the end, | I tell you | what it means | for your leg power.",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "60 = THE POWER LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "SERIOUS DRIVE",
+     "pos": "br",
+     "text": "80+"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNTRAINED = FIXABLE"
+    }
+   ],
+   "big": "60 STEPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "IN ONE MINUTE IS THE POWER LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Sixty steps in one minute means each leg is driving your whole body upward once a second, and that is real power. Under forty, your legs are simply untrained for climbing, and untrained is fixable. Over eighty, you own a gear most people lose in their twenties. Whatever you counted, hold onto it. One minute a day is about to move it.",
+   "section": "THE NUMBER",
+   "sub": "under 40: untrained legs - over 80: serious drive",
+   "type": "card"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DAYS 1-7: THE UNLOCK"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "THE BURN MOVES LATER",
+     "pos": "br",
+     "text": "DAY 5"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NERVES BEFORE MUSCLE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Week one is honest. The first minute burns by step thirty, and the top of the stairs feels far away. By day five the burn moves later. By day seven you reach the top breathing hard but not destroyed. Nothing about your muscles changed this fast. Your nervous system did. It learned the pattern, recruited more of the leg, and stopped wasting effort. The first week of stairs is not building power. It is unlocking the power that was already there.",
+   "section": "WEEK ONE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WEEKS 2-4: IT SHOWS"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "DAY 1",
+       45,
+       "red"
+      ],
+      [
+       "DAY 30",
+       65,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "STEPS IN 60 SECONDS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SAME STAIRS, NEW LEGS"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the minute stops feeling like a test and starts feeling like a warm-up. Week four is where it shows. Your step count climbs by ten, sometimes twenty, on the same staircase. Stairs at work stop registering as effort. And the surprise: your jump feels springier, because climbing trained the exact drive a jump uses. One minute a day did not build a new body. It sharpened the oldest movement you own, pushing the ground away, one leg at a time.",
+   "section": "WEEK FOUR",
+   "type": "art"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Every step is a single-leg press.",
+      "No bounce. No help."
+     ],
+     "pos": "tr",
+     "title": "ONE LEG, FULL WEIGHT"
+    },
+    {
+     "asset": "ren_squat_mid.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DEEP BEND, FULL DRIVE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STRENGTH IN DISGUISE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why does climbing hit so hard? Because every step is a single-leg press against gravity. Your front leg lifts your entire bodyweight through a deep knee bend, with no help from the other leg and no bounce to steal the work. That loads the thigh, the glute, and the tendons around the knee at forces walking never reaches. And it does it in the exact pattern of running, jumping, and getting up off the floor. One minute of that, daily, is not cardio. It is strength training wearing a disguise, and your legs respond like it. It also stacks up invisibly. A minute of climbing burns through more of your day's stored energy than a minute of almost anything else you do indoors, because lifting your own mass vertically is the most honest work there is. No machine sets the resistance. Gravity does, and gravity never rounds down.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "check": 3,
+   "exercise": "STEP-UPS",
+   "music": "drive",
+   "narration": "Climb with me. One minute, step after step, tall chest, full foot on every step. Count them. This is your training and your test in one. Go.",
+   "rest": 0,
+   "rounds": 1,
+   "section": "THE PROTOCOL",
+   "type": "timer",
+   "work": 60
+  },
+  {
+   "asset": "ren_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME STAIRCASE, SAME TEST"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FULL FOOT ON EVERY STEP"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SPRINTING AND DYING AT 30 SEC"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE ENTIRE PROGRAM",
+     "pos": "br",
+     "text": "1 MIN"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol could not be smaller. One minute of stairs, once a day, every day. Use the same staircase when you can, so the count means something. Climb at a pace you can hold for the full minute, not a sprint that dies at thirty seconds. Full foot on each step, and push the step away instead of pulling with the rail. When the minute gets easy, take the steps two at a time. That is the entire program. Small dose, daily, no days negotiated.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 40: ASLEEP, NOT WEAK"
+    },
+    {
+     "asset": "ren_squat_bottom.webp",
+     "at": 7,
+     "kind": "swap"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR COUNT"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under forty steps: your legs have the machinery, it is just asleep, and this month wakes it. Forty to sixty: the drive is there, now sharpen it daily. Over sixty: you climb like you weigh nothing, because your legs treat your body like a light load. Retest in thirty days on the same staircase. Put your count in the comments. Just the number. We compare at the retest.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE MINUTE A DAY"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW COUNT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "One minute. One staircase. Every day. That is the smallest strength program in the world, and your legs will prove it works. Subscribe, and bring me your new count in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "stair climbing",
+  "leg power",
+  "one minute stairs",
+  "daily stairs",
+  "explosive legs",
+  "bodyweight legs",
+  "calisthenics"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_jump_peak.webp",
+  "big": "60 SEC",
+  "hook": "STAIRS EVERY DAY"
+ },
+ "title": "What 1 Minute of stairs Every Day Does to Your leg power",
+ "v5": true
+}

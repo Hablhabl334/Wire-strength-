@@ -1,0 +1,352 @@
+{
+ "id": "427",
+ "v5": true,
+ "title": "The push-ups Habit Nobody Trains (It Builds Your chest tendons)",
+ "description": "Push-ups are the most skipped exercise on earth because they look too easy. Here is what a daily push-up habit does to your chest tendons over four weeks, why your rep count is really a cable test, and the one-minute protocol behind it.",
+ "tags": [
+  "push-ups",
+  "push-up training",
+  "chest tendons",
+  "tendon training",
+  "calisthenics",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "push ups",
+  "daily push ups",
+  "chest workout",
+  "tendon training",
+  "calisthenics",
+  "bodyweight training"
+ ],
+ "category": "whathappens",
+ "badge": "EP 427 - THE PUSH-UP HABIT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "CHEST TENDONS",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_mid.webp",
+  "big": "20 REPS",
+  "hook": "YOUR CHEST NUMBER",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Get on the floor. | Hands under shoulders. | Body in one line. | Lower down slow. | Chest near the floor. | Press back up. | That is ONE. | Keep going. | No sagging hips. | No half reps. | Stop at failure. | Count every rep. | That number? | Write it down. | Most skinny guys | stall under TWENTY. | Now give that number | one minute a day. | For four weeks. | Your chest cables | are about to change.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "FLOOR + CLOCK ONLY",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "text": "COUNT THEM ALL",
+     "label": "CLEAN REPS ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "4 WEEKS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "20 REPS",
+   "label": "THE UNTRAINED LINE",
+   "sub": "under 10: cables asleep - over 40: chest is wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line nobody tells you. Under ten strict push-ups, the problem is rarely your chest muscle. It is the cables and the signal behind them. Ten to thirty, you are building. Over forty strict reps, your chest tendons are stiffer and stronger than most bench press guys will ever own.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "NOT A MUSCLE PROBLEM",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "40+ REPS",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "STRICT BEATS HEAVY",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "CHEST TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one feels almost disappointing, and that is normal. Your chest tendons are not growing yet. What changes first is the wiring: your brain learns to fire the chest, shoulders and triceps as one team instead of three strangers. Reps feel smoother by day four. The burn moves from your arms into your chest, which is the sign the right muscles finally showed up to work.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: THE WIRING",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_pushup_bottom.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "TEAMWORK BEFORE GROWTH",
+     "lines": [
+      "Chest, shoulders, triceps learn to fire together."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "BURN MOVES TO THE CHEST",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_mid.webp",
+   "section": "CHEST TENDONS",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the cables clock in. Every push-up sends tension through the tendons that anchor your chest to your arms, and tendons answer tension the only way they know: by building more collagen into the line. The bottom of your push-up stops feeling like a collapse and starts feeling like a loaded spring. You pause there without fear now. That pause is tendon stiffness, and it is pure free strength.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: THE SPRING LOADS",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_pushup_top.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "BOTTOM POSITION",
+     "items": [
+      [
+       "WEEK 1",
+       30,
+       "red"
+      ],
+      [
+       "WEEK 2",
+       65,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "THE PAUSE IS THE PROOF",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "CHEST TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four you understand the hidden system. Muscle gets the photos, but tendons decide how much of your strength actually arrives at the floor. Studies on tendon adaptation show that regular loaded tension increases tendon stiffness within weeks, and stiffer tendons transfer force faster. That is why your number climbs while your chest still looks the same in the mirror. The mirror measures decoration. The floor measures delivery, and delivery is what a skinny guy should be training. None of this needs a gym, a program, or a training partner. It needs a floor, a minute, and a guy who shows up tomorrow. That is the entire technology, and it has been free forever.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "DELIVERY OVER DECORATION",
+     "lines": [
+      "Stiff tendons transfer force faster."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pushup_mid.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "4 WEEKS",
+     "label": "TO A NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "THE FLOOR IS THE JUDGE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pushup_mid.webp",
+   "exercise": "PUSH-UPS",
+   "work": 60,
+   "rest": 0,
+   "rounds": 1,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now your minute. Strict reps, full range, stop before your form breaks. This is day one of your timeline. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_tabletop_press.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is one minute, done right. Break it into small sets with short rests, and stop every set two reps before failure. Keep your body in one hard line from head to heels. If strict reps are not there yet, elevate your hands on a table and earn the floor over two weeks. Same time every day, same form every rep, and add reps weekly, not daily. Tendons love routine and hate surprises.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "STOP 2 REPS EARLY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO SAGGING HIPS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "ONE HARD LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_pushup_weak.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "ROUTINE OVER SURPRISES",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Back to your number. Under ten: your cables are untrained, and untrained is the fastest place to grow from. Ten to thirty: you are in the build zone, and week three is your jump week. Over forty: you own a wired chest, so protect the streak and chase fifty. Retest on day twenty-eight and comment your new number. Just the number, nothing else.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_pushup_bottom.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "PROTECT THE STREAK",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The floor is free, the minute is short, and the cables are listening. Start tomorrow, keep every rep honest, and let four weeks of small days stack into a number that surprises you. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "EVERY REP HONEST",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

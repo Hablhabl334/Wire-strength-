@@ -1,0 +1,387 @@
+{
+ "badge": "EP 487 - PISTOL DEPTH TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVERAGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Stand on one leg, send the other leg forward, and sink. Your pistol depth test holds you in the deepest position and times it, revealing the truth about your ankle and knee leverage: the two hinges that decide whether one leg can own your whole body. Take the test and read the verdict.",
+ "hashtags": [
+  "pistol squat",
+  "ankle mobility",
+  "knee leverage",
+  "single leg strength",
+  "calisthenics skills",
+  "depth test"
+ ],
+ "id": "487",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG, ARMS FORWARD"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "FREE LEG STAYS OFF THE FLOOR",
+     "pos": "br",
+     "text": "SINK"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STOP AT YOUR DEEPEST"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Stand tall. | One leg only. | Other leg forward, | floating, always floating. | Arms reach forward | to balance you. | Now sink down, | slowly, under control, | as deep as | you honestly can. | Heel stays down. | Knee tracks straight. | At your deepest, | freeze right there. | Start your clock. | Hold the bottom | without sitting down, | without the free foot | touching the floor. | When you topple, | grab, or stand, | stop the clock. | That hold time | is your number. | Keep it safe. | The verdict is | at the end. | | Test the weaker leg for | your official number. | Everyone's chain has a side | that pays full price and | a side that gets a | family discount, and the pistol | is where the discount expires. | The strong leg is useful | for practice volume. | The weak leg is the | truth. | Also: do this test warm. | A cold ankle reads two | centimeters stiffer than a warm | one, and you are grading | the chain, not the weather.",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "10 SEC = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "FULL PISTOL COUNTRY",
+     "pos": "br",
+     "text": "FULL"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHALLOW = A MAP, NOT A FAIL"
+    }
+   ],
+   "big": "10 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "AT THE BOTTOM IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten seconds frozen at your deepest honest bottom, heel down, free foot floating, is where one leg stops borrowing from balance and starts owning your bodyweight. Under three seconds, something in the chain, ankle, knee, or nerve, is charging you depth you have not paid for yet. A full-depth hold with the free leg straight and your hamstring resting on your calf is pistol country, and very few two-leg squatters have ever visited. Depth first, time second. A deep three seconds beats a shallow ten. Record two numbers, not one: your hold time and your depth, honestly estimated. A five-second hold at three-quarter depth and a five-second hold at full depth are different athletes wearing the same score. Write the depth next to the time every test day. In thirty days, one of the two numbers will have moved, and knowing which one tells you exactly what your training did, and what it should do next.",
+   "section": "THE NUMBER",
+   "sub": "under 3 sec: the chain charges you - full depth: pistol country",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The ankle bends so the knee can travel.",
+      "The knee travels so the hip can sink."
+     ],
+     "pos": "tr",
+     "title": "TWO HINGES, ONE CHAIN"
+    },
+    {
+     "asset": "ankle_ligament_plate.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "A STIFF ANKLE CAPS EVERYTHING"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "DEPTH IS A CHAIN VERDICT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the chain the test reads. A pistol squat is a negotiation between two hinges. The ankle must bend deeply so your knee can travel forward and your weight can stay over your foot. The knee must then accept your entire body at its most bent, most leveraged angle, with the thigh muscles working at their longest and weakest. If the ankle is stiff, the knee cannot travel, your weight tips backward, and the free foot slaps the floor. If the knee is not ready, the bottom is a place you fall through, not a place you live. Your hold time is the chain's honest report card. Balance deserves its line in this mechanism too. At the bottom of a pistol, your base of support is one foot, your mass is at its lowest and most committed, and your ankle is making constant micro-corrections to keep you over that foot. The sensors in your ankle and the muscles around it are doing a second, invisible job beneath the strength job. This is why the bottom hold wobbles before it strengthens, and why the wobble shrinking is your earliest sign of progress, weeks before the seconds grow.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HEEL LIFT = BORROWED DEPTH"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "HEEL DOWN",
+       10,
+       "cyan"
+      ],
+      [
+       "HEEL UP",
+       3,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "BOTTOM HOLD, SAME LEG"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REAL DEPTH HOLDS LONGER"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Try the cheap trick and watch the clock expose it. Lift your heel and you can suddenly sink lower, because you bypassed the ankle entirely. But the hold collapses in about three seconds: your weight is perched on your toes, the knee is overloaded at a bad angle, and balance becomes a coin flip. Heel down, the same leg holds three times longer, because the load travels through the whole foot and the chain shares it. The pistol does not reward the deepest-looking position. It rewards the position your ankle and knee can actually afford. A word about the counterweight, because you will see it in every park. Holding a small weight out in front, or even just reaching both arms hard forward, shifts mass ahead of the foot and buys depth your ankle has not earned yet. As a training stage, it is legitimate and useful. As a test condition, it changes the exam. Today's number is unweighted, arms forward only. If you train with a counterweight this month, retest without it, and let the gap between the two numbers tell you how much ankle you still owe.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_split_squat_bottom.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The ankle has a number too, and it predicts your pistol better than your squat does. Stand facing a wall, big toe a hand's width from the baseboard, and push your knee toward the wall without lifting your heel. The furthest distance where your knee still touches is your dorsiflexion score. Under eight centimeters, your ankle is the ceiling on your pistol, full stop, and no amount of leg strength will negotiate with it. Over twelve, your ankle is innocent and the knee can be trained directly. Measure both sides. The smaller number is your program for the next month.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "KNEE-TO-WALL TEST",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "12 CM",
+     "label": "ANKLE IS INNOCENT",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "UNDER 8: ANKLE IS THE CEILING",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "MEASURE BOTH SIDES",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LIGHT BODY PER LEG"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "HALF THE LOAD, TWICE THE DEPTH",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "PISTOLS LOVE LIGHT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now the recurring theme of this whole season: the pistol is a ratio skill. One leg, one body. A lighter body is simply less body for that leg to lower, hold, and lift, which is why skinny teenagers in parks bang out pistols while men who squat double their weight cannot do one. Their legs are stronger in the gym's currency. Yours can be stronger in the only currency this test accepts: strength per kilo of you. Depth is where the exchange rate shows. Here is a benefit nobody sells pistols with: falling insurance. A leg that can lower you to the floor and stand you back up, from a full bend, on either side, is a leg that catches you when you trip on stairs, ice, or a curb at sixty. Single-leg depth strength is the physical skill of not falling down, trained in advance. Your future self, catching a stumble without thinking about it, will not know which workout to thank. It was this one.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "check": 3,
+   "exercise": "SPLIT SQUAT",
+   "music": "drive",
+   "narration": "Sink with me. Split squats, forty seconds, deep as you honestly own, heel down. This is the pistol, built one honest centimeter at a time. Go.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ankle_ligament_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANKLE WORK DAILY"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BOX FIRST, FLOOR LATER"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HEEL LIFTED FOREVER"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BOUNCING OUT OF THE BOTTOM"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "LOWER THE BOX MONTHLY",
+     "pos": "tr",
+     "text": "STAGES"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol pays the chain in order. Daily ankle work first: knee-to-wall touches and deep calf stretches, because no ankle, no pistol, full stop. Then box pistols: sit to a chair or step at the depth you can control, stand on one leg, and lower the box a few centimeters whenever the current height feels owned. Three sessions a week, five sets of three to five, pausing two seconds at the bottom of every rep. Never bounce out of the hole; the bottom pause is where the knee learns to live there. A heel wedge is a fine temporary tool, but it is a loan, and the goal is to repay it. Put the ankle work where you will actually do it: while the kettle boils, while the shower warms, in the two dead minutes every day already contains. Mobility built in stolen minutes compounds faster than mobility scheduled in heroic Sunday sessions that happen twice. The knee-to-wall drill, twenty slow touches a side, is ninety seconds. Your pistol does not need more of your life. It needs a daily toll paid to the ankle, in small change.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 3: THE CHAIN CHARGES"
+    },
+    {
+     "asset": "ren_squat_mid.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under three seconds: your chain charges you at the bottom, and now you know which hinge sends the bill. Three to ten: you own real single-leg depth, and the full pistol is a season of box work away. Full depth, ten seconds, free leg straight: your ankle and knee leverage is the genuine article. Retest in thirty days, same leg, weaker one counts as truth. Put your seconds in the comments. Just the number. Depth never exaggerates. If both numbers moved a little, that is not a small result; that is the chain improving as a chain, which is the only way it ever improves for long. Depth without time is a fall you photographed. Time without depth is a shallower exercise getting comfortable. Together, they are a leg being rebuilt hinge by hinge. That is what thirty days of honest work looks like from the inside, and it is worth more than any single max.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEPTH FIRST, TIME SECOND"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW HOLD",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Free the ankle, teach the knee to live at the bottom, and the pistol stops being a trick. Subscribe, and bring me your new hold in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "pistol squat",
+  "pistol depth test",
+  "ankle mobility",
+  "knee leverage",
+  "single leg strength",
+  "calisthenics skills",
+  "squat depth"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_squat_bottom.webp",
+  "big": "10 SEC",
+  "hook": "ONE LEG DOWN"
+ },
+ "title": "Your Pistol Depth Test Reveals the Truth About Your ankle and knee leverage",
+ "v5": true
+}

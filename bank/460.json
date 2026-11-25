@@ -1,0 +1,368 @@
+{
+  "id": "460",
+  "v5": true,
+  "title": "Do This Every Morning: What dead hang Does to Your grip tendons",
+  "description": "A dead hang before your phone, before breakfast. Sixty seconds of hanging to start the day. Take the hang test, get your time, and see what four weeks of morning hangs does to your grip tendons.",
+  "tags": [
+    "dead hang",
+    "grip tendons",
+    "morning routine",
+    "hang test",
+    "what happens",
+    "grip strength",
+    "calisthenics"
+  ],
+  "hashtags": [
+    "hang test",
+    "dead hang",
+    "grip tendons",
+    "morning routine",
+    "what happens",
+    "calisthenics"
+  ],
+  "category": "whathappens",
+  "badge": "EP 460 - HANG EVERY MORNING",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "WEEK BY WEEK",
+    "THE VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_dead_hang.webp",
+    "big": "60 SEC",
+    "hook": "BEFORE YOUR PHONE",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_hang_side_relaxed.webp",
+        "ren_hang_side_active.webp",
+        "ren_hang_side_tuck.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Before your phone. | Before breakfast. | Grab a bar. | Hang at full stretch. | Start your clock. | Drop when you must. | That time is your NUMBER. | Write it down. | A hang every morning | is the habit on trial. | What does it do | to your GRIP TENDONS? | Morning hands are stiff hands. | Week one, they learn. | Week four, they hold. | At the end | I grade your number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BEFORE YOUR PHONE",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "FULL STRETCH, HONEST CLOCK",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "THAT TIME IS YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "MORNING HANDS ARE STIFF",
+          "lines": [
+            "Stiff hands learn fast."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "WEEK FOUR: THEY HOLD",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "60 SEC",
+      "label": "THE LINE BETWEEN WEAK AND WIRED",
+      "sub": "under 30: untrained cables - over 90: elite grip",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Sixty seconds is where a normal hang becomes a trained one. Under thirty in the morning, your cables are not weak, they are asleep, and sleep is curable. Over ninety, your grip wakes up stronger than most people's best hour. Today you measured the morning version of you. The habit is about to upgrade him.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "ASLEEP, NOT WEAK",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "60 SEC = TRAINED",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "90+ SEC",
+          "label": "ELITE MORNING GRIP",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "THE MORNING VERSION",
+          "lines": [
+            "Measured today. Upgraded daily."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "section": "WEEK ONE",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week one, your morning hands feel like wooden gloves. The first hang of the day is always the worst, fingers creaking open like old hinges. By day five something shifts. The creak fades. Blood and fluid move into the hands earlier, and the bar stops feeling like an enemy. Your tendons are learning the morning shift, and tendons love a shift that never changes.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 1: WOODEN GLOVES",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "swap",
+          "asset": "ren_finger_hang.webp"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "DAY 5",
+          "label": "THE CREAK FADES",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "TENDONS LOVE ROUTINE",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_finger_hang.webp",
+      "section": "WEEK FOUR",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week two, you stop dreading the bar and start using it as a wake-up switch. Sixty seconds stops being a test and becomes a doorway into the day. Week three, your grip feels switched on hours earlier than it used to. Week four, retest in the morning, no warm-up. Most skinny guys add twenty to thirty seconds to their morning hang in a month. There is a reason the morning hang feels bigger than a minute. It is the first promise of the day, kept before any excuse has woken up. Guys who keep the first promise tend to keep the others, and the tendons do not care why the bar got visited. They only record that it did, every single day, at the same honest hour.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WEEK 2: THE WAKE-UP SWITCH",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+20-30",
+          "label": "SECONDS IN MONTH ONE",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_dead_hang_front.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "SWITCHED ON EARLIER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "section": "THE MECHANISM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Your fingers are moved by cables, and cables are moved by engines in your forearm. Overnight, those cables cool and stiffen, which is why morning grip is everyone's worst grip. A daily morning hang loads the cables at the exact moment they are stiffest, teaching them to transmit force from the first minute of the day. Train the cable at its weakest hour and the whole day gets stronger. Morning is also when your spine is tallest and your discs are fullest, which makes the hang a two-for-one. The cables of the hand take the load, and the whole back gets a gentle traction it will not get again until tomorrow. Two systems, one minute, zero equipment beyond a bar. The morning hang might be the most efficient minute in this entire series.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "CABLES COOL OVERNIGHT",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "TRAIN THE WEAKEST HOUR",
+          "lines": [
+            "Load the cables when",
+            "they are stiffest."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "GRIP ACROSS THE DAY",
+          "items": [
+            [
+              "UNTRAINED MORNING",
+              45,
+              "grey"
+            ],
+            [
+              "TRAINED MORNING",
+              85,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_hang_side_active.webp",
+      "exercise": "DEAD HANG",
+      "work": 30,
+      "rest": 15,
+      "rounds": 2,
+      "section": "THE HABIT",
+      "check": 2,
+      "music": "drive",
+      "narration": "Hang with me. Thirty seconds, shoulders down, breathe slow. Wake the cables up. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang.webp",
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The protocol: one hang session every morning, totalling sixty seconds, split into sets if you need them. Bar by the bedroom door beats a gym across town. Keep the shoulders packed down and the body still. The mistake is testing your max every morning, which turns a wake-up call into a daily beating. The other mistake is the warm-up hang at night instead. Morning is the whole point.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "BAR BY THE DOOR",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "MAX TEST EVERY MORNING",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "SPLIT THE MINUTE FREELY",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "MORNING IS THE POINT",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang_front.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your morning number. Under thirty seconds: sleeping cables, and the fastest wake-up of your training life. Thirty to sixty: the shift is learning. Over sixty: your grip clocks in stronger than most people's ever does. Retest on day thirty, first thing, no warm-up hangs. Put your seconds in the comments. Just the number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 30: FIRST THING",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+20-30",
+          "label": "SECONDS WAITING FOR YOU",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty mornings from now your hands will wake up before you do. Subscribe, and we retest together. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY 30 RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "HANDS WAKE UP FIRST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+ "id": "447",
+ "v5": true,
+ "title": "What 1 Minute of wall sit Every Day Does to Your knee tendons",
+ "description": "Sixty seconds against a wall, every day, is a famous tendon protocol hiding as a punishment. Here is what that minute does to your knee tendons across four weeks, and the wall sit time that tells the truth about your knees.",
+ "tags": [
+  "wall sit",
+  "knee tendons",
+  "one minute isometric",
+  "patellar tendon",
+  "isometrics",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "wall sit",
+  "one minute wall sit",
+  "knee strength",
+  "isometrics",
+  "tendon training",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 447 - WALL SIT DAILY",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "KNEE TENDONS",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_wall_sit_front.webp",
+  "big": "60 SEC",
+  "hook": "WALL SIT DAILY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Back against a wall, slide down to a true right angle, knees over ankles, hands off your thighs. Start the clock and hold. When you slide, stand, or grab your legs, stop it. That time is your number. Write it down. If the shaking arrived before thirty seconds, you are in the majority, and you are exactly who this minute was made for. Here is what sixty seconds a day does to the cable that runs your knee.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "TRUE RIGHT ANGLE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "STOP AT THE SLIDE",
+     "label": "THAT IS YOUR TIME",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "text": "MADE FOR YOU",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "60 SEC",
+   "label": "THE ISOMETRIC LINE",
+   "sub": "under 30 sec: tendon untrained - over 90: knees are wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. Under thirty seconds at a true right angle, your patellar tendon is untrained, and the shake is an unpracticed signal. Thirty to ninety seconds is the build zone. Over ninety calm seconds means your knee tendons carry load like trained equipment, and everything from stairs to sprinting withdraws from that account.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "UNPRACTICED, NOT DAMAGED",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "90+ SEC",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "EVERYTHING WITHDRAWS",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "KNEE TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one is signal school. An isometric hold asks your thigh to produce force with zero movement, and your nervous system must learn to pour that force out steadily instead of in bursts. The bursts are the shaking. Daily minutes smooth the pour: the first fifteen seconds go quiet, then twenty, and your breathing learns to stay boring while your legs argue. Boring breathing under a loud burn is a trainable skill, and it transfers to every hard thing you do.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: SMOOTH THE POUR",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_wall_sit.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THE SHAKE IS BURSTS",
+     "lines": [
+      "Steady force is a learned signal."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "BORING BREATHING",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "KNEE TENDONS",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two is the tendon's favorite week. Long isometric holds are a staple of tendon rehabilitation science because sustained tension at a fixed angle is the precise stimulus that drives collagen remodeling in the patellar tendon. Your daily minute delivers that stimulus with clinical accuracy and zero equipment. The hold time climbs, but the real event is under the skin: the cable is thickening its weave to match the demand you keep repeating.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: THE CLINICAL MINUTE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_wall_sit_front.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "HOLD TIME",
+     "items": [
+      [
+       "WEEK 1",
+       30,
+       "red"
+      ],
+      [
+       "WEEK 2",
+       50,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "ZERO EQUIPMENT, FULL SIGNAL",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "KNEE TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the mechanism stands complete. A remodeled patellar tendon is stiffer, and stiffness here is speed: force from your thigh reaches the ground with less delay and less loss. That is why a month of wall sits makes squats feel springier and stairs feel shorter without training either. The tendon is shared hardware, and you upgraded it in the cheapest lab on earth, a wall. If your knee pain is sharp, one-sided, or keeps returning, see a professional if it persists rather than sitting through it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "SHARED HARDWARE, UPGRADED",
+     "lines": [
+      "One tendon serves every leg move."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_wall_sit_front.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "THE CHEAPEST LAB",
+     "label": "IS A WALL",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "STAIRS FEEL SHORTER",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_wall_sit.webp",
+   "exercise": "WALL SIT",
+   "work": 60,
+   "rest": 0,
+   "rounds": 1,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now sit with me for the minute. Right angle, back flat, breathe boring. Stop early if form dies. We start now. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is one minute against the wall daily. If sixty straight seconds is not there yet, split it into two thirties with a short stand between. Keep the angle honest: mark your thigh height on the wall once, and hit the same mark every day. Stop each hold with a few seconds in reserve, and add time weekly, because tendons remodel on weekly clocks. Same wall, same time, same mark. Boring is the method, and boring is why it works.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "SPLIT IT IF NEEDED",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO ANGLE CHEATING",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "MARK YOUR HEIGHT",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_wall_sit.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "BORING IS THE METHOD",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your number, judged. Under thirty seconds: an untrained tendon, and the most clinical progress you will ever make against a wall. Thirty to ninety: the build zone, where the calm minute usually arrives in week three. Over ninety: wired knees, so deepen the angle or add a backpack. Retest on day twenty-eight at the same mark and comment your new time. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_wall_sit_front.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "SAME MARK, SAME WALL",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "A wall, a minute, and a tendon that gets stronger every day you show up. Start tomorrow, sit to your mark, and let the quietest protocol in training rebuild your knees. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "SHOW UP DAILY",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

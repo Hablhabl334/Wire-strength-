@@ -1,0 +1,368 @@
+{
+  "id": "454",
+  "v5": true,
+  "title": "What Happens to Your grip tendons If You hang for 1 minute Every Day",
+  "description": "One minute of hanging a day. Your fingers have almost no muscle, so what exactly gets stronger? Take the hang test, get your time, and see what a daily minute does to your grip tendons in four weeks.",
+  "tags": [
+    "dead hang",
+    "grip tendons",
+    "hang test",
+    "what happens",
+    "grip strength",
+    "daily habit",
+    "calisthenics"
+  ],
+  "hashtags": [
+    "hang test",
+    "dead hang",
+    "grip tendons",
+    "1 minute hang",
+    "what happens",
+    "calisthenics"
+  ],
+  "category": "whathappens",
+  "badge": "EP 454 - HANG 1 MINUTE",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "WEEK BY WEEK",
+    "THE VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_dead_hang.webp",
+    "big": "60 SEC",
+    "hook": "GRIP CABLES GROW",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_hang_side_relaxed.webp",
+        "ren_hang_side_active.webp",
+        "ren_hang_side_tuck.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Grab a bar. | Hang from it. | Arms straight. | Feet off the ground. | Start your clock. | Drop when you must. | That time is your NUMBER. | Write it down. | One minute a day | is the habit on trial. | What does it do | to your GRIP TENDONS? | Your fingers have no muscle. | So what gets stronger? | Week one answers that. | At the end | I grade your number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ARMS STRAIGHT, FEET UP",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "DROP WHEN YOU MUST",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "THAT TIME IS YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "FINGERS HAVE NO MUSCLE",
+          "lines": [
+            "So what gets stronger?"
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "WEEK ONE ANSWERS IT",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "60 SEC",
+      "label": "THE LINE BETWEEN WEAK AND WIRED",
+      "sub": "under 30: untrained cables - over 90: elite grip",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Sixty seconds is where a normal hang becomes a trained one. Under thirty, your grip cables are simply untrained, and untrained is the easiest thing to fix. Over ninety, you own a grip most gym guys will never build. Today's time is a coordinate, not a character judgement. A minute a day is about to move it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "UNTRAINED = FIXABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "60 SEC = TRAINED",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "90+ SEC",
+          "label": "ELITE GRIP TERRITORY",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "A COORDINATE",
+          "lines": [
+            "Not a character judgement."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "section": "WEEK ONE",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week one, your hands complain. The skin stings, your forearms burn by second twenty, and the bar feels like it is slipping through soap. By day four the skin toughens. By day seven the burn arrives later, because the forearm is learning to share the work across more fibres. The tendon itself is quiet this week. It is loading, listening, and taking notes.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 1: SKIN + BURN",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "swap",
+          "asset": "ren_finger_hang.webp"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "DAY 7",
+          "label": "THE BURN ARRIVES LATER",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "THE TENDON TAKES NOTES",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_finger_hang.webp",
+      "section": "WEEK FOUR",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week two, one full minute stops feeling impossible. You break it into two relaxed sets and the clock loses its power. Week three, jars, doors and handshakes feel different. Week four, retest. Most skinny guys add twenty to forty seconds in a month. Your lighter body is the cheat code here. Less weight on the cable means more days of loading without breaking down. There is a bonus the mirror will show you before the clock does. Your forearms start looking trained, because the engines that pull the cables live there, and engines respond to daily work faster than the cables they serve. By week four the veins and the shape show up to testify. The grip itself, though, is pure cable, and the cable keeps improving for months.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WEEK 2: THE CLOCK LOSES POWER",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+20-40",
+          "label": "SECONDS IN MONTH ONE",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_dead_hang_front.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "LIGHT BODY = CHEAT CODE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "section": "THE MECHANISM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Your fingers contain almost no muscle at all. The engines sit in your forearm, and they pull your fingers closed through long tendons, like brake cables. Hang daily and those cables do what cables do under honest tension. They thicken. They stiffen. They transmit more force with less effort. Muscle gets the photos, but tendon does the gripping, and tendon trains on a daily schedule. A word on patience, because tendon keeps its own calendar. The first month is mostly your nervous system and your skin adapting. The tendon thickening that makes grip permanent happens across months two, three and beyond. The daily minute is a subscription, not a purchase. Keep paying it and the cable keeps compounding, long after the novelty has left the building.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "ENGINES IN THE FOREARM",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "BRAKE CABLES",
+          "lines": [
+            "Tendons thicken and stiffen",
+            "under daily tension."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "WHO DOES THE GRIPPING",
+          "items": [
+            [
+              "TENDON",
+              85,
+              "cyan"
+            ],
+            [
+              "FINGER MUSCLE",
+              5,
+              "grey"
+            ]
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_hang_side_relaxed.webp",
+      "exercise": "DEAD HANG",
+      "work": 30,
+      "rest": 15,
+      "rounds": 2,
+      "section": "THE HABIT",
+      "check": 2,
+      "music": "drive",
+      "narration": "Hang with me. Thirty seconds, shoulders quiet, breathe. This is how the minute gets built. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang.webp",
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The protocol: sixty seconds of total hang time every day, split however you must. Three sets of twenty is fine. Chalk if the bar is slick, and keep your shoulders pulled down away from your ears. The mistake is the daily max test, hanging to failure until your grip is fried for tomorrow. The other mistake is swinging. Hang like a statue and let the cables collect their daily wage.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "SPLIT THE MINUTE FREELY",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "DAILY MAX TESTS",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "SHOULDERS DOWN",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "HANG LIKE A STATUE",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang_front.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your time. Under thirty seconds: untrained cables, and the fastest month of progress you will ever get. Thirty to sixty: the cables are waking up. Over sixty: you already hold what most people are missing. Retest on day thirty, same bar, dry hands. Put your seconds in the comments. Just the number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 30: SAME BAR",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+20-40",
+          "label": "SECONDS WAITING FOR YOU",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days from now the bar will feel smaller in your hands. Subscribe, and we retest together. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY 30 RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "THE BAR FEELS SMALLER",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+ "id": "395",
+ "v5": true,
+ "title": "I Tested the L-sit for 30 Days (The Results Surprised Me)",
+ "description": "Thirty days of L-sit work, tested by max hold on day zero and day thirty, this time built on the tuck progression. The tuck is not a consolation prize; it is the on-ramp where hip flexors learn their trade. Take the test, learn what the progression does inside your hips, follow the plan, and compare your numbers.",
+ "tags": [
+  "l-sit",
+  "l-sit tuck",
+  "hip flexors",
+  "l-sit test",
+  "30 day challenge",
+  "calisthenics",
+  "core compression"
+ ],
+ "hashtags": [
+  "l-sit",
+  "calisthenics",
+  "30 day challenge",
+  "core workout",
+  "hip flexors",
+  "gymnastics"
+ ],
+ "category": "experiments",
+ "badge": "EP 395 - L-SIT, TESTED",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_lsit.webp",
+  "big": "30 DAYS",
+  "hook": "L-SIT TESTED",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_lsit.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test. Sit tall, hands beside your hips, press the floor away and lift your straight legs into the L. Clock starts when your heels rise and stops when they fall. If straight legs give you zero, your official test is the tuck: knees pulled in, feet off the floor, same clock. Either way, that time is your NUMBER, and note which shape earned it. Write both down. In thirty days we run the same test, and I will show you what the tuck progression did to your hip flexors. Keep your number close. The shape you start in is not the shape you will finish in.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "STRAIGHT LEGS OR TUCK",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "NOTE THE SHAPE TOO",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Tuck progression daily.",
+      "30 days. One retest."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "YOUR SHAPE WILL CHANGE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR HOLD",
+   "label": "YOUR DAY-ZERO L-SIT NUMBER",
+   "sub": "tuck under 10 sec: untrained - tuck 20+: building - straight legs 10+: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is how to read a day-zero L-sit, shape included. A tuck under ten seconds means the hip flexor system is untrained, the standard start. A solid tuck past twenty seconds means the base is building and the straight leg is a realistic month-end target. Any straight-leg hold past ten seconds already puts you in wired territory. Understand the logic of the ladder: the tuck shortens the lever, so the same hip flexors lift less torque and can practise longer, cleaner reps. Longer, cleaner practice is what teaches the system. Your number and your shape together are the baseline. In thirty days we retest both, and improvement can arrive as seconds, as shape, or as the beautiful combination of the two.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "NUMBER PLUS SHAPE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "THE LADDER LOGIC",
+     "label": "SHORTER LEVER, CLEANER PRACTICE",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "BOTH CAN IMPROVE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the hip once more, and let us be precise about what the tuck trains. Your hip flexors, led by the deep iliopsoas, must hold your legs against gravity. Legs are heavy levers. Straight, they hang far from the hip joint and the torque is brutal, which is why straight-leg holds are measured in seconds. Tucked, the lever folds in half, the torque drops, and the same muscles can work for twenty or thirty seconds at a time. That working time is the training. The flexors and their tendons, anchoring deep in the pelvis, get sustained tension at a dose they can actually repeat daily. The tuck is not an easier exercise. It is the same exercise at a survivable dose, and survivable doses, repeated for thirty days, are how straight legs are earned.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE LEVER FOLDS IN HALF",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_lsit.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "TORQUE IS THE ENEMY",
+     "lines": [
+      "Straight legs: brutal torque.",
+      "Tucked: trainable tension."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "A SURVIVABLE DOSE",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "STRAIGHT LEGS ARE EARNED",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hip_rotation.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "What surprised me in this test is that the winning variable was not flexor strength. It was hamstring permission. Most skinny guys fail the straight L-sit because the backs of their legs refuse the position: the hamstrings, stretched over both the hip and the knee, pull the pelvis under and round the back until the hold collapses. The tuck bypasses that refusal, letting you train the flexors for a month while daily attempts and post-practice stretching gradually negotiate more length. By week three or four, the negotiation often succeeds all at once: the legs straighten, not because the flexors doubled, but because the hamstrings stopped vetoing. Two systems were being trained the whole time, one loudly and one quietly. The retest reveals both, which is why L-sit results look sudden. They are not sudden. They are a veto being lifted.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE HAMSTRING VETO",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_lsit.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "TWO SYSTEMS TRAINED",
+     "lines": [
+      "Flexors, loudly.",
+      "Hamstrings, quietly."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "HOLD GROWTH",
+     "items": [
+      [
+       "DAY 0 TUCK",
+       12,
+       "red"
+      ],
+      [
+       "DAY 30",
+       20,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "RESULTS LOOK SUDDEN",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "A VETO BEING LIFTED",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_lsit.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage in the L-sit was true in the last experiment and it is doubly true on the tuck ladder. The load is your legs, and light legs mean every rung of the ladder costs less, so you can climb a rung sooner. A heavy guy can spend two months earning a thirty-second tuck. Your flexors face a smaller torque bill at every stage, and your practice time per session goes further. There is also a patience advantage that is really a physics advantage: because your holds are cheaper, your daily five minutes contains more quality seconds and fewer desperate ones, and quality seconds are the currency progress is paid in. The L-sit ladder rewards exactly what a skinny frame provides. Climb it daily and the retest shape will embarrass your day-zero shape.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "EVERY RUNG COSTS LESS",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_hip_rotation.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "QUALITY SECONDS ARE CURRENCY",
+     "lines": [
+      "More of them per session.",
+      "At every single rung."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "CLIMB SOONER, CLIMB CLEANER",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "PHYSICS PAYS YOU HERE",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_lsit.webp",
+   "exercise": "TUCK HOLDS",
+   "work": 15,
+   "rest": 45,
+   "rounds": 6,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Practise with me. Six tuck holds, short and clean, long rests. Press the floor hard, chest tall, breathe out slowly. When the shape dies, the round ends. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_leg_swing.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days, rung by rung. Your daily dose is five minutes of practice. Week one: tuck holds only, accumulating five minutes in holds of ten to twenty seconds, plus ten lying leg lifts for the flexors. Week two: tuck holds with one leg extended for the last five seconds of each hold, alternating legs, and start stretching the hamstrings after practice, two gentle minutes. Week three: extend both legs for the final seconds if the tuck is solid past twenty, and make your first daily attempt a full straight-leg try, whatever it gives you. Week four: work at your highest honest rung, keep the five minutes, and taper in the last three days to light tuck work. Day thirty: test in order, tuck max first, then your best straight-leg attempt. The rules of the ladder: never skip a rung because your ego is impatient, keep your chest tall in every hold, and if your hip flexors cramp hard, extend the rest, because cramping flexors are learning, not failing. Write your rung and your seconds on a note after every session. The ladder is climbed in handwriting as much as in hip flexors, because the note remembers your true level on the days your ego wants to skip ahead, and skipped rungs are where this progression goes to die.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: TUCK ONLY",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "FIVE MINUTES OF PRACTICE",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: ONE LEG EXTENDS",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "NEVER SKIP A RUNG",
+     "lines": [
+      "Ego is impatient.",
+      "Ladders are not."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "CHEST TALL, ALWAYS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: TEST IN ORDER",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "STRAIGHT LEGS",
+     "label": "THE TOP RUNG",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_lsit.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Tuck max first, then the straight-leg attempt. Here is how to read the pair. If your shape upgraded, tuck to one-leg or one-leg to straight, that is the headline result, worth more than any seconds, because you changed what your body can organise. If your shape stayed but your time doubled, your flexors got genuinely stronger at their rung, and the next month owns the upgrade. If neither moved, the hamstring veto is your honest diagnosis, and the next month should pair the same ladder with daily stretching as a co-star, not an afterthought. Either way, you now know your hips in a way the mirror never teaches. Put your numbers and your shapes in the comments, day zero and day thirty. Shape plus seconds: that is the full report card of this experiment.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SHAPE FIRST, THEN SECONDS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_hip_rotation.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "SHAPE UPGRADE",
+     "label": "THE HEADLINE RESULT",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE VETO DIAGNOSIS",
+     "lines": [
+      "If nothing moved, it is length.",
+      "Stretching becomes co-star."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT SHAPES AND SECONDS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_lsit.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days on the ladder, and your hips learn a shape most people never own. Keep a rung in your daily five minutes, and subscribe to run the next test with me. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "KEEP CLIMBING RUNGS",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "OWN THE SHAPE",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

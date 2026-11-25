@@ -1,0 +1,368 @@
+{
+  "id": "466",
+  "v5": true,
+  "title": "Do This Every Morning: What squats Does to Your leg tendons",
+  "description": "Squats before the day gets a vote. A morning set teaches your leg tendons to work as springs from the first hour. Take the squat test, get your number, and see what four weeks of mornings does.",
+  "tags": [
+    "squats",
+    "leg tendons",
+    "morning routine",
+    "squat test",
+    "what happens",
+    "calisthenics",
+    "tendon training"
+  ],
+  "hashtags": [
+    "squat test",
+    "squats",
+    "leg tendons",
+    "morning routine",
+    "what happens",
+    "calisthenics"
+  ],
+  "category": "whathappens",
+  "badge": "EP 466 - SQUATS EVERY MORNING",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "WEEK BY WEEK",
+    "THE VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_squat_bottom.webp",
+    "big": "1 SET",
+    "hook": "SPRINGS FROM 7AM",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_squat_top.webp",
+        "ren_squat_mid.webp",
+        "ren_squat_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Feet shoulder width. | Before breakfast. | Squat non-stop. | Hips below knees. | Stand tall every rep. | Stop when form dies. | That count is your NUMBER. | Write it down. | Squats every morning | is the habit on trial. | What do they do | to your LEG TENDONS? | Morning legs are stiff legs. | Week one oiled them. | Week four springs them. | At the end | I grade your number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BEFORE BREAKFAST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "STOP WHEN FORM DIES",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "THAT COUNT IS YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "MORNING LEGS ARE STIFF",
+          "lines": [
+            "Stiff is trainable."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "WEEK FOUR SPRINGS THEM",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "50 REPS",
+      "label": "THE LINE BETWEEN SOFT AND SPRINGY",
+      "sub": "under 25: untrained - over 80: springs installed",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Fifty clean squats in a row is where soft legs become springy ones. Under twenty five in the morning, your tendons are not weak, they are ungreased, and a daily set is grease delivered on schedule. Over eighty, you wake up with springs already installed. Today is the coordinate. The morning set is about to move it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "UNGREASED, NOT WEAK",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "50 CLEAN = SPRINGY",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "80+",
+          "label": "SPRINGS INSTALLED",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "GREASE ON SCHEDULE",
+          "lines": [
+            "A daily set. Every morning."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_mid.webp",
+      "section": "WEEK ONE",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week one oiled them, and oiling is creaky work. Your first morning squats sound like an old staircase, knees and ankles negotiating every centimetre. By day four the creaks thin out. Fluid moves through the tissues earlier, the groove deepens, and the set stops feeling like an argument. Nothing is stronger yet. Everything is moving the way it was designed to move, sooner in the day.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 1: OLD STAIRCASE",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "swap",
+          "asset": "ren_squat_bottom.webp"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "DAY 4",
+          "label": "THE CREAKS THIN OUT",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "MOVING AS DESIGNED",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "WEEK FOUR",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week two, the bottom of the squat stops being a place you fall into and becomes a place you load. Week three, you notice it on stairs first. You climb without the handrail conversation, pushed up by something springier than last month. Week four, retest your max. Most skinny guys add fifteen to thirty reps in a month of morning sets, because the tendons finally report for duty at the same time every day. Week four brings a test you did not schedule. Stand up from the floor without your hands. In week one that was a negotiation. Now your legs simply organise it, because the tendons report early, stiffen on time, and turn a hundred small daily squats into one fluent movement. Fluency is what tendon training looks like when it leaves the gym and moves into your life.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WEEK 2: LOAD THE BOTTOM",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+15-30",
+          "label": "REPS IN MONTH ONE",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_squat_top.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "STAIRS TELL THE TRUTH",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "section": "THE MECHANISM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Your knee is driven by the patellar tendon and your ankle by the Achilles, and both wake up stiff, cool and under-lubricated. A morning squat set loads them through their full range at the exact hour they resist most, and tissue adapts to the hour you train it. Over weeks the tendons weave fresh collagen and hold more spring earlier in the day. You are not just training legs. You are setting their clock. There is a knee angle in this story worth respecting. The patellar tendon loves the deep squat's load, but it loves it more when the load arrives daily and moderately than when it arrives in weekend floods. Morning sets are the moderate daily kind, which is why this habit builds knees instead of borrowing from them. Frequency is the safety feature, not the risk.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "TISSUE KEEPS A CLOCK",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "TRAIN THE STIFF HOUR",
+          "lines": [
+            "Adaptation follows the hour",
+            "you train at."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "achilles_anatomy_plate.webp"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "MORNING SPRING",
+          "items": [
+            [
+              "UNTRAINED",
+              30,
+              "grey"
+            ],
+            [
+              "MORNING-TRAINED",
+              80,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_squat_mid.webp",
+      "exercise": "SQUATS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 2,
+      "section": "THE HABIT",
+      "check": 2,
+      "music": "drive",
+      "narration": "Squat with me. Full depth, tall chest, smooth rhythm. Oil the springs for today. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The protocol: one set every morning, a few reps short of failure, full depth, heels planted. Put the set before breakfast and it can never be postponed into oblivion. The mistake is chasing a burning max daily, which turns a wake-up into a workout and steals tomorrow's legs. The other mistake is shallow reps before coffee. Depth is where the tendons live, so go where they live.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "BEFORE BREAKFAST",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "DAILY BURNING MAX",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "HEELS PLANTED",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "GO WHERE TENDONS LIVE",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your morning number. Under twenty five: ungreased cables, and your first month will feel like maintenance you should have done years ago. Twenty five to fifty: the springs report earlier every week. Over fifty: you are wired from the first hour. Retest on day thirty, morning, honest depth. Put your number in the comments. Just the number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 30: MORNING, HONEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+15-30",
+          "label": "REPS WAITING FOR YOU",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_squat_mid.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty mornings from now your legs will be awake before your coffee is. Subscribe, and we retest together. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY 30 RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "AWAKE BEFORE COFFEE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

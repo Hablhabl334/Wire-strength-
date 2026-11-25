@@ -1,0 +1,389 @@
+{
+  "id": "413",
+  "v5": true,
+  "title": "What 30 Days of jumping Does to a Skinny Guy",
+  "description": "Thirty days of jumping, one hundred bounces at a time, starting with an honest wall test. Learn what daily bouncing does to your Achilles spring and even your bones, and retest your vertical on day thirty.",
+  "tags": [
+    "vertical jump",
+    "jump training",
+    "achilles tendon",
+    "30 day challenge",
+    "plyometrics",
+    "calisthenics",
+    "bone density"
+  ],
+  "hashtags": [
+    "jumping",
+    "30 days",
+    "achilles",
+    "vertical jump",
+    "calisthenics",
+    "experiment",
+    "jump higher"
+  ],
+  "category": "experiments",
+  "badge": "EP 413 - JUMPING EVERY DAY",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_jump_peak.webp",
+    "big": "30 CM",
+    "hook": "JUMP EVERY DAY",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Your thirty days start at a wall. Reach up flat-footed and mark your highest touch with tape or chalk. Then jump, really jump, arms swinging, everything you have, and mark the top of that. The distance between the marks is your vertical, measured in the only currency jumping respects: centimetres. Most skinny guys expect to be good at this and land in the twenties, then blame their height, their legs, their genes, everything except the spring behind the ankle that nobody has ever trained. Write your number down and take a photo of the marks, because you will want evidence later. For thirty days you will bounce every day, one hundred small jumps woven into ordinary life, and then return to this wall. Keep your number. The spring is about to get a month's worth of tuning, and springs keep receipts.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "REACH MARK, JUMP MARK",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "1 NUMBER",
+          "label": "CENTIMETRES BETWEEN MARKS",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_achilles_profile.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "PHOTO THE MARKS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "30 CM",
+      "label": "YOUR VERTICAL, DAY ONE",
+      "sub": "under 20: springs asleep - over 40: spring-loaded",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Under twenty centimetres, your spring is asleep and your muscles are jumping alone, which means the month ahead holds the easiest centimetres of your life. Twenty to thirty is the untrained crowd. Over forty, you are already an outlier and the month becomes about polish. The question: what does a hundred bounces a day do to a sleeping spring?",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "MUSCLES JUMPING ALONE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "100 BOUNCES A DAY",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "40+ CM",
+          "label": "OUTLIER TERRITORY",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "achilles_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "When your foot strikes the ground in a bounce, your Achilles tendon stretches and stores energy, and when you leave the ground it returns that energy like a released bowstring. The faster and stiffer the spring, the more of the energy comes back inside the short window of a ground contact, and the less your muscles must pay for. A daily hundred bounces is a hundred small deposits into that spring: stretch, return, stretch, return, each one a tiny instruction to the tendon to organize for exactly this job. There is a second student in the class that nobody mentions: bone. Bone is living tissue that answers load by getting denser where the load arrives, and jumping is among the strongest load signals a skeleton ever receives, several times bodyweight through the legs in a fraction of a second. A month of daily bouncing will not rebuild your skeleton, but it starts the conversation, and it starts it in the years when the conversation matters most. Springs and bones: the month trains both while you are just bouncing in your kitchen.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "THE RELEASED BOWSTRING",
+          "lines": [
+            "Stretch stores the energy.",
+            "Stiffness decides the return."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_calf_raise.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "BONE IS THE SECOND STUDENT",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "LOAD THROUGH THE LEGS",
+          "items": [
+            [
+              "WALKING",
+              25,
+              "white"
+            ],
+            [
+              "JUMPING",
+              90,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "SPRINGS AND BONES, ONE HABIT",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "big_vs_lean_jump.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Jumping is the one athletic quality where your build is the cheat code, and the math is blunt: height equals power divided by weight. Every kilogram you do not carry is a kilogram the spring does not have to throw into the air. Heavy men can be powerful, but their springs spend the budget moving mass; yours spends it on altitude. Your landings are also cheaper: less mass arriving means less force per bounce, which means you can bounce daily, the exact frequency tendon tuning demands, while the heavy jumper must ration his sessions or collect sore Achilles complaints. Look at who owns jumping in the wild: gymnasts, volleyball wings, parkour kids, a parade of light frames with educated springs. None of them out-weigh the room. All of them out-bounce it. Thirty days of daily bouncing takes the build you already have and gives it the one thing it was missing: a spring that has been to school.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "POWER DIVIDED BY WEIGHT",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "CHEAPER LANDINGS",
+          "lines": [
+            "Less mass per bounce.",
+            "Daily training stays possible."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_jump_peak.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "WHO OWNS JUMPING",
+          "items": [
+            [
+              "LIGHT FRAMES",
+              90,
+              "cyan"
+            ],
+            [
+              "HEAVY FRAMES",
+              45,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "A SPRING THAT WENT TO SCHOOL",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The protocol is a number, not a workout: one hundred bounces a day, broken however you like. Ten while the kettle boils, twenty after lunch, the rest whenever the floor is free. The bounce itself is small and strict: ankles stiff, knees soft but quiet, minimal time on the ground, like the floor is warm. Week one, fifty a day, low and gentle, teaching rhythm. Week two, the full hundred. Week three, the hundred plus variety: some bounces side to side, some on one leg near a wall, some a little higher. Week four, fewer bounces, sharper ones, and two full rest days before the wall test. Twice a week, add five honest max jumps to remind the spring what the deposits are for. The protections: landings must stay quiet, because noise is leaked energy and sore joints; a sharp Achilles is a stop sign, not a suggestion; and never bounce to exhaustion, because a tired spring teaches leaking. The floor is free and always open. That is the whole gym.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "100 BOUNCES, ANY BREAKDOWN",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "QUIET LANDINGS ONLY",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_calf_raise.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "SHARP ACHILLES = STOP SIGN",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "stat",
+          "text": "3,000",
+          "label": "BOUNCES IN THE MONTH",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_jump_peak.webp",
+      "exercise": "POGO HOPS",
+      "work": 20,
+      "rest": 20,
+      "rounds": 5,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Bounce with me. Five rounds: twenty seconds of small stiff hops, twenty seconds of rest. Minimal ground time, ankles like springs, landings like a cat burglar. Light and quick. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_achilles_profile.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is how your month will unfold, week by week. Week one, fifty bounces feel like a toy until your calves report otherwise the next morning; the spring has been asleep and waking it is noisy. Week two, at the full hundred, the rhythm arrives: ground contacts get shorter, the bounce starts feeling like one continuous spring instead of a hundred separate jumps, and you catch yourself bouncing while waiting for things, which is the habit moving in. Week three, variety week, the one-leg bounces expose a lazy side and then educate it, and the max jumps begin to feel different at takeoff, less like a heave and more like a release. Week four, sharp and fresh, everyday life files its reports: stairs bounced, curbs floated over, a general sense that gravity has slightly worse aim than it used to. The wall has the official numbers, but the spring announced itself weeks earlier.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: WAKING IS NOISY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: ONE CONTINUOUS SPRING",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_jump_peak.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "LESS HEAVE, MORE RELEASE",
+          "lines": [
+            "Takeoff changes character.",
+            "The spring starts paying."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "GRAVITY'S AIM GOT WORSE",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Day thirty, same wall, same chalk, same honest rules. The pattern this month produces in sleeping-spring guys: the vertical typically gains several centimetres, with the lowest starters gaining most, and the bounce itself, the daily one, changes even more than the number. Read your day zero against the bands: under twenty centimetres, this month was designed for you. Twenty to thirty, you are weeks from jumping like an athlete. Over forty, keep a hundred bounces twice a week and go educate a duller spring. Put your centimetres in the comments. Just the number. Thirty days from now, chalk the wall and take it again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LOWEST STARTERS GAIN MOST",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "achilles_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "SAME WALL, TUNED SPRING",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR CENTIMETRES",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of bouncing, and the floor becomes a trampoline with manners. Your legs were never the limit; the spring behind your ankle was simply never tuned. Tune it daily and gravity negotiates. Retest in thirty days and bring me your centimetres. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "GRAVITY NEGOTIATES NOW",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

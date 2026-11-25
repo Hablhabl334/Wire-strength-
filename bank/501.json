@@ -1,0 +1,393 @@
+{
+ "id": "501",
+ "v5": true,
+ "title": "5 shrimp squat Mistakes That Are Destroying Your knee leverage",
+ "description": "Stand on one leg, grab the other foot behind you, and lower until your back knee kisses the floor. Your clean shrimp squat reps are the test, and five quiet mistakes are what destroy your knee leverage before your legs even get to work. Take the test, then fix the leaks.",
+ "tags": [
+  "shrimp squat",
+  "shrimp squat mistakes",
+  "knee leverage",
+  "single leg squat",
+  "pistol squat progression",
+  "calisthenics legs",
+  "bodyweight leg strength"
+ ],
+ "hashtags": [
+  "shrimp squat",
+  "knee leverage",
+  "single leg strength",
+  "calisthenics legs",
+  "leg day no gym",
+  "bodyweight squats"
+ ],
+ "category": "skills",
+ "badge": "EP 501 - SHRIMP SQUAT MISTAKES",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_squat_bottom.webp",
+  "big": "3 REPS",
+  "hook": "5 MISTAKES",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand on one leg. | Grab the other foot | behind your back. | Same side hand, | holding the toes. | Now lower yourself | down to the floor, | until the back knee | touches down softly. | Stand back up | without letting go. | That is one rep. | Count your clean reps | on the right leg, | then the left. | Clean means no hop, | no free hand down, | no falling over. | The rep where form | breaks does not count. | Stop there. | That smaller number, | from your weaker leg, | is your number. | Keep it. | Five mistakes are | stealing reps from it, | and we name them | before the end.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "ONE LEG, FOOT BEHIND YOU",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "CLEAN",
+     "label": "ONLY CLEAN REPS COUNT",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEAKER LEG SETS THE SCORE",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THAT IS YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "3 REPS",
+   "label": "FULL DEPTH, EACH LEG, IS THE LINE",
+   "sub": "0 clean: a mistake is ending it - 5+: leverage certified",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. Three clean reps on each leg, back knee touching the floor under control and standing up without a hop, is certified knee leverage. Zero clean reps does not mean weak legs. It almost always means a mistake is ending the squat before the leg starts its real work. Five or more on both sides and your single-leg strength is ahead of most people who squat with a bar. Judge the two legs separately and grade yourself by the worse one. A strong right and a broken left is not a strong squat; it is an injury appointment being scheduled slowly. The shrimp squat is honest because it removes your favorite hiding places. There is no second leg to borrow from, no rack to lean on, and no momentum that survives the pause at the bottom. Your number is the depth and control your knee can actually afford today, written in reps.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "3 CLEAN EACH LEG = THE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "5+",
+     "label": "LEVERAGE CERTIFIED",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "GRADE THE WEAKER LEG",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the knee. In a shrimp squat your shin stays nearly vertical and your knee travels forward over your toes as you descend, which moves the load onto the quadriceps and the patellar tendon below the kneecap. That tendon is the cable that transfers quad force into the shin, and the deeper the knee bends under load, the harder that cable works. This is leverage, not magic: the distance from your knee joint to the line of your bodyweight sets the price of every centimeter of depth. A longer price is exactly why the bottom of this squat feels brutal while the top feels easy. Your knee is not fragile here. It is a hinge being asked to pay full price at its worst angle, and hinges get stronger when the price is paid slowly and often.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "THE KNEE IS A HINGE",
+     "lines": [
+      "Bodyweight behind the knee sets the price.",
+      "Depth multiplies it."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_split_squat_bottom.webp"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "PATELLAR TENDON = THE CABLE",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "SLOW PRICE, STRONGER HINGE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Now the part nobody films. Your standing leg does not work alone: the hip of that leg must keep your pelvis level while the knee pays its price, and the hip of the lifted leg is folded into an extreme stretch behind you. When the pelvis tips or rotates, your knee caves inward to find balance, and the hinge starts paying sideways, which is the one direction it never agreed to pay. Compare two descents and the difference is visible from across the room. The controlled one is a straight line from head to knee. The leaking one wobbles at the hip first, then the knee pays for the wobble. This is why strong squatters sometimes score zero here. Their two-leg strength is real, but the shrimp grades the hip and the knee as one system, and a system is only ever as strong as its wobbliest joint. One more member of the committee deserves a mention: your ankle. The shrimp quietly asks the standing ankle to fold as the knee descends, and a stiff ankle spends the balance the hip was saving for the hard part. If your heel wants to lift or your foot rolls outward at depth, the ankle is co-signing your score whether you invited it or not. Test it against a wall this week, knee driving forward, heel pinned. The committee votes as a bloc, and the quietest member still counts.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE HIP HOLDS THE PELVIS LEVEL",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "bars",
+     "title": "ONE SYSTEM, TWO GRADES",
+     "items": [
+      [
+       "STRAIGHT LINE",
+       3,
+       "cyan"
+      ],
+      [
+       "HIP WOBBLE",
+       0,
+       "red"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "WOBBLE AT THE HIP, PAY AT THE KNEE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_hip_rotation.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_split_squat_top.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The bridge drill is the split squat, the shrimp's honest younger brother. Front foot flat, back foot on the floor behind you, and lower until the back knee hovers a centimeter off the ground. Three sets of six per leg, twice a week. It loads the same knee hinge at a price your current number can afford, and it teaches the hip to hold the pelvis level under fatigue. When split squats at full depth feel boring, the shrimp stops being a test you fail and becomes a test you pass.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "SPLIT SQUATS: THE BRIDGE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "3 x 6",
+     "label": "PER LEG, TWICE A WEEK",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "BORING = READY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "SAME HINGE, FAIR PRICE",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_mid.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Here is your advantage, and it is built into the physics. The price of a single-leg squat is your own bodyweight traveling through one knee. A lighter body pays a smaller bill at the exact same depth, which means you can practice more reps, more often, with faster recovery between sessions. The heavy guy gets one ugly attempt and a sore knee. You get a training program. Single-leg strength is also the most transferable strength a skinny guy can own. Sprinting, jumping, climbing stairs two at a time, changing direction on a court: all of it happens on one leg. The mirror will never show you this muscle. The stopwatch and the staircase will. Spend your cheap leverage on depth and control, and the shrimp becomes a skill your frame was priced to buy.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "LESS MASS, SAME DEPTH",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "1 LEG",
+     "label": "WHERE LIFE HAPPENS",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "YOUR FRAME IS THE DISCOUNT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_squat_top.webp"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_bottom.webp",
+   "exercise": "SHRIMP NEGATIVES",
+   "work": 30,
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Lower with me. One leg, foot held behind you, five seconds down to the floor, then reset and go again. Slow is the whole point. Go."
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE MISTAKES",
+   "check": 3,
+   "music": "calm",
+   "narration": "The five mistakes destroying your knee leverage. One: dropping the last ten centimeters, free-falling to the floor instead of lowering; the bottom is where the tendon earns its money, so own every centimeter. Two: letting the knee cave inward on the way up, which is the hip quitting and the knee paying sideways. Three: holding the foot with the opposite hand, which twists your pelvis before you even start. Four: testing only your good leg and calling that your number; the weak leg is the number. Five: rushing reps, bouncing off the floor and hopping up, which turns a leverage test into a balance trick. Slow down, pause on the floor, stand up like you mean it. And the rule above all rules in this family: sharp knee pain is a stop signal, not a challenge. Ache from effort is training. A sharp, specific pain that changes how you move is information, and the correct response is to end the session and, if it persists, let a professional look at it. Tendons adapt over months. Protect the schedule and the schedule pays you back.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "DROPPING THE LAST 10 CM",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "KNEE CAVING INWARD",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "OPPOSITE HAND ON THE FOOT",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "TESTING ONLY THE GOOD LEG",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "SHARP PAIN = STOP",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_bottom.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your number. Zero clean reps: a mistake is ending your squat, and its name is on the list you just heard. One to two clean reps each leg: the hinge is learning, and split squats will feed it exactly what it needs. Three or more on both sides: your knee leverage is certified, and the pistol squat is the next door on this corridor. Retest in thirty days, same floor, same order, weak leg first, and grade only the reps that would survive a slow-motion replay. Put your number in the comments. Just the number, and tell me which leg owns it. The shrimp grades the hinge and the hip as one system, and it does not negotiate. Train the system, and the number moves.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "0 CLEAN: A MISTAKE ENDS IT",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_split_squat_bottom.webp"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_top.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "One leg, one hinge, no hiding places. That is the shrimp squat, and your knee leverage is trainable. Subscribe, and bring me your new number in thirty days. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "NO HIDING PLACES",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "BRING ME THE NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "SEE YOU AT THE RETEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

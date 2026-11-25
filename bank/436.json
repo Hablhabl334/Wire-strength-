@@ -1,0 +1,347 @@
+{
+ "id": "436",
+ "v5": true,
+ "title": "The stairs Habit Nobody Trains (It Builds Your leg power)",
+ "description": "The staircase is a free gym that everyone walks past. Here is what taking the stairs daily does to your leg power over four weeks, and the sixty-second stair test that exposes how much power your legs actually make.",
+ "tags": [
+  "stairs",
+  "stair climbing",
+  "leg power",
+  "stair test",
+  "explosive strength",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "stairs workout",
+  "daily stairs",
+  "leg power",
+  "stair climbing",
+  "explosive legs",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 436 - THE STAIR HABIT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "LEG POWER",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_sprint.webp",
+  "big": "60 SEC",
+  "hook": "THE STAIR TEST",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a staircase, at least four flights if you can. Stand at the bottom, start the clock, and climb as fast as you safely can, one step at a time, no handrail pulling. Count the flights you finish in sixty seconds, or time one full climb. That is your number. Write it down. If your legs were burning and your lungs were loud, good: you just measured your leg power honestly, and the next four weeks of stairs are about to embarrass that number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "NO HANDRAIL PULLING",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "60 SECONDS",
+     "label": "COUNT THE FLIGHTS",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "text": "POWER, MEASURED",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "60 SEC",
+   "label": "THE POWER LINE",
+   "sub": "legs burning in 1 flight: power asleep - 4 flights easy: legs are wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. If one fast flight sets your legs on fire, your leg power is untrained, which for a skinny guy is an opportunity, not an insult. Two to three flights in a minute means you are building. Four flights with gas left over means your legs produce power most people only rent from a gym membership.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "OPPORTUNITY, NOT INSULT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "4 FLIGHTS",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "A FREE GYM",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "LEG POWER",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one is a rude introduction. Climbing stairs asks your calves, thighs and glutes to lift your entire body on one leg at a time, over and over. Your muscles handle it, but your breathing and your burn tolerance do not, yet. The first week is your system learning the rhythm: step, drive, breathe. By day seven the same staircase feels shorter, because your nerves have learned to recruit your leg muscles in the right order.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: THE RHYTHM",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_sprint.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "ONE LEG AT A TIME",
+     "lines": [
+      "Stairs are single-leg training in disguise."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "THE STAIRS FEEL SHORTER",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "LEG POWER",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the cables start cashing the checks. Every step loads the Achilles and the tendons of your knee at the exact angles sprinting uses, and daily loading tells them to stiffen and strengthen. Your steps get springier: less time on each stair, more pop out of every push. Power is just strength delivered quickly, and stiff tendons are the delivery trucks. This is the week the elevator starts looking like a strange choice.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: THE DELIVERY TRUCKS",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_calf_raise_front.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "EACH STEP",
+     "items": [
+      [
+       "GRIND",
+       55,
+       "red"
+      ],
+      [
+       "POP",
+       75,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "SPRINGIER STEPS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "achilles_anatomy_plate.webp",
+   "section": "LEG POWER",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the hidden system is obvious to anyone watching you climb. Your legs have adapted at every level: nerves firing in sequence, tendons returning energy, and your heart treating the climb as a warm-up. Studies of stair climbing show real gains in leg power and fitness from short daily bouts, which is why this habit embarrasses expensive programs. A skinny guy's advantage is recovery: you can attack stairs daily without the joint cost a heavier body pays, so your power compounds faster.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "ADAPTED AT EVERY LEVEL",
+     "lines": [
+      "Nerves, tendons and heart together."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_sprint.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "DAILY",
+     "label": "WITHOUT THE JOINT COST",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "POWER COMPOUNDS",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_calf_raise.webp",
+   "exercise": "STEP-UPS",
+   "work": 30,
+   "rest": 15,
+   "rounds": 3,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now climb with me. Step up tall, drive through the whole foot, alternate legs. Thirty seconds on, short rest, three rounds. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise_front.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is to retire the elevator. Every staircase you meet becomes training: climb at a pace that makes you breathe hard but keeps your form tall. Use one step at a time for power, and occasionally take two for strength. Never run downstairs fast to save time; the descent is where knees complain, so walk it with control. Add one fast flight a week as your test piece, same stairs, same time, and watch the clock shrink.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "RETIRE THE ELEVATOR",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO FAST DESCENTS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "TALL FORM",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_calf_raise.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "ONE TEST FLIGHT WEEKLY",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your stair number, judged. One burning flight: power asleep, and the fastest improvements of your life are on the menu. Two to three flights: the build zone, where week three makes the burn arrive later. Four flights with gas left: wired legs, so chase two-at-a-time climbs and single-leg control. Retest on day twenty-eight on the same staircase and comment your new number. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_calf_raise.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "SAME STAIRCASE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The gym you needed was standing in your building the whole time, free and open all night. Start tomorrow, take the stairs, and let every floor you climb pay your legs interest. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "FREE AND OPEN ALL NIGHT",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

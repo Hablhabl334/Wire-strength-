@@ -1,0 +1,389 @@
+{
+  "id": "403",
+  "v5": true,
+  "title": "The 30-Day plank Experiment: Your core nerves Week by Week",
+  "description": "Thirty days of planks, one honest max test at the start and the same test at the end. Learn why your plank ends when your nerves quit, not when your abs do, run the daily breathing protocol, and see what a month does to your plank time.",
+  "tags": [
+    "plank test",
+    "plank challenge",
+    "core training",
+    "30 day challenge",
+    "core nerves",
+    "calisthenics",
+    "plank time"
+  ],
+  "hashtags": [
+    "plank",
+    "30 days",
+    "core nerves",
+    "plank test",
+    "calisthenics",
+    "experiment",
+    "core strength"
+  ],
+  "category": "experiments",
+  "badge": "EP 403 - 30 DAYS OF PLANKS",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_plank_hold.webp",
+    "big": "2 MIN",
+    "hook": "PLANK TEST",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Day zero of the plank experiment is one honest hold. Forearms down, elbows under shoulders, body in one straight line from head to heels, and start the clock. The rules are strict because the number is useless without them: the moment your hips sag or pike into a tent, the test is over. No bouncing back into line, no negotiating. Most guys are genuinely surprised by their number, because the plank feels easy for twenty seconds and then falls apart like a bridge losing cables one by one. Write the number down exactly as it happened. For thirty days our subject planks every day with a specific breathing protocol, and on day thirty the same strict rules come back out. Keep your time. What ends a plank is not what you think, and by the end of this video you will know what it actually is.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ONE STRAIGHT LINE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "1 RULE",
+          "label": "SAG OR PIKE = DONE",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_plank_sag.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "NO NEGOTIATING",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "2 MIN",
+      "label": "THE TRAINED PLANK LINE",
+      "sub": "under 60 sec: nerves quit early - over 3 min: wired core",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Under sixty seconds, your core nerves quit long before your muscles do, and that gap is the opportunity. One to two minutes is a normal untrained hold, ended by signal failure, not strength failure. Over three strict minutes, your bracing system is wired better than most people's in any gym. The experiment asks: how much of that gap can thirty days of daily holds close?",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "SIGNAL FAILURE, NOT STRENGTH",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "STRICT FORM ONLY",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "3+ MIN",
+          "label": "WIRED CORE TERRITORY",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is what actually ends your plank. Holding a straight line is not one muscle working; it is dozens of muscles around your spine firing in a coordinated brace, and the coordinator is your nervous system. The deep core muscles switch on in sequence, the breath has to keep moving without breaking the brace, and the whole pattern must be sustained, second after second. Muscles rarely fail first in a plank. The signal fails first: recruitment fades, the brace leaks at the hips or the ribs, the line bends, and the test ends with plenty of strength still in the tank, uncommanded. That is why this experiment calls the system core nerves. A plank is an endurance test of a nerve pattern wearing a muscle costume. Train the pattern daily and the pattern holds longer. The abs were mostly waiting for better instructions, and instructions are exactly what thirty days of practice writes.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "THE SIGNAL FAILS FIRST",
+          "lines": [
+            "Muscles hold the line.",
+            "Nerves decide for how long."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "A BRACE, NOT A MUSCLE",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "WHAT ENDS A PLANK",
+          "items": [
+            [
+              "NERVE SIGNAL",
+              80,
+              "cyan"
+            ],
+            [
+              "MUSCLE STRENGTH",
+              45,
+              "white"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "INSTRUCTIONS CAN BE WRITTEN",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The breath is the hidden half of the pattern. Most beginners hold their breath in a plank, which works for twenty seconds and then poisons everything: pressure spikes, panic rises, the brace shatters. Trained planks breathe behind the brace, small steady sips of air while the wall of the core stays hard. That skill, breathing while braced, is pure nerve work, and it transfers everywhere: to lifting, to carrying, to any moment your spine needs a bodyguard. And here is the light guy's edge in this experiment: a plank holds up your own bodyweight and nothing more. Less weight means the brace can be practiced longer each day, more total pattern repetitions per week, faster learning. The heavy guy's plank is a strength event. Yours is a skill lesson, and skills compound daily. Thirty days of lessons is a lot of compounding. There is a reason soldiers and gymnasts both live on this drill. A brace that breathes is a brace that lasts, and a brace that lasts is a spine that stays safe when life gets heavy and awkward.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BREATHE BEHIND THE BRACE",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "HELD BREATH = SHATTERED BRACE",
+          "lines": [
+            "Twenty good seconds.",
+            "Then pressure and panic."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "DAILY PRACTICE TIME",
+          "items": [
+            [
+              "LIGHT",
+              90,
+              "cyan"
+            ],
+            [
+              "HEAVY",
+              55,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "SKILLS COMPOUND DAILY",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The protocol is a ladder you climb one rung a day. Every day: three holds. Hold one at half your day-zero time, easy, perfect breathing. Hold two at three quarters, steady. Hold three, the money hold, a few seconds beyond yesterday's best, then stop while the line is still true. The breathing rule never changes: sip air through the nose, keep the ribs down, exhale slowly like you are fogging a mirror you cannot touch. Week one, just learn the ladder. Week two, the money hold grows by five to ten seconds a day. Week three, add one day of longer easy holds. Week four, taper the volume and let the pattern consolidate, because day thirty is a test, not a training day. Two protections: a sagging hold does not count, ever, and sharp back pain ends the session, full stop. Total daily time: under six minutes.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THREE HOLDS A DAY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "SAGGING NEVER COUNTS",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_plank_sag.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "BREATHE BEHIND THE BRACE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "stat",
+          "text": "<6 MIN",
+          "label": "DAILY PLANK WORK",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_plank_hold.webp",
+      "exercise": "PLANK",
+      "work": 45,
+      "rest": 15,
+      "rounds": 3,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Hold it with me, day-one style. Three rounds: forty-five seconds in the line, fifteen to reset. Breathe behind the brace, small sips, ribs down. One straight line. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_sag.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is how the month unfolded, week by week. Week one was shaky in the literal sense: the whole body trembled at forty seconds, because a new brace pattern fires like static before it fires like a cable. Week two, the trembling moved later and the breathing arrived; our subject stopped counting seconds and started counting breaths, which is the moment a plank stops being suffering and becomes practice. Week three, the money holds stretched past the day-zero max on ordinary Tuesdays, the surest sign the pattern had been rewritten: the old ceiling became a warm-up. Week four felt almost boring, and boring is the sound of a nerve system that has learned its job. The drama had moved out of the hold. What remained was a line that simply stayed, waiting for the clock to make its point.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: STATIC AND SHAKES",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: COUNTING BREATHS",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "THE OLD CEILING",
+          "lines": [
+            "Day-zero max became",
+            "an ordinary warm-up."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "BORING = LEARNED",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Day thirty, forearms down, strict rules, no mercy. The pattern this experiment produces in untrained guys: plank times commonly double in a month, sometimes more, because so little of the original limit was muscle. Read your day zero against the bands: under sixty seconds, this month was built for you and the gains will embarrass your starting point. One to two minutes, you are one pattern away from a wired core. Over three, maintain it twice a week and go wire a weaker system. Put your seconds in the comments. Just the number. Thirty days from now, get down and take it again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "TIMES COMMONLY DOUBLE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "SAME RULES, NEW SIGNAL",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR SECONDS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of holding a line, and the line starts holding you back in everything else. Your core was never as weak as the clock said; its instructions were. Write better instructions daily. Retest in thirty days and bring me your seconds. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "INSTRUCTIONS, NOT WEAKNESS",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+ "id": "394",
+ "v5": true,
+ "title": "I Tested squats for 30 Days (The Results Surprised Me)",
+ "description": "Thirty days of squats, tested by one max set of slow bodyweight squats on day zero and day thirty. The squat is a tendon relay race between your knees and hips, and daily practice changes how the baton is passed. Take the test, learn the mechanism, follow the plan, and compare your numbers.",
+ "tags": [
+  "squats",
+  "squat test",
+  "bodyweight squats",
+  "knee tendons",
+  "30 day challenge",
+  "calisthenics",
+  "leg training"
+ ],
+ "hashtags": [
+  "squats",
+  "squat challenge",
+  "30 day challenge",
+  "calisthenics",
+  "leg workout",
+  "bodyweight training"
+ ],
+ "category": "experiments",
+ "badge": "EP 394 - SQUATS, TESTED",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_squat_mid.webp",
+  "big": "30 DAYS",
+  "hook": "SQUATS TESTED",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Day zero. | Before any training. | We take the test. | Max slow squats. | Feet shoulder width. | Sit down deep. | Knees tracking out. | Stand all the way. | Two seconds down. | Two seconds up. | No bouncing. No resting. | Stop when form dies. | That is your NUMBER. | Write it down. | In thirty days | we run it again. | Same depth. Same tempo. | After daily squats | rebuilt your legs. | Keep your number close. | Let us begin.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "DEEP, KNEES TRACKING OUT",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "text": "TWO SECONDS EACH WAY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "NO BOUNCING, NO RESTING",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Squats every day.",
+      "30 days. One retest."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "KEEP YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR REPS",
+   "label": "YOUR DAY-ZERO SQUAT NUMBER",
+   "sub": "under 15: untrained - 25 to 40: building - over 50: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is how to read your day-zero squat count. Under fifteen slow, deep reps means the leg system is untrained, which is the default setting for skinny guys who have been avoiding leg day since birth. Twenty five to forty is the building zone: the machinery works and has simply never been given a daily reason to improve. Over fifty at this strict tempo, your knees, hips and lungs are already wired as a team. What the count measures is not thigh size. It measures how long the tendon relay between your knees and hips can keep passing force before the system floods with fatigue. That relay is what thirty days of squats rebuilds. Same depth and same tempo at the retest, or the comparison is fiction.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A RELAY, MEASURED IN REPS",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "50+ REPS",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "SAME TEMPO OR FICTION",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the knee and the hip together, because a squat is a relay race between them. On the way down, your knee tendons load as your knees travel forward, and your hip tendons load as your hips fold. On the way up, the baton passes back: hips extend, knees extend, and the force flows through both cables in sequence. When one link is weak, the other pays. That is why some guys feel squats only in their knees and others only in their backs. Daily squatting trains the relay itself. The patellar tendon stiffens under the daily load, the hip tendons learn their share, and your nervous system choreographs the handover until it is seamless. The burn at rep twenty is not the point. The seamless handover is the point, and it is a tendon and nerve product, not a muscle product.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A RELAY BETWEEN TWO JOINTS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "hip_joint_plate.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "WHEN ONE LINK IS WEAK",
+     "lines": [
+      "The other link pays.",
+      "That is the knee ache story."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "THE HANDOVER IS THE POINT",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "TENDON AND NERVE PRODUCT",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "What surprised me in this test was how much of the gain was breathing and rhythm, not legs. A long squat set is a pacing problem. Your body must manage oxygen, balance and force for minutes at a time, and the nervous system learns to distribute effort instead of sprinting the first ten reps and drowning in the next ten. Daily practice teaches that distribution until it is automatic. Underneath the pacing, the tissue story continues: the tendons around the knee respond to the daily moderate load by stiffening, and stiffer knee tendons make each stand-up cheaper, which delays the flood. Two adaptations, one in the control room and one in the cables, both pointing the rep count up. By the retest, most guys are not stronger in the way a barbell measures. They are better organised, and on a bodyweight test, organisation wins.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "PACING IS HALF THE TEST",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_squat_bottom.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "TWO ADAPTATIONS",
+     "lines": [
+      "Control room: pacing.",
+      "Cables: cheaper stand-ups."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "SQUAT TEST GROWTH",
+     "items": [
+      [
+       "DAY 0",
+       18,
+       "red"
+      ],
+      [
+       "DAY 30",
+       45,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "ORGANISATION WINS HERE",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "NOT BARBELL STRONGER. BETTER.",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_mid.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage in squats is total cost. A bodyweight squat set costs you your bodyweight per rep, and your bodyweight is the smallest bill on the channel. You can train squats daily, at real volume, and still recover to do it again tomorrow, while a heavy guy's legs need two days to forgive the same session. Daily is the magic word for tendon work, because tendons count sessions the way banks count deposits. There is also a form advantage: lighter guys usually reach honest depth more easily, hips below knees with heels down, and depth is where the hip tendons earn their share of the adaptation. Your month will be deep, daily and cheap. That combination is why skinny guys' squat numbers explode in thirty days while their mirrors barely change.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE SMALLEST BILL ON THE CHANNEL",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_squat_top.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "TENDONS COUNT DEPOSITS",
+     "lines": [
+      "Sessions, like a bank.",
+      "Daily beats heroic."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "DEEP, DAILY AND CHEAP",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "NUMBERS EXPLODE FIRST",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_mid.webp",
+   "exercise": "SQUATS",
+   "work": 40,
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Squat with me. Three rounds at the test tempo, two seconds down, two seconds up, full depth. Breathe at the top, stay smooth. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. Your daily dose is one hundred squats, earned however your level demands. Week one: five sets of twenty through the day, test tempo, full depth, and film one set from the side to check that your heels stay down. Week two: fewer, bigger sets, three sets of thirty five or so, and add a five second pause at the bottom of the last rep of each set, because the deep position is where the hip tendons learn. Week three: two sets of fifty if you can, one set if you must, and once every three days, a near-max set to feel the trend. Week four: keep the hundred, keep the depth honest, and taper in the last three days to fifty easy reps. Day thirty: same tempo, same depth, one max set. The knee rules that protect the month: knees track over toes, never cave inward, heels stay planted, and sharp knee pain is a stop signal, while burning thighs are just the relay working. If your depth is limited, hold a doorframe and squat to your honest depth, because honest depth beats fake depth at any number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: 5 SETS OF 20",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "FILM ONE SET",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: PAUSE AT THE BOTTOM",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "HONEST DEPTH WINS",
+     "lines": [
+      "Hold a doorframe if needed.",
+      "Fake depth teaches nothing."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "KNEES NEVER CAVE IN",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: ONE MAX SET",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "100 A DAY",
+     "label": "THE DAILY DOSE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_bottom.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same tempo, same depth, one max set. Here is how it usually reads. The typical skinny guy doubles or nearly doubles the count, because the day-zero limit was organisation, and organisation is the fastest thing training can fix. If you passed fifty, your knee and hip relay is officially wired, and stairs, jumps and life will all feel cheaper. If your count rose but your depth quietly shrank across the month, the log will show it and the honest gain is smaller than the number claims, which is why we filmed week one. If your knees complained more as the month went on, your knees were probably caving under fatigue, and the next month belongs to slower, smaller sets. Put both numbers in the comments, day zero and day thirty, at the strict tempo. The squat is the oldest test there is, and it still does not care how you look.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME TEMPO. SAME DEPTH.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_squat_mid.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "NEARLY DOUBLE",
+     "label": "THE TYPICAL RESULT",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "DEPTH SHRINKAGE IS CHEATING",
+     "lines": [
+      "The film from week 1.",
+      "Keeps the month honest."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_top.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days of squats, and your legs stop being the skipped chapter. Keep a hundred in your week if you can, keep the depth honest, and subscribe for the next test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "LEGS ARE NO LONGER SKIPPED",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "KEEP THE DEPTH HONEST",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

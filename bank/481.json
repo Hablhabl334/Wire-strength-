@@ -1,0 +1,387 @@
+{
+ "badge": "EP 481 - BACK LEVER TUCK TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVERAGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Hang from a bar, tuck your knees, and roll backward until your body hangs upside down. Your back lever tuck time exposes the truth about your shoulder leverage: the long lever behind you that your lats and rear shoulders must hold against gravity. Take the test, learn the lever math, and get the weekly protocol.",
+ "hashtags": [
+  "back lever",
+  "shoulder leverage",
+  "lever test",
+  "calisthenics skills",
+  "bodyweight strength",
+  "skinny guy fitness"
+ ],
+ "id": "481",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANY BAR WORKS"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "KNEES TO CHEST, ROLL BACK",
+     "pos": "br",
+     "text": "TUCK"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STOP AT HORIZONTAL"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Grab a bar. | Hang beneath it. | Pull your knees | to your chest. | Now roll backward, | slowly, under control, | until you hang | upside down, | back facing down, | body like a ball. | Start your clock | the moment | you settle there. | No swinging. | No kicking up. | Just hold | the tuck position | as long as | you honestly can. | When you drop | or unfold, | stop the clock. | That time | is your number. | Keep it safe. | At the end, | I tell you | what it proves | about your shoulders. | Breathe out slowly. | Let the wobble settle. | Stillness counts double. | Swinging counts zero. | Own the position | before you chase | a harder one.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "15 SEC = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LEVER MASTER TERRITORY",
+     "pos": "br",
+     "text": "30+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHORT = FIXABLE"
+    }
+   ],
+   "big": "15 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF TUCK HOLD IS THE LEVERAGE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifteen seconds in a clean tuck, back flat, knees tight, is where your shoulder leverage stops being a hope and becomes a fact. Under five seconds, the lever is simply too long for your current strength, and that is trainable, not shameful. Over thirty, you hold a position most strong-looking men cannot find for two seconds. The tuck is the shortest version of the lever. Master its clock and the straight versions stop being fantasy. Film it if you can. The camera catches what pride edits out: the slow unfold, the drifting hips, the arms softening at the end. Your official number is the time up to the first of those, not the time until you let go. Gymnasts have graded levers this way for a century, because a position you cannot hold still is a position you do not have yet.",
+   "section": "THE NUMBER",
+   "sub": "under 5 sec: the lever wins - over 30 sec: lever master",
+   "type": "card"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Your body hangs behind the bar.",
+      "Gravity pulls the long end down."
+     ],
+     "pos": "tr",
+     "title": "A LEVER BEHIND YOU"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "REAR SHOULDER + LATS PAY"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LEVERAGE IS THE LOAD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is what the test really measures. In a back lever, your whole body hangs out behind the bar like the long end of a seesaw, and gravity pulls that long end down with everything it has. Your shoulders sit at the pivot. The muscles that hold the pivot shut, your lats and the backs of your shoulders, must produce enormous force because the lever arm working against them is so long. The tuck shortens that arm by folding you into a ball. That is why the tuck is step one: same pivot, same muscles, a lever short enough for a skinny guy to win against while he builds the strength for the long one. There is a second system paying quietly in the background: your grip and your straight-arm chain. The bar does not care about your tuck if your hands open or your elbows soften, because the whole lever hangs from those two hands. This is why lever athletes develop forearms that look carved. The pivot gets the glory, but the chain that feeds it, fingers, elbows, shoulders, has to be one unbroken line of tension, or the geometry never even gets a chance to be tested.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HALF THE LEVER, TWICE THE HOLD"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "TUCK",
+       15,
+       "cyan"
+      ],
+      [
+       "STRAIGHT LEGS",
+       4,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME GUY, SAME DAY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FOLD = FORCE MULTIPLIER"
+    },
+    {
+     "asset": "ren_hang_side_relaxed.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Watch what folding does to the math. The same guy, on the same day, might hold a tuck for fifteen seconds and a straight back lever for four. His muscles did not change between attempts. The lever did. Every centimeter of leg you unfold moves weight further from the pivot and multiplies the force your shoulders must produce. This is why lever training is honest training: progress is not a feeling, it is geometry. Unfold one joint at a time, knees, then one leg, then both, and the clock tells you the truth at every stage. This is also why two people with identical tuck times can be months apart in real progress. One holds the tuck with a rounded back and hips piked high, shortening the lever twice over. The other holds it flat-backed, hips low, paying nearly the advanced price. Same clock, different exercise. When you grade yourself, grade the shape first and the seconds second. A flat fifteen is worth more than a piked thirty, and it transfers. The piked thirty transfers to nothing but a better piked thirty.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_relaxed.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "One drill deserves its own minute: the German hang. Hang from the bar, roll all the way through until your arms are behind you and your body hangs in a deep shoulder stretch, feet toward the floor. It looks like a party trick. It is actually the back lever's foundation work, opening the shoulder into exactly the stretched position the lever loads, and building comfort where panic usually lives. Thirty relaxed seconds there, a few times a week, makes the tuck feel like a room you have visited instead of a cliff edge. Master the room and the furniture, the holds, the unfolds, the straight version, arranges itself over the following months.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE GERMAN HANG",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "30 SEC",
+     "label": "RELAXED, BREATHING",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "COMFORT BEFORE LOAD",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE FOUNDATION DRILL",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS WEIGHT ON THE LEVER"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LIGHT BODY, LONG LEVER",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THIS SKILL LOVES LIGHT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now the part nobody tells skinny guys. The back lever is one of the few strength skills where weighing less is a straight advantage. The load on the lever is your own body. A lighter body means less force at the far end, which means your shoulders reach the straight position months earlier than a heavier lifter with bigger muscles. Gyms reward mass. Levers reward ratios. Your strength-to-weight ratio is the whole game here, and it is the one game where your build is the favorite, not the underdog. There is a mental edge too, and it is not small. Lever training gives you a scoreboard that cannot be gamed by buying equipment, wearing the right shoes, or picking friendly exercises. The bar, the tuck, the clock. Skinny guys who have spent years being measured by a mirror that under-reports them tend to fall in love with a test that reports honestly. Keep the number somewhere visible. It is the most encouraging object in your training life.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "TUCK HANG",
+   "music": "drive",
+   "narration": "Hang with me. Tuck tight, roll back, settle upside down and breathe. Twenty seconds on the clock. This is where the leverage gets built. Go.",
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 SESSIONS A WEEK"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SLOW ROLL, NO SWING"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "KICKING INTO THE TUCK"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "TRAINING IT EVERY DAY"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "ADD 2 SEC A WEEK",
+     "pos": "tr",
+     "text": "+2 SEC"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is patient, because levers punish greed. Three sessions a week, never two days in a row. Each session: five tuck holds at about seventy percent of your best time, resting until you feel fully fresh. Enter the tuck with a slow roll, never a kick, because the swing you practice is the swing you keep. When fifteen seconds feels solid across all five sets, start unfolding one knee for the last five seconds of each hold. And respect the shoulder: this position loads it in a stretched, vulnerable angle, so warm up with easy hangs first, and if anything pinches, stop and build more base strength first. Write every session down: stage, hold times, how the shoulder felt. Lever progress is slow enough that memory lies about it, in both directions. The notebook tells you the tuck gained four seconds this month when your mood swears nothing is happening, and it warns you when a stage has stalled for three weeks and needs a step back. Athletes who log levers finish levers. Athletes who vibe them collect almost-levers.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 5: THE LEVER WINS"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under five seconds: the lever is longer than your current strength, and the tuck protocol is exactly your road. Five to fifteen: the pivot is learning to hold, and the advanced tuck is weeks away. Over fifteen: your shoulder leverage is real, start unfolding. Retest in thirty days, same bar, same slow roll, no swing. Put your seconds in the comments. Just the number. Lever numbers do not flatter anyone, and that is why they are worth chasing. One more grading note before you go. Test both the tuck you have and the tuck you are building toward, once a month, a single max attempt at the next stage. That second number will sit at zero or one second for a while, and that is fine. It is not a verdict. It is a compass. The day it reads three, your training stage changes, and you will have earned the notification honestly.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MASTER THE TUCK FIRST"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW TIME",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Fold the lever short, own the tuck, then unfold one joint at a time. That is the whole road to the back lever. Subscribe, and bring me your new time in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "back lever",
+  "back lever tuck",
+  "shoulder leverage",
+  "calisthenics skills",
+  "lever training",
+  "bodyweight strength",
+  "gymnastics strength"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_hang_side_tuck.webp",
+  "big": "15 SEC",
+  "hook": "THE LEVER TEST"
+ },
+ "title": "Your Back Lever Tuck Time Reveals the Truth About Your shoulder leverage",
+ "v5": true
+}

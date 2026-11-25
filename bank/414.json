@@ -1,0 +1,389 @@
+{
+  "id": "414",
+  "v5": true,
+  "title": "What 30 Days of plank Does to a Skinny Guy",
+  "description": "Thirty days of planks, served as short snacks all day instead of one heroic hold. Start with an honest max test, learn why your core nerves quit before your abs do, and retest your plank time on day thirty.",
+  "tags": [
+    "plank test",
+    "plank challenge",
+    "core training",
+    "30 day challenge",
+    "core nerves",
+    "calisthenics",
+    "plank time"
+  ],
+  "hashtags": [
+    "plank",
+    "30 days",
+    "core nerves",
+    "plank test",
+    "calisthenics",
+    "experiment",
+    "core strength"
+  ],
+  "category": "experiments",
+  "badge": "EP 414 - PLANKS EVERY DAY",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_plank_hold.webp",
+    "big": "3 MIN",
+    "hook": "PLANK EVERY DAY",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Your thirty days start in the hardest easy position in fitness. Forearms on the floor, elbows under shoulders, one straight line from head to heels, clock running. The rules are what make the number real: the moment the hips sag toward the floor or jackknife toward the ceiling, the test is over, and no, the five seconds of arguing do not count. Most guys discover their honest number is about half their remembered number, because memory keeps the day the line held and deletes the sag. Write down the true seconds, the embarrassing ones, especially those. For thirty days you will not train the plank the way the internet does, with one heroic daily hold. You will snack on it: short, perfect holds scattered through the day, and on day thirty the strict test returns. Keep your number. What gives out first in a plank is not the muscle everyone blames, and this month proves it on your own body.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ONE STRAIGHT LINE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "1 RULE",
+          "label": "SAG OR PIKE = OVER",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_plank_sag.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "MEMORY LIES, THE CLOCK DOESN'T",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "2 MIN",
+      "label": "ONE STRICT PLANK, NO SAG",
+      "sub": "under 60 sec: signal quits first - over 3 min: wired core",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Under sixty strict seconds, your brace signal quits long before your muscles do, and that gap between signal and strength is the most trainable gap in your whole body. One to two minutes is the normal untrained hold. Over three strict minutes, your core wiring embarrasses most of the gym. The month asks: how much of the gap closes when the training is snacks instead of suffering?",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "SIGNAL VS STRENGTH GAP",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "SNACKS, NOT SUFFERING",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "3+ MIN",
+          "label": "EMBARRASSES THE GYM",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "A plank is a committee meeting. Dozens of muscles around your trunk must fire together, in the right order, at the right pressure, while you keep breathing, and the chair of that committee is your nervous system. The muscles rarely run out of strength in two minutes; what runs out is coordination. Recruitment flickers, one section of the brace stops reporting, the line bends at the weakest communication, and the hold ends with strength still sitting in the muscles, uncommanded. This is why the system in this episode is called core nerves, and why the training that fixes it looks like practice, not punishment. Every short perfect hold is one clean committee meeting: full attendance, clear orders, no panic. Repeat clean meetings all day and the committee starts running itself. The abs you can see are just the wall of the building. The wiring inside is what this month renovates, and wiring, unlike wallpaper, changes how the whole house performs under load, in every other lift and every awkward real-life moment.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "A COMMITTEE MEETING",
+          "lines": [
+            "Muscles attend. Nerves chair.",
+            "Coordination runs out first."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "STRENGTH LEFT UNCOMMANDED",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "WHAT ENDS THE HOLD",
+          "items": [
+            [
+              "COORDINATION",
+              80,
+              "cyan"
+            ],
+            [
+              "MUSCLE FUEL",
+              35,
+              "white"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "PRACTICE, NOT PUNISHMENT",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The snack method works because of how motor learning actually happens. A skill practiced briefly, fresh, many times a day, wires faster than the same minutes crushed into one exhausted session, because the nervous system learns from successful repetitions and merely survives the sloppy ones. Your tenth shaky minute of a heroic hold teaches your committee to meet badly. Ten separate twenty-second holds teach it to meet perfectly, ten times. And your build is the ideal student again: the plank loads you with your own weight, so a light frame can hold perfect positions far more total minutes per day than a heavy one, whose every snack is a near-maximal event. More perfect minutes, more meetings, faster wiring. There is a posture dividend too: a brace that switches on easily starts switching on by itself, at the desk, in the car, under a heavy bag of groceries. The month does not just lengthen a hold. It installs a reflex.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FRESH AND OFTEN BEATS EXHAUSTED",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "SUCCESSFUL REPS WIRE",
+          "lines": [
+            "Sloppy minutes teach survival.",
+            "Clean snacks teach skill."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "PERFECT MINUTES PER DAY",
+          "items": [
+            [
+              "LIGHT",
+              90,
+              "cyan"
+            ],
+            [
+              "HEAVY",
+              45,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "IT INSTALLS A REFLEX",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The protocol turns your home into the gym: every time you pass the mat, the rug, the clear patch of floor, you owe it twenty seconds. Set size: a quarter of your day-zero max, minimum ten seconds, always perfect, always finished while it still looks easy. Week one, five snacks a day. Week two, eight. Week three, ten snacks and slightly longer ones. Week four, keep the snacks but drop to half in the last three days, arriving at the test with a fresh, well-rehearsed committee. Two technique laws never bend: breathe behind the brace in small sips, and the moment the line bends, the snack is over, even at second six, because a bent rep teaches bending. Sharp back pain is the only true stop sign, and if it persists, see a professional. Total formal training time: a few scattered minutes. Total committee meetings: over two hundred. Attendance is the adaptation.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "EVERY PASS, TWENTY SECONDS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "FINISH WHILE IT LOOKS EASY",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_plank_sag.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "A BENT REP TEACHES BENDING",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "stat",
+          "text": "200+",
+          "label": "COMMITTEE MEETINGS THIS MONTH",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_plank_hold.webp",
+      "exercise": "PLANK",
+      "work": 30,
+      "rest": 15,
+      "rounds": 4,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Snack with me. Four rounds: thirty seconds in the line, fifteen to reset. Breathe in small sips, ribs down, one straight committee decision. Perfect over long. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_sag.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is how your month will unfold, week by week. Week one, the snacks feel like interruptions, and you will catch your line sagging in shop windows and mirrors, which is the committee being caught out in public. Week two, the twenty seconds turn suspiciously easy, and the brace starts arriving before the hold does: you will feel your trunk switch on when you lift something heavy, uninvited, like a good bodyguard. Week three, the longer snacks stop trembling, because trembling was static in the signal and the signal has been cleaned by two hundred clean meetings. Week four, the taper, planks feel almost dull, and dull is the sound of a reflex installed. The max test is still coming, but the real result has already leaked into your posture, your lifting, and the way you sit through a long drive. The clock will merely confirm what your spine already reported.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: CAUGHT SAGGING IN MIRRORS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: THE BODYGUARD ARRIVES",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "STATIC LEAVES THE SIGNAL",
+          "lines": [
+            "Two hundred clean meetings.",
+            "The trembling retires."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "DULL = REFLEX INSTALLED",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Day thirty, forearms down, strict line, honest clock. The pattern this month produces: max plank times commonly double in snack-trained beginners, sometimes more, because so little of the original ceiling was muscle. Read your day zero against the bands: under sixty seconds, this month was built for you. One to two minutes, you are one reflex away from a wired core. Over three, maintain with a few snacks a week and go wire something duller. Put your seconds in the comments. Just the number. Thirty days from now, get down and take it again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "CEILING WAS BARELY MUSCLE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "SAME LINE, NEW WIRING",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR SECONDS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of snacks, and your spine gets a bodyguard that never clocks out. Your core was never as weak as the clock claimed; its committee just never met. Make it meet daily. Retest in thirty days and bring me your seconds. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "MAKE THE COMMITTEE MEET",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

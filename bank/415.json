@@ -1,0 +1,394 @@
+{
+  "id": "415",
+  "v5": true,
+  "title": "What 30 Days of pull-up singles Does to a Skinny Guy",
+  "description": "Thirty days of pull-up singles: one perfect rep every time you pass the bar. Start with an honest max set, learn why your elbow tendons love frequency and hate grinding, and retest your number on day thirty.",
+  "tags": [
+    "pull up test",
+    "pull up singles",
+    "grease the groove",
+    "30 day challenge",
+    "elbow tendons",
+    "calisthenics",
+    "doorway pull up bar"
+  ],
+  "hashtags": [
+    "pull ups",
+    "30 days",
+    "elbow tendons",
+    "singles",
+    "calisthenics",
+    "experiment",
+    "pull up test"
+  ],
+  "category": "experiments",
+  "badge": "EP 415 - PULL-UP SINGLES DAILY",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_pullup_top.webp",
+    "big": "10 REPS",
+    "hook": "HOURLY SINGLES",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pullup_mid.webp",
+        "ren_pullup_top.webp"
+      ],
+      "cycle": 3.0,
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Find your bar. | Grip it wide. | Palms facing away. | Hang completely still. | Now pull yourself up. | Chin over the bar. | Lower down slowly. | That is one. | Keep going, strict. | No swinging allowed. | No kicking either. | The set ends | when form breaks. | Count your REPS. | Write the number down. | Keep it safe. | At the end | I tell you | what singles do | to that number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "STRICT ONLY",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "NO SWING, NO KICK",
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "FORM BREAKS = DONE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "KEEP YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "8 REPS",
+      "label": "YOUR MAX SET, DAY ONE",
+      "sub": "0-2: the system is new - 12+: already wired",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Zero to two strict reps means your pulling system is brand new, and new systems are the fastest learners in this entire season. Three to eight is a base that has never been trained the way tendons prefer. Over twelve, you already out-pull most of any gym. For thirty days you will not do a single hard set. One perfect rep at a time, all day. The question is what that patience does to the max.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "NEW = FASTEST LEARNER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "NOT ONE HARD SET",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "12+ REPS",
+          "label": "OUT-PULLS MOST GYMS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "elbow_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Every pull-up begins in the same narrow place: the bottom, arms straight, your whole body hanging off the tendons around your elbows. Those cables must accept the full load before the big muscles of your back can help, and they accept it best the way they evolved to: briefly, fully, often. Grinding sets violate all three terms. By rep six the form rots, the load shifts into sloppy angles, and the tendon spends the next two days irritated instead of adapting. A single violates nothing. Full tension, perfect line, two seconds, done, and the tendon receives a clean deposit it can bank. Tendons are slow accountants: they do not respond to one dramatic deposit, they respond to the ledger, hundreds of small clean entries that never bounce. Thirty days of singles is a ledger month. Your max set is simply the audit, and audits surprise people who have only ever watched the balance on dramatic days.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "BRIEFLY, FULLY, OFTEN",
+          "lines": [
+            "The tendon's three terms.",
+            "Grinding violates all three."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_pullup_top.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "CLEAN DEPOSITS, BANKED DAILY",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "THE TENDON LEDGER",
+          "items": [
+            [
+              "SINGLES",
+              90,
+              "cyan"
+            ],
+            [
+              "GRINDING",
+              35,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "THE AUDIT SURPRISES PEOPLE",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "There is a second adaptation hiding inside the first: the skill of the first rep. In a max set, only the first rep is ever performed fresh; the rest are performed by a progressively more desperate athlete. Singles reverse the ratio: every rep is a first rep, started from calm, executed with your best pattern. A month of that builds a version of the pull-up that lives at championship quality, and when the retest comes, your body simply repeats its best rep until the pattern finally tires, which happens much later than the desperate version ever allowed. Your weight is the final gift. A single costs you sixty kilograms of work and a whisper of fatigue; the heavy man's single costs a hundred and a real recovery debt, so he can afford a handful a day while you afford a habit. Frequency is the whole method, and frequency belongs to the light. Put the bar where your life passes, and let your life do the training.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "EVERY REP IS A FIRST REP",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "FREQUENCY BELONGS TO THE LIGHT",
+          "lines": [
+            "Your single costs a whisper.",
+            "His costs a recovery debt."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_pullup_mid.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "SINGLES AFFORDABLE PER DAY",
+          "items": [
+            [
+              "LIGHT",
+              90,
+              "cyan"
+            ],
+            [
+              "HEAVY",
+              35,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "LET YOUR LIFE DO THE TRAINING",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_mid.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The protocol is a rule, not a schedule: every time you pass the bar, you owe it one perfect rep. Mount it in the doorway you use most, the bathroom, the kitchen, the hall; the bar must live on your route or the method dies. Week one, one rep per pass, and count your passes honestly, most men manage six to ten. Week two, same rule, and add a slow five-second lowering to every third rep, feeding the tendon its favorite eccentric meal. Week three, on some passes do two reps, never three, never to strain. Week four, keep the rule but skip the two days before the retest. If your day-zero max was zero, your single is a five-second negative from the top, jumped into position, and it counts fully. The protections: elbows should feel worked, never sharp; a tendon that complains in the morning gets a lighter day; and persistent elbow pain means stop and see a professional. This method's only enemy is enthusiasm. Stay almost bored. Bored is banked.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "PASS THE BAR, PAY THE REP",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "NEVER THREE, NEVER STRAIN",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_pullup_top.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "PERSISTENT PAIN = PROFESSIONAL",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "stat",
+          "text": "200+",
+          "label": "PERFECT REPS IN THE MONTH",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pullup_top.webp",
+      "exercise": "PULL-UP SINGLES",
+      "work": 20,
+      "rest": 40,
+      "rounds": 5,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Pay the toll with me. Five rounds: one perfect single inside each twenty-second window, then rest. Fresh, clean, championship quality, zero grind. This is the whole method. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is how your month will unfold, week by week. Week one, the doorway rep feels like a party trick, and you will forget passes and double back like a man returning for his keys. Week two, the forgetting stops; the body turns toward the bar on its own, and the rep becomes as automatic as the light switch beside it. Week three, the doubles arrive, and with them a discovery: rep two, done fresh, looks exactly like rep one, a quality your old max sets never survived past rep four. Your elbows, meanwhile, will feel strangely privileged: loaded daily, irritated never, the opposite of their grinding years. Week four, the taper, you will catch yourself performing casual singles for an audience of nobody, at playgrounds and scaffolding, because the movement has become a place you live instead of an exam you sit. The audit is coming. The ledger is fat.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: THE PARTY TRICK",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: AS AUTOMATIC AS A SWITCH",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_pullup_mid.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "LOADED DAILY, IRRITATED NEVER",
+          "lines": [
+            "The elbows' best month.",
+            "Frequency without the damage."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "THE LEDGER IS FAT",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_mid.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Day thirty, one max set, strict rules, full audit. The pattern this month produces: starters at one to three reps commonly double, mid-range pullers typically add a third, and everyone reports the same surprise, the reps look better while they last longer. Read your day zero against the bands: zero to two, the doorway rule was invented for you. Three to eight, you are a month from double digits. Over twelve, keep the bar on your route forever and spend your focus on a newer system. Put your reps in the comments. Just the number. Thirty days from now, grab the bar and take it again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BETTER REPS, LONGER SETS",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "elbow_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE FULL AUDIT",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR REPS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of singles, and the bar becomes furniture you happen to be strong on. Your elbows were never fragile; they were accountants waiting for a ledger instead of a lottery. Feed them entries daily. Retest in thirty days and bring me your reps. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "A LEDGER, NOT A LOTTERY",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

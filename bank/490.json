@@ -1,0 +1,382 @@
+{
+ "badge": "EP 490 - WALL HANDSTAND TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVERAGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Kick up against a wall and hold. Your wall handstand time reveals the truth about your wrist bones and balance nerves: your whole body, balanced on the smallest base you own, steered by bones, tendons, and a nervous system making hundreds of tiny decisions. Take the test.",
+ "hashtags": [
+  "handstand",
+  "wrist strength",
+  "balance",
+  "wall handstand",
+  "calisthenics skills",
+  "nerve control"
+ ],
+ "id": "490",
+ "scenes": [
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANDS DOWN, KICK UP"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "HEELS LIGHT ON THE WALL",
+     "pos": "br",
+     "text": "HOLD"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINGERS DO THE STEERING"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Here is your test. Hands on the floor, a step from a wall, fingers spread wide. Kick up, heels resting lightly on the wall, body in one straight line, arms locked. Start the clock. Now the real test: let the heels float an inch off the wall and keep them there, balancing on your hands, touching back only when you must. The clock stops when you come down, kick off in a panic, or spend more time parked on the wall than floating. That time is your number. It is not a strength test. It is a wiring test, and your wrists are the control panel. Learn the exit before the entrance: from the wall, walk your hands out and lower with control, or roll out to the side if you know how. A handstand you cannot leave safely is a handstand you will practice timidly, and timid practice is slow practice. Two minutes spent on bail-outs buys you months of braver training. Also clear the floor behind the wall. The one object in the room is always the one a falling heel finds.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "30 SEC = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "FREESTANDING IS NEXT",
+     "pos": "br",
+     "text": "60+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WALL TIME BUILDS REAL TIME"
+    }
+   ],
+   "big": "30 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "AGAINST THE WALL IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Thirty seconds against the wall, heels light, body straight, breathing like a person and not a hostage, is where the handstand stops being a kick-up lottery and becomes a position you own. Under ten seconds, your balance nerves are still shouting over each other, which is the universal first month. Over sixty with long floating stretches, and the freestanding handstand is no longer a dream; it is a drill away. Count wall time honestly: a parked heel is rest, a floating heel is the test. Grade two numbers, not one: total wall time, and your longest unbroken float away from the wall inside it. The first measures your wrists and shoulders. The second measures your balance, and it is the one that predicts your freestanding future. Write both down. In thirty days the total may grow modestly while the float triples, and if you only tracked the total, you would call a breakthrough month a plateau.",
+   "section": "THE NUMBER",
+   "sub": "under 10 sec: the wiring is loud - 60 sec: freestanding next",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Your fingers are the steering wheel.",
+      "Your inner ear is the sensor."
+     ],
+     "pos": "tr",
+     "title": "STEERED BY FINGERS"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "WRIST BONES TAKE THE LOAD"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HUNDREDS OF CORRECTIONS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Understand what holds you up. It is not your shoulders; they are just the pillars. Balance lives in your hands and your nerves. Your fingers press and release like piano pedals, shifting your weight a few grams at a time, hundreds of corrections a minute. Your inner ear and the sensors in your wrists report every tilt, and your nervous system answers before you can think. Underneath it all, the small bones of your wrist, stacked like river stones, carry your entire body at a hard angle, held together by tendons and ligaments. A handstand is a full-body load balanced on the smallest foundation you own, steered by the fastest wiring you have. Your shoulders have a subtler job than holding you up: they are the fine adjustment for your whole line. A shrug of two centimeters moves your mass more than a finger press does, which is why advanced handbalancers look like statues with living hands and shoulders. Early on, your shoulders will fatigue before your balance does, and that is normal; the pillars must be built before the wiring can be fairly tested. The wall hold trains both, in the order they are ready.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WALL REMOVES ONE PROBLEM"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "WALL HOLD",
+       30,
+       "cyan"
+      ],
+      [
+       "FREESTANDING",
+       4,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME BODY, TWO TESTS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TRAIN BALANCE, NOT FALLING"
+    },
+    {
+     "asset": "ren_balance_test.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Why train against a wall at all? Because the wall deletes one variable, falling backward, so your nerves can spend the whole session learning the other variables: finger pressure, body line, calm breathing. Compare the clocks: the same beginner holds thirty seconds on the wall and four freestanding, not because the wall is four times easier on the muscles, but because freestanding spends all its time on rescue instead of balance. The wall is not the baby version. It is the laboratory where the wiring gets built, and every freestanding second you will ever own is manufactured there first. Chest-to-wall and back-to-wall are different universities, and you should know which one you are enrolled in. Back-to-wall, today's test, teaches the kick-up and the line with the wall as a backstop. Chest-to-wall, walking your hands in until your nose nearly touches, forces a straighter line and loads the fingers harder, but forbids the kick-up entirely. Alternate them across the week and the handstand gets built from both directions. Most plateaus in this skill are just one university attended for too long.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_balance_test.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The single most useful handstand drill has no kick-up in it at all: the wall walk. Start in a plank facing away from the wall, feet on the floor, then walk your feet up the wall and your hands back toward it, one small step at a time, until your body is nearly vertical and your nose almost kisses the paint. Hold, breathe, walk out slowly. It builds the exact shoulder position, wrist load, and body line of the handstand with zero falling, zero fear, and total control of the dose. Beginners who wall-walk daily for two weeks routinely double their kick-up hold times without practicing kick-ups. Build the position statically. The entrance will introduce itself.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE WALL WALK",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "DAILY",
+     "label": "NO KICK-UP NEEDED",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "ZERO FALLING, FULL LOAD",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE POSITION BUILDER",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS WEIGHT ON THE STONES"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LIGHT BODY, CALM HANDS",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HANDSTANDS LOVE LIGHT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "And the skinny advantage is almost unfair here. Every correction your fingers make moves your whole body. A lighter body needs smaller corrections, lands softer on the wrist bones, and lets the nervous system learn at a speed heavy bodies cannot match, because their every mistake costs more force. Gymnastics figured this out a century ago: the handstand belongs to the light and the wiry. Your build is not a compromise for this skill. It is the specification. There is a cognitive dividend nobody warns you about. Ten minutes of daily balance practice is ten minutes of total, enforced presence: you cannot think about your inbox while inverted on two hands. Athletes describe handstand practice as the most meditative part of their training, and the focus carries. A nervous system trained to make calm corrections under load makes calm corrections everywhere. You came for a party trick. You are leaving with a steadier mind as standard equipment.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "check": 3,
+   "exercise": "WALL HANDSTAND",
+   "music": "drive",
+   "narration": "Up we go. Thirty seconds against the wall, heels light, fingers steering, breathe like you mean it. This is where handstands are manufactured. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRISTS WARM, ALWAYS"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SHORT SETS, MANY DAYS"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "KICKING UP 100 TIMES TIRED"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SKIPPING THE WRIST WARM-UP"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "FLOAT THE HEELS DAILY",
+     "pos": "tr",
+     "text": "FLOAT"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol treats this like wiring, not weightlifting. Warm the wrists first, every time: the bones and tendons you are about to load do not forgive cold starts. Then short sets, five to ten holds of half your best time, heels floating as long as you can each set, on as many days a week as you like, because balance learns by frequency, not by exhaustion. Come down before you fall apart; a tired kick-up teaches panic, not balance. If your wrists ache inside the joint rather than burn in the forearm, rest them a day. Tendons adapt slowly and then suddenly. Keep the sessions short enough to leave hungry. Five to ten minutes of quality wall work beats forty minutes of exhausted kick-ups by every measure that matters: wrist health, balance learning, and the desire to come back tomorrow. Frequency is the multiplier in skill training, and frequency is only possible when each session costs little. You are not cramming for an exam. You are watering a plant that grows on daily light, not weekly floods.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 10: THE WIRING IS LOUD"
+    },
+    {
+     "asset": "ren_tabletop_press.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under ten seconds: your wiring is loud and your wrists are new to the load, and the wall laboratory is exactly your prescription. Ten to thirty: the corrections are getting quiet, and floating stretches will start appearing. Over thirty: your wrist bones and balance nerves run a genuine skill, and freestanding attempts belong in your week. Retest in thirty days, same wall, heels honest. Put your seconds in the comments. Just the number. Balance keeps very precise books. Judge your month by the float number first. If your longest float doubled, your balance nerves had a breakthrough month regardless of what the total did, and the freestanding countdown has genuinely begun. Balance is a skill that improves in steps, not slopes: long flat weeks, then a sudden new level that simply stays. The flat weeks are not failure. They are the price of the step, collected in advance.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SHORT SETS, MANY DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW TIME",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Warm the wrists, float the heels, let the wiring learn a little every day. The freestanding second is being manufactured right now. Subscribe, and bring me your new time in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "wall handstand",
+  "handstand test",
+  "wrist bones",
+  "balance nerves",
+  "handstand balance",
+  "calisthenics skills",
+  "wrist strength"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_balance_test.webp",
+  "big": "30 SEC",
+  "hook": "UPSIDE DOWN"
+ },
+ "title": "Your Wall Handstand Time Reveals the Truth About Your wrist bones and balance nerves",
+ "v5": true
+}

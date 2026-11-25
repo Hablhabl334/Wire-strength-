@@ -1,0 +1,366 @@
+{
+  "id": "461",
+  "v5": true,
+  "title": "Do This Every Morning: What jumps Does to Your bone density",
+  "description": "Twenty jumps before breakfast. The loudest signal you can send your skeleton, delivered first thing. Take the jump test, get your height, and see what four weeks of morning jumps does to your bones.",
+  "tags": [
+    "jump training",
+    "bone density",
+    "morning routine",
+    "jump test",
+    "what happens",
+    "plyometrics",
+    "calisthenics"
+  ],
+  "hashtags": [
+    "jump test",
+    "bone density",
+    "morning jumps",
+    "vertical jump",
+    "what happens",
+    "calisthenics"
+  ],
+  "category": "whathappens",
+  "badge": "EP 461 - JUMP EVERY MORNING",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "WEEK BY WEEK",
+    "THE VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_jump_peak.webp",
+    "big": "20 JUMPS",
+    "hook": "BEFORE BREAKFAST",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Stand beside a wall. | Chalk your fingertips. | Reach up tall. | Mark the wall. | Crouch and jump. | Touch your highest point. | Measure the gap. | That gap is your NUMBER. | In centimetres. Write it down. | Jumps every morning | is the habit on trial. | What do they do | to your BONE DENSITY? | Bones listen to impact. | Morning impact, daily. | Week one is noise. | Week four is signal. | At the end | I grade your number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "JUST A WALL + CHALK",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "MEASURE THE GAP",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "THAT GAP IS YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "BONES LISTEN TO IMPACT",
+          "lines": [
+            "Morning impact, daily."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "WEEK FOUR IS SIGNAL",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "30 CM",
+      "label": "THE LINE BETWEEN SOFT AND SPRINGY",
+      "sub": "under 20: untrained legs - over 40: real springs",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Thirty centimetres is where a normal jump becomes a trained one. Under twenty, your legs and bones are simply unloaded, and unloaded is a choice you can unmake every morning. Over forty, you already bounce like the skeleton was built for it. Today is the coordinate. Twenty jumps before breakfast is about to move it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "UNLOADED IS A CHOICE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "30 CM = TRAINED",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "40+ CM",
+          "label": "REAL SPRINGS",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "BEFORE BREAKFAST",
+          "lines": [
+            "Twenty jumps. Every day."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "WEEK ONE",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week one is noise. Your calves bark on day two, your landing echoes around the kitchen, and the neighbours learn your new hobby. By day five the noise drops. Your feet leave the floor faster and land quieter, because the system is organising itself around a daily appointment with gravity. The bones feel nothing. The bones record everything.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 2: CALVES BARK",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "swap",
+          "asset": "big_vs_lean_jump.webp"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "DAY 5",
+          "label": "LANDINGS GO QUIET",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "BONES RECORD EVERYTHING",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "big_vs_lean_jump.webp",
+      "section": "WEEK FOUR",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week two, the morning jump becomes a switch. You land the twentieth and the whole body is awake in a way coffee envies. Week three, the height creeps. A centimetre here, another there, as the spring stiffens and the timing sharpens. Week four, retest at the wall. Most skinny guys gain two to four centimetres in a month, and the skeleton underneath has started its slow construction. Month two is where the jumpers separate from the dabblers. The height gains slow down, because springs approach their limit, but the bone project is just reaching its stride. Bone remodels on a cycle of months, and the orders you placed in month one are now being built. Quitting at week four is reading the receipt and cancelling the delivery.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WEEK 2: THE SWITCH",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+2-4 CM",
+          "label": "TYPICAL MONTH ONE GAIN",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_jump_peak.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "SLOW CONSTRUCTION STARTED",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "hip_joint_plate.webp",
+      "section": "THE MECHANISM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Bone is not rock. It is a living tissue full of sensor cells, and those cells measure strain. Land from a jump and the strain spikes higher than any walk or jog can manage, several times your bodyweight in a fraction of a second. The sensors read that spike as an order: build here. Morning after morning, the orders stack up, and bone is a tissue that always obeys a repeated order. Your landing deserves one more sentence, because it is half the training. A loud landing leaks force into your joints. A quiet landing routes the force through muscle and tendon into the bone signal. Same jump, completely different message. When in doubt, trade two centimetres of height for silence, and your skeleton will get the louder order anyway.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "BONE IS NOT ROCK",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "STRAIN IS THE ORDER",
+          "lines": [
+            "Sensors read the spike:",
+            "build here."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "stat",
+          "text": "3-5x",
+          "label": "BODYWEIGHT PER LANDING",
+          "pos": "tr"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "SIGNAL TO BONE",
+          "items": [
+            [
+              "WALKING",
+              20,
+              "grey"
+            ],
+            [
+              "MORNING JUMPS",
+              95,
+              "gold"
+            ]
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_jump_peak.webp",
+      "exercise": "JUMPS",
+      "work": 30,
+      "rest": 15,
+      "rounds": 2,
+      "section": "THE HABIT",
+      "check": 2,
+      "music": "drive",
+      "narration": "Jump with me. Twenty jumps, soft landings, tall posture. Wake the skeleton up. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The protocol: twenty jumps every morning, grass or a mat, landing like a cat. Two sets of ten with a breath between them. Do them before breakfast so the day can never steal them. The mistake is concrete in bare feet, which sends the bill to your shins instead of your bones. The other mistake is chasing height with ugly landings. Quiet beats high, every single morning.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "BEFORE BREAKFAST",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "CONCRETE, BARE FEET",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "LAND LIKE A CAT",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "QUIET BEATS HIGH",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under twenty centimetres: an unloaded skeleton, and the fastest gains of your life are queued up. Twenty to forty: the spring is building and the builders are on site. Over forty: you are wired, keep the appointments. Retest on day thirty, same wall, morning, before breakfast. Put your centimetres in the comments. Just the number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 30: SAME WALL",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+2-4 CM",
+          "label": "WHAT MONTH ONE BUYS",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "big_vs_lean_jump.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty mornings from now gravity will work for you instead of on you. Subscribe, and we retest together. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY 30 RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "GRAVITY WORKS FOR YOU",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+ "badge": "EP 493 - BACK LEVER MISTAKES",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Hang, tuck, and roll back. Your back lever tuck time is the test, and these five mistakes are what quietly destroy your shoulder leverage: kicking into the tuck, bending the arms, and training a stretched shoulder cold. Take the test, then fix the leaks before they cost you.",
+ "hashtags": [
+  "back lever",
+  "shoulder leverage",
+  "back lever mistakes",
+  "calisthenics skills",
+  "lever training",
+  "gymnastics strength"
+ ],
+ "id": "493",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLOW ROLL ONLY"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "FIRST MISTAKE ENDS IT",
+     "pos": "br",
+     "text": "TUCK"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO KICK, NO SWING"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Grab a bar. | Hang beneath it. | Tuck your knees | to your chest. | Roll backward slowly. | No kicking. | No swinging. | Settle upside down, | back facing down, | body in a ball. | Start your clock | when you are still. | The clock stops | at the first mistake. | Arms bend. | Legs unfold early. | The roll was | a swing in disguise. | When form breaks, | stop the clock. | That clean time | is your number. | Keep it safe. | Five mistakes | are stealing | your seconds, | and we name them | at the end. | Breathe out as you settle. | Stillness is the standard. | A wobbling tuck | is a shorter tuck. | Own the quiet seconds.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "15 CLEAN SEC = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LEVER MASTER TERRITORY",
+     "pos": "br",
+     "text": "30+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CLEAN BEATS LONG"
+    }
+   ],
+   "big": "15 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF CLEAN TUCK IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifteen clean seconds in the tuck, slow entry, straight arms, no unfold, is certified shoulder leverage. Under five clean seconds, a mistake is ending your hold before your shoulders get their say. Over thirty clean, and the advanced tuck is yours whenever you want it. The clean rule is the whole episode: a twenty-second tuck that began with a kick and bent arms is a nine-second tuck with eleven seconds of theater, and your shoulders only got trained for the nine. One subtlety in grading: your clean time ends at the first mistake, but it also ends at the first second of visible panic. White-knuckle shaking, breath held to bursting, hips drifting by the second: the position is being survived, not held, and survival time does not transfer to the next stage. The number we want is the time you could repeat on demand, calmly, three sets in a row. That is the tuck your advanced work will be built on.",
+   "section": "THE NUMBER",
+   "sub": "under 5 clean sec: a mistake ends it - 30+: lever master",
+   "type": "card"
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The shoulder sits at the pivot.",
+      "Every shortcut moves load off the pivot."
+     ],
+     "pos": "tr",
+     "title": "THE PIVOT PAYS"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STRETCHED AND LOADED"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THIS PIVOT NEEDS RESPECT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The mechanism, briefly, because the mistakes all attack it. In the back lever your body hangs behind the bar and your shoulders are the pivot that the whole lever hangs from, loaded in a stretched position that few other exercises visit. Your lats and rear shoulders hold that pivot shut. Every shortcut, a kick, a bend, a swing, moves load off the pivot or shortens the lever, which feels like progress and trains like absence. And this pivot has a warning label: a stretched, loaded shoulder is the most vulnerable joint position in lever training, so the mistakes list includes the one that can cost you more than seconds. The rear deltoid is the unsung employee of this pivot. Everyone credits the lats, and the lats do carry the famous load, but the back of the shoulder is what keeps the arm sealed into the socket while the lever tries to pry it forward. When rear shoulders are undertrained, the pivot leaks before the lats are even tired, and the hold ends with a strange, specific fatigue athletes misread as fear. It is not fear. It is a small muscle filing a formal complaint, and it can be trained.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MOMENTUM IS BORROWED TIME"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "SLOW ROLL",
+       15,
+       "cyan"
+      ],
+      [
+       "KICKED ENTRY",
+       7,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CLEAN SECONDS BY ENTRY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BORROWED TIME GETS REPAID"
+    },
+    {
+     "asset": "ren_hang_side_relaxed.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Here is the receipt for the biggest shortcut. Enter with a kick and the hold feels twice as long, because momentum carried you into position and your shoulders arrived with energy they never produced. Roll in slowly and the same shoulders manage half the time, honestly. The kicked number is a loan, and it gets repaid the day you try the advanced tuck, where there is no room to swing and the debt collector is waiting. Train the entry you will need at the next stage, not the entry that flatters this one. There is a breathing pattern hiding in the kicked-entry numbers too. Athletes who swing in arrive breathless and braced wrong, and their holds decay from the inside while the position still looks acceptable. The slow roll lets you set your breath at the bottom, exhale into the tuck, and begin the clock already organized. Organization is a real performance variable: same muscles, same day, two different nervous systems. The clean test grades the organized one, because that is the one that scales.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_relaxed.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The companion drill for everything in this episode is skin-the-cat: hang, tuck, roll backward through the tuck, keep rolling until your feet point at the floor behind you in a German hang, then reverse the entire journey under control. It rehearses the back lever's entry, exit, and stretched position as one continuous, loadable movement, and it exposes every cheat instantly, because momentum in one direction becomes a crash in the other. Three slow reps, never rushed, is a full education. Athletes who own skin-the-cat rarely fear the back lever. They have already visited every room in its house.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "SKIN-THE-CAT",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "3 SLOW",
+     "label": "NEVER RUSHED",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "ENTRY, EXIT, STRETCH",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE FULL JOURNEY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS WEIGHT BEHIND THE BAR"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LIGHT BODY, HONEST LEVER",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "NO SHORTCUT NEEDED"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The skinny advantage makes the shortcuts unnecessary, which is the good news buried in this episode. The lever behind the bar is your body, and a lighter body hangs cheaper, so your shoulders can afford the honest, slow version of this skill sooner than a heavier man's can. He kicks because his lever demands it. Yours does not. Spend your advantage on clean reps instead of spending it on momentum, and your tuck will be worth more than his straight lever photo. One more advantage, and it is about time rather than weight. Shoulder leverage adapts on a tendon schedule, months rather than weeks, and heavier athletes must spend those months managing far larger forces through the same delicate adaptation. Your lighter lever lets you accumulate clean volume sooner, more often, with less recovery debt. In a skill where the tortoise's schedule is mandatory, starting with a cheaper ticket is not a small thing. It is the whole race.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "TUCK HANG",
+   "music": "drive",
+   "narration": "Hang with me, clean entry only. Slow roll, tuck tight, settle and breathe for twenty seconds. If you kicked, we start over together. Go.",
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "shoulder_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "KICKING INTO THE TUCK"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BENDING THE ARMS"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "TRAINING THE SHOULDER COLD"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "UNFOLDING TOO EARLY"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WARM UP, ROLL SLOW"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The five mistakes destroying your shoulder leverage. One: kicking into the tuck, borrowing momentum your next stage cannot repay. Two: bending the arms, which turns a lever hold into a cramped pull-up and moves the load off the pivot. Three: training this stretched shoulder cold, no warm-up hangs, which is how a leverage hobby becomes a physio bill; if anything ever pinches in there, stop and see a professional if it persists. Four: unfolding to a harder version because the tuck got boring, before the tuck is thirty seconds deep. Five: holding your breath and straining red-faced through every set, when the pivot learns best from calm, repeatable holds. Slow entry, straight arms, warm shoulders. That is the whole religion. A word about mistake three, because it outranks the others in consequence. The stretched shoulder position is genuinely valuable and genuinely unforgiving, and the difference between adaptation and injury is almost always preparation and progression, not talent. Warm up every time, progress one stage at a time, and treat any sharp or pinching sensation as a stop sign rather than a challenge. The athletes with twenty-year lever careers are not the toughest. They are the ones who never spent their shoulders carelessly.",
+   "section": "THE MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 5 CLEAN: A MISTAKE ENDS IT"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CLEAN SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your clean number. Under five seconds: a mistake is ending your holds, and its name is on the list. Five to fifteen clean: the pivot holds honestly, now deepen the tuck. Over fifteen clean: your shoulder leverage is certified, unfold one joint with my blessing. Retest in thirty days, same bar, slow roll, first mistake stops the clock. Put your clean seconds in the comments. Just the number. Levers keep honest books, especially the clean ones. Retest protocol matters here more than anywhere in the season: same warm-up, same bar height, same grip width, filmed from the side. Shoulder leverage improves in seconds per month, and sloppy conditions can manufacture or erase a month of progress on paper. Your thirty-day verdict deserves laboratory conditions, because the improvement you are checking for is real but small, and real small things are exactly what careful measurement exists to protect.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLOW ENTRY, STRAIGHT ARMS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW TIME",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Warm shoulders, slow roll, no borrowed time. The clean tuck is the foundation every lever stands on. Subscribe, and bring me your new clean time in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "back lever",
+  "back lever mistakes",
+  "shoulder leverage",
+  "back lever tuck",
+  "calisthenics skills",
+  "lever training",
+  "gymnastics strength"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_hang_side_tuck.webp",
+  "big": "15 SEC",
+  "hook": "5 MISTAKES"
+ },
+ "title": "5 back lever tuck Mistakes That Are Destroying Your shoulder leverage",
+ "v5": true
+}

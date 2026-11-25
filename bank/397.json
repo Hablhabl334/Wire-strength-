@@ -1,0 +1,421 @@
+{
+ "id": "397",
+ "v5": true,
+ "title": "I Tested wall sit for 30 Days (The Results Surprised Me)",
+ "description": "Thirty days of wall sits, tested by max hold on day zero and day thirty, with a weekly max test built into the plan. This round adds the weekly check-in, so you watch the knee tendon system adapt in four instalments instead of one surprise. Take the test, learn the mechanism, follow the plan, and compare your numbers.",
+ "tags": [
+  "wall sit",
+  "wall sit test",
+  "knee tendon",
+  "isometric training",
+  "30 day challenge",
+  "quad endurance",
+  "calisthenics"
+ ],
+ "hashtags": [
+  "wall sit",
+  "isometric training",
+  "30 day challenge",
+  "knee strength",
+  "calisthenics",
+  "leg workout"
+ ],
+ "category": "experiments",
+ "badge": "EP 397 - WALL SIT, TESTED",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_wall_sit_front.webp",
+  "big": "30 DAYS",
+  "hook": "WALL SIT TESTED",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test. Back flat on the wall, slide down to right angles at the hips and knees, feet flat, arms folded or hanging, never resting on your thighs. Start the clock and hold until you slide down or stand up. That time is your NUMBER. Write it down. In thirty days we run the same test, and along the way we will test every Sunday too, so you can watch the number grow in instalments. I will show you what daily holds did to the tendons above your knees. Keep your number close. The first test is always the rudest, and that is exactly why we take it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "RIGHT ANGLES, ARMS OFF THIGHS",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "THE FIRST TEST IS RUDEST",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Daily holds, weekly tests.",
+      "30 days. Four instalments."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "WATCH IT GROW WEEKLY",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR TIME",
+   "label": "YOUR DAY-ZERO WALL SIT NUMBER",
+   "sub": "under 40 sec: untrained - 1 to 2 min: building - over 2.5 min: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is how to read your day-zero wall sit. Under forty seconds means the knee tendon system is untrained, the overwhelmingly common start. One to two minutes is the building zone, where this month will feel productive from the first week. Over two and a half minutes with strict form, your quads and patellar tendons are already wired for endurance. What the clock measures is signal duration: how long your nervous system can keep the quads recruited against a load that never changes and never rests. That is a specific, trainable quality, and weekly testing lets us watch it train in near real time. Your number today is instalment zero. Four Sundays from now, we collect the final one.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SIGNAL DURATION, MEASURED",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "4 SUNDAYS",
+     "label": "OF INSTALMENTS",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "TRAINABLE, SPECIFICALLY",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The mechanism, one more time, from the tendon's point of view. In the wall sit, your bodyweight tries to fold you to the floor, and your quadriceps resist through the patellar tendon, the cable from kneecap to shin. The load is constant, the position is fixed, and the tendon sits under honest tension for minutes. Tendon collagen responds to exactly this diet: sustained tension, repeated daily. The fibres align, the cable stiffens, and the muscle behind it learns to distribute its effort across more fibres for longer. There is also a pain science footnote that matters to many viewers: long isometric holds are used by physios to settle down irritable knee tendons, because steady load seems to quiet the system while it strengthens it. If your knees have ever been grumpy, see a professional if it persists, and meanwhile know that this exercise is the gentle end of tendon training, not the reckless end.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "CONSTANT LOAD, FIXED POSITION",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_wall_sit.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE TENDON'S DIET",
+     "lines": [
+      "Sustained tension, daily.",
+      "Fibres align, cable stiffens."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "QUIET WHILE IT STRENGTHENS",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "THE GENTLE END OF TRAINING",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "What surprised me in this test showed up on the Sunday check-ins. The number did not climb smoothly. It jumped in week one, stalled completely in week two, then jumped again in week three, bigger than the first jump. That staircase is the signature of two systems adapting on different clocks. The week one jump is nerves: recruitment, pacing, learning to breathe inside the burn. The week two stall is the tendon quietly remodelling, spending the signal before paying it back. The week three jump is the remodel arriving, plus nerves that now trust the stronger cable. Anyone who tests only on day thirty sees a big gain and learns nothing. Anyone who tests weekly sees the staircase and understands their own tissue. Understanding is not a bonus in this game. It is what keeps you training in the stall weeks of every future program.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "JUMP, STALL, JUMP HIGHER",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_horse_stance.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "TWO CLOCKS, ONE STAIRCASE",
+     "lines": [
+      "Nerves jump in week 1.",
+      "Tendons pay back in week 3."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "SUNDAY CHECK-INS",
+     "items": [
+      [
+       "SUNDAY 0",
+       45,
+       "red"
+      ],
+      [
+       "SUNDAY 4",
+       150,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "UNDERSTANDING KEEPS YOU TRAINING",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "THE STALL IS REMODELLING",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage in the wall sit is the cost of a minute. Your minute against the wall is loaded with your bodyweight only, and a light body buys a cheaper minute, which buys more total minutes per week at the same joint cost. Isometric tendon work is a volume game played at low intensity, and low intensity games are won by whoever can attend the most sessions. That is you. There is a second advantage in the weekly test itself: because your absolute load is smaller, a Sunday max test does not wreck your Monday to Friday training the way it does for heavier guys. You can test hard and train on, which means your data stays clean and your month stays unbroken. Clean data and unbroken months are the whole strategy of this channel, and your frame serves both.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "CHEAPER MINUTES, MORE OF THEM",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_wall_sit_front.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "TEST HARD, TRAIN ON",
+     "lines": [
+      "Sunday max, Monday normal.",
+      "Your load allows both."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "CLEAN DATA, UNBROKEN MONTH",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "ATTENDANCE WINS AGAIN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_wall_sit_front.webp",
+   "exercise": "WALL SIT",
+   "work": 45,
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Sit with me. Three rounds at right angles, arms off your thighs, breathing slow. The shake is the signal working. When you slide, the round is honestly over. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days, with the Sunday tests built in. Your daily dose is two total minutes of wall sit, in pieces as needed, at strict right angles. Week one: daily two minutes in pieces, learning the position, and Sunday is your first check-in max test. Week two: pieces get longer, aim for one hold of ninety seconds inside the daily work, and expect the Sunday test to stall. That stall is scheduled, not a failure. Week three: chase one unbroken two-minute hold daily, and let the Sunday test show you the remodel arriving. Week four: hold the standard, sharpen the form, shorter total work in the last three days, and the final Sunday is day thirty's test. The form law: back flat, knees over toes, arms never on thighs, and the hold ends when the position dies, not when your pride does. Log every Sunday number. Four numbers plus day zero is a staircase you get to keep forever.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: 2 MINUTES IN PIECES",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "SUNDAY IS CHECK-IN DAY",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: EXPECT THE STALL",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE STALL IS SCHEDULED",
+     "lines": [
+      "Remodelling spends first.",
+      "Pays back in week 3."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "POSITION DIES = HOLD OVER",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "FINAL SUNDAY: DAY 30 TEST",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "5 NUMBERS",
+     "label": "YOUR STAIRCASE TO KEEP",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty, the final Sunday. Same wall, same angles, one max hold. Here is how to read the staircase. If your numbers jumped, stalled, and jumped higher, you lived the textbook month, and you now own evidence about your own tissue that most trainees never get. If you crossed two and a half minutes, your patellar tendon system is wired for endurance in a way that transfers to squats, stairs and jumps. If your staircase only had the first jump, your daily pieces were probably too easy in weeks three and four, because the system adapts to the hardest honest signal, not the total minutes. If a Sunday went backwards, check what the Saturday before it looked like. Put your whole staircase in the comments if you logged it, all five numbers. A staircase teaches more than a pair ever could.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE FINAL SUNDAY",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_wall_sit.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "2.5 MIN",
+     "label": "THE WIRED LINE",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "HARDEST HONEST SIGNAL",
+     "lines": [
+      "Easy minutes stop working.",
+      "By week 3, usually."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT YOUR STAIRCASE",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days against a wall, five numbers, one staircase up. Keep a weekly wall sit in your life and your knees will keep their cables. Subscribe for the next test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "FIVE NUMBERS, ONE STAIRCASE",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "KEEP THE WEEKLY SIT",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

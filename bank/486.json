@@ -1,0 +1,382 @@
+{
+ "badge": "EP 486 - NORDIC LOWERING TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVERAGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Kneel down, anchor your heels, and lower your whole body toward the floor like a falling tree that refuses to fall. Your Nordic lowering time reveals the truth about your hamstring tendons: the brakes on the back of your thigh that must slow your entire bodyweight down. Take the test.",
+ "hashtags": [
+  "nordic curl",
+  "hamstring tendons",
+  "nordic lowering",
+  "eccentric strength",
+  "calisthenics skills",
+  "knee health"
+ ],
+ "id": "486",
+ "scenes": [
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "KNEEL, ANCHOR YOUR HEELS"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "ONE STRAIGHT LINE DOWN",
+     "pos": "br",
+     "text": "LOWER"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CATCH YOURSELF AT THE END"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Here is your test. Kneel on something soft, anchor your heels under a couch, a bar, a partner's hands, anything that will not move. Body in one straight line from knees to head. Now lower yourself toward the floor, as slowly as humanly possible, resisting with the backs of your thighs the whole way down. Start the clock when you start tipping. The moment you fold at the hips or free-fall and catch yourself with your hands, stop it. That time is your number. Most strong men score under two seconds. This test is a lie detector for the back of your legs. Padding is not optional equipment here. Your knees are the pivot for your entire falling body, and a hard floor will end this test with a bruise instead of a number. A folded mat, a cushion, a rolled towel under each knee: any of them. And clear the landing zone in front of you. Your hands will catch you today, probably early. Make sure what they catch is floor, not furniture.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "5 SEC = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "FULL NORDIC TERRITORY",
+     "pos": "br",
+     "text": "10+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FAST DROP = HONEST START"
+    }
+   ],
+   "big": "5 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF CONTROLLED LOWERING IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Five seconds of unbroken lowering, straight line, no fold, is where your hamstring brakes stop being decorative and become rated equipment. Under two seconds, you are not lowering, you are falling with extra steps, and nearly everyone starts there. Ten seconds or a full touch-and-return Nordic, and your hamstrings own eccentric strength that sprinters pay coaches to build. Catching yourself with your hands at the very end is allowed. Folding at the hips at the start is not a rep, it is an escape. A fair warning about this number: it will feel insulting, and the insult is the information. Men who squat houses often score one second, because no gym exercise they own ever asked their hamstrings to brake a falling body. Your score does not measure your leg strength. It measures one specific, trainable quality that your training has simply never billed you for. Specific qualities respond to specific training absurdly fast. That is the good news hiding inside the insult.",
+   "section": "THE NUMBER",
+   "sub": "under 2 sec: falling, not lowering - 10 sec: full nordic",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Hamstrings work as brakes here.",
+      "Brakes are tendon and muscle together."
+     ],
+     "pos": "tr",
+     "title": "THE BRAKES PAY"
+    },
+    {
+     "asset": "achilles_anatomy_plate.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LENGTHENING UNDER LOAD"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ECCENTRIC = TENDON WORK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is what is really being tested. Lowering is braking, and braking is eccentric work: your hamstrings lengthen under full load, paying out rope while gravity pulls your body down. That load runs through muscle and tendon together, and the tendon is the part that decides how much force can be transmitted before something gives. Sprinting, kicking, and changing direction all slam this same brake at high speed, which is why hamstrings tear in sport: the brake met a load it had never been trained to hold. The Nordic is the brake test and the brake builder in one movement, priced by the second. There is a second brake in the system worth knowing: your glutes. As you tip forward, the glutes fire to keep your hips extended and your line straight, handing the hamstrings a stable platform to pull against. When the glutes switch off, the hips fold, the line breaks, and the hamstrings lose their anchor mid-rep. This is why the straight-line rule is not cosmetic. The brake and its anchor are one system, and the test grades the system, not the muscle in isolation.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANGLE BY ANGLE, PRICE RISES"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "FIRST 30 DEGREES",
+       3,
+       "cyan"
+      ],
+      [
+       "PAST HALFWAY",
+       1,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHERE THE LOWER DIES"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE DEAD ZONE IS THE TARGET"
+    },
+    {
+     "asset": "ren_forward_fold.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The lowering has a geography, and everyone dies in the same place. The first thirty degrees feel manageable, because the lever is short while you are nearly upright. Past halfway, your bodyweight hangs further and further from your knees, the lever lengthens brutally, and the brake either pays or folds. That dead zone, from halfway down, is where hamstrings earn their reputation and where yours will be built. Training the easy top half is rehearsal. The money is in the angles where you currently fall, visited slowly, a few degrees further each week. Sports science keeps circling back to this exercise for a reason worth hearing. Hamstring injuries cluster in athletes whose eccentric strength is low relative to their speed, and Nordic-style training is one of the few interventions that reliably moves that ratio. You do not need the studies memorized. You need the principle: the brake that is trained is the brake that shows up at full sprint, in the last ten minutes, when injuries historically clock in. Your two-second lower is not a parlor trick. It is insurance underwriting, done in public.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_split_squat_top.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "When the full Nordic is still months away, the single-leg hinge is your support act. Stand on one leg, soften the knee, and hinge at the hips until your body forms a T, back flat, free leg reaching behind you. It teaches the same hip discipline the Nordic demands, glutes anchoring, hamstrings lengthening under control, at a price any beginner can pay daily. Three sets of eight per leg, slow, and your pelvis learns the straight-line habit that the Nordic test grades so cruelly. Skills are rarely built by the skill alone. They are built by the family of movements that share its rules.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "SINGLE-LEG HINGE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "3 x 8",
+     "label": "PER LEG, SLOW",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "SAME RULES, CHEAPER PRICE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE SUPPORT ACT",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS MASS TO BRAKE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LIGHT BODY, STRONG BRAKES",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOUR BRAKES, YOUR BUILD"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The skinny advantage applies to brakes too. The load your hamstrings must slow down is your own body, falling. A lighter body is a lighter fall, which means your brakes reach the full Nordic while heavier lifters are still folding at halfway with stronger-looking legs. And the return on this training is outsized for you: sprint speed, kicking power, and knees that trust you all run through these tendons. Big legs photograph better. Brakes decide who is still fast at forty. And the advantage compounds quietly. Brakes this strong change how you move everywhere: you decelerate into cuts without thinking, land from jumps without your knees wobbling inward, and kick with the confidence of a man whose hamstrings can also stop the leg they launched. Speed is marketed as an accelerator quality. Every coach who has timed real athletes knows it is a braking quality. You are training the half of speed that nobody photographs.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "check": 3,
+   "exercise": "NORDIC LOWER",
+   "music": "drive",
+   "narration": "Lower with me. Thirty seconds of slow lowers, straight line, catch at the end, walk back up. Fight for every degree. This is where the brakes get built. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TWICE A WEEK IS ENOUGH"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STRAIGHT LINE, SLOW PAYOUT"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "FOLDING AT THE HIPS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "DROPPING THE LAST HALF"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "ADD DEGREES, NOT REPS",
+     "pos": "tr",
+     "text": "RANGE"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is small and strict, because eccentric work is potent medicine. Twice a week, three sets of three to five lowers, each as slow as you can honestly make it. Use a band or a raised surface to shorten the range at first, and lower only through the degrees you can control. When you fold, the rep is over; walk back up and reset. Progress is measured in degrees, not reps: a few more degrees of control each week until the floor arrives. Expect soreness the first two weeks; these tendons are learning a job they have avoided for years. If a hamstring ever feels a sharp pull rather than a burn, stop and let it heal before testing again. Schedule this work like it matters, because it does: never the day before sprinting, jumping, or a heavy leg session. Eccentric hamstring work leaves a deep, specific soreness for the first weeks, and asking for speed on top of it is how strains send their regards. Twice a week, after your main work, with two full rest days between exposures. The tendons you are building adapt on the rest days, not the training days. The session is the order. The rest is the delivery.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 2: FALLING, NOT LOWERING"
+    },
+    {
+     "asset": "ren_forward_fold.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under two seconds: today you fall, and the brake-building starts with partial range, proudly. Two to five: the brakes engage, now feed them degrees. Over five, or a full Nordic with the return trip: your hamstring tendons are elite equipment, the kind that keeps sprinters fast and knees honest. Retest in thirty days, same anchor, same straight line. Put your seconds in the comments. Just the number. Gravity grades this one personally. Measure this retest like a scientist: same anchor, same padding, same camera angle if you film it, three attempts with full rest, best clean time counts. Small changes in setup move this number by seconds, which makes sloppy testing a liar in both directions. Your thirty-day comparison deserves clean conditions, because the improvement you are about to see is real, and real things deserve honest rulers.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_forward_fold.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SLOW IS THE SKILL"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW TIME",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Fall slower every week, a few degrees at a time, until the floor has to catch a body that lowers itself. Subscribe, and bring me your new time in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "nordic curl",
+  "nordic lowering",
+  "hamstring tendons",
+  "eccentric training",
+  "hamstring strength",
+  "calisthenics skills",
+  "knee health"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_forward_fold.webp",
+  "big": "5 SEC",
+  "hook": "THE BRAKE TEST"
+ },
+ "title": "Your Nordic Lowering Test Reveals the Truth About Your hamstring tendons",
+ "v5": true
+}

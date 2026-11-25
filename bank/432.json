@@ -1,0 +1,352 @@
+{
+ "id": "432",
+ "v5": true,
+ "title": "If You hang for 1 minute Daily, This Happens to Your grip tendons",
+ "description": "Hang from a bar for one minute a day and something quiet happens inside your hands. Here is the four-week timeline for your grip tendons, from the first shaky seconds to a grip that outlasts guys twice your size.",
+ "tags": [
+  "dead hang",
+  "grip strength",
+  "grip tendons",
+  "forearm tendons",
+  "hang test",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "dead hang",
+  "daily dead hang",
+  "grip strength",
+  "hang time",
+  "tendon training",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 432 - HANG 1 MINUTE DAILY",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "GRIP TENDONS",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_hang_side_active.webp",
+  "big": "60 SEC",
+  "hook": "HANG EVERY DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Grab a bar. | Both hands on. | Let your feet leave. | Arms fully straight. | Shoulders quiet. | Start the clock. | Just hang. | No swinging. | No bending. | Stop when you drop. | That time? | Write it down. | Most skinny guys | fall under THIRTY. | Now imagine | hanging one minute. | Every single day. | For four weeks. | Your grip cables | will tell | a different story. | Here is the timeline.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "JUST A BAR + A CLOCK",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "text": "STOP AT THE DROP",
+     "label": "THAT IS YOUR TIME",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "4 WEEKS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "60 SEC",
+   "label": "THE LINE THAT MATTERS",
+   "sub": "under 30: cables asleep - over 90: elite grip",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Sixty seconds is the line between a hang and a trained hang. Under thirty, your grip tendons are simply untrained, which is the best place to start from. Thirty to sixty, the cables are waking up. Over ninety seconds, you hold an elite grip that most heavy lifters cannot match, because their hands carry far more of them.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "UNTRAINED = FAST GAINS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "90+ SEC",
+     "label": "ELITE GRIP",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "LIGHT IS AN ADVANTAGE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "GRIP TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one humbles everybody. Your fingers have almost no muscle in them, so the hang is powered from your forearm, down long tendons that run like cables into each fingertip. Those cables have never been asked to hold you daily, so they complain loudly and quit early. But the signal lands immediately: by day five your grip feels less panicked, and your hands learn to share the load across all four fingers.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: THE HUMBLING",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "FINGERS HAVE NO MUSCLE",
+     "lines": [
+      "The forearm pulls, the cables deliver."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "SHARE THE LOAD",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "GRIP TENDONS",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two is when the cables start earning their name. Tendons under daily tension respond by synthesizing fresh collagen and packing it into the line, which makes the tendon stiffer and better at holding force without stretching. Your hang time jumps, not because your forearm grew, but because the delivery system stopped leaking. A stiff cable holds the same grip with less effort, so the clock slows down.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: STOP THE LEAK",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "HANG TIME",
+     "items": [
+      [
+       "WEEK 1",
+       25,
+       "red"
+      ],
+      [
+       "WEEK 2",
+       45,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "STIFF CABLE, SLOW CLOCK",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "GRIP TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the hidden system is yours. A month of daily one-minute hangs has remodeled the tendons of your forearm into stiffer, thicker cables, and your nervous system now recruits them without thinking. Grip is the most honest strength there is, because it cannot be faked by size: the bar knows. And here is your edge as a skinny guy: every kilo you do not carry is another second you can hang, another day you can repeat, another layer of collagen the heavy guy never gets to build. Keep the streak boring and the grip honest, and the bar will keep paying you back in seconds you can measure.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "THE BAR KNOWS",
+     "lines": [
+      "Grip cannot be faked by size."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_dead_hang.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "EVERY KILO LESS",
+     "label": "IS ANOTHER SECOND",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "THE HONEST STRENGTH",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_relaxed.webp",
+   "exercise": "DEAD HANG",
+   "work": 60,
+   "rest": 0,
+   "rounds": 1,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now hang with me. Arms straight, shoulders quiet, breathe. One full minute if you have it, your best if you do not. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is one minute of total hanging a day. Split it into sets if you must: twenty seconds, three times, is a perfect start. Use a full grip, thumb wrapped, and step off before your fingers peel open. Chalk or a dry bar helps, and sore skin is a reason to rest a day, not a badge of honor. Add five seconds to your longest set each week, and keep the same bar so your numbers stay honest.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "SETS ARE FINE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO PEELING OPEN",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "+5 SEC PER WEEK",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_grip_squeeze.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "SAME BAR DAILY",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your starting time, judged. Under thirty seconds: asleep cables, and the fastest grip gains of your life are in front of you. Thirty to sixty: the build zone, where the minute barrier usually falls in week three. Over ninety: elite hands, so chase two minutes and finger hangs. Retest on day twenty-eight, same bar, same grip, and comment your new time. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_dead_hang_front.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "SAME BAR, SAME GRIP",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "One bar, one minute, one month. That is all your grip ever asked for. Start tomorrow, hang daily, and let your cables quietly become the strongest part of you. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "ONE MINUTE A DAY",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

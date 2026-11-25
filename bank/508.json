@@ -1,0 +1,393 @@
+{
+ "id": "508",
+ "v5": true,
+ "title": "Stop Doing front lever tuck Wrong: Train Your lat leverage Instead",
+ "description": "Hang from a bar, tuck, and raise your body until it hangs level in front of you. Your front lever tuck time is the test of your lat leverage. The common way of chasing it trains the arms and starves the lats. Here is how the lever is really built.",
+ "tags": [
+  "front lever",
+  "front lever tuck",
+  "lat leverage",
+  "front lever progression",
+  "straight arm pulling",
+  "calisthenics skills",
+  "lever training"
+ ],
+ "hashtags": [
+  "front lever",
+  "lat leverage",
+  "straight arm strength",
+  "calisthenics skills",
+  "bar skills",
+  "lever training"
+ ],
+ "category": "skills",
+ "badge": "EP 508 - FRONT LEVER DONE RIGHT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE FIX",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_hang_side_tuck.webp",
+  "big": "15 SEC",
+  "hook": "STOP DOING IT WRONG",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Grab the bar, | overhand grip, | arms dead straight. | Hang completely still. | Now tuck your knees | tight to your chest | and pull your hips up, | rotating backward, | until your back | faces the floor | and your body hangs | level in front | of the bar. | Your thighs should point | roughly at the bar. | Start your clock | at your deepest | honest tuck. | The clock stops | when your elbows bend | or your hips sink | below the hold. | That clean time | is your number. | Keep it. | At the end | I will tell you | exactly what it means.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "OVERHAND GRIP, ARMS STRAIGHT",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "LEVEL",
+     "label": "BACK FACES THE FLOOR",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "HIPS UP, TUCK TIGHT",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THAT TIME IS YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "15 SEC",
+   "label": "OF TUCK HOLD IS THE LINE",
+   "sub": "under 8: the lats are new - 25+: open toward one leg out",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. Fifteen clean seconds in a front lever tuck, arms locked, back level, hips held high, is certified lat leverage. Under eight seconds, your lats are new to straight-arm pulling and should be trained at that level without embarrassment. Over twenty-five, the tuck has stopped being the frontier, and extending one leg becomes your next priced position. The front lever family is famous for humbling strong pull-up athletes, and the reason is this test's honesty. A pull-up bends the arms and lets the biceps share the bill. The lever forbids the bend, so the lats must pay the entire invoice through straight arms, at a mechanical disadvantage most pulling never visits. Your tuck time is the cleanest measurement of straight-arm lat strength you will ever get without a laboratory. Write it down. This number is a savings account statement, and it only grows one kind of deposit.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "15 CLEAN SEC = THE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "25+",
+     "label": "ONE LEG OUT NEXT",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "NO BICEPS TO HIDE BEHIND",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the shape. Hanging level in front of the bar, your body is a beam suspended from your hands, and gravity is trying to rotate that beam downward around the bar. The only thing preventing the rotation is torque at your shoulders, produced overwhelmingly by your lats, the great wings of your back, pulling your arms down toward your hips through locked elbows. The tuck is the price dial. Knees folded to your chest, the beam is short and the torque bill is modest. Every centimeter your legs extend lengthens the beam and multiplies the bill, which is why the road from tuck to full lever is measured in years for most people and in positions for smart ones. Your core has a supporting role, keeping the beam rigid so the lats' force goes into holding the angle instead of folding the body. But make no mistake about the engine. In the front lever, the lats are not assisting the movement. They are the movement, the hinge, and the whole invoice.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "THE LATS ARE THE ENGINE",
+     "lines": [
+      "Body is a beam on the bar.",
+      "The tuck sets the torque price."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "LOCKED ELBOWS, FULL INVOICE",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THE BEAM MUST STAY RIGID",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Here is the training science that most front lever advice ignores. Straight-arm strength is position-specific to a degree that bent-arm strength is not. Your lats learn to produce force at the exact shoulder angle you train, and transfer to other angles is partial at best. This is why athletes with twenty pull-ups sometimes cannot hold a tuck for five seconds: their lats are strong at pulling a bent arm down, and beginners at holding a straight arm level. Compare the two programs. One adds more pull-ups and waits for the lever to arrive as a side effect; it waits a long time. The other trains the lever positions directly, tuck holds and slow negatives from the top, and watches the graded angle improve month by month. Isometric holds at the target position are not a compromise for people who cannot do the real thing. In straight-arm leverage, the hold is the real thing, and the angle you hold is the strength you own.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "STRAIGHT-ARM STRENGTH IS SPECIFIC",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "bars",
+     "title": "TWO PROGRAMS",
+     "items": [
+      [
+       "MORE PULL-UPS",
+       5,
+       "red"
+      ],
+      [
+       "LEVER HOLDS",
+       15,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "THE HOLD IS THE REAL THING",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_dead_hang.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The money drill is the lever negative. Jump or pull into an inverted hang, tuck tight, and lower yourself toward the level position as slowly as you can, through the exact range the test grades. Five seconds down is a good rep; two is a fine start. Four reps, three times a week. Negatives let you visit angles your hold cannot afford yet and pay the tissue in the currency it banks: time under tension at the target position. When your negative passes through level without speeding up, your hold at level is only weeks behind it.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "LEVER NEGATIVES",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "4 REPS",
+     "label": "THREE TIMES A WEEK",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "VISIT ANGLES YOU CAN'T HOLD",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "NO SPEEDING AT LEVEL",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage should sound familiar by now, because it is the season's thesis with your name on it. The front lever's price is your bodyweight at the end of a beam, and the light body is a cheaper beam in every position from tuck to full. Gymnasts, the owners of this skill, are built like you for a reason that has nothing to do with aesthetics: leverage sports select for low mass and high relative strength, and relative strength is the one contest the skinny guy wins by default. Every kilogram the heavy athlete carries is a kilogram his lats must hold level. Your lats hold less and therefore learn faster, hold longer, and progress through positions on a schedule he cannot match. The mirror says his back is bigger. The stopwatch, the angle, and the calendar say yours is stronger where it counts. Trust the instruments. They were never impressed by mirrors.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "RELATIVE STRENGTH IS YOUR CONTEST",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "LIGHT",
+     "label": "THE GYMNAST'S SPEC",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "TRUST THE INSTRUMENTS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_hang_side_relaxed.webp"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_tuck.webp",
+   "exercise": "FRONT LEVER TUCK",
+   "work": 15,
+   "rest": 45,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Tuck with me. Hips up, back level, arms locked, fifteen seconds. If the hips sink, tighten the tuck and keep holding. The lats are working. Go."
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "THE FIX",
+   "check": 3,
+   "music": "calm",
+   "narration": "Here is the fix. Stop bending your arms to reach the position. A bent-arm front lever is a row wearing a costume, and it trains the biceps to do the lats' job; if you cannot reach level with locked elbows, raise your standard instead: hold a higher tuck, honestly. Stop swinging into the hold. Momentum parks you at an angle your lats did not pay for, and the hold that follows is a loan that comes due in two seconds. Enter slowly, from a dead hang, every time. Stop training only the tuck you already own. Progress comes from the edge of your ability, so once a week, visit the next position, one leg extended, for short holds, and let the edge move. And stop skipping the straight-arm warm-up: scapular pulls and easy hangs before lever work, because straight-arm tissue asked for its maximum cold is tissue negotiating its resignation. The weekly shape: two or three sessions, negatives and holds, every second at a locked elbow. The beam only respects straight arms.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "BENT ARMS IN COSTUME",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "SWINGING INTO THE HOLD",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "ONLY TRAINING THE OWNED TUCK",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COLD STRAIGHT-ARM MAXIMUMS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "EVERY SECOND, LOCKED ELBOWS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your time. Under eight clean seconds: your lats are new to straight-arm work, and negatives plus high tucks are your program. Eight to fifteen: the engine is real and the beam is learning to stay rigid. Over fifteen seconds level and locked: your lat leverage is certified, and one-leg extensions are your next frontier. Retest in thirty days, same grip, dead-hang entry, side camera running, because sinking hips are invisible from inside the hold. Put your seconds in the comments. Just the number. The lever grades your lats with no assistance from your arms, and that grade, once earned, cannot be faked by anyone, including you.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "UNDER 8: THE LATS ARE NEW",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_dead_hang_front.webp"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "A rigid beam, a straight arm, and lats that pay the whole invoice. That is the front lever. Subscribe, and bring me your new time in thirty days. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "THE LATS PAY IT ALL",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "BRING ME THE NEW TIME",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "SEE YOU AT THE RETEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

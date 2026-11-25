@@ -1,0 +1,382 @@
+{
+ "badge": "EP 483 - ELBOW LEVER TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVERAGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Plant your elbows into your ribs, lean forward over your hands, and float. Your elbow lever time reveals the truth about your wrist leverage: the small joint at the base of the whole skill that must angle, load, and steer your entire bodyweight. Take the balance test and learn the lever underneath it.",
+ "hashtags": [
+  "elbow lever",
+  "wrist leverage",
+  "balance skill",
+  "calisthenics skills",
+  "wrist strength",
+  "bodyweight balance"
+ ],
+ "id": "483",
+ "scenes": [
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HANDS FLAT, FINGERS BACK"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "ELBOWS INTO YOUR RIBS",
+     "pos": "br",
+     "text": "LEAN"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FEET LEAVE THE FLOOR"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Here is your test. Get on the floor or a low bench, hands flat with fingers pointing back toward your feet. Bend your arms and plant your elbows firmly into your ribs, making two shelves. Now lean forward, slowly, over your hands, until your feet float off the ground and your whole body balances on your hands alone. Start the clock. Legs together, body straight, head up. The second your feet touch down or your elbows slip off your ribs, stop the clock. That time is your number. It looks like a circus trick. It is actually a wrist exam. Surface matters more than pride here. A low, stable bench lets your legs clear the floor at a friendlier angle; the floor is the full exam. Start wherever you can float for even one second, because one honest second is a training position, and a face-plant is just a story. A folded towel under your hands is allowed while your wrists adapt. The clock forgives equipment. It does not forgive slipping elbows.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "10 SEC = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "FULL FLOAT, FULL CONTROL",
+     "pos": "br",
+     "text": "20+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WOBBLE = INFORMATION"
+    }
+   ],
+   "big": "10 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF CLEAN FLOAT IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten seconds of clean float, body straight, no foot taps, is where the elbow lever stops being a lucky balance and becomes a skill you own. Under three seconds, your wrists are folding under the angle, and that is the most common limit, not balance. Over twenty, you can steer your whole body from two hands like it is a parked bicycle. The tuck version counts too: knees bent is the same wrist exam with a shorter lever. Grade the float by its calmest second, not its longest. A float where you are serene, breathing, able to look around, is a skill. A float spent in frantic correction is a rescue that happened to last ten seconds. Both stop the same clock, but only one of them is a foundation. When you retest, ask not just how long, but how quiet. The quiet seconds are the ones that stack into one-arm work later.",
+   "section": "THE NUMBER",
+   "sub": "under 3 sec: the wrist folds - over 20 sec: full float",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Your wrist bends near its limit.",
+      "It steers the whole body from there."
+     ],
+     "pos": "tr",
+     "title": "THE ANGLE IS THE EXAM"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FOREARM PAYS THE BILL"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SMALL JOINT, WHOLE BODY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Look at where the load lands. In the elbow lever, your bodyweight pours down your arms into wrists bent close to their end range, fingers spread on the floor. That bent wrist is not a passive hinge. The forearm muscles must hold the angle against your entire body trying to flatten it, while tiny corrections in your fingers steer the balance. This is wrist leverage in its purest form: a small joint, loaded at a hard angle, running the whole show. When the float collapses in two seconds, it is rarely your courage that failed. It is the wrist, folding a few degrees past what it can hold. Your fingers deserve their own sentence in this mechanism, because they are doing something remarkable: they are acting as a set of tiny outriggers, pressing individually to shift your center of mass by grams. Spread them wide and the base doubles. Splay them lazily and the base shrinks to two palms, and the float becomes a coin flip. Watch any gymnast's hands in a balance skill: the fingers are never decoration. They are the steering, the brakes, and the suspension, all in ten small levers.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ELBOWS ARE THE FULCRUM"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "TUCK FLOAT",
+       12,
+       "cyan"
+      ],
+      [
+       "STRAIGHT FLOAT",
+       5,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME WRISTS, TWO LEVERS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TUCK TO LEARN, STRAIGHT TO PROVE"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The elbows are the cheat code, and the geometry explains why. Planted in your ribs, they become a fulcrum that carries most of your trunk, so your wrists only manage the balance and the leftover load. Tuck your knees and the lever shortens again: twelve seconds of tuck float from the same wrists that manage five straight. That is not cheating. That is the ladder. Every balance skill is a lever problem wearing a costume, and the elbow lever is simply the friendliest costume: the fulcrum is built into your ribs, so you can spend all your training on the wrist that runs it. Height is the hidden dial in this skill. On the floor, your body must reach full horizontal before the float balances, which demands the deepest lean and the most committed wrist angle. On a bench, the float arrives earlier, at a discount. Neither is cheating; they are different-priced versions of the same exam, like every lever in this season. Start at the price you can pay with calm form, and move to the floor when the bench float gets boring. Boredom, in balance training, is the sound of a stage being completed.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_tabletop_press.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Before the elbow lever, meet its older brother: the crow pose. Hands on the floor, knees resting high on the backs of your arms, lean forward until your feet float. The crow is the same wrist exam and the same steering, with your knees parked on a shelf that makes the balance forgiving. Master thirty calm seconds of crow and the elbow lever stops being a new skill; it becomes the crow with straight legs and a lower shelf. Yoga students have used this doorway for a thousand years. Walk through it without embarrassment, and your wrists will arrive at the lever already educated.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "START WITH THE CROW",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "30 SEC",
+     "label": "CALM CROW FIRST",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "SAME WRIST EXAM",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE GATEWAY BALANCE",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BALANCE LOVES LIGHT"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LESS TO STEER, LONGER FLOAT",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "YOUR BUILD, YOUR SKILL"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Skinny guys should own this skill, and here is why. Balance is corrections per second, and every correction is your fingers pushing your bodyweight back over your hands. A lighter body needs smaller corrections, so the wrists last longer and the float gets calm faster. Heavy lifters often face-plant through their first week of elbow lever practice, not from weakness, but from steering cost. Your build pays less for every save. This is a skill where the lightest guy in the room usually floats first. There is a party-trick dividend too, and you are allowed to enjoy it. The elbow lever is the fastest impressive skill a beginner can own: a full body float on two hands, learnable in weeks, that reads to any audience like sorcery. For a skinny guy used to being underestimated in every physical room, owning one impossible-looking thing early is not vanity. It is fuel. Skills you can show are skills you keep training, and skills you keep training become strength that shows everywhere else.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "check": 3,
+   "exercise": "TABLETOP PRESS",
+   "music": "drive",
+   "narration": "Float with me. Elbows in, lean slow, find the float and breathe. Twenty seconds on the clock. If the feet tap, reset and go again. Go.",
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WRIST WARM-UP FIRST"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TUCK UNTIL IT IS CALM"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DIVING INTO THE LEAN"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "ELBOWS FLOATING OFF THE RIBS"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "SHORT SETS, FULL RECOVERY",
+     "pos": "tr",
+     "text": "5 SETS"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol starts before the skill. Warm the wrists up every session: circles, floor presses, thirty seconds of gentle loading, because a cold bent wrist under bodyweight is how strains happen. Then five sets of floats at half your best time, resting fully between sets, tuck version until the float is calm, then straight legs. Enter the lean slowly, like tipping a full glass. Diving forward is just falling with confidence. If your wrists ache sharply rather than burn, stop for the day. This joint adapts like a tendon, slowly and surely, and it does not forgive greed. Film one set a week from the side. The elbow lever hides its sins from the person doing it: a drifting elbow, a piked hip, legs splitting for balance. Thirty seconds of video tells you which sin is taxing your float, and the fix is always specific once you can see it. Guesswork is the most expensive training tool there is. A phone on a stack of books is the cheapest coach you will ever hire.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 3: THE WRIST FOLDS"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under three seconds: your wrists fold before your balance even gets tested, and the warm-up plus tuck floats are your road. Three to ten: the float is real, now make it calm. Over ten: your wrist leverage is a genuine skill asset, and the one-arm progressions are waiting. Retest in thirty days, same surface, same slow lean. Put your seconds in the comments. Just the number. The float never lies about the wrist. If your float today was zero seconds, your homework is not the lever at all. It is the crow, the wrist warm-up, and the slow lean, in that order, for two honest weeks. Zero with a plan is a beginning. Zero repeated with dives is just a collection of face-plants. You now own the plan, which means your zero has an expiry date, and it is closer than your pride currently believes.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEAN SLOW, FLOAT LONG"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW TIME",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Warm the wrists, plant the elbows, lean like you mean it slowly. The float is closer than you think. Subscribe, and bring me your new time in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "elbow lever",
+  "wrist leverage",
+  "elbow lever test",
+  "balance training",
+  "wrist strength",
+  "calisthenics skills",
+  "bodyweight balance"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_tabletop_press.webp",
+  "big": "10 SEC",
+  "hook": "THE FLOAT TEST"
+ },
+ "title": "Your Elbow Lever Time Reveals the Truth About Your wrist leverage",
+ "v5": true
+}

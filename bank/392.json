@@ -1,0 +1,430 @@
+{
+ "id": "392",
+ "v5": true,
+ "title": "I Tested pull-up singles for 30 Days (The Results Surprised Me)",
+ "description": "Thirty days of pull-up singles and slow negatives, tested by max clean reps on day zero and day thirty. This round of the singles experiment adds the negative, the lowering half everyone skips, and what it does to your elbow tendons might change how you train pull-ups forever. Take the test, learn the mechanism, follow the plan, and compare your numbers.",
+ "tags": [
+  "pull-up singles",
+  "pull-up negatives",
+  "elbow tendon",
+  "pull-up test",
+  "30 day challenge",
+  "calisthenics",
+  "grease the groove"
+ ],
+ "hashtags": [
+  "pull-ups",
+  "pull-up challenge",
+  "30 day challenge",
+  "negatives",
+  "calisthenics",
+  "back workout"
+ ],
+ "category": "experiments",
+ "badge": "EP 392 - SINGLES, TESTED",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pullup_top.webp",
+  "big": "30 DAYS",
+  "hook": "PULL-UP SINGLES TESTED",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Day zero. | Before any training. | We take the test. | Max clean pull-ups. | Dead hang start. | Every single rep. | Chin over the bar. | Full stretch at bottom. | No swinging allowed. | Stop when form dies. | That is your NUMBER. | Write it down. | Singles got you here. | Now we add negatives. | The lowering half | everyone skips. | In thirty days | we run it again. | Same bar. Same rules. | Keep your number close. | Let us begin.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "DEAD HANG START, EVERY REP",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "text": "STOP WHEN FORM DIES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "NOW ADD NEGATIVES",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Singles plus slow lowerings.",
+      "30 days. One retest."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "KEEP YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR MAX",
+   "label": "YOUR DAY-ZERO PULL-UP NUMBER",
+   "sub": "0 to 2: untrained - 3 to 6: building - over 8: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the honest reading of your day-zero max. Zero to two clean reps means the pulling system is untrained, and untrained pullers are exactly who this experiment serves best. Three to six means the base exists and the month will build on it. Over eight, you are wired already, and the negatives will add tendon strength your reps have not touched. Understand what limits most skinny guys at the bar: not the pull up, but the control down. The lowering is where the elbow tendons earn their strength, and most people have never trained it once. Your max today is the before photo. Thirty days of singles and negatives, then the after, same bar, same strict rules.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "CONTROL DOWN IS THE LIMIT",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "DAY 30",
+     "label": "THE AFTER PHOTO",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "UNTRAINED SERVED BEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "elbow_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Back to the elbow, because the negative is an elbow tendon exercise first and a back exercise second. When you lower from the bar slowly, your biceps and brachialis work while LENGTHENING, controlling your bodyweight against gravity for five, eight, ten seconds. The tendons crossing your elbow transmit that entire load, and eccentric tension is the loudest signal a tendon can hear. It responds the way it always does on this channel: collagen laid down along the line of pull, the cable thickening and stiffening. Meanwhile the single, the clean pull-up you do fresh, trains the nerve pattern at full quality. Put them together and you get the complete pull-up: a nervous system that knows the movement and tendons that can afford it. Most programs train one or the other. This month trains both, daily, in minutes.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE NEGATIVE IS TENDON WORK",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pullup_top.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE LOUDEST SIGNAL",
+     "lines": [
+      "Eccentric tension, slow lowering.",
+      "Collagen follows the pull line."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "NERVES KNOW, TENDONS AFFORD",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "BOTH, DAILY, IN MINUTES",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_mid.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "What surprised me in this test was not that the max went up. It was WHERE the reps came from. My sticking point, that dead zone halfway up where most skinny guys stall and kick, simply disappeared. The science is angle-specific strength. A slow negative loads every angle of the pull at full tension, including the middle angles that a fast rep flies through on momentum. Train the lowering and you own the whole range, not just the parts momentum gifts you. There is a second effect in the tendon: eccentric work is the classic prescription for grumpy elbow tendons, because it rebuilds collagen in an orderly way. So the same practice that adds reps also armours the joint doing them. Strength and armour from one slow movement. When the retest comes, watch for the middle of the rep. That is where this month hides its evidence.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE STICKING POINT VANISHED",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "ANGLE-SPECIFIC STRENGTH",
+     "lines": [
+      "Slow negatives load every angle.",
+      "Momentum gifts you none."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "PULL-UP GROWTH",
+     "items": [
+      [
+       "DAY 0",
+       3,
+       "red"
+      ],
+      [
+       "DAY 30",
+       8,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "STRENGTH AND ARMOUR",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "WATCH THE MIDDLE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage at the bar is the oldest one on this channel: the exam is your own bodyweight, and your entry fee is low. Singles cost you three seconds of effort. Negatives cost you ten. Neither costs you the deep fatigue that ends a heavy guy's experiment in week two, because his every rep is twenty kilos more expensive. You can practise the highest-quality version of the pull-up, fresh singles and slow negatives, every single day, and recover on normal sleep and normal food. Tendons and nerve patterns both pay out on attendance. Your light frame is an attendance machine at the bar. Thirty days of perfect attendance is what we are really testing, and the max set at the end is just the receipt.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "LOW ENTRY FEE AT THE BAR",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_pullup_top.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "AN ATTENDANCE MACHINE",
+     "lines": [
+      "Fresh reps, every day.",
+      "Recovery on normal sleep."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "THE MAX IS JUST THE RECEIPT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "RECOVER ON NORMAL FOOD",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pullup_top.webp",
+   "exercise": "SLOW NEGATIVES",
+   "work": 30,
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Train with me. Jump or step to the top, then lower for a slow five count, four rounds. Full stretch at the bottom, no dropping. The way down is the workout. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_doorframe_row.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. Two tools: fresh singles through the day, and one short negatives session. Week one: eight to twelve singles spread across the day, every rep from a dead hang, plus three negatives of five seconds after your last single. Week two: singles grow toward fifteen, negatives grow to five reps, and one day in three, make a single a double. Week three: negatives reach eight seconds each, and once a week, test a small set of three to feel the trend without draining the tank. Week four: keep the singles crisp, shorten the negatives, and taper in the last three days to a few easy reps. Day thirty: same bar, one strict max set. If you have no bar, the doorframe row in this picture is your bridge: same pulling pattern, feet forward, slow lowerings, until a bar enters your life. The elbow rules: never grind a single, never crash down from the top, and if the inner elbow aches two days running, halve the negatives, because that ache is the tendon asking for a slower calendar. Track two numbers in a notebook: your daily single count and your longest negative of the week. The first proves your attendance, the second proves your tendons are listening. When the retest comes, those two quiet numbers will have predicted it better than any feeling you had along the way.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: SINGLES + 3 NEGATIVES",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "EVERY REP FROM DEAD HANG",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 3: 8-SECOND LOWERINGS",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "NO BAR? ROW THE DOORFRAME",
+     "lines": [
+      "Same pattern, slow lowerings.",
+      "A bridge until a bar."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "NEVER CRASH DOWN",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: ONE STRICT MAX",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "8 SEC",
+     "label": "THE NEGATIVE TARGET",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same bar, strict rules, one max set. Here is how it usually reads. The common result is a gain of three to five reps for low starters, and the reps feel different: the middle of the pull stops being a wall and becomes a doorway. If you started higher and added two, that is excellent at your level, because each additional rep costs more than the last. If your max did not move but your negatives doubled in control, count the month a tendon success and retest in two more weeks, because strength sometimes arrives after the strength test. If your elbows got grumpier, your negatives were too many or too fast, and the fix is fewer, slower, with more rest days. Put both numbers in the comments, day zero and day thirty. The pair tells the truth about what a slow way down can build.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME BAR. STRICT RULES.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "+3 TO +5 REPS",
+     "label": "THE COMMON RESULT",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE MIDDLE BECOMES A DOORWAY",
+     "lines": [
+      "The sticking point dissolves.",
+      "Angle by angle."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_mid.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days of singles and slow lowerings, and the bar stops being your enemy and becomes your instrument. Keep the negatives in your life, and subscribe for the next test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "THE WAY DOWN BUILDS UP",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "KEEP THE NEGATIVES",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

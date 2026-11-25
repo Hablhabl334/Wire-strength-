@@ -1,0 +1,394 @@
+{
+  "id": "411",
+  "v5": true,
+  "title": "What 30 Days of calf raises Does to a Skinny Guy",
+  "description": "Thirty days of calf raises, starting with one honest single-leg test. Learn why the Achilles tendon, not the calf muscle, is the real story, run the slow daily tempo protocol, and retest your number on day thirty.",
+  "tags": [
+    "calf raises",
+    "calf test",
+    "achilles tendon",
+    "30 day challenge",
+    "calisthenics",
+    "calf strength",
+    "single leg calf raise"
+  ],
+  "hashtags": [
+    "calf raises",
+    "30 days",
+    "achilles",
+    "calf test",
+    "calisthenics",
+    "experiment",
+    "strong ankles"
+  ],
+  "category": "experiments",
+  "badge": "EP 411 - 30 DAYS OF CALF RAISES",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_calf_raise.webp",
+    "big": "25 REPS",
+    "hook": "CALF TEST",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Your thirty days start on one leg, on the edge of a step. Heel hanging off, fingertips on the wall for balance only, rise all the way up onto the ball of your foot, then lower slowly until the heel drops below the step. That full journey, up and down, is one rep. Count how many you can do on one leg before the height starts shrinking or the tempo breaks. Then the other leg, because they will differ and the honest one is the smaller. Most guys guess twenty and discover twelve, because the calf raise is the most skipped exercise in the world wearing the disguise of the easiest. Write both numbers down. For thirty days you will train this movement slowly, daily, with a tempo that feels like a punishment invented by a metronome. Keep your numbers. The muscle is not the main character of this story. The cable behind your ankle is.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "EDGE OF A STEP, ONE LEG",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "2 NUMBERS",
+          "label": "ONE PER LEG",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_achilles_profile.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "SMALLER LEG IS THE HONEST ONE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "25 REPS",
+      "label": "SINGLE-LEG CALF RAISES, FULL RANGE",
+      "sub": "under 12: springs asleep - over 30: loaded calves",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Under twelve slow full-range reps on your weaker leg, the whole calf-Achilles system is asleep, and it is the most wakeable system in your body. Twelve to twenty-five is the untrained middle. Over thirty with a full stretch at the bottom and a pause at the top, you own springs most runners would envy. The question for the month: what does slow daily work do to a number built on the thickest tendon you own?",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "MOST WAKEABLE SYSTEM YOU OWN",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "FULL STRETCH, FULL PAUSE",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "30+ REPS",
+          "label": "SPRINGS RUNNERS ENVY",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "achilles_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look behind your ankle and meet the thickest tendon in your body. The Achilles carries every step you take, every stair, every landing, loads of several times your bodyweight, and it does it as a spring: stretching under load, snapping back to return energy, saving your muscles an enormous daily bill. Your calf muscles are the engine, but the Achilles is the transmission, and transmissions decide how much engine ever reaches the road. A slow calf raise is a transmission exercise. The long stretch at the bottom and the slow lowering load the tendon under control for seconds at a time, and sustained load is the instruction tendon tissue understands best: organize your fibers, hold more tension, waste less energy. Muscle adapts to this month by getting a little stronger. The tendon adapts by becoming a better spring, and a better spring changes everything downstream: walking gets cheaper, running gets bouncier, jumping gets free height. You are not really training calves this month. You are tuning the spring your whole lower body rides on.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "ENGINE AND TRANSMISSION",
+          "lines": [
+            "Calf is the engine.",
+            "Achilles decides what arrives."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_achilles_profile.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "SUSTAINED LOAD = THE INSTRUCTION",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "WHAT A BETTER SPRING CHANGES",
+          "items": [
+            [
+              "WALKING",
+              60,
+              "white"
+            ],
+            [
+              "JUMPING",
+              85,
+              "gold"
+            ],
+            [
+              "RUNNING",
+              80,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "TUNING, NOT JUST TRAINING",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_eccentric_drop.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The lowering half of the rep deserves its own paragraph, because it is where this protocol hides its power. Lowering slowly against gravity is called eccentric work, and for tendons it is the closest thing to a direct order: hold this load, lengthen under control, do not tear. Clinicians use slow heel drops for exactly this reason when Achilles tendons complain, and the same stimulus that rehabilitates also builds, at the right dose. Now the light guy's angle, and it is a good one: the single-leg raise loads the tendon with your full bodyweight, no more, no less. At sixty kilograms that is a strong daily signal with a fast recovery. The heavy man's single-leg raise is a near-maximal tendon event, dosed like a heavy squat, impossible to repeat daily without complaints. Your dose is the rare one that is both serious and sustainable. Thirty days of a serious, sustainable signal is how tissue actually changes: not in the heroic week, but in the unbroken month.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE LOWERING IS THE ORDER",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "SERIOUS AND SUSTAINABLE",
+          "lines": [
+            "Full bodyweight on one tendon.",
+            "Repeatable every single day."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_calf_raise.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "DAILY TENDON DOSE",
+          "items": [
+            [
+              "LIGHT",
+              70,
+              "cyan"
+            ],
+            [
+              "HEAVY",
+              98,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "THE UNBROKEN MONTH BUILDS",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The protocol is one movement, one tempo, every day. The tempo never changes: rise for two seconds, pause one at the top, lower for three, pause one in the deep stretch. Week one: two legs together, three sets, learning the metronome and the burn. Week two: single-leg with wall support, sets stopping two reps before the height fades. Week three: single-leg, full sets, and add a backpack with books on the strongest days. Week four: keep the tempo, trim the volume, arrive at the retest springy. The rules that guard the tendon: the burn belongs in the calf belly, never a sharp pinch in the tendon itself; morning stiffness that lasts all day means yesterday was too much; and if Achilles pain persists beyond a week of lighter work, see a professional. This is the slowest-looking protocol of the season. It is also the one whose results you will feel on every staircase for years.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "2 UP, 1 HOLD, 3 DOWN",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "BURN IN BELLY, NEVER TENDON",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_eccentric_drop.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "PERSISTENT PAIN = PROFESSIONAL",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "stat",
+          "text": "6 SEC",
+          "label": "EVERY REP, ALL MONTH",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_calf_raise.webp",
+      "exercise": "CALF RAISES",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Raise with me, protocol tempo. Three rounds: forty seconds of slow calf raises, twenty seconds of rest. Two seconds up, three seconds down, full stretch at the bottom. Let the metronome punish you. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_achilles_profile.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is how your month will unfold, week by week. Week one, the two-leg version feels easy until the tempo bites: the three-second lowering turns a nursery exercise into an argument, and your calves will be sore in a deep, unfamiliar place. Week two, single-leg, the weaker side exposes itself rudely, shaking at rep eight while the strong side cruises, and the gap becomes the project's personal villain. Week three, the gap starts closing, the stretch at the bottom feels less like a warning and more like a loading dock, and everyday walking develops a quiet bounce you did not install on purpose. Week four, the strangest evidence: stairs taken two at a time without the usual negotiation, a sprint for a bus that feels spring-loaded, ankles that report for duty before you ask. The spring had been retuning itself at six seconds a rep, and the whole lower body noticed before the test did.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: THE TEMPO BITES",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: THE GAP EXPOSES ITSELF",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_calf_raise.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "A QUIET BOUNCE APPEARS",
+          "lines": [
+            "Walking changes first.",
+            "The test notices last."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "SIX SECONDS A REP",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Day thirty, edge of the step, weak leg first, honest tempo. The pattern this month produces: weak-leg numbers typically climb by half or more, and the side-to-side gap, the real prize, usually shrinks to a rep or two. Read your day zero against the bands: under twelve, this protocol was written for you. Twelve to twenty-five, you are a month from springs with a reputation. Over thirty, maintain twice a week and go tune a duller system. Put your weak-leg number in the comments. Just the number. Thirty days from now, step up and take it again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE GAP IS THE REAL PRIZE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "achilles_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "WEAK LEG FIRST",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR WEAK-LEG NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of slow raises, and every step you take gets a quieter, springier answer. Your calves were never the point; the great cable behind your ankle was. Tune it slowly and it carries you for decades. Retest in thirty days and bring me your weak-leg number. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "THE CABLE WAS THE POINT",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

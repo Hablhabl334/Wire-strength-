@@ -1,0 +1,347 @@
+{
+ "id": "439",
+ "v5": true,
+ "title": "What 1 Minute of jumps Every Day Does to Your bone density",
+ "description": "One minute of jumping a day is a deposit your skeleton cannot ignore. Here is what sixty seconds of daily impact does to your bone density across four weeks, and the jump test that measures the spring you already own.",
+ "tags": [
+  "jumping",
+  "bone density",
+  "jump test",
+  "one minute exercise",
+  "plyometrics",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "one minute jumps",
+  "daily jumping",
+  "bone density",
+  "plyometrics",
+  "jump training",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 439 - JUMPS DAILY",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "BONE DENSITY",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_jump_peak.webp",
+  "big": "60 SEC",
+  "hook": "JUMP EVERY DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Reach up beside a wall and note your highest touch. Then jump and beat it by as much as you can. The gap between the two touches is your jump height, your number for today. Three attempts, keep the best, write it down. That gap measures the most honest thing in your body: how much force your bones, tendons and nerves can create and survive in a quarter of a second. One minute of jumping a day is about to raise it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "REACH, THEN BEAT IT",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "BEST OF THREE",
+     "label": "THAT IS YOUR NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "text": "60 SECONDS A DAY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "60 SEC",
+   "label": "THE IMPACT LINE",
+   "sub": "soft slow landings: bones unloaded - sharp quiet spring: bones loaded",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. If your jump feels heavy and your landings thud, your skeleton has been living without impact, and bone without impact slowly spends itself. If you spring up fast and land quiet, your system already speaks the language of force. The good news: bone learns this language at any age, and a daily minute is a fluent teacher.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "BONE SPENDS ITSELF",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "A DAILY MINUTE",
+     "label": "IS A FLUENT TEACHER",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "ANY AGE LEARNS",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "tibialis_plate.webp",
+   "section": "BONE DENSITY",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one teaches your body to land. Sixty seconds of jumps is mostly a nervous system lesson at first: ankles learn to stiffen a split second before touchdown, knees learn their track, and your shins learn to absorb instead of complain. The jumps themselves get taller almost by accident, because a body that trusts its landings dares to jump harder. Trust first, height second. That order never changes.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: LEARN TO LAND",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_jump_peak.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "TRUST BEFORE HEIGHT",
+     "lines": [
+      "Landings teach takeoffs."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "SHINS LEARN TO ABSORB",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ankle_ligament_plate.webp",
+   "section": "BONE DENSITY",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the signal reaches the bone. Every landing multiplies your bodyweight through your skeleton, and bone cells translate that strain into a building order: more mineral, denser structure, stronger architecture. It is slow work with a long memory, which is exactly why daily beats occasional. A minute a day files the order thirty times a month. Skip weeks, and the construction crew clocks out and the half-built wall waits. Your shins and ankles are the landing gear of every jump you will ever take, and this week they finally get maintained like it matters.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: THE BUILDING ORDER",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_sprint.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "ORDERS FILED PER MONTH",
+     "items": [
+      [
+       "SOMETIMES",
+       6,
+       "red"
+      ],
+      [
+       "DAILY",
+       30,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "SLOW WORK, LONG MEMORY",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "BONE DENSITY",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the system shows its layers. Your tendons have stiffened, returning more of each landing as free spring. Your nerves fire the whole chain faster. And underneath, your bones are mid-construction on density you will keep for years. Research on jumping interventions shows bone responds best to brief, frequent, high-impact bouts, which is a perfect description of one minute a day. The skinny guy wins again: less mass to land means more jumps, more days, more deposits, less wear.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "BRIEF, FREQUENT, HIGH-IMPACT",
+     "lines": [
+      "Exactly how bone likes it."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "big_vs_lean_jump.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "MORE DEPOSITS",
+     "label": "LESS WEAR",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "LAYERS ON LAYERS",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_jump_peak.webp",
+   "exercise": "JUMPS",
+   "work": 30,
+   "rest": 20,
+   "rounds": 3,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now jump with me. Thirty seconds of springy jumps, land soft every time, rest, repeat. Three rounds. Tall and quiet. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_toe_raise.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is one minute, split however keeps it sharp. Six sets of ten seconds with short rests is perfect for beginners. Jump on grass, a mat or wood, and keep every landing silent: noise is force leaking into your joints instead of your bones' bank account. Stop the minute when your jumps shrink, because short tired jumps file a weak order. Pair the minute with strong shins: toe raises on off days keep the landing gear balanced.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "SILENT LANDINGS ONLY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO SHRINKING JUMPS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "SIX SETS OF TEN",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_jump_peak.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "STRONG SHINS, SAFE LANDINGS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your jump gap, judged. Small gap, loud landings: an unloaded skeleton, the most responsive starting point there is. A decent gap with quiet feet: the system works, so feed it its daily minute. A big springy gap: your bones are loaded, so spend the minute on single-leg hops and precision. Retest on day twenty-eight at the same wall and comment your new height. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_sprint.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "SAME WALL, SAME SHOES",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "One minute of impact a day, and your skeleton starts building instead of spending. Start tomorrow, jump tall, land quiet, and let the deposits compound. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "DEPOSITS COMPOUND",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

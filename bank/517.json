@@ -1,0 +1,392 @@
+{
+ "id": "517",
+ "v5": true,
+ "title": "Why Your elbow leverage Matter More Than Muscle (The muscle-up transition Episode)",
+ "description": "Why does your elbow leverage matter more than muscle? Because the muscle-up transition is a geometry problem wearing a strength costume. Take the strict transition test, then learn why the hinge, not the engine, decides who gets over the bar.",
+ "tags": [
+  "muscle-up transition",
+  "elbow leverage",
+  "why leverage matters",
+  "strict muscle up",
+  "false grip",
+  "calisthenics skills",
+  "bar muscle up"
+ ],
+ "hashtags": [
+  "muscle up",
+  "elbow leverage",
+  "leverage over muscle",
+  "strict muscle up",
+  "calisthenics skills",
+  "transition"
+ ],
+ "category": "skills",
+ "badge": "EP 517 - WHY ELBOW LEVERAGE WINS",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MECHANISM",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pullup_top.webp",
+  "big": "1 REP",
+  "hook": "LEVERAGE BEATS MUSCLE",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Grab the bar, | false grip if you can. | Hang dead still. | Pull as high | as you can, | chest to the bar, | then, with no kip | and no swing, | roll your chest over | into the bottom | of a dip | and press out. | Count the strict reps | before the first | chicken-wing appears. | That count | is your number. | Zero counts. | Most strong pullers | score zero here | for months. | Keep it. | Today we ask why. | The answer is not | in your back | or your arms. | It is in a hinge | and the path | it must travel, | and once you see it, | your training changes | more in one day | than a year of | extra pull-ups | ever changed it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "FALSE GRIP, DEAD HANG",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "STRICT",
+     "label": "CONVERSIONS ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "THE FIRST CHICKEN-WING ENDS IT",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THAT COUNT IS YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "1 REP",
+   "label": "STRICT AND CLEAN IS THE LINE",
+   "sub": "0 strict: position, not strength - 5+: certified",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. One strict muscle-up is certified elbow leverage. Zero strict reps alongside fifteen pull-ups is the signature score of this test, and it contains the whole thesis of the episode: pulling strength and transition ability are different qualities, trained by different work, and the second is not hiding inside the first. Five strict reps means the conversion has become a skill you own rather than a door you occasionally crash through. Keep two scores in your notebook from today: pull-ups, and strict transitions. Watch them over a season and you will see them ignore each other like strangers. The pull-up number responds to pulling volume. The transition number responds to position work: false grip, negatives through the path, straight-bar dips. Athletes who track both numbers stop being confused about which training is failing them. The confusion was never a motivation problem. It was a measurement problem, and measurement problems have cheap solutions.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "1 STRICT REP = THE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "TWO SCORES",
+     "label": "PULLS vs CONVERSIONS",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "A MEASUREMENT PROBLEM",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "elbow_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the elbow, the hinge at the center of the story. Below the bar, you are a pulling machine: elbows drive down and back, lats and biceps shorten, everything is favorable. Above the bar, you are a pressing machine: elbows drive down from a raised position, triceps and chest take over. Between the two machines lies a few centimeters where neither is in charge, where your elbow must swing around the bar from pointing down-back to pointing up-back while your full weight hangs from it. At that instant, the torque at your elbow and shoulder is near its peak and your muscles' leverage is near its worst. That is the transition, and it is a leverage event, not a strength event. More muscle raises your force everywhere, including at the wall, but it does not move the wall. Position moves the wall: the false grip pre-rotates the hinge, the chest path shortens the journey, and momentum, when it is allowed, simply jumps over a wall that technique was supposed to dismantle. Dismantle it. Jumpers stay visitors. Owners move in.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "NEITHER MACHINE IN CHARGE",
+     "lines": [
+      "Elbow swings around the bar.",
+      "Torque peaks, leverage bottoms."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_dip_bottom.webp"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "POSITION MOVES THE WALL",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "DISMANTLE, DON'T JUMP",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The false grip is the cleanest proof in calisthenics that leverage outranks muscle. Setting the wrist over the bar rotates your forearm before the pull begins, which means the elbow's journey around the bar starts a third completed. The hardest angle of the transition is not made stronger; it is made shorter, and in some bodies it is deleted outright. Compare training histories and the pattern embarrasses the strength-first approach. Athletes who spend a year adding pull-up reps arrive at the bar with bigger engines and the same wall. Athletes who spend six weeks on false-grip hangs and transition negatives arrive with the same engine and no wall. Neither group worked harder. One group worked on the variable the test actually grades. This is the general law underneath this season, stated plainly: in skill movements, the graded variable is usually position, and position is cheap to train and expensive to ignore. Muscle is the most expensive variable in the room. Spend it last, on the problems position cannot solve.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE JOURNEY STARTS A THIRD DONE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "bars",
+     "title": "SIX WEEKS vs A YEAR",
+     "items": [
+      [
+       "POSITION WORK",
+       1,
+       "cyan"
+      ],
+      [
+       "MORE PULL-UPS",
+       0,
+       "red"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "SPEND MUSCLE LAST",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dip_top.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The position school has three classrooms. False-grip hangs, twenty seconds, teach the wrist its new home. Straight-bar dips, lowering until your chest touches the bar, teach the press to begin from the transition's own depth. And slow negatives from support to hang engrave the path between them. Fifteen minutes, twice a week, is the full curriculum for the first two months. Notice what is absent: pull-ups. Your pull is not the student here. Your hinge is, and hinges are taught by visiting their angles slowly, under loads they can afford, until the angles stop being events and become addresses.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THREE CLASSROOMS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "15 MIN",
+     "label": "TWICE A WEEK",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "ANGLES BECOME ADDRESSES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "THE PULL IS NOT THE STUDENT",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage is that the strict muscle-up is the rare strength feat where being light is not a compromise but a qualification. The transition's wall is built from your own bodyweight hanging at a bad angle, and a lighter body lowers the wall to a height technique can clear. This is why the strict muscle-up belongs to lean athletes in every park: not because they are stronger in the ways gyms measure, but because the graded variable, position under a moderate load, is the exact variable their build flatters. There is a longevity dividend too. The strict rep is a controlled rep, with no kip to mistime and no violent catch, so it can be practiced for decades as a skill rather than survived as an event. Own the strict rep and you own the bar's highest room, with a key cut from geometry instead of bulk.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "LIGHT LOWERS THE WALL",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "DECADES",
+     "label": "A SKILL, NOT AN EVENT",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "A KEY CUT FROM GEOMETRY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_dip_bottom.webp"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pullup_top.webp",
+   "exercise": "TRANSITION NEGATIVES",
+   "work": 20,
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Above the bar with me. Support tall, then lower through the transition slowly, chest glued to the bar, twenty seconds of path. Reset at the top each time. Go."
+  },
+  {
+   "type": "art",
+   "asset": "elbow_anatomy_plate.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "narration": "Here is the protocol the mechanism demands. Track two numbers, pulls and conversions, and train the one that is stuck; a season of confusion usually dissolves in a month of honest bookkeeping. Buy the false grip before you need it: hang in it, pull in it, and let the wrist skin toughen gradually, because the grip is a position your body must own before it can be used at full load. Visit the wall slowly and often: negatives through the transition at a speed where you could stop at any centimeter, because control at the wall is the skill, and speed through it is just falling with ambition. And protect the shoulder's dignity: the chicken-wing is the body begging to solve the wall asymmetrically, and every winged rep teaches the beg. End the set at the first wing. The monthly shape: two position sessions a week, pull work as maintenance, one strict test. Geometry first, and the muscle you already own becomes sufficient, which is the most encouraging sentence in this entire season.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "ONE NUMBER, TOTAL CONFUSION",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "FALSE GRIP BOUGHT LATE",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "SPEED THROUGH THE WALL",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "WINGED REPS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "YOUR MUSCLE IS SUFFICIENT",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your number, read beside your pull-up number. Zero transitions with strong pulls: position is the whole diagnosis, and the three classrooms are your next two months. One to four strict: the wall is dismantled and volume at perfect form is the road. Five or more: your elbow leverage is certified, and the muscle-up is a staircase you own. Retest in thirty days, dead hang, front camera, strict rules, and write both numbers in the comments if you know them: pulls, and conversions. The pair tells the truth that neither tells alone. The bar was never grading your engine. It was grading a hinge and a path, and both of them just became trainable line items in your program.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "ZERO + STRONG PULLS = POSITION",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_dip_top.webp"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_mid.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "The engine was fine. The hinge needed teaching. That is the muscle-up, and that is leverage. Subscribe, and bring me your new pair of numbers in thirty days. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "TEACH THE HINGE",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "BRING ME BOTH NUMBERS",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "SEE YOU AT THE RETEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

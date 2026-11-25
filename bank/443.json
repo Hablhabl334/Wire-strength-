@@ -1,0 +1,352 @@
+{
+ "id": "443",
+ "v5": true,
+ "title": "What 1 Minute of push-ups Every Day Does to Your chest tendons",
+ "description": "One minute of push-ups a day is sixty seconds of tendon construction for your chest. Here is the four-week timeline of what that minute builds, and the max-set test that reveals what your chest cables can actually deliver.",
+ "tags": [
+  "push-ups",
+  "chest tendons",
+  "one minute workout",
+  "max push-up test",
+  "tendon training",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "push ups",
+  "one minute push ups",
+  "chest workout",
+  "daily push ups",
+  "tendon training",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 443 - PUSH-UPS DAILY",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "CHEST TENDONS",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_mid.webp",
+  "big": "1 MIN",
+  "hook": "PUSH-UPS DAILY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Floor. Hands down. | Body one line. | Start the clock. | One minute starts. | Rep after rep. | Chest to floor. | Arms fully straight. | No rest at top. | No sagging hips. | Keep the count. | When sixty ends | your reps are done. | That number? | Write it down. | Most skinny guys | land under TWENTY-FIVE. | That was ONE minute. | Imagine it daily. | For four weeks. | Your chest cables | keep the receipts.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "ONE MINUTE ON THE CLOCK",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "text": "KEEP THE COUNT",
+     "label": "NO REST AT TOP",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "CABLES KEEP RECEIPTS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "1 MIN",
+   "label": "THE DELIVERY LINE",
+   "sub": "under 15 in a minute: cables asleep - over 45: chest is wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line for the one-minute test. Under fifteen strict reps, your chest tendons are untrained and your strength is leaking on every press. Fifteen to thirty-five, the delivery system is building. Over forty-five strict reps in a minute, your chest cables transfer force like a trained athlete's, whatever the mirror says.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "STRENGTH IS LEAKING",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "45+ REPS",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "WHATEVER THE MIRROR SAYS",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "CHEST TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one is a pacing lesson. The first daily minutes teach your chest, shoulders and triceps to share one minute of work like a relay team instead of a traffic jam. Your early reps get faster, your breathing finds a rhythm, and the wall you used to hit at rep twelve moves to rep fifteen. Nothing has grown yet. The team just stopped tripping over itself, and that alone buys reps.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: THE RELAY TEAM",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_pushup_bottom.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THE WALL MOVES",
+     "lines": [
+      "Coordination buys the first reps."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "RHYTHM OVER PANIC",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front_top.webp",
+   "section": "CHEST TENDONS",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the cables take their share. Every press loads the tendons that tie your chest to your arms, and daily loading starts their slow remodel: fresh collagen woven into the line, stiffness rising week by week. The bottom position tells the story. It stops feeling like the rep is dying there and starts feeling like a spring being wound. Wound springs return energy, and returned energy is reps you did not have to buy with muscle.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: WIND THE SPRING",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_pushup_mid.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "BOTTOM POSITION",
+     "items": [
+      [
+       "DYING",
+       35,
+       "red"
+      ],
+      [
+       "WOUND SPRING",
+       70,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "FREE REPS FROM THE SPRING",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "CHEST TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the hidden system pays out in public. Tendon stiffness research explains what you are feeling: a stiffer cable wastes less of every contraction, so the same chest suddenly produces more push-ups. Your muscles did not transform in a month. Your delivery did. And because one minute costs almost no recovery, a skinny guy can repeat this payout daily while heavier lifters are still sore from Monday. Frequency is your unfair advantage. Spend it. And the whole experiment costs less time than brewing one coffee. Sixty seconds of honest pressing today buys a chest that delivers on every rep tomorrow, and the day after that.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "DELIVERY, NOT SIZE",
+     "lines": [
+      "Stiff cables waste less force."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pushup_front.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "FREQUENCY",
+     "label": "IS THE UNFAIR ADVANTAGE",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "SPEND IT DAILY",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pushup_mid.webp",
+   "exercise": "PUSH-UPS",
+   "work": 60,
+   "rest": 0,
+   "rounds": 1,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now your minute. Strict reps, full range, small sets if you need them. Count everything. Day one starts now. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_45_mid.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is one daily minute with strict rules. Break it into sets that end two reps before failure, rest briefly, and keep your line hard. Rotate nothing for the first month: same floor, same hand position, same time, so the only variable is you. When the minute feels easy, slow the lowering to three seconds and watch it become hard again. Progress is a dial, not a leap, and tendons prefer the dial every time.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "END 2 REPS EARLY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO SAGGING LINE",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "SLOW THE LOWERING",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_tabletop_press.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "A DIAL, NOT A LEAP",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your one-minute number, judged. Under fifteen: leaking cables, and the fastest delivery upgrade of your life is available this month. Fifteen to thirty-five: the build zone, where week three usually breaks forty. Over forty-five: a wired chest, so chase fifty-five and slower reps. Retest on day twenty-eight, same rules, full minute, and comment your new number. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_pushup_top.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "SAME RULES, FULL MINUTE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Sixty seconds a day is the whole price of a wired chest. Start tomorrow, press strict, and let the minute compound into a number that shocks you. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "SIXTY SECONDS A DAY",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

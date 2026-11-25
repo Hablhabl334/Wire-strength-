@@ -1,0 +1,347 @@
+{
+ "id": "431",
+ "v5": true,
+ "title": "The wall sit Habit Nobody Trains (It Builds Your knee tendons)",
+ "description": "The wall sit looks like a school punishment, but it is one of the best knee tendon builders ever tested. Here is what a daily wall sit does across four weeks, and the time that tells you where your knees really stand.",
+ "tags": [
+  "wall sit",
+  "knee tendons",
+  "isometrics",
+  "patellar tendon",
+  "knee strength",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "wall sit",
+  "daily wall sit",
+  "knee strength",
+  "isometrics",
+  "tendon training",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 431 - THE WALL SIT HABIT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "KNEE TENDONS",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_wall_sit.webp",
+  "big": "60 SEC",
+  "hook": "THE WALL SIT TEST",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a wall. Slide down until your knees are bent at a right angle, thighs parallel to the floor, back flat against the wall. Now start the clock and simply stay. No hands on your thighs, no sliding up when it burns. The second you quit or slide, stop the clock. That time is your number. Write it down. Most skinny guys are shocked how fast the shaking starts, and that shaking is exactly the story of this episode.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "BACK FLAT, KNEES AT 90",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "START THE CLOCK",
+     "label": "NO HANDS ON THIGHS",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "text": "THE SHAKE IS DATA",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "60 SEC",
+   "label": "THE UNTRAINED LINE",
+   "sub": "under 30 sec: cables asleep - over 2 min: knees are wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. Under thirty seconds, your knee tendons are untrained, and the shake you felt is an unpracticed system, not a broken one. Thirty to ninety seconds, you are building. Over two minutes at a clean right angle, your knees carry cables that sprinters would respect, built entirely against a wall.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "UNPRACTICED, NOT BROKEN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "2+ MIN",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "BUILT AGAINST A WALL",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "KNEE TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one is a nerve story again. The wall sit asks your thigh muscles to fire hard without moving, and your nervous system has to learn to hold that fire steady. The shaking is your brain sending the signal in bursts instead of a smooth stream. Daily practice smooths the stream fast. By day six the first twenty seconds feel calm, and calm under load is the first form of strength.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: SMOOTH THE SIGNAL",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_wall_sit_front.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "SHAKING IS A BURST SIGNAL",
+     "lines": [
+      "Your nerves learn to fire smoothly."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "CALM UNDER LOAD",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "KNEE TENDONS",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the tendon itself joins in. Isometric holds are famous in tendon research because long, steady tension is the exact signal that tells a tendon to remodel and stiffen. The patellar tendon, the cable that links your thigh to your shin, gets that signal every single day you sit. Your hold time climbs, but the deeper change is invisible: the cable is being rebraided to carry more of you with less complaint. The wall does not care about your genetics or your gym history. It only reports the truth, one second at a time.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: THE REBRAID",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_wall_sit_front.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "HOLD TIME",
+     "items": [
+      [
+       "WEEK 1",
+       30,
+       "red"
+      ],
+      [
+       "WEEK 2",
+       55,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "STEADY TENSION IS THE SIGNAL",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "KNEE TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the mechanism is complete. A stiffer patellar tendon transfers your thigh's force into the ground faster, which is why wall sit people notice their stairs, squats and jumps all feel easier at once. The tendon is shared equipment: build it in one exercise and every movement that uses your legs withdraws the upgrade. And for a skinny guy, whose knees carry less bodyweight, the wall sit is heavy training without a single plate. If knee pain is sharp or keeps coming back, see a professional if it persists instead of pushing through.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "SHARED EQUIPMENT",
+     "lines": [
+      "One tendon upgrades every leg movement."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_wall_sit.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "HEAVY TRAINING",
+     "label": "ZERO PLATES",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "UPGRADE WITHDRAWN EVERYWHERE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_wall_sit.webp",
+   "exercise": "WALL SIT",
+   "work": 45,
+   "rest": 15,
+   "rounds": 2,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now sit with me. Back flat, knees at ninety, breathe slow. Forty-five seconds, twice. The shake is welcome here. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit_front.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is one honest hold a day. Slide to a true right angle, and sit until the shake becomes a shout, then stop with ten seconds left in the tank. Add five seconds a week, not a day, because tendons remodel on a weekly clock. Keep your knees tracking over your feet, and breathe out slowly to stay calm under the burn. If one knee complains more than the other, note it. Data today is a diagnosis tool tomorrow.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "STOP 10 SEC EARLY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO SLIDING UP",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "+5 SEC PER WEEK",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_wall_sit.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "BREATHE OUT SLOW",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your number, judged. Under thirty seconds: asleep cables, and the fastest month of knee progress you will ever have. Thirty to ninety: the build zone, where week three usually breaks the minute barrier. Over two minutes: wired knees, so chase a deeper angle instead of more time. Retest on day twenty-eight against the same wall and comment your new time. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_wall_sit_front.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "SAME WALL, SAME ANGLE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_wall_sit.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "A wall, a clock, and one honest hold a day. That is the whole gym your knees asked for. Start tomorrow, sit deep, and let the quietest exercise you know rebuild your cables. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "ONE HONEST HOLD",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

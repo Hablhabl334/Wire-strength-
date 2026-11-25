@@ -1,0 +1,338 @@
+{
+ "badge": "EP 480 - THE DAILY STAIRS TEST",
+ "category": "whathappens",
+ "checklist": [
+  "THE TEST",
+  "THE TIMELINE",
+  "THE MECHANISM",
+  "YOUR VERDICT"
+ ],
+ "description": "Your weaker leg is hiding. The one-minute single-leg step-up test exposes it, then daily stairs go to work: week one wakes the balance, week two loads it, week four evens you out. Here is the test, the timeline, and the simple daily rule.",
+ "hashtags": [
+  "single leg strength",
+  "stairs workout",
+  "leg power",
+  "balance",
+  "daily habit",
+  "calisthenics"
+ ],
+ "id": "480",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "USE YOUR WEAKER LEG"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "label": "NO HANDS, NO PUSH-OFF",
+     "pos": "br",
+     "text": "60 SEC"
+    },
+    {
+     "at": 11,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE STEP, OVER AND OVER"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT COUNT IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "One step. | One leg. | Your weaker leg. | Set a timer | for sixty seconds. | Step up fully, | stand tall, | step back down. | That is one. | No hands pushing. | No help from | the bottom leg. | Count clean reps only. | Wobbling still counts, | quitting does not. | When time ends, | that count | is your number. | Keep it close. | Your daily stairs | are about to | rewrite it.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "15 = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "ONE LEG, NO EXCUSES",
+     "pos": "br",
+     "text": "20+"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WEAK SIDE = HEADROOM"
+    }
+   ],
+   "big": "15 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "CLEAN SINGLE-LEG REPS IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifteen clean step-ups in a minute, on your weaker leg, no hands, means that leg can carry your whole body like it means it. Under ten, the weak side is running a deficit your strong side covers every day. Over twenty, you own single-leg strength most two-leg squatters never build. A small number here is not bad news. It is headroom, and headroom is where the fast gains live.",
+   "section": "THE NUMBER",
+   "sub": "under 10: the weak side hides - over 20: one-leg engine",
+   "type": "card"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WEEK 1: THE WOBBLE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "BALANCE JOINS THE TEAM",
+     "pos": "br",
+     "text": "DAY 6"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "WOBBLE IS DATA"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Week one of daily stairs, your weak leg files a complaint. It wobbles on the way up, lands heavy on the way down, and burns twice as fast as the strong side. By day six the wobble quiets. Nothing grew yet. Your balance system, the small stabilizers around the ankle and knee, finally got invited to work. Daily stairs did that, because every flight forces the weak leg to lead half the steps instead of hiding behind its partner.",
+   "section": "WEEK ONE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WEEKS 2-4: IT EVENS OUT"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "WEAK LEG WK 1",
+       9,
+       "red"
+      ],
+      [
+       "WEAK LEG WK 4",
+       16,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CLEAN REPS, WEAK LEG"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TWO LEGS, ONE STANDARD"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, you start leading with the weak leg on purpose, and the flights stop feeling lopsided. Week four, you retest, and the leg that managed nine clean reps now gives you fifteen, sometimes more. The strong leg barely changed. It did not need to. What changed is the gap, and the gap was the injury risk, the limp in your jump, the reason one knee always complained first. Daily stairs did not just add power. They evened the machine out.",
+   "section": "WEEK FOUR",
+   "type": "art"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Two-leg moves hide weak legs.",
+      "Stairs audit them daily."
+     ],
+     "pos": "tr",
+     "title": "NOWHERE TO HIDE"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ANKLE AND KNEE STABILIZERS"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BALANCE IS STRENGTH"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The mechanism is exposure. In a normal squat, your strong leg quietly does fifty five percent of the work, forever, and the weak leg retires early. Stairs audit that arrangement. Every step up is a single-leg event: one ankle stabilizes, one knee tracks, one glute lifts the whole body. There is no partner to borrow force from. Do that hundreds of times a week and the stabilizers around the knee and ankle get strong in a way gym machines never ask for. Balance stops being a talent and becomes what it always was: strength, distributed honestly.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "check": 3,
+   "exercise": "SINGLE-LEG STEP-UPS",
+   "music": "drive",
+   "narration": "Step up with me. Forty seconds on the weak leg, tall chest, no hands. Count the clean ones. This is the test and the training in the same minute. Go.",
+   "rest": 20,
+   "rounds": 2,
+   "section": "THE PROTOCOL",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEAD WITH THE WEAK LEG"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EVERY FLIGHT, EVERY DAY"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ALWAYS LEADING STRONG"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "THE RULE THAT EVENS YOU",
+     "pos": "br",
+     "text": "WEAK FIRST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is one rule added to your stairs. Lead with the weak leg. First step of every flight, weak side. It feels awkward for three days and automatic by week two. Take every staircase you meet, skip the elevator, and once a week do the one-minute test on a single step to watch the count. No equipment, no session to schedule. Your building, your station, your home stairs are already the gym. The only membership rule is weak leg first.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 10: THE GAP IS REAL"
+    },
+    {
+     "asset": "ren_split_squat_top.webp",
+     "at": 7,
+     "kind": "swap"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR REPS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under ten clean reps: the gap between your legs is real, and it is the most fixable thing in your training. Ten to fifteen: the weak side works, now it needs the daily reps to catch up. Over fifteen: both legs report to the same standard, and that is rare. Retest in thirty days, weak leg, same step, same minute. Put your reps in the comments. Just the number. The weak leg always tells the truth first. And notice what the test really gave you: not a grade, but a map. The weak leg is not an embarrassment to hide. It is the exact address where your next month of progress lives, and now you know it.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WEAK LEG FIRST"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW COUNT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Two legs, one standard. Lead with the weak one for a month and watch the gap close itself. Subscribe, and bring me your new count in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "single leg step up",
+  "stair climbing",
+  "leg power",
+  "weak leg",
+  "balance training",
+  "daily stairs",
+  "calisthenics"
+ ],
+ "thumb": {
+  "accent": "cyan",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "15 REPS",
+  "hook": "ONE LEG ONLY"
+ },
+ "title": "If You take the stairs Daily, This Happens to Your leg power",
+ "v5": true
+}

@@ -1,0 +1,393 @@
+{
+ "id": "515",
+ "v5": true,
+ "title": "Why Your ankle and knee leverage Matter More Than Muscle (The pistol squat Episode)",
+ "description": "Why do your ankle and knee leverage matter more than muscle? Because the pistol squat, and most of athletic life, is priced by two joints, not by thigh size. Take the depth test, then learn why the levers decide what the muscle is allowed to do.",
+ "tags": [
+  "pistol squat",
+  "ankle leverage",
+  "knee leverage",
+  "why leverage matters",
+  "single leg strength",
+  "mobility vs strength",
+  "calisthenics legs"
+ ],
+ "hashtags": [
+  "pistol squat",
+  "ankle leverage",
+  "knee leverage",
+  "leverage over muscle",
+  "single leg strength",
+  "calisthenics legs"
+ ],
+ "category": "skills",
+ "badge": "EP 515 - WHY PISTOL LEVERAGE WINS",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MECHANISM",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_squat_bottom.webp",
+  "big": "1 REP",
+  "hook": "LEVERAGE BEATS MUSCLE",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand on one leg, | free leg straight | out in front. | Arms forward. | Squat down slowly | on the standing leg, | heel down, | as deep as you | honestly can, | and pause at the bottom. | Stand back up | without help. | Grade your depth | and write it down: | quarter, half, | hamstring to calf, | or the full rep | and back up. | Weaker leg decides. | That depth | is your number. | Keep it. | Today is not about | fixing the squat. | Today is about | why two small joints | decide everything | the big muscles | want to do, | and why your depth | is really a report | on leverage, | not on effort.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "HEEL DOWN, PAUSE AT BOTTOM",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "DEPTH",
+     "label": "A REPORT ON LEVERAGE",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEAKER LEG DECIDES",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THAT DEPTH IS YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "1 REP",
+   "label": "FULL DEPTH, HEEL DOWN, IS THE LINE",
+   "sub": "half depth: a lever is capped - 3+ reps: certified",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. One full pistol on each leg, heel down, paused at the bottom, stood up clean, is certified ankle and knee leverage. Half depth is the most interesting score in this test, because it usually means one lever is capped while the other has room to spare, and training the wrong one is a year spent knocking on a locked door. Three clean reps per leg means both levers are open and paying. Hold the two ideas separately from today onward: strength is how much force your muscles can make, and leverage is how much of that force the position allows you to spend. The pistol grades the second number and reports it as depth. A man can double his leg press and gain zero centimeters of pistol, because the press trains the engine while the pistol examines the transmission. Your number today is a transmission report. Read it that way, and it stops being an insult and becomes a diagnosis.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "1 FULL REP EACH LEG = THE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "ENGINE vs",
+     "label": "TRANSMISSION",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "A DIAGNOSIS, NOT AN INSULT",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ankle_ligament_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the ankle first, the gatekeeper. Full depth on one leg demands that your knee travel far past your toes, and that travel is purchased with dorsiflexion, the shin folding toward the foot. Every degree of dorsiflexion you own is a degree of depth you are allowed to enter with your heel down and your balance intact. Run out, and the body must choose: lift the heel and shorten the exam, cave the knee and pay sideways, or stop descending. Now look at the knee, the cashier. At full depth, the knee is bent near its maximum while carrying your whole body on one leg, and the torque at that joint, bodyweight times its distance from the joint's line, is the largest bill in all of bodyweight leg training. The quadriceps pay it through the patellar tendon, a cable working at a miserable mechanical angle. Gatekeeper and cashier: the ankle decides whether you may shop at depth, and the knee decides what depth charges you. Muscle is just the wallet both of them empty.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "GATEKEEPER + CASHIER",
+     "lines": [
+      "Ankle allows the depth.",
+      "Knee charges for it."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "knee_anatomy_plate.webp"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "MUSCLE IS JUST THE WALLET",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "LEVERAGE DECIDES THE SPENDING",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Here is the experiment that proves the point, and you can run it in your kitchen. Do a pistol with your heel raised on a thick book. Suddenly the depth is there, or nearly: the book lent you the dorsiflexion your ankle has not yet built, and the gatekeeper waved you through. Now do one facing uphill on a slope and the same loan appears. Nothing about your muscles changed between breakfast and the book. Only the leverage changed, and the skill appeared and disappeared with it. This is why leverage matters more than muscle in this family of movements: muscle sets your ceiling in theory, but leverage sets your access in practice, today, at this depth, in this position. The encouraging half of the lesson is that leverage is trainable on a faster clock than muscle. Ankle range responds to daily loaded stretching in weeks. Knee strength at depth responds to box squats at honest depths in a month or two. The wallet takes years to fill. The gate and the till can be fixed by spring.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE BOOK TEST: INSTANT DEPTH",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "bars",
+     "title": "WHAT CHANGED?",
+     "items": [
+      [
+       "MUSCLE",
+       0,
+       "red"
+      ],
+      [
+       "LEVERAGE",
+       100,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "ACCESS BEATS CEILING",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_toe_raise.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_toe_raise.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The two-lever audit takes one minute and should open every pistol session this month. Knee-to-wall first: measure your dorsiflexion in centimeters and write it down. Then five box pistols per leg to a chair at your honest depth, pausing on the seat. The audit tells you which lever is capping you this week, and the session trains that lever instead of your ego. Athletes who audit progress in a straight line. Athletes who guess progress in a circle, and circles, however sweaty, return to the same depth.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE 1-MINUTE AUDIT",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "CM + REPS",
+     "label": "MEASURE BOTH LEVERS",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "TRAIN THE CAP, NOT THE EGO",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "STRAIGHT LINES BEAT CIRCLES",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_mid.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage is that leverage improvements are bodyweight-independent, and they are worth more to you than to anyone. The big man's pistol problem is a maximum-strength problem: his knee bill at depth is enormous, and his wallet must be huge before the cashier lets him through. Your bill is moderate, so once your gatekeeper opens, your existing strength is suddenly sufficient, and the skill arrives all at once, the way skills do when the last locked door opens. Light athletes also recover from depth training faster, which means more honest reps per week at the exact angles the test grades. And the transfer is the real prize. Ankle range and deep knee strength are the substrate of sprinting, landing, cutting, and climbing. You are not buying a party trick with this training. You are buying the two levers every athletic movement you will ever do is priced in.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "YOUR BILL IS MODERATE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "ALL AT ONCE",
+     "label": "HOW SKILLS ARRIVE",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "THE SUBSTRATE OF ATHLETICS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_squat_top.webp"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_bottom.webp",
+   "exercise": "PISTOL NEGATIVES",
+   "work": 30,
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Lower with me. One leg, heel down, five seconds to your honest depth, pause, stand. Gatekeeper open, cashier paid, one rep at a time. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ankle_ligament_plate.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "narration": "Here is the protocol the mechanism demands. Audit monthly: knee-to-wall centimeters and honest depth, both legs, written down, because leverage gains are quiet and only records can hear them. Train the cap, not the strength: if the wall test is short, the month belongs to ankle work with pistols as the weekly check; if the ankle is open and depth still fails, the month belongs to box pistols and negatives at depth. Use the heel lift as a tool, not a lie: a book under the heel during strength work is honest scaffolding while the ankle trains separately, and it comes out as the wall test grows. And keep the descent slow and the pause real, because the cashier charges for control and the bounce pays nothing. The monthly shape: daily ankle minutes, two depth sessions a week, one audit. Leverage first, and the muscle you already have becomes worth twice as much without growing a gram.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "TRAINING THE WRONG LEVER",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "HEEL LIFT AS A LIE",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "BOUNCING OUT OF DEPTH",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "NEVER AUDITING",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "YOUR MUSCLE, WORTH DOUBLE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_bottom.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your depth, read as a diagnosis. Half depth with a lifting heel: the gatekeeper is capped, and ankle work is your highest-paid hour this month. Full depth on a book but not on the floor: the loan works, now build the real range behind it. One clean full rep per leg on the bare floor: both levers are open, your leverage is certified, and reps are now a strength question, the easy kind. Retest in thirty days with the audit attached: centimeters at the wall and depth on the floor, both written down. Put your depth in the comments, and your wall centimeters next to it if you measured them. Two numbers, one diagnosis. The pistol was never asking how strong you are. It was asking whether your levers let your strength out, and levers, unlike genetics, answer to training.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "READ IT AS A DIAGNOSIS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_split_squat_bottom.webp"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_top.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Muscle is the wallet. Leverage decides the spending. Open the gate, pay the cashier, and the depth is yours. Subscribe, and bring me your new numbers in thirty days. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "LEVERAGE DECIDES",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "BRING ME BOTH NUMBERS",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "SEE YOU AT THE RETEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

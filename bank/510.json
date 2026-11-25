@@ -1,0 +1,392 @@
+{
+ "id": "510",
+ "v5": true,
+ "title": "Stop Doing muscle-up transition Wrong: Train Your elbow leverage Instead",
+ "description": "Pull high, roll your chest over the bar, and press out. Your transition test counts the strict muscle-ups you can do with no kip and no rest on the bar. The transition is where muscle-ups go to die, and it is a leverage problem, not a strength problem. Here is the fix.",
+ "tags": [
+  "muscle-up transition",
+  "strict muscle up",
+  "elbow leverage",
+  "muscle up technique",
+  "false grip",
+  "calisthenics skills",
+  "bar muscle up"
+ ],
+ "hashtags": [
+  "muscle up",
+  "transition",
+  "elbow leverage",
+  "strict muscle up",
+  "calisthenics skills",
+  "bar skills"
+ ],
+ "category": "skills",
+ "badge": "EP 510 - TRANSITION DONE RIGHT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE FIX",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pullup_top.webp",
+  "big": "1 REP",
+  "hook": "STOP DOING IT WRONG",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Grab the bar, | false grip if you can, | knuckles over the bar. | Hang dead still. | Now pull as high | as you can, | chest toward the bar, | and without kipping, | without swinging, | roll your chest | over the bar | into the bottom | of a dip. | Press it out. | That is one. | Count your strict reps | before your form breaks: | the first chicken-wing, | one arm sneaking over | before the other, | ends the test. | That clean count | is your number. | Zero is a number. | Keep it. | The transition is | where muscle-ups die, | and by the end | you will know why | it is leverage, | not strength, | that kills them.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "FALSE GRIP, DEAD HANG",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "STRICT",
+     "label": "NO KIP, NO SWING",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "CHEST ROLLS OVER THE BAR",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THAT COUNT IS YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "1 REP",
+   "label": "STRICT AND CLEAN IS THE LINE",
+   "sub": "0 strict: the transition is unbuilt - 5+: strict set certified",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. One strict muscle-up, dead hang to support, no kip, no chicken-wing, no resting your chest on the bar to negotiate, is certified elbow leverage. Zero strict reps with strong pull-ups is the most common score in calisthenics, and it is not a strength verdict; it is a position verdict. Five strict reps in a row puts you in rare company, because each rep must pass through the weakest position in pulling with no momentum to smuggle you through. Understand the grading: the test does not ask how high you can pull. Plenty of athletes pull to their upper chest and own zero muscle-ups. It asks whether you can convert a pull into a press through the few centimeters where your elbows must travel around the bar. That conversion is the transition, it is the whole skill, and it is measured in reps that survive it without cheating. Your number is your conversions, not your pulls.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "1 STRICT REP = THE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "5+",
+     "label": "RARE COMPANY",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "CONVERSIONS, NOT PULLS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "elbow_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the elbow. A pull-up ends with your elbows pointing down and back, your hands at your chest. A dip begins with your elbows pointing up and back, your hands under your shoulders. The transition is the rotation between those two worlds, and your elbow is the hinge that must travel around the bar while carrying your bodyweight at its worst leverage of the entire movement. At the deepest point of the transition, your forearms are nearly horizontal, your elbows are bent near ninety degrees behind the bar, and the torque trying to fold you back down is at its maximum while your muscles are at their least favorable angle. This is why the transition feels like a wall. It is a wall, built by geometry. Strength gets you to the wall. Leverage, grip position, and the path your chest takes over the bar are the door. Most athletes spend a year pushing on the wall because nobody showed them the door has a handle, and the handle is the false grip.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "THE ELBOW MUST TRAVEL",
+     "lines": [
+      "Pull ends elbows-down.",
+      "Dip starts elbows-up."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_dip_bottom.webp"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "MAX TORQUE, WORST ANGLE",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THE FALSE GRIP IS THE HANDLE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The false grip deserves its own minute, because it is the transition's cheat code that is not a cheat. By setting your wrist over the bar, knuckles pointing back, you pre-rotate your forearm into the dip position before the pull even starts. The elbow's journey around the bar shrinks dramatically, and the worst angle of the transition becomes survivable. Compare the two grips honestly. The regular grip asks your elbow to travel the full rotation under maximum load, a journey most shoulders refuse. The false grip pays a small tax, a harder hang and a stranger pull, and deletes the hardest third of the transition entirely. This is not a trick to be embarrassed about. It is how the skill was performed for a century of gymnastics, and it is a lesson this whole season teaches: when geometry builds a wall, the answer is rarely more force. The answer is a better position, purchased in advance.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "PRE-ROTATE THE FOREARM",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "bars",
+     "title": "THE ELBOW'S JOURNEY",
+     "items": [
+      [
+       "REGULAR GRIP",
+       100,
+       "red"
+      ],
+      [
+       "FALSE GRIP",
+       65,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "POSITION BEATS FORCE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dip_top.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The drill that teaches the door is the slow transition negative. Jump or climb to the support position above the bar, then lower yourself through the transition as slowly as you can, chest glued to the bar, until you reach a dead hang. Five seconds down is a great rep. The negative visits the wall's exact coordinates with your full bodyweight, at a price your current strength can pay, and it engraves the path your chest must take on the way up. Four negatives, three times a week. When the negative passes the wall without dropping, the first strict rep is no longer a mystery. It is a memory your body already owns, played in reverse.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "TRANSITION NEGATIVES",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "4 REPS",
+     "label": "THREE TIMES A WEEK",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "THE PATH, ENGRAVED",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "CHEST GLUED TO THE BAR",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage is momentum's opposite: you do not have much mass, and the strict muscle-up is the one pulling skill where mass is pure cost. The kip exists to smuggle heavy bodies through the transition with swing. You do not need the smuggling. A light body with a false grip and an engraved path can pass the wall on technique alone, which is why strict muscle-ups cluster among lean athletes in every training park on earth. There is a compounding benefit too. The strict rep is also the safest rep: no swing to time, no violent catch at the top, no shoulder yanked by a mistimed kip. Your muscle-ups can be practiced often, in small sets, for years. The skill that the heavy guy must peak for, you can simply own, the way you own a staircase. Relative strength, position, and patience: this season's whole portfolio, cashed in a single rep.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "MASS IS PURE COST HERE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "STRICT",
+     "label": "THE LEAN ATHLETE'S REP",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "OWN IT LIKE A STAIRCASE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_dip_bottom.webp"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pullup_top.webp",
+   "exercise": "TRANSITION NEGATIVES",
+   "work": 20,
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Above the bar with me. Support position, chest to the bar, and lower through the transition as slowly as you can for these twenty seconds. Reset at the top each time. Go."
+  },
+  {
+   "type": "art",
+   "asset": "elbow_anatomy_plate.webp",
+   "section": "THE FIX",
+   "check": 3,
+   "music": "calm",
+   "narration": "Here is the fix. Stop adding pull-ups and expecting a muscle-up. The pull was never the missing piece; the conversion is, and conversions are trained by negatives, false-grip hangs, and straight-bar dips, not by a fifteenth pull-up. Stop chicken-winging. One elbow sneaking over first is not a rep, it is an injury rehearsal for the shoulder left behind, and it ends the set the moment it appears. Stop kipping and calling it strict. The kip is a different, legitimate skill; lying about which one you trained is how athletes spend a year at zero. And stop resting your sternum on the bar mid-rep to rest. The transition must be passed in one motion, or the tissue that passes it never gets trained. The weekly shape: two sessions, false-grip hangs, transition negatives, and straight-bar dips, every rep honest. The wall has a door. Train the door.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "MORE PULL-UPS, SAME ZERO",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "THE CHICKEN-WING",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "KIPPING, CALLED STRICT",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "RESTING ON THE BAR",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "TRAIN THE DOOR",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your number. Zero strict reps: the transition is unbuilt, and negatives plus false-grip work are your whole program, proudly. One to four: the door is open and your job is volume at perfect form. Five or more strict: your elbow leverage is certified, and weighted or ring muscle-ups are legitimate next seasons. Retest in thirty days, dead hang start, filmed from the front, because chicken-wings are invisible from behind and deniable from memory. Put your number in the comments. Just the number, strict reps only. The transition grades your honesty as much as your strength, and it can tell the difference even when your friends cannot.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "ZERO: THE DOOR IS UNBUILT",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_dip_top.webp"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_mid.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Strength gets you to the wall. Position opens the door. That is the muscle-up. Subscribe, and bring me your new number in thirty days. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "POSITION OPENS THE DOOR",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "BRING ME THE NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "SEE YOU AT THE RETEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,367 @@
+{
+  "id": "464",
+  "v5": true,
+  "title": "Do This Every Morning: What pull-ups Does to Your back tendons",
+  "description": "Pull-ups before breakfast. The skinny guy's secret weapon, aimed at the tendons of the back. Take the pull-up test, get your number, and see what four weeks of morning pull-ups does to those cables.",
+  "tags": [
+    "pull-ups",
+    "back tendons",
+    "pull-up test",
+    "morning routine",
+    "what happens",
+    "calisthenics",
+    "tendon training"
+  ],
+  "hashtags": [
+    "pull-up test",
+    "pull-ups",
+    "back tendons",
+    "morning routine",
+    "what happens",
+    "calisthenics"
+  ],
+  "category": "whathappens",
+  "badge": "EP 464 - PULL-UPS EVERY MORNING",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "WEEK BY WEEK",
+    "THE VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_pullup_top.webp",
+    "big": "5 REPS",
+    "hook": "THE SKINNY WEAPON",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pullup_mid.webp",
+        "ren_pullup_top.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Grab the bar. | Palms away. | Dead hang start. | Pull chin over. | Lower down fully. | Count clean reps only. | That count is your NUMBER. | Write it down. | Pull-ups every morning | is the habit on trial. | What do they do | to your BACK TENDONS? | Your lats hang on cables. | Week one pulls gently. | Week four pulls hard. | At the end | I grade your number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DEAD HANG START",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "CLEAN REPS ONLY",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "THAT COUNT IS YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "LATS HANG ON CABLES",
+          "lines": [
+            "The cables take the load."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "WEEK FOUR PULLS HARD",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "5 REPS",
+      "label": "THE LINE BETWEEN ZERO AND WIRED",
+      "sub": "0-1: untrained cables - over 10: elite for your weight",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Five clean pull-ups is where a normal back becomes a trained one. At zero or one, your back tendons are not weak, they are uninvited, and mornings are about to invite them daily. Over ten, you are in rare air for any bodyweight. Today is the coordinate. The morning bar is about to move it, one clean rep at a time.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "UNINVITED, NOT WEAK",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "5 CLEAN = TRAINED",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "10+",
+          "label": "RARE AIR",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "ONE CLEAN REP AT A TIME",
+          "lines": [
+            "The bar keeps count."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_mid.webp",
+      "section": "WEEK ONE",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week one pulls gently, whether you want it to or not. Your first morning set is ugly. Half reps, swinging, a chin that negotiates with the bar. By day five the swing dies. Your body learns that stillness is cheaper than momentum, and the deep ache settles into your lats and the backs of your arms. That ache is the cables clocking in for their new job.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 1: UGLY REPS",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "swap",
+          "asset": "ren_pullup_top.webp"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "DAY 5",
+          "label": "THE SWING DIES",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "CABLES CLOCKING IN",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "WEEK FOUR",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week two, the first rep of the morning becomes a formality. You walk up, pull, and it is simply there. Week three, the bottom of the rep changes. Instead of hanging loose, you feel wound, loaded, like the tendons are pre-tensioned springs. Week four, retest your max. Most skinny guys add two to four clean reps in a month of mornings, because light bodies and daily bars are a rigged game. A quiet word about the doorway bar, because it decides everything. The best bar is not the strongest or the prettiest. It is the one you walk under twelve times a day, because pull-up tendons are built by frequency wearing a disguise of convenience. Move the bar to your life, and your life becomes the programme. Move your life to the bar, and the programme dies by Friday.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WEEK 2: FIRST REP IS FREE",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+2-4",
+          "label": "CLEAN REPS IN MONTH ONE",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pullup_mid.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "A RIGGED GAME",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE MECHANISM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Your lats are enormous muscles, but they do not grab the arm bone with muscle. They hand their force to broad tendons, and your elbow flexors do the same through smaller cables. Every pull-up hangs your entire bodyweight from that tendon network. Loaded daily, the network weaves fresh collagen and stiffens, so more of your strength arrives at the bar instead of leaking into stretch. The muscle is the engine. The tendons are the drivetrain. Elbows keep the other ledger in this story. The cables crossing your elbow carry every rep, and they prefer the daily half-max sets to any heroic testing. If your inner elbow ever starts talking during this month, listen early, drop to negatives for a week, and let the tissue catch up. Tendons reward the patient and invoice the proud.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "ENGINE AND DRIVETRAIN",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "FORCE HANDS OFF TO TENDON",
+          "lines": [
+            "Daily load weaves collagen.",
+            "Less leak, more pull."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "shoulder_anatomy_plate.webp"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "FORCE THAT REACHES THE BAR",
+          "items": [
+            [
+              "LOOSE CABLES",
+              70,
+              "grey"
+            ],
+            [
+              "STIFF CABLES",
+              95,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pullup_mid.webp",
+      "exercise": "PULL-UPS",
+      "work": 30,
+      "rest": 20,
+      "rounds": 2,
+      "section": "THE HABIT",
+      "check": 2,
+      "music": "drive",
+      "narration": "Pull with me. Clean reps, full hang at the bottom, no swing. Quality is the dose. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The protocol: every morning, do half your max in clean reps, twice, with breakfast between the sets if you like. A doorway bar removes every excuse ever invented. The mistake is kipping, throwing your knees at the ceiling and calling the chaos a rep. The other mistake is never fully straightening your arms. The tendon trains hardest at full stretch, so visit it every rep.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "HALF YOUR MAX, TWICE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "KIPPING",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "DOORWAY BAR = NO EXCUSES",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "FULL STRETCH EVERY REP",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_mid.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Zero to one: uninvited cables, and your first clean five will feel like a promotion. Two to five: the drivetrain is engaging. Over five: you are wired, and mornings will keep the springs wound. Retest on day thirty, morning, dead hang start, no swing. Put your number in the comments. Just the number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 30: NO SWING",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+2-4",
+          "label": "REPS WAITING FOR YOU",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pullup_top.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty mornings from now the bar will feel like it pulls back. Subscribe, and we retest together. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY 30 RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "THE BAR PULLS BACK",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

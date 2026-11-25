@@ -1,0 +1,352 @@
+{
+ "id": "428",
+ "v5": true,
+ "title": "The squats Habit Nobody Trains (It Builds Your leg tendons)",
+ "description": "Everyone skips bodyweight squats, and everyone is wrong about why they matter. Here is what a daily squat habit does to your leg tendons across four weeks, why your squat number is a cable test, and the simple protocol that builds it.",
+ "tags": [
+  "squats",
+  "squat training",
+  "leg tendons",
+  "tendon training",
+  "calisthenics",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "squats",
+  "daily squats",
+  "leg workout",
+  "tendon training",
+  "calisthenics",
+  "bodyweight training"
+ ],
+ "category": "whathappens",
+ "badge": "EP 428 - THE SQUAT HABIT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "LEG TENDONS",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_squat_bottom.webp",
+  "big": "30 REPS",
+  "hook": "YOUR LEG NUMBER",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand tall. | Feet shoulder width. | Sit down deep. | Hips below knees. | Stand back up. | That is ONE. | Keep going. | Heels stay down. | Chest stays proud. | No bouncing. | Stop at failure. | Count the reps. | That number? | Write it down. | Most skinny guys | quit under THIRTY. | One minute a day | for four weeks | rewires those legs. | Stay for the timeline.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "NO WEIGHTS NEEDED",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "stat",
+     "text": "COUNT THEM ALL",
+     "label": "DEEP REPS ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "4 WEEKS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "30 REPS",
+   "label": "THE UNTRAINED LINE",
+   "sub": "under 15: cables asleep - over 60: legs are wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line for your legs. Under fifteen deep squats, your leg tendons are untrained, not weak, and untrained cables are the fastest to change. Fifteen to forty, you are building. Over sixty smooth reps, your legs carry cables that most gym members never develop, because nobody trains the boring daily work.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "UNTRAINED, NOT WEAK",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "60+ REPS",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "BORING WINS",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "LEG TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one is a coordination story. Your knees wobble, your heels want to lift, and your hips forget the way down. That wobble is not weakness. It is your nervous system drawing the map of the movement. Daily reps ink the map in fast: by day five the path down feels grooved, your knees track straight, and the burn settles into your thighs where it belongs.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: DRAWING THE MAP",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_squat_mid.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "WOBBLE IS LEARNING",
+     "lines": [
+      "Your nerves map the movement first."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "KNEES TRACK STRAIGHT",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_bottom.webp",
+   "section": "LEG TENDONS",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the cables take over the story. The tendons crossing your knee and ankle absorb every landing force of your life, and each deep squat loads them under control. Tendons respond to that regular load by adding collagen and growing stiffer, like a rope being rebraided tighter. Your bounce out of the bottom changes first. It stops being a heave and becomes a spring.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: THE REBRAID",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_squat_top.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "OUT OF THE BOTTOM",
+     "items": [
+      [
+       "HEAVE",
+       35,
+       "red"
+      ],
+      [
+       "SPRING",
+       70,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "SPRING BEATS HEAVE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "LEG TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the hidden system shows itself. Strong leg tendons are why light athletes jump, cut and land without thinking twice: the cable stores energy on the way down and returns it on the way up, free power your muscles never had to make. Research on tendon training confirms stiffness rises with consistent loading over weeks. Your squat number is really a stiffness score, and a skinny guy with stiff cables moves like he weighs twenty kilos more. And none of it asks for weight on your back or a squat rack you do not own. Your bodyweight is the load, your legs are the gym, and the daily minute is the membership you never have to pay for.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "FREE POWER, STORED AND RETURNED",
+     "lines": [
+      "Tendons recycle energy every step."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_squat_bottom.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "YOUR NUMBER",
+     "label": "IS A STIFFNESS SCORE",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "MOVE HEAVIER THAN YOU LOOK",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_mid.webp",
+   "exercise": "SQUATS",
+   "work": 60,
+   "rest": 0,
+   "rounds": 1,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now your minute. Deep squats, heels down, smooth rhythm, no bouncing. Stop when the form bends. Day one starts now. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_horse_stance.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol could not be simpler. One minute of squats a day, split into sets that keep your form perfect. Go deep every rep, because the deep range is where the cables earn their stiffness. Keep your heels planted and your knees tracking over your toes. If your knees ache sharply, shorten the range and build up slowly, and see a professional if it persists. Add a few reps each week, and keep the same time of day.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "DEEP EVERY REP",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO BOUNCING",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "HEELS PLANTED",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_squat_mid.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "SAME TIME DAILY",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your starting number, judged. Under fifteen: asleep cables, and the fastest gains of your life are waiting. Fifteen to forty: the build zone, where week three usually doubles your confidence. Over sixty: your legs are wired, so guard the streak and chase depth, not just reps. Retest on day twenty-eight, same form, and comment your new number below.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_squat_bottom.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "DEPTH OVER REPS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Strong legs are not built in heroic workouts. They are built in boring minutes that nobody posts about. Start tomorrow, squat deep, and let the calendar stack your cables tighter every single week. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "BORING MINUTES WIN",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

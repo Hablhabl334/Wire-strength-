@@ -1,0 +1,382 @@
+{
+ "badge": "EP 482 - DRAGON FLAG TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVERAGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Lie down, grip behind your head, and lower your whole body like a flag coming down a pole. Your dragon flag test counts the slow, controlled lowers you own, and it exposes the truth about your core leverage: can your trunk hold one straight line while gravity pulls the long end down?",
+ "hashtags": [
+  "dragon flag",
+  "core leverage",
+  "core strength",
+  "calisthenics skills",
+  "ab training",
+  "lever test"
+ ],
+ "id": "482",
+ "scenes": [
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIE DOWN, GRIP BEHIND YOU"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "ONE STRAIGHT LINE",
+     "pos": "br",
+     "text": "LOWER"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIVE SECONDS DOWN"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT COUNT IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Here is your test. Lie on your back on a bench or the floor and grip something solid behind your head. Lift your whole body up so only your upper back touches down, legs and trunk in one straight line, like a flag raised on a pole. Now lower. Slowly. Five full seconds on the way down, body straight as a board, no bend at the hips. The moment your hips fold or you crash, that rep does not count. Count how many slow, straight lowers you can do in a row. That count is your number, and it does not care how many crunches you can do. Choose your surface honestly. A bench you can grip behind your head is the classic setup; the floor works if your hands can anchor to something immovable. A slippery grip or a sliding bench will end this test before your core does, and the number will describe your furniture instead of you. Set the stage once, properly, and every retest this year stays comparable.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 LOWERS = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "FLAG-LEVEL CORE",
+     "pos": "br",
+     "text": "5+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ZERO = STARTING LINE"
+    }
+   ],
+   "big": "3 LOWERS",
+   "card": "bignum",
+   "check": 1,
+   "label": "SLOW AND STRAIGHT IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Three slow lowers, five seconds each, body in one unbroken line, is where your core stops being a six-pack decoration and becomes a lever-rated structure. Zero clean lowers is the most common result on earth, even for men with visible abs, because this test cannot be cheated with momentum. Five or more, and your trunk holds like a plank under a load most gym cores fold against. Count honestly. A bent lower is a zero wearing a costume. A note on what counts as a lower. The rep starts at the top, body straight, and ends when your back settles to the surface with the line unbroken. Pausing halfway to rest, bouncing off the bottom, or snapping up with a hip bend all end the count. This strictness is not cruelty. It is what makes three lowers a number worth bragging about in a world full of forty-rep crunch claims.",
+   "section": "THE NUMBER",
+   "sub": "0: the fold wins - 5+: flag-level core",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Legs are the long end of the lever.",
+      "Your trunk is the pivot that pays."
+     ],
+     "pos": "tr",
+     "title": "THE LONG END PULLS"
+    },
+    {
+     "asset": "ren_plank_sag.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE FOLD IS THE FAILURE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STRAIGHT = STRONG"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Understand what is being tested. Your legs and hips are the long end of a lever, and gravity pulls that end down with your full leg weight, multiplied by distance. Your trunk is the short end that must pay the bill. The abs are not doing a crunch here. They are doing the opposite: resisting extension, holding the spine and pelvis locked as one piece while the lever tries to fold you at the hips. The famous fold, the moment your body bends like a closing jackknife, is not a technique error. It is the exact instant the lever's price exceeds what your core can pay. Your hip flexors deserve a mention here, because they get blamed for this exercise and hired by it in equal measure. As the lever descends, the flexors work eccentrically alongside the abs, metering the lowering like a second brake. When they are weak, the pelvis tips and the lower back arches to escape, which is the exact moment most people's form quietly leaves. A strong dragon flag is really a treaty between your abs, your hip flexors, and your glutes, all agreeing to keep the pelvis locked while the lever does its worst.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TUCK FIRST, STRAIGHT LATER"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "TUCKED",
+       8,
+       "cyan"
+      ],
+      [
+       "STRAIGHT",
+       3,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CLEAN LOWERS BY POSITION"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHORTEN TO SURVIVE"
+    },
+    {
+     "asset": "ren_plank_sag.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The geometry gives you the training ladder for free. Tuck your knees and the lever shortens, so the same core can suddenly manage eight clean lowers. Straighten the legs and the price more than doubles. That is why dragon flag training is a sequence of unfoldings: tuck, one leg, straddle, straight. Each version moves the weight a little further from the pivot. There is no mystery exercise hiding at the end of the road. There is only the same lever, lengthened one honest step at a time, and your core paying a slightly bigger bill each month. There is a reason coaches test the lower instead of the lift. Raising your body back up can be cheated with a swing and a hip snap. Lowering cannot. Eccentric control is the one quality that momentum cannot counterfeit, which is why this test uses the descent as the score. It is also why the training works so fast at first: five seconds of honest lowering is a stimulus your core has probably never received, and untrained systems respond to novel stimulus like rain on dry ground.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_plank_hold.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The drill that builds this fastest has an ugly name and a beautiful record: the cannonball raise. From the same anchored position, tuck your knees hard to your chest, roll your hips up until your knees point at the ceiling, then unroll slowly and lower the tucked lever as slowly as you can. It trains the exact top position and the exact eccentric brake at a price a beginner can pay. Three sets of five, twice a week, and within a month the tuck lower that felt impossible starts feeling like a warm-up. Every advanced core athlete you have ever seen owns a past full of these. There are no shortcuts around the cannonball. There is only through it.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE CANNONBALL RAISE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "3 x 5",
+     "label": "TWICE A WEEK",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "TUCK, ROLL, UNROLL SLOW",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE BUILDER DRILL",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_plank_sag.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS MASS ON THE LEVER"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LIGHT LEGS, LONG LEVER WINS",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RATIO OVER SIZE"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "And here is the skinny advantage, again. The load in this test is your own legs. Lighter legs mean a cheaper lever, which means your core reaches the straight version while bigger men are still stuck in the tuck, not because their abs are weaker, but because their lever costs more. Bruce Lee made this move famous with a lean frame, not a heavyweight one. Core leverage is a ratio game. The mirror will never show you this kind of strength. The lowering clock will. Consider what this buys you outside the skill itself. A trunk that can hold a line against a long lever is the same trunk that keeps your back safe when you lift something awkward, sprint without your pelvis wobbling, or get bumped mid-stride and stay upright. Core leverage is not a party trick with good PR. It is the operating system of every athletic thing your lower body tries to do, and the dragon flag is its most honest benchmark.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "check": 3,
+   "exercise": "DRAGON LOWER",
+   "music": "drive",
+   "narration": "Down we go, together. Thirty seconds of slow lowers, tuck if you must, straight if you can. Five seconds down, every time. This is where the flag gets built. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 SESSIONS A WEEK"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "5 SECONDS DOWN, ALWAYS"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DROPPING AND CATCHING"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "BENDING TO SURVIVE THE REP"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "UNFOLD ONE STEP A MONTH",
+     "pos": "tr",
+     "text": "LADDER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol respects the lever. Three sessions a week. Start at the hardest version you can lower in five straight seconds, even if that is the full tuck, and do four sets of three to five lowers. The rules never change: five seconds down, no fold, full stop at the bottom. When every set is clean, unfold one step, tuck to one leg, one leg to straddle, straddle to straight. If your neck or lower back complains, you went a step too far; the flag is built by patience, not by surviving ugly reps. Grip something that will not move, ever, because your hands are the anchor for the whole lever. Keep a simple log for this one: stage, sets, lowers, and the second count of your slowest rep. The slowest rep is the number that matters, because it is the one your core fully owned. When your slowest clean lower at a stage passes five seconds across three straight sessions, the next stage is not a hope anymore. It is an appointment. Show up for it with fresh abs, not the day after a heavy session.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ZERO: THE FOLD WINS TODAY"
+    },
+    {
+     "asset": "ren_plank_sag.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR LOWERS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Zero clean lowers: the lever outbids your core today, and the tuck ladder is your way in. One to three: the structure holds, now feed it volume. Over three at five honest seconds: your core leverage is genuinely elite, and the full flag is a season away, not a dream. Retest in thirty days, same grip, same five-second rule. Put your lowers in the comments. Just the number. The flag does not care about your crunch count, and now neither do you. And if your number today was zero, hear this clearly: zero is the most information-dense score on the board. It tells you your trunk has never been asked this question, which means the fastest gains of your entire training life are sitting directly in front of you, priced at a few weeks of cannonballs. People pay coaches good money to find a weakness this clear. Yours just introduced itself for free.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIVE SECONDS DOWN"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW COUNT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Shorten the lever, own the lower, unfold one step at a time. That is the whole road to the dragon flag. Subscribe, and bring me your new count in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "dragon flag",
+  "core leverage",
+  "dragon flag test",
+  "core strength",
+  "calisthenics skills",
+  "ab training",
+  "lever training"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_plank_hold.webp",
+  "big": "3 LOWERS",
+  "hook": "THE FLAG TEST"
+ },
+ "title": "Your Dragon Flag Test Reveals the Truth About Your core leverage",
+ "v5": true
+}

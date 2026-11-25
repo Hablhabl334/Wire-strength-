@@ -1,0 +1,367 @@
+{
+  "id": "470",
+  "v5": true,
+  "title": "If You do 10 pull-ups Daily, This Happens to Your back tendons",
+  "description": "Ten pull-ups a day. Not a workout, a daily toll your back tendons pay gladly. Take the pull-up test, get your number, and see what happens to the cables of your back in four weeks of daily tens.",
+  "tags": [
+    "pull-ups",
+    "back tendons",
+    "daily habit",
+    "pull-up test",
+    "what happens",
+    "calisthenics",
+    "tendon training"
+  ],
+  "hashtags": [
+    "pull-up test",
+    "10 pull-ups",
+    "back tendons",
+    "daily pull-ups",
+    "what happens",
+    "calisthenics"
+  ],
+  "category": "whathappens",
+  "badge": "EP 470 - 10 PULL-UPS DAILY",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "WEEK BY WEEK",
+    "THE VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_pullup_top.webp",
+    "big": "10 REPS",
+    "hook": "THE DAILY TOLL",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pullup_mid.webp",
+        "ren_pullup_top.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Grab the bar. | Palms away. | Dead hang start. | Pull chin over. | Lower down fully. | Count clean reps only. | That count is your NUMBER. | Write it down. | Ten pull-ups daily | is the habit on trial. | Singles, doubles, any split. | What happens | to your BACK TENDONS? | A toll, paid daily. | Week one collects. | Week four transforms. | At the end | I grade your number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DEAD HANG START",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "CLEAN REPS ONLY",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "THAT COUNT IS YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "A TOLL, PAID DAILY",
+          "lines": [
+            "Ten reps. Any split."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "WEEK FOUR TRANSFORMS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "5 REPS",
+      "label": "THE LINE BETWEEN ZERO AND WIRED",
+      "sub": "0-1: untrained cables - over 10: elite for your weight",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Five clean pull-ups is where a normal back becomes a trained one. At zero or one, ten a day sounds like a fantasy, and that is fine, because the ten are collected in singles, and singles are how backs are built. Over ten in a row, you are collecting tolls on a road you already own. Today is the coordinate.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "SINGLES BUILD BACKS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "5 CLEAN = TRAINED",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "10",
+          "label": "THE DAILY TOLL",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "ANY SPLIT COUNTS",
+          "lines": [
+            "The tendon counts total load."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_mid.webp",
+      "section": "WEEK ONE",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week one collects. Your ten reps take all day at first. Two before breakfast, two after lunch, a humbling single every time you pass the bar. Your lats ache in a deep place your mirror cannot show you. That ache is the tendon network registering a new daily contract. By Sunday the singles feel less like events and more like toll booths. Pay and pass.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SINGLES ALL DAY",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "swap",
+          "asset": "ren_pullup_top.webp"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "10",
+          "label": "REPS, HOWEVER SPLIT",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "PAY AND PASS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "WEEK FOUR",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week two, the doubles arrive. Two clean reps every pass, and the day's ten are done by dinner. Week three, you catch your back in a doorway reflection and it looks wider at the top, because the lats now hang from stiffer cables and sit higher. Week four, retest your max set. Most skinny guys turn a max of three into six or seven in a month of daily tens. The doorway toll has a compounding clause worth naming. Every rep you do makes the next day's reps cheaper, because the tissue you load today is the tissue that lifts you tomorrow. Miss a week and the toll resets to its old price, not to zero, but noticeably. The daily ten is less a workout than a subscription to a back that keeps renewing itself.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WEEK 2: THE DOUBLES",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "3 to 6-7",
+          "label": "MAX SET IN MONTH ONE",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pullup_mid.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "LATS SIT HIGHER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE MECHANISM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Tendons do not count workouts. They count loading events and total tension, and ten daily pull-ups is a masterclass in both. Every rep hangs your whole bodyweight from the lat tendons and the cables of your arms, and spreading the reps across the day means the tissue is loaded fresh, never fried. Fresh loading, daily, is the exact recipe collagen is built from. The muscle rests between reps. The tendon keeps the receipts. Grip is the silent partner in every pull-up, and it keeps its own account. If your reps die because your hands open, not because your back quits, add a thirty-second hang after your last single of the day. The back tendons and the grip tendons share the same bar and the same schedule. Feed them together and they will carry each other through the month.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "TENDONS COUNT EVENTS",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "FRESH, NEVER FRIED",
+          "lines": [
+            "Spread the load across the day.",
+            "Collagen is built from this."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "shoulder_anatomy_plate.webp"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "LOADING EVENTS PER WEEK",
+          "items": [
+            [
+              "2 WORKOUTS",
+              14,
+              "grey"
+            ],
+            [
+              "DAILY TENS",
+              70,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pullup_mid.webp",
+      "exercise": "PULL-UPS",
+      "work": 30,
+      "rest": 20,
+      "rounds": 2,
+      "section": "THE HABIT",
+      "check": 2,
+      "music": "drive",
+      "narration": "Pull with me. Singles or doubles, perfect form, full hang below. Pay the toll properly. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The protocol: ten clean pull-ups every day, spread across the day in singles and doubles, always one rep short of failure. Bar somewhere you pass twenty times a day. The mistake is saving all ten for one evening set, which turns a tendon habit into a weekly workout with worse form. The other mistake is the half rep at the bottom. Straighten the arms fully. The stretch position is where the tendon earns its pay.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "ONE SHORT OF FAILURE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "ALL TEN IN ONE SET",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "BAR ON YOUR DAILY PATH",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "FULL STRETCH EVERY REP",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_mid.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Zero to one: the toll road is unbuilt, and singles will build it faster than you believe. Two to five: the cables are collecting daily. Over five: your back tendons are becoming infrastructure. Retest on day thirty, dead hang start, no swing, best set. Put your number in the comments. Just the number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 30: BEST SET",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "2x",
+          "label": "A COMMON FIRST MONTH",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pullup_top.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of tolls from now your back will be infrastructure. Subscribe, and we retest together. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY 30 RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "BACK = INFRASTRUCTURE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

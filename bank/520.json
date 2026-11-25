@@ -1,0 +1,393 @@
+{
+ "id": "520",
+ "v5": true,
+ "title": "Why Your knee leverage Matter More Than Muscle (The shrimp squat Episode)",
+ "description": "Why does your knee leverage matter more than muscle? Because at the bottom of a single-leg squat, the knee is a hinge paying the highest price in leg training, and hinges are graded by position, not by thigh size. Take the shrimp test, then learn the hinge economics.",
+ "tags": [
+  "shrimp squat",
+  "knee leverage",
+  "why leverage matters",
+  "single leg squat",
+  "patellar tendon",
+  "deep knee strength",
+  "calisthenics legs"
+ ],
+ "hashtags": [
+  "shrimp squat",
+  "knee leverage",
+  "leverage over muscle",
+  "single leg strength",
+  "calisthenics legs",
+  "deep squat"
+ ],
+ "category": "skills",
+ "badge": "EP 520 - WHY KNEE LEVERAGE WINS",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MECHANISM",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_squat_bottom.webp",
+  "big": "3 REPS",
+  "hook": "LEVERAGE BEATS MUSCLE",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand on one leg. | Same-side hand | takes the other foot | behind your back. | Lower slowly | until the back knee | touches the floor, | pause, | and stand up | without letting go. | Count clean reps | on each leg. | Weaker leg decides. | That count | is your number. | Keep it. | Today is not | a technique lesson. | Today is the economics | of the hinge: | why the bottom | of this squat | charges more | than any leg press | you have ever used, | and why the tissue | that pays the bill | is a tendon, | not the muscle | in the mirror.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME-SIDE HAND, SLOW DESCENT",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "HINGE ECONOMICS",
+     "label": "TODAY'S SUBJECT",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEAKER LEG DECIDES",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THAT COUNT IS YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "3 REPS",
+   "label": "FULL DEPTH, EACH LEG, IS THE LINE",
+   "sub": "0 clean: the hinge is untrained - 5+: certified",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. Three clean reps per leg, full depth, controlled descent, is certified knee leverage. Zero clean reps is the most instructive score in this season, because it regularly belongs to men with genuinely strong legs, and the gap between their squat numbers and their shrimp number is the entire argument of this episode in one data point. Five or more per leg means the hinge and its tendon have been trained at depth, a quality almost no gym program installs. Consider what the number is really auditing. It is not auditing how much force your quadriceps can produce in their favorite range. It is auditing force at the deepest knee angle, transmitted through the patellar tendon, balanced on one leg, with the hip holding the pelvis level as a silent partner. Four systems, one rep. The leg press audits one system in a chair. Your number is the audit of the whole committee, and committees, as any manager knows, are graded by their weakest member's worst day.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "3 CLEAN EACH LEG = THE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "4 SYSTEMS",
+     "label": "ONE REP",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "THE WHOLE COMMITTEE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the knee at the bottom of the squat, because the bottom is where the economics turn savage. As the knee bends deeper, your bodyweight's line of pull moves further behind the joint, so the torque the quadriceps must produce climbs steeply, while the muscle itself is stretched to a length where it produces force poorly. Simultaneously, the patellar tendon, the cable from kneecap to shin, transmits all of it at an angle that multiplies the load on the tendon itself. This is the double bind of deep knee leverage: demand peaks where supply is weakest, and the cable in the middle pays interest on both. It is also why the bottom third of the shrimp feels three times harder than the top third while looking like the same exercise. It is not the same exercise. Depth reprices it completely. Training that avoids the bottom is training that declines the invoice, and a hinge that never pays full price never learns what full price buys: tendon stiffness, force at depth, and a knee that trusts itself in the ranges real life occasionally demands without asking permission.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "THE DOUBLE BIND OF DEPTH",
+     "lines": [
+      "Demand peaks, supply weakens.",
+      "The tendon pays interest on both."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_split_squat_bottom.webp"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "DEPTH REPRICES EVERYTHING",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "FULL PRICE BUYS A TRUSTED KNEE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Here is the hopeful half of the economics: the hinge's tissues adapt specifically to the prices they are charged, and the adaptation is measurable. Tendons stiffen under repeated heavy loading at the angles trained, which improves force transmission and lowers the strain per rep. Muscles gain strength preferentially in the ranges they work, which is why box squats to full depth change the shrimp and half-depth work does not. Compare two athletes after a season. One trained legs hard in comfortable ranges and owns impressive numbers that stop at the shrimp's front door. The other trained less total weight but paid full price at depth twice a week, and owns the door, the room, and the furniture. The lesson generalizes past this exercise into the season's thesis: the body does not bank general strength and spend it anywhere. It banks adaptations at the positions and prices it actually visited. Leverage matters more than muscle because leverage decides which positions exist in your training at all, and a position that does not exist cannot adapt.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "ADAPTATION IS ADDRESS-SPECIFIC",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "bars",
+     "title": "TWO SEASONS",
+     "items": [
+      [
+       "COMFORTABLE RANGES",
+       0,
+       "red"
+      ],
+      [
+       "FULL PRICE AT DEPTH",
+       3,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "UNVISITED POSITIONS CAN'T ADAPT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_hip_rotation.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_split_squat_top.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The depth-paying drill is the paused split squat, the hinge's savings account. Back knee hovering a centimeter above the floor at the bottom, pause two full seconds, then stand. The pause deletes momentum and installs the price at the exact angle the shrimp grades. Three sets of five per leg, twice a week, adding depth before adding anything else. It is the least glamorous work in this season and the most directly convertible: every paused centimeter is a deposit the shrimp can withdraw on test day, at par, no exchange fees.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "PAUSED SPLIT SQUATS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "2 SEC",
+     "label": "THE PAUSE AT THE BOTTOM",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "DEPOSITS AT PAR",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "DEPTH BEFORE EVERYTHING",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_mid.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage is that hinge economics are denominated in bodyweight, and your account is small. The full price at depth, which for a heavy athlete is a maximal tendon event requiring days of recovery, is for you a training load you can pay twice a week and adapt to on schedule. That payment frequency is the whole game in tendon adaptation, which rewards regular deposits and ignores occasional jackpots. There is also a durability dividend that compounds for decades. Knees that regularly visit full depth under controlled load maintain their range, their cartilage nutrition, and their owner's confidence on stairs, slopes, and floors. The skinny guy who trains the hinge is not just buying a party trick with a number. He is buying the cheapest available insurance on the joint that decides whether old age is mobile. The mirror cannot price that. The hinge can, and it quotes in reps.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "SMALL ACCOUNT, REGULAR DEPOSITS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "DECADES",
+     "label": "THE DURABILITY DIVIDEND",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "INSURANCE ON THE JOINT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_squat_top.webp"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_bottom.webp",
+   "exercise": "SHRIMP NEGATIVES",
+   "work": 30,
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Lower with me. Five seconds down through the expensive range, pause at the bottom, stand tall. Pay full price slowly and the hinge learns the price list. Go."
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "narration": "Here is the protocol the mechanism demands. Pay at depth, on schedule: two sessions a week where the bottom third is visited slowly and paused in, because adaptation is address-specific and the bottom is the address. Progress depth before load, always; a deeper honest rep is worth more than a shallower one with a backpack, because the position is the training. Keep the pelvis level and the knee tracking, since the hinge's silent partner, the hip, decides whether the knee pays straight or sideways, and sideways is the one currency the hinge refuses. And treat sharp knee pain as a stop signal with a professional referral attached, while respecting honest effort ache as the price of admission. The distinction is not subtle: ache is diffuse and fades; sharp pain is specific and changes your movement. The monthly shape: split squats and shrimps twice a week, one filmed test, weak leg first. The hinge keeps perfect books. Make sure the entries are at full depth.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "AVOIDING THE BOTTOM THIRD",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "LOAD BEFORE DEPTH",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "KNEE PAYING SIDEWAYS",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "IGNORING SHARP PAIN",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "ENTRIES AT FULL DEPTH",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_bottom.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your number, read as the committee's report. Zero clean: the hinge has never been charged full price, and paused split squats are the honest opening account. One to two clean per leg: the tendon is stiffening and the bottom is becoming a place you own instead of visit. Three or more clean on both legs: your knee leverage is certified, with the receipt written in the hardest currency in leg training. Retest in thirty days, weak leg first, five-second descents, and note whether the bottom third still feels like a foreign country. Put your number in the comments. Just the number. The shrimp was never grading your thighs. It was grading a hinge, a cable, and a committee, and all three just became line items you can train.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "ZERO: OPEN THE ACCOUNT",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_split_squat_top.webp"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_top.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Demand peaks where supply is weakest, and training teaches the hinge to pay anyway. That is knee leverage. Subscribe, and bring me your new number in thirty days. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "PAY FULL PRICE, SLOWLY",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "BRING ME THE NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "SEE YOU AT THE RETEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

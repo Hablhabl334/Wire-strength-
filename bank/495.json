@@ -1,0 +1,383 @@
+{
+ "badge": "EP 495 - ELBOW LEVER MISTAKES",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Hands down, elbows in, lean and float. Your clean float time is the test, and these five mistakes are what quietly destroy your wrist leverage: diving into the lean, floating elbows, and training on cold wrists. Take the test, then fix the leaks.",
+ "hashtags": [
+  "elbow lever",
+  "wrist leverage",
+  "elbow lever mistakes",
+  "balance skill",
+  "calisthenics skills",
+  "wrist strength"
+ ],
+ "id": "495",
+ "scenes": [
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FINGERS BACK, ELBOWS IN"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "FIRST MISTAKE ENDS IT",
+     "pos": "br",
+     "text": "FLOAT"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FEET TAP = DONE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Here is your test, graded clean. Hands flat, fingers pointing back, elbows planted hard into your ribs. Lean forward slowly until your feet float. Start the clock when you are airborne. The clock stops at the first mistake: your feet tap down, an elbow slides off your ribs, your legs split into a frantic scissor, or your wrists fold and dump you forward. That clean float time is your number. The elbow lever looks gentle, which is exactly why its mistakes go unnoticed for months. Today we name the five that are taxing your wrists. Choose your stage before the clock: floor or bench, tuck or straight, and write it on the attempt. A clean tuck on the floor and a messy straight float are different exams, and comparing them produces nonsense in both directions. Your official number is always your best clean stage, fully named. Precision sounds fussy until you realize it is the only thing making your thirty-day comparison worth the chalk on your hands.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "10 CLEAN SEC = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "FULL FLOAT, FULL CONTROL",
+     "pos": "br",
+     "text": "20+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CLEAN BEATS LONG"
+    }
+   ],
+   "big": "10 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF CLEAN FLOAT IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten clean seconds, body straight, elbows welded to ribs, no foot taps, is a float you own. Under three clean seconds, one of the five mistakes is ending your flight early. Over twenty clean, your wrists steer your whole body like a parked bicycle, and the one-arm work can begin. Clean matters here because the mistakes are generous: a scissoring, tapping, elbow-sliding fifteen seconds might contain four honest seconds. Your wrists only ever trained for the four. A useful second metric for this skill: time to float. How many seconds from hands-down to airborne, calmly? Beginners spend ten chaotic seconds negotiating; owners of the skill are floating in two, because the entry has become a single rehearsed motion. Track it alongside the hold. When your entry shrinks, your wrist has stopped treating the angle as an emergency, and that, more than any hold time, is the signature of a balance skill becoming yours.",
+   "section": "THE NUMBER",
+   "sub": "under 3 clean sec: a mistake ends it - 20+: full control",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The wrist holds a bent angle under load.",
+      "Every wobble is paid at that angle."
+     ],
+     "pos": "tr",
+     "title": "THE ANGLE TAKES THE BILL"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FINGERS STEER, WRIST PAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SMALL LEAKS, BIG BILLS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The mechanism in one picture. Your bodyweight pours into wrists bent near their limit, and your fingers steer the balance with tiny presses while the forearm holds the angle. Every mistake adds wobble, and every wobble is a sudden extra bill charged to that bent wrist. A foot tap is a full unload and reload. A sliding elbow moves the fulcrum mid-flight. A dive at the start slams the angle before it is set. Clean floats are not prettier. They are cheaper, second by second, which is why clean time and total time diverge so fast in this skill. Your head is part of this mechanism, which surprises everyone. Look down between your hands and your mass pitches forward; gaze slightly ahead and the line settles. The head is heavy, it sits at the end of the lever, and your eyes quietly steer it. Every mistake on the list gets worse with a wandering gaze, because the steering reference keeps moving. Pick a spot on the floor, marry it for the whole float, and let your fingers do the micro-work they were hired for.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SET THE ANGLE, THEN LEAN"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "SLOW LEAN",
+       10,
+       "cyan"
+      ],
+      [
+       "DIVED ENTRY",
+       3,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "CLEAN SECONDS BY ENTRY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE ENTRY IS A REP"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The entry deserves its own measurement. Lean slowly, like tipping a full glass, and the wrist sets its angle gradually, the fingers find their pressure, and the float arrives calm: ten clean seconds from the same wrists that manage three when the entry is a dive. Diving throws your weight past the balance point and spends the first seconds on rescue, which the clean clock does not count and the wrist pays for anyway. In balance skills, the entry is not the journey to the exercise. The entry is the first rep of the exercise. Surface friction is the unlisted variable in every balance PR. Chalked hands on wood, bare hands on carpet, and sweaty palms on tile are three different sports wearing one name. Slipping is not a wrist failure; it is an interface failure, and it ends floats that the wrist was winning. Keep the interface constant across your month: same surface, same hand prep. You are running a thirty-day experiment on your wrists, and experiments need one variable at a time.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_wrist_lever.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The straddle elbow lever is the stage between the tuck and the straight, and it is where most athletes should live for their second month. Legs wide, knees straight, body level: the lever is longer than the tuck but the wide legs lower your center of mass and forgive small balance errors. It also looks spectacular, which does not matter scientifically and matters enormously for motivation. Train the stage that keeps you floating the longest with clean form. In balance work, time airborne is the curriculum, and the straddle delivers more of it than any other rung on this ladder.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "THE STRADDLE STAGE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "MONTH 2",
+     "label": "LIVE HERE A WHILE",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "TIME AIRBORNE IS THE CURRICULUM",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE FORGIVING LEVER",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT BODY, CHEAP CORRECTIONS"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "SMALLER SAVES, LONGER FLOATS",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SPEND IT ON CLEAN"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage in this skill is correction cost. Every save your fingers make moves your entire body, and a lighter body needs smaller saves, so your wrists can afford more corrections per float than a heavy man's can. That is why lean beginners often float first in any group. But the advantage pays in clean seconds only. Scissor and tap your way through a float and you have spent your cheap corrections on chaos. Spend them on calm, and the float stretches. There is a learning-rate advantage hiding in your build as well. Balance skill is acquired through corrections survived, and lighter athletes survive more corrections per session because each one costs less and fails softer. More corrections per session means the nervous system gets more data per session, and data is what it learns from. Heavy beginners spend their sessions falling and resetting. You spend yours floating and adjusting. Over a month, that difference in data is a difference in skill that looks, from outside, like talent.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "check": 3,
+   "exercise": "TABLETOP PRESS",
+   "music": "drive",
+   "narration": "Float with me, clean only. Slow lean, elbows welded, twenty seconds. Feet tap and we reset together, no shame, just reps. Go.",
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DIVING INTO THE LEAN"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "ELBOWS FLOATING OFF THE RIBS"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "TRAINING ON COLD WRISTS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SCISSORING TO STAY UP"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TUCK CLEAN OVER STRAIGHT SLOPPY"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The five mistakes destroying your wrist leverage. One: diving into the lean, slamming the wrist angle before it sets. Two: elbows floating off the ribs, which deletes the fulcrum the whole skill stands on. Three: training on cold wrists, no warm-up, asking a bent loaded joint to perform at its limit unprepared; warm them every session, and if a wrist ever hurts sharply inside the joint, stop for the day. Four: scissoring the legs to stay airborne, which is panic steering that teaches your fingers nothing. Five: refusing the tuck version, so every session is three seconds of falling instead of fifteen seconds of floating. Tuck, warm, lean slow. The float is a calm skill. One more word on cold wrists, because it is the only mistake on the list that can charge interest. A bent wrist under full bodyweight is a joint at its end range doing a tendon-heavy job; asking that of it unprepared, daily, is how overuse complaints are manufactured. Two minutes of warm-up is the cheapest insurance in this entire season. The athletes who skip it are not tougher. They are simply earlier in the same story, and the story's later chapters are written by physios.",
+   "section": "THE MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_tabletop_press.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 3 CLEAN: A MISTAKE ENDS IT"
+    },
+    {
+     "asset": "ren_wrist_lever.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CLEAN SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your clean number. Under three seconds: a mistake is ending your flights, and its name is on the list. Three to ten clean: the float is real, make it calm and it doubles. Over ten clean: your wrist leverage is a certified skill asset. Retest in thirty days, same surface, slow lean, first mistake stops the clock. Put your clean seconds in the comments. Just the number. The float grades your calm, and calm can be trained. Retest on your declared stage, same surface, same gaze spot, and count only the calm seconds. If your clean time grew while your total messy time shrank, that is not a mixed result; that is the exact signature of a balance skill consolidating. Mess converts to clean before clean converts to long. Read the conversion as progress, because it is the only order this skill has ever paid out in.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wrist_lever.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LEAN LIKE A FULL GLASS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW TIME",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Warm wrists, welded elbows, a lean slow enough to sip. The clean float is closer than your messy one suggests. Subscribe, and bring me your new clean time in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "elbow lever",
+  "elbow lever mistakes",
+  "wrist leverage",
+  "balance training",
+  "wrist strength",
+  "calisthenics skills",
+  "bodyweight balance"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_tabletop_press.webp",
+  "big": "10 SEC",
+  "hook": "5 MISTAKES"
+ },
+ "title": "5 elbow lever Mistakes That Are Destroying Your wrist leverage",
+ "v5": true
+}

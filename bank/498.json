@@ -1,0 +1,387 @@
+{
+ "badge": "EP 498 - TRANSITION MISTAKES",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE MISTAKES",
+  "YOUR VERDICT"
+ ],
+ "description": "Pull high and try to get over the bar. Your clean chest-to-bar count is the test, and these five transition mistakes are what quietly destroy your elbow leverage: the chicken wing, the kip, and pulling to the chin when the transition lives at the chest. Take the test, then fix the leaks.",
+ "hashtags": [
+  "muscle up",
+  "transition",
+  "elbow leverage",
+  "muscle up mistakes",
+  "calisthenics skills",
+  "chest to bar"
+ ],
+ "id": "498",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEAD HANG, EVERY REP"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "FIRST MISTAKE ENDS THE COUNT",
+     "pos": "br",
+     "text": "CHEST"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEST TOUCHES OR NOTHING"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT COUNT IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Grab the bar. | Dead hang. | Pull as high | as you can. | Chest to the bar. | Touch it. | Lower down slowly. | Straight arms again. | Pull again. | Count only | the clean reps. | The count ends | at the first mistake. | A kip sneaks in. | One elbow wings | over before the other. | The chest stops | an inch short | and calls it close. | When form breaks, | stop counting. | That clean count | is your number. | Keep it safe. | Five mistakes | live at this bar, | and we name them | before the end. | | Bar height is a test | condition worth fixing. | You should be able to | hang with arms straight and | feet clear of the floor, | because a bent-leg start smuggles | a small jump into every | rep. | If your bar forces tucked | knees, say so in the | log and keep it constant. | The transition does not care | about your ceiling's height. | It cares that this month | and next month were measured | on the same mountain.",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "5 CLEAN = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "MUSCLE-UP READY",
+     "pos": "br",
+     "text": "8+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CLEAN BEATS KIPPED"
+    }
+   ],
+   "big": "5 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "CLEAN CHEST-TO-BAR IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Five clean chest-to-bar pull-ups, dead hang to touching, no kip, no wing, is muscle-up readiness with paperwork. Under two clean, a mistake is taxing your top half. Eight or more clean and the muscle-up is a technique session away. The clean rule transforms this test, because the transition mistakes are flattering: a kipped, winged set of eight might contain two honest reps. Your elbows only trained for the two, and the bar, unimpressed, will collect the difference on the day you try to get over it. One more number belongs in this log: your best single. The highest, cleanest pull of the day, regardless of sets. Sets measure capacity; the best single measures your ceiling, and the muscle-up is a ceiling event, not a capacity event. You do not need five transitions in a row. You need one, once, and then the skill exists and can be fed. Track the single like it matters, because for this skill, it is the only number that graduates you.",
+   "section": "THE NUMBER",
+   "sub": "under 2 clean: a mistake taxes you - 8+ clean: muscle-up ready",
+   "type": "card"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "The elbow flips from pull to press.",
+      "Every shortcut skips the flip."
+     ],
+     "pos": "tr",
+     "title": "THE FLIP IS THE SKILL"
+    },
+    {
+     "asset": "ren_dip_bottom.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "DEEP BEND, WORST LEVERAGE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE ANGLE MUST BE PAID"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The mechanism, once more, because every mistake dodges it. The transition is the moment your elbows flip from below the bar to above it, converting a pull into a press at the deepest elbow bend and the worst leverage in the movement. That flip is the skill. The kip pays for it with hip momentum. The chicken wing pays for half of it, one side at a time. Pulling to the chin never arrives at it at all. A transition trained on shortcuts is a bridge that stops one plank short, and the missing plank is always the same angle. Your lats have a partner in the flip that nobody credits: the long head of your triceps and your rear shoulder, which help drag the elbow over the bar at the crucial angle. This is why athletes with strong dips sometimes transition before athletes with stronger pull-ups: the second half of the flip is a pressing pattern wearing a pulling costume. Train both halves and the handover stops being a border crossing. It becomes a doorway you own from both sides.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WING LOADS ONE SHOULDER"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "CLEAN REPS",
+       5,
+       "cyan"
+      ],
+      [
+       "WINGED REPS",
+       2,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "WHAT YOUR SETS REALLY SCORE"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SYMMETRY IS SAFETY"
+    },
+    {
+     "asset": "ren_pullup_mid.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The chicken wing deserves its own measurement, because it is the most expensive mistake on the list. Sneaking one elbow over first feels like progress, but it loads one shoulder at a twisted angle with most of your bodyweight, while the other side learns nothing. Score a typical winged set honestly and eight attempts contain maybe two clean reps, plus a shoulder that has been rehearsing an injury pattern. Symmetry is not pedantry here. Both elbows flipping together is the only version that scales to a strict muscle-up, and the only version your shoulders signed up for. Speed deserves its measurement too. Film a clean rep and count the frames from chest-touch to elbows-over. Slow transitions die at the bar because the deep angle must be survived; fast ones pass through it before fatigue collects its toll. This is why the protocol's explosive sets matter: you are not being impatient, you are shortening the time your worst leverage is exposed. In the transition, velocity is not the opposite of control. At the right moment, velocity is control.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_dip_bottom.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The band-assisted muscle-up is the bridge drill, with one strict rule that decides whether it builds the skill or a dependency. The band goes under one knee, never both feet, and it must be the lightest band that lets you complete the transition with both elbows together. Its job is to refund a few kilos at the bottom while leaving the flip itself almost fully priced. Weaken it monthly, and test unassisted on the first session of every month. Used this way, the band is a tutor that resigns on schedule. Used with a heavy band forever, it is a landlord. Choose the tutor.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "BAND MUSCLE-UP, LIGHT ONLY",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "1 KNEE",
+     "label": "NEVER BOTH FEET",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "A TUTOR THAT RESIGNS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "TEST UNASSISTED MONTHLY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS BODY OVER THE BAR"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LIGHT GUYS FLIP FIRST",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SPEND IT ON CLEAN"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage at this bar is total: the transition lifts one body over the worst leverage in the sport, and your body is the lightest load here. Lean athletes get their first strict muscle-ups while stronger, heavier pullers are still kipping, because the flip is priced per kilo. But the price must actually be paid. A skinny guy who wings and kips is training the same empty angle as everyone else. Your build gives you the cheapest honest transition in the park. Buy it honestly. The muscle-up is the most gatekept skill in calisthenics, and its gate is a ratio. Your back and arms must move your body through a bad angle, and every kilo you do not carry is a kilo the angle cannot charge you. This is why the skinny guy's first muscle-up is a genre of video unto itself: the build that gets underestimated at the squat rack owns the bar's hardest door. Train clean, and the door opens for the athlete everyone else at the park least expected. That is not a consolation prize. That is the headline.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "check": 3,
+   "exercise": "CHEST-TO-BAR PULL",
+   "music": "drive",
+   "narration": "Pull with me, clean only. Thirty seconds, dead hang to chest, both elbows together. The rep that wings does not count and we both know it. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "THE CHICKEN WING"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "KIPPING FOR ALTITUDE"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "PULLING TO THE CHIN"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "NEVER TRAINING THE DIP HALF"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CHEST, BOTH ELBOWS, TOGETHER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The five mistakes destroying your elbow leverage. One: the chicken wing, one elbow sneaking over, a crooked pattern with a shoulder bill attached. Two: kipping for altitude, buying height with hip swing while the flip angle stays exactly as poor. Three: pulling to the chin and calling it close, training an elevator that never reaches the roof. Four: never training the dip half, so even when you arrive above the bar you cannot press out of the deep position; Russian dips exist for precisely this. Five: attempting max muscle-ups every session instead of building clean chest-to-bar volume, turning practice into a weekly exam you keep failing. Chest, both elbows, together, then press. That is the whole technique. A sixth pattern deserves an honorable mention: the bar dip finish that never gets trained. Athletes rehearse the pull obsessively, arrive above the bar once, and fold at the dip because the deep pressing position is a stranger. Spend one session a week in the top position itself, support holds and slow dips on the straight bar, so that arrival feels like entering a room you own. The muscle-up is two skills shaking hands. Train the second hand.",
+   "section": "THE MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 2 CLEAN: A MISTAKE TAXES YOU"
+    },
+    {
+     "asset": "ren_pullup_mid.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR CLEAN REPS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your clean count. Under two: a mistake is taxing your top half, and its name is on the list. Two to five clean: the flip is within reach, add Russian dips and introduce yourself. Over five clean: you are one technique session from over the bar, and over eight, bring a camera. Retest in thirty days, same bar, dead hang, first mistake ends the count. Put your clean reps in the comments. Just the number. The bar accepts only honest altitude. When you retest, grade the set and the single separately, and let each tell its own truth. A rising single with a flat set means your ceiling is moving and capacity will follow; that is the order this skill prefers. A rising set with a flat single means you are building a taller ground floor, which also matters, just later. Either way, the numbers will tell you which drill next month is hired to do. That is what a test is for.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BOTH ELBOWS, TOGETHER"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW COUNT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Chest to the bar, both elbows together, press out strong. The roof is closer than the wing made it look. Subscribe, and bring me your new clean count in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "muscle up",
+  "muscle up mistakes",
+  "transition",
+  "elbow leverage",
+  "chest to bar",
+  "calisthenics skills",
+  "pull up"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_pullup_top.webp",
+  "big": "5 REPS",
+  "hook": "5 MISTAKES"
+ },
+ "title": "5 muscle-up transition Mistakes That Are Destroying Your elbow leverage",
+ "v5": true
+}

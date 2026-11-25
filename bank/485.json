@@ -1,0 +1,392 @@
+{
+ "badge": "EP 485 - FRONT LEVER TUCK TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVERAGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Hang from a bar, tuck, and lift your body until your back is parallel to the floor, facing the sky. Your front lever tuck time reveals the truth about your lat leverage: your back muscles must hold a lever that gravity is trying to unfold. Take the test, learn the geometry, train the ladder.",
+ "hashtags": [
+  "front lever",
+  "lat leverage",
+  "lever test",
+  "calisthenics skills",
+  "back strength",
+  "bodyweight strength"
+ ],
+ "id": "485",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ANY BAR WORKS"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "BACK PARALLEL TO THE FLOOR",
+     "pos": "br",
+     "text": "TUCK"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ARMS STRAIGHT, ALWAYS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Grab a bar. | Hang beneath it. | Tuck your knees | to your chest. | Now lift your hips | and lean back | until your back | faces the floor, | body horizontal, | eyes to the sky. | Arms dead straight. | Start your clock | when you arrive. | No bent arms. | No swinging up. | Hold the tuck | as long as | you honestly can. | When you drop | or your arms bend, | stop the clock. | That time | is your number. | Keep it safe. | At the end, | I tell you | what it proves | about your lats. | Exhale as you lift. | Let the bar settle. | Stillness counts double. | A swing at the start | poisons the hold. | Earn the position, | then time it.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "15 SEC = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LEVER-READY LATS",
+     "pos": "br",
+     "text": "30+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHORT = TRAINABLE"
+    }
+   ],
+   "big": "15 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF TUCK HOLD IS THE LEVERAGE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Fifteen seconds of front lever tuck, back flat to the floor, arms straight as ropes, is where your lat leverage becomes a certified fact. Under five seconds, gravity unfolds you fast, and that is the universal starting point, not a verdict on your back. Over thirty, you hold the gateway position of every lever skill with time to spare. Bent arms do not count, ever. A bent-arm tuck is a pull-up wearing a costume, and the clock knows the difference. Film this one from the side, always. The front lever hides its two favorite lies from the athlete: arms bending by degrees you cannot feel, and the back rounding from flat into a ball across the hold. Your official time ends at the first lie, not at the drop. Graded that way, your number will look smaller and mean more, which is the correct exchange rate for every skill in this season.",
+   "section": "THE NUMBER",
+   "sub": "under 5 sec: gravity unfolds you - over 30 sec: lever-ready",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Your body is the load, out front.",
+      "Your lats are the cables holding it level."
+     ],
+     "pos": "tr",
+     "title": "A BRIDGE HELD BY CABLES"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STRAIGHT ARMS OR NOTHING"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LATS PAY THE LEVER PRICE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Picture the structure. Your body hangs out in front of the bar like a bridge deck, and your lats are the cables that hold the deck level. The shoulders are the towers, the arms are straight steel, and the lats pull the whole body up against a lever that wants to rotate you down and unfold you. This is why the front lever is a back exercise that humbles arm wrestlers: the biceps are locked out of the job by the straight-arm rule. Only the lats, the rear shoulders, and a braced trunk can pay this bill, and they pay it at the worst mechanical angle there is. Your grip is the silent partner in this structure. The whole bridge hangs from two hands, and the moment your grip starts negotiating, your lats must spend force on stabilization instead of the hold itself. Chalk if your gym allows it, and learn the false lesson every lever athlete learns: forearm endurance is lever endurance. This is why dead hangs, the simplest exercise on this channel, keep reappearing inside advanced skills. The foundation never stops being the foundation.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY UNFOLD DOUBLES DOWN"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "TUCK",
+       15,
+       "cyan"
+      ],
+      [
+       "ONE LEG",
+       6,
+       "gold"
+      ],
+      [
+       "STRAIGHT",
+       2,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME LATS, THREE PRICES"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "GEOMETRY IS THE PROGRAM"
+    },
+    {
+     "asset": "ren_hang_side_relaxed.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The ladder is pure geometry, and the numbers prove it. The same lats that hold a fifteen-second tuck manage maybe six seconds with one leg straight, and two with both. Nothing about the muscle changed. The load just moved further from the bar, and the lever multiplied it. So front lever training is not a search for a secret exercise. It is a controlled unfolding: tuck, advanced tuck with a flat back, one leg, straddle, straight. Each stage lengthens the bridge and raises the toll, and your lats either pay it for the full clock or they do not. No opinions involved. Notice what the ladder does to your training week. Each stage is the same skill at a new price, so your program never needs reinventing: same bar, same rules, longer lever. That simplicity is a feature most programs would kill for. When a stage stalls for three weeks, the answer is never a new exercise. It is more volume at the current stage, or one honest step back to the previous one. Geometry does not get bored, and neither should you.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Meet the ice-cream maker, the front lever's dynamic twin. From a tuck hang, lift into the tuck lever position, then lower back down with straight arms, slowly, like you are serving the world's heaviest ice cream. Up is a lift; down is the lesson. The lowering half loads your lats through the exact arc the hold must own, at a price the tuck keeps affordable. Four sets of three, twice a week, and the static hold starts feeling like the easy part of your session. Dynamic strength and static strength are the same muscle at different speeds, and this drill is where they shake hands.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "ICE-CREAM MAKERS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "4 x 3",
+     "label": "TWICE A WEEK",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "DOWN IS THE LESSON",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE DYNAMIC TWIN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS DECK TO HOLD"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LIGHT BODY, LEVEL BRIDGE",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RATIO BEATS MASS AGAIN"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "And the skinny advantage shows up on schedule. The bridge deck in this lever is your own body. Every kilo you do not carry is a kilo your lats never lift, which is why lean gymnasts live in the front lever while heavy powerlifters visit it briefly, grunting, in the tuck. Your lats do not need to be the biggest in the gym. They need to be strong compared to you, and that ratio is the one contest where your build starts ahead. Levers are the skinny guy's home turf. This is the front gate. There is a posture dividend waiting at the end of this road. Lats strong enough to hold a front lever are lats that pull your shoulders down and back all day, open your chest, and make you look broader than your measurements claim. Skinny guys spend years chasing width in the mirror. The front lever builds the real thing, from the inside, while also being the most respected hold in the park. Train the lever. Collect both payments.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_relaxed.webp",
+   "check": 3,
+   "exercise": "TUCK HANG LIFT",
+   "music": "drive",
+   "narration": "Hang with me. Tuck tight, lift the hips, back to the floor, arms straight. Twenty seconds on the clock. This is where lever lats get built. Go.",
+   "rest": 40,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 SESSIONS A WEEK"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STRAIGHT ARMS, FLAT BACK"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "BENDING THE ARMS TO SURVIVE"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "CHASING STRAIGHT LEGS EARLY"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "HOLDS AT 70 PERCENT",
+     "pos": "tr",
+     "text": "70%"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is disciplined, because this lever exposes cheating instantly. Three sessions a week. Five holds at your current stage, each about seventy percent of your best time, resting until your grip and lats feel fully back. Add slow tuck raises between holds: hang, lift to the tuck position in three seconds, lower in three. The moment your arms bend or your back rounds into a ball, the set is over; that rep was a different, easier exercise. When the tuck passes twenty seconds clean, flatten the back into the advanced tuck. The straight lever is not a goal you grab. It is a stage you arrive at. Log this skill like a scientist: stage, seconds, arm angle if you filmed it. Front lever progress hides inside technique for months, then appears all at once, and the log is the only thing that proves the invisible months were working. When a stage finally breaks, it usually breaks by three seconds in a week, after six weeks of nothing. Athletes who quit in week five never learn that week six was the appointment.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 5: GRAVITY UNFOLDS YOU"
+    },
+    {
+     "asset": "ren_hang_side_tuck.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under five seconds: gravity unfolds you today, and the tuck ladder is built exactly for that. Five to fifteen: the cables hold, now add stages. Over fifteen: your lat leverage is certified, and the one-leg version is your next toll booth. Retest in thirty days, same bar, straight arms, flat back, no mercy on the rules. Put your seconds in the comments. Just the number. The lever keeps honest books. One last calibration. Test on a fresh day, after a warm-up of easy hangs, never after pull-up training. A fatigued lat lies about your leverage in the pessimistic direction, and a verdict should be measured at your best, because that is the number your program is built on. Retest days are not training days. They are measurement days, and measurement deserves its own clean conditions.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_tuck.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "OWN THE TUCK FIRST"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW TIME",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Shorten the bridge, hold it level, unfold it stage by stage. That is the entire road to the front lever. Subscribe, and bring me your new time in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "front lever",
+  "front lever tuck",
+  "lat leverage",
+  "lever training",
+  "calisthenics skills",
+  "back strength",
+  "gymnastics strength"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_hang_side_tuck.webp",
+  "big": "15 SEC",
+  "hook": "THE LEVER TEST"
+ },
+ "title": "Your Front Lever Tuck Time Reveals the Truth About Your lat leverage",
+ "v5": true
+}

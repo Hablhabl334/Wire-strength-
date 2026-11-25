@@ -1,0 +1,431 @@
+{
+ "id": "393",
+ "v5": true,
+ "title": "I Tested push-ups for 30 Days (The Results Surprised Me)",
+ "description": "Thirty days of push-ups, tested with a twist: one single all-out max set a day instead of spread volume. Day zero and day thirty max sets show what daily near-failure practice does to your chest tendons and pressing nerves, and the results are not what most people predict. Take the test, learn the mechanism, follow the plan, and compare your numbers.",
+ "tags": [
+  "push-ups",
+  "push-up test",
+  "max set",
+  "chest tendon",
+  "30 day challenge",
+  "calisthenics",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "push-up challenge",
+  "push-ups",
+  "30 day challenge",
+  "calisthenics",
+  "bodyweight training",
+  "chest workout"
+ ],
+ "category": "experiments",
+ "badge": "EP 393 - PUSH-UPS, TESTED",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pushup_top.webp",
+  "big": "1 SET",
+  "hook": "ONE SET A DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Day zero. | Before any training. | We take the test. | One max set. | Hands under shoulders. | Body in one line. | Chest to the floor. | Full lockout every rep. | No resting at top. | Stop when form dies. | That is your NUMBER. | Write it down. | This month is different. | Not volume spread out. | One honest set | every single day. | In thirty days | we run it again. | Same floor. Same rules. | Keep your number close. | Let us begin.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "ONE MAX SET ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "mark",
+     "text": "STOP WHEN FORM DIES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "ONE HONEST SET DAILY",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "One all-out set a day.",
+      "30 days. One retest."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "KEEP YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR MAX",
+   "label": "YOUR DAY-ZERO PUSH-UP NUMBER",
+   "sub": "under 10: untrained - 15 to 25: building - over 35: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the honest reading of your day-zero max set. Under ten clean reps means the pressing system is untrained, the normal start. Fifteen to twenty five means the machine works and needs a reason to improve. Over thirty five with perfect form, you are wired, and this month becomes about tendon armour instead of numbers. This experiment asks a sharp question: what does ONE daily trip to your limit do, compared to comfortable volume spread through the day? The max set is both the training and the test, repeated thirty times. Your number today is the first data point. In thirty days, the thirtieth data point answers the question.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "TRAINING AND TEST IN ONE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "30 DATA POINTS",
+     "label": "ONE PER DAY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "A SHARP QUESTION",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_weak.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the weak point of the push-up, the moment the chest is stretched at the bottom and the set is almost over. In a max set, your muscles fatigue rep by rep, and the load shifts increasingly onto the structures that do not fatigue the same way: the TENDONS of the chest and shoulder, and the nerve drive that keeps recruiting fresh fibres. A daily max set teaches two things at once. It teaches your nervous system to keep the press switched on deep into fatigue, finding fibres it normally never calls. And it gives the chest tendons a daily dose of high tension at long muscle lengths, the position where tendons earn their stiffness. Spread volume trains the skill of pressing. The max set trains the END of pressing, the part where tests are decided. That is why this experiment exists: to find out what lives at the end.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE END OF THE SET",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pushup_bottom.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "WHAT THE MAX TEACHES",
+     "lines": [
+      "Nerves recruit deeper fibres.",
+      "Tendons load at long lengths."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "WHERE TESTS ARE DECIDED",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "TRAINING THE ENDING",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_front.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "What surprised me in this test was the shape of the progress. Week one, the number jumped, pure nerve learning, the brain discovering it could stay calm near the limit. Week two, the number FELL, and stayed low for days. That dip is the science of this experiment: a daily max set spends recovery faster than spread volume does, and the bill arrives in week two. Week three, the body adapted its budget, and the number climbed past the start. Week four, it climbed again. The lesson is that a max-set month is a wave, not a staircase, and the guys who quit in the dip never see the second climb. There is a tendon footnote too: the daily high tension kept the chest cables signalling all month, which is why the final number holds up better than a pure endurance trick would. Expect the wave. Ride the dip. The retest is scheduled after it, on purpose.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A WAVE, NOT A STAIRCASE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pushup_front_bottom.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE WEEK TWO DIP",
+     "lines": [
+      "The recovery bill arrives.",
+      "Quitters never see climb two."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "MAX SET BY WEEK",
+     "items": [
+      [
+       "WEEK 1",
+       18,
+       "red"
+      ],
+      [
+       "WEEK 4",
+       29,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "EXPECT THE WAVE",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "RIDE THE DIP",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_back_top.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage in a max-set month is, once again, the price of the exam. Your max set moves roughly two thirds of your bodyweight per rep, and a lighter body makes each rep cheaper, so your daily trip to the limit costs less recovery than a heavy guy's. His max set is a workout. Yours is a practice. That difference decides who survives thirty consecutive days of near-failure work without their shoulders filing a complaint. There is a subtler edge too: with less mass to press, your form stays honest deeper into the set, so more of your reps are quality reps the tendons can learn from. The heavy guy's last ten reps are a wrestling match. Yours are still push-ups. Quality at the limit is the entire drug here, and your frame serves it daily.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "HIS WORKOUT, YOUR PRACTICE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_pushup_mid.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "QUALITY AT THE LIMIT",
+     "lines": [
+      "Form honest, deep into the set.",
+      "That is the whole drug."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "SHOULDERS STAY QUIET",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "CHEAPER TRIPS TO THE LIMIT",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pushup_mid.webp",
+   "exercise": "PUSH-UPS",
+   "work": 30,
+   "rest": 30,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Train with me. Four hard sets, not quite to failure, one rep left in the tank. Full range, honest form. Save the true max for the daily set. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_top.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. One max set a day, plus a little insurance work. Week one: your max set whenever you are freshest, full warm-up first, and stop the set when form breaks, not when pride does. Note the number daily, because the wave only makes sense on paper. Week two: expect the dip. Keep the daily set, add two easy sets of five later in the day to keep the pattern greased, and protect your sleep like it is part of the program, because it is. Week three: the set should start climbing. Add a pause at the bottom of every fifth rep to load the tendons at length. Week four: keep the daily set, and in the last three days cut to half-max sets so the retest meets a fresh system. Day thirty: warm up, same floor, one true max. The shoulder rules: hands slightly wider if your shoulders pinch, stop any set where the front of the shoulder aches sharply, and remember that a max set means max CLEAN reps. The rep where your hips sag was not a rep. It was a warning.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: FRESHEST MOMENT",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "NOTE THE NUMBER DAILY",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: EXPECT THE DIP",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "SLEEP IS PART OF IT",
+     "lines": [
+      "The bill arrives in week 2.",
+      "Sleep pays the bill."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "SAGGING REP = WARNING",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: ONE TRUE MAX",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "CLEAN REPS ONLY",
+     "label": "THE COUNTING RULE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_bottom.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same floor, one true max set. Here is how to read the result. The typical outcome is a gain of eight to fifteen reps across the month, with the wave shape in the daily log: jump, dip, climb, climb. If your gain is in that band, the experiment worked exactly as designed, and your chest tendons and pressing nerves are measurably rewired. If you gained more, your day-zero system was deeply untrained and had the most to discover. If you gained little, check the log for a dip that never ended, which usually means sleep or food quietly failed the program in week two. The max set does not forgive under-recovery. It reports it. Put both numbers in the comments, day zero and day thirty, and if you logged the wave, tell us your lowest dip day too. That dip is the most honest part of the story.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME FLOOR. ONE TRUE MAX.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pushup_top.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "+8 TO +15 REPS",
+     "label": "THE TYPICAL GAIN",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE DIP THAT NEVER ENDED",
+     "lines": [
+      "Sleep or food failed quietly.",
+      "The set reports under-recovery."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pushup_mid.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days of one honest set, and your press learns to finish what it starts. Keep a max set in your week if you loved the wave, and subscribe for the next test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "LEARN TO FINISH SETS",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "RIDE THE WAVE",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

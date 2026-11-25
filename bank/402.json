@@ -1,0 +1,389 @@
+{
+  "id": "402",
+  "v5": true,
+  "title": "The 30-Day jumping Experiment: Your Achilles stiffness Week by Week",
+  "description": "Thirty days of jumping, measured honestly: chalk your reach, jump, and read your vertical in centimetres on day zero and day thirty. Learn how the Achilles tendon works as a spring, run the daily bounce protocol, and see what a month does to your jump height.",
+  "tags": [
+    "vertical jump",
+    "jump training",
+    "achilles tendon",
+    "30 day challenge",
+    "plyometrics",
+    "calisthenics",
+    "spring stiffness"
+  ],
+  "hashtags": [
+    "vertical jump",
+    "30 days",
+    "achilles",
+    "plyometrics",
+    "calisthenics",
+    "experiment",
+    "jump higher"
+  ],
+  "category": "experiments",
+  "badge": "EP 402 - 30 DAYS OF JUMPING",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_jump_peak.webp",
+    "big": "30 CM",
+    "hook": "JUMP TEST",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Day zero of the jumping experiment needs a wall, a piece of chalk or tape, and honesty. Stand sideways to the wall, reach up as high as you can with flat feet, and mark that line. Now step back, dip, swing your arms, and jump as high as you possibly can, marking the wall at the top. Measure between the two marks. That gap, in centimetres, is your vertical, and it is the only number this month cares about. Most untrained guys land somewhere between fifteen and thirty centimetres and immediately blame their legs. By the end of this video you will know the legs are only half the machine. For thirty days our subject jumps every day, small doses, and on day thirty we measure against the same wall. Take your number now. Chalk does not lie, and neither will the retest.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WALL, CHALK, HONESTY",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "2 MARKS",
+          "label": "REACH, THEN JUMP",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_achilles_profile.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "CHALK DOES NOT LIE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "30 CM",
+      "label": "A TRAINED VERTICAL FOR A LIGHT GUY",
+      "sub": "under 20: springs asleep - over 40: loaded springs",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Under twenty centimetres, your springs are asleep, and that is good news, because asleep systems improve fastest. Twenty to thirty is the untrained average, a jump powered by muscle alone. Over forty, you are already spring-loaded beyond most gym members twice your size. The experiment's question: how many centimetres does a month of daily bouncing buy a guy who starts asleep?",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "ASLEEP = FASTEST GAINS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "MUSCLE ALONE = AVERAGE",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "40+ CM",
+          "label": "SPRING-LOADED TERRITORY",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "achilles_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the half of the machine nobody trains. When you dip before a jump, your calf muscle pulls on the Achilles tendon, the thick cable behind your ankle, and that cable stretches like a drawn bow. When you leave the ground, the cable snaps back and returns a large share of the energy you put in, for free, without burning any fuel. That is the spring. A soft, compliant spring leaks energy into the ground and the jump stays small no matter how hard the muscle works. A stiff spring returns the energy fast, inside the short moment your foot touches the floor, and the same muscle suddenly looks powerful. Stiffness is a trainable quality of tendon, and bouncing is its language: every small hop is one stretch-and-return cycle, one lesson. Thirty days of daily hops is thousands of lessons. The muscle was never the whole story. The spring decides how much of the muscle you actually get to use.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "THE FREE ENERGY",
+          "lines": [
+            "The tendon stretches in the dip.",
+            "It pays the energy back at takeoff."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_achilles_profile.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "SOFT SPRING = LEAKED JUMP",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "WHERE THE JUMP COMES FROM",
+          "items": [
+            [
+              "MUSCLE",
+              60,
+              "white"
+            ],
+            [
+              "TENDON SPRING",
+              40,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "BOUNCING IS THE LANGUAGE",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "big_vs_lean_jump.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Now the skinny advantage, and in jumping it is enormous. A vertical jump is your power divided by your weight. The heavy guy must throw a hundred kilograms into the air; you throw sixty. His spring also has to be stiffer just to return the same share of a bigger load, and heavy springs fatigue faster, which is why big men jump well once and badly by the tenth bounce. Your spring carries less, returns faster, and can be trained daily because each landing costs you less. This is why the highest jumpers in any gym are rarely the biggest men in it. They are the ones whose springs match their weight. Thirty days of bouncing tunes the spring you already own to the body you already have. The mirror will not change. The chalk line will. Coaches have a saying for this: the spring is the skill. Two athletes with identical legs jump different heights because one returns energy and the other donates it to the floor. This month, you stop donating.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "POWER DIVIDED BY WEIGHT",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "THE LIGHT MAN'S SPRING",
+          "lines": [
+            "Less load per landing.",
+            "Faster return, daily training."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_jump_peak.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "JUMP BY BODYWEIGHT",
+          "items": [
+            [
+              "LIGHT",
+              85,
+              "cyan"
+            ],
+            [
+              "HEAVY",
+              50,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "THE CHALK LINE CHANGES",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The protocol is built on one idea: many small bounces, never exhaustion. Every day, three short blocks. Block one: pogo hops, ankles stiff, bouncing on the spot like the floor is hot, twenty to forty contacts. Block two: calf raises done slowly, full range, because the spring needs a strong engine behind it. Block three, three times a week only: five true max jumps against the wall, full rest between them, quality over everything. Week one stays low and gentle, teaching the ankles the rhythm. Week two adds contacts. Week three adds height to the hops. Week four sharpens: fewer, faster, springier. Three rules protect the experiment: land quiet, because quiet landings are stiff springs working correctly; stop the day the Achilles feels sharp rather than springy; and never jump tired, because tired springs teach leaking. Total daily time: under ten minutes.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "MANY BOUNCES, NEVER EXHAUSTION",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "LAND QUIET",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_eccentric_drop.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "SHARP ACHILLES = STOP",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "stat",
+          "text": "<10 MIN",
+          "label": "DAILY JUMP WORK",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_jump_peak.webp",
+      "exercise": "POGO HOPS",
+      "work": 20,
+      "rest": 20,
+      "rounds": 4,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Bounce with me, day-one style. Four rounds: twenty seconds of small stiff hops, twenty seconds of rest. Ankles like springs, landings like a cat. Light, quick, quiet. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_achilles_profile.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is how the month unfolded, week by week. Week one was all ankles: the hops felt clumsy, the landings loud, and the calves filed a formal complaint, because the spring had never been asked to work on rhythm before. Week two, the bounce changed sound: quieter contacts, less time on the ground, the body learning to spend less time leaking. Week three, the max jumps started surprising our subject, not by centimetres yet but by feel: the dip got shorter, the takeoff snappier, like the floor was helping. Week four brought the strange one: everyday springiness. Stairs taken in hops, curbs cleared without thought, a general sense that the ground had become a trampoline in small doses. That is tendon stiffness announcing itself in daily life. The wall test was still waiting to make it official.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: LOUD LANDINGS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: QUIETER CONTACTS",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_calf_raise.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "THE FLOOR HELPS",
+          "lines": [
+            "Shorter dip. Snappier takeoff.",
+            "Stiffness you can feel daily."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "SPRINGINESS EVERYWHERE",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Day thirty, same wall, same chalk, same honest rules. The pattern this experiment produces in untrained guys: the vertical typically gains several centimetres in a month, with the biggest jumps in the guys who started lowest, because their springs had the most slack to take up. Read your day zero against the bands: under twenty centimetres, this month was designed for you. Twenty to thirty, you are a few centimetres from jumping like an athlete. Over forty, keep the hops twice a week and go find a weaker system to fix. Put your centimetres in the comments. Just the number. Thirty days from now, chalk the wall and take it again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LOWEST START, BIGGEST GAIN",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "achilles_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "SAME WALL, NEW SPRING",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR CENTIMETRES",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of bouncing, and the floor starts paying you back. Your legs were never the whole machine; the spring behind your ankle was waiting to be tuned. Tune it daily and the chalk climbs. Retest in thirty days and bring me your centimetres. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "THE SPRING WAS WAITING",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

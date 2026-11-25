@@ -1,0 +1,352 @@
+{
+ "id": "444",
+ "v5": true,
+ "title": "What 1 Minute of squats Every Day Does to Your leg tendons",
+ "description": "One minute of squats a day rebuilds the cables your legs run on. Here is the four-week timeline for your leg tendons, and the one-minute squat test that shows how much work your legs can really repeat.",
+ "tags": [
+  "squats",
+  "leg tendons",
+  "one minute workout",
+  "squat test",
+  "tendon training",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "squats",
+  "one minute squats",
+  "leg workout",
+  "daily squats",
+  "tendon training",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 444 - SQUATS DAILY",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "LEG TENDONS",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_squat_mid.webp",
+  "big": "1 MIN",
+  "hook": "SQUATS DAILY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Feet shoulder width. | Start the clock. | Sit down deep. | Stand up tall. | That is ONE. | One minute running. | Keep them coming. | Heels stay planted. | Depth stays honest. | No bouncing out. | Breathe and count. | When sixty ends | stop and breathe. | Your rep count? | Write it down. | Most skinny guys | land under THIRTY. | Now do that minute | every single day. | Your leg cables | will rewrite it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "ONE MINUTE ON THE CLOCK",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "text": "DEPTH STAYS HONEST",
+     "label": "COUNT EVERY REP",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "EVERY SINGLE DAY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "1 MIN",
+   "label": "THE REPEAT LINE",
+   "sub": "under 20 in a minute: cables asleep - over 50: legs are wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line for the one-minute squat test. Under twenty deep reps, your leg tendons are untrained and your legs quit before your lungs do. Twenty to forty, you are building the repeat engine. Over fifty smooth reps in a minute, your legs carry cables that recycle energy like a trained jumper's, regardless of their size.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "LEGS QUIT FIRST",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "50+ REPS",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "REGARDLESS OF SIZE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "LEG TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one is rhythm school. A minute of squats teaches your hips, knees and ankles to fold and unfold in one sequence, dozens of times, without your brain supervising each rep. The burn is honest but the wobble fades fast. By day seven your depth is identical on rep five and rep twenty-five, and identical depth is the fingerprint of a nervous system that has learned the route.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: RHYTHM SCHOOL",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_squat_bottom.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "IDENTICAL DEPTH",
+     "lines": [
+      "The fingerprint of a learned route."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "THE WOBBLE FADES",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_bottom.webp",
+   "section": "LEG TENDONS",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the cables clock in for construction. The tendons at your knee and ankle take the load of every descent and return it on every rise, and daily repetitions tell them to thicken their collagen weave. The descent changes first: it stops being a drop and becomes a controlled lowering, like a spring being compressed by hand. Controlled compression stores energy. Stored energy is the rise getting easier while the reps get higher.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: CONTROLLED COMPRESSION",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_split_squat_top.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "THE DESCENT",
+     "items": [
+      [
+       "A DROP",
+       40,
+       "red"
+      ],
+      [
+       "A SPRING",
+       72,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "THE RISE GETS CHEAPER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "LEG TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the mechanism is fully visible in your number. Your leg tendons have spent a month stiffening under the most repeatable signal in training, and tendon stiffness is the difference between legs that produce force once and legs that produce it fifty times a minute. Muscle is the engine size. Tendons are the transmission, and a skinny guy with a great transmission beats a big engine with a slipping one. Your minute of squats is transmission work, disguised as a warm-up. No rack, no plates, no spotter. Just gravity, a minute, and legs that learn to repeat force like a machine.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "ENGINE VS TRANSMISSION",
+     "lines": [
+      "Tendons decide how often force repeats."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_squat_mid.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "50 TIMES",
+     "label": "A MINUTE",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "DISGUISED AS A WARM-UP",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_mid.webp",
+   "exercise": "SQUATS",
+   "work": 60,
+   "rest": 0,
+   "rounds": 1,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now your minute. Deep squats, smooth rhythm, heels down. Count every honest rep. Day one starts now. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_split_squat_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is one minute of perfect squats a day. Split it into sets of ten if your form starts bending, and keep every rep at full depth. Knees track over toes, chest stays proud, and the pace stays smooth enough to talk through. When the minute gets easy, slow the descent to three seconds before you add anything else. If your knees ache sharply, shorten the range for a few days, and see a professional if it persists.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "FULL DEPTH EVERY REP",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO BENT FORM",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "SLOW THE DESCENT FIRST",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_squat_bottom.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "SMOOTH ENOUGH TO TALK",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your one-minute number, judged. Under twenty: asleep cables, and the fastest transmission upgrade in your training life. Twenty to forty: the build zone, where week three usually chases fifty. Over fifty: wired legs, so spend the minute on pauses and split squats. Retest on day twenty-eight, same depth, full minute, and comment your new number. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_squat_mid.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "SAME DEPTH, FULL MINUTE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "One minute a day for the transmission everything runs on. Start tomorrow, squat deep and smooth, and let your leg cables tighten their weave week after week. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "DEEP AND SMOOTH",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

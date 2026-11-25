@@ -1,0 +1,421 @@
+{
+ "id": "399",
+ "v5": true,
+ "title": "The 30-Day calf raises Experiment: Your Achilles tendon Week by Week",
+ "description": "The thirty-day calf raise experiment told week by week: a Sunday max test, a stronger signal each week, and the Achilles tendon adapting in four instalments you can watch. Take the day-zero test, learn how the spring rebuilds, follow the weekly plan, and compare your numbers at the end of each week.",
+ "tags": [
+  "calf raises",
+  "achilles tendon",
+  "calf experiment",
+  "single leg calf raise",
+  "30 day challenge",
+  "week by week",
+  "calisthenics"
+ ],
+ "hashtags": [
+  "calf raises",
+  "achilles tendon",
+  "30 day challenge",
+  "calf workout",
+  "week by week",
+  "calisthenics"
+ ],
+ "category": "experiments",
+ "badge": "EP 399 - ACHILLES WEEK BY WEEK",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_achilles_profile.webp",
+  "big": "4 WEEKS",
+  "hook": "ACHILLES WEEK BY WEEK",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_calf_raise_front.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test, and this experiment repeats it every Sunday. One leg on a step, heel off the edge, fingertips on the wall for balance only. Rise fully, lower below the step, and count slow, full reps until you cannot reach the top. That count is your NUMBER. Weaker leg, always, because the weaker leg writes this story. In thirty days we take the same test for the fifth time, and I will show you week by week what daily calf work did to your Achilles tendon. Keep the numbers in a row. Four Sundays from now, that row becomes the most convincing graph on your fridge.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: BASELINE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "SLOW, FULL REPS ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "WEAKER LEG WRITES IT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Calf work daily, Sunday tests.",
+      "30 days. Five readings."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "A GRAPH FOR THE FRIDGE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR REPS",
+   "label": "YOUR DAY-ZERO ACHILLES NUMBER",
+   "sub": "under 8: untrained - 12 to 20: building - over 25: wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the day-zero reading in plain terms. Under eight full reps on the weaker leg means the calf and Achilles system is untrained, the default for almost everyone who has not specifically trained it. Twelve to twenty is the building zone. Over twenty five slow reps, your Achilles is already a serious spring. This experiment runs in four weekly chapters, each with a stronger signal than the last and a Sunday test to record the response, so you do not get one before and after. You get a film of a tendon adapting. Your count today is frame one. Keep it with the four frames that follow, because together they will teach you your own tissue's calendar.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "FRAME ONE OF A FILM",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "5 READINGS",
+     "label": "ONE PER SUNDAY",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "YOUR TISSUE'S CALENDAR",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "achilles_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The mechanism is the spring, and this experiment watches it stiffen. Your Achilles tendon connects the calf muscles to the heel, and it is built like a braided cable that stores energy when stretched and returns it when released. In the calf raise, the rise loads the cable concentrically and the slow lowering loads it eccentrically, and the tendon reads both as one message: adapt. Its response, over weeks, is to add and organise collagen along the line of pull, becoming a thicker, stiffer, more reliable spring. A stiffer Achilles wastes less of every rep in slack, so the same calf produces more height, more reps, more everything. You will not watch this happen in a mirror. You will watch it happen in the Sunday numbers, which is why this experiment is structured around them. The graph is the microscope.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE SPRING, STIFFENING",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_achilles_profile.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE GRAPH IS THE MICROSCOPE",
+     "lines": [
+      "Tissue change is invisible.",
+      "Sunday numbers reveal it."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "LESS SLACK, MORE HEIGHT",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "BRAIDED CABLE LOGIC",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_eccentric_drop.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The week by week science here follows the tendon's own calendar, and it is slower than the nerves you met in other experiments. Week one is mostly skill and blood flow: your reps jump a little as the movement gets organised. Week two is the quiet construction site. Collagen turnover is at its highest, breakdown and building running together, and Sunday's test may barely move. This is the week that separates finishers from quitters across every tendon experiment ever run. Week three is when the new collagen starts paying rent: reps climb again, and the top of each rep feels strangely solid. Week four consolidates the spring, and the final test collects the month's work. Knowing this calendar in advance is a genuine advantage. When your week two test stalls, you will not panic. You will recognise construction when you see it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE TENDON'S OWN CALENDAR",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_calf_raise.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "WEEK 2: CONSTRUCTION SITE",
+     "lines": [
+      "Turnover at its highest.",
+      "Tests barely move. Normal."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "SUNDAY READINGS",
+     "items": [
+      [
+       "SUNDAY 0",
+       9,
+       "red"
+      ],
+      [
+       "SUNDAY 4",
+       26,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "RECOGNISE CONSTRUCTION",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "FINISHERS BEAT QUITTERS HERE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny advantage in this experiment is recovery arithmetic. A single-leg calf raise lifts your bodyweight, and a light bodyweight means each day's work costs the Achilles less, so you can honestly train daily while heavier guys are forced into rest days by week two. Tendon adaptation is paid per attended week, and your attendance will be perfect. There is a second, quieter edge: your Achilles sits close to the skin with little padding, so you can feel its behaviour precisely, the good stretch, the honest burn, the first whisper of irritation. That feedback lets you dose the work at the tendon's true limit instead of guessing. Precision plus attendance is the whole game in tendon training, and your frame hands you both before the experiment even starts.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "RECOVERY ARITHMETIC",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_calf_raise_front.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "PRECISION PLUS ATTENDANCE",
+     "lines": [
+      "Feel the tendon precisely.",
+      "Attend every session."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "DOSE AT THE TRUE LIMIT",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "BOTH EDGES BEFORE DAY ONE",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_calf_raise.webp",
+   "exercise": "CALF RAISES",
+   "work": 40,
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Raise with me. Three rounds, full range, heel below the step every rep, three seconds down. This slow lowering is the week's main signal. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_achilles_profile.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days, one chapter per week. Week one, Organise: two-leg raises on the step, three sets of twelve daily, slow tempo, and Sunday is reading one. Week two, Load: weight shifts to one leg, three sets of eight per side, four-second lowerings, and expect Sunday's test to move little. Little is the plan working. Week three, Build: true single-leg sets of ten to twelve, a pause at the top of every rep, and Sunday shows the rent arriving. Week four, Consolidate: keep the single-leg work, add a light backpack if reps passed twenty, shorten the work in the last three days, and the final Sunday is the day thirty test. The laws of the step never change: straight knee, no bounce at the bottom, heel below the edge on every rep, and the weaker leg always trains first while you are fresh. Break any law and the Sunday numbers will eventually testify against you. Keep the five Sunday numbers somewhere you will see them on hard weeks. A tendon experiment is a month-long argument between your patience and your tissue, and the graph is the patience side's best evidence. When week two whispers that nothing is happening, the row of numbers answers it for you.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: ORGANISE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "WEAKER LEG TRAINS FIRST",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: LITTLE IS THE PLAN",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "THE LAWS OF THE STEP",
+     "lines": [
+      "Straight knee, no bounce.",
+      "Heel below the edge."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "NUMBERS TESTIFY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "FINAL SUNDAY: DAY 30 TEST",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "25 REPS",
+     "label": "THE WIRED LINE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty, the fifth reading. Same step, weaker leg, full reps only. Here is how the film usually ends. The typical graph climbs from under ten to the low or mid twenties, with the week two stall sitting in the middle like a signature. If your final count crossed twenty five, your Achilles is a wired spring, and your jumps, sprints and stairs all just inherited a better engine. If your graph climbed steadily without a stall, your tendon was probably younger in training age and built while it learned. If the graph stalled and never restarted, audit the lowering speed first: fast lowerings are the classic way to do this whole month at half dose. Put your graph in the comments if you kept it, all five readings. Five numbers that show a tendon keeping its promises, slowly and then suddenly.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE FIFTH READING",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_eccentric_drop.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "MID TWENTIES",
+     "label": "THE TYPICAL ENDING",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "AUDIT THE LOWERING",
+     "lines": [
+      "Fast drops halve the dose.",
+      "Slow is the signal."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT YOUR GRAPH",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise_front.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Four weeks of slow raises, and the strongest spring you own gets measurably stronger. Keep a Sunday calf test in your life now and then, and subscribe for the next experiment. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "SLOWLY, THEN SUDDENLY",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "KEEP A SUNDAY TEST",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT EXPERIMENT SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

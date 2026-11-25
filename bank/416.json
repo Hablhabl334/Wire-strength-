@@ -1,0 +1,395 @@
+{
+  "id": "416",
+  "v5": true,
+  "title": "What 30 Days of push-ups Does to a Skinny Guy",
+  "description": "Thirty days of push-ups, served in small sets all day long instead of one brutal session. Start with an honest max set, learn what the lockout does to your chest tendons, and retest your number on day thirty.",
+  "tags": [
+    "push up test",
+    "push up challenge",
+    "30 day challenge",
+    "chest tendons",
+    "calisthenics",
+    "push ups daily",
+    "bodyweight pressing"
+  ],
+  "hashtags": [
+    "push ups",
+    "30 days",
+    "chest tendons",
+    "push up test",
+    "calisthenics",
+    "experiment",
+    "daily reps"
+  ],
+  "category": "experiments",
+  "badge": "EP 416 - PUSH-UPS EVERY DAY",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_top.webp",
+    "big": "50 REPS",
+    "hook": "SETS ALL DAY",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Get on the floor. | Hands under shoulders. | Body one line. | Lower down slowly. | Chest to the floor. | Press back up. | Lock the elbows. | That is one. | Keep going, strict. | No sagging hips. | No half reps. | The set ends | when form breaks. | Count your REPS. | Write the number down. | Keep it safe. | At the end | I tell you | what daily sets | do to it.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "CHEST TO FLOOR",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "NO HALF REPS",
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "FORM BREAKS = DONE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "KEEP YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "40 REPS",
+      "label": "YOUR MAX SET, DAY ONE",
+      "sub": "under 15: pressing unwired - over 50: cable chest",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Under fifteen strict reps, your pressing system is unwired, and unwired systems are this channel's favorite starting point. Fifteen to forty is the broad untrained middle. Over fifty strict, chest to floor, you are already a problem for most gym members. For thirty days you will not chase this set at all. You will feed it small sets all day, and let it come to you. The question is how far it travels when nobody is chasing it.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "LET THE SET COME TO YOU",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "SMALL SETS, ALL DAY",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "50+ REPS",
+          "label": "A PROBLEM FOR THE GYM",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_weak.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Every push-up ends at the same address: the lockout, the final inches where your arms straighten and the load passes through the tendons of the chest, shoulder and elbow at full tension. That address is where push-up strength is actually registered. The chest muscle produces the force, but the tendons decide how much of it survives the journey into the floor, and they make that decision based on the tension they have been trained to hold. One daily max set visits the lockout tired, sloppy, a few dozen times a week. Small sets all day visit it fresh, crisp, hundreds of times, each visit a clean instruction: hold this line, at full extension, under control. Tendons are patient students of exactly that lesson. There is a reason the men with legendary push-up numbers all trained the same way, in barracks and prison yards and fire stations: many sets, never to failure, spread across the whole day. They were not avoiding hard work. They were dosing the lockout the way it learns best.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "THE LOCKOUT IS THE ADDRESS",
+          "lines": [
+            "Force is made in the chest.",
+            "It is registered at the lockout."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "shoulder_anatomy_plate.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "FRESH AND CRISP, HUNDREDS OF TIMES",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "CLEAN LOCKOUTS PER WEEK",
+          "items": [
+            [
+              "DAILY SETS",
+              90,
+              "cyan"
+            ],
+            [
+              "ONE MAX SESSION",
+              30,
+              "white"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "THE BARRACKS METHOD",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_45_mid.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Spread volume has a second advantage that never makes the posters: it never ruins your day. A max-effort pressing session costs hours of heavy arms and a day of soreness, which is why most men's push-up months die in week two, murdered by their own enthusiasm. Sets of five to ten, done fresh, cost nothing you can feel, so the practice survives bad days, busy days, and tired days, and survival is the whole game in a thirty-day experiment. And your build is the method's natural athlete. Each rep presses about two thirds of your bodyweight; at sixty kilograms your tendons receive a strong signal at a bargain price, recover in minutes, and are ready again by the next doorway, the next kettle, the next ad break. The heavy man pays double for the same lesson and waits twice as long between classes. Frequency is a resource, and light men are rich in it. This month spends that wealth on the oldest pressing exercise there is.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ENTHUSIASM KILLS MONTHS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "SURVIVAL IS THE GAME",
+          "lines": [
+            "Fresh sets cost nothing.",
+            "The practice survives bad days."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_pushup_top.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "COST PER LESSON",
+          "items": [
+            [
+              "LIGHT",
+              40,
+              "cyan"
+            ],
+            [
+              "HEAVY",
+              80,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "LIGHT MEN ARE RICH IN FREQUENCY",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The protocol is a daily total with one rule: never let a set get ugly. Your total is twice your day-zero max, split into sets of five to ten, scattered across the day wherever the floor is available. Week one, hit the total on five days, learning the rhythm. Week two, six days, and add two reps to the total whenever a whole day passes without a single hard set. Week three, the total climbs toward three times your max, in the same small honest sets. Week four, hold the total but make every rep slower, a two-second lower and a full lockout pause, then rest completely the day before the retest. Form law, never amended: chest to the floor, elbows locked at the top, body in one line, and any set that cannot keep the law ends early without shame. Wrist or shoulder pain that sharpens is a stop, and if it persists, a professional gets a vote. The floor is everywhere. That is the facility, the schedule, and the whole secret.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "TWICE YOUR MAX, IN SMALL SETS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "NEVER LET A SET GET UGLY",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_pushup_weak.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "SHARP PAIN = STOP",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "stat",
+          "text": "3X MAX",
+          "label": "DAILY TOTAL BY WEEK THREE",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_mid.webp",
+      "exercise": "PUSH-UPS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Press with me, snack style. Three rounds: forty seconds of smooth strict push-ups, twenty seconds of rest. Chest to floor, lockout tall, stop the round while it still looks good. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is how your month will unfold, week by week. Week one, you will feel faintly ridiculous dropping for six push-ups in a hallway, and the soreness will be modest, almost disappointing, which is exactly the dose that survives. Week two, the sets turn invisible: the floor calls, you answer, you walk on, and the daily total quietly passes what used to be a workout. Week three, the lockout changes: the final inches, once the place sets went to die, start snapping shut like a door on good hinges, and your effort sets in the evening carry a strange surplus. Week four, the polish week, strangers' push-ups start looking wrong to you, all sag and half-depth, because your eye has been educated by a thousand clean reps. That is the hidden curriculum of spread volume: it does not just build the press, it builds the standard. The max test will simply be the graduation ceremony.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: FAINTLY RIDICULOUS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: THE SETS TURN INVISIBLE",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_pushup_top.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "THE HIDDEN CURRICULUM",
+          "lines": [
+            "A thousand clean reps.",
+            "Your standard gets built too."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "SNAPPING SHUT LIKE A DOOR",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Day thirty, one max set, strict law, chest to floor. The pattern this month produces in the untrained middle: max sets typically grow by half, and the growth looks different from gym growth, calmer, taller, with lockouts that finish like punctuation. Read your day zero against the bands: under fifteen, the hallway method was built for you. Fifteen to forty, you are a month from a different presser. Over fifty, keep two snack days a week and go feed a weaker system. Put your reps in the comments. Just the number. Thirty days from now, get on the floor and take it again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LOCKOUTS LIKE PUNCTUATION",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "shoulder_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE GRADUATION CEREMONY",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR REPS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of small sets, and the floor becomes the most honest gym you own. Your chest was never behind; its cables were under-visited at the lockout. Visit them daily. Retest in thirty days and bring me your reps. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "UNDER-VISITED, NOT BEHIND",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+ "id": "434",
+ "v5": true,
+ "title": "If You jump 20 times Daily, This Happens to Your bone density",
+ "description": "Twenty jumps a day takes less than a minute, and your bones are listening to every landing. Here is what four weeks of daily jumping does to your bone density, and the jump test that shows how much force your skeleton can really handle.",
+ "tags": [
+  "jumping",
+  "bone density",
+  "jump test",
+  "plyometrics",
+  "bone strength",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "jumping",
+  "daily jumps",
+  "bone density",
+  "plyometrics",
+  "vertical jump",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 434 - 20 JUMPS A DAY",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "BONE DENSITY",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_jump_peak.webp",
+  "big": "20 JUMPS",
+  "hook": "BONES UNDER LOAD",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand next to a wall and reach up as high as you can, fingers stretched. Mark that point in your mind. Now jump and touch as high as you possibly can. The distance between the two touches is your jump height, and it is your number today. Do it three times and keep your best. Write it down. That number is not just about legs. It is a report on how much force your whole skeleton can produce and absorb, and twenty jumps a day is about to rewrite it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "REACH, THEN JUMP",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "BEST OF THREE",
+     "label": "THAT IS YOUR NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "text": "20 JUMPS A DAY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "20 JUMPS",
+   "label": "THE SKELETON LINE",
+   "sub": "low jump + soft landings: bones unloaded - springy and quiet: bones loaded",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line nobody measures. If your jump is low and your landings are loud and heavy, your bones have been living an unloaded life, and unloaded bone quietly thins. If you jump well and land like a cat, your skeleton is used to force. Bone is not stone. It is living tissue that keeps exactly the strength you ask of it, and not one bit more.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "BONE IS NOT STONE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "LAND LIKE A CAT",
+     "label": "BONES UNDER LOAD",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "USE IT OR LOSE IT",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "BONE DENSITY",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one is about impact, and impact is information. Every landing sends a force spike through your skeleton several times your bodyweight, and bone cells are built to read exactly that signal. In the first week the change is mostly skill: your timing sharpens, your ankles stiffen at the right instant, and landings get quieter. Quiet landings mean the force is being managed by muscle and tendon instead of rattling your joints.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: IMPACT IS INFORMATION",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "big_vs_lean_jump.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "SEVERAL TIMES YOUR BODYWEIGHT",
+     "lines": [
+      "Every landing is a bone signal."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "QUIETER LANDINGS",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ankle_ligament_plate.webp",
+   "section": "BONE DENSITY",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the building order goes out. Bone responds to repeated impact by activating the cells that lay down new mineral, a slow construction project measured in weeks, not days. You will not feel your bones change. What you feel is the system around them: springier ankles, faster takeoffs, and a strange confidence when you land. The tendons stiffen first and shield the joints while the bone quietly reinforces itself underneath.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: THE BUILDING ORDER",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_jump_peak.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "TAKEOFF FEEL",
+     "items": [
+      [
+       "HEAVY",
+       35,
+       "red"
+      ],
+      [
+       "SPRINGY",
+       68,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "TENDONS SHIELD, BONE BUILDS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "section": "BONE DENSITY",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the hidden system stands revealed. Bone density follows a simple law: tissue adapts to the loads you repeat. Jumpers and gymnasts carry famously dense bones in their legs and hips, not because of magic, but because thousands of landings filed the same request. Twenty jumps a day is that request in miniature, and for a light guy the signal is even cleaner, because every landing is sharp, frequent and easy to recover from. Your skeleton is a savings account. Impact is the deposit.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "THE LAW OF BONE",
+     "lines": [
+      "Tissue adapts to repeated loads."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_jump_peak.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "IMPACT",
+     "label": "IS THE DEPOSIT",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "LIGHT = CLEAN SIGNAL",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_jump_peak.webp",
+   "exercise": "JUMPS",
+   "work": 20,
+   "rest": 20,
+   "rounds": 3,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now jump with me. Twenty jumps, land soft, spring tall, rest, repeat. Three rounds. Make every landing quiet. Go."
+  },
+  {
+   "type": "art",
+   "asset": "big_vs_lean_jump.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is twenty honest jumps a day. Jump on a forgiving surface, grass or a mat, never on concrete in bare feet. Land toe to heel, knees tracking over toes, and stop the set if your landings get loud, because loud means tired and tired means sloppy. Full recovery between jumps at first: quality impact is the signal, exhaustion is not. Add height slowly over weeks, and keep one full rest day if your shins start complaining.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "SOFT SURFACE ONLY",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO LOUD LANDINGS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "QUALITY OVER EXHAUSTION",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_jump_peak.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "SHINS VOTE TOO",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your jump number, judged. A small gap and heavy landings: an unloaded skeleton, and the most responsive starting point there is. A solid jump with quiet landings: the system works, so feed it daily deposits. A big springy jump: your bones are loaded and strong, so protect the streak and chase skill, one-leg hops and higher targets. Retest on day twenty-eight at the same wall and comment your new height. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_sprint.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "SAME WALL, SAME SHOES",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_jump_peak.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your bones are keeping score of every landing you give them. Start tomorrow, jump twenty times, land like a cat, and let your skeleton bank the deposit. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "LAND LIKE A CAT",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

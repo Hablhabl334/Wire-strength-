@@ -1,0 +1,421 @@
+{
+ "id": "396",
+ "v5": true,
+ "title": "I Tested walking after meals for 30 Days (The Results Surprised Me)",
+ "description": "Thirty days of post-meal walking, tested by the same meal and the same energy rating on day zero and day thirty, with a daily log in between. This round walks after the biggest meal only and tracks the whole month, and the log reveals which meals were stealing your afternoons. Take the test, learn the mechanism, follow the plan, and compare your numbers.",
+ "tags": [
+  "walking after meals",
+  "post meal walk",
+  "blood sugar",
+  "energy levels",
+  "30 day challenge",
+  "glucose control",
+  "walking benefits"
+ ],
+ "hashtags": [
+  "post meal walk",
+  "blood sugar",
+  "30 day challenge",
+  "walking",
+  "energy levels",
+  "healthy habits"
+ ],
+ "category": "experiments",
+ "badge": "EP 396 - MEAL WALKS, TESTED",
+ "checklist": [
+  "DAY 0 TEST",
+  "THE MECHANISM",
+  "THE 30-DAY PLAN",
+  "DAY 30 VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_calf_raise_front.webp",
+  "big": "10 MIN",
+  "hook": "WALKS AFTER MEALS",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_leg_swing.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Day zero. Before any training, we take the test, and this test is a meal. Eat your biggest normal meal, exactly as you usually eat it. Then sit down and live your normal afternoon. One hour after the meal, write down two things: your energy from one to ten, and whether the slump came, yes or no. That pair is your NUMBER. In thirty days we repeat the same meal, add a ten-minute walk after it, and take the same reading at the same hour. I will show you what the log of the month reveals about your afternoons. Keep your number close, and keep the meal honest. Testing works when nothing is staged.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY ZERO: A MEAL IS THE TEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "ENERGY 1 TO 10, SLUMP YES OR NO",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "NOTHING STAGED",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "title": "THE EXPERIMENT",
+     "lines": [
+      "Walk after the biggest meal.",
+      "30 days. Daily log."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THE LOG REVEALS ALL",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "YOUR SCORE",
+   "label": "YOUR DAY-ZERO AFTERNOON READING",
+   "sub": "energy 1 to 4 with slump: the crash owns you - 5 to 7: coping - 8 to 10, no slump: steady",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is how to read your afternoon reading. Energy of one to four with a slump means the post-meal crash owns a piece of your day, every day, and you have probably been blaming your sleep, your age or your character for it. Five to seven means your system copes at a cost. Eight to ten with no slump means your glucose handling is already steady, and this month becomes fine-tuning. Understand what you are really logging: the felt shadow of your blood sugar curve after your biggest meal. You cannot see the curve without a sensor, but you can absolutely feel its crash, and a month of honest feelings, written down, becomes a dataset. In thirty days we take the same reading after the same meal, with a walk in the middle.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE FELT SHADOW OF THE CURVE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "OF HONEST FEELINGS",
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "mark",
+     "text": "FEELINGS BECOME A DATASET",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The mechanism deserves one more clear pass, because it is the engine of the whole month. After a meal, glucose floods in from your gut, and it must be cleared. Your muscles are the largest clearing crew available, but only when they contract. Walking switches on glucose transporters in the leg muscles that pull sugar directly from the blood, no insulin required for that doorway. Your calves deserve special mention: the soleus, the deep calf muscle, is a famously hungry glucose user, built for hours of low-level work, and it is working through every step of your ten minutes. So the walk is not burning off lunch. It is opening the warehouse doors while the delivery truck is still at the gate. Smaller peak, smaller crash, steadier afternoon. That is the entire trick, and it works from the very first day.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE CLEARING CREW IS MUSCLE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_calf_raise_front.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE SOLEUS: GLUCOSE HUNGRY",
+     "lines": [
+      "Deep calf, built for hours.",
+      "Working every step you take."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "DOORS OPEN DURING DELIVERY",
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "WORKS FROM DAY ONE",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_sprint.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "What surprised me in this test was not that the walk worked. It was what the LOG showed by week three. The slump was never random. It belonged to specific meals: the biggest, the whitest, the ones eaten fastest at a desk. On walk days after those same meals, the slump mostly vanished. On the two days I skipped the walk, it returned like it had never left. That pattern is the real deliverable of this experiment. A glucose sensor would show you the same story in curves; the log shows it in your actual life, with your actual food. There is a lesson in that for every experiment on this channel: the body keeps receipts, and a simple daily log is how you read them. Your energy ratings across thirty days will show you your personal glucose map, which meals spike you, which walks save you, and exactly where ten minutes buys the most afternoon.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "THE SLUMP WAS NEVER RANDOM",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_leg_swing.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "THE BODY KEEPS RECEIPTS",
+     "lines": [
+      "A daily log reads them.",
+      "No sensor required."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 19,
+     "kind": "bars",
+     "title": "SLUMP DAYS PER WEEK",
+     "items": [
+      [
+       "WEEK 1",
+       5,
+       "red"
+      ],
+      [
+       "WEEK 4",
+       1,
+       "cyan"
+      ]
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 24,
+     "kind": "chip",
+     "text": "YOUR PERSONAL GLUCOSE MAP",
+     "pos": "br"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "SKIPPED DAYS TELL THE TRUTH",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_leg_swing.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "The skinny angle on meal walks is worth repeating, because the fear is real and wrong. Skinny guys avoid extra movement like it is a tax on their gains. But a ten-minute easy walk costs you almost nothing in calories, while it decides where a thousand calories of lunch get stored and how awake you are to train later. There is a second advantage specific to you: your problem is rarely willpower. It is throughput. Eating enough to grow means your digestion is your bottleneck, and post-meal walks are the oldest digestion aid in existence, used by cultures that never heard of a glucose sensor. A guy who digests lunch comfortably eats dinner hungrily. Over thirty days, that compounds into more food actually used. This experiment is secretly a gaining experiment wearing a health costume.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "A GAINING EXPERIMENT IN COSTUME",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_calf_raise.webp"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "THROUGHPUT IS YOUR BOTTLENECK",
+     "lines": [
+      "Digestion decides growth.",
+      "Walks widen the bottleneck."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "COMPOUNDS INTO FOOD USED",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 21,
+     "kind": "chip",
+     "text": "ALMOST ZERO CALORIE COST",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_calf_raise_front.webp",
+   "exercise": "SOLEUS RAISES",
+   "work": 60,
+   "rest": 20,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Train with me. The rainy-day version of the walk: slow calf raises, three rounds, squeezing the deep calf that drinks the glucose. If you can walk instead, walk. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "THE PROTOCOL",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the exact thirty days. One meal, one walk, one log entry, every day. Choose your biggest meal and defend the walk after it like an appointment. Week one: walk ten minutes within fifteen minutes of finishing, then log your energy and slump at the one-hour mark. Week two: same walk, same log, and add one experiment inside the experiment: on two days, delay the walk by an hour and log the difference, because feeling the contrast teaches more than any video. Week three: keep the walk and log, and attack your worst meal from the log, the one that slumps you hardest, with the most reliable walk of the week. Week four: hold the habit, keep the log clean, and notice your average energy score for the week. Day thirty: the day-zero meal, the walk, the same reading. The rules: the walk is easy, conversational pace, because intensity is not the mechanism here. Shoes by the door beat motivation. And the log is sacred: a day without an entry is a day the experiment cannot learn from.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: ONE MEAL, ONE WALK",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "LOG AT THE ONE-HOUR MARK",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "WEEK 2: DELAY TWO WALKS",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "FEEL THE CONTRAST",
+     "lines": [
+      "Delayed walks teach the timing.",
+      "Better than any video."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "THE LOG IS SACRED",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 29,
+     "kind": "chip",
+     "text": "DAY 30: SAME MEAL, SAME READING",
+     "pos": "br"
+    },
+    {
+     "at": 34,
+     "kind": "stat",
+     "text": "10 MIN",
+     "label": "THE WHOLE PRESCRIPTION",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_leg_swing.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Day thirty. Same meal, the walk, the same reading at the same hour. Here is how to read the month. If your energy score climbed two or more points and slump days fell away, the mechanism confirmed itself in your own data, which is worth more than any study. If your score climbed but the log shows one meal still beating you, you found your personal final boss: that meal needs the walk most, or a smaller, slower version of itself. If nothing changed across thirty honest days, your afternoons were probably never a glucose problem, and that is genuinely useful to know, because it points you at sleep instead. Put both numbers in the comments, day zero and day thirty, and your slump days per week if you logged them. Data beats slogans, and your log is data.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME MEAL. SAME READING.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_sprint.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "+2 OR MORE",
+     "label": "THE MECHANISM CONFIRMED",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "fact",
+     "title": "YOUR FINAL BOSS MEAL",
+     "lines": [
+      "The log names it.",
+      "Walk hardest after that one."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "COMMENT BOTH NUMBERS",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise_front.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days of ten-minute walks, and your afternoons stop belonging to the slump. Keep the walk after your biggest meal forever, and subscribe to run the next test with me. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "AFTERNOONS ARE YOURS AGAIN",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "KEEP THE BIGGEST-MEAL WALK",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST SOON",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

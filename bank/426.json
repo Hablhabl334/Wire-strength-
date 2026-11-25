@@ -1,0 +1,351 @@
+{
+ "id": "426",
+ "v5": true,
+ "title": "The pull-ups Habit Nobody Trains (It Builds Your back tendons)",
+ "description": "One minute of pull-ups a day sounds like nothing. Here is what actually happens to your back tendons across four weeks of it, why your pull-up number moves long before your mirror does, and the exact daily protocol to run it.",
+ "tags": [
+  "pull-ups",
+  "pull-up training",
+  "back tendons",
+  "tendon training",
+  "calisthenics",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "pull ups",
+  "daily pull ups",
+  "back workout",
+  "tendon training",
+  "calisthenics",
+  "bodyweight training"
+ ],
+ "category": "whathappens",
+ "badge": "EP 426 - THE PULL-UP HABIT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "BACK TENDONS",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pullup_top.webp",
+  "big": "5 REPS",
+  "hook": "YOUR BACK NUMBER",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a bar. | Jump up. | Grip it hard. | Pull yourself up. | Chin over the bar. | That is ONE. | Keep going. | No swinging. | No kicking. | Clean reps only. | Stop when you fail. | That number? | Write it down. | Most skinny guys | land under FIVE. | Now picture this. | That same minute. | Every single day. | For four weeks. | Your back cables | will not stay | the same cables. | Stay for the timeline.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "NO GYM NEEDED",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "text": "COUNT IT",
+     "label": "EVERY REP COUNTS",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "4 WEEKS",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "5 REPS",
+   "label": "THE UNTRAINED LINE",
+   "sub": "under 3: cables asleep - over 10: back is wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the honest line for a skinny guy. Under three clean pull-ups, your back tendons are simply untrained, and that is good news, because untrained cables respond fast. Three to eight, you are building. Over ten, your back is already wired better than most lifters twice your size.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "UNTRAINED = FAST GAINS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "10+ REPS",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "SIZE IS NOT THE TEST",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "BACK TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one is not about strength yet. Your back muscles already know how to pull. What is missing is the signal and the cable stiffness behind it. The first daily minutes wake up the nerves that fire your lats, and your reps feel smoother before they feel stronger. Expect messy reps, burning forearms, and one surprise: the second day is easier than the first, because your nervous system learns the groove overnight.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: THE WAKE-UP",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "FIRST GAINS ARE NERVE GAINS",
+     "lines": [
+      "Coordination improves before size does."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "SMOOTHER, NOT STRONGER (YET)",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "BACK TENDONS",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two is where the cables start their slow work. Tendons do not adapt like muscle. They respond to repeated tension by laying down fresh collagen, the raw material of a thicker, stiffer cable. You will not see it in the mirror. You will feel it at the bar: the dead hang at the bottom feels solid, the first pull feels spring-loaded, and your last rep stops shaking. That stiffness is the whole game, because a stiff cable wastes none of your pull.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: COLLAGEN WEEK",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_doorframe_row.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "WHERE THE PULL GOES",
+     "items": [
+      [
+       "WASTED",
+       30,
+       "red"
+      ],
+      [
+       "DELIVERED",
+       70,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "LESS SHAKE = STIFFER CABLE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "BACK TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the mechanism is fully visible. Your back tendons, the cables running from your lats into your arms and spine, have had twenty-eight days of daily tension signals. Research on tendon training shows collagen synthesis stays elevated for days after each loading session, so a daily minute keeps the construction crew on site permanently. Muscle shouts. Tendons whisper. But the whisper is what turns five shaky reps into eight clean ones, and it is why light guys who train cables daily out-pull bigger guys who only train mirrors.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "THE HIDDEN SYSTEM",
+     "lines": [
+      "Daily tension keeps collagen building."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pullup_top.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "28 DAYS",
+     "label": "OF DAILY TENSION SIGNALS",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "MUSCLE SHOUTS, TENDONS WHISPER",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pullup_mid.webp",
+   "exercise": "PULL-UPS",
+   "work": 60,
+   "rest": 0,
+   "rounds": 1,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now your minute. Hang, pull, repeat, clean reps only. Stop ten seconds before failure. This is day one of your timeline. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_doorframe_row.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Here is the protocol, and it fits in one minute. Every day, do pull-ups in small clean sets until sixty seconds of total work is done. Never grind a failed rep. If you cannot do one full pull-up yet, use slow negatives and doorframe rows until you can. Add one rep to your best set each week, not each day. And keep the same bar, the same grip, the same time of day, so your retest number is honest.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "SMALL CLEAN SETS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO GRINDING FAILED REPS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "+1 REP PER WEEK",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "SAME BAR, SAME GRIP",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "So, your number from the start. Under three: your cables are asleep, and this month will wake them fast. Three to eight: you are mid-build, and week four is where you jump. Over ten: protect the streak, because your back is already a weapon. Retest on day twenty-eight, same bar, and put your new number in the comments. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "THE STREAK IS THE PROGRAM",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "You now know what the days do to a back. The only question is whether you give the habit the days. Start tomorrow, keep it to one honest minute, and let the calendar do the heavy lifting. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "ONE HONEST MINUTE",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

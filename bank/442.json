@@ -1,0 +1,351 @@
+{
+ "id": "442",
+ "v5": true,
+ "title": "What 1 Minute of pull-ups Every Day Does to Your back tendons",
+ "description": "Sixty seconds of pull-ups a day, spread however you like, is a tendon program in disguise. Here is what four weeks of that minute does to your back tendons, and the pull-up test that shows exactly where your back stands today.",
+ "tags": [
+  "pull-ups",
+  "back tendons",
+  "one minute workout",
+  "grease the groove",
+  "tendon training",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "pull ups",
+  "one minute pull ups",
+  "back workout",
+  "daily pull ups",
+  "tendon training",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 442 - PULL-UPS DAILY",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "BACK TENDONS",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pullup_mid.webp",
+  "big": "1 MIN",
+  "hook": "PULL-UPS DAILY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Grab the bar. | Pull up clean. | Chin over. | Lower down slow. | That is ONE. | Keep them coming. | No swinging allowed. | Full range only. | Stop at failure. | Count the reps. | That number? | Write it down. | It feels small. | Most skinny guys | get under FIVE. | But one minute | of this daily | for four weeks | rebuilds the cables | behind every rep. | Here is how.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "FULL RANGE ONLY",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "text": "COUNT THE REPS",
+     "label": "STOP AT FAILURE",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "1 MINUTE A DAY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "1 MIN",
+   "label": "THE VOLUME LINE",
+   "sub": "under 3 reps: cables asleep - over 10: back is wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the honest math. One minute of pull-ups a day is roughly fifteen hundred quality reps a year, every one of them loading your back tendons. Under three reps today means the cables are untrained, not broken. Three to eight is the build zone. Over ten clean reps means your back tendons already outwork men with twice your mass.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "UNTRAINED, NOT BROKEN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "1,500 REPS",
+     "label": "A YEAR OF LOADING",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "QUALITY OVER MASS",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "BACK TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one is the groove week. Spread across a day or done in one minute, frequent small sets teach your nervous system the pull-up pattern until it feels like a reflex. The reps get cleaner before they get more numerous: your chest finds the bar, your elbows drive down instead of out, and the wobble at the top disappears. Skill is the first strength, and daily frequency is the fastest skill teacher there is.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: THE GROOVE",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_pullup_top.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "SKILL IS THE FIRST STRENGTH",
+     "lines": [
+      "Frequency teaches faster than intensity."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "CLEANER BEFORE MORE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_mid.webp",
+   "section": "BACK TENDONS",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the tendons file their report. The cables that run from your lats into your upper arms and along your spine take the full load of every rep, and daily loading starts their remodeling: more collagen, tighter fibers, less give. You feel it as a harder start to each rep, a pull that begins instantly instead of stretching like elastic. Instant force is tendon stiffness, and it makes every rep cheaper than the last.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: INSTANT FORCE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_doorframe_row.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "REP START",
+     "items": [
+      [
+       "ELASTIC",
+       45,
+       "red"
+      ],
+      [
+       "INSTANT",
+       72,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "EVERY REP GETS CHEAPER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "BACK TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the mechanism is complete and compounding. Tendon research shows this tissue adapts to the total pattern of loading over weeks, and a daily minute is the most consistent pattern a human can keep. Your back tendons are now stiffer cables feeding stronger signals, and your rep count has climbed without a single heavy session. This is the skinny guy's loophole: the big guys need recovery days from their loads. You can file a quality minute every day of the year, and consistency is the strongest drug in training.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "THE CONSISTENCY LOOPHOLE",
+     "lines": [
+      "Daily quality beats weekly heaviness."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pullup_top.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "EVERY DAY",
+     "label": "OF THE YEAR",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "NO RECOVERY DAYS NEEDED",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pullup_top.webp",
+   "exercise": "PULL-UPS",
+   "work": 60,
+   "rest": 0,
+   "rounds": 1,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now your minute. Clean singles or small sets, full range, stop before failure. This is day one of the streak. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_doorframe_row.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is one minute, greased through the day or done at once. Use sets of half your max, so every rep is crisp, and never let a set reach failure. If one full rep is not there yet, slow negatives and doorframe rows build the same cables until it is. Keep the bar where you live: a doorway bar turns the habit into a reflex, because the best program is the one standing in your hallway. Log your daily total, and beat it weekly.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "HALF YOUR MAX PER SET",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NEVER TO FAILURE",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "THE HALLWAY BAR",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "LOG THE DAILY TOTAL",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your number, judged. Under three: asleep cables, and this month will feel unfair in your favor. Three to eight: the build zone, where week three usually adds two clean reps. Over ten: a wired back, so make the minute harder with slower lowers and pauses at the top. Retest on day twenty-eight, same bar, full range, and comment your new number. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "SAME BAR, FULL RANGE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "One minute a day is all your back tendons ever asked for. Start tomorrow, pull clean, and let the smallest streak in your life rebuild your back. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "THE SMALLEST STREAK",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

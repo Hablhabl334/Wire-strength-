@@ -1,0 +1,347 @@
+{
+ "id": "437",
+ "v5": true,
+ "title": "What 1 Minute of calf raises Every Day Does to Your Achilles tendon",
+ "description": "One minute of calf raises a day sounds like a warm-up. For your Achilles tendon, it is a construction project. Here is the four-week timeline, and the single-leg calf test that tells you exactly how strong your Achilles really is.",
+ "tags": [
+  "calf raises",
+  "achilles tendon",
+  "calf test",
+  "ankle strength",
+  "tendon training",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "calf raises",
+  "daily calf raises",
+  "achilles tendon",
+  "calf workout",
+  "tendon training",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 437 - CALF RAISES DAILY",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "ACHILLES",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_calf_raise.webp",
+  "big": "25 REPS",
+  "hook": "YOUR CALF NUMBER",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand on one foot near a wall, fingertips resting on it for balance only. Rise up onto your toes as high as you can, lower slowly, and repeat. Count your full, clean reps until your heel cannot reach the top anymore. That number is your Achilles report card. Test both sides and write down the weaker one. Most skinny guys land under fifteen on one side, and the gap between your two legs is the most useful data of all.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "ONE FOOT, FULL HEIGHT",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "COUNT TO FAILURE",
+     "label": "CLEAN REPS ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "TEST BOTH SIDES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "text": "THE GAP IS DATA",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "25 REPS",
+   "label": "THE ACHILLES LINE",
+   "sub": "under 15: tendon untrained - over 30: achilles is wired",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line used by people who study calves for a living. Under fifteen single-leg reps, your Achilles is untrained, and your weaker side is a warning light. Fifteen to twenty-five, you are building. Over thirty slow, full reps per side means your Achilles is a serious cable, the kind that sprinters and jumpers are made of.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "THE WEAK SIDE IS A WARNING",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "30+ REPS",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "SPRINTER MATERIAL",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "achilles_anatomy_plate.webp",
+   "section": "ACHILLES",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one wakes the giant up. Your Achilles is the thickest tendon in your body, built to store and return energy with every step, and it has probably never been trained on purpose. The first daily minutes feel strange: the burn sits deep, the reps feel wobbly at the top, and the weaker leg exposes itself by rep ten. That wobble is your nervous system learning to aim a very powerful cable.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: WAKE THE GIANT",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_achilles_profile.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "THE THICKEST TENDON YOU OWN",
+     "lines": [
+      "Built to store and return energy."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "THE WEAK LEG SHOWS ITSELF",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "ACHILLES",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the remodeling starts. Tendons answer daily load by synthesizing collagen and packing the fibers tighter, and the Achilles, loaded with multiples of your bodyweight in normal life, is designed for exactly this work. Your reps slow down and clean up: full height at the top, a pause, a slow descent. The slow descent is where the tendon earns the most, because lowering under control is the heaviest signal you can send it without weights.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: THE REMODEL",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_eccentric_drop.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "REP QUALITY",
+     "items": [
+      [
+       "BOUNCY",
+       35,
+       "red"
+      ],
+      [
+       "CONTROLLED",
+       72,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "THE DESCENT PAYS MOST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "achilles_anatomy_plate.webp",
+   "section": "ACHILLES",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four you own a different spring. A stiffer, stronger Achilles returns more energy with every step, which is why daily calf people notice walking feels lighter and stairs feel shorter. Research on tendon loading shows stiffness gains within weeks of consistent work, and the Achilles is the most trainable tendon you have. For a skinny guy this is free athleticism: the spring was always in your legs, it just needed a daily reason to stiffen. If your Achilles ever aches sharply in the morning, ease off and see a professional if it persists.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "FREE ATHLETICISM",
+     "lines": [
+      "The spring was always in your legs."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_calf_raise_front.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "MOST TRAINABLE",
+     "label": "TENDON YOU OWN",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "WALKING FEELS LIGHTER",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_calf_raise.webp",
+   "exercise": "CALF RAISES",
+   "work": 30,
+   "rest": 15,
+   "rounds": 3,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now raise with me. Up tall, pause, lower slow. Thirty seconds a side, three rounds. Chase height, not speed. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_eccentric_drop.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is one minute of quality a day. Do slow single-leg raises, three seconds up and three seconds down, until the minute is full. Train the weaker side first and match its reps on the strong side, never more, so the gap closes instead of growing. Progress to a step edge for a deeper stretch when flat ground gets easy. And keep the reps silent and smooth: bouncing is your tendon asking for help from momentum instead of strength.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "WEAK SIDE FIRST",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO BOUNCING",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "3 SECONDS DOWN",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_achilles_profile.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "MATCH, NEVER EXCEED",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_achilles_profile.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your calf number, judged. Under fifteen: an untrained Achilles, and the fastest spring upgrade available to you. Fifteen to twenty-five: the build zone, where week three usually evens the two sides out. Over thirty per side: wired cables, so add the step edge and slow the descent further. Retest on day twenty-eight, weaker side first, and comment your new number. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_calf_raise.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "WEAKER SIDE FIRST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_calf_raise.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "One minute a day for the strongest spring in your body. Start tomorrow, raise slow, and let your Achilles quietly turn into the cable it was designed to be. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "RAISE SLOW",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

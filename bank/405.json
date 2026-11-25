@@ -1,0 +1,395 @@
+{
+  "id": "405",
+  "v5": true,
+  "title": "The 30-Day push-ups Experiment: Your chest tendons Week by Week",
+  "description": "Thirty days of push-ups, starting with one honest max set. Learn what your chest tendons and the lockout have to do with your number, climb the daily volume ladder, and retest on day thirty to see what a month of pressing actually builds.",
+  "tags": [
+    "push up test",
+    "push up challenge",
+    "30 day challenge",
+    "chest tendons",
+    "calisthenics",
+    "push up max",
+    "bodyweight pressing"
+  ],
+  "hashtags": [
+    "push ups",
+    "30 days",
+    "chest tendons",
+    "push up test",
+    "calisthenics",
+    "experiment",
+    "max reps"
+  ],
+  "category": "experiments",
+  "badge": "EP 405 - 30 DAYS OF PUSH-UPS",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_top.webp",
+    "big": "40 REPS",
+    "hook": "PUSH-UP TEST",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Get on the floor. | Hands under shoulders. | Body one line. | Lower down slowly. | Chest to the floor. | Press back up. | Lock the elbows. | That is one. | Keep going, strict. | No sagging hips. | No half reps. | The set ends | when form breaks. | Count your REPS. | Write the number down. | Keep it safe. | At the end | I tell you | what it means.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "CHEST TO FLOOR",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "NO HALF REPS",
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "FORM BREAKS = DONE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "KEEP YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "40 REPS",
+      "label": "STRICT PUSH-UPS, CHEST TO FLOOR",
+      "sub": "under 15: unwired pressing - over 50: cable chest",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Under fifteen strict reps, your pressing system is unwired, which is a starting line, not a verdict. Fifteen to forty is the broad untrained middle, strong enough to live on, never trained to grow. Over fifty strict, chest to floor, you press better than almost everyone you know. The experiment: thirty days of structured volume, then the same test. How far does the middle move?",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "A STARTING LINE, NOT A VERDICT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "STRICT OR IT DOESN'T COUNT",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "50+ REPS",
+          "label": "CABLE CHEST TERRITORY",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_weak.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Watch where a push-up set actually dies. It is rarely at the bottom, where the chest is loaded and strong. Sets die at the top, in the last inches before lockout, where the triceps and the tendons crossing the elbow and shoulder must finish the press with tired muscles and full tension. Those finishing inches are tendon country. The chest tendons transfer the muscle's force into the arm, and like every cable in this series, they adapt to the tension they feel most often. A month of daily push-ups is a month of the lockout being loaded hundreds of times, at full extension, under control. There is a second quiet worker: the shoulder tendons, stabilizing the joint while everything moves. Pressing volume is how a light frame builds the connective hardware of a much bigger presser, without ever touching a barbell. The number on day thirty is mostly a report on that hardware.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "SETS DIE AT THE TOP",
+          "lines": [
+            "The lockout is tendon country.",
+            "Tired muscle, full tension."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "shoulder_anatomy_plate.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "THE LOCKOUT LOADS DAILY",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "WHERE REPS ARE LOST",
+          "items": [
+            [
+              "LOCKOUT",
+              80,
+              "gold"
+            ],
+            [
+              "BOTTOM",
+              35,
+              "white"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "HARDWARE, NOT JUST MUSCLE",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_45_mid.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Push-ups are the light man's home field, and the physics is not close. You press roughly two thirds of your bodyweight. At sixty kilograms that is forty kilos per rep; at a hundred kilograms it is sixty-five, and the heavy man's tendons pay that tax on every single rep while his recovery pays it again at night. You can press daily, accumulate enormous weekly volume, and wake up ready. He cannot, which is why high-rep push-up records are owned by lean men, not by the biggest benches in the gym. This experiment exploits that edge deliberately: the ladder climbs by volume, the one resource your bodyweight makes cheap. The big guy's push-up month would be a recovery problem. Yours is just a schedule. Thirty days of showing up is the entire trick, and showing up is the thing light bodies do best. Ask any veteran of high-rep pressing what finally stops a set and the answer is rarely the chest. It is the finishing gear, the last inches, the cables and small engines that everyone skips. This month skips nothing.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "TWO THIRDS OF YOUR WEIGHT",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "THE VOLUME EDGE",
+          "lines": [
+            "Cheap reps, fast recovery.",
+            "Records belong to lean men."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_pushup_top.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "LOAD PER REP",
+          "items": [
+            [
+              "LIGHT 60KG",
+              40,
+              "cyan"
+            ],
+            [
+              "HEAVY 100KG",
+              65,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "SHOWING UP IS THE TRICK",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The protocol is a ladder with three rails. Rail one: your daily total starts at half your day-zero max, split into sets of five to ten easy reps spread across the day. Rail two: add roughly ten percent more total reps each week, never more, because tendons file complaints late and all at once. Rail three: twice a week, one honest effort set, stopping two reps before form breaks, to teach the system what near-max feels like without living there. Week one, learn the schedule. Week two, the total climbs. Week three is the big week, the highest volume of the month. Week four, cut the total by a third and sharpen: fewer reps, perfect lockouts, arriving at day thirty fresh and loaded. Rules that protect the month: chest to floor or it is not a rep, lockout every rep or it is not finished, and wrist or shoulder pain that sharpens means stop, rest, and see a professional if it persists.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HALF YOUR MAX, DAILY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "+10% A WEEK, NEVER MORE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_pushup_weak.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "LOCKOUT EVERY REP",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "stat",
+          "text": "WEEK 3",
+          "label": "THE BIG VOLUME WEEK",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_mid.webp",
+      "exercise": "PUSH-UPS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Press with me, day-one style. Three rounds: forty seconds of smooth strict push-ups, twenty seconds of rest. Chest to floor, lockout at the top, no sagging. Find your rhythm. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is how the month unfolded, week by week. Week one, the chest and shoulders were sore in the honest way, and the daily sets felt like a chore with a clipboard. Week two, something shifted: the first sets of the day turned automatic, the body dropping and pressing before the mind finished deciding, which is what a wiring upgrade looks like from inside. Week three, the big volume week, the lockout changed character: the last inches stopped being a wall and became a door, the triceps and tendons finishing reps that week one would have buried. Week four, the taper made everything feel suspiciously light, and the effort sets carried a strange calm. Our subject noticed it most away from training: pushing doors, getting up off the floor, bracing in a crowd. Pressing had become a background strength, always on. By the final week the daily sets had shrunk in his mind from a workout to a ritual, like making coffee. That demotion is a victory: strength that costs no willpower is strength you keep for years.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: HONEST SORENESS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: AUTOMATIC SETS",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_pushup_top.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "THE WALL BECAME A DOOR",
+          "lines": [
+            "Lockouts finishing clean.",
+            "Tendons doing their job."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "BACKGROUND STRENGTH",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Day thirty, one max set, strict rules, chest to floor. The pattern this experiment produces in the untrained middle: max sets typically grow by half in a month, and the reps look different, taller at the lockout, calmer at the bottom. Read your day zero against the bands: under fifteen, this ladder was built for you. Fifteen to forty, you are one month from pressing like a different person. Over fifty, maintain the volume twice a week and go build a weaker system. Put your reps in the comments. Just the number. Thirty days from now, get on the floor and take it again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "MAX SETS GROW BY HALF",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "shoulder_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "ONE MAX SET, STRICT",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR REPS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of pressing, and the floor becomes your gym for life. Your chest was never small where it counts; its cables were never loaded at the lockout. Load them daily. Retest in thirty days and bring me your reps. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "LOAD THE LOCKOUT",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

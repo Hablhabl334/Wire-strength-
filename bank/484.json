@@ -1,0 +1,382 @@
+{
+ "badge": "EP 484 - FLAG HOLD TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVERAGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Grab a pole, push with one arm, pull with the other, and lift your body sideways. Your flag hold time reveals the truth about your oblique leverage: the side of your trunk is the beam, and gravity is pulling the far end down. Take the test and learn how the human flag is really a leverage problem.",
+ "hashtags": [
+  "human flag",
+  "oblique leverage",
+  "flag hold",
+  "calisthenics skills",
+  "core strength",
+  "side plank"
+ ],
+ "id": "484",
+ "scenes": [
+  {
+   "asset": "ren_hip_rotation.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIND A STURDY POLE"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "TUCK COUNTS, STRAIGHT IS THE DREAM",
+     "pos": "br",
+     "text": "HOLD"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BODY SIDEWAYS, OFF THE GROUND"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT TIME IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "music": "dark",
+   "narration": "Here is your test. Find a sturdy pole, a rack, anything vertical that will not move. Bottom hand pushes, top hand pulls, arms straight. Now lift your feet off the ground and hold your body sideways, off the floor, knees tucked if you need to, straight if you can. Start the clock the moment your feet leave the ground. The second you touch down, sag into a banana, or your arms bend to survive, stop it. That time is your number. The human flag is the most photographed skill in calisthenics. This clock is the part nobody posts. Two safety notes before the clock. Test the pole with your full weight hanging from one arm first; a flag on a loose pole ends in a story you do not want. And start low, close to the ground, because your first exits will be drops, not graceful dismounts. Grass or a mat under you turns every failed attempt into information instead of injury. The flag forgives beginners everything except carelessness about the setup.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "5 SEC TUCK = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "STRAIGHT FLAG TERRITORY",
+     "pos": "br",
+     "text": "10+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "1 SECOND IS A START"
+    }
+   ],
+   "big": "5 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "OF TUCK FLAG IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Five seconds of tuck flag, body off the ground, arms straight, is where your side body stops being a bystander and becomes a beam. Under two seconds, the lever is winning, which is where every flag story in history begins. Ten seconds tucked, or any honest straight seconds at all, and you are in flag territory that most viewers will never touch. Judge the attempt by the clock, not the photo. A screenshot can fake a flag. Five seconds cannot. Film your attempt from the front if you can. The flag hides a cheat the clock cannot see: the slow twist toward the pole that turns a side hold into a front hold over five seconds. Your honest number is the time until the twist, the bend, or the touchdown, whichever arrives first. Graded that way, your five seconds is worth more than most twenty-second videos on the internet, and your obliques will be paid accordingly.",
+   "section": "THE NUMBER",
+   "sub": "under 2 sec: the lever wins - 10 sec tuck: flag territory",
+   "type": "card"
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Your body is a horizontal beam.",
+      "Your obliques are the cables holding it."
+     ],
+     "pos": "tr",
+     "title": "A BEAM ON ITS SIDE"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "PUSH BELOW, PULL ABOVE"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE SIDE PAYS THE BILL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Understand the structure. In the flag, your body is a horizontal beam stuck out from a pole, and gravity pulls the far end, your feet, straight down. Two things resist. Your arms make a push-pull frame, bottom arm pushing, top arm pulling. And your obliques, the muscles wrapping your side, act as the cables that keep the beam from folding at the waist. Most failed flags are not arm failures. The beam folds in the middle because the side cables cannot pay the lever's price. That is oblique leverage: your trunk's side wall, holding your whole body out against gravity, priced by how far your feet are from the pole. The bottom arm deserves its own paragraph. It is not a passive post. It pushes with a locked elbow and a shoulder that must stay down, away from the ear, or the whole frame shortens and the beam sags. Meanwhile the top arm pulls the pole toward you, and your grip on both ends is the foundation the frame stands on. When a flag collapses in the first second, audit in this order: grip, bottom shoulder, then obliques. Beginners always blame the side. The frame usually filed for bankruptcy first.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TUCK = HALF THE PRICE"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "TUCK FLAG",
+       5,
+       "cyan"
+      ],
+      [
+       "STRAIGHT FLAG",
+       1,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "SAME BODY, TWO PRICES"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNFOLD IN STAGES"
+    },
+    {
+     "asset": "ren_hip_rotation.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The ladder is written into the geometry. Tuck your knees and your feet move a full step closer to the pole, and the price of the beam roughly halves. Straddle splits the difference. Straight legs pay full price. This is why flag training looks like slow-motion unfolding over months: tuck, straddle, one leg, straight. Each stage is the same beam at a longer length. Nobody jumps the ladder, because the lever does not negotiate. But everybody can climb it, because the first rung, the tuck, is priced for beginners. There is a training shortcut hidden in the ladder that most people miss: the vertical flag. Stand beside the pole, set the same push-pull frame, and simply hold your body straight up beside it, feet down, while you press and pull hard. It loads the frame and the obliques at a fraction of the full price, and it teaches your shoulders their jobs without a single fall. Two weeks of vertical holds makes the first tuck attempt feel familiar instead of foreign, and familiar is where strength gets built.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_plank_hold.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The support drill nobody films: the flag press negative. Jump or climb to the top of the flag position with bent legs and every cheat allowed, set the frame honestly, then lower your body down as slowly as your obliques permit, fighting the fold the whole way. Negatives let you visit positions you cannot hold yet and pay the muscles in the exact pattern of the skill. Three slow negatives, twice a week, is how a one-second flag becomes a three-second flag while the holds themselves are still too short to train with. Every lever in this season has a negative hiding inside it. The flag's is simply the most honest.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "FLAG NEGATIVES",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "3 SLOW",
+     "label": "TWICE A WEEK",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "VISIT, THEN LOWER SLOW",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE UNFILMED DRILL",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_hip_rotation.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE LIGHTEST BEAM WINS"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LESS MASS AT THE FAR END",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FLAGS LOVE LIGHT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "Now hear the part that should make you smile. The flag's price is your bodyweight, charged at the far end of the beam. A lighter body is a cheaper beam. Skinny guys reach the straight flag on oblique strength that would leave a heavier man folded, simply because his far end costs more every single second. Street workout history is full of lean teenagers out-flagging grown lifters. It is not a mystery. It is arithmetic. This skill was practically designed for your build. Think about what a working flag does for the rest of your training. Obliques that can hold a body sideways are the same muscles that keep your spine safe when you carry something heavy on one side, swing, throw, or get hit from an angle. The flag is the most theatrical core exercise in the world, and also one of the most transferable. You are not training for a photograph. The photograph is just the receipt for a trunk that works in three dimensions.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "check": 3,
+   "exercise": "SIDE PLANK",
+   "music": "drive",
+   "narration": "Hold with me. Side plank, thirty seconds a side, body in one straight line. This is the beam, built on the floor. Own this and the pole gets closer. Go.",
+   "rest": 30,
+   "rounds": 2,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "hip_joint_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BOTH SIDES, ALWAYS"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "STRAIGHT ARMS, LOCKED FRAME"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "BENT ARM SURVIVAL"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "TRAINING ONE SIDE ONLY"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "SHORT HOLDS, FULL REST",
+     "pos": "tr",
+     "text": "6 SETS"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol builds the beam in layers. Three sessions a week: six short flag holds at your current stage, tuck or straddle, resting until you are fully fresh, because bent-arm survival reps teach survival, not flags. Both sides, always, even if one side embarrasses you; a one-sided flag is a party trick with an expiry date. Add side planks and slow side bends on off days to feed the obliques directly. And test the pole before every session. The flag forgives weak days. It does not forgive a loose pole. Keep the weaker side as your official score and your training weight. The strong side will always volunteer to do the session's work, and letting it is how athletes build a beautiful flag on one side and a rumor on the other. Train the weak side first, match its numbers with the strong side, and let it set the stage progression for both. Symmetry is slower this month and faster every month after, which is the correct trade and almost nobody takes it.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_balance_test.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 2: THE BEAM FOLDS"
+    },
+    {
+     "asset": "ren_hip_rotation.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR SECONDS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under two seconds: the beam folds today, and the tuck ladder plus side planks are your road in. Two to five: the cables are learning to hold, and the straddle is coming. Over five tucked, or any straight seconds at all: your oblique leverage is the real deal, and the full flag is a matter of stages, not talent. Retest in thirty days, same pole, both sides, take the weaker one as your truth. Put your seconds in the comments. Just the number. If your number was zero, your first purchase is not oblique strength. It is the frame: grip, straight arms, the bottom shoulder screwed down. A week of vertical flags and side planks buys the frame, and then the tuck clock starts moving. Zero is not the absence of a flag. It is the flag at its first, cheapest stage, and stages, as this whole season keeps proving, are how impossible things get scheduled.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hip_rotation.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BUILD THE BEAM"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW TIME",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Tuck the beam short, hold it honest, unfold it stage by stage. The flag is leverage, and leverage can be trained. Subscribe, and bring me your new time in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "human flag",
+  "flag hold",
+  "oblique leverage",
+  "oblique training",
+  "calisthenics skills",
+  "core strength",
+  "street workout"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_hip_rotation.webp",
+  "big": "5 SEC",
+  "hook": "THE FLAG TEST"
+ },
+ "title": "Your Flag Hold Time Reveals the Truth About Your oblique leverage",
+ "v5": true
+}

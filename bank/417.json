@@ -1,0 +1,395 @@
+{
+  "id": "417",
+  "v5": true,
+  "title": "What 30 Days of squats Does to a Skinny Guy",
+  "description": "Thirty days of squats, one hundred a day, starting with one honest unbroken set. Learn how your knee and hip tendons divide the work, spend the month in sets of ten, and retest your unbroken number on day thirty.",
+  "tags": [
+    "squat test",
+    "squat challenge",
+    "30 day challenge",
+    "knee tendons",
+    "calisthenics",
+    "bodyweight squats",
+    "100 squats a day"
+  ],
+  "hashtags": [
+    "squats",
+    "30 days",
+    "knee tendons",
+    "squat test",
+    "calisthenics",
+    "experiment",
+    "100 a day"
+  ],
+  "category": "experiments",
+  "badge": "EP 417 - SQUATS EVERY DAY",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_squat_bottom.webp",
+    "big": "100 A DAY",
+    "hook": "SQUATS DAILY",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_squat_top.webp",
+        "ren_squat_mid.webp",
+        "ren_squat_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Stand tall, feet flat. | No timer this time. | One unbroken set. | Sit down deep. | Hips below knees. | Stand all the way. | That is one. | Keep going, steady. | No pausing at top. | No hands on knees. | The set ends | when you must stop, | or form breaks. | Count your REPS. | Write the number down. | Keep it safe. | At the end | I tell you | what it means.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ONE UNBROKEN SET",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "NO PAUSING, NO HANDS",
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "FULL DEPTH EVERY REP",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "KEEP YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "50 REPS",
+      "label": "ONE UNBROKEN SET, FULL DEPTH",
+      "sub": "under 25: legs unwired - over 80: marathon legs",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Under twenty-five unbroken reps, your legs are unwired for sustained work, and the burn is arriving long before the strength runs out. Twenty-five to fifty is the untrained middle, legs that quit on schedule. Over eighty unbroken, full depth, you own endurance most gym members cannot rent. For thirty days the dose is a round number: one hundred squats a day. The question is what that does to the unbroken set.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "BURN BEFORE STRENGTH RUNS OUT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "100 A DAY, EVERY DAY",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "80+ REPS",
+          "label": "MARATHON LEG TERRITORY",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "An unbroken set of squats is a negotiation between two tendon systems, and the negotiation is the training. At the knee, the quadriceps tendon and the patellar tendon below the kneecap transfer the thigh's force into the shin, rep after rep, and they stiffen the joint so the force does not leak into wobble. At the hip, the glute and hamstring tendons haul you out of the deep position, and the stronger they work, the less the knee system must pay alone. Untrained legs negotiate badly: the hips quit early, the knees inherit the whole bill, the burn concentrates, and the set ends in a foreclosure. Training teaches the two systems to share like partners who have finally read the contract. There is also a quieter adaptation: sustained sets teach the muscles to clear their own waste and keep firing, the local endurance that decides whether rep thirty feels like rep ten. The mirror will show you nothing this month. The negotiation table is where everything happens.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "A NEGOTIATION, NOT A LIFT",
+          "lines": [
+            "Knees transfer. Hips haul.",
+            "Sharing is the skill."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_squat_bottom.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "LAZY HIPS FORECLOSE THE SET",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "WHO PAYS PER REP",
+          "items": [
+            [
+              "HIPS",
+              50,
+              "cyan"
+            ],
+            [
+              "KNEES",
+              50,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "REP 30 SHOULD FEEL LIKE REP 10",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "hip_joint_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "There is a second gift hidden in a hundred daily deep squats, and it is not strength at all: it is the position itself. The deep squat is humanity's original chair, and most modern adults have lost it, exiled by furniture into hips and ankles that only bend halfway. A hundred full-depth reps a day is a hundred daily reminders to your joints that the bottom position belongs to them: ankles unlock, hips remember their full fold, the lower back learns to share space with both. Light men reclaim it fastest, because there is less mass to fold into the position and less load punishing the learning. By the end of the month most men report the strangest souvenir: they start squatting to pick things up, to talk to a child, to rest at a bus stop, the way humans did for ten thousand years. The exercise leaves the workout and re-enters the species. Your unbroken number is the headline. The position is the inheritance.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HUMANITY'S ORIGINAL CHAIR",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "THE POSITION IS THE PRIZE",
+          "lines": [
+            "Ankles unlock. Hips remember.",
+            "The bottom belongs to you."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_squat_mid.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "WHAT A MONTH RETURNS",
+          "items": [
+            [
+              "STRENGTH",
+              60,
+              "white"
+            ],
+            [
+              "THE POSITION",
+              90,
+              "cyan"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "BACK INTO THE SPECIES",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The protocol is ten sets of ten, scattered like the push-up snacks, with one weekly rhythm. Week one: fifty a day, five sets of ten, learning depth and breathing, because a hundred on day one is a headline, not a plan. Week two: seventy-five. Week three: the full hundred, every day, sets of ten to twenty as the positions allow. Week four: hold the hundred but slow every rep down, two seconds down, two up, and rest the final day completely. Depth law, never suspended: hips below knees, heels on the floor, full stand at the top, and a set that cannot keep the law gets smaller, not shallower. Spread the sets across the whole day; the tendons prefer many small deposits to one dramatic one. Knee rules: knees track over the toes, the burn belongs in the thighs, and sharp or one-sided knee pain ends the day; if it persists, see a professional. Three thousand squats sounds like a threat. In sets of ten, it is a lifestyle.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "TEN SETS OF TEN",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "SMALLER, NEVER SHALLOWER",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_squat_bottom.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "BURN IN THIGHS, NOT JOINTS",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "stat",
+          "text": "3,000",
+          "label": "SQUATS IN THE MONTH",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_squat_mid.webp",
+      "exercise": "SQUATS",
+      "work": 60,
+      "rest": 30,
+      "rounds": 3,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Squat with me, sets-of-ten style. Three rounds: sixty seconds of full-depth squats, thirty seconds of rest. Depth over speed, rhythm over ego, heels glued down. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is how your month will unfold, week by week. Week one, fifty a day feels like a rounding error until the stairs on day three file their report: the deep position is a place your legs have not visited in years, and visiting is sore work. Week two, the sets start disappearing into the day, ten while the shower warms, ten at the kettle, and the depth stops needing a warm-up negotiation. Week three, at the full hundred, the unbroken feeling changes: a casual set of twenty stops arriving at the burn at all, because the partnership is sharing and the muscles have learned to clear and continue. Week four, the slow week, every rep feels deliberate and owned, and you will catch yourself resting in the deep squat like it is a chair the world forgot to take from you. It was never taken. It was only unvisited, and you have now visited it three thousand times.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: STAIRS FILE A REPORT",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: SETS DISAPPEAR INTO THE DAY",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_squat_top.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "TWENTY REPS, NO BURN",
+          "lines": [
+            "The partnership shares now.",
+            "The set stopped foreclosing."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "UNVISITED, NOT TAKEN",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Day thirty, one unbroken set, full depth, no pausing. The pattern this month produces: unbroken numbers typically climb by half or more, and the back half of the set, where the foreclosure used to live, gains the most. Read your day zero against the bands: under twenty-five, the sets of ten were built for you. Twenty-five to fifty, you are a month from legs with stamina. Over eighty, maintain with a hundred twice a week and go renegotiate a weaker system. Put your reps in the comments. Just the number. Thirty days from now, stand up and take it again.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE BACK HALF GAINS MOST",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "ONE SET, NO PAUSING",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR REPS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of squats, and sitting down stops being something furniture does for you. Your legs were never weak; their two systems were negotiating badly and quitting early. Teach them to share. Retest in thirty days and bring me your reps. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "TEACH THEM TO SHARE",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

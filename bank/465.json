@@ -1,0 +1,368 @@
+{
+  "id": "465",
+  "v5": true,
+  "title": "Do This Every Morning: What push-ups Does to Your chest tendons",
+  "description": "One set of push-ups to start every day. Not for the mirror, for the cables that connect your chest to your arms. Take the push-up test, get your number, and see what four weeks of mornings does to your chest tendons.",
+  "tags": [
+    "push-ups",
+    "chest tendons",
+    "morning routine",
+    "push-up test",
+    "what happens",
+    "calisthenics",
+    "tendon training"
+  ],
+  "hashtags": [
+    "push-up test",
+    "push-ups",
+    "chest tendons",
+    "morning routine",
+    "what happens",
+    "calisthenics"
+  ],
+  "category": "whathappens",
+  "badge": "EP 465 - PUSH-UPS EVERY MORNING",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "WEEK BY WEEK",
+    "THE VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_top.webp",
+    "big": "1 SET",
+    "hook": "START EVERY DAY",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Floor. Hands down. | Before anything else. | One honest set. | Push-ups to near failure. | Chest low, arms locked. | Count them clean. | That count is your NUMBER. | Write it down. | A set every morning | is the habit on trial. | What does it do | to your CHEST TENDONS? | The muscle gets dressed. | The cables do the work. | Week one creaks. | Week four presses. | At the end | I grade your number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BEFORE ANYTHING ELSE",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "COUNT THEM CLEAN",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "THAT COUNT IS YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "CABLES DO THE WORK",
+          "lines": [
+            "The muscle just gets dressed."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "WEEK ONE CREAKS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "20 REPS",
+      "label": "THE LINE BETWEEN SOFT AND WIRED",
+      "sub": "under 10: untrained - over 35: pressing is home",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Twenty clean push-ups is where a normal chest becomes a trained one. Under ten in the morning, your pressing cables are not weak, they are cold, and cold cables warm up beautifully. Over thirty five, you start every day already owning the floor. Today is the coordinate. One morning set is about to move it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "COLD, NOT WEAK",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "20 CLEAN = TRAINED",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "35+",
+          "label": "YOU OWN THE FLOOR",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "ONE MORNING SET",
+          "lines": [
+            "Small dose. Daily."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "section": "WEEK ONE",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week one creaks. Your first morning reps feel like pushing through wet sand, shoulders clicking, chest refusing to wake up. That is cold tissue, and it is exactly what the habit is treating. By day five the sand dries out. The first rep of the morning arrives clean, and the set feels like something you do, not something you survive. The tendons are learning the sunrise shift.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 1: WET SAND",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "swap",
+          "asset": "ren_pushup_bottom.webp"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "DAY 5",
+          "label": "THE SAND DRIES OUT",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "THE SUNRISE SHIFT",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "section": "WEEK FOUR",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week two, the set gets a rhythm. Down slow, pause, press, and the bottom position starts feeling loaded instead of lost. That loaded feeling is tendon stiffness, storing a little energy and handing it back. Week three, your pressing feels spring-loaded all day. Week four, retest. Most skinny guys add eight to twelve reps to their morning set in a month. By week four, notice the set you do not see. Your shoulders sit differently in shirts. Your chest carries itself like it has somewhere to be. None of that is new muscle. It is the same tissue, tensioned by cables that finally take their job seriously, holding your frame the way a well-rigged tent holds its shape. Stiffness, worn well, looks like size.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WEEK 2: THE RHYTHM",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+8-12",
+          "label": "REPS IN MONTH ONE",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pushup_top.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "SPRING-LOADED ALL DAY",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "shoulder_anatomy_plate.webp",
+      "section": "THE MECHANISM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Your chest muscle ends in a tendon that anchors to your upper arm. Every push-up sends the full pressing force through that anchor and through the tendons stabilising your shoulder. Morning after morning, the tissue answers the way all tendon answers: fresh collagen, tighter weave, more stiffness. Stiff tendons waste less force, so the same muscle suddenly presses like a bigger one. You did not grow. You stopped leaking. The morning set also protects the evening one, if you train later in the day. A tendon that has already been loaded once wakes up its blood flow and its building machinery early, so the day's second session lands on prepared tissue. Coaches call it priming. Your grandmother would call it warming up properly. Both are describing the same cable, greeted at sunrise.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE ANCHOR TAKES THE FORCE",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "YOU STOPPED LEAKING",
+          "lines": [
+            "Fresh collagen, tighter weave.",
+            "Same muscle, bigger press."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "ren_pushup_45_mid.webp"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "FORCE THAT REACHES THE FLOOR",
+          "items": [
+            [
+              "LOOSE CABLES",
+              72,
+              "grey"
+            ],
+            [
+              "STIFF CABLES",
+              94,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_top.webp",
+      "exercise": "PUSH-UPS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 2,
+      "section": "THE HABIT",
+      "check": 2,
+      "music": "drive",
+      "narration": "Push with me. Slow down, strong up, stop two reps before failure. Wake the cables. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_front_top.webp",
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The protocol: one set every morning, stopping two reps before failure, full range, chest to a fist above the floor. Same time, same spot, before the phone steals the morning. The mistake is maxing out daily, which leaves the cables less recovered than the muscle and stalls the whole project. The other mistake is the half rep. The tendon only adapts to the range you load, so load all of it.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "STOP TWO BEFORE FAILURE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "MAXING OUT DAILY",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "SAME TIME, SAME SPOT",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "LOAD THE WHOLE RANGE",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your morning number. Under ten: cold cables, and your first month will feel unfair in your favour. Ten to twenty: the weave is tightening. Over twenty: you are wired, and the morning set keeps the springs oiled. Retest on day thirty, morning, first thing, honest reps. Put your number in the comments. Just the number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 30: FIRST THING",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+8-12",
+          "label": "REPS WAITING FOR YOU",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pushup_front.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty mornings from now the floor will feel like it pushes back. Subscribe, and we retest together. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY 30 RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "THE FLOOR PUSHES BACK",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

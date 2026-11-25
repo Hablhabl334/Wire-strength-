@@ -1,0 +1,394 @@
+{
+  "id": "404",
+  "v5": true,
+  "title": "The 30-Day pull-up singles Experiment: Your elbow tendons Week by Week",
+  "description": "Thirty days of pull-up singles, starting with one honest max set. Learn why the elbow tendons set the speed limit on your pulling, run the grease-the-groove protocol of perfect single reps, and retest your number on day thirty.",
+  "tags": [
+    "pull up test",
+    "pull up challenge",
+    "grease the groove",
+    "30 day challenge",
+    "elbow tendons",
+    "calisthenics",
+    "pull up singles"
+  ],
+  "hashtags": [
+    "pull ups",
+    "30 days",
+    "elbow tendons",
+    "grease the groove",
+    "calisthenics",
+    "experiment",
+    "pull up test"
+  ],
+  "category": "experiments",
+  "badge": "EP 404 - 30 DAYS OF PULL-UP SINGLES",
+  "checklist": [
+    "DAY 0 TEST",
+    "THE SYSTEM",
+    "THE PROTOCOL",
+    "DAY 30 VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_pullup_top.webp",
+    "big": "8 REPS",
+    "hook": "PULL-UP TEST",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pullup_mid.webp",
+        "ren_pullup_top.webp"
+      ],
+      "cycle": 3.0,
+      "section": "DAY 0 TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Find a bar. | Grip it wide. | Palms facing away. | Hang completely still. | Now pull yourself up. | Chin over the bar. | Lower down slowly. | That is one. | Keep going, strict. | No swinging allowed. | No kicking either. | The set ends | when form breaks. | Count your REPS. | Write the number down. | Keep it safe. | At the end | I tell you | what it means.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "STRICT ONLY",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "NO SWING, NO KICK",
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "FORM BREAKS = DONE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 15,
+          "kind": "mark",
+          "text": "KEEP YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "8 REPS",
+      "label": "STRICT, CHIN OVER, NO SWING",
+      "sub": "0-2: cables are new - 12+: wired back and elbows",
+      "section": "DAY 0 TEST",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is how to read day zero. Zero to two strict reps means the whole pulling system is new, and new systems are the fastest learners alive. Three to eight is a working base that has never been trained with intent. Over twelve strict reps, you already pull better than most men in most gyms. The experiment's method is unusual: no grinding sets for thirty days, only perfect singles. The question is what that restraint does to the max.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "NEW = FASTEST LEARNER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "ONLY PERFECT SINGLES",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "12+ REPS",
+          "label": "BETTER THAN MOST GYMS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "elbow_anatomy_plate.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Every pull-up passes through one narrow gate: your elbow. At the bottom of the rep your arm hangs straight, and the entire load of your body travels through the tendons around the elbow joint before the big back muscles can even join the work. Those tendons are the speed limit of your pulling. Muscle adapts in weeks; tendon adapts in months, and it adapts to the loads it feels most often, not the loads that impress anyone. This is why grinders stall: they redline the gate twice a week and spend the other five days with irritated cables. Singles flip the strategy. One perfect rep loads the gate fully but briefly, then you step away and let it recover, and you do that many times a day. The tendon feels frequent, clean, full tension, the exact signal it rebuilds from. Thirty days of singles is thirty days of the gate getting wider.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "fact",
+          "title": "THE NARROW GATE",
+          "lines": [
+            "Every rep passes the elbow.",
+            "The tendon sets the limit."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_pullup_top.webp"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "FREQUENT, CLEAN, FULL TENSION",
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "bars",
+          "title": "ADAPTATION SPEED",
+          "items": [
+            [
+              "MUSCLE",
+              70,
+              "white"
+            ],
+            [
+              "TENDON",
+              40,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 33,
+          "kind": "mark",
+          "text": "THE GATE GETS WIDER",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_mid.webp",
+      "section": "THE SYSTEM",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Singles also rewire the skill itself. A max set is mostly survival: the first reps are clean and the last reps are a negotiation with panic. A single, done fresh, is pure technique: grip set, lats on, pull in one line, chin over, lower with control. Repeat that perfect pattern fifty times a week and the pattern becomes the default your body reaches for when the max test comes back. And the light guy owns this method. A single pull-up costs you sixty kilograms of work; it costs the heavy guy a hundred, plus more tendon stress per rep at the gate. He needs days between sessions. You can practice daily, which means your pattern gets five times the rehearsals his does in the same month. Rehearsal is the whole secret. The bar is a classroom and you are simply attending more lessons. It also explains a mystery many pullers know well: why the first rep after a week off feels welded to the bar. The muscle kept its strength. The pattern and the gate lost their rehearsal. Singles keep both rehearsed, every day, at almost no cost.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FRESH REPS = PURE TECHNIQUE",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "THE BAR IS A CLASSROOM",
+          "lines": [
+            "Every single is a lesson.",
+            "Light guys attend more."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_pullup_top.webp"
+        },
+        {
+          "at": 25,
+          "kind": "bars",
+          "title": "WEEKLY REHEARSALS",
+          "items": [
+            [
+              "LIGHT",
+              95,
+              "cyan"
+            ],
+            [
+              "HEAVY",
+              40,
+              "red"
+            ]
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 31,
+          "kind": "mark",
+          "text": "REHEARSAL IS THE SECRET",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "THE PROTOCOL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The protocol has a name with a long history: grease the groove. Take half your day-zero max, rounded down, minimum one. That is your set size. Spread those mini-sets through the whole day, one every hour or so, never to fatigue, never two in a row. Every rep is a perfect single with a pause between if your set size is above one. Week one, five mini-sets a day. Week two, seven. Week three, eight and slightly larger. Week four, keep the groove but drop the total in the last three days, arriving at the retest fresh. If your max was zero, your single is a slow negative: jump to the top, lower for five seconds. Two protections: the elbows must feel springy, not sore, and sharp elbow pain means stop and see a professional if it persists. This method should feel almost too easy. That feeling is the method working.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "GREASE THE GROOVE",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "NEVER TO FATIGUE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_pullup_mid.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "SHARP ELBOW PAIN = STOP",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 32,
+          "kind": "stat",
+          "text": "1 REP",
+          "label": "MANY TIMES A DAY",
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pullup_mid.webp",
+      "exercise": "PULL-UP SINGLES",
+      "work": 20,
+      "rest": 40,
+      "rounds": 5,
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "drive",
+      "narration": "Practice the groove with me. Five rounds: in each twenty-second window, one perfect single, then rest the remainder. Fresh, clean, no grind. Quality is the whole point. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_mid.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is how the month unfolded, week by week. Week one felt suspiciously easy, and the elbows felt better than they had after normal training, because the gate was finally being loaded instead of ambushed. Week two, the first rep of every mini-set turned instant: no setup, no doubt, grip and pull in one thought. Week three, our subject caught himself doing casual singles past open doorframes and playground bars, the surest sign a skill has moved into daily life. Week four, the singles got quieter in the body: less shoulder shrug, smoother path, the tendon handling the bottom position without complaint. Nothing about the month looked like training from the outside. No exhaustion, no soreness worth mentioning. Just hundreds of perfect reps quietly rewriting the gate and the pattern at the same time. The strangest report came from the mirror's territory: his back looked no different. Same weight, same shape, roughly double the pull. That is the tendon-and-pattern dividend, invisible until the bar asks the question.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WEEK 1: LOADED, NOT AMBUSHED",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "WEEK 2: INSTANT FIRST REPS",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_pullup_top.webp"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "HUNDREDS OF PERFECT REPS",
+          "lines": [
+            "No exhaustion. No drama.",
+            "The gate quietly widened."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "mark",
+          "text": "SKILL MOVED INTO LIFE",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Day thirty, one max set, strict rules. The pattern this experiment produces: guys starting at one to three reps commonly double, and mid-range starters typically add a third to their max, without a single grinding set all month. Read your day zero against the bands: zero to two, this protocol was invented for you. Three to eight, you are one month from a double-digit conversation. Over twelve, keep two groove days a week and chase the next system. Put your reps in the comments. Just the number. Thirty days from now, grab the bar and take it again. Bring a witness if you can; strict reps love an audience.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "STARTERS COMMONLY DOUBLE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "elbow_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "ONE MAX SET, STRICT",
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR REPS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_top.webp",
+      "section": "DAY 30 VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of singles, and the bar stops being an exam and becomes a habit. Your elbows were never the problem; they were the limit nobody trained. Train the limit daily. Retest in thirty days and bring me your reps. If this way of training makes sense to you, subscribe. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "TRAIN THE LIMIT",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "RETEST IN 30 DAYS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+ "id": "513",
+ "v5": true,
+ "title": "Stop Doing shrimp squat Wrong: Train Your knee leverage Instead",
+ "description": "Stand on one leg, hold the other foot behind you, and lower until your knee touches down. Your shrimp squat test is back, and this time we fix the technique: same-side hand, tall chest, and a descent your knee leverage can actually build on.",
+ "tags": [
+  "shrimp squat",
+  "shrimp squat technique",
+  "knee leverage",
+  "single leg squat",
+  "shrimp squat tutorial",
+  "calisthenics legs",
+  "bodyweight leg strength"
+ ],
+ "hashtags": [
+  "shrimp squat",
+  "knee leverage",
+  "single leg strength",
+  "calisthenics legs",
+  "leg day no gym",
+  "squat technique"
+ ],
+ "category": "skills",
+ "badge": "EP 513 - SHRIMP SQUAT DONE RIGHT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE FIX",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_squat_bottom.webp",
+  "big": "3 REPS",
+  "hook": "STOP DOING IT WRONG",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand tall on one leg. | Reach back with | the same-side hand | and take hold | of the other foot, | toes in your palm. | Free arm out | to the side | for balance. | Now lower slowly, | five full seconds, | until the back knee | touches the floor | like it is landing | on glass. | Pause there, | tall chest, | then stand up | in one motion, | no hop, no push | from the free hand. | Count the clean reps | on each leg. | Your weaker leg's count, | at full depth, | is your number. | Keep it. | Technique decides | this number, | and technique is | what we fix today.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "SAME-SIDE HAND, TOES IN PALM",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "5 SEC",
+     "label": "THE DESCENT SPEED",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "KNEE LANDS LIKE GLASS",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THAT COUNT IS YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "3 REPS",
+   "label": "FULL DEPTH, EACH LEG, IS THE LINE",
+   "sub": "0 clean: technique first - 5+: leverage certified",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line, same as before, graded stricter. Three clean reps on each leg, five-second descent, knee kissing the floor, standing up without a hop, is certified knee leverage. Zero clean reps with good two-leg strength is the classic shrimp profile, and it is almost always technique: the setup twists you before the squat starts, or the descent is a fall wearing a squat's clothes. Five or more per leg and the pistol squat's corridor is open to you. Grade the descent, not just the rep. A shrimp squat is a lowering skill that happens to stand up at the end; the stand is the celebration, the descent is the exam. Film one set from the front. You are looking for three things: the knee tracking over the toes, the pelvis staying level, and the chest staying tall enough to read a logo on it. If all three survive all five seconds, the rep counts. If one dies, the rep was practice, and practice is valuable, but it is not the number.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "3 CLEAN EACH LEG = THE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "5 SEC",
+     "label": "THE DESCENT IS THE EXAM",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "FILM IT FROM THE FRONT",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the setup, because the shrimp is won or lost before the first centimeter. Holding the foot with the same-side hand keeps your pelvis square. The moment you reach across with the opposite hand, your trunk rotates, the pelvis tilts, and your standing knee is aimed inward before it has bent a degree. From there the squat is a negotiation with a twisted base. The standing leg's job is a controlled knee bend at deepening angles: the quadriceps lower you eccentrically while the patellar tendon transmits their force to the shin, and the price rises steeply in the last third as the knee's leverage worsens. A tall chest is not a style cue. It keeps your mass over the standing foot, where the hinge can pay for it. Fold forward and your mass escapes in front of the foot, and the rep ends as a balance rescue instead of a squat. Setup, line, descent: the shrimp is three small disciplines pretending to be one exercise.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "WON BEFORE IT STARTS",
+     "lines": [
+      "Same-side hand keeps the pelvis square.",
+      "Opposite hand twists the base."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_split_squat_bottom.webp"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "TALL CHEST KEEPS MASS OVER FOOT",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "SETUP, LINE, DESCENT",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "hip_joint_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Now the descent speed, because five seconds is not an arbitrary cruelty. Tendons and muscles both produce more useful force when they lengthen slowly under control, and slow eccentrics are where the connective tissue receives its clearest building signal. Compare two training months. One is built on fast, bouncy reps that use the stretch reflex to escape the bottom; the reflex is a loan, and it is recalled on test day. The other is built on five-second descents with a pause on the floor; every centimeter is paid in full, and the knee's tissues adapt at every angle they visited. There is a balance dividend as well. Slow descents give your nervous system time to make its corrections in small, affordable doses. Fast descents demand one huge correction at the bottom, which is the one that becomes a fall. Speed is how this exercise hides its lessons. Slowness is how it teaches them.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "5 SECONDS IS THE TEACHER",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "bars",
+     "title": "TWO TRAINING MONTHS",
+     "items": [
+      [
+       "BOUNCY REPS",
+       1,
+       "red"
+      ],
+      [
+       "SLOW + PAUSE",
+       3,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "SMALL CORRECTIONS, NO FALLS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_hip_rotation.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_split_squat_top.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The technique drill is the elevated shrimp. Stand on a low step or a thick book with your heel at the edge, so the back knee can travel below floor level without touching. Lower five seconds to a stack of cushions set one notch above your current floor depth, pause, and stand. The elevation removes the floor as a hard deadline and lets you train the exact depth your knee is learning, with the pause installed. Three sets of four per leg, twice a week. When the cushions reach the floor and the pause is calm, the floor version is already yours; you have just been rehearsing it in a taller room.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "ELEVATED SHRIMP TO CUSHIONS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "3 x 4",
+     "label": "PER LEG, TWICE A WEEK",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "REHEARSE IN A TALLER ROOM",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "THE PAUSE IS INSTALLED",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_mid.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage compounds in this exercise. The shrimp's price is one bodyweight through one knee, and a lighter body buys more slow, perfect reps per session, which is the exact currency this skill banks. There is also a learning advantage that rarely gets mentioned: technique skills reward the athlete who can practice daily without wrecking himself, and single-leg bodyweight work at your mass is precisely that kind of practice. The heavy athlete's shrimp attempts are maximal events that need recovery days between them. Yours are rehearsals. Rehearsals beat events in every skill humans have ever learned, from piano to pistols. And the dividend shows up off the program: stairs, slopes, getting up from the floor without hands, all the unglamorous movements of a long life are single-leg squats in disguise. You are not training a trick. You are training the pattern your independence will run on.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "REHEARSALS BEAT EVENTS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "DAILY",
+     "label": "PRACTICE WITHOUT WRECKAGE",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "THE PATTERN OF INDEPENDENCE",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_squat_top.webp"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_bottom.webp",
+   "exercise": "SHRIMP NEGATIVES",
+   "work": 30,
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Lower with me. Same-side hand, tall chest, five seconds down to the floor, pause, stand tall. If the pelvis twists, slow down more. Control is the whole exercise. Go."
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE FIX",
+   "check": 3,
+   "music": "calm",
+   "narration": "Here is the fix, in the order your body will thank you for. Take the foot with the same-side hand, every time, and check your pelvis in a mirror before the first rep; square is the starting position, not a hope. Descend for five seconds and land the knee like glass; if you cannot hear yourself not landing, you landed too hard. Pause on the floor for a full second before standing, because the pause deletes the bounce and the bounce was deleting your strength gains. Keep the free arm out and the chest tall, and if the chest folds, hold a light counterweight in the free hand for two weeks while the pattern sets. And train the weak leg first, while you are fresh, because the weak leg is the grade and it deserves your best attention, not your leftovers. The weekly shape: two technique sessions, elevated shrimps and split squats, every rep filmed or mirrored. The shrimp is a skill wearing a strength costume, and skills are built by rehearsals that respect the details.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "OPPOSITE HAND, TWISTED BASE",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "LANDING THE KNEE HARD",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "NO PAUSE ON THE FLOOR",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "WEAK LEG LAST",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "SQUARE, SLOW, PAUSED",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_bottom.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your number, graded by the weaker leg. Zero clean: technique is the whole story, and the elevated shrimp is your next month. One to two clean with the full descent and pause: the hinge is honest and learning. Three or more clean on both legs: your knee leverage is certified, technique grade included. Retest in thirty days, weak leg first, five-second descents, front camera running. Put your number in the comments, and tell me if the weak leg changed sides or closed the gap. The shrimp grades setup, line, and descent as one skill, and it can tell a rehearsed squat from a lucky one at a glance. Rehearse it, and the grade follows.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "ZERO CLEAN: TECHNIQUE FIRST",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_split_squat_top.webp"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_top.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Square the pelvis, slow the descent, pause on the floor. That is the shrimp squat, done right. Subscribe, and bring me your new number in thirty days. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "SQUARE, SLOW, PAUSED",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "BRING ME THE NEW NUMBER",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "SEE YOU AT THE RETEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,368 @@
+{
+  "id": "471",
+  "v5": true,
+  "title": "If You do 100 squats Daily, This Happens to Your leg tendons",
+  "description": "One hundred squats a day, spread however you like. The muscles adapt in weeks, but something slower and more valuable happens underneath. Take the squat test, get your number, and watch four weeks of daily hundreds.",
+  "tags": [
+    "squats",
+    "leg tendons",
+    "daily habit",
+    "squat test",
+    "what happens",
+    "100 squats",
+    "calisthenics"
+  ],
+  "hashtags": [
+    "squat test",
+    "100 squats",
+    "leg tendons",
+    "daily squats",
+    "what happens",
+    "calisthenics"
+  ],
+  "category": "whathappens",
+  "badge": "EP 471 - 100 SQUATS DAILY",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "WEEK BY WEEK",
+    "THE VERDICT"
+  ],
+  "thumb": {
+    "asset": "ren_squat_bottom.webp",
+    "big": "100 REPS",
+    "hook": "THIS HAPPENS",
+    "accent": "gold"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_squat_top.webp",
+        "ren_squat_mid.webp",
+        "ren_squat_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Feet shoulder width. | Squat non-stop. | Hips below knees. | Stand tall every rep. | Stop when form dies. | That count is your NUMBER. | Write it down. | One hundred daily | is the habit on trial. | Spread them out freely. | What happens | to your LEG TENDONS? | Three thousand a month. | Week one negotiates. | Week four answers. | At the end | I grade your number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HIPS BELOW KNEES",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "STOP WHEN FORM DIES",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "mark",
+          "text": "THAT COUNT IS YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "3,000 A MONTH",
+          "lines": [
+            "A hundred a day adds up."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "WEEK FOUR ANSWERS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "50 REPS",
+      "label": "THE LINE BETWEEN SOFT AND SPRINGY",
+      "sub": "under 25: untrained - over 80: a hundred is easy",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Fifty clean squats in a row is where soft legs become springy ones. Under twenty five, your leg tendons are simply underfed, and a hundred a day is a feast delivered in snacks. Over eighty, the daily hundred is already pocket change for you. Today is the coordinate. The snacks are about to start landing.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "A FEAST IN SNACKS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "chip",
+          "text": "50 CLEAN = SPRINGY",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "80+",
+          "label": "A HUNDRED IS EASY",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "THE COORDINATE",
+          "lines": [
+            "Measured today. Fed daily."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_mid.webp",
+      "section": "WEEK ONE",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week one negotiates. Day two's soreness is legendary, the kind that makes sitting down a planned operation. Split the hundred smaller and keep moving, because day three is where most people quit a habit that was about to get easy. By day six the soreness retires. What remains is a rhythm, and underneath the rhythm, tendons logging their three hundredth loading cycle of the week.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 2: LEGENDARY SORENESS",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "swap",
+          "asset": "ren_squat_bottom.webp"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "DAY 6",
+          "label": "SORENESS RETIRES",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "300 CYCLES A WEEK",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "WEEK FOUR",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Week two, the hundred shrinks. Four sets of twenty five become two sets of fifty without a meeting about it. Week three, your legs develop a quality that is hard to name until you jump for something. There is bounce in them now, a readiness that was not there in week one. Week four, retest your max set. Most skinny guys add twenty to forty reps in a month of daily hundreds. There is a mindset shift hiding in the daily hundred. You stop asking whether you trained today, because the answer is built into the furniture of the day. Identity beats intensity at the hundred-rep scale. The tendons do not know about your motivation. They know about your cycles, and cycles belong to people who stopped negotiating with themselves before breakfast.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WEEK 2: THE HUNDRED SHRINKS",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+20-40",
+          "label": "REPS IN MONTH ONE",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_squat_top.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "BOUNCE ARRIVES",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "section": "THE MECHANISM",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. A tendon does not know what a workout is. It knows cycles: load, release, load, release. A hundred squats is a hundred cycles through the patellar tendon and the Achilles, and three thousand cycles a month is a language tendon tissue cannot ignore. It answers by thickening its collagen weave and raising its stiffness, turning your legs from ropes that stretch into springs that return. Volume is not the enemy of tendon. Volume is its native tongue. Ankles deserve their paragraph in the squat story. Every deep rep dorsiflexes the ankle under load, winding the Achilles through its full working range a hundred times a day. Stiff ankles are the hidden tax on most people's squats. The daily hundred quietly refunds it, which is why your depth in week four looks like a different person's squat. It is the same person, with springs that finally travel.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "TENDONS COUNT CYCLES",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "VOLUME IS ITS NATIVE TONGUE",
+          "lines": [
+            "3,000 cycles a month.",
+            "The tissue cannot ignore it."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "achilles_anatomy_plate.webp"
+        },
+        {
+          "at": 14,
+          "kind": "bars",
+          "title": "LOADING CYCLES PER MONTH",
+          "items": [
+            [
+              "3x A WEEK",
+              900,
+              "grey"
+            ],
+            [
+              "100 DAILY",
+              3000,
+              "gold"
+            ]
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_squat_mid.webp",
+      "exercise": "SQUATS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 2,
+      "section": "THE HABIT",
+      "check": 2,
+      "music": "drive",
+      "narration": "Squat with me. Smooth cycles, full depth, no rush. This is a snack, not a feast. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "THE PROTOCOL",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The protocol: one hundred squats daily, split into snacks of ten to twenty five across the day, full depth, knees tracking out. Attach them to things you already do: kettle, bathroom, ad breaks. The mistake is one daily set of a hundred to failure, which teaches sloppy reps and sore weeks. The other mistake is shallow squats at speed. A cycle only counts if the tendon travels its whole range.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "SNACKS ACROSS THE DAY",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "ONE SET TO FAILURE",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "ATTACH TO EXISTING HABITS",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "FULL RANGE OR IT DOESN'T COUNT",
+          "ok": true,
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under twenty five: underfed cables, and three thousand cycles a month is about to feed them. Twenty five to fifty: the weave is thickening. Over fifty: you are wired, and the daily hundred keeps the springs at tension. Retest on day thirty, non-stop, honest depth. Put your number in the comments. Just the number.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DAY 30: NON-STOP",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "stat",
+          "text": "+20-40",
+          "label": "REPS WAITING FOR YOU",
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_squat_mid.webp"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "THE VERDICT",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Three thousand squats from now your legs will answer differently. Subscribe, and we retest together. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "DAY 30 RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "SPRINGS, NOT ROPES",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "TRAIN THE CABLE",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

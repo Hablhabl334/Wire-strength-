@@ -1,0 +1,393 @@
+{
+ "id": "505",
+ "v5": true,
+ "title": "Stop Doing back lever tuck Wrong: Train Your shoulder leverage Instead",
+ "description": "Hang from a bar, tuck through, and hold your body level behind you. Your back lever tuck time is the test of your shoulder leverage, and the usual way of chasing it loads exactly the tissues that need the most patience. Here is how to train the lever safely and well.",
+ "tags": [
+  "back lever",
+  "back lever tuck",
+  "shoulder leverage",
+  "straight arm strength",
+  "gymnastics rings",
+  "calisthenics skills",
+  "skin roll"
+ ],
+ "hashtags": [
+  "back lever",
+  "shoulder leverage",
+  "straight arm",
+  "calisthenics skills",
+  "gymnastics strength",
+  "bar skills"
+ ],
+ "category": "skills",
+ "badge": "EP 505 - BACK LEVER DONE RIGHT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE FIX",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_hang_side_tuck.webp",
+  "big": "10 SEC",
+  "hook": "STOP DOING IT WRONG",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Grab the bar, | overhand grip, | arms dead straight. | Pull your knees up, | tuck them tight, | and roll backward | through your arms, | like a slow | backward somersault, | until you are hanging | upside down, tucked. | Now open the tuck | just a little, | lowering your hips | toward level, | back facing the floor. | Hold the deepest tuck | you can keep | with straight arms. | Start your clock. | The clock stops | when your elbows bend | or your hips drop | below the hold. | That clean time | is your number. | Keep it. | At the end | I will tell you | exactly what it means.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "OVERHAND GRIP, ARMS STRAIGHT",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "TUCK",
+     "label": "OPEN IT ONLY A LITTLE",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "BACK FACES THE FLOOR",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THAT TIME IS YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "10 SEC",
+   "label": "OF TUCK HOLD IS THE LINE",
+   "sub": "under 5: the chain is new - 20+: open the tuck further",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. Ten clean seconds in a back lever tuck, arms locked, hips held at the deepest angle you can truly control, is certified shoulder leverage. Under five seconds, the straight-arm chain behind you is new to this job and should be trained like it. Over twenty, you earn the right to open the tuck further, one small degree at a time, toward the full lever. A warning belongs inside the benchmark, because this skill has a reputation: the back lever loads the front of your shoulder and the biceps tendon hard, at a long stretch. That load is the training effect and the risk in the same package. The number only counts at an angle your straight arms can hold without strain faces and shaking. Depth you survive is not depth you own, and in this skill the difference is not a detail. It is the whole program.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "10 CLEAN SEC = THE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "20+",
+     "label": "OPEN THE TUCK FURTHER",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "OWN IT, DON'T SURVIVE IT",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the shoulder. Hanging behind the bar, your body is a lever swinging from your hands, and your shoulders sit at the hinge in deep extension, arms reaching far behind your back. The muscles of your back and the rear of your shoulder must hold that hinge against your entire bodyweight, while the front of the shoulder and the long head of the biceps tendon are stretched under load at the front. This is straight-arm leverage at its most honest: no bent elbow to share the bill, no momentum that survives a ten-second hold. The tuck is the price control. Knees folded, your lever is short and the bill is modest. Every degree you open the tuck lengthens the beam and raises the price, which is why this skill is progressed in degrees, not in reps. Your shoulder is not being asked to be strong once. It is being asked to hold a hinge at its longest, most vulnerable angle, calmly, while gravity files its report.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "THE SHOULDER IS THE HINGE",
+     "lines": [
+      "Body hangs behind the bar.",
+      "The tuck sets the price."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "DEGREES, NOT REPS",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "STRAIGHT ARM OR NOTHING",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Now the tissue timetable, because this skill runs on it. The muscles holding your back lever adapt in weeks. The biceps tendon and the connective tissue at the front of your shoulder adapt in months, and they adapt only to loads they can recover from. This mismatch is the entire injury story of straight-arm training: strength arrives early and begs for more depth, while the tendon is still three months behind, quietly underwriting the loan. Compare the two athletes. One adds depth whenever the hold feels easy and collects a biceps strain by spring. The other keeps the angle boring, adds a degree a month, and owns a full back lever by the year he stopped being in a hurry. The German hang, simply hanging in the rolled-through position with feet supported, is the tendon's savings account: low price, long holds, steady deposits. Every serious back lever you have ever seen was financed by months of unglamorous hanging. The entry deserves the same patience as the hold. Rolling backward through your arms is itself a loaded shoulder movement, and it should be learned with your feet still helping on the floor, in the shallow end of the skin-the-cat, weeks before the tuck is ever tested. Athletes who treat the entry as a formality meet this skill's full price before their first hold has even started. The roll is page one of the back lever. Read it at the speed it deserves, and the rest of the book opens on schedule.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "MUSCLE: WEEKS. TENDON: MONTHS.",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "bars",
+     "title": "TWO TIMETABLES",
+     "items": [
+      [
+       "MUSCLE GAINS",
+       6,
+       "cyan"
+      ],
+      [
+       "TENDON GAINS",
+       26,
+       "gold"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "A DEGREE A MONTH",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_dead_hang.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The foundation drill is the skin-the-cat, done slowly with your feet brushing the floor for as long as you need them. Roll back through your arms into the deep hang, pause, and roll back out under control. Five slow reps teach the shoulder its full road in both directions, and the bottom position, the German hang, is where the tendon makes its deposits. Three sets of five, twice a week, feet helping less each month. When the full roll is smooth and boring, your tuck hold has a foundation under it instead of a hope.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "SKIN-THE-CAT, SLOWLY",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "3 x 5",
+     "label": "TWICE A WEEK",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "FEET HELP, THEN LESS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "BORING = BUILT",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage is, once again, the lever equation with your name on it. The back lever's price is your bodyweight at the end of a beam, and a lighter body is a cheaper beam at every angle. Skinny athletes reach the open positions sooner, accumulate more quality holds per week, and recover between sessions while heavier athletes are still paying off the last one. There is a flexibility dividend too: the roll-through entry rewards a compact frame and mobile shoulders, not mass. Nobody ever failed a back lever because their arms were too small for the photograph. They failed because the hinge could not hold the price, and the price is set by bodyweight and patience. You are short on the first and, after this season, long on the second. That is the correct portfolio for this skill.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "LIGHTER BODY, CHEAPER BEAM",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "PATIENCE",
+     "label": "THE SECOND CURRENCY",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "THE CORRECT PORTFOLIO",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_hang_side_relaxed.webp"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_tuck.webp",
+   "exercise": "BACK LEVER TUCK",
+   "work": 15,
+   "rest": 45,
+   "rounds": 4,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Tuck with me. Roll through, open the tuck only to the angle you own, arms locked, fifteen seconds. If the elbows soften, close the tuck and keep holding. Go."
+  },
+  {
+   "type": "art",
+   "asset": "shoulder_anatomy_plate.webp",
+   "section": "THE FIX",
+   "check": 3,
+   "music": "calm",
+   "narration": "Here is the fix. Stop entering by kicking over. Momentum through the roll tears at the shoulder's timetable; walk your feet up and roll slowly, or use the skin-the-cat entry every time. Stop bending the elbows to survive depth. A bent-arm back lever is a different exercise wearing this one's name, and it teaches the hinge nothing; close the tuck instead and keep the arms locked. Stop chasing the flat body. The full lever is a year-long direction, not a next-week goal, and depth added faster than the tendon timetable is borrowed at injury rates. And stop training it cold and tired. This skill goes first in the session, after a real warm-up, never as a finisher. One rule outranks the program: any sharp pain at the front of the shoulder or in the biceps ends the session, and pain that persists gets a professional's eyes on it. The lever will wait. Tendons keep the appointments you keep.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "KICKING THROUGH THE ROLL",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "BENT ELBOWS AT DEPTH",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "CHASING FLAT TOO SOON",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COLD AND TIRED LEVER WORK",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "SHARP PAIN ENDS THE SESSION",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your time. Under five clean seconds: the chain is new, and German hangs plus skin-the-cats are your program, proudly. Five to ten: the hinge is learning and the tuck is honest. Over ten seconds at a deep tuck: your shoulder leverage is certified, and the next degree of opening is yours to schedule, slowly. Retest in thirty days, same grip, same entry, elbows audited by a side camera because bent elbows are invisible from inside the hold. Put your seconds in the comments. Just the number. This skill grades patience as much as strength, and the grade is written in clean seconds at an angle you own.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "UNDER 5: THE CHAIN IS NEW",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_dead_hang_front.webp"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "A short lever, a patient hinge, and degrees earned one at a time. That is the back lever. Subscribe, and bring me your new time in thirty days. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "DEGREES, EARNED SLOWLY",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "BRING ME THE NEW TIME",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "SEE YOU AT THE RETEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

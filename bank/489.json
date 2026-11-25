@@ -1,0 +1,391 @@
+{
+ "badge": "EP 489 - TRANSITION TEST",
+ "category": "skills",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE LEVERAGE",
+  "YOUR VERDICT"
+ ],
+ "description": "Pull to the bar, then try to get over it. Your transition test counts the chest-to-bar pull-ups you own and reveals the truth about your elbow leverage: the moment a pull-up becomes a muscle-up is decided at one bent-elbow angle where the leverage flips. Take the test and find your angle.",
+ "hashtags": [
+  "muscle up",
+  "transition",
+  "elbow leverage",
+  "chest to bar",
+  "calisthenics skills",
+  "pull up"
+ ],
+ "id": "489",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEAD HANG START"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "label": "CHEST TOUCHES OR IT DOES NOT COUNT",
+     "pos": "br",
+     "text": "CHEST"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO KIP, NO SWING"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THAT COUNT IS YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Grab the bar. | Dead hang. | Arms straight. | Now pull hard | and pull high. | Not chin over. | Chest to the bar. | Your upper chest | must touch it. | That is one. | Lower down slowly. | Full straight arms. | Pull again. | Every rep the same: | chest touches, | or it never happened. | No kicking. | No swinging. | No chicken wing. | Count your clean reps | until the chest | stops arriving. | That count | is your number. | Keep it safe. | At the end, | I show you | the exact angle | where muscle-ups | are born. | Pull like you mean it. | Half-hearted reps | never reach the chest. | Commit to every pull. | The bar rewards intent.",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "5 REPS = THE LINE"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "MUSCLE-UP READY",
+     "pos": "br",
+     "text": "8+"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "CHIN-OVER IS NOT ENOUGH"
+    }
+   ],
+   "big": "5 REPS",
+   "card": "bignum",
+   "check": 1,
+   "label": "CHEST-TO-BAR IS THE LINE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Five clean chest-to-bar pull-ups, dead hang to touching, no kip, is where the muscle-up stops being a mystery and becomes a scheduling problem. Under two, your pull is strong in the bottom half and absent where the transition lives, which is the most common shape of a stuck pull-up. Eight or more and you do not need a new exercise; you need one technique session. Chin-over-bar reps do not count here. The transition does not happen at the chin. It happens at the chest, and the chest is a much more expensive address. One more grading rule: the rep is judged at the top, but it is earned at the bottom. Every rep must begin from a genuine dead hang, arms straight, shoulders set, no residual swing from the last rep. Sets where you stay half-bent and pump out touches are a different exercise with a similar name. Your count is the number of full journeys, floor to ceiling, and that is the only count the transition will accept as payment.",
+   "section": "THE NUMBER",
+   "sub": "under 2: the top half is missing - 8+: muscle-up ready",
+   "type": "card"
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "lines": [
+      "Pulling ends where pressing begins.",
+      "The elbow must flip the exchange."
+     ],
+     "pos": "tr",
+     "title": "THE HANDOVER ANGLE"
+    },
+    {
+     "asset": "ren_dip_bottom.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FOREARMS ROLL OVER THE BAR"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LEVERAGE FLIPS HERE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the moment this test is really about. A pull-up pulls you up to the bar. A muscle-up takes you over it. Between those two movements sits the transition: your elbows, bent deep, must rotate from below the bar to above it, flipping your forearms over the top so a pull becomes a press. At that exact angle, your leverage is at its worst. The elbow is folded, the load is far from the joint, and the muscles that rotate you over are small and rarely trained. That is why strong pullers get stapled at the bar, chest touching, going nowhere. They did not run out of pull. They arrived at the handover without the strength to pay its price. Your grip choice quietly rewrites this mechanism, so choose deliberately. A standard overhand grip at shoulder width is the test standard. A false grip, wrists rolled over the bar, shortens the transition dramatically, which is why gymnasts live in it, but it must be trained as its own skill and it is not today's exam. Whatever grip you test in, retest in. The handover angle is honest, but it is only comparable when the conditions hold still.",
+   "section": "THE MECHANISM",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HEIGHT BUYS THE ANGLE"
+    },
+    {
+     "at": 8,
+     "items": [
+      [
+       "CHIN OVER",
+       10,
+       "gold"
+      ],
+      [
+       "CHEST TO BAR",
+       5,
+       "cyan"
+      ],
+      [
+       "OVER THE BAR",
+       1,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "REPS BY ALTITUDE"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "EVERY INCH COSTS MORE"
+    },
+    {
+     "asset": "ren_pullup_mid.webp",
+     "at": 17,
+     "kind": "swap"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The numbers show the tax. The same back that pulls ten chin-over reps manages five to the chest and one, maybe, over the bar. Each inch of altitude costs more than the last, because the elbow bends deeper and the leverage rots as you climb. This is why the test uses chest-to-bar as the currency: it measures strength at the altitude where the transition is bought. A huge chin-over count with a zero chest count is a tall building with no top floor. The transition test does not ask how high your elevator goes on paper. It asks whether it reaches the roof. There is a rhythm hiding in the numbers too. Chest-to-bar strength is not just higher pulling; it is faster pulling. The athletes who transition well generate their altitude in the first half of the rep, arriving at the bar with speed that carries the elbows into the flip. Slow, grinding pulls reach the chest and die there. This is why the protocol's sets are small and the rests are long: you are training an explosive quality, and explosiveness is only trainable fresh. Tired reps teach your body the slow version of the most speed-dependent moment in calisthenics.",
+   "section": "THE SCIENCE",
+   "type": "art"
+  },
+  {
+   "type": "art",
+   "asset": "ren_dip_top.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The drill that builds the flip from the other side: the low-bar transition. Set a bar at chest height, jump to the top of it, then lower yourself down through the transition as slowly as you can, elbows tracking the exact path they will one day climb. Lowering through a skill is the oldest strength hack there is, because the muscles learn the route at a price they can pay today. Three sets of three slow negatives, twice a week. The first time your elbows survive the whole descent without collapsing, your first real muscle-up has quietly moved from someday to scheduled.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "LOW-BAR NEGATIVES",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "3 x 3",
+     "label": "SLOW DESCENTS",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "LEARN THE ROUTE DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "chip",
+     "text": "THE FLIP, REVERSED",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS BODY TO LIFT OVER"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "label": "LIGHT GUYS GET OVER FIRST",
+     "pos": "br",
+     "text": "SKINNY"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "THE BAR FAVORS LIGHT"
+    }
+   ],
+   "check": 2,
+   "music": "calm",
+   "narration": "The skinny advantage at the bar is famous for a reason. Every rep lifts exactly one body, and the transition lifts that body through the worst leverage in the sport. Less body, cheaper handover. It is why the first muscle-ups in any park belong to lean teenagers, not to the biggest pullers. Your back does not need to be enormous. It needs to be strong relative to the load it carries over the bar, and the load is you. Train the chest-to-bar count and the ratio does the rest. Own this test and something else changes at the bar: every other pull you do gets easier to judge. Chest-to-bar is a self-auditing standard, touch or no touch, in a sport full of arguable reps. Athletes who train to an auditable standard improve faster, because their feedback is never fuzzy. Your logbook will say five, then six, then eight, and every digit will be a fact. In a training life full of estimates, facts are rocket fuel.",
+   "section": "THE ADVANTAGE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "check": 3,
+   "exercise": "CHEST-TO-BAR PULL",
+   "music": "drive",
+   "narration": "Pull with me. Thirty seconds of chest-to-bar pulls, dead hang every rep, chest touches or it does not count. This is where transitions are bought. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "elbow_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "3 SESSIONS A WEEK"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PULL TO THE CHEST, ALWAYS"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "CHICKEN-WINGING ONE ARM OVER"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "KIPPING TO FAKE ALTITUDE"
+    },
+    {
+     "at": 20,
+     "kind": "stat",
+     "label": "RUSSIAN DIPS BUILD THE FLIP",
+     "pos": "tr",
+     "text": "FLIP"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol pays the handover directly. Three sessions a week: chest-to-bar pulls in sets of two to four, resting fully, every rep touching. Add Russian dips on a low bar or bench, leaning forward and pressing out of the deepest bent-elbow position, because that is the transition's exact angle, trained from the pressing side. And drill the false grip lightly if your wrists allow; it shortens the handover. Two sins to refuse: the chicken wing, one elbow sneaking over first, which builds a crooked pattern and an angry shoulder; and the kip, which buys altitude with momentum and leaves the angle just as poor. Film your top reps once a week from the front. The transition hides a favorite sin from the athlete: the almost-wing, one elbow starting its flip a half-second early, invisible from inside the rep and obvious on video. Catch it at a half-second and it is a cue. Catch it after six months and it is a habit with a shoulder attached. Your phone, propped on a water bottle, is the cheapest technique coach in the sport. Use it before the habit invoices you.",
+   "section": "THE PROTOCOL",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNDER 2: THE TOP IS MISSING"
+    },
+    {
+     "asset": "ren_pullup_mid.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR REPS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your number. Under two chest-to-bar: your pull is a ground-floor elevator, and the protocol builds the top floors. Two to five: the handover angle is within reach, and Russian dips will introduce you. Over five: you are one technique session from your first muscle-up, and over eight, it is genuinely just a matter of Tuesday. Retest in thirty days, same bar, dead hang, chest touches. Put your reps in the comments. Just the number. The bar keeps the receipts. And when the first muscle-up happens, because it will, notice what it feels like: not a miracle, an arrival. Every chest-to-bar rep was a partial payment, and the transition was never a wall, only a price. That is the real lesson this test teaches, and it generalizes to every skill in this season. Nothing up here is magic. Everything is a number, a ladder, and thirty honest days at a time.",
+   "section": "THE VERDICT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "CHEST, NOT CHIN"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "BRING ME THE NEW COUNT",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SEE YOU AT THE RETEST"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Pull to the chest, pay the handover angle, and the bar stops being a ceiling. Subscribe, and bring me your new count in thirty days. This is {channel}. Train the cable.",
+   "section": "THE OUTRO",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "muscle up transition",
+  "chest to bar",
+  "elbow leverage",
+  "pull up strength",
+  "calisthenics skills",
+  "muscle up",
+  "bar training"
+ ],
+ "thumb": {
+  "accent": "gold",
+  "asset": "ren_pullup_top.webp",
+  "big": "5 REPS",
+  "hook": "OVER THE BAR"
+ },
+ "title": "Your Transition Test Reveals the Truth About Your elbow leverage",
+ "v5": true
+}

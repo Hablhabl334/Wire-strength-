@@ -1,0 +1,393 @@
+{
+ "id": "511",
+ "v5": true,
+ "title": "Stop Doing pistol squat Wrong: Train Your ankle and knee leverage Instead",
+ "description": "Stand on one leg, stretch the other out in front, and squat to the floor and back. Your pistol depth test grades how deep you can go with your heel down and your knee tracking straight. Most guys are blocked by two levers they never train. Here is the fix.",
+ "tags": [
+  "pistol squat",
+  "pistol squat progression",
+  "ankle leverage",
+  "knee leverage",
+  "single leg squat",
+  "pistol squat tutorial",
+  "calisthenics legs"
+ ],
+ "hashtags": [
+  "pistol squat",
+  "ankle leverage",
+  "knee leverage",
+  "single leg strength",
+  "calisthenics legs",
+  "bodyweight squats"
+ ],
+ "category": "skills",
+ "badge": "EP 511 - PISTOL SQUAT DONE RIGHT",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE FIX",
+  "YOUR VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_squat_bottom.webp",
+  "big": "1 REP",
+  "hook": "STOP DOING IT WRONG",
+  "accent": "gold"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Stand on one leg, | the other stretched out | straight in front of you. | Arms forward for balance. | Now squat down | on the standing leg, | as deep as you can, | heel glued to the floor, | knee tracking over | your toes, not caving in. | Pause at your | deepest honest depth. | Stand back up | without the free foot | touching down. | Grade your depth: | quarter, half, | hamstring to calf, | or all the way | to the floor and back. | Your deepest controlled | full rep, on your | weaker leg, | is your number. | Keep it. | Two levers decide | this squat, | and neither of them | is your quads. | We name them | before the end.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "HEEL GLUED TO THE FLOOR",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "DEPTH",
+     "label": "YOUR NUMBER IS DEPTH",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "chip",
+     "text": "KNEE TRACKS OVER TOES",
+     "pos": "tr"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "THAT DEPTH IS YOUR NUMBER",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "1 REP",
+   "label": "FULL DEPTH, HEEL DOWN, IS THE LINE",
+   "sub": "half depth: a lever is missing - 3+ reps: certified",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. One full pistol squat on each leg, heel down the whole way, hamstring resting on the calf at the bottom, standing up without the free foot touching, is certified ankle and knee leverage. Half depth with a heel that wants to lift means a lever is missing, and it is almost never strength. Three or more clean reps per leg and your single-leg strength embarrasses most barbell squats at your bodyweight. Grade depth honestly, because this test has two famous cheats. The first is the heel lift, which quietly converts an ankle exam into a calf raise. The second is the bounce, free-falling the last third and rebounding out of the bottom, which converts a leverage test into a timing trick. Your number is the depth you can descend to slowly, pause in, and stand out of. Anything faster is a rumor about a pistol squat, not a pistol squat.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "1 FULL REP EACH LEG = THE LINE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "3+",
+     "label": "CERTIFIED SINGLE-LEG",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "PAUSE OR IT DIDN'T HAPPEN",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ankle_ligament_plate.webp",
+   "section": "THE MECHANISM",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the ankle. To squat fully on one leg with your heel down, your knee must travel far forward over your toes, and that travel is bought by ankle dorsiflexion, the shin folding toward the foot. Run out of ankle and the body offers you three bad trades: the heel lifts, the knee caves, or the depth stops. This is the first lever, and it is a mobility lever, which is why strong people fail this test in the first week and flexible people with half their strength sometimes pass it. The second lever is the knee itself, loaded at deep flexion, where the quadriceps and patellar tendon pay the highest price per centimeter in all of leg training. The pistol is not one test. It is two exams stapled together: the ankle decides whether you may enter the bottom, and the knee decides what the bottom costs. Train the one that is failing you, not the one that is already passing.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "fact",
+     "title": "TWO EXAMS, STAPLED",
+     "lines": [
+      "Ankle decides entry.",
+      "Knee decides the price."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "knee_anatomy_plate.webp"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "SHIN FOLDS TOWARD THE FOOT",
+     "pos": "br"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "text": "TRAIN THE FAILING LEVER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "knee_anatomy_plate.webp",
+   "section": "THE SCIENCE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Here is the measurement that predicts your pistol before you attempt it. The knee-to-wall test: stand facing a wall, foot a hand's width away, and drive your knee forward to touch the wall without your heel lifting. The distance your foot can sit from the wall while your knee still reaches it is your dorsiflexion, in centimeters, and pistols need roughly a full hand's width or more. Compare the two athletes. One has the ankle and spends his training money on knee strength at depth. The other is five centimeters short at the wall and spends a year doing squats that his ankle vetoes at half depth. Same effort, opposite results, decided by a ten-second test nobody showed them. Mobility work for the ankle is unglamorous and fast: the joint and its surrounding tissues respond to daily loaded stretches in weeks. The pistol rewards the athlete who audits his levers before he trains them, and it punishes, with perfect consistency, the one who just trains harder.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "KNEE-TO-WALL: THE AUDIT",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "bars",
+     "title": "ANKLE RANGE, IN CM",
+     "items": [
+      [
+       "PISTOL READY",
+       12,
+       "cyan"
+      ],
+      [
+       "VETOED AT HALF",
+       6,
+       "red"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "AUDIT BEFORE YOU TRAIN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_toe_raise.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_toe_raise.webp",
+   "section": "THE DEEP DIVE",
+   "check": 2,
+   "music": "calm",
+   "narration": "The drill pair that unlocks the pistol is boring and decisive. First, knee-to-wall rocks: foot at your current max distance, drive the knee to the wall twenty times, heel pinned, twice a day. Second, box pistols: squat to a chair or stack of books at exactly your honest depth, pause seated for one second, and stand. Three sets of five per leg. The rocks buy the ankle's permission. The box buys the knee's strength at the depth you actually own. Together they move the number. Separately, each one leaves the other lever holding a veto.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "KNEE-TO-WALL ROCKS + BOX PISTOLS",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "3 x 5",
+     "label": "PER LEG, TO YOUR DEPTH",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "PERMISSION + STRENGTH",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "NO LEVER HOLDS A VETO",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_mid.webp",
+   "section": "THE ADVANTAGE",
+   "check": 2,
+   "music": "calm",
+   "narration": "Your advantage is the season's arithmetic at its most generous. A pistol loads one leg with your whole body, which for you is a serious but payable price, and it pays out in the most transferable currency in leg training: strength at full depth, on one leg, with balance included. The heavier athlete's pistol is a maximum lift attempted daily; yours is a skill you can rehearse. Rehearsal volume is the entire difference between athletes who own single-leg strength and athletes who visit it. There is also a joint dividend. Deep, controlled, heel-down squatting is how knees and ankles were built to load, and training the full range with your own bodyweight is the gentlest way to keep those joints fluent for decades. The mirror sees a party trick. Your future knees see a maintenance program, and your present ones see a test they can finally pass.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "A REHEARSABLE PRICE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "DAILY",
+     "label": "SKILL, NOT MAX LIFT",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "FLUENT JOINTS FOR DECADES",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_squat_top.webp"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_squat_bottom.webp",
+   "exercise": "PISTOL NEGATIVES",
+   "work": 30,
+   "rest": 30,
+   "rounds": 3,
+   "section": "TRAIN WITH ME",
+   "check": 3,
+   "music": "drive",
+   "narration": "Lower with me. One leg, five seconds down to your honest depth, heel down, knee tracking straight. Reset at the top and go again. Depth you control is depth you own. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ankle_ligament_plate.webp",
+   "section": "THE FIX",
+   "check": 3,
+   "music": "calm",
+   "narration": "Here is the fix. Stop letting the heel lift and calling it depth. If the ankle is not ready, elevate the heel on a book as a declared scaffold while you train the ankle separately, but do not pretend the scaffold is the skill. Stop free-falling into the bottom. The descent is where the knee earns its strength, so take five seconds down and pause before you stand. Stop letting the knee cave inward to find balance; a caving knee is the ankle and hip negotiating behind your back, and the fix is a slower descent and a target your knee tracks toward, not more effort. And stop training pistols only on your good leg. This test is graded by the weaker side, and the weaker side is a training program, not an embarrassment. The weekly shape: daily ankle rocks, two sessions of box pistols and negatives, weak leg first, always. Depth is a committee decision between ankle and knee, and you must lobby both.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "HEEL LIFT CALLED DEPTH",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "FREE-FALLING THE DESCENT",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "KNEE CAVING FOR BALANCE",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "GOOD LEG ONLY",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "LOBBY BOTH LEVERS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_bottom.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your depth. Quarter to half, heel fighting to lift: the ankle is your first project, and the wall test is your weekly report card. Full depth with a scaffold or a wobble: the committee is close, and box pistols at honest depth will close it. One clean full rep on each leg, heel down, paused, stood up: your ankle and knee leverage is certified. Retest in thirty days, weak leg first, filmed from the front so the knee's tracking cannot hide. Put your depth in the comments, as a fraction or a rep count. Just the number. The pistol grades two levers with one squat, and it reports both grades in a single honest depth.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "HALF DEPTH: AUDIT THE ANKLE",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_split_squat_bottom.webp"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "COMMENT YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_squat_top.webp",
+   "section": "THE OUTRO",
+   "check": 3,
+   "music": "calm",
+   "narration": "Permission from the ankle, payment from the knee, one leg at a time. That is the pistol squat. Subscribe, and bring me your new depth in thirty days. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "LOBBY BOTH LEVERS",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "BRING ME THE NEW DEPTH",
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "text": "SEE YOU AT THE RETEST",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

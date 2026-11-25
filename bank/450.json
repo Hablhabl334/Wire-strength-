@@ -1,0 +1,351 @@
+{
+ "id": "450",
+ "v5": true,
+ "title": "What Happens to Your back tendons If You do 10 pull-ups Every Day",
+ "description": "Ten pull-ups a day is a fixed dose with a compounding receipt. Here is what that small daily number does to your back tendons across four weeks, and the max test that shows where your back starts the journey.",
+ "tags": [
+  "pull-ups",
+  "back tendons",
+  "10 pull-ups a day",
+  "pull-up test",
+  "tendon training",
+  "daily habit",
+  "skinny guy fitness"
+ ],
+ "hashtags": [
+  "10 pull ups a day",
+  "daily pull ups",
+  "back workout",
+  "pull up challenge",
+  "tendon training",
+  "calisthenics"
+ ],
+ "category": "whathappens",
+ "badge": "EP 450 - 10 PULL-UPS A DAY",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "BACK TENDONS",
+  "THE VERDICT"
+ ],
+ "thumb": {
+  "asset": "ren_pullup_top.webp",
+  "big": "10 REPS",
+  "hook": "PULL-UPS EVERY DAY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_pullup_mid.webp",
+    "ren_pullup_top.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Grip the bar. | Pull up clean. | Chin over the bar. | Lower with control. | Again. And again. | No swinging. | No half reps. | Full range only. | Stop at failure. | Count them honestly. | That number? | Write it down. | If it is under TEN | do not worry. | Ten a day | does not need | ten in a row. | Spread them out. | The tendons count | total daily tension. | Here is their month.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "FULL RANGE ONLY",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "text": "COUNT THEM HONESTLY",
+     "label": "STOP AT FAILURE",
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "mark",
+     "text": "WRITE IT DOWN",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "SPREAD THEM OUT",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "10 REPS",
+   "label": "THE FIXED DOSE LINE",
+   "sub": "under 3 max: dose feels big - over 10 max: dose is a warm-up",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. If your max set is under three, ten daily pull-ups is a real program, and your back tendons will feel every rep of the first week. A max of three to eight makes ten a perfect daily dose. Over ten in one set, and the dose becomes a warm-up, which means your back is already wired and your job is to raise the dose.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "A REAL PROGRAM",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "10 A DAY",
+     "label": "THE PERFECT DOSE",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "text": "RAISE IT WHEN IT IS EASY",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "BACK TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "Week one is the honest week. Ten daily reps, spread as singles and doubles, teach your back the pattern without ever trashing it. Your lats wake up, your grip toughens, and the last rep of the day feels like the first by day six. Nothing has been built yet except the most important thing: a streak your body can set its watch by. Tendons remodel for bodies that keep appointments.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 1: KEEP APPOINTMENTS",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "TENDONS REMODEL FOR STREAKS",
+     "lines": [
+      "The body builds for what repeats."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "LAST REP LIKE THE FIRST",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_mid.webp",
+   "section": "BACK TENDONS",
+   "check": 2,
+   "music": "calm",
+   "narration": "Week two, the dose starts compounding. Three hundred reps a month is the quiet math of this habit, and every rep drags your full bodyweight through the tendons of your back and arms. Those cables answer with the usual construction: collagen added, fibers aligned along the pull, give reduced. Your singles become doubles without being asked. The dose did not change. The cables carrying it did.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "WEEK 2: 300 REPS A MONTH",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "swap",
+     "asset": "ren_doorframe_row.webp"
+    },
+    {
+     "at": 11,
+     "kind": "bars",
+     "title": "YOUR SETS",
+     "items": [
+      [
+       "SINGLES",
+       30,
+       "red"
+      ],
+      [
+       "DOUBLES",
+       60,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "THE CABLES CHANGED",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "spine_anatomy_plate.webp",
+   "section": "BACK TENDONS",
+   "check": 2,
+   "music": "dark",
+   "narration": "By week four the mechanism reveals the real prize. It was never the ten reps. It is what a fixed daily dose does to tissue over time: tendons adapt to the pattern of loading, and no pattern is clearer than the same number every day. Your back tendons are stiffer, your max set has grown, and movements that borrow your back, rows, climbs, even carrying heavy bags, all feel quietly upgraded. And the skinny math holds: your ten reps cost you less recovery than anyone heavier, so your streak can outlive theirs by years.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "fact",
+     "title": "THE PATTERN IS THE PROGRAM",
+     "lines": [
+      "Same number, every day, clear signal."
+     ],
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "swap",
+     "asset": "ren_pullup_top.webp"
+    },
+    {
+     "at": 13,
+     "kind": "stat",
+     "text": "STREAKS OUTLIVE",
+     "label": "HEAVIER PLANS",
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "chip",
+     "text": "QUIETLY UPGRADED EVERYWHERE",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_pullup_mid.webp",
+   "exercise": "PULL-UPS",
+   "work": 30,
+   "rest": 30,
+   "rounds": 2,
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now do your first dose with me. Singles or doubles, clean and calm, rest between. Ten total is the target. Start. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_doorframe_row.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "The protocol is ten clean pull-ups a day, however they fit. Singles every hour, pairs with meals, or one honest set of ten: the tendons count tension, not drama. Never miss by doing twenty tomorrow; a missed day is just a missed day, so restart the count and protect the streak. If ten in a day is impossible right now, negatives and doorframe rows count toward the dose until your first full rep arrives. Log the streak on a calendar where you can see it grow.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "TENSION, NOT DRAMA",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "mark",
+     "text": "NO DOUBLE TOMORROWS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 10,
+     "kind": "chip",
+     "text": "NEGATIVES COUNT",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_pullup_top.webp"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "LOG THE STREAK",
+     "ok": true,
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Your max, judged. Under three: the dose is a program, and week four will double your max if you keep the appointments. Three to eight: the perfect dose zone, where tens in a row usually arrive near the month mark. Over ten already: raise the dose to fifteen and slow every lowering. Retest your max on day twenty-eight, same bar, and comment your new number. Just the number.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "DAY 28: RETEST",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "stat",
+     "text": "JUST THE NUMBER",
+     "label": "COMMENT IT BELOW",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_pullup_mid.webp"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "SAME BAR, FULL RANGE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ],
+   "lead_pause": 1.2
+  },
+  {
+   "type": "art",
+   "asset": "ren_pullup_top.webp",
+   "section": "THE VERDICT",
+   "check": 3,
+   "music": "calm",
+   "narration": "Ten pull-ups a day. Small enough to never skip, strong enough to rebuild a back. Start tomorrow, keep the appointments, and let the quietest streak you own do the loudest work. Subscribe for the next daily test. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "START TOMORROW",
+     "pos": "tr"
+    },
+    {
+     "at": 4,
+     "kind": "mark",
+     "text": "NEVER SKIP, ALWAYS COUNT",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "NEXT TEST COMING",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}
