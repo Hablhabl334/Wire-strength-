@@ -41,6 +41,12 @@ resolved_path = os.path.join(ROOT, "out", "_resolved.json")
 os.makedirs(os.path.dirname(resolved_path), exist_ok=True)
 json.dump(meta, open(resolved_path, "w"), indent=2)
 out = os.path.join(ROOT, "out", "video.mp4")
+# Pre-flight: if secrets exist, prove the YouTube token exchange works BEFORE
+# spending ~40 minutes rendering (fail in seconds, with Google's error printed).
+if all(os.environ.get(k) for k in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN")):
+    from upload import access_token
+    access_token()
+    print("pre-flight: YouTube token exchange OK")
 render5(resolved_path, out) if meta.get("v5") else (render4(resolved_path, out) if meta.get("v4") else (render3(resolved_path, out) if meta.get("v3") else (render2(resolved_path, out) if meta.get("v2") else render(resolved_path, out))))
 try:
     from thumbs import make_thumbnail
