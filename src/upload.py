@@ -3,7 +3,7 @@ Secrets (set by the channel owner in GitHub Secrets, never in code/chat):
   YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN
 Quota: one upload = 1600 units of the free 10,000/day. Hard gate below.
 """
-import json, os, sys, urllib.request, urllib.parse
+import json, os, sys, urllib.request, urllib.parse, urllib.error
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from metadata import build_description, build_tags
 
@@ -13,8 +13,14 @@ def access_token():
         "client_secret": os.environ["YT_CLIENT_SECRET"],
         "refresh_token": os.environ["YT_REFRESH_TOKEN"],
         "grant_type": "refresh_token"}).encode()
-    r = urllib.request.urlopen(urllib.request.Request(
-        "https://oauth2.googleapis.com/token", data=data))
+    try:
+        r = urllib.request.urlopen(urllib.request.Request(
+            "https://oauth2.googleapis.com/token", data=data))
+    except urllib.error.HTTPError as e:
+        # Google's error body carries only an error code/description
+        # (e.g. invalid_client, invalid_grant) - never secret values.
+        print("TOKEN EXCHANGE FAILED:", e.code, e.read().decode("utf-8", "replace"))
+        raise
     return json.load(r)["access_token"]
 
 MUSIC_CREDIT = ("\n\nMusic: 'Wallpaper', 'Cold Funk', 'Deep and Dirty' by Kevin MacLeod "
