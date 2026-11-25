@@ -1,0 +1,401 @@
+{
+  "id": "245",
+  "v5": true,
+  "title": "Your Grip Fade Test Reveals Your Hidden Strength",
+  "description": "Hang as long as you can. Rest exactly one minute. Hang again. The percentage of your hang that survives the second round is your fade - and it reveals a hidden strength nobody tests: how fast your grip recovers, which is the strength real life actually uses.",
+  "tags": [
+    "grip fade test",
+    "repeat hangs",
+    "grip recovery",
+    "grip stamina",
+    "dead hang test",
+    "grip endurance test",
+    "hang twice"
+  ],
+  "hashtags": [
+    "grip fade test",
+    "hang twice",
+    "grip recovery",
+    "fade percentage",
+    "grip stamina",
+    "hidden strength"
+  ],
+  "category": "grip",
+  "badge": "EP 245 - THE GRIP FADE TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE STAMINA",
+    "YOUR FADE"
+  ],
+  "thumb": {
+    "asset": "ren_hang_side_active.webp",
+    "big": "-25%",
+    "hook": "HOW FAST YOU FADE",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_hang_side_relaxed.webp",
+        "ren_hang_side_active.webp",
+        "ren_hang_side_tuck.webp"
+      ],
+      "cycle": 3.0,
+      "music": "dark",
+      "narration": "Grab the bar. | One max hang. | Everything you have. | Clock runs to failure. | That is hang one. | Write the seconds down. | Now start a timer. | Rest exactly sixty seconds. | Shake your hands out. | Breathe, nothing more. | At sixty, grab again. | Same grip, same bar. | Hang to failure again. | That is hang two. | Now do the math. | Hang two divided by | hang one, times one hundred. | That percentage survived. | The rest is your fade. | Remember your percentage. | We grade it soon.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HANG ONE: TO FAILURE",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "REST EXACTLY 60 SECONDS",
+          "lines": [
+            "The rest is part of the test."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "chip",
+          "text": "SAME GRIP, SAME BAR",
+          "pos": "tr"
+        },
+        {
+          "at": 18,
+          "kind": "mark",
+          "text": "REMEMBER YOUR PERCENTAGE",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "-25%",
+      "label": "THE LINE FOR GRIP RECOVERY",
+      "sub": "lose over half: recovery untrained - lose 25 to 50: building - lose under 25: wired stamina",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Losing less than a quarter of your hang in one minute of rest is where grip stamina becomes a weapon. Lose over half, and your recovery is untrained: your first hang was real, but your forearms refill so slowly that the second hang is a different, smaller athlete. Between a quarter and a half lost, you are building the plumbing - each repeat returns more of you than the last month did. Lose under twenty five percent and your grip is a repeat-effort machine: hang, rest a minute, hang almost as long, all day. That quality - not the single max - is what climbing, grappling, carrying and working with your hands actually demand. Life rarely asks for your best hang. It asks for your fifth.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "LOSE HALF = UNTRAINED RECOVERY",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "-25%",
+          "label": "WIRED STAMINA TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "LIFE ASKS FOR YOUR FIFTH HANG",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. During your first hang, your forearms worked with their blood supply squeezed shut - you met that plumbing problem in the carry episode. The moment you dropped, blood rushed back in, and a race began: clear the waste, refill the fuel, restore the chemistry that lets fibers fire. Sixty seconds is not enough for a full reset. Your muscles' quick fuel - the phosphocreatine system - rebuilds most of itself in about a minute, but the waste clearance and the acidity take longer, and your tendons and nerves have their own recovery clocks too. Your fade percentage is the photo finish of that race. It does not measure how strong your grip is. It measures how fast your grip becomes strong again, and recovery speed is a trainable system with its own wiring, its own plumbing and its own ceiling. There is a second race inside the sixty seconds, quieter than the plumbing: your grip's confidence. After a max hang, your nervous system is reluctant to commit fully again - it remembers the burn and rations the second effort before it starts. Part of your fade is that reluctance, and part of training repeats is teaching the system that the second hang is safe to fund. Watch for the day hang two stops feeling like an apology. That day, your fade will drop before your strength changes at all.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "THE 60-SECOND RACE",
+          "lines": [
+            "Refill the fuel. Clear the waste.",
+            "One minute is not a full reset."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "FADE = RECOVERY SPEED",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "3 CLOCKS",
+          "label": "MUSCLE, PLUMBING, NERVES",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE STAMINA",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The science of repeat efforts explains why this test feels so different from a max hang. A single effort is a withdrawal: you spend what you have. A repeat effort is income: what matters is how fast the account refills between spends. Athletes in climbing and combat sports live on income, not savings - their sports are fifth hangs, tenth grips, the last round's clinch. Researchers who study repeated gripping find the same pattern you just felt: the gap between attempt one and attempt two separates trained repeaters from strong beginners more honestly than any single max. And the lever is not mysterious. Short rests with submaximal hangs teach the plumbing to clear faster, the way intervals teach a runner's heart. Your fade is not a fixed trait. It is a snapshot of a system mid-education. Coaches of climbers learned this decades ago and built their whole conditioning around it: repeaters - timed hangs with timed rests, repeated for sets - are the backbone of finger endurance training at every level. You are not doing a lesser version of their sport's homework. You are doing the homework itself, on the same clock, for the same reasons. The bar in your doorway is a laboratory that has produced world-class grips.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SPENDING VS INCOME",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "HANG ONE",
+              100
+            ],
+            [
+              "HANG TWO (UNTRAINED)",
+              45
+            ],
+            [
+              "HANG TWO (TRAINED)",
+              82
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_hang_side_active.webp"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "INTERVALS FOR THE FOREARMS",
+          "lines": [
+            "Short rests teach fast clearing."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE STAMINA",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now read your two hangs like a coach. If hang one was huge and hang two collapsed, you are a savings athlete: big account, no income - your training should live in repeats, not maxes, for a month. If both hangs were modest but nearly equal, your plumbing is already educated and your ceiling is the account itself - you need heavier loading, thicker bars and carries, not more repeats. And if hang two died from finger pain or skin rather than forearm fatigue, your limit was neither: it was the interface, and chalk, grip position and gradual skin conditioning are your homework. Three profiles, three prescriptions, one two-hang test. This is why we never train from a single number on this channel. Single numbers flatter. Pairs of numbers confess.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "BIG ONE, DEAD TWO = NO INCOME",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_hang_side_tuck.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "PAIN ENDED IT = INTERFACE LIMIT",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "PAIRS CONFESS",
+          "lines": [
+            "Single numbers flatter.",
+            "Pairs tell the truth."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE STAMINA",
+      "check": 2
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_hang_side_relaxed.webp",
+        "ren_hang_side_active.webp",
+        "ren_hang_side_tuck.webp"
+      ],
+      "cycle": 3.0,
+      "music": "dark",
+      "narration": "Here is your advantage. | Repeats cost bodyweight. | Your hangs are long. | Long hangs, many repeats. | Many repeats, fast education. | The heavy guy's repeats | end in twenty seconds. | Too short to teach. | Your forearms get minutes. | Minutes of plumbing school. | Every single session. | Light is repeatable. | Repeatable is trainable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "MINUTES OF PLUMBING SCHOOL",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "fact",
+          "title": "LIGHT IS REPEATABLE",
+          "lines": [
+            "Repeatable is trainable."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "YOUR FOREARMS GET MINUTES",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE STAMINA",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_hang_side_relaxed.webp",
+      "exercise": "REPEAT HANGS",
+      "work": 30,
+      "rest": 30,
+      "rounds": 4,
+      "music": "drive",
+      "narration": "We educate the plumbing together. Four hangs of thirty seconds - deliberately not to failure - with thirty seconds of shaking and breathing between them. Submaximal and repeatable beats maximal and dead. We are training income, not spending savings.",
+      "section": "YOUR FADE",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_hang_side_active.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: repeat hangs on three days. The session is simple: five hangs at eighty percent of your max, one minute apart, no failure allowed - the moment a hang would fail, it should already be over, because we are training the refill, not the emptying. Shake your hands hard during every rest and breathe slowly; the shake is not superstition, it is you helping the plumbing clear. Two errors to refuse. Turning every session into a retest - max hangs daily will dig a hole your plumbing cannot climb out of this week. And changing your grip between hangs to survive, which launders the data and the training alike. Same grip, same bar, honest rests. In a month, retest the fade. Expect the second hang to arrive like a relative who finally got a job. Add one refinement in week three: finish each session with a single hang at ninety percent - close to the edge but not over it - to teach the system that deep efforts are also repeatable. Then stop. The discipline of stopping while the education is working is what separates a month of progress from a week of enthusiasm followed by sore tendons and a quiet bar.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "80% HANGS, NO FAILURE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "DAILY MAX RETESTS",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_dead_hang.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "SHAKE HARD BETWEEN HANGS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "5 HANGS, 3 DAYS A WEEK",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR FADE",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR FADE",
+      "label": "WHAT YOUR PERCENTAGE MEANS",
+      "sub": "lose 50% plus: untrained - lose 25 to 50: building - lose under 25: wired",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your fade mean? Losing half or more means your recovery is untrained - a strong first effort with no second act - and the repeat protocol you just heard is the fastest education your forearms will ever get. Losing a quarter to a half means you are building income: the plumbing clears, the fuel refills, and each month more of hang one shows up for hang two. Losing under a quarter means your grip stamina is wired. You are a repeat-effort athlete, and that quality will quietly show up in your carries, your climbs and your workdays as the grip that is simply still there in the last hour. Retest in thirty days: same bar, same grip, same sixty seconds. Comment both hangs and your fade percentage below. Three numbers - the full confession.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "STILL THERE IN THE LAST HOUR",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT BOTH HANGS + FADE",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR FADE",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_hang_side_active.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "A max hang is a photograph. A fade test is a film - it shows what your grip does over time, and time is where life happens. Thirty days of repeats, then we film it again. Post your three numbers below. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST ALL THREE NUMBERS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR FADE",
+      "check": 3
+    }
+  ]
+}

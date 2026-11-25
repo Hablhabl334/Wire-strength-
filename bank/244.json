@@ -1,0 +1,395 @@
+{
+  "id": "244",
+  "v5": true,
+  "title": "Your Forearm Tape Test Reveals the Truth About Your forearm tissue",
+  "description": "Wrap a tape around your flexed forearm and read the number. It sounds like vanity. It is actually an anatomy lesson: your forearm tape reveals the truth about your forearm tissue - how much of you is engine, how much is cable, and where growth can actually happen.",
+  "tags": [
+    "forearm measurement",
+    "forearm tape test",
+    "forearm size",
+    "forearm anatomy",
+    "forearm growth",
+    "muscle vs tendon",
+    "forearm circumference"
+  ],
+  "hashtags": [
+    "forearm tape test",
+    "forearm size",
+    "measure the engine",
+    "forearm anatomy",
+    "muscle and tendon",
+    "forearm growth"
+  ],
+  "category": "grip",
+  "badge": "EP 244 - THE FOREARM TAPE TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE TISSUE",
+    "YOUR TAPE"
+  ],
+  "thumb": {
+    "asset": "forearm_anatomy_plate.webp",
+    "big": "30 CM",
+    "hook": "MEASURE THE ENGINE",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Take a tape measure - or a piece of string and a ruler. Bend your arm to ninety degrees, make a hard fist, and flex everything. Slide the tape to the widest point of your forearm, which for most men sits a few centimeters below the elbow crease. Wrap it snug, not strangling, and read the number in centimeters. Then relax the arm and measure the same spot cold and loose. Two numbers: flexed and relaxed. Write both down. That is your FOREARM TAPE test, and before you judge the number, you need to know what the tape is actually reading - because a forearm is not built like a biceps, and most men measure it with the wrong expectations entirely. Keep your numbers. The tissue truth is coming.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FLEXED AND RELAXED: TWO NUMBERS",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "THE WIDEST POINT",
+          "lines": [
+            "A few centimeters",
+            "below the elbow crease."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "REMEMBER BOTH NUMBERS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "30 CM",
+      "label": "THE LINE FOR A BUILT FOREARM",
+      "sub": "under 26: untrained tissue - 26 to 30: building - over 32: engine room",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Thirty centimeters flexed is where a skinny guy's forearm stops looking like a wrist's extension and starts looking like equipment. Under twenty six, the tissue is untrained - and I choose that word carefully, because for forearms more than any other muscle, untrained usually means underfed with work rather than small by destiny. Between twenty six and thirty, you are building: the flexor mass near the elbow is responding, and the tape moves a centimeter per season of honest gripping. Over thirty two flexed, on a lean frame, you own forearms that change how every handshake, sleeve and photograph reads. But the number is only half the story. What the tape cannot tell you is the composition - and composition decides your training. That is the next scene.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 26 = UNDERWORKED, NOT DOOMED",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "32+ CM",
+          "label": "ENGINE ROOM TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMPOSITION DECIDES TRAINING",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the truth about your forearm tissue. Run your eyes from elbow to wrist. The top third, near the elbow, is crowded with muscle bellies - the flexors and extensors in their thick, growable part. The bottom two thirds are mostly tendon: long cables sliding to the fingers, with barely any muscle at all. This is why your wrist will never be thick, no matter what you do - there is nothing there to thicken except cable, and cables thicken slowly and modestly. And it is why forearm growth lives near the elbow. When the tape moves over the coming months, it will move because the engine room up top grew - more muscle packed around the elbow end of the cables. Men who do not know this anatomy waste years squeezing and hoping their wrists will change. The tape, read properly, tells you where change is even possible.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "ENGINE UP TOP, CABLE BELOW",
+          "lines": [
+            "Muscle near the elbow.",
+            "Tendon toward the wrist."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_wrist_lever.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "WRISTS DO NOT GROW. FOREARMS DO.",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "TOP THIRD",
+          "label": "WHERE THE TAPE MOVES",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TISSUE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now read your two numbers like a scientist. The gap between flexed and relaxed is your tissue's story in miniature. A big gap - two centimeters or more - means a healthy share of contractile muscle that can swell and harden on command. A small gap on a decent circumference often means the size is mostly structure: bone, tendon and a thin coat of muscle, a forearm that looks bigger than it performs. Neither is a verdict; both are instructions. Big-gap forearms need load variety to keep growing. Small-gap forearms need exactly what this season delivers - gripping, carrying, crushing and spreading - because muscle is built by work, and the forearm's muscle only believes in work done by the hand. Your tape is not a scoreboard. It is a stethoscope. Learn to hear what it is saying and every future measurement becomes a training decision.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE GAP IS THE STORY",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "FLEXED",
+              100
+            ],
+            [
+              "RELAXED",
+              88
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "A STETHOSCOPE, NOT A SCOREBOARD",
+          "lines": [
+            "Composition over circumference."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TISSUE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "So what actually grows the engine room? Three levers, and only three, move the forearm tape. Lever one: heavy gripping - carries, hangs and crushes - because the flexor mass is built by closing the hand against real resistance. Lever two: wrist work in both directions, flexion and extension, because the muscles that move the wrist live in that same top third and respond to being trained as prime movers, not assistants. Lever three: time - forearm tissue is dense, stubborn and slow, built in seasons, not weeks, which is why most men quit before the tape moves and conclude their genetics are guilty. The tape is innocent. The calendar was the problem. Every man who stuck with the levers for a year has a story about sleeves fitting differently. Every man who quit in month two has a story about genetics.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THREE LEVERS ONLY",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "THE CALENDAR WAS THE PROBLEM",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "SEASONS, NOT WEEKS",
+          "lines": [
+            "Dense tissue grows slowly.",
+            "It always grows."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TISSUE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The skinny advantage with forearms is visibility and honesty. On a lean frame, forearms are the one muscle the world sees daily - in short sleeves, in a handshake, holding a rail - and lean forearms show every gram of new tissue because there is no fat layer to hide it under. A centimeter gained on your frame photographs like three on a heavier man. There is also a feedback gift: you can watch the flexor mass work when you crush, see the cables slide when you spread, and that visible feedback makes your training more precise than a man guessing through insulation. Your forearms are your public résumé as a skinny lifter - the first place your wiring shows. Build them and strangers will assume the rest of you is built too. They will be half right, and the half is growing.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "LEAN = EVERY GRAM SHOWS",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 14,
+          "kind": "fact",
+          "title": "YOUR PUBLIC RESUME",
+          "lines": [
+            "The first place",
+            "your wiring shows."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "1 CM LOOKS LIKE 3 ON YOU",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TISSUE",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_wrist_lever.webp",
+      "exercise": "WRIST LEVER HOLDS",
+      "work": 30,
+      "rest": 15,
+      "rounds": 3,
+      "music": "drive",
+      "narration": "We feed the engine room together. Three rounds of wrist lever holds - press and resist through the wrist in both directions across the rounds. Slow, full, honest pressure. This is lever two, done properly.",
+      "section": "YOUR TAPE",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your protocol has one rule above all: measure like a scientist or do not measure at all. Same spot, same time of day, same state - cold and relaxed for the official number, because a pumped post-workout tape is a liar that will break your heart next week. Mark the spot with a pen the first time if you must. Train the three levers across the week: heavy gripping twice, wrist work twice, carries once, and let the extensors from the last episode keep the balance. Retest the tape monthly, not weekly - this tissue moves in millimeters per month and daily measuring is just self-sabotage with numbers. Write the date beside every measurement. A dated series of small numbers is the most motivating document a skinny guy can own. A note on the relaxed number, because men ignore it and should not. If your relaxed measurement creeps up across months while flexed stays still, that is usually not muscle - it is measurement drift, a different spot, a warmer day. Trust the flexed number for progress and the gap for composition, and let the relaxed number be what it is: a reminder that honest data needs a protocol, not a mood.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "SAME SPOT, SAME STATE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "PUMPED MEASUREMENTS LIE",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "MONTHLY, NEVER DAILY",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "DATE EVERY NUMBER",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR TAPE",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR CENTIMETERS",
+      "label": "WHAT YOUR TAPE NUMBER MEANS",
+      "sub": "under 26: untrained - 26 to 30: building - over 30: built",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your tape number mean? Under twenty six centimeters, your forearm tissue is untrained - which, given the anatomy you now know, is a work order, not a life sentence. Between twenty six and thirty, you are building the engine room: the top third is thickening, the gap between flexed and relaxed is widening, and your grip numbers across this whole season are climbing with it. Over thirty centimeters flexed on a lean frame, your forearms are built - visibly, measurably, permanently yours. Retest monthly, first of the month, cold and honest. Comment your flexed number below - and your relaxed one too, because the gap tells the real story and I read for the gap.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "MONTHLY",
+          "label": "THE ONLY HONEST CADENCE",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "A WORK ORDER, NOT A SENTENCE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT BOTH NUMBERS",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR TAPE",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "A tape measure is the cheapest laboratory in fitness, and today it taught you anatomy, honesty and patience in one number. Measure monthly. Train the levers weekly. Let the seasons do their work. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "MEASURE ON THE 1ST",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST BOTH NUMBERS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR TAPE",
+      "check": 3
+    }
+  ]
+}

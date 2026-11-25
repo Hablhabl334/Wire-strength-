@@ -1,0 +1,447 @@
+{
+ "badge": "EP 205 - BREATH PRESSURE WRONG",
+ "category": "isometrics",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE BREATH",
+  "THE RIGHT WAY"
+ ],
+ "description": "Brace hard, then exhale slowly and watch your pressure die. This test counts how many full breaths your brace can survive. Here is the pressure-nerve system behind breathing behind the shield, and how to fix yours in thirty days.",
+ "hashtags": [
+  "breath pressure",
+  "bracing and breathing",
+  "diaphragm training",
+  "pressure nerves",
+  "core control",
+  "calisthenics"
+ ],
+ "id": "205",
+ "scenes": [
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STAND UP, BRACE HARD"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "EXHALE THROUGH PURSED LIPS"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "One slow breath can empty",
+      "an untrained brace completely."
+     ],
+     "pos": "br",
+     "title": "THE HISS TEST"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COUNT YOUR SURVIVING BREATHS"
+    },
+    {
+     "at": 24,
+     "kind": "stat",
+     "label": "OF PRESSURE BREATHING",
+     "pos": "br",
+     "text": "5 BREATHS"
+    }
+   ],
+   "check": 0,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Stand up and build the hardest brace you own, the full canister from the last test. Now, instead of holding your breath, exhale very slowly through pursed lips, a long quiet hiss, while you fight to keep the pressure exactly where it was. When the hiss ends, sip in a small breath without letting your sides go soft, and hiss again. Count how many full slow breaths you complete before the pressure collapses and the brace turns to jelly. That count is your number. Most people die on breath one, because their brace was only ever a held breath wearing a costume. Remember your count. By the end, you will know how pressure breathing actually works. If you want a second opinion on your count, film your sides from the front. A dying brace is visible: the waist narrows and softens a little more with every breath, like a balloon with a slow puncture.",
+   "section": "THE TEST",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BREATH 1 DEATH = NORMAL"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "5 BREATHS = PRESSURE PRO"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "BRACE THAT BREATHES",
+     "pos": "br",
+     "text": "5 FULL"
+    }
+   ],
+   "big": "5 BREATHS",
+   "card": "bignum",
+   "check": 1,
+   "label": "PRESSURE THAT LETS YOU BREATHE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Five full slow breaths behind an unbroken brace is what pressure control looks like when it is trained. If your pressure died on the first exhale, you are in the overwhelming majority, and it simply means your brace and your breathing have been sharing one switch. Two to three breaths means the systems are starting to separate, which is real progress waiting to happen. Five calm breaths with hard sides the entire time means you own a skill that most strong people never develop. Keep your count in mind. At the end I will grade it properly and tell you what to practice. It is worth saying out loud: breath one is where almost everyone's brace dies, including strong, experienced lifters who have simply never separated the systems. You are not behind. You are at the standard starting line for a skill almost nobody trains.",
+   "section": "THE NUMBER",
+   "sub": "dies on breath 1: rigid statue - 5 full breaths: pressure pro",
+   "type": "card"
+  },
+  {
+   "asset": "spine_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE PISTON IN YOUR TORSO"
+    },
+    {
+     "asset": "ren_plank_hold.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "The diaphragm is a muscle,",
+      "driven by the phrenic nerve."
+     ],
+     "pos": "br",
+     "title": "THE PHRENIC NERVE"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EVERY BREATH MOVES THE LID"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TWO JOBS, ONE SYSTEM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the machine you are trying to run. Your diaphragm is a dome-shaped muscle forming the lid of your core canister, and it is driven by the phrenic nerve straight from your neck. Every breath you take pushes that lid down or lets it rise, which means every breath changes your core pressure whether you like it or not. Breathing and bracing are not two systems. They are one system with two jobs that constantly interfere. The pressure nerves are the wiring that lets you run both jobs at once: the diaphragm manages air while the deep core wall holds its shape independently. Untrained people can only do one job at a time. Trained people conduct both, and that is the whole skill. The phrenic nerve has another interesting property: it can be trained through breathing practice alone, which is why singers, swimmers, and free divers develop freakish pressure control as a side effect of their crafts. You are borrowing their homework.",
+   "section": "THE BREATH",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE HISS IS A VALVE"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "HELD BREATH",
+       30,
+       "red"
+      ],
+      [
+       "HISS EXHALE",
+       90,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "PRESSURE KEPT: TWO METHODS"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "A slow hiss leaks air slowly,",
+      "so pressure has time to adjust."
+     ],
+     "pos": "br",
+     "title": "WHY SLOW WINS"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "IF DIZZY, STOP AND BREATHE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Why does the hiss work so well? Because a slow exhale through pursed lips is a pressure valve. Air escapes gradually, so your core wall has time to squeeze inward and maintain the pressure the escaping air would otherwise steal. Compare that with the held-breath method, which keeps pressure beautifully for a few seconds and then collapses all at once when you finally gasp. One honest safety note: if you ever feel dizzy during brace breathing, stop, breathe normally, and sit down if you need to. Light-headedness means you are overdoing the pressure, not training it. Pressure breathing should feel like hard, controlled work, never like a blackout audition. There is a simple progression if the full hiss is too hard today: exhale only half your air per hiss, keeping the rest in reserve. Partial exhales keep more pressure while you learn the coordination. Shrink the reserve as the weeks pass.",
+   "section": "THE BREATH",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_sag.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FAILURE MODE ONE: THE STATUE"
+    },
+    {
+     "asset": "ren_plank_hold.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Statues hold pressure and pass out.",
+      "Balloons breathe and leak."
+     ],
+     "pos": "br",
+     "title": "TWO WAYS TO FAIL"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE MIDDLE IS THE SKILL"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CONTROL LIVES BETWEEN THEM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "There are exactly two ways this test fails, and you have probably met both. The statue fails by freezing: giant breath, total lock, face turning red, pressure perfect until the whole system crashes at once. The balloon fails by leaking: breathing stays easy and natural while the canister quietly deflates with every exhale, until the brace is just a memory. Statues cannot last. Balloons cannot lift. The skill lives precisely between them, in the narrow zone where air moves slowly and the walls refuse to move at all. Every great lifter you have ever watched lives in that zone during heavy efforts. They are not holding their breath. They are conducting pressure. You will meet both failure modes in yourself within a single session, statue on the first attempt, balloon on the third. Do not judge either. They are simply the two ends of the dial, and the training is learning to park in the middle on purpose.",
+   "section": "THE BREATH",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS MASS, LESS AIR NEEDED"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "PRESSURE PER KILO",
+     "pos": "br",
+     "text": "YOUR EDGE"
+    },
+    {
+     "asset": "ren_plank_sag.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A SKILL, NOT A SIZE"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "LIGHT GUYS MASTER IT FIRST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your advantage here is simple physics. Pressure requirements scale with the mass you need to stabilize, and you carry less of it. A heavy lifter must generate enormous pressure just to keep his own trunk rigid, and his breathing fights him harder for it. You can reach full working pressure with less air, less strain, and far less drama, which means you can practice the breathing layer far more often without frying yourself. Pressure breathing is a pure skill, untied to muscle size, and skills reward the person who practices most, not the person who weighs most. The skinny guy who masters his breath owns a foundation the big guy is still renting from a weight belt. One more advantage, subtle but real: light athletes can practice pressure breathing in almost any position and context, sitting at a desk, standing in a queue, because the absolute pressures involved are modest. The skill accumulates in the cracks of your day.",
+   "section": "THE BREATH",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "check": 3,
+   "exercise": "BRACE BREATHING",
+   "music": "drive",
+   "narration": "Now we practice the valve together. Three rounds. Build the brace, then hiss out slowly for a count of ten, sip in without softening, and repeat. The walls never move. Only the air does. Go.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "THE RIGHT WAY",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "GIANT BREATH, TOTAL FREEZE"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "FIRST EXHALE = FULL LEAK"
+    },
+    {
+     "asset": "ren_plank_sag.webp",
+     "at": 13,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SHOULDERS DOING THE BREATHING"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SIP IN, HISS OUT"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "RIBS STAY WIDE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the wrong way versus the right way. Wrong way one: the giant breath and total freeze, which is just the statue again, impressive for five seconds and useless after. Wrong way two: letting the first exhale take the whole brace with it, so pressure becomes a light switch instead of a dimmer. Wrong way three: breathing up into your shoulders and neck, which moves air while your diaphragm sits out entirely. The right way feels almost boring: sip a small breath in through the nose, keep the ribs wide and the sides hard, then hiss out slowly like you are fogging a mirror in slow motion. Sip, hiss, repeat, and the canister never notices the traffic. That boredom is mastery. A cue that helps many people: hiss like you are fogging a mirror you are not allowed to touch, slow and even, while imagining your ribs as a barrel that refuses to shrink. The image sounds silly. The coordination it produces is not.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE SWITCH BECOMES TWO"
+    },
+    {
+     "asset": "spine_anatomy_plate.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Died on breath 1: shared switch.",
+      "Five full breaths: separated."
+     ],
+     "pos": "br",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. If your brace died on the first breath, your breathing and bracing share one switch, and every hard effort you make forces you to choose between air and pressure. That is fixable, and the hiss drill is the fix. If you survived two or three breaths, the systems are separating, and a month of daily practice usually completes the split. And if you hissed through five full breaths with hard sides throughout, your pressure nerves are doing something genuinely elite. Whatever your count was, put it in the comments. Just the number. In thirty days we run the hiss test again, and we will count how far your wiring has come. Expect the transfer to show up somewhere unexpected first: a heavy set where you suddenly realize you breathed through the hard part instead of freezing. That is the separated system working in the wild, and it is worth more than the test score itself.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "ren_plank_hold.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "SAME TEST, CALM AIR",
+     "pos": "br",
+     "text": "DAY 30"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of sipping and hissing and the brace that used to die on breath one will breathe like it was never in danger. Same test, same body, completely different wiring. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "breath pressure",
+  "bracing and breathing",
+  "diaphragm training",
+  "pressure nerves",
+  "core breathing",
+  "brace technique",
+  "skinny guy strength"
+ ],
+ "thumb": {
+  "accent": "violet",
+  "asset": "ren_plank_hold.webp",
+  "big": "5 BREATHS",
+  "hook": "BREATHE BEHIND PRESSURE"
+ },
+ "title": "Stop Doing breath pressure Wrong: Train Your pressure nerves Instead",
+ "v5": true
+}

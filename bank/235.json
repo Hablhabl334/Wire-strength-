@@ -1,0 +1,393 @@
+{
+  "id": "235",
+  "v5": true,
+  "title": "Your Max Tension Time Reveals Your Hidden Strength",
+  "description": "Hold the top of a push-up and squeeze everything you own - chest, arms, glutes, legs - at one hundred percent. Your max tension time reveals your hidden strength, and the first thing that fades tells you exactly which link in your chain is lying to you.",
+  "tags": [
+    "max tension time",
+    "lockout hold",
+    "push-up hold test",
+    "full body tension",
+    "weak link test",
+    "isometric tension",
+    "irradiation"
+  ],
+  "hashtags": [
+    "max tension time",
+    "lockout squeeze",
+    "push-up hold",
+    "weak link",
+    "full body tension",
+    "hidden strength"
+  ],
+  "category": "isometrics",
+  "badge": "EP 235 - MAX TENSION TIME",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE WEAKEST LINK",
+    "YOUR TENSION"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_top.webp",
+    "big": "30 SEC",
+    "hook": "FIND YOUR WEAK LINK",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Get into the top of a push-up. Arms locked, body straight. Now do not move - squeeze. Crush your chest and triceps like you are still pushing. Squeeze your glutes hard. Lock your quads, brace your abs, press the floor away through straight arms. Everything at one hundred percent, all at the same time. Start your clock when the whole body is on. The test ends when the first thing lets go - an elbow bends, a glute switches off, a breath explodes out of you. That time is your MAX TENSION TIME, and the thing that let go is even more important than the time. Remember both. We read them like a report card at the end.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "EVERYTHING AT 100%, AT ONCE",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "TWO ANSWERS",
+          "lines": [
+            "The time - and the first",
+            "thing that let go."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "REMEMBER BOTH ANSWERS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "30 SEC",
+      "label": "THE LINE FOR LOCKOUT TENSION",
+      "sub": "under 15: a link is missing - 15 to 30: building - over 45: total tension",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Thirty seconds of true lockout tension is where a chain becomes a single piece. Under fifteen seconds, a link is missing - not weak overall, missing: one part of you never really joined the squeeze, and the hold ended the moment the others noticed. Between fifteen and thirty, every link is present but they tire at different speeds, so the chain stretches before it snaps. Over forty five seconds, your whole body can hold one intention for the better part of a minute, and that is a rarer skill than it sounds. Most strong-looking men have never once asked every muscle to agree at the same time. You just did, and the clock graded the agreement.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 15 = A LINK IS MISSING",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "45+ SEC",
+          "label": "ONE-PIECE BODY TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "THE CLOCK GRADES AGREEMENT",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Tension is not a single muscle's party trick. It is a chain reaction. When you squeeze hard in one place, the signal spills into the neighbors - scientists call this irradiation, and it is why a crushed fist makes your whole arm harder. In a lockout hold, the chain has an order: hands and glutes are the great amplifiers, the two places whose squeeze raises everyone else's output the most. Then the signal runs through the trunk into the legs. Your max tension time is really a measurement of the whole chain holding its charge. And like any chain, it does not fail gradually everywhere. It fails at one link, the same link, every time - until you train that link on purpose. Your test just introduced you to yours. Try the experiment hidden inside this science. Do one push-up squeezing nothing in particular. Then do one with your fists clenched and glutes crushed before you even bend your arms. The second rep is stronger, and nothing about your chest changed. That difference - free strength, bought with agreement - is what your tension time measures the endurance of. Imagine owning it for every rep of every set.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "IRRADIATION",
+          "lines": [
+            "Squeeze one place hard.",
+            "The neighbors get stronger."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pushup_top.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "HANDS + GLUTES = AMPLIFIERS",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "1 LINK",
+          "label": "FAILS FIRST, EVERY TIME",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE WEAKEST LINK",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Let me prove the chain to you with the strangest fact in this episode. Squeezing your glutes hard during a push-up makes the push-up itself stronger - even though your glutes push nothing. Researchers call it remote facilitation, and it works because the nervous system does not budget force muscle by muscle. It budgets by intention. A body that commits everywhere gets more everywhere. This is why your tension time matters far beyond this test. The man whose chain agrees presses more, pulls more and lands harder than the man with identical muscles whose chain argues. Strength coaches have a saying: you cannot shoot a cannon from a canoe. Max tension is you, becoming less canoe. Your number today is simply how long you can stay a battleship. One more receipt the test keeps: watch where your body wanted to move. A chain under total tension should be statue-still, but most people drift - hips sway, head bobs, one hand presses harder. Drift is the chain negotiating with itself in public. As your time climbs across the month, watch the drift shrink. Stillness is the visible signature of agreement, and it is the thing judges, coaches and opponents all read as power.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "GLUTES MAKE PUSH-UPS STRONGER",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "CHAIN AGREES",
+              93
+            ],
+            [
+              "CHAIN ARGUES",
+              71
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "THE CANOE RULE",
+          "lines": [
+            "Force needs a platform",
+            "that does not wobble."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE WEAKEST LINK",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Time to name the suspects. Four links end almost every hold. First, the breath: you held it, the pressure spiked, and your brain powered the whole system down to save you. Second, the triceps: they shook, then folded, because lockout is their least-trained angle. Third, the glutes: they quietly clocked out halfway through - you only noticed when your hips started to sag. Fourth, the neck and jaw: tension leaked upward into a grimace while the body went soft. Replay your test and pick your suspect honestly. There is no shame column here. Each suspect has a specific, boring, effective fix, and the protocol coming up is organized by suspect, not by exercise. Find yours and the month plans itself. A word about the jaw suspect, because it sounds like a joke and is not. Your jaw muscles are among the strongest for their size in your body, and clenching them is your nervous system's oldest tension habit - it fires when babies cry and when adults strain. The habit is not the problem. The problem is when the jaw is the ONLY place the tension is real. Move the squeeze down into the body and the grimace takes care of itself.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "SUSPECT 1: THE BREATH",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_pushup_weak.webp"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "SUSPECTS 2-4: TRICEPS, GLUTES, JAW",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "NAME YOUR SUSPECT",
+          "lines": [
+            "The fix depends on",
+            "which link failed."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE WEAKEST LINK",
+      "check": 2
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "music": "dark",
+      "narration": "Here is your advantage. | This hold costs bodyweight. | Yours is a light bill. | More seconds per session. | More diagnosis per week. | Every hold is data. | The heavy guy's hold | ends in ten seconds. | Too short to learn from. | Yours runs long enough | to find the weak link. | Light is not less. | Light is more practice.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LIGHT = LONGER HOLDS",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "fact",
+          "title": "EVERY HOLD IS DATA",
+          "lines": [
+            "You learn per second held."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "LIGHT IS MORE PRACTICE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE WEAKEST LINK",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_top.webp",
+      "exercise": "LOCKOUT SQUEEZE",
+      "work": 20,
+      "rest": 20,
+      "rounds": 4,
+      "music": "drive",
+      "narration": "We interrogate the chain together. Four rounds at lockout. Each round, build the squeeze in order - fists, glutes, then everything - and hold. When a link lets go, name it out loud. Naming it is the training.",
+      "section": "YOUR TENSION",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your protocol depends on your suspect, so find your line. Breath suspect: practice holds at eighty percent while breathing in small sips, ten seconds at a time, until breathing and bracing stop fighting. Triceps suspect: add lockout holds with slightly bent, then straight arms, five seconds past the shake, three times a week. Glute suspect: squeeze your glutes fifty times a day standing - at the bus stop, in the kitchen - until they join every squeeze uninvited. Jaw suspect: hold a soft face on purpose, tongue relaxed, and let the tension live in the body where it belongs. Everyone, whatever the suspect: two full max tension tests per week, no more. The test is also the training, but only when you arrive at it fresh. Finally, respect the freshness rule with your whole heart. A max tension test taken tired measures your fatigue, not your chain, and chasing a personal best on a tired day has ended more good protocols than laziness ever did. Two fresh tests a week, full effort, full honesty. The other days, let the links train quietly at eighty percent and save the verdicts for test day.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "BREATHE IN SMALL SIPS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "DAILY MAX TESTS",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_pushup_mid.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "FIX YOUR SUSPECT, NOT EVERYTHING",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "2 TESTS A WEEK, FRESH",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR TENSION",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR TIME",
+      "label": "WHAT YOUR TENSION TIME MEANS",
+      "sub": "under 15: link missing - 15 to 30: building - over 30: one piece",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your time mean? Under fifteen seconds, a link is missing, and you know its name now, which puts you ahead of everyone still guessing. Between fifteen and thirty, your chain is complete but uneven - the strong links are carrying the weak one's share, and they will keep doing it until you train the weak one directly. Over thirty seconds, you are one piece: a body that can agree with itself under pressure, and that agreement is the hidden strength this episode promised to reveal. Retest in thirty days and compare both answers - the time, and whether the same suspect ends it. Comment your time and your suspect below. The suspect is the interesting half.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "NAME THE SUSPECT",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT TIME + SUSPECT",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR TENSION",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your body is a chain, and today you found its honest length and its weakest link in a single test. Fix the link and the whole chain grades higher. Thirty days, then we squeeze again. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST TIME + SUSPECT",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR TENSION",
+      "check": 3
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+ "badge": "EP 214 - STICKING POINTS WRONG",
+ "category": "isometrics",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE RECRUITMENT",
+  "THE RIGHT WAY"
+ ],
+ "description": "Squat to parallel and freeze. Your hold time at the squat's weakest angle exposes your nerve recruitment in a way no max rep can. Here is the recruitment system, the mistakes that dodge it, and the thirty-day fix.",
+ "hashtags": [
+  "sticking point",
+  "squat holds",
+  "nerve recruitment",
+  "isometrics",
+  "weak angle",
+  "calisthenics"
+ ],
+ "id": "214",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO GYM NEEDED"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THIGHS PARALLEL, THEN FREEZE"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "lines": [
+      "Above parallel is the easy angle.",
+      "That is not the test."
+     ],
+     "pos": "br",
+     "title": "PARALLEL IS THE ADDRESS"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMEMBER YOUR TIME"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "label": "AT YOUR WEAKEST ANGLE",
+     "pos": "br",
+     "text": "SECONDS"
+    }
+   ],
+   "check": 0,
+   "cycle": 4.0,
+   "music": "dark",
+   "narration": "Stand tall. | Feet shoulder width. | Now squat down. | Thighs parallel to the floor. | Right there. | That is the angle | where squats get stuck. | FREEZE. | Start your clock. | Chest up. | Knees out. | Arms forward for balance. | Just hold and breathe. | Your legs will burn. | Then shake. | Count the seconds | until you stand up | or sink lower. | That time is yours. | Most people last | half as long | as they predict. | Remember it exactly. | By the end, you'll see | what your time says | about your recruitment. | Film from the side | if you can. | Depth lies to everyone | without evidence.",
+   "poses": [
+    "ren_squat_top.webp",
+    "ren_squat_mid.webp",
+    "ren_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SHORT = ANGLE NEVER VISITED"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "30 SEC = POOL OPENS"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "YOU OWN THE ANGLE",
+     "pos": "br",
+     "text": "60 SEC"
+    }
+   ],
+   "big": "30 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "SURVIVING YOUR WEAKEST ANGLE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Thirty seconds frozen at parallel is where a squat hold stops being endurance and becomes recruitment training. Under fifteen seconds, your nervous system simply has not learned to open its full motor unit pool at that angle, because you have never asked it to stay there. Between thirty and forty-five, the pool opens but tires early, the classic intermediate pattern. A full sixty seconds with a tall chest means you own the weakest point of the squat outright, and lifts stop sticking there entirely. Keep your time in mind. At the end I will tell you which band you are in and how the strong squatters use this exact drill. A fairness note: limb proportions move this test. Long-legged people fight worse leverage at parallel and will score lower with identical wiring. Grade yourself against your own retest, and use a consistent depth marker so the comparison is honest.",
+   "section": "THE NUMBER",
+   "sub": "under 15: pool stays shut - over 60: you own the angle",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "PARALLEL IS THE WORST LEVERAGE"
+    },
+    {
+     "asset": "ren_squat_mid.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Weak angles demand the highest",
+      "recruitment in the whole lift."
+     ],
+     "pos": "br",
+     "title": "MAXIMUM DEMAND"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEMAND FORCES THE POOL OPEN"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "LIVE WHERE IT IS HARD"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is why parallel is the exam room of the squat. At that depth your knees and hips are both bent into their worst leverage, the quads are working at a long length, and the demand on your nervous system is the highest in the entire movement. Your brain responds to demand the way it always does: it recruits motor units in order, small to large, and only opens the big high-threshold units when the angle leaves it no choice. A hold at parallel is therefore a recruitment drill disguised as a squat. Every second you survive there, you are practicing maximal recruitment at the exact coordinates where your squats have always gone to die. That is not a coincidence. That is the entire strategy. The demand at parallel has a second source worth naming: at that depth, several leg muscles cross their least favorable lengths simultaneously. It is a conspiracy of geometry, not a personal flaw. Training there is how you renegotiate the conspiracy.",
+   "section": "THE RECRUITMENT",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRENGTH HAS AN ADDRESS"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "AT THE HELD ANGLE",
+       100,
+       "cyan"
+      ],
+      [
+       "30 DEGREES AWAY",
+       35,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "HOW FAR HOLD STRENGTH TRAVELS"
+    },
+    {
+     "asset": "ren_squat_bottom.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Hold strength transfers about",
+      "15 degrees to either side."
+     ],
+     "pos": "br",
+     "title": "THE 15-DEGREE RULE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TRAIN THE ADDRESS THAT FAILS"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now the rule that makes this precise instead of vague. Isometric strength is angle-specific: a hold builds the most strength at the angle you held, and the gains fade as you move away, traveling roughly fifteen degrees to either side. This is why randomly holding comfortable positions does so little, and why holding your exact sticking point is surgical. Your squat does not fail everywhere. It fails in a fifteen-degree neighborhood, and that neighborhood has an address. Train that address and the whole street improves. Train anywhere else and you are renovating a house you do not live in. The sticking point hold is not general leg training. It is a targeted strike on the one angle that has been taxing every squat, jump, and stair climb you own. Coaches use this rule in reverse, too: if an athlete sticks at a known angle, they place the isometric work fifteen degrees around it and watch the lift unstick within weeks. You are now running a professional method in your living room, with furniture.",
+   "section": "THE RECRUITMENT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DEEPER IS A DIFFERENT EXAM"
+    },
+    {
+     "asset": "ren_squat_mid.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Your sticking point is personal.",
+      "Test for it, do not guess it."
+     ],
+     "pos": "br",
+     "title": "FIND YOUR ANGLE"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "BOUNCING OUT IS ESCAPING"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "OWN IT FROM A DEAD STOP"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "A nuance worth your attention: your sticking point is personal. For many people it is parallel, but for others it sits a few inches above or below, wherever their proportions make leverage worst. The way to find yours is to squat slowly and notice where the bar speed would die, where the urge to bounce or lean takes over. That urge is a confession. It marks the angle your nervous system least trusts. And bouncing out of that angle, the stretch-shortening trick everyone uses, is not a solution, it is an escape route that leaves the angle weak forever. Owning the angle from a dead stop, with no bounce to hide behind, is the only audit that counts and the only training that fixes it. Finding your angle has a shortcut: the depth where your heels want to lift, your chest wants to tip, or your breath catches is almost always within an inch of it. Your body's escape attempts are a map. Read them instead of fighting them.",
+   "section": "THE RECRUITMENT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "JUMPS START NEAR THIS ANGLE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "WEAK-ANGLE PRACTICE",
+     "pos": "br",
+     "text": "DAILY"
+    },
+    {
+     "asset": "ren_squat_mid.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LIGHT KNEES, LONG HOLDS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BUILT TO LIVE HERE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your advantage, as always, is practice volume, but here it has a destination. Your light body lets your knees tolerate long holds at parallel far more often than a heavy lifter's can, so you can visit your weakest angle almost daily without paying for it. And that angle is not some obscure corner of your athletic life. Jumping takes off from near it. Landing is caught near it. Sprinting's hardest ground contact happens in its neighborhood. The skinny athlete who owns parallel owns the launchpad of nearly every explosive thing legs do. While the heavy guy protects his joints with occasional attempts, you are quietly becoming the person whose weakest angle is not weak anymore. The transfer list is longer than jumping. Getting out of a low chair, climbing with a load, standing up from the floor with a child in your arms: all of them pass through this neighborhood. Owning parallel is a daily-life upgrade disguised as an athletic one.",
+   "section": "THE RECRUITMENT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "check": 3,
+   "exercise": "STICKING POINT SQUAT HOLDS",
+   "music": "drive",
+   "narration": "Now we recruit together. Four rounds. Squat to parallel and freeze for twenty-five seconds. Chest tall, knees out, breathe. If you sink or stand, the round ends. Own the angle. Go.",
+   "rest": 35,
+   "rounds": 4,
+   "section": "THE RIGHT WAY",
+   "type": "timer",
+   "work": 25
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HOLDING ABOVE PARALLEL"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "KNEES CAVING INWARD"
+    },
+    {
+     "asset": "ren_squat_bottom.webp",
+     "at": 13,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "A NEW DEPTH EVERY DAY"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SAME ANGLE, EVERY SESSION"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BREATHE INSIDE THE HOLD"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the wrong way versus the right way. Wrong way one: holding a few inches above parallel, the comfortable suburb of the sticking point, recruiting half as much and learning half as fast. Wrong way two: knees caving inward under fatigue, which reroutes the load away from the muscles you came to recruit. Wrong way three: a different depth every session, so no single angle ever accumulates enough practice to change. The right way is boring and exact: the same depth, checked against the same marker, knees tracking out, chest tall, breathing in small sips while the shake does its work. Recruitment is an address-specific skill. Show up at the same address until it answers the door instantly. Use a physical marker for depth, a stack of books or a chair edge that your hamstrings brush at the correct angle. Memory drifts under fatigue, and drifting depth is the most common way this drill quietly stops working.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNVISITED, NOT UNABLE"
+    },
+    {
+     "asset": "ren_squat_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Under 15: the pool stays shut.",
+      "Over 60: the angle is yours."
+     ],
+     "pos": "br",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. Under fifteen seconds means your weakest angle is essentially unvisited: your brain protects it by refusing full recruitment, and your squats will keep dying there until you negotiate. Expect the classic pattern, two ugly weeks, then a sudden jump as the wiring clicks. Between thirty and forty-five, the pool opens and simply needs more time at the address to become permanent. Over sixty seconds with a tall chest, you own parallel completely, and it is time to test a deeper or harder angle. Whatever your time was, write it in the comments. Just the number. In thirty days we freeze at this exact angle again, and the clock will grade your recruitment. Also note your breathing quality at the retest, not just the time. The day you can hold a conversation's worth of calm breath at parallel, the angle has stopped being a threat to your nervous system, whatever the clock says.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "ren_squat_mid.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "SAME ANGLE, NEW WIRING",
+     "pos": "br",
+     "text": "DAY 30"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of living at your weakest angle and the freeze that used to end in seconds becomes a position of power. Same test, same angle, completely different wiring. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "sticking point holds",
+  "squat isometrics",
+  "nerve recruitment",
+  "isometric training",
+  "squat plateau",
+  "angle specific strength",
+  "skinny guy legs"
+ ],
+ "thumb": {
+  "accent": "violet",
+  "asset": "ren_squat_mid.webp",
+  "big": "30 SEC",
+  "hook": "OWN THE WEAK ANGLE"
+ },
+ "title": "Stop Doing sticking point holds Wrong: Train Your nerve recruitment Instead",
+ "v5": true
+}

@@ -1,0 +1,394 @@
+{
+  "id": "242",
+  "v5": true,
+  "title": "Your Crush Test Reveals the Truth About Your hand tendons",
+  "description": "Squeeze a ball as many times as you can in sixty seconds - fully closed, every rep. Your crush count reveals the truth about your hand tendons: the cables that turn forearm muscle into the most useful force you own.",
+  "tags": [
+    "crush grip",
+    "crush test",
+    "hand tendons",
+    "grip strength test",
+    "ball squeeze",
+    "crushing grip",
+    "forearm flexors"
+  ],
+  "hashtags": [
+    "crush test",
+    "crush grip",
+    "hand tendons",
+    "60 seconds",
+    "ball squeeze",
+    "grip truth"
+  ],
+  "category": "grip",
+  "badge": "EP 242 - THE CRUSH TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE TENDONS",
+    "YOUR CRUSH"
+  ],
+  "thumb": {
+    "asset": "ren_grip_closeup.webp",
+    "big": "50 REPS",
+    "hook": "CRUSH THE BALL",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Take a tennis ball, a stress ball, or a tightly rolled towel. Hold it in one hand, arm relaxed at your side, wrist straight. On the clock, squeeze it completely flat - fingers driven all the way to your palm - then open fully and squeeze again. One full close is one rep. Sixty seconds, maximum reps, no half squeezes, no resting the ball against your leg. Then switch hands and repeat. Your CRUSH number is your weaker hand's count, as always. If you have no ball, a rolled pair of socks works - what matters is full close, full open, full honesty. Keep your number. The truth about your hand tendons is stranger than you think, and it is coming.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FULL CLOSE, FULL OPEN",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "THE WEAKER HAND COUNTS",
+          "lines": [
+            "Test both. Grade the worse one."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "50 REPS",
+      "label": "THE LINE FOR CRUSH POWER",
+      "sub": "under 30: tendons underused - 30 to 50: building - over 60: crushing",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Fifty full crushes in sixty seconds is where a hand becomes a tool. Under thirty, your hand tendons are underused - not damaged, not small, simply rarely asked to work through their full range at speed, so the system is slow and the reps die early. Between thirty and fifty, the machinery works but the last fifteen seconds turn to half-measures, which is the signature of endurance missing inside a strength skill. Over sixty full, honest crushes, your hand can work at full power for a full minute without fading - the grip of men who open, close, twist and build things all day. And here is the twist this episode exists to deliver: almost none of that power is made in the hand. Wait for the mechanism.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 30 = UNDERUSED, NOT BROKEN",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "60+ REPS",
+          "label": "ALL-DAY HAND TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "50 FULL = THE LINE",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the truth about your hand tendons. Open and close your fingers and watch your hand: there is almost no muscle in those fingers to watch. The fingers are puppets. The muscles that close them live in your forearm, and they pull on long tendons - cables - that run through your wrist and along each finger like the wires of a marionette. When you crushed that ball, your forearm did the work and your hand tendons delivered it. This is why the episode title names the tendons: they are the delivery system, and delivery systems decide what arrives. Tendons are not passive ropes, either. They are living tissue that thickens and stiffens with use, and a stiffer cable wastes less of the forearm's pull in stretch. Your crush count grades the whole marionette - engine, cables and all. Feel the last ten seconds of your test once more in memory. The ball stopped flattening not because your hand forgot how, but because the signal to the forearm arrived weaker each time - the same rationing you met in the wall push episodes, wearing a smaller costume. Crush training is partly tendon training and partly negotiation with that ration. Reps at full close, done often, are how the ration grows.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "FINGERS ARE PUPPETS",
+          "lines": [
+            "No real muscle in them.",
+            "The forearm pulls the cables."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "CABLES DECIDE WHAT ARRIVES",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "STIFFER CABLE",
+          "label": "LESS FORCE WASTED",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TENDONS",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now separate two grips that the world confuses. Crush grip is what you just tested: actively squeezing something into your palm. Support grip is its brother: holding on while something tries to escape - a hang, a carry, a heavy bag. They share the engine but not the skill. Crush is a moving, pumping action that loves speed and reps. Support is a static siege that loves time. Men regularly discover they are rich in one and poor in the other: the ball-crusher who slips off the bar, the hanger whose handshake is a rumor. Your crush number grades only the pumping system - the one that opens jars, wrings towels, works tools and wins handshakes. Know which grip a test grades before you let it grade you.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "CRUSH VS SUPPORT: TWO SKILLS",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "CRUSH (PUMPING)",
+              85
+            ],
+            [
+              "SUPPORT (HOLDING)",
+              70
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "ren_finger_hang.webp"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "KNOW WHAT IS GRADED",
+          "lines": [
+            "Each grip flatters",
+            "a different man."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TENDONS",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "One detail silently taxed every rep you did: your wrist position. Grip force is not constant - it peaks when the wrist is straight or bent very slightly back, and it falls off a cliff when the wrist bends forward. Try it now: squeeze with your wrist bent in, and feel the power leak away. Your tendons run around the wrist like cables around a pulley, and a bent pulley wastes their pull. In your test, if your wrist gradually folded as fatigue arrived - and it usually does - your last twenty seconds were taxed twice: tired muscles, bent pulley. This is also why the wrist lever still exists in the library. Wrist control is grip control, one joint upstream. Fix the pulley and the same hand crushes harder tonight, with no new strength at all.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "A BENT WRIST LEAKS POWER",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "WRIST STRAIGHT = FULL PRICE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "THE PULLEY RULE",
+          "lines": [
+            "Tendons hate a bent corner."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TENDONS",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_finger_hang.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The skinny advantage in crush is recovery. Crushing is forearm work at moderate load, and a lean man's forearms are not already exhausted from carrying a heavy body through every day. You can practice crush daily - a ball at your desk, a towel in the kitchen - in small doses that a bigger, more loaded man would feel in his elbows by Friday. Frequency is the cheat code of tendon training: cables adapt to how often they are loaded, not only how hard. Your life gives you more loading slots per week than his does. Spend them. Fifty honest squeezes while the kettle boils is a training program your tendons will notice within the month, and nobody around you will even know you are training.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "DAILY DOSES WIN FOR TENDONS",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 14,
+          "kind": "fact",
+          "title": "FREQUENCY IS THE CHEAT CODE",
+          "lines": [
+            "Cables count sessions,",
+            "not just kilograms."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "TRAIN WHILE THE KETTLE BOILS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TENDONS",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_grip_closeup.webp",
+      "exercise": "BALL CRUSH",
+      "work": 30,
+      "rest": 15,
+      "rounds": 4,
+      "music": "drive",
+      "narration": "We build the pump together. Four rounds, alternating hands. Thirty seconds of full closes - flat ball, open hand, every rep. Wrist straight like we just learned. When the closes stop being full, the round has taught you enough.",
+      "section": "YOUR CRUSH",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: crush work on four days, small and often. Each session: three sets of thirty seconds per hand, wrist straight, every rep fully closed and fully opened, because a half rep trains a half tendon. Two mistakes will visit. The first is speed cheating - bouncing the ball with finger flicks instead of forearm power; slow down until you feel the forearm do the work, because the forearm is the point. The second is training only the strong hand because it feels better. Your number is your weaker hand, so your weaker hand gets the first set of every session, and the strong hand is only ever allowed to match its reps. In a month the gap narrows, the count climbs, and your handshake changes its story. One progression worth knowing: when sixty full crushes per hand is yours, do not buy a harder ball first. Slow down. Three seconds to close, three seconds to open, for thirty seconds - time under tension is the tendon's favorite language, and it makes a soft ball feel like equipment again. Speed was the test. Slowness is the sequel, and it is harder than the test.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "FULL CLOSE, FULL OPEN",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "FINGER-FLICK CHEATING",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "WEAK HAND GOES FIRST",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "4 DAYS, SMALL AND OFTEN",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR CRUSH",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR REPS",
+      "label": "WHAT YOUR CRUSH COUNT MEANS",
+      "sub": "under 30: underused - 30 to 50: building - over 50: a tool",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your count mean? Under thirty, your hand tendons are underused - a delivery system in perfect order that nobody calls. Call it daily and this number moves faster than almost any other on the channel. Between thirty and fifty, you are building a working hand: the engine is willing, and what remains is endurance inside the skill - the last fifteen seconds are your training ground. Over fifty full crushes, your hand is a tool: it can work at power, at speed, for a full minute, and that minute is the difference between hands that admire problems and hands that finish them. Retest in thirty days, same ball, weaker hand graded. Comment your count below - ball type included, because a stress ball and a tennis ball are different sports.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "UNDERUSED IS NOT BROKEN",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT COUNT + BALL",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR CRUSH",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your fingers were never the workers. They are the delivery address of a forearm engine and a set of living cables. Today you graded the delivery. Thirty days of honest squeezes, then we count again. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST YOUR COUNT",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR CRUSH",
+      "check": 3
+    }
+  ]
+}

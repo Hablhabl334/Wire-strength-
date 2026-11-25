@@ -1,0 +1,445 @@
+{
+  "id": "183",
+  "v5": true,
+  "title": "Your Brace Test Reveals the Truth About Your core nerve pressure",
+  "description": "Get into a plank, brace like you are about to be punched, and try to keep breathing and talking. The seconds before your brace collapses measure your core pressure system. Here is how that system really works, and how to build one that holds.",
+  "tags": [
+    "bracing test",
+    "how to brace",
+    "core pressure",
+    "plank test",
+    "intra abdominal pressure",
+    "core stability",
+    "breathing and bracing"
+  ],
+  "hashtags": [
+    "bracing",
+    "core strength",
+    "plank test",
+    "breathing technique",
+    "core stability",
+    "isometrics"
+  ],
+  "category": "isometrics",
+  "badge": "EP 183 - THE BRACE TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE PRESSURE",
+    "YOUR BRACE"
+  ],
+  "thumb": {
+    "asset": "ren_plank_hold.webp",
+    "big": "30 SEC",
+    "hook": "BRACE AND BREATHE",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Forearm plank. Elbows under shoulders, body in one line. Now brace: tighten your whole trunk like someone is about to punch you in the stomach, squeeze your glutes, lock your thighs. Here is the test. Keep that brace at full pressure while you breathe normally and count out loud to thirty. Most people discover a humbling truth within ten seconds: they can brace, or they can breathe, but not both. The moment air moves, the pressure leaks, the hips sag or the back arches, and the brace quietly resigns. The second where yours gives up is your number. Keep it. At the end I will show you what it reveals about the pressure system that protects your spine in every lift you will ever do.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BRACE LIKE A PUNCH IS COMING",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "NOW BREATHE AND COUNT",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "THE LEAK SECOND",
+          "label": "YOUR HONEST SCORE",
+          "pos": "tr"
+        },
+        {
+          "at": 24,
+          "kind": "fact",
+          "title": "BRACE OR BREATHE",
+          "lines": [
+            "Most people can only pick one.",
+            "The test is doing both."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "30 SEC",
+      "label": "OF BRACING WHILE BREATHING",
+      "sub": "under 10: the pressure leaks instantly - 30 plus: a brace that holds under life",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Thirty seconds of full brace with calm breathing and a steady voice is a pressure system that works under real life, because real lifts never let you hold your breath forever. Ten to thirty seconds is the building middle: the brace exists, but breathing taxes it. Under ten, your trunk pressure is a party trick, present only while the breath is held, and gone the moment you need it during anything long or heavy. The good news: of every system in this season, pressure is the fastest to learn, because it is a coordination skill wearing a strength costume.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "A COORDINATION SKILL",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "10-30: THE BUILDING MIDDLE",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "stat",
+          "text": "UNDER 10",
+          "label": "A BREATH-HELD PARTY TRICK",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE PRESSURE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Understand the machine. Your trunk is a pressure canister: diaphragm on top, pelvic floor on the bottom, abdominal wall and back muscles around the sides. Fill it with air and tension and the pressure inside, INTRA-ABDOMINAL PRESSURE, turns a wobbly stack of vertebrae into a rigid column. Spines do not stay safe because individual back muscles are strong. They stay safe because the canister pressurises before load arrives, and that pressurising is a nerve skill: the system must fire in the right order, a fraction of a second before you move. When the order is late or the pressure leaks, the same load lands on joints and discs instead. Every heavy thing you will ever lift is carried by this canister. The plank just lets us watch it work.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "A PRESSURE CANISTER",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "PRESSURE BEFORE LOAD",
+          "lines": [
+            "The system fires before you move.",
+            "Late pressure lands on joints."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "SPINES RIDE ON PRESSURE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE PRESSURE",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Now the subtle part, the part that decides the test: breathing behind the brace. Beginners brace by holding their breath, which works for three seconds and then becomes a countdown to collapse. Skilled bracing is different. You take air in against a tightened wall, letting the diaphragm descend into an already-tense canister, and you sip and release air in small exchanges while the pressure stays high. It feels like breathing inside a corset, because it is. This is a trainable pattern, and it transfers everywhere: the last reps of a set, a long carry, a sprint finish. Anywhere effort lasts longer than one held breath, the winner is whoever keeps pressure while the air moves.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BREATHE INSIDE THE CORSET",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "PRESSURE AT SECOND 20",
+          "items": [
+            [
+              "BREATH-HOLDER",
+              20,
+              "red"
+            ],
+            [
+              "BRACE-BREATHER",
+              85,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "SMALL EXCHANGES",
+          "lines": [
+            "Sip air against the wall.",
+            "Pressure stays while air moves."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_horse_stance.webp",
+      "section": "THE PRESSURE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Pressure earns its keep the moment load leaves the floor. Watch anyone carry something genuinely heavy, a water jug, a suitcase, a child who fell asleep, and you are watching the canister work standing up. The brace must hold while the legs move, while the load swings, while breathing continues, which is why plank-only bracing is an incomplete education. The standing version of your test is simple: brace hard, then march slowly in place for thirty seconds without the pressure leaking. Most plank graduates fail the march in the first week, and that failure is the honest map of what remains to build. Pressure that survives movement is the real skill. Everything else is rehearsal.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "NOW DO IT STANDING",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "THE MARCH TEST",
+          "lines": [
+            "Brace hard, march 30 seconds.",
+            "Leaks reveal the real map."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "MOVING PRESSURE IS THE SKILL",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_sag.webp",
+      "section": "THE PRESSURE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Learn to read the failure, because the failure is the diagnosis. If your hips sag, the front of the canister gave up: abdominals and glutes stopped paying. If your back arches and pinches, the pressure pushed the wrong way and the spine took the load the wall should have carried. If your whole body starts trembling early, the system is fine but new: trembling is recruitment hunting for a pattern it has not grooved yet. Each failure has its own fix, and the protocol coming up doses all three. But the meta-lesson matters more: your brace does not fail randomly. It fails in its weakest direction, every time, like a chain, and training the direction is worth ten times training the whole.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE FAILURE IS THE DIAGNOSIS",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "fact",
+          "title": "READ THE SAG",
+          "lines": [
+            "Sagging hips: front wall quit.",
+            "Arching back: spine took the load."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "TRAIN THE WEAK DIRECTION",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "YOUR BRACE",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Your advantage is hiding in plain sight: pressure is relative. The canister must be stiff enough for the loads you actually move, and your loads are your own body, not a two-hundred-kilo barbell. A skinny guy's brace reaches 'strong enough for everything he does' far sooner than a powerlifter's does. Your plank, your carries, your push-ups, all of them live well inside the pressure a few weeks of training builds. And because bracing is coordination, your lighter frame loses nothing to anyone here. The nervous system does not grade on bodyweight. It grades on practice, and practice is free.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "STRONG ENOUGH ARRIVES SOONER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "PRESSURE NEEDED VS BUILT",
+          "items": [
+            [
+              "BARBELL ATHLETE",
+              90,
+              "gold"
+            ],
+            [
+              "YOUR LOADS",
+              55,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "THE NERVES DON'T GRADE ON WEIGHT",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_plank_hold.webp",
+      "exercise": "BRACE HOLDS",
+      "work": 20,
+      "rest": 10,
+      "rounds": 4,
+      "section": "YOUR BRACE",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Plank up, brace hard, and breathe in small sips behind the brace. Twenty seconds on, ten off, four rounds. If the hips sag, the round is over early. Go."
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "YOUR BRACE",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: brace holds four days, the drill we just did, always stopping a round when the shape breaks rather than when the clock ends. Add brace practice inside real life: before every heavy-ish thing you lift this week, groceries, a box, a child, set the canister first and breathe behind it for the whole carry. Three mistakes leak pressure. Sucking the stomach in, which empties the canister instead of pressurising it. Bracing only the front and forgetting glutes and lats, which are half the wall. And training the brace only in planks, never standing, when standing is where life loads you. If plank work brings sharp back pain, pain into the leg, or numbness, see a professional if it persists. Pressure should feel like effort, never like injury.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "SET THE CANISTER FIRST",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "SUCKING IN EMPTIES IT",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "chip",
+          "text": "TRAIN IT STANDING TOO",
+          "pos": "tr"
+        },
+        {
+          "at": 25,
+          "kind": "fact",
+          "title": "THE WEEK",
+          "lines": [
+            "Brace holds 4 days.",
+            "Brace every real carry.",
+            "Glutes and lats are half the wall."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "YOUR BRACE",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under ten seconds: your pressure system is a held breath away from empty, and you are about to gain the fastest win of this season, because coordination learns in days. Ten to thirty: the canister works and leaks, and breathing drills are your exact medicine. Thirty seconds with a steady voice: your brace holds under life, and your job is loading it heavier and longer. Write the second where it leaked. Retest in thirty days, same plank, same out-loud count, and put both numbers in the comments. Pressure you can breathe behind is pressure you actually own. One more marker to watch during the month: your resting posture. As the canister wires in, you will catch yourself standing taller without deciding to, because the pressure system has started switching on by itself. That is the graduation. The brace stops being a drill and becomes your default, and every lift you do from then on is quietly protected by a system that no longer needs your permission.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "UNDER 10: FASTEST WIN HERE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "ren_plank_sag.webp"
+        },
+        {
+          "at": 21,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "section": "YOUR BRACE",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of bracing behind your breath and that plank becomes a column. Set the pressure before the load, every time. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "PRESSURE BEFORE LOAD",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "SEE YOU AT THE RETEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

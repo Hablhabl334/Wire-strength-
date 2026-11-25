@@ -1,0 +1,400 @@
+{
+  "id": "237",
+  "v5": true,
+  "title": "Your Sticking Point Time Reveals Your Hidden Strength",
+  "description": "Halfway up a push-up there is an inch where you are weakest - your sticking point. Holding that exact inch against the clock measures nerve recruitment: how much force your brain can summon at the angle where force is hardest to make.",
+  "tags": [
+    "sticking point",
+    "isometric hold",
+    "push-up sticking point",
+    "angle specific strength",
+    "nerve recruitment",
+    "mid range hold",
+    "plateau breaker"
+  ],
+  "hashtags": [
+    "sticking point",
+    "hardest inch",
+    "isometric hold",
+    "push-up test",
+    "nerve recruitment",
+    "angle training"
+  ],
+  "category": "isometrics",
+  "badge": "EP 237 - THE STICKING POINT TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE RECRUITMENT",
+    "YOUR HARDEST INCH"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_mid.webp",
+    "big": "30 SEC",
+    "hook": "HOLD THE HARDEST INCH",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Get into a push-up and lower halfway down. Elbows bent at roughly ninety degrees, upper arms parallel to the floor. This is the sticking point - the inch where push-ups go to die. Now hold it. Do not rise, do not sink, do not let your hips sag or your head drop. Start your clock. Your STICKING POINT TIME ends when you drift more than a couple of centimeters in either direction, or when you bail out completely. This will feel absurdly hard for such a simple instruction, and in a moment you will know exactly why. Remember your seconds, and remember how early the shaking started. We grade both at the end.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ELBOWS AT 90 DEGREES",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "NO DRIFTING",
+          "lines": [
+            "Two centimeters either way",
+            "ends the test."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "REMEMBER YOUR SECONDS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "30 SEC",
+      "label": "THE LINE FOR THE HARDEST INCH",
+      "sub": "under 15: the inch owns you - 15 to 30: building - over 45: you own it",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Thirty seconds at the sticking point is where the weakest inch of your push-up becomes a strong one. Under fifteen seconds, the inch owns you: this is the exact spot where your heavy reps will stall for the rest of your life unless you train it directly. Between fifteen and thirty, your recruitment at the bad angle is real but expensive - you can feel your whole body negotiating to keep you there. Over forty five seconds, you own the inch. Holds at the worst angle feel almost boring, and boring at the sticking point means your push-up no longer has a place to fail. Every lifter has a sticking point. Almost none of them have ever timed it. You just did, and a timed weakness is a trainable one.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 15 = THE INCH OWNS YOU",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "45+ SEC",
+          "label": "BORING AT THE WORST ANGLE",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "A TIMED WEAKNESS IS TRAINABLE",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Strength is not general - it is addressed, angle by angle, like houses on a street. When you train a position, the biggest gains land exactly there, with a smaller bonus spreading maybe fifteen degrees to either side. Your nervous system recruits motor units for the geometry it practices. This is why a man can be strong at the top of a push-up and helpless in the middle: he has built houses at the ends of the street and left the middle empty. The sticking point is simply the emptiest address - the angle where your leverage is worst, your muscles are at awkward lengths, and your recruitment has the least practice. A hold at that angle is a delivery of concentrated signal to the one address that needs it most. Nothing else in your training is this specific. A detail worth knowing: the bonus spread is not symmetrical. Gains reach a little farther above the trained angle than below it, which is why the protocol paves two inches in both directions instead of trusting the spread. Specificity rewards the thorough. When you map your own sticking point, give it neighbors - the inch rarely travels alone.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "STRENGTH IS ADDRESSED",
+          "lines": [
+            "Gains live at the trained angle,",
+            "plus a little to each side."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pushup_mid.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "THE EMPTIEST ADDRESS",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "+/- 15 DEGREES",
+          "label": "WHERE THE BONUS SPREADS",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE RECRUITMENT",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Why does the sticking point exist at all? Two curves collide there. The first is leverage: halfway up, your upper arm is at its worst mechanical angle to move your body - the same force buys the least motion. The second is the muscle's own length curve: muscles produce their best force near the middle of their range and less when stretched long or squeezed short, and the sticking point stacks awkward lengths on top of bad leverage. Add the third ingredient - in normal reps you blast through this inch on momentum, so it never trains - and you have the perfect storm: the hardest inch is also the least practiced. Holds reverse the storm. They remove momentum and park you inside the problem until the problem adapts. It will adapt. Angles always do, once you actually visit them.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BAD LEVERAGE + BAD LENGTH",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "TOP OF REP",
+              88
+            ],
+            [
+              "STICKING POINT",
+              54
+            ],
+            [
+              "BOTTOM",
+              76
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_pushup_bottom.webp"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "MOMENTUM HIDES IT",
+          "lines": [
+            "Fast reps never train",
+            "the inch they skip."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE RECRUITMENT",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your sticking point is not only a push-up fact. It is a pattern your whole body repeats. There is an inch in your squat where you stall, a height in your pull where the bar slows, a depth in your dip where you bounce to escape. Different exercises, same law: the least practiced angle becomes the weakest, and the weakest angle decides the whole movement's ceiling. This is why strong people plateau at loads they seem able to lift - the chain is graded by its worst inch, not its average. Once you learn to find a sticking point, you own a universal diagnostic. And once you learn to hold it, you own the universal fix: park at the bad angle, breathe, and let recruitment rebuild the address.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "EVERY LIFT HAS ONE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_squat_mid.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "THE WORST INCH SETS THE CEILING",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "THE UNIVERSAL FIX",
+          "lines": [
+            "Park at the bad angle.",
+            "Let it adapt."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE RECRUITMENT",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_45_mid.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The skinny advantage at the sticking point is, once again, time. A hold at the worst angle is bought with bodyweight, and a light body can afford long holds - thirty, forty, fifty seconds of pure signal delivered to one address. A heavy man's hold at his sticking point is a near-maximal lift; it ends in seconds and shakes too violently to teach fine control. Yours lasts long enough to be a conversation with the angle: you can feel the exact fibers that fire, the moment they rotate, the breath that steadies them. That resolution is impossible at maximal loads. You are not settling for lighter training. You are using the only load at which this particular lesson can even be taught.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "LONG HOLDS, FINE CONTROL",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pushup_mid.webp"
+        },
+        {
+          "at": 14,
+          "kind": "fact",
+          "title": "RESOLUTION NEEDS TIME",
+          "lines": [
+            "Max loads end too fast",
+            "to teach the angle."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "THE ONLY LOAD THAT TEACHES IT",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE RECRUITMENT",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_mid.webp",
+      "exercise": "STICKING POINT HOLD",
+      "work": 25,
+      "rest": 20,
+      "rounds": 4,
+      "music": "drive",
+      "narration": "We rebuild the inch together. Four rounds at the sticking point - elbows at ninety, no drifting. When you drift, come up, shake it out, and reset for the next round. Precision is the whole exercise.",
+      "section": "YOUR HARDEST INCH",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: sticking point holds on three days, four rounds each, exactly like the timer block. Then expand the map: once a week, hold three angles - two inches above your sticking point, at it, and two inches below - ten seconds each, because the bonus spreads about fifteen degrees and we are paving the whole street, not one house. Two cheats will visit you. Drifting upward into an easier angle while telling yourself you are holding - film one round a week and let the camera vote. And turning the hold into a breath-holding contest, which ends holds early and teaches nothing. Breathe in slow sips, keep the angle honest, and let the shake come. The shake is recruitment at its limit, and recruitment at its limit is the definition of this training. Expect the first week to expose a second, quieter sticking point about two inches higher - most people have a primary and a shadow. When the primary strengthens, the shadow becomes the new ceiling and the protocol simply moves house. This is not failure; it is the method working as designed, peeling the movement one layer at a time until no layer is weak.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "DRIFTING UP = CHEATING",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "BREATHE IN SLOW SIPS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_pushup_top.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "PAVE THE WHOLE STREET",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "4 ROUNDS, 3 DAYS A WEEK",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR HARDEST INCH",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR TIME",
+      "label": "WHAT YOUR STICKING TIME MEANS",
+      "sub": "under 15: inch owns you - 15 to 30: building - over 30: owned",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your time mean? Under fifteen seconds, the inch owns you, and it will keep taxing every hard push-up you ever do until you pay it directly - now you know the price and the address. Between fifteen and thirty, you are building the missing house: recruitment is arriving at the bad angle, and your normal reps will start feeling smoother through the middle before your hold time even doubles. Over thirty seconds, you own the inch. Your push-up's weakest point is a place you can live in, which means the movement has nowhere left to break. Retest in thirty days, elbows at ninety, camera watching. Comment your seconds below - and the next time you see a man stall halfway up a heavy rep, you will know exactly what you are looking at.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "SMOOTHER MIDDLES COME FIRST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT YOUR SECONDS",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR HARDEST INCH",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Every strong movement has a weakest inch, and most people spend their lives driving through theirs at speed, hoping. You stopped in yours and stayed. Thirty days of parking there, then we time it again. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST YOUR SECONDS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR HARDEST INCH",
+      "check": 3
+    }
+  ]
+}

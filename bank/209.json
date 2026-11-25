@@ -1,0 +1,450 @@
+{
+ "badge": "EP 209 - ISO LUNGES DONE WRONG",
+ "category": "isometrics",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE DRIVE",
+  "THE RIGHT WAY"
+ ],
+ "description": "Drop into a lunge, hover the knee, and start the clock. Your hold time per leg exposes your leg nerve drive and the gap between your legs. Here is the system behind it, the mistakes that ruin it, and the thirty-day fix.",
+ "hashtags": [
+  "isometric lunges",
+  "leg drive",
+  "single leg strength",
+  "iso holds",
+  "nerve drive",
+  "calisthenics"
+ ],
+ "id": "209",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO GYM NEEDED"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "KNEE HOVERS, NEVER TOUCHES"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "lines": [
+      "Test both legs.",
+      "The gap is information."
+     ],
+     "pos": "br",
+     "title": "TWO LEGS, TWO SCORES"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMEMBER BOTH TIMES"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "label": "YOUR WEAK LEG'S TIME",
+     "pos": "br",
+     "text": "WEAK LEG"
+    }
+   ],
+   "check": 0,
+   "cycle": 4.0,
+   "music": "dark",
+   "narration": "Step into a lunge. | Front foot flat. | Back heel raised. | Lower down slowly. | Back knee hovers | just above the floor. | Now FREEZE. | Start your clock. | Torso tall. | Hands off your thigh. | Just hold and breathe. | Your front leg | is doing everything. | It will start burning. | Then shaking. | Count the seconds | until you stand up | or the knee drops. | That is leg one. | Now switch sides. | Same test, other leg. | Most people discover | a shocking gap. | One leg is a stranger. | Remember both times. | By the end, you'll see | what the gap costs you. | Write both times down. | The gap matters | as much as the times.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A GAP = A MAP PROBLEM"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "45 SEC = REAL DRIVE"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "BOTH LEGS, FULL DRIVE",
+     "pos": "br",
+     "text": "90 SEC"
+    }
+   ],
+   "big": "45 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE HOVER YOUR LEG CAN SURVIVE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Forty-five seconds in the hover is where a lunge hold stops being a balance trick and becomes leg drive. Under twenty seconds on your weak leg, that leg's drive is genuinely undertrained, and the gap between your legs is quietly taxing everything you do on two feet. Between thirty and sixty seconds, the drive is real and simply needs volume. Ninety seconds with a tall torso means single-leg drive at a level that shows up in sprinting and jumping immediately. Keep both of your times in mind, especially the smaller one. At the end I will tell you why the weak leg is the only number that matters. Also record which leg you tested second, because order flatters nobody here: if your weak leg still lost while fresh, the gap is real. If it only lost when tired, you have found an endurance gap, which closes even faster.",
+   "section": "THE NUMBER",
+   "sub": "under 20 weak leg: drive gap - over 90: wired legs",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG, FULL BODYWEIGHT"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "A deep lunge loads the quad",
+      "and glute at long lengths."
+     ],
+     "pos": "br",
+     "title": "THE DEEP ANGLE"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DRIVE IS RECRUITMENT UNDER LOAD"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE HOVER NEVER LIES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is what the hover is really measuring. In a deep lunge, one leg carries nearly your entire bodyweight at a long muscle length, the hardest mechanical position there is. Holding still there is not a balance act. Your nervous system must recruit the quad and glute deeply and keep them recruited while fatigue begs it to quit. That sustained recruitment is leg nerve drive, and it is the exact quality that decides how hard you can sprint, cut, and jump, because all of those happen on one leg at a time. Two-legged exercises let your strong leg hide your weak one. The hover gives the weak leg nowhere to hide, which is why it tells the truth. The hover also quietly trains the foot and ankle of the front leg, which must make constant micro-corrections to keep you honest. Drive is never one muscle. It is a leg-wide agreement, and the hold is where the agreement gets negotiated.",
+   "section": "THE DRIVE",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HOLD STRENGTH IS ANGLE-SPECIFIC"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "STRONG LEG",
+       100,
+       "cyan"
+      ],
+      [
+       "WEAK LEG",
+       55,
+       "red"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "YOUR TWO LEGS TODAY"
+    },
+    {
+     "asset": "ren_split_squat_top.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "The weak leg caps every",
+      "two-legged lift you own."
+     ],
+     "pos": "br",
+     "title": "THE HIDDEN TAX"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIX THE GAP FIRST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now look at your two numbers side by side, because the gap between them is a tax you pay everywhere. Your body is a brilliant compensator: in squats, jumps, and daily life, it quietly shifts work toward the strong leg and away from the weak one. That feels efficient and is actually corrosive, because the weak leg falls further behind while the strong leg absorbs loads it was not designed to carry alone. Meanwhile the hold itself is angle-specific training: strength built in the deep hover transfers to a window around that angle, exactly where sprinting and landing demand it most. Closing the leg gap is not cosmetic symmetry work. It is removing a hidden tax from every athletic thing you do. Sports science has a name for the practical version of this: limb symmetry, and return-to-sport tests after injury often demand the weak side reach ninety percent of the strong side before clearance. Your home hover is the same audit, minus the clinic.",
+   "section": "THE DRIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE SHAKE IS RECRUITMENT CHURN"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "As units fatigue, fresh ones",
+      "rotate in to hold the line."
+     ],
+     "pos": "br",
+     "title": "THE ROTATION"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STAY TALL, STAY HONEST"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TIME UNDER DRIVE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "One more layer, because the shaking deserves an explanation. During a long hold, your motor units fatigue one by one, and your nervous system rotates fresh units in to replace them, like shifts changing at a factory. The visible shake is that rotation happening at the edge of your capacity. Skilled systems rotate smoothly and hold for a long time. Untrained systems run out of fresh units quickly, the rotation stutters, and the knee drops. Every long hold you practice is literally teaching your nervous system a deeper bench of units to rotate through. And notice what does not matter in this entire mechanism: how big the leg looks. The bench is neural. The rotation is neural. The hover is a wiring test wearing a leg costume. The rotation idea has a training consequence: longer, slightly easier holds build the bench, while maximal short holds build peak recruitment. You need both across a week. The hover test measures the bench. Train both qualities and the number climbs from both directions.",
+   "section": "THE DRIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT LEGS, LONG HOLDS"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "PRACTICE PER WEEK",
+     "pos": "br",
+     "text": "MORE"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SPRINTING IS SINGLE-LEG"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "BUILT FOR THIS TEST"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your advantage should be familiar by now, but here it is decisive. A lunge hold loads one leg with your bodyweight, and your bodyweight is light, so your joints tolerate far more hold practice than a heavy athlete's would. He gets a handful of shaking attempts before his knees file a complaint. You can practice daily, both legs, with clean form, and daily practice is exactly what rotation depth responds to. And remember the destination: sprinting is a series of single-leg drives, jumping usually leaves from one leg, and cutting is one leg catching your whole momentum. The hover is not an obscure gym trick. It is your sport, frozen in place, and your light frame was built to train it. There is also a confidence dividend. Athletes who trust both legs move differently: they cut without favoring, land without flinching, and stop protecting a side unconsciously. Coaches can see it from across a field. It starts with boring holds in a doorway.",
+   "section": "THE DRIVE",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "check": 3,
+   "exercise": "ISO LUNGE HOLDS",
+   "music": "drive",
+   "narration": "Now we close the gap together. Four rounds, weak leg first. Hover for thirty seconds with a tall torso, then switch. The weak leg sets the schedule for both. No hands on the thigh. Go.",
+   "rest": 30,
+   "rounds": 4,
+   "section": "THE RIGHT WAY",
+   "type": "timer",
+   "work": 30
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "KNEE CAVING INWARD"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HAND RESTING ON THIGH"
+    },
+    {
+     "asset": "ren_split_squat_top.webp",
+     "at": 13,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HOLDING THE EASY TOP"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "WEAK LEG FIRST, ALWAYS"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "MATCH REPS TO THE WEAK SIDE"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the wrong way versus the right way. Wrong way one: the front knee caving inward, which dumps the load off the glute and into the joint you are trying to protect. Wrong way two: resting your hand on your front thigh, quietly unloading the exact leg you came to train. Wrong way three: holding near the top where the angle is easy and calling it a lunge hold. The right way is strict and simple: knee tracking over the toes, torso tall, hands nowhere near the leg, hovering in the deep honest angle. And the golden rule of the whole episode: weak leg first, and the strong leg only ever matches what the weak leg did. Never more. That is how gaps close instead of widening. A mirror or phone camera helps more here than in almost any other drill: watch the front knee's path and the pelvis's level for the full hold. What feels straight is often quietly crooked by second twenty. Film does not get tired or polite.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE WEAK LEG IS THE PROGRAM"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Weak leg under 20: drive gap.",
+      "Both over 90: wired legs."
+     ],
+     "pos": "br",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. If your weak leg died under twenty seconds, you have a genuine drive gap, and it has been taxing your squats, your sprints, and probably your knees for years. The good news is that rotation depth responds to practice within weeks. If both legs reached forty-five, your drive is solid and the work now is volume and patience. And if both legs cruised past ninety with tall torsos, your single-leg drive is genuinely elite, the kind that makes sprinting feel easy. Whatever your weak leg managed, write that number in the comments. Just the weak one. In thirty days we hover again, and the gap will tell us how your wiring has grown. Expect the strong leg to improve slightly too, even though it never trained beyond matching. Neural skills cross over between limbs more than anatomy suggests. Closing a gap, it turns out, raises both sides of it.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "SAME HOVER, BOTH LEGS",
+     "pos": "br",
+     "text": "DAY 30"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of weak-leg-first hovers and the stranger leg becomes a teammate, and the gap becomes a memory. Same test, same legs, completely different drive. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "isometric lunge holds",
+  "single leg strength",
+  "leg nerve drive",
+  "split squat holds",
+  "weak leg fix",
+  "isometric training",
+  "skinny guy legs"
+ ],
+ "thumb": {
+  "accent": "violet",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "45 SEC",
+  "hook": "ONE LEG ALL NERVE"
+ },
+ "title": "Stop Doing isometric lunges Wrong: Train Your leg nerve drive Instead",
+ "v5": true
+}

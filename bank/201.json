@@ -1,0 +1,450 @@
+{
+ "badge": "EP 201 - 5 NEGATIVE MISTAKES",
+ "category": "isometrics",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE BRAKES",
+  "THE 5 MISTAKES"
+ ],
+ "description": "One push-up lowered in ten seconds exposes the braking system most skinny guys never train. Here is what your drop point says about your nerve braking, the five mistakes that are destroying it, and the protocol that rebuilds it in thirty days.",
+ "hashtags": [
+  "slow negatives",
+  "eccentric strength",
+  "nerve braking",
+  "push-up control",
+  "tempo training",
+  "calisthenics"
+ ],
+ "id": "201",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO GYM NEEDED"
+    },
+    {
+     "at": 8,
+     "kind": "chip",
+     "pos": "br",
+     "text": "ONE PUSH-UP, TEN SECONDS"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Where you fall is where your brakes end."
+     ],
+     "pos": "br",
+     "title": "THE DROP IS DATA"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMEMBER THE DROP POINT"
+    },
+    {
+     "at": 26,
+     "kind": "stat",
+     "label": "THE FULL LOWER",
+     "pos": "br",
+     "text": "10 SEC"
+    }
+   ],
+   "check": 0,
+   "cycle": 5.0,
+   "music": "dark",
+   "narration": "Get into a push-up. | Top position. | Arms locked out. | Feet together. | Now start lowering. | Take TEN full seconds. | Count out loud. | One. Two. Three. | Slow and smooth. | No dropping allowed. | No speeding up. | Four. Five. Six. | Stay in control. | Seven. Eight. Nine. | Chest kisses the floor | exactly at ten. | Now be honest. | Was it smooth? | Or did you FALL | the last two inches? | Most guys fall. | Gravity steals the ending. | That fall is data. | It is your BRAKES | quitting on camera. | Remember the drop point. | We retest in thirty days. | By the end, you'll see | what that drop means | and how to fix it. | One more detail. | Film yourself if possible. | The camera never lies | about your tempo.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ASLEEP = FIXABLE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMOOTH 10 = TRAINED BRAKES"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "ELITE BRAKING TERRITORY",
+     "pos": "br",
+     "text": "FULL 10"
+    }
+   ],
+   "big": "10 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE BETWEEN FALLING AND BRAKING",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten seconds is where a lower stops being gravity and starts being braking. If you dropped before five, your brakes are simply asleep, and asleep is fixable. If you reached ten but shook and lurched the whole way down, the brakes work but the driver is new. And if you glided down smooth for the full ten, you already own a braking system most lifters never build, because nobody trains the way down. Hold your number. We grade it properly at the end. Notice what this line is not: it is not about how many push-ups you can do. It is about how honestly you can stop. Those are different sports, and only one of them builds brakes.",
+   "section": "THE NUMBER",
+   "sub": "under 5: brakes asleep - smooth 10: wired brakes",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LOWERING IS A SKILL"
+    },
+    {
+     "asset": "ren_pushup_mid.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Braking force beats lifting force",
+      "by roughly 20 to 40 percent."
+     ],
+     "pos": "br",
+     "title": "THE BRAKE FACT"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SIGNAL QUALITY, NOT SIZE"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BRAKES ARE TRAINABLE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is what nobody told you. Lowering a weight is not the absence of strength, it is a different strength entirely. When you lower slowly, your muscles produce force while they LENGTHEN, and that braking force is the strongest force your body can make. Your nervous system fires motor units in a precise sequence, feeding out length like a brake cable under load, refusing to let gravity take the rep. That system is called nerve braking, and it runs on signal quality, not muscle size. A big muscle with bad brakes is a truck with no brake pads. A skinny muscle with trained brakes controls every kilo it touches, on the way up and on the way down. There is also a timing detail worth knowing. Braking strength responds best to full recovery between efforts, because the signal you are training is expensive. Quality lowers, rested properly, beat sloppy volume every single time.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "MORE FORCE, FEWER UNITS"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "PUSHING UP",
+       100,
+       "red"
+      ],
+      [
+       "LOWERING DOWN",
+       135,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FORCE: UP VS DOWN"
+    },
+    {
+     "asset": "ren_pushup_mid.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Negatives let you handle loads",
+      "you cannot lift yet."
+     ],
+     "pos": "br",
+     "title": "BORROWED STRENGTH"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "TENDONS LOVE BRAKING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Compare the two directions honestly. Pushing up, your muscles shorten and produce the force everyone measures. Lowering down, the same muscles lengthen under tension and produce MORE force with FEWER motor units firing. Researchers have known for decades that this eccentric force runs twenty to forty percent higher than concentric force. That means every slow negative lets your nerves practice handling loads you cannot yet lift. It is strength training from the future, borrowed today. And the tendon loves it too, because controlled lengthening under load is exactly the signal that tells tendon tissue to remodel stronger and stiffer over the following weeks. This is also why negatives are prescribed after injuries in rehab settings around the world. Controlled lengthening is the language tendons understand best. You are simply using the same language for strength instead of recovery.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_weak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE BOTTOM IS EXPENSIVE"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "The drop is a protective reflex,",
+      "not a lack of muscle."
+     ],
+     "pos": "br",
+     "title": "THE GOVERNOR"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "EXPOSURE REMOVES THE DROP"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EARN THE LAST INCHES"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "So why does everyone drop the last two inches? Because the bottom of the push-up is where braking gets expensive. Your leverage is worst there, the muscle is stretched longest, and the tendon tension peaks. Your nervous system does the math, panics quietly, and dumps the load before something feels unsafe. That dump is not weakness of muscle. It is a protective reflex, a governor deciding you have not earned that range yet. Governors can be negotiated with, but only through exposure. Every smooth trip through the scary inches teaches the system that the bottom is safe, and the drop point moves closer to the floor until one day it disappears completely. You can locate your own governor precisely, by the way. It lives exactly at the height where your smooth lower turns into a small fall. Measure that height today. It is the address your next month of training will visit daily.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS MASS, MORE PRACTICE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "BRAKES RECOVER FAST",
+     "pos": "br",
+     "text": "DAILY"
+    },
+    {
+     "asset": "ren_pushup_mid.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SKINNY = MORE CLEAN REPS"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SKILL BEATS SIZE HERE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the part that should make you smile. Braking practice is limited by how much load your system must catch, and your load is your body. The heavy guy's brakes get crushed by his own mass, so he can only practice a few ugly reps before everything turns to dropping. You carry less mass, so you can practice MORE smooth lowers, more often, with cleaner signals. Braking skill is built from quality repetitions, and the lighter athlete collects them faster. This is why skinny beginners who train negatives seriously often control weights within months that bigger beginners still drop. The brakes do not care how you look. They care how often you have practiced stopping. And the transfer is wider than push-ups. Brakes trained here show up in pull-up lowers, in landing from jumps, in catching yourself when you slip. Train one descent honestly and every descent you own gets safer and stronger.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "check": 3,
+   "exercise": "SLOW NEGATIVE PUSH-UPS",
+   "music": "drive",
+   "narration": "Now we build the brakes together. Three rounds. Lower for a full ten seconds, then reset at the top however you like. The way down is the entire workout. Go.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "THE 5 MISTAKES",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "DROPPING THE LAST INCHES"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "RUSHING THE MIDDLE"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 13,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "ONE HERO REP PER SET"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "GUESSING THE TEMPO"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TIMED = TRAINED"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the five mistakes destroying your nerve braking. Mistake one: dropping the last two inches, which deletes the exact range your brakes need most. Mistake two: rushing the middle, lowering fast where it is easy and slow where it is hard, which teaches your system backwards. Mistake three: one heroic negative per set, then normal reps, because braking is a skill and skills need volume. Mistake four: holding your breath and panicking down, since a braced, breathing body brakes far better than a stiff statue. Mistake five: never counting, guessing your tempo instead of timing it, because what gets timed gets trained. Fix these five and the same body suddenly owns a completely different lowering gear. A final practical note: do your negatives early in the session, while your nervous system is fresh. Braking is a skill, and skills practiced in a fatigued state get recorded in their sloppy form. Fresh brakes first, everything else after.",
+   "section": "THE 5 MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "UNTRAINED = THE STARTING LINE"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Under 5: brakes asleep.",
+      "Smooth 10: brakes wired."
+     ],
+     "pos": "br",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. If you fell before five seconds, your brakes are untrained, not broken, and you are exactly who this protocol was built for. Expect the drop point to move within two weeks of daily practice. If you made ten seconds with shaking and lurching, your brakes exist and now need polish: same drill, slower breathing, smoother inches. If you glided the full ten without a single drop, your braking system is genuinely wired, and your next level is fifteen-second lowers. Whatever your number was, write it in the comments. Just the number. In thirty days we run this exact test again, and the drop point will tell us both the truth. One more thing to watch over the month: your normal push-up count will probably rise as a side effect, even though you never trained it directly. That is the governor relaxing its limits across the whole movement. Brakes first, and the engine gets braver for free.",
+   "section": "THE 5 MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "SAME TEST, NEW BRAKES",
+     "pos": "br",
+     "text": "DAY 30"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of honest lowers and that drop point crawls toward the floor until it vanishes. Same test, same push-up, completely different brakes. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+   "section": "THE 5 MISTAKES",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "slow negatives",
+  "eccentric training",
+  "negative push-ups",
+  "nerve braking",
+  "tempo training",
+  "calisthenics control",
+  "skinny guy strength"
+ ],
+ "thumb": {
+  "accent": "violet",
+  "asset": "ren_pushup_top.webp",
+  "big": "10 SEC",
+  "hook": "THE DROP TEST"
+ },
+ "title": "5 slow negatives Mistakes That Are Destroying Your nerve braking",
+ "v5": true
+}

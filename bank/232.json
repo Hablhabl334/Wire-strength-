@@ -1,0 +1,400 @@
+{
+  "id": "232",
+  "v5": true,
+  "title": "Your Doorframe Pull Test Reveals Your Hidden Strength",
+  "description": "No bar, no gym, no problem. Grip a doorframe, lean back, and pull. Your strict doorframe row reps measure your back nerve drive - the signal to the biggest muscles you own and the ones your brain is worst at reaching.",
+  "tags": [
+    "doorframe rows",
+    "doorframe pull test",
+    "back activation",
+    "bodyweight rows",
+    "lat activation",
+    "no equipment back workout",
+    "back nerve drive"
+  ],
+  "hashtags": [
+    "doorframe rows",
+    "back test",
+    "bodyweight rows",
+    "lat activation",
+    "no bar needed",
+    "back drive"
+  ],
+  "category": "isometrics",
+  "badge": "EP 232 - THE DOORFRAME PULL TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE DRIVE",
+    "YOUR BACK"
+  ],
+  "thumb": {
+    "asset": "ren_doorframe_row.webp",
+    "big": "15 REPS",
+    "hook": "NO BAR NEEDED",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_doorframe_row.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Find a sturdy doorframe. Grip both sides at chest height, fingers wrapped around the edges. Walk your feet in until they touch the base of the frame, then lean back until your arms are straight and your body is one rigid line, heels on the floor. Now pull your chest to the frame. That is one rep. Lower slowly, and repeat. Rules: your body stays straight - no bending at the hips - and every rep starts from straight arms and ends with your chest at the frame. Count only the strict ones. That count is your DOORFRAME PULL number. Keep it. At the end, I will tell you what it reveals about the biggest hidden system in your body.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ONE RIGID LINE",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "STRICT ONLY",
+          "lines": [
+            "Straight arms to chest touch.",
+            "Hip-bent reps do not count."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "15 REPS",
+      "label": "THE LINE FOR BACK DRIVE",
+      "sub": "under 8: back is asleep - 8 to 15: building - over 20: driven",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Fifteen strict doorframe reps is where a sleepy back becomes a driven one. Under eight reps, do not blame your muscles yet. The doorframe row is not heavy - a child could move this load. What fails early is the signal: your brain cannot recruit your back hard enough to keep the reps strict, so your arms steal the work and die first. Between eight and fifteen, the drive is real but fades, and the reps get uglier as the signal tires. Over twenty strict reps, your back answers on command, rep after rep, and that command is worth more than any machine in the gym, because your back is the biggest engine you own.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 8 = SIGNAL, NOT MUSCLE",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "20+ REPS",
+          "label": "DRIVEN BACK TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "15 STRICT = THE LINE",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Your back holds the largest muscles in your upper body - the lats alone run from your spine to your arms like two wings. But you cannot see them. You have never watched them work in a mirror, never flexed them at a party. So your brain's map of your back is the blurriest map it owns, and muscles with blurry maps get weak signals. BACK NERVE DRIVE is the fix: the deliberate skill of sending force into muscles you cannot see. The doorframe row is the perfect teacher because the load is light enough that you can spend your attention on the signal - squeeze the shoulder blades, pull with the elbows, feel the wings switch on. Every strict rep is your brain drawing the back's map in thicker ink. There is a second relay hiding inside the first. Before your lats pull, your shoulder blades must glide down and together, setting the shoulder in its socket. If the blades float, the lat pulls from a loose anchor and half the drive evaporates. In your reps, think blades first, elbows second. That order alone has added reps to more backs than any supplement ever sold.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "THE BLURRY MAP",
+          "lines": [
+            "You cannot see your back.",
+            "So its signal runs weak."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_doorframe_row.webp"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "PULL WITH THE ELBOWS",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "stat",
+          "text": "2 WINGS",
+          "label": "THE BIGGEST ENGINE YOU OWN",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE DRIVE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now the chain, because a row is not one muscle - it is a relay. Your fingers grip the frame first, and grip is the starting gun: a weak grip tells the brain to cap the whole pull, a safety rule older than gyms. Then the forearms pass the force to the upper arm, the shoulder blades glide and lock, and only then do the lats deliver the real power. A break anywhere starves everything after it. This is why your doorframe number matters beyond the doorframe. It tests the whole pulling relay at an honest load. And here is the adjustable secret: step your feet farther from the frame and the lean deepens, the load climbs. Your hallway contains a full weight stack - it is measured in centimeters of shoe position. And here is what the number predicts. A driven back changes your other tests without you training them: your hang lasts longer because the shoulders now share the work, your push-up lockout steadies because the back braces the trunk, and your posture at a desk stops collapsing by noon. The back is not one muscle group among many. It is the wall everything else hangs on.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "GRIP IS THE STARTING GUN",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "GRIP",
+              70
+            ],
+            [
+              "FOREARMS",
+              80
+            ],
+            [
+              "LATS",
+              95
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_doorframe_row.webp"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "THE HALLWAY WEIGHT STACK",
+          "lines": [
+            "Feet farther = load higher.",
+            "Measured in centimeters."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE DRIVE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pullup_mid.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Why does the back fall asleep in the first place? Blame the mirror and the chair. The mirror trains what it shows: chest, arms, abs. The chair folds the back into a curve for eight hours a day, stretching its muscles into a position where they fire poorly. Then modern life asks your back for almost nothing - doors are light, bags have wheels, and the heaviest pull of your day might be a fridge door. A system that is never asked goes quiet. The cost is not just strength. A sleepy back hands its work to your neck, your shoulders and your lower spine, and those smaller structures complain in the language of aches. Waking the back is not vanity. It is returning the biggest engine to its job so the small parts can stop doing overtime.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE MIRROR TRAINS THE FRONT",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "THE CHAIR FOLDS THE MAP",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "fact",
+          "title": "OVERTIME ENDS",
+          "lines": [
+            "A driven back lets small joints",
+            "stop doing its work."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE DRIVE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_doorframe_row.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The skinny advantage in this test is precision. A doorframe row loads you with a percentage of your own bodyweight, and your bodyweight is light. That means your steps of difficulty are tiny and exact - one centimeter of foot position is a small, perfect increment of load that a heavy man cannot match, because his single centimeter is worth three of yours. Light lifters get a finer dial. There is a second gift: at this load you can do your reps slowly, with your whole attention on the back switching on. Signal practice needs exactly that - low load, high attention, many perfect reps. The heavy guy is surviving his rows. You are studying yours, and study is what builds drive.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "A FINER LOAD DIAL",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pullup_top.webp"
+        },
+        {
+          "at": 14,
+          "kind": "fact",
+          "title": "LOW LOAD, HIGH ATTENTION",
+          "lines": [
+            "That is the recipe",
+            "for building drive."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "HE SURVIVES. YOU STUDY.",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE DRIVE",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_doorframe_row.webp",
+      "exercise": "DOORFRAME ROWS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "music": "drive",
+      "narration": "We build the drive together. Three rounds at the frame. Pull with the elbows, pause one second with your chest at the frame, lower for three. If your hips bend, step your feet closer and keep the reps strict.",
+      "section": "YOUR BACK",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_doorframe_row.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: doorframe rows on three days, four sets each time, stopping two reps before the form breaks. The details decide everything. Start every rep from dead-straight arms, because the first ten degrees are where the shoulder blades learn their job. Pause at the top with your chest tall, because that pause is pure back - no momentum can fake it. Keep your body a plank, because a bent hip turns a back exercise into an arm exercise wearing a costume. And once a week, move your feet five centimeters farther out and retest your strict count at the new angle. That single set is your progress report. When the count at the harder angle matches your old count at the easy one, your drive has officially leveled up. If your frame's edges hurt your fingers, wrap a towel around each side and grip that. Comfort is not softness here - a grip that hurts is a grip the brain will cap, and we are training the back, not your tolerance for splinters. Remove every excuse between the signal and the muscle, then send the signal a thousand times.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "DEAD-STRAIGHT ARMS TO START",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "BENT HIPS = ARM EXERCISE",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "PAUSE AT THE TOP",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "4 SETS, 3 DAYS A WEEK",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR BACK",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR REPS",
+      "label": "WHAT YOUR PULL NUMBER MEANS",
+      "sub": "under 8: asleep - 8 to 15: building - over 15: driven",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your number mean? Under eight strict reps, your back is asleep - not small, asleep - and the fix is signal work at light load, exactly what this week gives you. Between eight and fifteen, you are building drive: the map is drawn, and now it needs mileage. Over fifteen strict reps at a real lean, your back answers when called, and every pull you ever do - bars, doors, bags, life - just got a bigger engine behind it. Retest in thirty days at the same foot position, because the position is the weight. Comment your reps below, and tell me your foot distance too. Together, those two numbers are your back's report card.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "ASLEEP IS NOT SMALL",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT YOUR REPS",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR BACK",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_doorframe_row.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The strongest muscles you own were the quietest ones in the room. Today they got measured, and measurement is the first rep of waking up. Thirty days at the frame, then we pull again. Post your number below. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR BACK",
+      "check": 3
+    }
+  ]
+}

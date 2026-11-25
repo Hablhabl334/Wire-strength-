@@ -1,0 +1,453 @@
+{
+  "id": "190",
+  "v5": true,
+  "title": "Your Sticking Point Time Reveals the Truth About Your nerve recruitment",
+  "description": "Every lift has an angle where it goes to die. Hold that exact angle in a squat and the seconds you survive measure the recruitment your nervous system can summon at its weakest point. Here is why weak angles rule your strength, and how to conquer yours.",
+  "tags": [
+    "sticking point",
+    "squat hold",
+    "weak point training",
+    "isometric squat",
+    "strength plateau",
+    "angle specific strength",
+    "recruitment"
+  ],
+  "hashtags": [
+    "sticking point",
+    "isometric squat",
+    "weak point",
+    "strength plateau",
+    "squat test",
+    "isometrics"
+  ],
+  "category": "isometrics",
+  "badge": "EP 190 - THE STICKING POINT TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE WEAK ANGLE",
+    "YOUR HOLD"
+  ],
+  "thumb": {
+    "asset": "ren_squat_mid.webp",
+    "big": "30 SEC",
+    "hook": "OWN THE WEAKEST ANGLE",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_squat_top.webp",
+        "ren_squat_mid.webp",
+        "ren_squat_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Squat down slowly. | Stop at the hardest part. | For most people | that is just above | the very bottom, | where the thighs | near parallel | and leverage turns cruel. | Freeze there. | That is the test. | Hold the exact angle | where lifts go to die. | No rising, no sinking. | The burn will build. | The shake will come. | The second you stand | or drop below the angle | is your number. | Keep it safe. | At the | end of this video | I will tell you | why this one angle | quietly rules | all of your strength.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "FREEZE AT THE CRUELEST ANGLE",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "NO RISING, NO SINKING",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "stat",
+          "text": "THE SURVIVAL SECOND",
+          "label": "YOUR HONEST SCORE",
+          "pos": "tr"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "WHERE LIFTS GO TO DIE",
+          "lines": [
+            "Every lift has this angle.",
+            "Yours is now being measured."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "30 SEC",
+      "label": "AT YOUR STICKING POINT",
+      "sub": "under 12: the weak angle is a wall - 45 plus: the wall is becoming a door",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Thirty seconds held exactly at your squat sticking point means your nervous system can recruit hard at its least favourite angle. Twelve to thirty is the normal middle: the angle is survivable but feared, and your squats probably rush through it or avoid depth entirely. Under twelve, the sticking point is a wall, and walls explain plateaus better than any programme critique. A lift is only ever as strong as its weakest angle, because the load must pass through every angle to count. Your strongest positions have been waiting at the top, unemployed, while this one angle decides every rep. The hold trains the decider.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "THE LOAD MUST PASS EVERY ANGLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "12-30: SURVIVABLE BUT FEARED",
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "stat",
+          "text": "UNDER 12",
+          "label": "THE WALL EXPLAINS THE PLATEAU",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE WEAK ANGLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Why is one angle so much weaker? Two reasons stack there. Mechanically, it is where your muscles sit at lengths and lever arms that produce the least force: the quad is stretched, the hip angle is awkward, the maths is against you. Neurally, it is where your nervous system is least practised, because every rep you have ever done either rushed through this zone on momentum or avoided it by cutting depth. Low practice means low recruitment: the brain simply does not send its strongest signal to coordinates it barely visits. A sticking point is therefore not a flaw in your body. It is an unvisited address in your strength, and isometric holds are how you move in and renovate.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BAD MATHS, LOW PRACTICE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "fact",
+          "title": "AN UNVISITED ADDRESS",
+          "lines": [
+            "Rushed through or avoided for years.",
+            "Recruitment there is minimal."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "HOLDS ARE THE RENOVATION",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "section": "THE WEAK ANGLE",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The beautiful detail is how specifically the body answers. Isometric strength gains are famously angle-specific: train a hold at one joint angle and strength rises most within about fifteen degrees either side of it. That specificity is usually taught as a limitation. For sticking points it is a weapon, because your weakness is also specific, a narrow band of angles where reps die. Park your holds exactly in that band and the adaptation lands exactly where the failure lives. Two weeks of sticking-point holds routinely do what two months of general squatting could not: the rep that used to stall starts travelling through, slowly at first, then like it was never a wall at all.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "GAINS LIVE WITHIN 15 DEGREES",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "STRENGTH GAIN BY DISTANCE FROM HOLD",
+          "items": [
+            [
+              "AT THE ANGLE",
+              90,
+              "cyan"
+            ],
+            [
+              "FAR FROM IT",
+              30,
+              "gold"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "SPECIFICITY IS A WEAPON",
+          "lines": [
+            "Your weakness is a narrow band.",
+            "Park the hold inside it."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "swap",
+          "asset": "ren_squat_mid.webp"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "section": "THE WEAK ANGLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your squat is not the only lift with a dying angle, and the map transfers. In the push-up, reps die an inch or two off the floor, exactly where last episode's pause lives. In the pull-up, they die at the very top, chin approaching the bar, or at the dead hang start. The method of this episode works on all of them: find the angle, park a hold on it, let the specific adaptation land. What changes is only the furniture. The principle, that a lift is a chain of angles and the chain grades itself by the worst one, is the closest thing strength training has to a law. You now own the tool the law requires.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "EVERY LIFT HAS ONE",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "fact",
+          "title": "THE LAW OF THE WORST ANGLE",
+          "lines": [
+            "The chain grades by its weakest link.",
+            "Holds repair the specific link."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "ONE TOOL, EVERY LIFT",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_mid.webp",
+      "section": "THE WEAK ANGLE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Find your exact angle with this honesty drill. Squat down at a five-second tempo while a partner or a camera watches, and note where the descent stops being smooth: the point where you speed up to escape, or where rising again would stall. That escape point, not a textbook angle, is your sticking point, and it differs between people by several inches. Mark it physically for the first weeks: a stack of books or a chair edge at that exact height turns every hold into a measurement instead of a guess. When the hold at the marker passes thirty seconds, move the marker one inch deeper. The wall moves down the range, inch by inch, until it runs out of wall.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "FIND THE ESCAPE POINT",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "fact",
+          "title": "MARK IT PHYSICALLY",
+          "lines": [
+            "Books or a chair at the angle.",
+            "One inch deeper per conquest."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "UNTIL IT RUNS OUT OF WALL",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_squat_top.webp",
+        "ren_squat_mid.webp",
+        "ren_squat_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "YOUR HOLD",
+      "check": 3,
+      "music": "calm",
+      "narration": "Now the skinny advantage, | and it is generous here. | A sticking point hold | loads one angle | with your bodyweight. | Your bodyweight is light, | so the hold is trainable | long before it is maximal. | You can practise | the weak angle daily, | in quality seconds, | while heavier lifters | must treat the same drill | as a max effort | and ration it. | Angle-specific strength | is bought with seconds | at the angle. | You can afford | thousands more seconds. | The wall does not care | how big you are. | It cares how long | you are willing to stay.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "SECONDS BUY THE ANGLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "bars",
+          "title": "PRACTICE SECONDS AT THE ANGLE",
+          "items": [
+            [
+              "HEAVY FRAME",
+              40,
+              "red"
+            ],
+            [
+              "YOUR FRAME",
+              90,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "STAY UNTIL IT SURRENDERS",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_squat_mid.webp",
+      "exercise": "STICKING POINT HOLDS",
+      "work": 25,
+      "rest": 15,
+      "rounds": 3,
+      "section": "YOUR HOLD",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Squat to your marked angle and freeze. Twenty-five seconds on, fifteen off, three rounds. If you rise or sink, the round restarts in your honesty ledger. Go."
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "YOUR HOLD",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: sticking point holds three days, at your marked angle, sets stopped when you can no longer hold the exact position rather than when the clock says so. Twice a week, add slow squats that pause for two seconds at the same angle, connecting the hold back to the moving lift. Three mistakes keep walls standing. Holding a comfortable angle near the sticking point instead of on it, which trains the neighbours and leaves the wall. Rising a little as the burn peaks, the escape reflex, which must be refused kindly and completely. And testing max squats weekly to check progress, when the hold time itself is the progress report. If your knees develop sharp pain at the held angle, swelling, or pain that lingers for days, shallower is allowed, and see a professional if it persists. The thigh should burn; the joint should not complain.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "ON THE ANGLE, NOT NEAR IT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "REFUSE THE ESCAPE REFLEX",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "HOLD TIME IS THE REPORT",
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE WEEK",
+          "lines": [
+            "Holds 3 days at the marker.",
+            "Paused squats twice.",
+            "Depth conquered inch by inch."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_mid.webp",
+      "section": "YOUR HOLD",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under twelve seconds: your sticking point is a genuine wall, and it has been silently setting the ceiling on your squats, your jumps and your leg strength in general. Twelve to thirty: the wall is cracking, and holds plus paused squats will finish the argument within the month. Over thirty at an honest angle, over forty-five: the weakest point of your lift is becoming a strong point, a transformation most lifters never achieve because they never stayed anywhere long enough. Record the time and the marker height. Retest in thirty days at the identical angle, and put both numbers in the comments. Walls fall in inches, then all at once. Measure the retest at the same hour of day if you can. Legs hold differently fresh in the morning and tired at night, and an honest comparison needs the same conditions, the same marker, and the same refusal to rise.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNDER 12: A GENUINE WALL",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "ren_squat_bottom.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_top.webp",
+      "section": "YOUR HOLD",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days parked at your weakest angle and the place your lifts went to die becomes the place they are born. Stay, breathe, refuse the escape. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "STAY AT THE ANGLE",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "SEE YOU AT THE RETEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

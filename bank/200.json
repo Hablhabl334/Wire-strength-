@@ -1,0 +1,455 @@
+{
+  "id": "200",
+  "v5": true,
+  "title": "5 pause reps Mistakes That Are Destroying Your nerve control",
+  "description": "Your pause push-up number exposed the bounce. These five mistakes let it sneak back in: the shrinking pause, the resting hips, the stolen start. Here is each cheat, the camera angle that catches it, and the corrected standard that makes your control real.",
+  "tags": [
+    "pause push-up mistakes",
+    "paused rep errors",
+    "dead stop form",
+    "push-up cheating",
+    "tempo mistakes",
+    "nerve control",
+    "pause training"
+  ],
+  "hashtags": [
+    "pause mistakes",
+    "pause push-ups",
+    "form fix",
+    "dead stop",
+    "tempo",
+    "isometrics"
+  ],
+  "category": "isometrics",
+  "badge": "EP 200 - 5 PAUSE MISTAKES",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE CONTROL",
+    "THE 5 MISTAKES"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_bottom.webp",
+    "big": "10 REPS",
+    "hook": "YOUR PAUSE IS SHRINKING",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Pause push-ups. | Three-second dead stop. | Count your clean reps. | But bring a camera, | because today we audit. | Five mistakes live | inside the pause, | and every one of them | makes the number bigger | and the control smaller. | Watch your hips | during the stop. | Count the pause out loud. | Notice the descent speed | on the last reps. | Keep your count, | then stay for the audit. | At the | end of this video | you will rebuild the pause | to a standard | that cannot be cheated, | and your number, | whatever it becomes, | will finally be true.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "BRING A CAMERA",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "COUNT THE PAUSE OUT LOUD",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "stat",
+          "text": "FIVE CHEATS",
+          "label": "BIGGER NUMBER, SMALLER CONTROL",
+          "pos": "tr"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "THE PAUSE HAS HIDING PLACES",
+          "lines": [
+            "Hips, tempo, the start.",
+            "All caught on film."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "10 REPS",
+      "label": "STILL THE STANDARD - NOW UNCHEATABLE",
+      "sub": "under 5 with cheats running: you were never that weak, or that strong",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The standard from the pause episode stands: ten reps with a true three-second stop is owned control. But audit the count after today. Under five with cheats running means the test measured your cheating skill as much as your control, in unknown proportions. Over ten with cheats running means the same, flatteringly. Either way, the honest rebuild resets the number to something smaller and real, and real numbers are the only ones that grow on schedule. This is the season's recurring bargain: trade a fiction for a foundation. Everyone who takes it gets stronger. Everyone who refuses keeps a number and loses the adaptation.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "FICTIONS DON'T GROW ON SCHEDULE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "SMALLER AND REAL",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "stat",
+          "text": "THE SEASON'S BARGAIN",
+          "label": "FOUNDATION OVER FICTION",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "section": "THE CONTROL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Mistake one: the shrinking pause. Rep one gets three honest seconds; by rep six the pause is a polite nod at the floor, half a second wearing a three-second name. Fatigue does not announce the theft; it just rounds down. The fix is external time: count out loud, or use a metronome, because internal counting accelerates exactly when honesty gets expensive. Mistake two: the resting hip. During the stop the hips drop a centimetre, the lower back sags into a tiny hammock, and the press becomes a two-stage lift. On camera it is obvious; from inside it feels like nothing. The fix is the glute rule: squeezed before the descent, still squeezed at the press, and if the line from shoulders to heels moves during the pause, the rep is a rest and does not count.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "1: THE SHRINKING PAUSE",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "fact",
+          "title": "EXTERNAL TIME OR NO TIME",
+          "lines": [
+            "Count out loud.",
+            "Fatigue rounds down silently."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "2: THE RESTING HIP",
+          "ok": false,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE CONTROL",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Mistake three: the stolen start. The press begins with a tiny bounce, a centimetre of drop-and-rebound that restarts the stretch reflex the pause existed to kill. It is the hardest cheat to feel and the easiest to film: frame by frame, the chest dips before it rises. The fix is a dead start standard: the first movement visible must be upward, and any dip voids the rep. Mistake four: the rushed descent. Dropping into the bottom at speed stores elastic energy and rattles the position, so the pause starts from chaos instead of control. The fix is a three-second descent to match the three-second pause: down in three, dead for three, press. The rep becomes nine seconds of continuous ownership, which is why five honest reps outperform fifteen theatrical ones.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "3: THE STOLEN START",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "bars",
+          "title": "CONTROL PER REP",
+          "items": [
+            [
+              "THEATRICAL REPS",
+              30,
+              "red"
+            ],
+            [
+              "9-SECOND OWNERSHIP",
+              90,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "4: THE RUSHED DESCENT",
+          "lines": [
+            "Down in 3, dead for 3, press.",
+            "Nine seconds, fully owned."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "swap",
+          "asset": "ren_pushup_bottom.webp"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_bottom.webp",
+      "section": "THE CONTROL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Zoom out one last time and see where the pause sits in a training life. Every strong person eventually discovers the same spectrum: bouncing reps at one end, dead-stop reps at the other, and a career spent learning which end a given day deserves. Beginners live at the bounce because it is all they have. The injured and the returning live at the dead stop because it is all they can trust. Masters move along the spectrum deliberately, pausing to build, bouncing to express, never confusing the two. Your uncheatable pause standard is not a life sentence of slow reps. It is the anchor end of the spectrum, the place you return to whenever the numbers need auditing, and this season ends with you owning it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE TEMPO SPECTRUM",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "MASTERS MOVE DELIBERATELY",
+          "lines": [
+            "Pause to build, bounce to express.",
+            "Never confuse the two."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "OWN THE ANCHOR END",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "section": "THE CONTROL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Mistake five: the generous count. Partial reps at the end, chest hovering five centimetres high, arms never quite straight at the top, counted because the set needed a number. This is the cheat that protects the ego and bankrupts the programme, because every future decision, progression, variation, retest, gets built on the inflated figure. The fix is a definition written before the set: chest to an inch, arms straight, pause counted aloud, hips frozen, and anything else is a training rep but not a test rep. Training reps are allowed to be imperfect; that is what training is. Test reps are measurements, and measurements do not get to be kind. Keep the two categories separate and both become useful.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "5: THE GENEROUS COUNT",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "TRAINING REPS VS TEST REPS",
+          "lines": [
+            "Training can be imperfect.",
+            "Measurements cannot be kind."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "DEFINE THE REP BEFORE THE SET",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE 5 MISTAKES",
+      "check": 3,
+      "music": "calm",
+      "narration": "Now the encouraging side. | Every cheat on this list | is a confession | that the honest version | was working: | you do not cheat | what does not challenge you. | And the honest version | is where your frame shines. | Nine-second reps | at your bodyweight | are practisable daily, | in perfect quality, | while heavier lifters | must ration them | as near-maximal efforts. | Control is bought | with perfect reps, | and you can afford | more perfect reps | than anyone. | The pause was never | a punishment. | It is your home ground.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "YOU DON'T CHEAT WHAT DOESN'T CHALLENGE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "bars",
+          "title": "PERFECT REPS PER WEEK",
+          "items": [
+            [
+              "HEAVY FRAME",
+              40,
+              "red"
+            ],
+            [
+              "YOUR FRAME",
+              90,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "THE PAUSE IS HOME GROUND",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_bottom.webp",
+      "exercise": "UNCHEATABLE PAUSES",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "THE 5 MISTAKES",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Down in three, dead for three counted out loud, press from zero. Forty seconds on, twenty off, three rounds. When the standard slips, the set ends with honour. Go."
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE 5 MISTAKES",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your repair week: paused sessions on two days at the full standard, down three, dead three, filmed from the side, plus daily singles, one perfect paused rep at random moments, because frequency grooves the standard better than volume. Progress only when a full set passes the camera audit, and progress the pause to five seconds before adding reps. If the bottom position bothers your wrists, use fists or a slight incline, and if shoulder pinching appears or joint pain lingers across the week, see a professional if it persists. The standard is strict about everything except ego: a smaller true number is always the win.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "CAMERA AUDIT BEFORE PROGRESSION",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "NO PROGRESS ON THEATRICAL REPS",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "DAILY SINGLES GROOVE IT",
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "THE REPAIR WEEK",
+          "lines": [
+            "2 filmed sessions.",
+            "Daily perfect singles.",
+            "5-second pause before more reps."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "section": "THE 5 MISTAKES",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Retest under the written definition, camera on, counting out loud. If the number falls, you have not weakened; you have been promoted to the truth, and the truth at five reps will out-train the fiction at fifteen within two months. If it holds or climbs under the audit, your control is genuinely elite for your size, and the five-second pause is your next country. Put your theatrical count and your true count in the comments, side by side, without shame: everyone in this season has two numbers, and the honest one is the flex. Thirty-day retest under the same definition closes episode two hundred, and the season, with your control measured in the only currency that spends: the truth. And when you post those two counts, expect the comments to argue. Let them. Somewhere in the argument a viewer will film their own hips for the first time, and the season will have done its work twice.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "PROMOTED TO THE TRUTH",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "ren_pushup_mid.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "COMMENT BOTH COUNTS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "THE 5 MISTAKES",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of uncheatable pauses and the bottom of your push-up becomes the strongest address you own. Down in three, dead for three, press from zero. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DOWN 3, DEAD 3, PRESS",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "SEE YOU AT THE RETEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

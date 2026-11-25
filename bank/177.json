@@ -1,0 +1,445 @@
+{
+  "id": "177",
+  "v5": true,
+  "title": "Your Shin Test Reveals Your Hidden Strength",
+  "description": "Shin pain has a number hiding inside it: how many toe raises your tibialis can do before it gives up. Here is what that number says about your shins, why the front of your lower leg heals the way it does, and the graded work that builds it back.",
+  "tags": [
+    "shin splints fix",
+    "tibialis raises",
+    "toe raises test",
+    "shin pain running",
+    "tibialis anterior",
+    "lower leg strength",
+    "medial tibial stress"
+  ],
+  "hashtags": [
+    "shin splints",
+    "tibialis training",
+    "toe raises",
+    "running pain",
+    "leg day",
+    "healing"
+  ],
+  "category": "healing",
+  "badge": "EP 177 - THE SHIN TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE HEALING",
+    "YOUR REPS"
+  ],
+  "thumb": {
+    "asset": "ren_calf_raise.webp",
+    "big": "25 REPS",
+    "hook": "COUNT YOUR TOE RAISES",
+    "accent": "green"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Back against a wall. Heels a step out in front of you. Now lift the front of both feet toward your shins, toes up, and lower them with control. Count every clean rep. That muscle burning down the front of your shin is the TIBIALIS, the most ignored muscle in your leg, and the count where your reps turn sloppy is your number. Most untrained people fade before fifteen. Runners with shin pain often fade before ten, and the fade is the finding. Keep your number. At the end I will tell you what it says about your shins, and how the tissue there heals when you finally train it.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "BACK ON THE WALL",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "TOES UP, SLOW DOWN",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "COUNT",
+          "label": "WHERE REPS TURN SLOPPY",
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "fact",
+          "title": "THE FRONT MUSCLE",
+          "lines": [
+            "The tibialis lifts your foot.",
+            "Almost nobody trains it."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 26,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "25 REPS",
+      "label": "THE TRAINED TIBIALIS LINE",
+      "sub": "under 12: the front of the shin is untrained - over 25: strong, resilient shins",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Twenty-five slow, clean toe raises is a tibialis that can protect your shin all day. Twelve to twenty-five is the grey zone, a muscle that works but fades, and fading muscles hand their load to bone and membrane, which is where shin pain lives. Under twelve, the front of your shin is simply untrained, and untrained is the most fixable diagnosis there is. Your calves get a thousand reps a day from walking. Your tibialis got almost none, until today.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "FADING MUSCLE, OVERLOADED BONE",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "12-25: THE GREY ZONE",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "stat",
+          "text": "UNDER 12",
+          "label": "SIMPLY UNTRAINED",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "achilles_anatomy_plate.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Understand what the tibialis actually does and the pain starts to make sense. Every step you take, this muscle lowers your foot to the ground under control after your heel lands. Fail to lower it smoothly and the foot slaps, the load spikes, and the shock travels into the shin bone and the membrane wrapping it. Run, and that slap repeats a thousand times per kilometre. The tissue along the inner shin, where muscle and membrane grip the bone, gets pulled and irritated faster than it can repair. That is the ache runners call shin splints. It is rarely the bone failing. It is a braking muscle too weak for the mileage, and brakes can be rebuilt.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "IT LOWERS YOUR FOOT",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "fact",
+          "title": "THE BRAKE JOB",
+          "lines": [
+            "Heel lands. Tibialis lowers the foot.",
+            "Weak brake = shock into the shin."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "ren_calf_raise_front.webp"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "BRAKES CAN BE REBUILT",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise_front.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Healing here follows the oldest rule in tissue work: load below the flare line, progress slower than you want to. The shin tissues, muscle, tendon and the bone beneath, all remodel toward demand, but bone is the slowest of the three, laying down new structure over weeks and months. So the programme is graded. Toe raises build the brake. Walking volume rises by small steps, never leaps. Running, if that is your goal, returns in short, easy intervals on soft ground while the tissue is still ahead of the load. Pain during the work should stay mild, a whisper, and settle by the next morning. Pain that climbs day after day is the tissue telling you the steps are too big. Shrink the step, never abandon the ladder.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "LOAD BELOW THE FLARE LINE",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "bars",
+          "title": "REMODEL SPEED",
+          "items": [
+            [
+              "MUSCLE",
+              80,
+              "cyan"
+            ],
+            [
+              "BONE",
+              35,
+              "gold"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "fact",
+          "title": "THE LADDER",
+          "lines": [
+            "Small steps up.",
+            "Shrink the step, keep climbing."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 27,
+          "kind": "swap",
+          "asset": "ren_eccentric_drop.webp"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "While the brake rebuilds, manage the road it runs on. Footwear and surface are load variables, not fashion. A soft, worn-out shoe lets the foot roll inward longer each step, and every extra degree of roll is extra pull on the inner shin where your pain lives. Firmer shoes, or a fresh pair, shorten that roll while the tissue is catching up. Hard concrete multiplies impact; grass, track and packed trails divide it. And check the simplest variable of all: your stride. Overstriding, landing far ahead of your body, slams the brake eccentrically on every step. A slightly quicker, shorter stride lands the foot under you and cuts the tibialis workload per step immediately, before any strength arrives. None of this replaces the toe raises. It buys them the calm weeks they need to work.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "SURFACE IS A LOAD VARIABLE",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "CHEAP LOAD CUTS",
+          "lines": [
+            "Firmer shoes shorten the roll.",
+            "Shorter stride, foot lands under you."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "swap",
+          "asset": "ren_calf_raise_front.webp"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "BUY THE TISSUE CALM WEEKS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_eccentric_drop.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "One pairing matters more than any single exercise: the tibialis never works alone. Behind the shin, the calf and the deep soleus pull the foot down; in front, the tibialis brakes and lifts. Train only the back, as almost every gym programme does, and the imbalance grows with every calf raise. Your lower leg is a two-sided system, and the front side is the one that decides how load enters the bone. Two minutes of toe raises after every calf session rebalances the whole system. It is the cheapest insurance in running, and it costs you less time than tying your shoes.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "A TWO-SIDED SYSTEM",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "THE PAIRING",
+          "lines": [
+            "Calf pushes down.",
+            "Tibialis brakes and lifts."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "mark",
+          "text": "2 MINUTES AFTER CALVES",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "YOUR REPS",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "And here is the skinny advantage again. Shin load scales with bodyweight. Every step a heavier runner takes drives more force through the same small braking muscle and the same thin bone. Your lighter frame means your tibialis starts closer to strong enough, your graded steps can be a little bigger, and your tissue gets ahead of the load sooner. Heavy runners fight their own mass for months on this programme. You are negotiating with far less. The shin pain that heavier athletes call a career problem is, at your weight, usually a training problem, and training problems have training solutions.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "LESS MASS, LESS SHIN LOAD",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "FORCE PER STEP",
+          "items": [
+            [
+              "HEAVY RUNNER",
+              90,
+              "red"
+            ],
+            [
+              "YOUR FRAME",
+              55,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "AHEAD OF THE LOAD SOONER",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_calf_raise_front.webp",
+      "exercise": "TOE RAISES",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "YOUR REPS",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Wall behind you, heels out, toes up slow and down slower. Forty seconds on, twenty off, three rounds. Feel the front of the shin work. Go."
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "YOUR REPS",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: toe raises on Monday, Wednesday and Friday, three sets taken near the fade point but never through sharp pain. Walking every day, volume up by no more than a small step each week. Calf work stays, but toe raises now follow it, always. Three mistakes keep shins angry. Running through climbing pain because a plan said so. Icing and resting for weeks, then returning at full mileage on tissue that healed weaker. And training calves hard while the front of the shin gets nothing. If your shin pain is pinpoint, one sharp spot on the bone, or it hurts to hop on that leg, or it keeps worsening despite two gentle weeks, see a professional if it persists. Bone stress injuries hide inside this same story and they need imaging, not effort.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "NEAR THE FADE, NEVER SHARP",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "REST-THEN-SPRINT BACKFIRES",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "TOE RAISES AFTER CALVES, ALWAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE WEEK",
+          "lines": [
+            "3x toe raise sessions.",
+            "Daily walking, small steps.",
+            "Front and back, balanced."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise_front.webp",
+      "section": "YOUR REPS",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under twelve reps: your tibialis is untrained and your shins have been absorbing what it should have caught, which fully explains the ache. Twelve to twenty-five: the brake works but fades, so long days and long runs still outrun it. Over twenty-five with control: your shins own a brake most runners never build, and your job is maintenance, two minutes twice a week. Write your number down. Retest in thirty days, same wall, same slow tempo, and drop both numbers in the comments. The gap between them is your healing, measured. One more thing to expect: the burn moves. In week one the tibialis burns high near the knee; as it strengthens, the burn spreads lower and lasts longer before the fade, and that migration is progress you can feel before the count proves it. And when the count stalls for a week, do not panic. Strength in a small braking muscle arrives in steps, not slopes, and the step usually lands right after the week you wanted to quit.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "UNDER 12: THE ACHE EXPLAINED",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "swap",
+          "asset": "ren_eccentric_drop.webp"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_calf_raise.webp",
+      "section": "YOUR REPS",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of honest toe raises and that wall will tell us the truth. Train the front of the shin like it matters, because it does. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FRONT AND BACK, BALANCED",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "SEE YOU AT THE RETEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

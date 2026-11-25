@@ -1,0 +1,474 @@
+{
+ "id": "258",
+ "v5": true,
+ "title": "5 towel hangs Mistakes That Are Destroying Your grip tendons",
+ "description": "A towel over a bar turns a normal hang into a finger-tendon exam. Here is the forty-five-second towel test, the five mistakes that shred the experience (and sometimes the pulleys), and why grapplers and climbers swear by the hardest cheap grip tool in the world.",
+ "tags": [
+  "towel hang mistakes",
+  "towel grip endurance",
+  "grip tendons",
+  "towel hang test",
+  "finger tendons",
+  "calisthenics grip",
+  "climbing grip"
+ ],
+ "hashtags": [
+  "towel hang",
+  "grip endurance",
+  "towel test",
+  "tendon training",
+  "calisthenics",
+  "finger strength"
+ ],
+ "category": "grip",
+ "badge": "EP 258 - 5 TOWEL HANG MISTAKES",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CABLES",
+  "THE 5 MISTAKES"
+ ],
+ "thumb": {
+  "asset": "ren_finger_hang.webp",
+  "big": "45 SEC",
+  "hook": "THE TOWEL EXPOSES EVERYTHING",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Drape a towel | over your bar. | Both sides even. | Grip high, near the bar. | One hand per side. | Lift your feet. | And start the clock. | No wrapping the towel | around your hands. | That is cheating. | Just pinch and hang. | Stay until you slip. | Or your fingers open. | That time is your NUMBER. | The towel grip test. | Write the number down. | This test humbles everyone. | Even strong hangers. | At the end | of this video | I will show you | the five mistakes | that are shredding | your towel hang. | And what your seconds | really say about your fingers.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "ONE TOWEL, ONE BAR",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "GRIP HIGH, NEAR THE BAR",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "45 SEC",
+     "label": "THE TARGET",
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "mark",
+     "text": "REMEMBER YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "text": "5 MISTAKES AHEAD",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "45 SEC",
+   "label": "THE FORTY-FIVE-SECOND LINE",
+   "sub": "under 15: untrained - 30+: building - 45: wired fingers",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. Forty-five seconds hanging from a towel. Under fifteen, your finger tendons are untrained for open-hand work, and the towel just told you the truth your bar hangs were hiding. Fifteen to twenty-nine: the fingers are waking up, but the slip arrives early. Thirty to forty-four: you are BUILDING a grappler's grip, the kind that holds cloth, rope and rock. Forty-five and beyond: WIRED fingers, a towel hang most strong men cannot match. Expect this number to be half your bar hang or less. The towel is not a worse test. It is a more honest one.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "text": "15 SEC = UNTRAINED",
+     "pos": "tr"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "30+",
+     "label": "GRAPPLER TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "HALF YOUR BAR HANG, TWICE THE TRUTH",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Why is the towel so much harder? On a bar, your fingers wrap and close, and the bar sits locked in the hook of your hand. A towel never locks. Your fingers stay half open, squeezing cloth that wants to slide, and the flexor tendons must produce force at a longer muscle length, where they are weakest. Worse, the load concentrates: instead of the whole hand sharing a rigid bar, your fingertips and their pulleys take the strain of keeping the cloth from running. It is the same cable system as every hang, tested at its worst angle, with friction as the only ally. A word about grip height that most people learn the hard way. Every centimetre you slide DOWN the towel, the cloth above your hand acts like a longer lever for gravity, and the slip force multiplies. This is why beginners who grip at chest height on the towel halves their bar-hang time, while the same person gripping at the bar nearly matches it. The towel test is secretly two tests: finger strength, and whether you understood the setup. Master the setup first. The fingers cannot fix a physics problem you created before your feet left the floor.",
+   "beats": [
+    {
+     "at": 5,
+     "kind": "chip",
+     "text": "NO LOCK, ONLY FRICTION",
+     "pos": "tr"
+    },
+    {
+     "at": 17,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    },
+    {
+     "at": 29,
+     "kind": "fact",
+     "title": "THE WORST ANGLE",
+     "lines": [
+      "Half-open fingers are the weakest position.",
+      "Pulleys take the concentrated strain."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 41,
+     "kind": "chip",
+     "text": "SAME CABLES, HARDER EXAM",
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "The pulley word matters, so let us be precise. Your finger tendons run through a series of small ligament rings, the PULLEYS, that hold the cable against the bone so the finger can curl. Towel hangs load those rings hard, especially the middle ones. Healthy pulleys love progressive load and get stronger for years. Overloaded pulleys complain with a specific signal: a tender spot at the base of a finger, or a small pop sensation. Respect the signal and the system adapts. Ignore it and you are negotiating with one of the few genuinely fragile parts of the grip machine. Skin is part of this system too, and it is trainable. The friction between your palm and the cloth depends on skin that is dry, slightly calloused and used to pressure. Soft, untested hands tear and slip early, which is why the first two weeks of towel work should be short and frequent: you are building the interface as much as the engine. Climbers manage their skin like equipment, filing calluses flat so they grip instead of peel. You do not need to go that far. You just need to know the slip is sometimes skin, not strength.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "text": "MEET THE PULLEYS",
+     "pos": "tr"
+    },
+    {
+     "at": 13,
+     "kind": "bars",
+     "title": "LOAD PER FINGER ON A TOWEL",
+     "items": [
+      [
+       "TOWEL HANG",
+       80,
+       "red"
+      ],
+      [
+       "BAR HANG",
+       45,
+       "cyan"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "text": "PROGRESSIVE",
+     "label": "THE PULLEY RULE",
+     "pos": "br"
+    },
+    {
+     "at": 32,
+     "kind": "mark",
+     "text": "RESPECT THE SIGNAL",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 41,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Here is the transfer, and it is why this tool refuses to die. Grapplers have hung from towels and gi sleeves for generations, because a fight is a towel hang with opinions: cloth that slides, grips that tear loose, fingers that must hold what never locks. Climbers use towel and rope work for the same reason on rock features that offer no bar-shaped kindness. Train the towel and you are not training a party trick. You are training the exact grip shape the real world keeps demanding. And if your bar hang is strong but your towel time is embarrassing, do not read that as a contradiction. You have simply found the exact shape of grip your training forgot. Forgotten shapes are the cheapest strength left in your whole body.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "text": "CLOTH NEVER LOCKS",
+     "pos": "tr"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "title": "THE GRAPPLER'S TOOL",
+     "lines": [
+      "Gi sleeves are towel hangs with opinions.",
+      "Rock offers no bar-shaped kindness."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "text": "THE REAL-WORLD GRIP SHAPE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Setup decides your score before you leave the ground. Use a THICK towel, bath size, folded once over the bar so both sides hang even. Grip as high as you can reach, hands almost touching the bar, because every centimetre lower is leverage working against your fingers. Squeeze the towel into a rope in your fist before you lift your feet, compacting the cloth so it cannot unravel mid-hang. And dry hands, dry towel: moisture turns friction into ice. Test day and training day, same towel, same fold, same grip height, or your numbers are fiction.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "GRIP HIGH, HANDS NEAR THE BAR",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "fact",
+     "title": "COMPACT THE CLOTH",
+     "lines": [
+      "Squeeze the towel into a rope first.",
+      "A loose towel unravels mid-hang."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "swap",
+     "asset": "ren_hang_side_relaxed.webp"
+    },
+    {
+     "at": 19,
+     "kind": "mark",
+     "text": "SAME TOWEL, SAME FOLD",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE 5 MISTAKES",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now the skinny advantage. | The towel holds your weight. | All of it. | Less weight, longer hang. | It is that simple. | A heavy grappler's fingers | fight his own mass. | Yours fight far less. | So you can train | more towel volume | more days per week | with happier pulleys. | Frequency builds finger tendons. | And you own frequency. | Light is not | a limit here. | Light is the whole strategy.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "LESS WEIGHT, LONGER HANG",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "MORE VOLUME",
+     "label": "HAPPIER PULLEYS",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "text": "FREQUENCY BUILDS FINGERS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 15,
+     "kind": "chip",
+     "text": "LIGHT IS THE STRATEGY",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_relaxed.webp",
+   "exercise": "TOWEL HANG",
+   "work": 15,
+   "rest": 45,
+   "rounds": 4,
+   "section": "THE 5 MISTAKES",
+   "check": 3,
+   "music": "drive",
+   "narration": "Hang with me, towel style. Fifteen seconds on, forty-five off, four rounds. Grip high, squeeze the cloth into a rope, zero swinging. Submaximal and clean. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE 5 MISTAKES",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Now the five mistakes. Mistake one: WRAPPING the towel around your hands. That turns a finger test into a wrist strap, and your score becomes fiction. Mistake two: a thin, slippery towel. Use the thickest you own, folded once. Mistake three: the fingers-only half grip, hanging from your fingertips with an open palm. Seat the towel deep and close the whole hand around the cloth. Mistake four: swinging. On a towel, every swing multiplies the peak load on your pulleys. Mistake five: maxing out daily. Finger pulleys adapt slower than any muscle you own, and a tender spot at the base of a finger is their one polite warning. If finger pain persists, see a professional before you load it again. Two or three quality towel sessions a week will build you faster than seven reckless ones.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "WRAPPING = FICTION SCORE",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "THIN TOWEL, SLIPPERY TEST",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "chip",
+     "text": "SEAT IT DEEP, CLOSE THE HAND",
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    },
+    {
+     "at": 24,
+     "kind": "mark",
+     "text": "SWINGING MULTIPLIES PULLEY LOAD",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 30,
+     "kind": "stat",
+     "text": "2-3 SESSIONS",
+     "label": "BEAT 7 RECKLESS ONES",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_finger_hang.webp",
+   "section": "THE 5 MISTAKES",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your seconds. Under fifteen: untrained finger tendons, and the fastest progress of your grip life is sitting in a bathroom towel. Fifteen to twenty-nine: BUILDING, the open-hand system is waking up. Thirty to forty-four: strong, a grip that holds what slides. Forty-five plus: WIRED fingers, towel-proof. Put your seconds in the comments, just the number. In thirty days we hang from the same towel again, and the fingers that slipped today will hold like they were made for cloth.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "THE FASTEST PROGRESS IS IN A TOWEL",
+     "pos": "tr"
+    },
+    {
+     "at": 5,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE HANG AGAIN",
+     "pos": "br"
+    },
+    {
+     "at": 9,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "title": "YOUR VERDICT",
+     "lines": [
+      "Under 15: untrained, not weak.",
+      "Over 30: holds what slides."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "text": "COMMENT YOUR SECONDS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "section": "THE 5 MISTAKES",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days of honest towel work, and the slip you felt today becomes a hold you own. Subscribe, because every week we test another cable the mirror cannot see. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "A NEW CABLE EVERY WEEK",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

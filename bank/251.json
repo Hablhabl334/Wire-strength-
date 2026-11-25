@@ -1,0 +1,479 @@
+{
+ "id": "251",
+ "v5": true,
+ "title": "5 dead hang endurance Mistakes That Are Destroying Your grip tendons",
+ "description": "Two minutes on the bar is the line between a grip that fades and a grip that is wired. These five mistakes are draining your hang long before your strength runs out. Here is the two-minute test, the fade science behind it, and the fixes that move your number fast.",
+ "tags": [
+  "dead hang mistakes",
+  "hang endurance",
+  "grip tendons",
+  "two minute hang test",
+  "forearm endurance",
+  "calisthenics grip",
+  "dead hang form"
+ ],
+ "hashtags": [
+  "dead hang",
+  "grip strength",
+  "hang test",
+  "tendon training",
+  "calisthenics",
+  "forearm endurance"
+ ],
+ "category": "grip",
+ "badge": "EP 251 - 5 HANG MISTAKES",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE CABLES",
+  "THE 5 MISTAKES"
+ ],
+ "thumb": {
+  "asset": "ren_hang_side_active.webp",
+  "big": "120 SEC",
+  "hook": "YOUR GRIP QUITS EARLY",
+  "accent": "cyan"
+ },
+ "scenes": [
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE TEST",
+   "check": 0,
+   "music": "dark",
+   "narration": "Find a bar. | Grip it overhand. | Shoulder width apart. | Hang with straight arms. | Feet off the ground. | And start the clock. | No swinging. | No kicking. | Just hang. | Stay until you drop. | Or your grip opens. | That time is your NUMBER. | The two-minute hang test. | Write the number down. | Most skinny guys quit | long before their muscles do. | Something else gives up first. | At the end | of this video | I will show you | the five mistakes | that are killing your hang. | And what your number | really says about you.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "NO GYM NEEDED",
+     "pos": "tr"
+    },
+    {
+     "at": 6,
+     "kind": "chip",
+     "text": "STRAIGHT ARMS ONLY",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "120 SEC",
+     "label": "THE TARGET",
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "text": "REMEMBER YOUR NUMBER",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "text": "5 MISTAKES AHEAD",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "card": "bignum",
+   "big": "120 SEC",
+   "label": "THE TWO-MINUTE LINE",
+   "sub": "under 45: untrained - 90+: wired cables - 120: elite",
+   "section": "THE NUMBER",
+   "check": 1,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is the line. One hundred and TWENTY seconds. Two full minutes on the bar. Under forty-five seconds, your grip cables are simply UNTRAINED, and untrained is the easiest problem in the world to fix. Between forty-five and ninety, the cables are awake, but they fade long before they should. From ninety to one-twenty, you own a hang most gym guys cannot touch, no matter how big their forearms look. And the full two minutes? That is elite tendon territory. The clock never measures your muscles. It measures how long your cables hold tension before they quit.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "text": "45 SEC = UNTRAINED",
+     "pos": "tr"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "text": "90+ SEC",
+     "label": "WIRED TERRITORY",
+     "pos": "br"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "text": "TENSION, NOT SIZE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "forearm_anatomy_plate.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Look at the plate. Your fingers have almost no muscle inside them. None. Every gram of hang force is made in your FOREARM, then shipped down long cables of tendon into the fingers. A dead hang pins those cables under your full bodyweight, and the load never changes, second after second. That is what makes this an endurance test and not a strength test. Muscle can surge and rest. A hanging tendon cannot rest at all. It either holds the tension or the grip opens. So when your hang dies at fifty seconds, it is rarely your strength dying. It is the cable system running out of the ability to keep tension alive. One more thing is happening inside the cable while you hang: CREEP. Under constant tension, tendon tissue slowly lengthens, millimetre by millimetre, like a rope settling under a load. It is not damage, it is the tissue's normal behaviour, but it changes the geometry of your grip as the minutes pass, which is part of why minute two feels nothing like minute one. Trained tendons creep less and recover faster, one more reason the same hang gets easier in ways a mirror will never show you.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "text": "FINGERS: ALMOST NO MUSCLE",
+     "pos": "tr"
+    },
+    {
+     "at": 14,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 24,
+     "kind": "fact",
+     "title": "THE FADE",
+     "lines": [
+      "Grip force drops as blood flow chokes off.",
+      "The tendon holds on longer than the muscle."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 33,
+     "kind": "chip",
+     "text": "TENSION NEVER RESTS",
+     "pos": "tr"
+    },
+    {
+     "at": 43,
+     "kind": "swap",
+     "asset": "ren_finger_hang.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Here is why the fade happens. A hard grip squeezes the forearm's own blood vessels shut. Blood flow stops, waste builds up, and the muscle slowly suffocates inside its own contraction. Coaches call it OCCLUSION, and it is the real clock inside every hang. The tendon itself needs almost no blood to hold tension, which is why trained hangers relax their squeeze to the minimum and let the cables do the work. Research on grip endurance shows the same pattern everywhere: the people who last are not squeezing harder. They are squeezing SMARTER, at the lowest force that still holds the bar. Climbers learned all of this before anyone else, because their sport is grip endurance with consequences. Their training research keeps landing on the same prescription: repeaters and submaximal hangs, lots of quality time at seventy to eighty percent, almost never a daily fight to failure. The finger tendons of experienced climbers test dramatically stiffer than untrained controls, and that stiffness was built by patience, not heroics. Your two-minute test is a climber's test wearing different clothes.",
+   "beats": [
+    {
+     "at": 4,
+     "kind": "chip",
+     "text": "THE REAL CLOCK: BLOOD FLOW",
+     "pos": "tr"
+    },
+    {
+     "at": 12,
+     "kind": "bars",
+     "title": "TIME UNTIL THE GRIP FADES",
+     "items": [
+      [
+       "TRAINED CABLES",
+       110,
+       "cyan"
+      ],
+      [
+       "UNTRAINED",
+       35,
+       "red"
+      ]
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 21,
+     "kind": "stat",
+     "text": "MINIMUM FORCE",
+     "label": "MAXIMUM TIME",
+     "pos": "br"
+    },
+    {
+     "at": 29,
+     "kind": "mark",
+     "text": "SQUEEZE SMARTER, NOT HARDER",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 37,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_dead_hang.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "There are actually two fades, and they feel different. The first is the forearm burn, the local fade, muscle drowning in its own waste. The second is quieter: your brain simply turns the signal down. It decides the hand has done enough and stops sending full power. You feel that one as your fingers opening almost politely, without a fight. Both fades are trainable. The local fade responds to short, frequent hangs that teach the forearm to work with less blood. The signal fade responds to calm practice under the bar, breathing slowly while the grip holds, proving to your brain that nothing is in danger.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "TWO FADES, TWO FIXES",
+     "pos": "tr"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "title": "THE QUIET FADE",
+     "lines": [
+      "Your brain cuts the signal before the hand fails.",
+      "Calm breathing buys it back."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 15,
+     "kind": "swap",
+     "asset": "ren_hang_side_tuck.webp"
+    },
+    {
+     "at": 21,
+     "kind": "mark",
+     "text": "BREATHE UNDER THE BAR",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_closeup.webp",
+   "section": "THE CABLES",
+   "check": 2,
+   "music": "dark",
+   "lead_pause": 1.2,
+   "narration": "Before we fix anything, one detail decides more hang time than any other: how your hand meets the bar. The bar should sit deep in the palm, across the base of the fingers, not out in the fingertips where the skin folds and tears. Thumbs wrap over the top for a closed, honest grip on test day. Bar thickness matters too. A fat bar spreads the load and shortens everyone's time; a thin bar bites and lets the fingers close further. Test on the same bar every time, or you are comparing two different exams. Grip is a skill position before it is a strength quality, and most beginners lose their seconds to the setup, not the squeeze.",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "text": "BAR DEEP IN THE PALM",
+     "pos": "tr"
+    },
+    {
+     "at": 10,
+     "kind": "fact",
+     "title": "SAME BAR, SAME EXAM",
+     "lines": [
+      "Fat bars shorten everyone's time.",
+      "Change the bar, change the test."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 16,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "text": "SETUP BEFORE SQUEEZE",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "anim",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
+   "cycle": 3.0,
+   "section": "THE 5 MISTAKES",
+   "check": 3,
+   "music": "drive",
+   "narration": "Now the skinny advantage. | Your tendons carry less weight. | Every single second. | A heavy guy hangs | with a backpack on. | You hang with nothing. | Same cables. Less load. | So your grip lasts longer | per unit of strength. | And you can practice | far more often | without tearing yourself down. | Frequency is the cheat code | for tendon endurance. | Light guys can hang daily. | Heavy guys need days off. | Your weakness is the weapon. | Use it every day.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "LESS LOAD, SAME CABLES",
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "stat",
+     "text": "DAILY PRACTICE",
+     "label": "THE CHEAT CODE",
+     "pos": "br"
+    },
+    {
+     "at": 13,
+     "kind": "mark",
+     "text": "FREQUENCY BUILDS TENDONS",
+     "ok": true,
+     "pos": "tr"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "text": "YOUR WEAKNESS IS THE WEAPON",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "timer",
+   "asset": "ren_hang_side_relaxed.webp",
+   "exercise": "DEAD HANG",
+   "work": 20,
+   "rest": 40,
+   "rounds": 4,
+   "section": "THE 5 MISTAKES",
+   "check": 3,
+   "music": "drive",
+   "narration": "Hang with me. Twenty seconds on, forty seconds off, four rounds. Stay relaxed, breathe slow, minimum squeeze. We are building cables today, not testing them. Go."
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_active.webp",
+   "section": "THE 5 MISTAKES",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Now the five mistakes. Mistake one: the DEATH GRIP. You squeeze at one hundred percent from the first second, choke your own blood flow, and burn out in half your real time. Hang at seventy percent instead. Mistake two: the swinging start. Momentum feels helpful, then it dumps all its force into your grip at the bottom of every swing. Settle before the clock starts. Mistake three: training to FAILURE every day. Tendons recover slower than muscle, and daily max hangs quietly grind them down. Mistake four: only ever hanging passive. Mix in active hangs, shoulders pulled down, so the whole chain learns to share the load. Mistake five: quitting at the first burn. The burn is not the end. The burn is the training zone. Breathe through it and you will find twenty more seconds hiding behind it.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "text": "DEATH GRIP = EARLY FADE",
+     "ok": false,
+     "pos": "tr"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "text": "SWINGING STEALS TENSION",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 14,
+     "kind": "chip",
+     "text": "HANG AT 70 PERCENT",
+     "pos": "tr"
+    },
+    {
+     "at": 19,
+     "kind": "swap",
+     "asset": "ren_grip_closeup.webp"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "text": "FAILURE DAILY = SLOW TENDONS",
+     "ok": false,
+     "pos": "br"
+    },
+    {
+     "at": 31,
+     "kind": "stat",
+     "text": "20 SEC",
+     "label": "HIDING BEHIND THE BURN",
+     "pos": "br"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_hang_side_tuck.webp",
+   "section": "THE 5 MISTAKES",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "So, your number. Under forty-five seconds: untrained cables, and the fastest gains of your life are waiting in the next thirty days. Forty-five to ninety: you are BUILDING, and the five fixes in this video are aimed exactly at you. Ninety to one-twenty: you are WIRED, holding tension like a climber. The full two minutes: elite, and rarer than a two-hundred-kilo deadlift in most gyms. Whatever your number is, put it in the comments. Just the seconds. In thirty days we run this exact test again, same bar, same rules, and you will watch the cable you built show up on the clock.",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "text": "EVERY BAND IS FIXABLE",
+     "pos": "tr"
+    },
+    {
+     "at": 7,
+     "kind": "stat",
+     "text": "30 DAYS",
+     "label": "THEN WE RETEST",
+     "pos": "br"
+    },
+    {
+     "at": 12,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 17,
+     "kind": "fact",
+     "title": "YOUR VERDICT",
+     "lines": [
+      "Under 45: untrained, not weak.",
+      "Over 90: your cables are wired."
+     ],
+     "pos": "br"
+    },
+    {
+     "at": 22,
+     "kind": "mark",
+     "text": "COMMENT YOUR SECONDS",
+     "ok": true,
+     "pos": "tr"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "asset": "ren_grip_squeeze.webp",
+   "section": "THE 5 MISTAKES",
+   "check": 3,
+   "music": "calm",
+   "lead_pause": 1.2,
+   "narration": "Thirty days from now, same bar, same clock, and your number will tell the truth about the work. Subscribe, because every week we test another cable the mirror cannot see. This is {channel}. Train the cable.",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "text": "RETEST IN 30 DAYS",
+     "pos": "tr"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "text": "A NEW CABLE EVERY WEEK",
+     "ok": true,
+     "pos": "br"
+    },
+    {
+     "at": 5,
+     "kind": "swap",
+     "asset": "ren_hang_side_active.webp"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "text": "TRAIN THE CABLE",
+     "pos": "tr"
+    }
+   ]
+  }
+ ]
+}

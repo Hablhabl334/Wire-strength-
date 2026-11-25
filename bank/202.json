@@ -1,0 +1,450 @@
+{
+ "badge": "EP 202 - 5 STICKING POINT MISTAKES",
+ "category": "isometrics",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE RECRUITMENT",
+  "THE 5 MISTAKES"
+ ],
+ "description": "Freeze a push-up at its hardest point and the clock exposes your recruitment gap. Here is what your sticking point time says about your nerve recruitment, the five mistakes that destroy it, and how to close the gap in thirty days.",
+ "hashtags": [
+  "sticking point",
+  "isometric holds",
+  "nerve recruitment",
+  "plateau breaker",
+  "push-up strength",
+  "calisthenics"
+ ],
+ "id": "202",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO GYM NEEDED"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "FREEZE AT THE HARDEST ANGLE"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "lines": [
+      "Shaking means recruitment is maxing out."
+     ],
+     "pos": "br",
+     "title": "THE SHAKE IS DATA"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMEMBER YOUR TIME"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "label": "YOUR RECRUITMENT SCORE",
+     "pos": "br",
+     "text": "SECONDS"
+    }
+   ],
+   "check": 0,
+   "cycle": 4.0,
+   "music": "dark",
+   "narration": "Get into a push-up. | Lower down slowly. | Stop halfway. | Right there. | Where it feels hardest. | That is your sticking point. | Now FREEZE. | Do not move. | Start your clock. | Hold this exact angle. | No sinking. | No pushing up. | Just hold and breathe. | Your arms will shake. | That shake is information. | Count the seconds | until you collapse | or cheat upward. | That number is yours. | Remember it exactly. | Most guys hold | far less than they expect. | By the end, you'll see | what your time means | and how to double it. | Film it if you can. | The shake looks worse | than it feels. | That is fine.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A GAP = TRAINABLE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "20 SEC = THE POOL OPENS"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "YOU OWN THE ANGLE",
+     "pos": "br",
+     "text": "45+ SEC"
+    }
+   ],
+   "big": "20 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE AT YOUR WEAKEST POINT",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Twenty seconds at your weakest angle is where a hold stops being survival and starts being recruitment. Under ten seconds, your nervous system simply cannot open its full motor unit pool at that angle yet, and that gap is trainable. Between twenty and forty, the pool opens but fades early. Over forty-five, you own the angle completely, and angles you own stop being sticking points at all. Keep your time in your head. At the end I will tell you exactly which band you live in and what it is costing your lifts. Notice, too, what this number predicts. Your max push-up set almost certainly ends within a few reps of the moment this angle gets involved under fatigue. The sticking point is not part of the lift. For most people, it is the lift.",
+   "section": "THE NUMBER",
+   "sub": "under 10: recruitment gap - over 45: fully wired",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "HUNDREDS OF SMALL ENGINES"
+    },
+    {
+     "asset": "ren_pushup_mid.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Units recruit smallest first.",
+      "Weak angles force the big ones awake."
+     ],
+     "pos": "br",
+     "title": "THE SIZE PRINCIPLE"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RECRUITMENT IS A SKILL"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "HOLDS OPEN THE POOL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the system under the shake. Your muscles are not one engine, they are hundreds of small motor units, and your nervous system recruits them in order, smallest first. Easy angles only need the small units, so the big powerful ones stay asleep. But at your sticking point, leverage is terrible and demand is maximal, so your brain is FORCED to open the whole pool, including the high-threshold units that produce real force. That opening is called recruitment, and it is a nervous system skill, not a muscle trait. Every second you survive at the weak angle, you are literally practicing opening the full pool on command. There is a second, quieter benefit. Holding at the weak angle teaches your joints and tendons to tolerate peak tension in the position where injuries usually audition. Recruitment and armor, built by the same seconds.",
+   "section": "THE RECRUITMENT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE TOP IS A REST"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "EASY ANGLE",
+       55,
+       "red"
+      ],
+      [
+       "STICKING POINT",
+       100,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "DEMAND BY ANGLE"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Hold strength transfers about",
+      "15 degrees to either side."
+     ],
+     "pos": "br",
+     "title": "THE 15-DEGREE RULE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "DELETE THE PLATEAU"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now compare the angles honestly. At the top of a push-up your bones stack and the muscles coast, which is why anyone can rest there. At the sticking point, the elbow angle is worst, the muscle length is awkward, and demand spikes to maximum. That spike is precisely why holds work: isometric strength built at one angle transfers roughly fifteen degrees to either side of it. Train the weak angle and you do not just fix one point, you raise a whole neighborhood of the lift. This is how smart lifters delete plateaus without adding a single kilo of muscle. They find the angle where recruitment fails, and they live there until it stops failing. This is also why strong bench pressers have used board presses and pause work for decades, isolating the exact neighborhood where their lifts die. You are doing the bodyweight version of a very old, very proven idea.",
+   "section": "THE RECRUITMENT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIFTS DIE IN THE VALLEY"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Early hold gains are mostly wiring,",
+      "and wiring changes in days."
+     ],
+     "pos": "br",
+     "title": "NEURAL FIRST"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FIRE WHERE YOU USED TO QUIT"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FAST GAINS LIVE HERE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why does a sticking point exist at all? Because every lift has a position where your leverage is worst and the muscle is stretched into its weakest length. Force falls into a valley there, and lifts die in that valley. Big muscles make the valley shallower, which is the slow road. Recruitment training attacks the valley directly: by holding inside it, you teach your nervous system to fire harder exactly where it used to quit. Studies on isometric training show the gains are angle-specific and largely neural in the first weeks, which means they arrive FAST. Your muscles do not need to change first. Your wiring does, and wiring changes in days, not months. The valley also explains a frustrating pattern: adding reps everywhere except through the sticking point. Grinding more full reps mostly trains the strong ranges harder. The valley only changes when you live in it directly.",
+   "section": "THE RECRUITMENT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LIGHT LOAD, MORE PRACTICE"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "OF FULL RECRUITMENT",
+     "pos": "br",
+     "text": "MORE REPS"
+    },
+    {
+     "asset": "ren_pushup_mid.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "UNRECRUITED, NOT SMALL"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE MOST FIXABLE PROBLEM"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "And here is your unfair advantage again. Holds are limited by how much absolute load the joint must survive, and your load is your own light body. The heavy guy attempting long sticking-point holds is parking a truck on his shoulders and elbows, so his practice sets are few and ugly. You can hold, rest a minute, and hold again, collecting clean recruitment practice all week without wrecking your joints. Recruitment is a skill, skills grow with quality repetitions, and the lighter athlete simply banks more of them. Skinny was never the problem. Unrecruited muscle was, and that is the most fixable problem in all of training. Remember the practical math. Three holds of twenty seconds is one minute of recruitment practice at your weakest angle. Most people have never accumulated one honest minute there in their entire training lives. Your first month gives you twelve.",
+   "section": "THE RECRUITMENT",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "check": 3,
+   "exercise": "STICKING POINT HOLDS",
+   "music": "drive",
+   "narration": "Now we recruit together. Four rounds. Lower to your sticking point and freeze for twenty seconds. Shake is welcome, sinking is not. Rest, reset, and go again.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "THE 5 MISTAKES",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "HOLDING THE EASY TOP"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "HIPS SAGGING = ESCAPING"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 13,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "3-SECOND HOLDS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "A NEW ANGLE EVERY DAY"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "ONE ANGLE, FOR WEEKS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the five mistakes destroying your nerve recruitment. Mistake one: holding at the easy top position and calling it a sticking point hold, which recruits almost nothing. Mistake two: letting your hips sag mid-hold, quietly changing the angle and escaping the exact position you came to train. Mistake three: holding your breath until your face explodes, because a hold you cannot breathe in is a hold you will abandon early. Mistake four: three-second holds, which end before the high-threshold units even receive the invitation. Mistake five: testing a different angle every session, so no single angle ever gets enough practice to change. Pick your true weak angle, breathe inside it, and live there for weeks. One more upgrade once the basic hold is solid: tiny pulses at the angle, moving a centimeter up and down without leaving the neighborhood. It is advanced, miserable, and extraordinarily effective. Earn it with plain holds first.",
+   "section": "THE 5 MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A GAP = A NEGOTIATION"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Under 10: pool stays shut.",
+      "Over 45: you own the angle."
+     ],
+     "pos": "br",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. Under ten seconds means a real recruitment gap: your brain is protecting that angle by refusing to open the pool, and holds are the direct negotiation. Expect shaky, ugly progress for two weeks, then a sudden jump, because neural changes arrive in steps, not slopes. Between twenty and forty seconds, your pool opens but fades early, so longer holds and more rounds are your prescription. Over forty-five, you own the angle, and it is time to find a harder one. Whatever your time was, put it in the comments. Just the number. In thirty days we freeze at this exact angle again, and the clock will grade your wiring. Also expect your regular push-ups to feel strangely different by the retest: the middle of the rep, the part you used to rush through, will feel owned. That is what it feels like when a sticking point stops being one.",
+   "section": "THE 5 MISTAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "SAME ANGLE, NEW WIRING",
+     "pos": "br",
+     "text": "DAY 30"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of living at your weakest angle and the freeze that scared you becomes your strongest position. Same test, same angle, completely different wiring. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+   "section": "THE 5 MISTAKES",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "sticking point holds",
+  "isometric holds",
+  "nerve recruitment",
+  "motor unit recruitment",
+  "push-up plateau",
+  "isometric training",
+  "skinny guy strength"
+ ],
+ "thumb": {
+  "accent": "violet",
+  "asset": "ren_pushup_mid.webp",
+  "big": "20 SEC",
+  "hook": "HOLD THE WEAK POINT"
+ },
+ "title": "5 sticking point holds Mistakes That Are Destroying Your nerve recruitment",
+ "v5": true
+}

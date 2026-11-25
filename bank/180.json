@@ -1,0 +1,445 @@
+{
+  "id": "180",
+  "v5": true,
+  "title": "Your Wrist Pain Test Reveals Your Hidden Strength",
+  "description": "Press your palm flat on a table and the angle your wrist reaches before it complains is a number with a story. Here is what that angle says about your wrist tendons, why they grumble under load, and the lever work that heals them while it strengthens them.",
+  "tags": [
+    "wrist pain test",
+    "wrist tendon pain",
+    "wrist mobility",
+    "wrist extension",
+    "wrist stretches",
+    "push-up wrist pain",
+    "wrist strengthening"
+  ],
+  "hashtags": [
+    "wrist pain",
+    "wrist mobility",
+    "tendon healing",
+    "wrist stretches",
+    "push-up pain",
+    "healing"
+  ],
+  "category": "healing",
+  "badge": "EP 180 - THE WRIST PAIN TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE HEALING",
+    "YOUR WRIST"
+  ],
+  "thumb": {
+    "asset": "ren_wrist_lever.webp",
+    "big": "90 DEG",
+    "hook": "HOW FLAT CAN YOU PRESS?",
+    "accent": "green"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Palm flat on a table, fingers pointing back toward you. Now slide your arm forward slowly and let the wrist bend back. The angle where it stops, or where pain stops it, is your number. A free wrist reaches ninety degrees, forearm upright over a flat palm, the position every push-up quietly demands. A sore, guarded wrist stops at sixty, or forty, and starts negotiating. Note the angle, and note whether the stop felt like stiffness or like pain, because those are two different tissues talking and they heal differently. Keep both pieces of information. At the end I will decode them for you.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "PALM FLAT, FINGERS BACK",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "STOP AT STIFFNESS OR PAIN",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "stat",
+          "text": "90 DEG",
+          "label": "THE PUSH-UP POSITION",
+          "pos": "tr"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "TWO DIFFERENT STOPS",
+          "lines": [
+            "Stiffness is tissue length.",
+            "Pain is tissue irritation."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "90 DEG",
+      "label": "FULL WRIST EXTENSION UNDER LOAD",
+      "sub": "under 60: guarded or irritated - 75-90: nearly free",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Ninety degrees with a flat palm and calm tissue is a wrist ready for anything, push-ups, handstands, a day of typing. Seventy-five to ninety is nearly free, a wrist with a small debt. Under sixty, something is limiting you: either the tissues on the palm side have shortened, or the tendons crossing the wrist are irritated enough to guard the range. Both are common. Both are trainable. And confusing one for the other is why most wrist advice fails, because you do not stretch an irritated tendon the way you lengthen a stiff one.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "STIFF AND IRRITATED HEAL DIFFERENTLY",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "75-90: NEARLY FREE",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "UNDER 60",
+          "label": "FIND OUT WHICH ONE",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look at the traffic through your wrist. A dozen tendons slide through tight tunnels of connective tissue, sharing space with nerves and blood vessels, every one of them pulling a finger or the hand itself. Tendons in tunnels live on glide. When they are healthy they slide silently, millimetres with every grip. When they are irritated, the tunnel swells, the glide roughens, and the wrist starts rationing range to protect the traffic. That is why an irritated wrist aches at angles a stiff wrist merely stops at. Healing means restoring glide and capacity: gentle loading that pumps fluid through the tissue, graded pressure that rebuilds the tendons' tolerance, and range work that stays below the pain line while the swelling settles.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "A DOZEN TENDONS, ONE TUNNEL",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "fact",
+          "title": "TENDONS LIVE ON GLIDE",
+          "lines": [
+            "Healthy tendons slide silently.",
+            "Irritated tunnels ration range."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "ACHE MEANS IRRITATION",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The healing science for wrist tendons is the same story told everywhere in this season: load is the signal, dose is the medicine. Tendon cells respond to slow, controlled tension by building stronger collagen, and the wrist's favourite dose is the lever: palm down, gentle pressure, held and released, at loads you can grade by shifting your body an inch at a time. Isometric holds calm irritated tendons, often within minutes, which is why they open every session. Then slow lever presses rebuild capacity over weeks. What restarts the problem is the classic pair: total rest until it feels fine, then full push-ups on tissue that healed at half capacity. The wrist forgives almost everything except surprises.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "ISOMETRICS CALM FIRST",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "bars",
+          "title": "TENDON CAPACITY AFTER",
+          "items": [
+            [
+              "REST THEN FULL LOAD",
+              35,
+              "red"
+            ],
+            [
+              "GRADED LEVER WORK",
+              85,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "fact",
+          "title": "THE WRIST HATES SURPRISES",
+          "lines": [
+            "Grade the pressure an inch at a time.",
+            "Capacity first, push-ups second."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 24,
+          "kind": "swap",
+          "asset": "ren_wrist_lever.webp"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "While the wrist heals, audit what it does all day, because the programme is an hour and the keyboard is eight. Typing with the wrists bent back and resting on a hard desk edge presses the tunnel tissues for hours at exactly the angle you are trying to earn back under control. Raise the chair or lower the desk until the forearms float level, keep the mouse close so the wrist stays near neutral, and take the pressure off the heel of the hand. None of this is soft advice. For an irritated tendon tunnel, eight hours of low-grade compression outweighs twenty minutes of perfect rehab. Fix the day and the exercises finally get a fair trial. Most 'stubborn' wrists are not stubborn at all. They are being re-injured politely, all day, at a desk.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE KEYBOARD IS 8 HOURS",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "THE DESK AUDIT",
+          "lines": [
+            "Forearms float level.",
+            "Mouse close, wrist neutral."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 28,
+          "kind": "mark",
+          "text": "RE-INJURED POLITELY, ALL DAY",
+          "ok": false,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Give the process its honest calendar. An irritated wrist tendon usually settles its daily ache within two to four weeks of dosed loading, while full capacity, the flat-palm push-up without a thought, takes eight to twelve. Stiffness-only wrists move faster on range, sometimes a visible five degrees a fortnight, because length returns quicker than tendon tolerance. Track your angle every two weeks, photographed against the same table edge, and judge by the photo, not by a bad morning. Tissue keeps its own books, and it audits in weeks, not days.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "stat",
+          "text": "8-12 WEEKS",
+          "label": "TO FULL FLAT-PALM CAPACITY",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "chip",
+          "text": "PHOTOGRAPH THE ANGLE",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "fact",
+          "title": "TWO CLOCKS",
+          "lines": [
+            "Range returns in fortnights.",
+            "Tolerance takes a season."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "section": "YOUR WRIST",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Your advantage here is precision. Wrist rehab is dosed in inches and degrees, and a lighter body pressing through the palm loads the healing tendons less at the same angle. The big guy doing lever work is dosing with a hundred kilos behind the press. You can find the gentle zone, the exact inch where the tissue works without complaining, and live in it daily. Small frames also grip and type all day on the same tendons, so your daily life becomes part of the programme instead of an obstacle to it. The wrist does not need a bigger athlete. It needs a consistent one.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "DOSED IN INCHES AND DEGREES",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "LOAD AT THE SAME ANGLE",
+          "items": [
+            [
+              "HEAVY FRAME",
+              90,
+              "red"
+            ],
+            [
+              "YOUR FRAME",
+              50,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "DAILY LIFE JOINS THE PROGRAMME",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_wrist_lever.webp",
+      "exercise": "WRIST LEVER HOLDS",
+      "work": 20,
+      "rest": 10,
+      "rounds": 4,
+      "section": "YOUR WRIST",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Palm flat, fingers back, lean in only to the first stretch, hold it calm. Twenty seconds on, ten off, four rounds. No pain allowed. Go."
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "section": "YOUR WRIST",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: lever holds daily, four calm rounds like the ones we just did, always below the pain line. Isometric presses, palm into the table without moving, twenty seconds, before any range work. Push-ups move to your fists or to an incline while the flat-palm capacity rebuilds, so training never stops, it just routes around the healing tissue. Three mistakes keep wrists angry. Forcing the angle to ninety because a chart said so. Resting completely, then testing with full push-ups. And stretching an irritated, aching tendon hard, when irritation wanted isometrics and patience. If your wrist pain follows a fall, comes with swelling that will not settle, numbness in the fingers, or no improvement across a month of dosed work, see a professional if it persists. Wrists hide fractures and nerve problems inside simple stories.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "ALWAYS BELOW THE PAIN LINE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "NEVER FORCE THE ANGLE",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "FISTS OR INCLINE MEANWHILE",
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE WEEK",
+          "lines": [
+            "Daily lever holds.",
+            "Isometrics before range.",
+            "Training routes around it."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "section": "YOUR WRIST",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under sixty degrees, stopped by ache: your wrist tendons are irritated and guarding, and the isometric-first programme was written for you. Under sixty, stopped by stiffness alone: your palm-side tissues have shortened, and range work will move you fastest. Seventy-five to ninety: you are nearly free, and a few weeks of lever work closes the debt. Whatever stopped your wrist today, it is information, not identity. Retest in thirty days, same table, same slow lean, photograph the angle, and put both numbers in the comments. Degrees are small, but they compound. Also expect the angle and the ache to improve on different weeks. Range usually returns first, because length is quick; the ache under load leaves later, because tendon tolerance is slow. Do not mistake the second clock for failure. A wrist that reaches eighty degrees and still grumbles at push-ups is not stuck. It is mid-healing, with the second half of the job scheduled exactly where it should be. Finish the season of lever work and the grumble leaves with the capacity arriving.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ACHE OR STIFFNESS: KNOW YOURS",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 20,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "section": "YOUR WRIST",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of calm, graded pressure and that angle will tell the truth. Load below the pain line, every single day, without exception, and let the tendons rebuild stronger. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BELOW THE PAIN LINE, DAILY",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "SEE YOU AT THE RETEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

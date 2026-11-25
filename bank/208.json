@@ -1,0 +1,451 @@
+{
+ "badge": "EP 208 - EXPLOSIVE INTENT WRONG",
+ "category": "isometrics",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE FIRING",
+  "THE RIGHT WAY"
+ ],
+ "description": "Five push-ups with maximum explosive intent, timed. That clock measures how fast your nerves can fire, not how big you are. Here is the fast-firing system, the mistakes that slow it down, and how to build real speed in thirty days.",
+ "hashtags": [
+  "explosive intent",
+  "rate of force",
+  "fast twitch",
+  "nerve speed",
+  "plyometrics",
+  "calisthenics"
+ ],
+ "id": "208",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NO GYM NEEDED"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "INTENT: EXPLODE UP"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "lines": [
+      "The down is controlled.",
+      "The up is an attack."
+     ],
+     "pos": "br",
+     "title": "FAST UP, SLOW DOWN"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMEMBER YOUR TIME"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "label": "FOR 5 EXPLOSIVE REPS",
+     "pos": "br",
+     "text": "SECONDS"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Get into a push-up. | Here is the test. | Five reps only. | Lower down controlled. | Then EXPLODE up. | Maximum intent. | Like the floor insulted you. | Try to launch yourself. | Hands nearly leaving ground. | Start your clock. | Rep one. Attack. | Rep two. Attack. | Stay violent on three. | Four, no slowing. | Five, still fast. | Stop the clock. | That time is yours. | Five honest explosions. | Most people slow down | by rep three. | Their intent fades | before their muscles do. | Remember your time. | By the end, you'll see | what it says about | your nerve speed. | If rep five crawled, | you measured the fade. | That fade is the lesson.",
+   "poses": [
+    "ren_pushup_top.webp",
+    "ren_pushup_mid.webp",
+    "ren_pushup_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "SLOW = A SIGNAL, NOT A SIZE"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "UNDER 4 = FAST FIRING"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "SPRINTER-GRADE INTENT",
+     "pos": "br",
+     "text": "SUB 3.5"
+    }
+   ],
+   "big": "4 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "FIVE EXPLOSIONS BEFORE THE FADE",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Five explosive push-ups in under four seconds means your nervous system can reach high force almost instantly, which is the definition of fast firing. If your five took six seconds or more, with the last reps grinding, your intent fades early, and fading intent is a signal problem, not a size problem. Around five seconds is the honest middle: the machinery works, the speed is untrained. Under three and a half seconds with clean form, you are firing at a level most gym members never reach at any weight. Keep your time. At the end I will grade it and show you how the fast guys train it. One honest caveat: this test mixes firing speed with a little endurance, which is why we keep it to five reps. A single max-intent rep would be purer and harder to time. Five is the compromise that keeps the test usable in your living room.",
+   "section": "THE NUMBER",
+   "sub": "over 6: intent fades early - under 4: fast firing",
+   "type": "card"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FIRST 100 MILLISECONDS"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Early force is pure nerve.",
+      "Muscle size arrives too late."
+     ],
+     "pos": "br",
+     "title": "RATE OF FORCE"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "INTENT CHANGES THE SIGNAL"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "TRYING TO BE FAST IS THE DRILL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the science of speed. When you explode, force does not arrive instantly. It ramps up over time, and the steepness of that ramp is called rate of force development. In the first hundred milliseconds, before muscle size can contribute anything meaningful, force is almost entirely neural: how many motor units you can recruit in the opening instant and how fast you can make them fire. That is why INTENT matters so much. Studies show that simply intending to move fast, even against a load too heavy to move fast, recruits the high-threshold fast units that slow grinding never wakes up. Trying to be fast is not a mindset poster. It is a specific, measurable nerve signal, and it is trainable like one. Firing rate has a second component worth knowing: how quickly units can be switched OFF matters too, because fast movement is a rhythm of on and off, not a single blast. Clean, fast relaxation between efforts is part of why elite movers look loose while producing violence.",
+   "section": "THE FIRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_jump_peak.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SAME MUSCLE, DIFFERENT SIGNAL"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "SLOW GRIND",
+       45,
+       "red"
+      ],
+      [
+       "MAX INTENT",
+       100,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FAST UNITS RECRUITED"
+    },
+    {
+     "asset": "ren_pushup_bottom.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Slow reps can leave the fastest",
+      "units completely asleep."
+     ],
+     "pos": "br",
+     "title": "THE SLEEPING FAST LANE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SPEED WAKES EVERYTHING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Compare two push-ups with the same muscles. A slow grind asks your nervous system for force gradually, so it volunteers the small, slow, endurance units and leaves the fast lane asleep. A max-intent rep demands force NOW, so the brain skips the queue and opens the high-threshold fast units immediately, even at bodyweight. This is the loophole skinny guys should tattoo on the inside of their eyelids: you do not need heavier loads to reach your strongest fibers. You need faster intent. The load can stay light forever. The signal just has to arrive like an emergency. Train the emergency and the fast lane wakes up on every exercise you own. This also reframes warm-ups completely. A warm-up that includes a few genuine max-intent efforts, done fresh, switches the fast lane on for the whole session. A warm-up of only slow, easy reps leaves it asleep, and the workout that follows trains around it.",
+   "section": "THE FIRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHY REP 3 BETRAYS YOU"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Firing rate drops before",
+      "muscle force does."
+     ],
+     "pos": "br",
+     "title": "THE FADE IS NEURAL"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STOP WHILE IT IS STILL FAST"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SPEED SETS END EARLY"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Remember how your test faded by rep three? That fade is the lesson. When explosive reps slow down, the first thing to drop is not muscle force, it is firing RATE, your nerves gradually reducing how fast they pulse the fast units. This is why smart speed training looks almost lazy: tiny sets, full rests, and an absolute rule to stop the set the moment speed visibly drops. Grinding out slow reps after the fade does not train speed at all. It trains grinding, thoroughly, at the exact moment your fast system has left the room. Every rep you perform is a vote for the system you are building. Vote fast, rest fully, and leave while the signal is still electric. There is a mental skill inside the physical one: intent must be total from the first centimeter, not built during the rep. Athletes visualize the explosion before it happens, pre-loading the signal. Hesitation is just a slow signal wearing a costume.",
+   "section": "THE FIRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_sprint.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LESS MASS TO LAUNCH"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "INTENT BECOMES VELOCITY",
+     "pos": "br",
+     "text": "FASTER"
+    },
+    {
+     "asset": "ren_jump_peak.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "LIGHT + FAST = UNFAIR"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SKINNY CHEAT CODE"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now your advantage, and in this episode it is not subtle. Explosiveness is force divided by the mass you have to move, and your mass is small. The same nerve signal that moves a heavy athlete respectably will LAUNCH a light one. Sprinters and jumpers understand this instinctively: power is a ratio, and skinny guys hold the denominator hostage. Every improvement in your firing rate converts to visible speed faster than it does for anyone heavier, because there is simply less of you to convince. Fast nerves on a light frame is not a consolation prize. In jumping, sprinting, and striking, it is close to a cheat code, and it is sitting in your nervous system right now, mostly untrained. Think about where this lands outside sport: catching yourself in a trip, snatching a falling child or a falling glass, reacting on a bike. Life's emergencies are all first-hundred-millisecond events. Fast firing is not a gym quality. It is an insurance policy.",
+   "section": "THE FIRING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_bottom.webp",
+   "check": 3,
+   "exercise": "INTENT PUSH-UPS",
+   "music": "drive",
+   "narration": "Now we train the emergency together. Four rounds of three reps. Every rep is an attack: controlled down, violent up. Rest fully between rounds. If a rep turns slow, the set is already over. Go.",
+   "rest": 40,
+   "rounds": 4,
+   "section": "THE RIGHT WAY",
+   "type": "timer",
+   "work": 20
+  },
+  {
+   "asset": "ren_pushup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "SLOW GRIND CALLED POWER"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "GRINDING PAST THE FADE"
+    },
+    {
+     "asset": "ren_pushup_weak.webp",
+     "at": 13,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "30-SECOND RESTS"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "FEW REPS, FULL REST"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "STOP WHILE STILL FAST"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the wrong way versus the right way. Wrong way one: slow, heavy grinding proudly labeled power training, which recruits the slow lane and teaches your nerves patience instead of urgency. Wrong way two: continuing the set after your speed visibly dies, rehearsing slowness with great discipline. Wrong way three: short rests, so every set starts with a half-asleep nervous system and the fast units never fully report. The right way looks almost too easy: three to five reps, every one a genuine attack, full minute rests, and the discipline to stop while you are still fast. Speed is a quality, and qualities are trained fresh or not at all. Equipment note, because there is none: if the floor version gets easy, elevate your feet or slow the lowering, never the intent. The up is sacred. Whatever you change about the drill, the attack stays identical.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "FADING INTENT IS TRAINABLE"
+    },
+    {
+     "asset": "ren_sprint.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Over 6: the fast lane sleeps.",
+      "Under 4: it fires on command."
+     ],
+     "pos": "br",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. If your five reps took over six seconds, your fast lane is asleep, and your training has probably been all grind and no emergency. The fix is embarrassingly simple: small sets of genuine attacks, fully rested, several times a week. Around five seconds means the machinery is awake and just needs speed practice to sharpen. Under four seconds with clean reps means your firing rate is a genuine weapon, and heavier intent work will now transfer to jumps, sprints, and strikes. Whatever your time was, write it in the comments. Just the number. In thirty days we run the five attacks again, and the clock will tell us how electric your wiring has become. By the retest, listen to your reps as well as timing them. Fast reps sound different, a sharp drive instead of a rising grind. Your ears will often grade the improvement before the clock does.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pushup_top.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "SAME TEST, FASTER SIGNAL",
+     "pos": "br",
+     "text": "DAY 30"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of genuine attacks and the five reps that used to fade will fire like they are angry at the floor. Same test, same body, completely different speed. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "explosive intent",
+  "rate of force development",
+  "fast twitch training",
+  "explosive push-ups",
+  "nerve speed",
+  "intent training",
+  "skinny guy power"
+ ],
+ "thumb": {
+  "accent": "violet",
+  "asset": "ren_pushup_top.webp",
+  "big": "4 SEC",
+  "hook": "INTENT IS SPEED"
+ },
+ "title": "Stop Doing explosive intent Wrong: Train Your fast nerve firing Instead",
+ "v5": true
+}

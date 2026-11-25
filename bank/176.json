@@ -1,0 +1,445 @@
+{
+  "id": "176",
+  "v5": true,
+  "title": "Your Neck Turn Test Reveals Your Hidden Strength",
+  "description": "How far your head turns is a number, and that number tells the truth about the tissues in your neck. Here is what your rotation score means, why stiff neck tissue heals slower than you think, and the gentle daily work that gives the range back.",
+  "tags": [
+    "neck mobility test",
+    "stiff neck relief",
+    "neck stretches",
+    "neck pain",
+    "mobility test",
+    "tissue healing",
+    "desk posture"
+  ],
+  "hashtags": [
+    "neck mobility",
+    "stiff neck",
+    "posture fix",
+    "mobility test",
+    "neck pain relief",
+    "healing"
+  ],
+  "category": "healing",
+  "badge": "EP 176 - THE NECK TURN TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE HEALING",
+    "YOUR TURN"
+  ],
+  "thumb": {
+    "asset": "spine_anatomy_plate.webp",
+    "big": "80 DEG",
+    "hook": "HOW FAR DO YOU TURN?",
+    "accent": "green"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Stand tall. Feet still. Now turn your head slowly to the right, as far as it goes without your shoulders cheating. Stop where it stops. That stopping point is a NUMBER. In a healthy neck, your chin travels about eighty degrees, most of the way toward your shoulder. Now turn left. Most people find one side gives up ten or twenty degrees earlier than the other. Remember both numbers. The smaller one is the honest one, and at the end of this video I will tell you exactly what it says about the tissue inside your neck, and how fast it can change.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "SHOULDERS STAY STILL",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "STOP WHERE IT STOPS",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "stat",
+          "text": "80 DEG",
+          "label": "FULL HEALTHY ROTATION",
+          "pos": "tr"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "TWO NUMBERS",
+          "lines": [
+            "Test both sides.",
+            "The smaller side is the truth."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "80 DEG",
+      "label": "FULL ROTATION, EACH WAY",
+      "sub": "under 60: guarded and stiff - over 80: free and moving well",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Eighty degrees each way is a neck that turns freely. Between sixty and eighty, the tissue is guarded, tight and protecting itself, and that is the most common place to be. Under sixty, the muscles and the soft tissue around the spine have shortened their world, and everything from checking a blind spot to sleeping gets harder. None of these numbers mean damage. They mean tissue that has adapted to a small range, and tissue that adapted one way can adapt back.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "STIFF IS NOT BROKEN",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "60-80: GUARDED",
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "stat",
+          "text": "UNDER 60",
+          "label": "THE SHORTENED WORLD",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look at the top of the spine. Seven small vertebrae carry your head, and between them sit muscles, ligaments and connective tissue that all share one job: controlled movement. When a neck stays in one position for years, a screen position, those tissues do exactly what every tissue in your body does. They remodel around the demand. Collagen lays down along the lines of stress, and where there is no stress, no range, the tissue quietly gives that range back. Stiffness is rarely a locked joint. It is tissue that has been trained, by thousands of still hours, to be short and guarded. The good news is built into the same rule. Tissue remodels toward whatever you ask of it, including length and freedom, if the ask is gentle and daily.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "7 VERTEBRAE CARRY YOUR HEAD",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "fact",
+          "title": "THE REMODEL RULE",
+          "lines": [
+            "Tissue rebuilds around demand.",
+            "No demand, no range."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "STIFFNESS IS TRAINED",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "There is a second layer most people never hear about: guarding. When neck tissue senses threat, old strain, poor sleep, stress, the nervous system tightens the muscles around the spine like a hand gripping a railing. That grip is protection, not damage, and it is why a stiff neck often feels worse on stressful days and looser on holiday. Healing a guarded neck is therefore two jobs at once. You load the tissue gently so it remodels longer, and you show the nervous system, with slow breathing and pain-free range, that the movement is safe. Force fails both jobs. Aggressive cracking and yanking tell the guard to grip harder. Slow, daily, comfortable range tells it to let go, and tissue that is allowed to let go heals at its full speed.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "GUARDING = PROTECTION",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "bars",
+          "title": "WHAT THE GUARD LISTENS TO",
+          "items": [
+            [
+              "FORCE",
+              25,
+              "red"
+            ],
+            [
+              "SLOW RANGE",
+              90,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "TWO JOBS",
+          "lines": [
+            "Remodel the tissue longer.",
+            "Convince the guard to release."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 25,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Let us talk about sleep, because a third of your neck's life happens there and nobody audits it. A pillow that is too high holds the neck flexed for seven hours, a nightly eight-hour stretch in exactly the shortened position you are trying to leave. Too flat, and the head tips back into the guarded muscles all night. The healing neck wants neutral: head level, spine straight, the pillow filling the gap between ear and shoulder when you lie on your side. Then there is the morning itself. Stiffness peaks in the first hour because tissue fluid settles overnight and the guard wakes up cautious. That is why your ten gentle turns belong in the morning, before the screen, before the phone. You are not warming up for the day. You are telling the tissue, at its most guarded hour, that the full range is safe and available. People who move the turns to the morning consistently report the afternoon range arriving weeks earlier. Same turns, better timing, faster remodel.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "chip",
+          "text": "A THIRD OF LIFE IS SLEEP",
+          "pos": "tr"
+        },
+        {
+          "at": 16,
+          "kind": "fact",
+          "title": "THE PILLOW AUDIT",
+          "lines": [
+            "Too high: flexed all night.",
+            "Neutral: head level, gap filled."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 27,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 35,
+          "kind": "mark",
+          "text": "MORNING TURNS, BEFORE SCREENS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now the timeline, because this is where most people quit. Skin heals in days. Muscle heals in weeks. The dense connective tissue in your neck, the ligaments and joint capsules, remodels over months, because its blood supply is thin and its collagen turnover is slow. That is not bad news. It is a schedule. Ten gentle turns a day will not transform your neck by Friday, but twelve weeks of them reliably buys back ten to twenty degrees in people who were simply stiff and guarded. The people who fail are not the ones with the worst necks. They are the ones who expected a week-long fix from a tissue that works on a season-long clock, and stopped in week two.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "stat",
+          "text": "12 WEEKS",
+          "label": "THE REAL REMODEL WINDOW",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "THIN BLOOD SUPPLY = SLOW TURNOVER",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "THE SCHEDULE",
+          "lines": [
+            "Muscle: weeks.",
+            "Connective tissue: months."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "YOUR TURN",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is your advantage, and it is bigger than you think. A heavier head and thicker neck carry more load through these small tissues with every turn, every hour at a screen. Your lighter frame loads the healing tissue less while it remodels, which means your gentle work stays gentle instead of becoming another strain. Skinny necks also regain range visibly faster, because there is simply less tissue bulk limiting the turn. The stiffest necks I see are not weak necks. They are strong, heavy, over-guarded ones. You start this race with the lightest equipment and the least to unload. Use it daily and the gap closes fast.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "LIGHT FRAME = LESS STRAIN",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "bars",
+          "title": "LOAD ON HEALING TISSUE",
+          "items": [
+            [
+              "HEAVY FRAME",
+              85,
+              "red"
+            ],
+            [
+              "YOUR FRAME",
+              45,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "RANGE RETURNS VISIBLY FASTER",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_balance_test.webp",
+      "exercise": "NECK PRESS HOLDS",
+      "work": 10,
+      "rest": 5,
+      "rounds": 4,
+      "section": "YOUR TURN",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Palm against the side of your head, press gently at half strength, resist with the neck, and hold. We switch sides each round. Nothing should hurt. Go."
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "section": "YOUR TURN",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week looks like this. Morning and evening, ten slow turns each way, stopping at the first whisper of stretch, never at pain. Daily isometric presses, the ones we just did, four holds of ten seconds per side, because loaded tissue remodels faster than stretched tissue alone. Fix the setup that built the stiffness: screen at eye level, and a walk every hour you can manage. Three mistakes undo all of it. Yanking the head to force range. Holding your breath and bracing like you are lifting. And stretching hard once a week instead of gently every day. If the stiffness comes with pain running into the arm, numbness, weakness, or it does not improve at all over a month, see a professional if it persists. That version needs hands-on assessment, not a video.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "GENTLE AND DAILY WINS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "NEVER YANK FOR RANGE",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "SCREEN AT EYE LEVEL",
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE WEEK",
+          "lines": [
+            "2x daily gentle turns.",
+            "Daily isometric presses.",
+            "Hourly movement."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "YOUR TURN",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under sixty degrees: your neck tissue is guarded and shortened, and you have the most range to win back, which makes you the person this work helps most. Sixty to eighty: you are in the guarded middle, and daily gentle loading usually moves you within weeks. Over eighty with both sides even: your neck is free, and your job is simply keeping the range you own. Whatever your number was, it is a starting coordinate, not a verdict on your body. Tissue that remodeled into stiffness can remodel out of it. Retest in thirty days, same stance, same slow turn, and put your new number in the comments next to the old one.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "UNDER 60: MOST TO WIN",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "YOUR TURN",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days from now, that turn will tell us both the truth. Turn slowly, load gently, show up daily, and let the tissue keep its schedule. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SLOW TURNS, DAILY",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "SEE YOU AT THE RETEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

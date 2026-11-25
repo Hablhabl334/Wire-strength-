@@ -1,0 +1,456 @@
+{
+  "id": "187",
+  "v5": true,
+  "title": "Your Iso Lunge Time Reveals the Truth About Your leg nerve drive",
+  "description": "Sink into a lunge and hold it without moving. The seconds before your front leg starts shaking and quitting measure the nerve drive into your legs. Here is why holds expose what reps hide, and the protocol that turns shaking legs into wired ones.",
+  "tags": [
+    "isometric lunge",
+    "lunge hold test",
+    "leg strength test",
+    "quad endurance",
+    "isometric legs",
+    "split squat hold",
+    "leg drive"
+  ],
+  "hashtags": [
+    "isometric lunge",
+    "leg strength",
+    "quad training",
+    "iso hold",
+    "split squat",
+    "isometrics"
+  ],
+  "category": "isometrics",
+  "badge": "EP 187 - THE ISO LUNGE TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE DRIVE",
+    "YOUR LUNGE"
+  ],
+  "thumb": {
+    "asset": "ren_split_squat_bottom.webp",
+    "big": "45 SEC",
+    "hook": "HOLD THE LUNGE",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_split_squat_top.webp",
+        "ren_split_squat_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Step into a lunge. | Front thigh parallel | to the floor. | Back knee hovering | just off the ground. | Torso tall. | Now freeze. | No bouncing. | No creeping up. | The clock is running. | Your front leg | will start to burn. | Then it will shake. | Then it will beg. | The second you stand up | or the knee crashes down | is your number. | Test the other leg too. | The weaker leg | is the honest one. | Keep both numbers. | At the | end of this video | I will tell you | what they reveal | about your leg drive.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "FREEZE - NO BOUNCING",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "THE SHAKE IS DATA",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "stat",
+          "text": "BOTH LEGS",
+          "label": "THE WEAKER ONE IS HONEST",
+          "pos": "tr"
+        },
+        {
+          "at": 19,
+          "kind": "fact",
+          "title": "REPS HIDE, HOLDS EXPOSE",
+          "lines": [
+            "No momentum in a hold.",
+            "Only drive, all the time."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "45 SEC",
+      "label": "PER LEG AT FULL DEPTH",
+      "sub": "under 20: leg drive is untrained - 60 plus: wired, single-leg strength",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Forty-five seconds per leg, front thigh parallel, torso tall, is leg drive that can be trusted. Twenty to forty-five is the building middle: the signal is there but it thins out under sustained demand. Under twenty seconds, or a gap of more than ten seconds between your legs, tells the real story of most single-leg weakness. It is rarely the muscle. It is the drive into the muscle quitting early, and the stronger leg silently covering for it in every squat, step and stair you climb. The hold removes the cover. That is why it feels so honest and so awful.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "THE HOLD REMOVES THE COVER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "20-45: THE BUILDING MIDDLE",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "stat",
+          "text": "10+ SEC GAP",
+          "label": "ONE LEG IS COVERING",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE DRIVE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Why does a motionless hold burn like that? Because holding is not one contraction; it is a relay. As the first motor units fatigue, your nervous system must rotate fresh ones in, increase firing rates on the survivors, and recruit progressively stronger units just to keep the position unchanged. That relay is DRIVE in its purest visible form. In a moving rep, momentum and elastic energy help and hide the gaps. In a hold, every gap in the relay shows up as trembling. The shake is not weakness leaving your body as a favour. It is your nervous system working at the edge of its current organisation, and organisation is exactly what training upgrades. Each hold teaches the relay to run smoother, longer, with less drama.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HOLDING IS A RELAY",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "THE SHAKE IS THE RELAY",
+          "lines": [
+            "Fresh units rotate in.",
+            "Gaps show up as trembling."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "ORGANISATION IS TRAINABLE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "section": "THE DRIVE",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "There is a joint bonus built into this position. Isometric holds at long muscle lengths and deep joint angles are the same tool tendon rehabilitation uses, because sustained tension at a still angle loads the tendon steadily and signals it to strengthen, while the joint itself stays calm. The deep lunge loads the patellar tendon of the front leg in exactly that steady way. So your drive test doubles as tendon insurance, provided the rules are respected: the burn belongs in the thigh, the knee itself should feel pressure, never sharp pain, and depth is only earned when the hold stays clean. Legs that hold longer are not just better driven. Their cables are literally being rebuilt during the shaking.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE REHAB TOOL, DISGUISED",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "WHAT THE HOLD BUILDS",
+          "items": [
+            [
+              "DRIVE",
+              85,
+              "cyan"
+            ],
+            [
+              "TENDON",
+              80,
+              "cyan"
+            ],
+            [
+              "JOINT CALM",
+              70,
+              "gold"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "BURN IN THE THIGH",
+          "lines": [
+            "Pressure in the knee is fine.",
+            "Sharp pain is not."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 23,
+          "kind": "swap",
+          "asset": "ren_split_squat_bottom.webp"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_balance_test.webp",
+      "section": "THE DRIVE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The hold is also secretly a balance exam, and the two grades improve together. Standing on one leg at depth, your ankle and hip make hundreds of micro-corrections per minute, each one a tiny nerve decision. Wobble in the first week is not a character flaw; it is the correction system running on old software. As the holds accumulate, the wobble quiets, not because you try to balance but because the drive stabilises the platform balance stands on. Runners feel this first: the weak side stops collapsing late in runs. Stair climbers feel it next. Single-leg control is the foundation under every athletic movement you own, and it is being rebuilt here, thirty seconds at a time, while you were only watching the burn.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "SECRETLY A BALANCE EXAM",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "fact",
+          "title": "MICRO-CORRECTIONS",
+          "lines": [
+            "Hundreds per minute.",
+            "The wobble quiets as drive builds."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "swap",
+          "asset": "ren_split_squat_bottom.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "CONTROL UNDER EVERYTHING",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_split_squat_bottom.webp",
+      "section": "THE DRIVE",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Depth is the dial on this test, so set it honestly. Front thigh parallel is the standard because it is the angle where the quad's leverage is worst and the drive demand peaks. Half-depth holds can double your time while teaching half the lesson, which is why the mirror or a phone camera matters more here than in almost any other test this season. Film from the side, check the thigh line, and if parallel is not yet available to you, hold at the deepest angle your knee tolerates calmly and record that angle next to your time. A shallower honest hold beats a deep fake one, and the angle, like the lean in the doorframe test, is part of the score.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "PARALLEL IS THE STANDARD",
+          "pos": "tr"
+        },
+        {
+          "at": 13,
+          "kind": "fact",
+          "title": "ANGLE IS PART OF THE SCORE",
+          "lines": [
+            "Record depth with the time.",
+            "Shallower and honest beats deep and fake."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "FILM IT FROM THE SIDE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_split_squat_top.webp",
+        "ren_split_squat_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "YOUR LUNGE",
+      "check": 3,
+      "music": "calm",
+      "narration": "Now the skinny advantage, | and legs feel it most. | A lunge hold supports | most of your bodyweight | on one leg. | Your bodyweight is the load. | Less of it means | the hold trains drive | instead of survival. | The heavy guy's lunge | is a max strength test | he fails in seconds. | Yours is a drive drill | you can practise daily. | Drive grows from volume | of quality seconds. | You can collect | far more of them. | That is the whole game: | more honest seconds | than anyone heavier | can survive.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "DRIVE DRILL, NOT SURVIVAL TEST",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "QUALITY SECONDS PER WEEK",
+          "items": [
+            [
+              "HEAVY FRAME",
+              40,
+              "red"
+            ],
+            [
+              "YOUR FRAME",
+              90,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "MORE HONEST SECONDS WIN",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_split_squat_bottom.webp",
+      "exercise": "ISO LUNGE HOLD",
+      "work": 30,
+      "rest": 15,
+      "rounds": 4,
+      "section": "YOUR LUNGE",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Lunge down to your honest depth and freeze. Thirty seconds per round, alternating legs each round, four rounds. Shake is allowed. Standing early is data. Go."
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "YOUR LUNGE",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: lunge holds three days, four rounds like the ones we just did, the weaker leg always first while you are fresh, and always given the extra round if the gap between legs is over ten seconds. Progress by depth before duration: earn parallel, then chase the clock. Three mistakes waste the drill. Creeping upward as the burn builds, which shortens the muscle and dodges the lesson. Holding your breath and bracing to stone, when the skill is breathing calmly inside the effort. And testing only the strong leg because it feels better, which widens the very gap the test exposed. If your front knee develops sharp pain, swelling, or an ache that lingers for days after sessions, see a professional if it persists. Thigh burn is the programme. Joint pain is a referral.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "WEAKER LEG FIRST, ALWAYS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "NO CREEPING UPWARD",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "DEPTH BEFORE DURATION",
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE WEEK",
+          "lines": [
+            "Holds 3 days.",
+            "Extra round for the weak leg.",
+            "Breathe inside the effort."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_split_squat_bottom.webp",
+      "section": "YOUR LUNGE",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your numbers. Under twenty seconds, or a big gap between legs: your leg drive quits early and one leg has been covering for the other, probably for years. Twenty to forty-five: the relay works and tires, and three honest sessions a week will stretch it visibly. Over forty-five at true parallel depth: your single-leg drive is wired, and your progression is load, a backpack, and longer holds. Record both legs and the depth. Retest in thirty days, same depth standard, weak leg first, and put all of it in the comments: left, right, and the gap. The gap closing is the headline. And train the gap like it owes you money, because it does: every covered-up weak leg is strength you already paid for in training time and never received. The retest is collection day.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "UNDER 20: THE COVER STORY ENDS",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_split_squat_top.webp"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "COMMENT BOTH NUMBERS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_split_squat_top.webp",
+      "section": "YOUR LUNGE",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of honest holds and those legs will shake later, quieter, and finally not at all. Freeze, breathe, and let the relay learn. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FREEZE, BREATHE, HOLD",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "SEE YOU AT THE RETEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

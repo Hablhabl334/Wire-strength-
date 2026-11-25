@@ -1,0 +1,401 @@
+{
+  "id": "249",
+  "v5": true,
+  "title": "Your Two-Minute Hang Test Reveals the Truth About Your grip tendons",
+  "description": "One hang. One clock. Two minutes is the wall. Your max hang reveals the truth about your grip tendons - what they do in the final thirty seconds, when your muscles are done negotiating and only the cables, the nerves and your strategy remain.",
+  "tags": [
+    "two minute hang",
+    "dead hang test",
+    "hang challenge",
+    "grip tendons",
+    "hang endurance",
+    "max hang",
+    "bar hang"
+  ],
+  "hashtags": [
+    "two minute hang",
+    "grip tendons",
+    "the 2 minute wall",
+    "max hang",
+    "hang test",
+    "endurance truth"
+  ],
+  "category": "grip",
+  "badge": "EP 249 - THE TWO-MINUTE HANG TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE TENDONS",
+    "YOUR HANG"
+  ],
+  "thumb": {
+    "asset": "ren_dead_hang.webp",
+    "big": "120 SEC",
+    "hook": "THE 2-MINUTE WALL",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_hang_side_relaxed.webp",
+        "ren_hang_side_active.webp",
+        "ren_hang_side_tuck.webp"
+      ],
+      "cycle": 3.0,
+      "music": "dark",
+      "narration": "Grab the bar. | Palms away, full grip. | Lift your feet. | The clock starts now. | One hang, that's all. | No dropping and restarting. | No switching grips. | Breathe slow and easy. | Thirty seconds will pass. | It will feel simple. | Sixty seconds will pass. | It stops feeling simple. | Your forearms will burn. | Your hands will argue. | Strategy starts here. | Micro-adjust your fingers. | Keep your shoulders down. | Ninety seconds will pass. | Now it is tendons. | Now it is nerve. | Hold what you can. | When you drop, stop. | That time is yours. | Remember it exactly.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ONE HANG, NO RESTARTS",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "THE MINUTES CHANGE CHARACTER",
+          "lines": [
+            "30 feels simple. 90 is another country."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "STRATEGY STARTS AT 60",
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "mark",
+          "text": "REMEMBER YOUR TIME",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "120 SEC",
+      "label": "THE LINE FOR THE LONG HANG",
+      "sub": "under 60: tendons untested - 60 to 120: building - over 120: the wall is yours",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. One hundred and twenty seconds is the wall this episode is named for, and it is a real wall - the place where casual hangs end and trained grip tendons begin. Under sixty seconds, your grip tendons are simply untested by duration: your single-minute strength may be fine, but nobody has ever asked your cables to hold a meeting this long. Between sixty and one twenty, you are building the deep quality - the second minute is a different sport from the first, played by tendons, blood flow and nerve patience instead of muscle. Over one twenty, you own a hang that puts you ahead of nearly every man who will ever grab a bar beside you, because almost nobody trains for the second minute. They train for the impressive first one. You now know which minute counts.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 60 = UNTESTED BY DURATION",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "120+ SEC",
+          "label": "THE WALL IS YOURS",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "THE SECOND MINUTE IS THE SPORT",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the truth about your grip tendons, told by the clock. In the first thirty seconds, your forearm muscles do the holding, rich with fuel, squeezing hard. From thirty to sixty, the fuel thins and the muscles begin handing the job downward - to the tendons, the passive cables that can hold tension at a fraction of the metabolic cost. Past sixty, you are increasingly hanging on the cables themselves and on your nervous system's willingness to keep ordering a painful stillness. This hand-off is why long hangs feel so strange: the burn moves, the sensation changes from effort to endurance, and the limiting factor stops being strength at all. Your grip tendons are built for exactly this shift - they are endurance structures by design. A two-minute hang is not a strength test that runs long. It is a tendon test that muscles briefly attend. There is a mental architecture to the second minute, and veterans build it the same way: landmarks. Thirty seconds is the door. Sixty is the hallway. Ninety is the room where the wall lives. Having rooms to arrive in turns an endless hang into a journey with a map, and journeys are endurable in a way that open-ended suffering is not. On your retest, hang with the map in your head and notice how much later the negotiation starts when it has appointments to keep.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "THE HAND-OFF",
+          "lines": [
+            "Muscles start the hang.",
+            "Tendons finish it."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "PAST 60: THE CABLES HOLD",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "ENDURANCE BY DESIGN",
+          "label": "WHAT TENDONS ARE FOR",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TENDONS",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The minute-by-minute science deserves its own scene. Minute one is chemistry: fuel burning, waste rising, blood squeezed out of working forearms. The body answers by making the grip cheaper - recruiting the passive structures, letting the fingers settle into the bar's shape. Minute two is negotiation: the nervous system weighs the rising cost of staying against the simple relief of letting go, and it conducts this negotiation through sensation - the burn, the slipperiness, the sense that your fingers are opening, which for a long while is only a sense. Most drops in minute two are decisions, not failures: the hand could hold, the management declined. This is not an insult; it is the training target. Long-hang training is largely teaching management that the cables can be trusted further than sensation claims. Your time today is where your trust currently ends. And when the drop finally comes, note how it happens. If your fingers unpeeled slowly, your cables reached their honest end - a good death, and the kind training extends. If you let go suddenly while the grip still felt present, management signed the order early - and that kind of ending responds fastest of all, because it is not a capacity problem. It is a trust problem, and trust is built by exactly the submaximal long hangs in your protocol.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "MINUTE 1: CHEMISTRY. MINUTE 2: NEGOTIATION.",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "0-30 SEC",
+              95
+            ],
+            [
+              "30-60 SEC",
+              78
+            ],
+            [
+              "60-120 SEC",
+              55
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_hang_side_active.webp"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "MOST DROPS ARE DECISIONS",
+          "lines": [
+            "The hand could hold.",
+            "Management declined."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TENDONS",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_hang_side_tuck.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Strategy, then, because the second minute rewards it like nothing else in this season. Three tools separate trained hangers from strong ones. First, breathing: slow, deliberate breaths keep your shoulders down and your system calm, while panicked breathing spends the very tension you are saving. Second, micro-adjustments: tiny, early re-seats of the fingers - done at forty seconds, not at the crisis - keep the grip honest without a costly full re-grip. Third, for the advanced only: the one-hand shake-out, a two-second release of one hand at a time past ninety seconds, which buys blood flow at real risk - beginners should not touch it, because a botched shake-out ends more hangs than fatigue does. Strategy is not cheating. At two minutes, strategy IS the event, and the wall respects it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "BREATHE LIKE IT IS A MEETING",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_hang_side_relaxed.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "MICRO-ADJUST EARLY, NOT IN CRISIS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "SHAKE-OUTS: ADVANCED ONLY",
+          "lines": [
+            "A botched one ends hangs."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TENDONS",
+      "check": 2
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_hang_side_relaxed.webp",
+        "ren_hang_side_active.webp",
+        "ren_hang_side_tuck.webp"
+      ],
+      "cycle": 3.0,
+      "music": "dark",
+      "narration": "Here is your advantage. | Hangs are relative strength. | Your weight is low. | The bar charges less. | Your tendons last longer. | The heavy man's minute | costs him double. | Yours is half price. | Half price, full lesson. | This is your test. | The skinny guy's event. | Own the second minute.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HALF PRICE, FULL LESSON",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "fact",
+          "title": "THE SKINNY GUY'S EVENT",
+          "lines": [
+            "Relative strength is the whole test."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "OWN THE SECOND MINUTE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TENDONS",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_hang_side_relaxed.webp",
+      "exercise": "LONG HANG",
+      "work": 60,
+      "rest": 60,
+      "rounds": 2,
+      "music": "drive",
+      "narration": "We train for the wall together. Two hangs of sixty seconds - hard, but not maximal - with a full minute of rest and hand-shaking between them. Breathe like it is a meeting. Micro-adjust at forty seconds. This is second-minute school.",
+      "section": "YOUR HANG",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_hang_side_active.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your month, in one principle: train the second minute without living in it. Two sessions a week of long hangs at eighty to ninety percent of your max - long enough to visit the negotiation, short enough to leave with your tendons happy. One session a week, practice the craft at low cost: forty-second hangs where the only job is breathing and one perfect micro-adjustment. Two rules protect the whole project. Hands dry, grip identical every time - chalk or a towel-dried bar, because a test that changes its friction changes its meaning. And never max-test two days in a row; the cables you are training adapt between sessions, and a max hang is a withdrawal from an account that refills on rest days. Retest monthly. The wall does not move. You do.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "80-90% FOR TRAINING HANGS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "MAX TESTS ON BACK-TO-BACK DAYS",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_dead_hang.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "SAME GRIP, DRY HANDS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "THE WALL DOES NOT MOVE. YOU DO.",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR HANG",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR TIME",
+      "label": "WHAT YOUR HANG TIME MEANS",
+      "sub": "under 60: untested - 60 to 120: building - over 120: the wall is yours",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your time mean? Under sixty seconds, your grip tendons are untested by duration - a quality you have simply never requested, and unrequested qualities are the fastest to build. Between sixty and one twenty, you are building the deep hang: your cables are learning the second minute, your management is learning to trust them, and both lessons compound weekly. Over one twenty, the wall is yours. You own a relative-strength feat that scales inversely with bodyweight, which means you own the rare test where being the lightest man at the bar is the advantage everyone else wishes they had. Retest in thirty days, same bar, same grip. Comment your time below - seconds only, no adjectives. The number speaks.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "UNREQUESTED = FASTEST TO BUILD",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT YOUR SECONDS",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR HANG",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "A minute is a warm-up. Two minutes is a territory, and today you learned how much of it is yours. The rest is training, patience and trust in your cables. Thirty days, then we hang again. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST YOUR SECONDS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR HANG",
+      "check": 3
+    }
+  ]
+}

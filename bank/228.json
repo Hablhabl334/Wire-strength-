@@ -1,0 +1,398 @@
+{
+  "id": "228",
+  "v5": true,
+  "title": "Your 10-Second Negative Test Reveals Your Hidden Strength",
+  "description": "Lower yourself from the top of a push-up to the floor in exactly ten seconds. No drop, no pause, no cheating. The seconds you control reveal your nerve braking - the hidden system that decides how much force you can absorb, and absorbing force is where real strength starts.",
+  "tags": [
+    "slow negatives",
+    "10 second negative",
+    "eccentric control",
+    "push-up negative",
+    "nerve braking",
+    "tempo training",
+    "eccentric strength"
+  ],
+  "hashtags": [
+    "slow negatives",
+    "eccentric control",
+    "10 second negative",
+    "push-up test",
+    "tempo training",
+    "nerve braking"
+  ],
+  "category": "isometrics",
+  "badge": "EP 228 - THE 10-SECOND NEGATIVE",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE BRAKES",
+    "YOUR CONTROL"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_top.webp",
+    "big": "10 SEC",
+    "hook": "LOWER IT SLOW",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "music": "dark",
+      "narration": "Top of a push-up. | Arms locked out. | Body one straight line. | Start your clock now. | Lower yourself down. | Painfully, painfully slow. | Count the seconds. | One. | Two. | Three. | Your chest keeps sinking. | No sudden drop. | No resting at all. | Four. | Five. | Six. | Halfway should hurt. | Keep the speed even. | Seven. | Eight. | Nine. | Chest touches the floor. | Exactly at ten. | Did you make it? | Or did gravity win? | Remember your seconds. | We grade them soon.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ONE STRAIGHT LINE",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "THE ONLY RULE",
+          "lines": [
+            "Even speed. No drop. No rest."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "HALFWAY SHOULD BURN",
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "REMEMBER YOUR SECONDS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "10 SEC",
+      "label": "THE LINE FOR NERVE BRAKING",
+      "sub": "drop before 5: brakes asleep - 5 to 9: building - full 10: wired brakes",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Ten seconds is a perfect negative, and almost nobody gets it on the first try. If gravity stole you before five seconds, your brakes are asleep. That is not an insult, it is a diagnosis, because the lowering half of every rep is controlled by a braking system most people never train. Between five and nine seconds, your brakes work but fade in one part of the range - watch where the drop happened, because that inch is your weakest inch. A full ten seconds, smooth from top to floor, means your nervous system can meter out force like a valve. That control is rarer than a big bench press.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "DROP BEFORE 5 = ASLEEP",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "FULL 10",
+          "label": "VALVE-LIKE CONTROL",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "FIND YOUR WEAKEST INCH",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Let me explain your brakes. Lifting a weight is your accelerator: motor units fire, the muscle shortens, the load rises. Lowering is the opposite job. Your nervous system must release force gradually, fiber by fiber, while the muscle lengthens under load. That is ECCENTRIC control, and it is a separate skill with its own wiring. Here is the part that should interest a skinny guy. You are stronger lowering than lifting. Your muscles can resist roughly twenty to forty percent more force on the way down than they can produce on the way up. The strength is already in you. The negative test simply asks whether your nerves can spend it slowly, or whether it dumps out in one drop. The brake has another job you feel every day. It is the system that lets you set a full mug down without slamming it, lower a sleeping child into bed, and walk downstairs without your knees jackhammering. Fine force control is brake control. When your negative gets smoother, your hands get steadier everywhere - a side effect nobody expects from a push-up test.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "ECCENTRIC = THE BRAKES",
+          "lines": [
+            "Lowering is a separate skill",
+            "with its own wiring."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pushup_mid.webp"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "+20-40%",
+          "label": "STRONGER LOWERING THAN LIFTING",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "THE STRENGTH IS ALREADY THERE",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE BRAKES",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Why does braking matter more than you think? Because every explosive thing you admire starts with a brake. Before you jump, you dip - that dip is a negative, loading the spring. Before a sprinter drives forward, his landing leg brakes his whole bodyweight in a fraction of a second. Even a punch starts with a load. Athletes who brake well look powerful because they can absorb force and hand it back. Athletes who brake badly leak it, wobble, and get injured where the force lands. Your ten second test is the slow, honest version of that quality. Control the longest lowering and you are training the exact system that turns force into performance instead of damage.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "EVERY EXPLOSION STARTS WITH A BRAKE",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "BRAKES TRAINED",
+              90
+            ],
+            [
+              "BRAKES ASLEEP",
+              55
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "ren_jump_peak.webp"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "ABSORB, THEN RETURN",
+          "lines": [
+            "Force you can brake",
+            "is force you can use."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE BRAKES",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now, the drop point. Go back to your test and remember the exact height where your body stopped obeying and started falling. For most people it is the same place every time - two hand-widths above the floor, where the chest and triceps pass through their weakest angle. That spot is not random. Your brakes are trained by your habits, and your habits never visit that inch under control, because in normal push-ups you fall through it at full speed. The negative test exposes the map of your control, inch by inch. The good news is that control is range-specific, which means it is fixable in exactly the place it is broken. Hold that thought, because the protocol in a minute aims straight at your drop point. Here is the training detail that makes the drop point move. When you practice a negative, your brakes do not just get stronger at the angles you pass through - they get smarter about the order fibers are released. The release becomes a dimmer instead of a switch. Dimmer control is what ten full seconds looks like from the inside: not more force, just finer release, all the way down.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WHERE DID YOU DROP?",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "THE DROP POINT IS THE MAP",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "CONTROL IS RANGE-SPECIFIC",
+          "lines": [
+            "Broken in one inch.",
+            "Fixable in the same inch."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE BRAKES",
+      "check": 2
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "music": "dark",
+      "narration": "Here is your advantage. | Negatives need no weight. | Just gravity and time. | A heavy guy lowers more. | More load, more panic. | His brakes dump early. | You lower your bodyweight. | Light enough to control. | Heavy enough to matter. | Every second is practice. | Perfect practice, too. | The skinny body is | the perfect braking school. | One honest warning though. | Light does not mean easy. | Your ten seconds stay strict. | One straight line. | One even speed. | No hip bend. | No head drop. | The advantage is practice. | More perfect practice. | Not a lower standard. | Hold the standard. | The advantage stays real. | Cheat the standard, | and both disappear.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "NO WEIGHT NEEDED",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "fact",
+          "title": "GRAVITY + TIME",
+          "lines": [
+            "That is the whole gym."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "THE PERFECT BRAKING SCHOOL",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE BRAKES",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_bottom.webp",
+      "exercise": "10-SECOND NEGATIVES",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "music": "drive",
+      "narration": "We train the brakes together. Three rounds. Each round, lower for a slow ten count, reset, and go again until the timer ends. Even speed is the whole game - if you drop, start the next rep from the top.",
+      "section": "YOUR CONTROL",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the protocol. Three days a week, five negatives, that is all. Lower in ten seconds, rest on the floor, reset at the top, repeat. When ten seconds becomes clean, the progression is not more reps - it is a slower clock. Twelve seconds. Then fifteen. Two mistakes will try to steal your progress. Holding your breath makes the drop worse, so breathe out in a long thin stream the whole way down. And bending at the hips to shorten the fall is just lying to the test. One more rule: once a week, do your negatives only through your drop point - lower to it, hold three seconds, then finish. Aim the training at the broken inch and the inch rebuilds fast. How will you know it is working before the retest? Your normal push-ups will change first. The way down will start to feel owned instead of survived, and you will catch yourself lowering slowly without deciding to. That is the brakes becoming default wiring. When the slow way down feels like the normal way down, your retest number is already beaten - the test just makes it official.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "BREATHE OUT, THIN STREAM",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "HIPS BENT = LYING",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_pushup_mid.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "SLOWER CLOCK, NOT MORE REPS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "5 NEGATIVES, 3 DAYS A WEEK",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR CONTROL",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR SECONDS",
+      "label": "WHAT YOUR NEGATIVE MEANS",
+      "sub": "under 5: brakes asleep - 5 to 9: building - full 10: wired",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what do your seconds mean? Under five, your brakes are asleep, and nearly everyone's are - you have simply never asked your nervous system to spend force slowly. Between five and nine, you are building real control, and your drop point is the only thing standing between you and a perfect negative. A full ten seconds means your braking system is wired: you own the lowering half of every movement, and that ownership transfers to your jumps, your landings and your joints. Retest in thirty days with the same strict rules. Comment your seconds below - and tell me where your drop point was. Naming it is step one of fixing it. And if you hit the full ten today, do not retire the test. Your next mountain is fifteen seconds, then a ten second negative with a three second hold at your old drop point, inside it. Control has no finish line. It only has finer and finer resolution, and resolution is what separates the wired from the strong-looking.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "ASLEEP BRAKES WAKE FAST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT YOUR SECONDS",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR CONTROL",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Anyone can fall with style. Controlling the fall is the skill. You measured yours today, and brakes train faster than muscles grow. Thirty days of slow lowering, then we test the valve again. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST YOUR SECONDS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR CONTROL",
+      "check": 3
+    }
+  ]
+}

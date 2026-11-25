@@ -1,0 +1,471 @@
+{
+ "badge": "EP 140 - KNEE MISTAKE FILES",
+ "category": "healing",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE HEALING",
+  "THE MISTAKES"
+ ],
+ "description": "The knee pain test, one slow bend on one leg, graded your patellar tendon. If the number will not fall, five mistakes are usually why. Here is the pain line again, the tendon's continuum, and the errors that keep knees reactive for entire seasons.",
+ "hashtags": [
+  "kneepain",
+  "patellartendon",
+  "kneemistakes",
+  "jumpersknee",
+  "isometrics",
+  "kneerehab"
+ ],
+ "id": "140",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "ONE LEG. SLOW BEND."
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "STOP AT FIRST PAIN"
+    },
+    {
+     "at": 12,
+     "kind": "stat",
+     "label": "YOUR PAIN NUMBER",
+     "pos": "tr",
+     "text": "0-10"
+    },
+    {
+     "at": 19,
+     "kind": "fact",
+     "lines": [
+      "A stuck number means",
+      "a repeated input."
+     ],
+     "pos": "br",
+     "title": "SAME TEST, NEW QUESTION"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COMPARE WITH LAST TIME"
+    },
+    {
+     "at": 29,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "REMEMBER YOUR NUMBER"
+    }
+   ],
+   "check": 0,
+   "cycle": 3.0,
+   "music": "dark",
+   "narration": "Stand on one leg. | Other foot behind you. | Hands on your hips. | Now bend the knee. | Slowly. | Like a small squat. | Stop when pain starts, | or form falls apart. | How deep this time? | And how much pain? | Zero means nothing. | Ten means the worst. | Say your PAIN NUMBER. | Out loud. | Then answer honestly: | is it better than | the last time you tested? | The same as last month? | Or quietly getting worse? | A falling number means | the tendon is winning. | A stuck number means | one input keeps repeating. | A rising number means | the dose is wrong, | and pride is dosing it. | Keep your number safe. | At the end, | I match it to | the mistake behind it.",
+   "poses": [
+    "ren_split_squat_top.webp",
+    "ren_split_squat_bottom.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "0-3 = WORKING ZONE"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "STUCK AT 4-6 = REACTIVE LOOP"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "Tomorrow morning still counts",
+      "as part of the score."
+     ],
+     "pos": "tr",
+     "title": "THE 24-HOUR RULE, AGAIN"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "br",
+     "text": "TREND OVER SINGLE TESTS"
+    }
+   ],
+   "big": "3 / 10",
+   "card": "bignum",
+   "check": 1,
+   "label": "THE LINE HAS NOT MOVED",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "The line is the same one you learned with this test: pain at THREE or under while loading is the working zone, four to five is caution, six and above is back off, and whatever you do must settle to baseline by tomorrow morning. What this episode adds is the reading for a stuck score. A knee parked at four, five, six out of ten for months, in someone genuinely doing rehab, is almost always a REACTIVE LOOP: the tendon gets calmed down, feels better, gets celebrated with too much too soon, flares, and returns to exactly the same address. The tendon is not refusing to heal. It is being re-irritated on a schedule, usually by kindness, enthusiasm, and one specific good day. Today we hunt the five inputs that keep the loop spinning, because once you see yours, the number usually starts falling within weeks.",
+   "section": "THE NUMBER",
+   "sub": "0-3: working zone - stuck at 4-6: reactive loop - 6+: back off",
+   "type": "card"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "REACTIVE, THEN BREAKDOWN"
+    },
+    {
+     "at": 9,
+     "kind": "fact",
+     "lines": [
+      "A reactive tendon can settle in weeks.",
+      "A broken-down one takes seasons."
+     ],
+     "pos": "br",
+     "title": "THE CONTINUUM"
+    },
+    {
+     "at": 16,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STAYING REACTIVE IS A CHOICE OF INPUTS"
+    },
+    {
+     "asset": "ren_split_squat_bottom.webp",
+     "at": 22,
+     "kind": "swap"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "CALM IS A SKILL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Remember the continuum. A tendon first becomes REACTIVE: sensitive, swollen-feeling, complaining after spikes, and capable of settling within weeks if the spikes stop. Keep spiking it and the tissue begins to break down in patches, a slower, duller problem that remodels over seasons. The tragedy of the reactive loop is that it is optional. Every flare re-stamps the tendon's passport at the reactive stage and cancels the journey toward quiet, organised tissue. Look at your own history with this lens and the pattern usually confesses immediately: good week, big weekend, bad week, repeat. The knee is not fragile and it is not stubborn. It is a slow tissue being managed by a fast personality, and the entire therapy is aligning those two speeds. Calm is not the absence of training. Calm is a training skill, and it is the one this tendon grades you on.",
+   "section": "THE HEALING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE FLARE HAS A FINGERPRINT"
+    },
+    {
+     "asset": "knee_anatomy_plate.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "items": [
+      [
+       "GOOD DAY = BIG DAY",
+       30,
+       "red"
+      ],
+      [
+       "GOOD DAY = SAME DAY",
+       85,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "THE CELEBRATION SPIKE"
+    },
+    {
+     "at": 21,
+     "kind": "fact",
+     "lines": [
+      "Pain lags load by a day.",
+      "The bill arrives tomorrow."
+     ],
+     "pos": "tr",
+     "title": "WHY IT FEELS UNFAIR"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BORING IS THE PROTOCOL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The flare's fingerprint is almost always the good day. Tendon pain lags load by roughly a day, so the session that causes Friday's misery felt wonderful on Thursday, which makes the whole thing feel random and unfair. It is neither. It is a delayed invoice. The celebration spike, doubling the work because the knee finally felt strong, is the single most reliable way to keep a patellar tendon reactive forever, and it is committed exclusively by people who are trying hard. The discipline this tendon demands is deeply unnatural for athletes: when it feels great, do the planned amount anyway. When it feels ordinary, do the planned amount. Progress is added on paper, in small scheduled steps, never as a reward for a good mood. Boring is not the price of the protocol. Boring is the protocol, and the knees that heal are the ones whose owners made peace with that.",
+   "section": "THE HEALING",
+   "type": "art"
+  },
+  {
+   "asset": "knee_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "WHAT ELSE LOADS THIS TENDON"
+    },
+    {
+     "asset": "ren_wall_sit.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "fact",
+     "lines": [
+      "Stairs, hills, deep chairs,",
+      "and every jump at training."
+     ],
+     "pos": "br",
+     "title": "THE HIDDEN BUDGET"
+    },
+    {
+     "at": 23,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "COUNT THE WHOLE WEEK"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "THE TENDON TOTALS EVERYTHING"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Audit the hidden budget before blaming the program. The patellar tendon is loaded by far more than your rehab exercises: every staircase, every hill descent, every deep chair you climb out of, every jump in every sport you play, and the weekend game you forgot to mention. The tendon totals all of it without itemising, and it presents the sum as tomorrow's pain score. This is why two people on identical programs heal at different speeds: one has a flat life and a desk, the other has three flights of stairs and a Sunday league. Neither program failed. One budget was simply bigger. Managing a reactive knee means managing the total: fewer deep-knee extras during the rehab block, stairs taken one step at a time on bad weeks, sport dosed like medicine instead of freedom. You are not being fragile. You are being an accountant for a tissue that counts everything.",
+   "section": "THE HEALING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "SMALL BODY, SMALL INVOICES"
+    },
+    {
+     "asset": "ren_split_squat_top.webp",
+     "at": 10,
+     "kind": "swap"
+    },
+    {
+     "at": 16,
+     "kind": "stat",
+     "label": "PROGRESS IN SMALL STEPS",
+     "pos": "br",
+     "text": "FINE DOSING"
+    },
+    {
+     "at": 22,
+     "kind": "fact",
+     "lines": [
+      "Your spikes cost less.",
+      "Your calm is easier to keep."
+     ],
+     "pos": "tr",
+     "title": "THE SKINNY ADVANTAGE"
+    },
+    {
+     "at": 27,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BUILT FOR BORING PROGRESS"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Your advantage is that your invoices are smaller. Every stair, squat, and landing loads this tendon in proportion to bodyweight, and yours is modest, so your accidental spikes cost less and your planned doses land more precisely in the working zone. The heavy jumper must be nearly perfect to stay net-positive; you have margin for ordinary human error. There is a temperament edge too. This rehab rewards the trainer who can be boring on schedule, and you are building a whole physique on exactly that skill: small deposits, repeated, without applause. The athletes who fail tendon rehab are usually the ones who need every session to feel like a statement. You need yours to feel like a habit. For this tendon, that is not a personality flaw. It is the entire qualification.",
+   "section": "THE HEALING",
+   "type": "art"
+  },
+  {
+   "asset": "ren_wall_sit.webp",
+   "check": 3,
+   "exercise": "WALL SIT HOLD",
+   "music": "drive",
+   "narration": "Now deposit calmly with me. Back on the wall, knees bent where pain stays at three or less. Forty-five seconds on, thirty off, three rounds. No heroics. Go.",
+   "rest": 30,
+   "rounds": 3,
+   "section": "YOUR GRADE",
+   "type": "timer",
+   "work": 45
+  },
+  {
+   "asset": "ren_split_squat_top.webp",
+   "beats": [
+    {
+     "at": 2,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "1. THE CELEBRATION SPIKE"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "2. STRETCHING THE TENDON HARD"
+    },
+    {
+     "at": 12,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "3. REST UNTIL QUIET, THEN BINGE"
+    },
+    {
+     "at": 17,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "4. IGNORING THE STAIRS AND SPORT"
+    },
+    {
+     "asset": "knee_anatomy_plate.webp",
+     "at": 22,
+     "kind": "swap"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "5. CHASING PAIN-FREE, NOT CAPACITY"
+    },
+    {
+     "at": 31,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PLANNED STEPS ONLY"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "The five mistakes keeping this knee in the reactive loop. One: the celebration spike, doubling the dose on the first good day and paying tomorrow. Two: stretching the painful tendon hard, compressing the very tissue you are trying to settle. Three: the rest-and-binge cycle, total quiet until it feels fine, then one enormous return that re-opens the account. Four: ignoring the hidden budget, perfect rehab exercises wrapped in a week of stairs, hills, and Sunday sport. Five: chasing pain-free instead of capacity, quitting the program the first quiet week instead of building the tendon strong enough to stay quiet. The fix is one sentence: planned steps only, judged by tomorrow morning, for longer than feels necessary. And the standing line of this season: knee pain from a fall or twist, swelling, locking, giving way, or a number that keeps rising, see a professional if it persists. Mechanical symptoms deserve hands and imaging, not another month of homework.",
+   "section": "THE MISTAKES",
+   "type": "art"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RISING = THE DOSE IS WRONG"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "REACTIVE LOOP: FIND THE SPIKE",
+     "pos": "br",
+     "text": "STUCK 4-6"
+    },
+    {
+     "at": 15,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "FALLING = THE SYSTEM WORKS"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "br",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "big": "30 DAYS",
+   "card": "bignum",
+   "check": 3,
+   "label": "THEN WE BEND IT AGAIN",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your grade. A rising number means the dose is wrong somewhere: audit the hidden budget and cut the spikes before touching the program. A number stuck at four to six is the reactive loop in person: one of the five mistakes is on a weekly schedule, and finding it is the whole job this month. A falling number, even slowly, means the system works; change nothing, especially not out of boredom, because boredom is how the loop restarts. Remember what this tendon is grading you on. Not effort. Not toughness. Speed alignment between a fast personality and a slow tissue. Put your pain number in the comments. Just the number. We bend it again in thirty days.",
+   "section": "YOUR GRADE",
+   "sub": "rising: dose is wrong - stuck 4-6: reactive loop - falling: system works",
+   "type": "card"
+  },
+  {
+   "asset": "ren_split_squat_bottom.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "SAME LEG, SAME RULES"
+    },
+    {
+     "at": 5,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "NEXT: THE STIFF NECK FILES"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Thirty days from now, same leg, same slow bend, and we grade that tendon again. Subscribe, because next we open the mistake files on the neck that loses a few degrees every single year. This is {channel}. Train the cable.",
+   "section": "YOUR GRADE",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "knee pain",
+  "patellar tendon",
+  "tendon mistakes",
+  "jumper's knee",
+  "isometric training",
+  "knee rehab",
+  "skinny guy fitness"
+ ],
+ "thumb": {
+  "accent": "green",
+  "asset": "ren_split_squat_bottom.webp",
+  "big": "5 ERRORS",
+  "hook": "WHY YOUR KNEE STAYS ANGRY"
+ },
+ "title": "5 knee pain Mistakes That Are Destroying Your patellar tendon healing",
+ "v5": true
+}

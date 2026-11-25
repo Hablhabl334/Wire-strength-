@@ -1,0 +1,388 @@
+{
+  "id": "230",
+  "v5": true,
+  "title": "Your Brace Test Reveals Your Hidden Strength",
+  "description": "Get into a plank, brace like a punch is coming, and hold. Your braced plank time measures core nerve pressure - the hidden system that protects your spine and decides how much of your leg and arm strength ever reaches the ground.",
+  "tags": [
+    "brace test",
+    "plank test",
+    "intra-abdominal pressure",
+    "core bracing",
+    "bracing technique",
+    "spine stability",
+    "core pressure"
+  ],
+  "hashtags": [
+    "brace test",
+    "plank challenge",
+    "core bracing",
+    "spine stability",
+    "intra-abdominal pressure",
+    "core strength"
+  ],
+  "category": "isometrics",
+  "badge": "EP 230 - THE BRACE TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE PRESSURE",
+    "YOUR BRACE"
+  ],
+  "thumb": {
+    "asset": "ren_plank_hold.webp",
+    "big": "60 SEC",
+    "hook": "BRACE OR BREAK",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Forearms down. Body in one straight line, head to heels. Now brace like someone is about to punch you in the stomach - not sucking your belly in, but making your whole midsection hard in every direction, front, sides and back. Squeeze your glutes. Push the floor away. Breathe behind the brace in short, sharp sips. Start your clock. Your BRACE TIME ends the second your hips sag, your back arches, or your brace pops and you gasp. That is your number. Hold on to it, because at the end I will tell you what it says about the pressure system that protects your spine in everything you do.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BRACE LIKE A PUNCH IS COMING",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "NOT SUCKING IN",
+          "lines": [
+            "Brace means hard in",
+            "every direction at once."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "60 SEC",
+      "label": "THE LINE FOR A REAL BRACE",
+      "sub": "under 30: pressure leaks - 30 to 60: building - over 90: iron cylinder",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Sixty seconds of true braced plank is where a midsection becomes a pressure system. Under thirty seconds, your pressure leaks - and notice, the test rarely ends because your abs are weak. It ends because the brace breaks: a hip drops, a breath escapes, the cylinder loses its seal. Between thirty and sixty, you can build pressure and hold it, but one wall of the cylinder is thinner than the others. Over ninety seconds, your brace is a skill under fatigue, and that skill quietly upgrades every heavy thing you will ever lift, carry or push. A normal plank time means little. A braced plank time means everything, because pressure is the product.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 30 = THE SEAL BREAKS",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "90+ SEC",
+          "label": "IRON CYLINDER TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "PRESSURE IS THE PRODUCT",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system, and it is engineering, not abs. Your midsection is a cylinder. The diaphragm is the lid on top. The pelvic floor is the base. Your abs, obliques and deep back muscles are the walls. When you brace, you pressurize that cylinder from the inside, and the pressure does two jobs at once. It stiffens your spine, spreading load so no single disc takes the hit. And it gives your arms and legs a solid platform to push from, because force cannot cross a soft middle without leaking. Physiologists call it INTRA-ABDOMINAL PRESSURE, and elite lifters are not really stronger in the arms than you. They are pressurized in a way you are not - yet. Your brace test measures the one number that decides how much of your strength is usable.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "THE CYLINDER",
+          "lines": [
+            "Diaphragm lid. Pelvic floor base.",
+            "Abs and back are the walls."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "PRESSURE STIFFENS THE SPINE",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "stat",
+          "text": "1 SYSTEM",
+          "label": "BEHIND EVERY HEAVY LIFT",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE PRESSURE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_sag.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now look at the difference between a plank and a brace, because most plank records are worthless. This is the sag: hips dropped, back arched, belly hanging, a man simply waiting for the clock while his lower back pays for the photo. A plank like that trains your spine to fold under load, which is the opposite of strength. The braced version looks almost identical from across the room, but inside it is a different sport: ribs down, glutes crushing, pressure high, every breath fought for behind a wall of tension. Same position, opposite systems. This is why your test used the brace rules and why your number is probably lower than your casual plank time. It is also why your number is honest, and honest numbers are the only ones that can grow. One more myth deserves to die here. A visible six-pack is not a brace. The muscles you can see are the front wall only, and plenty of lean men with photographs for abs have never pressurized anything in their lives. Meanwhile a powerlifter with no visible abs at all can turn his midsection into a lifting belt made of his own tissue. The test you just took grades the belt, not the photograph. Trust the test.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SAME POSITION, OPPOSITE SYSTEMS",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_plank_hold.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "THE SAG TRAINS FOLDING",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "HONEST NUMBERS GROW",
+          "lines": [
+            "A lower true number beats",
+            "a fake record every time."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE PRESSURE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "spine_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Where does your pressure leak? Your test told you, if you replay it. If your lower back started aching, your front wall gave up and the arch took over - your abs lost the argument with gravity. If your shoulders died first, you were hanging off your arms instead of pushing the floor away, which means the pressure never reached your upper body. If you held your breath the whole time and popped at the end, your lid is the leak: you can build pressure or you can breathe, but not yet both. Each leak has a name and a fix, and notice what none of them are. None of them are a small muscle. Pressure is a coordination product, and coordination is the most trainable thing you own.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "FIND YOUR LEAK",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_plank_sag.webp"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "BACK ACHE = FRONT WALL LOST",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "fact",
+          "title": "COORDINATION, NOT SIZE",
+          "lines": [
+            "Pressure is a skill product.",
+            "Skills train fast."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE PRESSURE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The skinny advantage is built into this test. Pressurizing a cylinder is about ratios, and your cylinder is small. A heavy man's brace must stabilize a far bigger mass, with a thicker waist that is harder to make rigid and a much greater load trying to fold him in half. You are bracing a light frame, which means your practice reps are cleaner and your pressure skill climbs faster per session. There is a second edge nobody mentions: a lean waist gives you feedback. You can see your ribs flare and watch your belly soften the moment the brace fades. The big guy guesses. You watch it happen. Feedback is the fastest teacher in this entire game, and your body hands it to you free. There is a bonus hiding in this advantage. Because your brace practice is so visible, you will learn the skill in the correct order almost by accident: pressure first, time second. Heavy beginners usually learn it backwards, chasing minutes with a sagging back. You are building the cylinder before you build the clock, and that order is why your brace will still be honest at ninety seconds when theirs folds at sixty.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "SMALL CYLINDER, FAST SKILL",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_plank_sag.webp"
+        },
+        {
+          "at": 14,
+          "kind": "fact",
+          "title": "A LEAN WAIST TALKS BACK",
+          "lines": [
+            "You can see the brace fade.",
+            "He has to guess."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "FEEDBACK IS FREE COACHING",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE PRESSURE",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_plank_hold.webp",
+      "exercise": "BRACE PLANK",
+      "work": 30,
+      "rest": 15,
+      "rounds": 4,
+      "music": "drive",
+      "narration": "We build the cylinder together. Four rounds of thirty seconds. Build the brace before the clock starts - ribs down, glutes on, pressure high - then breathe in sips behind it. When the seal breaks, the round is over, even if time remains.",
+      "section": "YOUR BRACE",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week is simple. The braced plank, four rounds, three days. Then add the brace to everything: before every push-up set, every squat, every carry this week, take two seconds and pressurize first. The brace is not an exercise. It is the opening move of every exercise. Three rules keep you honest. Set the brace before you move, never during, because pressure built mid-rep arrives too late. Keep your ribs down as you breathe, because flared ribs are an open lid. And end every set when the brace ends, not when the muscle ends, because reps done on a broken cylinder teach your spine to fold for a living. Train the seal, and the strength you already have finally gets delivered. Add one practice to your day outside the workouts. Every time you pick something up this week - a bag, a box, a child - brace first, then lift. Twenty tiny reps a day, hidden inside normal life. That is how a gym skill becomes a spine habit, and habits, not workouts, are what protect backs on the other six days of the week.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "BRACE BEFORE YOU MOVE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "RIBS FLARED = OPEN LID",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "spine_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "SET ENDS WHEN BRACE ENDS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "4 ROUNDS, 3 DAYS",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR BRACE",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR TIME",
+      "label": "WHAT YOUR BRACE TIME MEANS",
+      "sub": "under 30: leaking - 30 to 60: building - over 60: pressurized",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your brace time mean? Under thirty seconds, your pressure leaks, and the leak has a name now - a wall, a lid, a breath - which means it has a fix. Between thirty and sixty, you are building a real cylinder: pressure on command, fading under fatigue, exactly the profile that improves fastest with the protocol you just heard. Over sixty seconds, you are pressurized. Your spine has armor and your limbs have a platform, and lifts that used to feel wobbly will start feeling strangely solid. Retest in thirty days, same strict rules. Comment your brace time below - and tell me which leak ended your test. That detail is the diagnosis.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "EVERY LEAK HAS A FIX",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT YOUR TIME",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR BRACE",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_plank_hold.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your abs were never the point. Pressure is the point, and pressure is a skill you measured today. Thirty days of sealing the cylinder, then we test it again. Post your number below. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR BRACE",
+      "check": 3
+    }
+  ]
+}

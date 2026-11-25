@@ -1,0 +1,394 @@
+{
+  "id": "243",
+  "v5": true,
+  "title": "Your Finger Spread Test Reveals the Truth About Your extensor tendons",
+  "description": "Everyone trains the squeeze. Almost nobody trains the opening. Loop a band around your fingers and spread against it - your count reveals the truth about your extensor tendons, the forgotten half of your forearm that balances every grip you make.",
+  "tags": [
+    "finger spread",
+    "extensor tendons",
+    "rubber band training",
+    "forearm balance",
+    "extensor training",
+    "hand extensors",
+    "finger abduction"
+  ],
+  "hashtags": [
+    "finger spread test",
+    "extensor tendons",
+    "forgotten forearm",
+    "band spreads",
+    "grip balance",
+    "hand opening"
+  ],
+  "category": "grip",
+  "badge": "EP 243 - THE FINGER SPREAD TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE EXTENSORS",
+    "YOUR SPREAD"
+  ],
+  "thumb": {
+    "asset": "ren_grip_closeup.webp",
+    "big": "25 REPS",
+    "hook": "SPREAD THEM WIDE",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Loop a rubber band around all five fingers of one hand, just past the fingertips. Start with your fingers closed together. Now spread them wide against the band - every finger, as far apart as they will go - then close slowly and repeat. One full spread is one rep. Thirty seconds, maximum full spreads. Then the other hand. Your SPREAD number is your weaker hand's count. No band? Use a hair tie, or press your fingertips into the edge of a table and spread against its resistance - the test survives improvisation. Keep your number. In a minute you will meet the half of your forearm you have probably never trained in your life.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "CLOSED TO FULLY SPREAD",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "THE WEAKER HAND COUNTS",
+          "lines": [
+            "Test both. Grade the worse one."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 16,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "25 REPS",
+      "label": "THE LINE FOR THE OPENING HALF",
+      "sub": "under 15: extensors forgotten - 15 to 25: waking - over 30: balanced",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Twenty five full spreads in thirty seconds is where the opening half of your hand wakes up. Under fifteen, your extensors are forgotten tissue - they have been passengers for every grip of your life, and they fade early because they have never once been the point of an exercise. Between fifteen and twenty five, the spread is real but ragged: the thumb and pinky lead, the middle fingers trail, and the last reps barely open. Over thirty strong, even spreads, your hand owns both directions - it can close like a tool and open like a fan - and that two-way ownership quietly protects every joint from your fingertips to your elbow. Nobody brags about this number. Everybody's elbows wish they had trained it.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 15 = FORGOTTEN HALF",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "30+ REPS",
+          "label": "TWO-WAY HAND TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "25 FULL = THE LINE",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Your forearm has two countries. The front country - the flexors - closes your hand, and it gets all the glory, all the training, all the size. The back country - the EXTENSORS - opens your hand, spreads your fingers, and holds your wrist steady while the front country works. Every grip you have ever made was a treaty between these two countries: flexors pull the fingers closed while extensors brace the wrist so the pull has a stable base. A grip with sleepy extensors is an engine on a wobbling frame. And here is the detail that should make you sit up: the extensors' tendons are the ones in the famous elbow complaint that ends seasons and careers in racket sports and manual trades alike. The forgotten half is not decorative. It is load-bearing. One clarification before the science: the band's job is honesty. Without resistance, anyone can wave their fingers apart and call it a spread. The band forces the extensors to produce real force through the full range, including the last centimeter where they are weakest and where this test is actually graded. If your reps shrank as the seconds passed, the band did its job - it showed you the exact range your forgotten half cannot yet afford.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "TWO COUNTRIES",
+          "lines": [
+            "Flexors close. Extensors open",
+            "and brace the wrist."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "A TREATY, NOT A SOLO",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "LOAD-BEARING",
+          "label": "THE FORGOTTEN HALF",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE EXTENSORS",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Why does balance matter so much? Because tendons adapt to what they are asked, and joints pay for the imbalance. When flexors are trained for years and extensors are not, every hard grip pulls the system out of alignment a little - the wrist sits less centered, the extensor tendons get dragged into overtime stabilizing a job they were not staffed for, and the outside of the elbow starts filing complaints. Trainers who rehab elbows almost always prescribe the same unfashionable medicine: strengthen the opening side. Not because opening is magic, but because a balanced forearm shares work the way it was designed to. Your spread number is the balance audit. A hand that crushes fifty and spreads twelve is not a strong hand. It is a strong half, with a bill coming due.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "BALANCE IS THE MEDICINE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 13,
+          "kind": "fact",
+          "title": "THE AUDIT",
+          "lines": [
+            "Crush 50, spread 12",
+            "is a bill coming due."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "bars",
+          "items": [
+            [
+              "FLEXORS (CLOSE)",
+              90
+            ],
+            [
+              "EXTENSORS (OPEN)",
+              38
+            ]
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE EXTENSORS",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_wrist_lever.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Watch your own spread once more and look for the second story: your wrist. During a strong spread, your wrist should stay quiet and straight, the extensors doing the work from a stable base. If your whole hand waggles and your wrist bends to help, your extensors are so understaffed that bigger muscles are volunteering - charming, but it means the audit found understaffing at two levels. The wrist lever in this picture is the cousin exercise: pressing through the back of the hand and wrist, the extensors' other job. Train the spread and the lever together and something satisfying happens within weeks - your grip itself gets stronger, not because the flexors grew, but because the frame they pull against finally holds still. The opening half was holding the closing half's ceiling all along. The lever deserves one more sentence, because it completes the picture. Your extensors do not only open the hand - they are the reason your wrist stays straight when you punch, press or hang. Every straight, strong wrist you have ever admired was extensor work holding a line. Train the opening half and you are not doing therapy exercises. You are building the frame every powerful hand position stands on.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "QUIET WRIST, LOUD SPREAD",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "WAGGLE = UNDERSTAFFED",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "THE CEILING SECRET",
+          "lines": [
+            "Your openers were capping",
+            "your closers all along."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE EXTENSORS",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The skinny advantage here is almost unfair. Extensor training costs nothing, weighs nothing, and needs no recovery - a band in your pocket is a complete gym for the forgotten half. A lean man can train spreads at his desk, on a bus, during a phone call, stacking hundreds of quality reps a week while a heavier lifter is still organizing his gym bag. And because the extensors are small and were asleep, they respond embarrassingly fast. Two weeks of daily spreads and the movement feels owned; a month and your forearm looks different from behind - a side of you that has never had a reason to exist before. Small muscles, neglected for decades, are the fastest visible wins available to a skinny guy. This test found you one.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "A BAND IN YOUR POCKET = A GYM",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 14,
+          "kind": "fact",
+          "title": "ASLEEP MUSCLES WAKE FAST",
+          "lines": [
+            "Weeks, not months."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "THE FASTEST WIN YOU OWN",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE EXTENSORS",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_grip_closeup.webp",
+      "exercise": "FINGER SPREADS",
+      "work": 30,
+      "rest": 15,
+      "rounds": 3,
+      "music": "drive",
+      "narration": "We wake the forgotten half together. Three rounds, alternating hands. Full spread, slow close, every rep - and keep that wrist quiet. When the spread stops being full, the round has done its work.",
+      "section": "YOUR SPREAD",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week is tiny and daily. Two minutes of spreads, every day: thirty seconds per hand, twice, with a slow close between spreads, because the slow return is half the exercise. Keep the wrist straight and quiet - if it waggles, use a weaker band until the extensors can do their own job. Progress by band thickness, not by rushing; a full spread against a strong band beats flapping against a weak one. One honest caution: if the outside of your elbow already aches in daily life, build this up gently over weeks, and if elbow pain persists, see a professional - extensor tendons reward patience and punish enthusiasm. Pair every crush session from now on with a spread session. Balance is not a phase. It is the permanent constitution of a hand that lasts.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "SLOW CLOSE = HALF THE REP",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "FLAPPING FAST AND SLOPPY",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "PAIN? BUILD GENTLY, GET CHECKED",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "2 MINUTES, EVERY DAY",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR SPREAD",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR REPS",
+      "label": "WHAT YOUR SPREAD COUNT MEANS",
+      "sub": "under 15: forgotten - 15 to 25: waking - over 25: balanced",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your count mean? Under fifteen, your extensors are forgotten - and forgotten is the best diagnosis in fitness, because it promises fast change for pocket change. Between fifteen and twenty five, the opening half is waking: the treaty between your forearm's two countries is being renegotiated in your favor, rep by rep. Over twenty five full, even spreads, your hand is balanced - a two-way tool whose grips will last longer and whose elbows have bodyguards. Retest in thirty days, same band, weaker hand graded. Comment your spread count below, next to your crush count from the last episode if you did it. The gap between those two numbers is your balance, in public.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "FORGOTTEN = FAST CHANGE",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT SPREAD + CRUSH",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR SPREAD",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Everybody trains the closing. You just measured the opening, and a hand that owns both directions is a hand built to last. Thirty days of two-minute balance, then we spread again. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST YOUR COUNT",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR SPREAD",
+      "check": 3
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "id": "241",
+  "v5": true,
+  "title": "Your Carry Distance Reveals the Truth About Your grip endurance",
+  "description": "Pick up something heavy in each hand and walk until your fingers open. Your carry distance tells the truth about grip endurance - not how hard you can squeeze once, but how long your forearms can keep working while the blood is squeezed out of them.",
+  "tags": [
+    "farmer carry",
+    "carry test",
+    "grip endurance",
+    "farmer walk",
+    "grip stamina test",
+    "loaded carry",
+    "forearm endurance"
+  ],
+  "hashtags": [
+    "farmer carry",
+    "carry distance",
+    "grip endurance",
+    "walk till it slips",
+    "grip test",
+    "forearm stamina"
+  ],
+  "category": "grip",
+  "badge": "EP 241 - THE CARRY TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE ENDURANCE",
+    "YOUR CARRY"
+  ],
+  "thumb": {
+    "asset": "ren_grip_squeeze.webp",
+    "big": "100 M",
+    "hook": "WALK TILL IT SLIPS",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Load two bags, two backpacks, two buckets - something heavy in each hand, heavy enough that you are not sure you can hold it. Stand tall, shoulders down, and walk. Walk your hallway, your garden, your street. Your only job is to keep walking until your fingers open against your will and the load comes down. Measure that distance - in meters if you can, in hallway lengths if you cannot. That is your CARRY DISTANCE. No warm-up attempts, no putting the load down and resuming. One pickup, one walk, one honest number. Keep it. At the end I will tell you the truth it reveals about your grip - and it is not the truth most men expect.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "ONE PICKUP, ONE WALK",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "NO RESUMING",
+          "lines": [
+            "The first drop ends the test."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "REMEMBER YOUR DISTANCE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "100 M",
+      "label": "THE LINE FOR GRIP ENDURANCE",
+      "sub": "under 50: grip is a sprinter - 50 to 100: building - over 150: porter class",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. One hundred meters with a serious load is where grip endurance becomes a real-world quality. Under fifty meters, your grip is a sprinter: strong for a squeeze, useless for a journey, because endurance is a different system from strength and yours is untrained. Between fifty and one hundred, your forearms can work and recover at the same time, up to a point - the point where the burn starts negotiating with your fingers. Over one hundred and fifty meters, you are porter class: your grip can be trusted with luggage, shopping, tools and life, indefinitely. Notice what this test never asked. It never asked how hard you can squeeze. The world almost never asks that either. It asks how long you can hold on, and it asks while you are walking.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 50 = SPRINTER GRIP",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "150+ M",
+          "label": "PORTER CLASS TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "THE WORLD ASKS: HOW LONG?",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Grip a handle hard and look at your forearm: the muscles doing the work are the finger flexors, and when they contract, they squeeze the very blood vessels that feed them. A hard grip is a muscle working with its own blood supply pinched off. That is why the burn arrives so fast and why endurance is not about the size of the squeeze. GRIP ENDURANCE is plumbing under pressure: how long the flexors can keep producing force while starved, and how fast they can clear the waste and refill the moment you set the load down. Tendons play their part too - they transmit every step's jolt without rest - but the starving muscle is the star of this test. Train the plumbing and the distance grows, even before the strength does.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "A HARD GRIP PINCHES ITS OWN BLOOD",
+          "lines": [
+            "Endurance is plumbing under pressure."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "THE BURN IS STARVATION, NOT WEAKNESS",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "PLUMBING FIRST",
+          "label": "STRENGTH SECOND",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE ENDURANCE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The carry is the oldest strength test on Earth, older than every gym. For most of human history, strength meant exactly this: pick it up, carry it home - water, wood, game, children, tools. Researchers today still use grip as one of the simplest windows into a person's overall physical function, because hands that endure tend to belong to bodies that endure. And notice the carry's second, hidden demand: you must grip while moving. Every step jolts the load, and your fingers must re-win the handle a thousand times without your brain supervising. That is endurance as a background skill, a grip that works while your mind is elsewhere. A squeeze test measures a moment. A carry measures a system - which is why it tells the truth the squeeze cannot. There is a grip detail hidden inside the carry that nobody teaches. Do not just hold the handles - try to bend them. Squeezing with the intention of crushing the handle recruits the deep flexors harder and delays the pinky unzip by seconds that become meters. Intention is a load you carry for free. The men with legendary carry distances are not holding on. They are attacking the handle for the entire walk.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE OLDEST TEST ON EARTH",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 13,
+          "kind": "fact",
+          "title": "A THOUSAND RE-WINS",
+          "lines": [
+            "Every step jolts the load.",
+            "Your fingers answer without thinking."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "bars",
+          "items": [
+            [
+              "ONE SQUEEZE",
+              45
+            ],
+            [
+              "CARRY SYSTEM",
+              92
+            ]
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE ENDURANCE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Watch how your carry ended, because the ending is diagnostic. Most grips do not fail evenly - they unravel from the pinky side. The little finger and ring finger share a tendon system that tires first in many people, and once the pinky's corner of the handle is lost, the whole grip unzips in seconds. If instead your shoulders climbed to your ears and your posture collapsed before your fingers opened, your limit was not grip at all - it was the frame holding the grip up, and carries will train that too. And if one hand quit long before the other, you have found the asymmetry that your two-handed life has been hiding. Three endings, three different trainings. The distance was the headline. The ending was the article.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE PINKY UNZIPS FIRST",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "SHOULDERS AT EARS = FRAME LIMIT",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "THE ENDING IS THE ARTICLE",
+          "lines": [
+            "How it failed tells",
+            "what to train."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE ENDURANCE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_sprint.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The skinny advantage in the carry is a dial you control completely. The load is not your body - it is chosen. A heavy man carrying groceries is stuck with his groceries; you, training, can pick loads that sit exactly at your grip's edge and adjust them by a single book at a time. There is a second edge: your own frame is light, so more of the total work goes to the grip itself instead of being spent moving a heavy body down the road. Nearly every step you take is a purer grip rep than his. Farmers, porters and soldiers built legendary grips without a single grip tool - just loads, distance and days. Your hallway is the same technology. The only upgrade you need is a number to beat, and you took it today.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE LOAD IS A DIAL YOU OWN",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 14,
+          "kind": "fact",
+          "title": "PURER GRIP REPS",
+          "lines": [
+            "Less spent moving you.",
+            "More spent on the grip."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "LOADS, DISTANCE, DAYS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE ENDURANCE",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_grip_squeeze.webp",
+      "exercise": "FARMER CARRY",
+      "work": 40,
+      "rest": 20,
+      "rounds": 4,
+      "music": "drive",
+      "narration": "We build the plumbing together. Four rounds of carrying - pick it up, shoulders down, walk tall until the timer ends. Rest twenty seconds, shake the blood back into your forearms, and go again. When your fingers open early, that hand just filed its report.",
+      "section": "YOUR CARRY",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: carries on three days, and the rules are the training. Shoulders down and back the whole walk - a shrugged carry trains your neck to do your grip's job and ends the walk early. Fingers wrapped fully, thumb over, because a lazy half-grip slips at half the distance and teaches nothing. Walk tall and normal, not in a scurry, because rushing is just dropping with extra steps. Progress in this order: first distance at the same load until you double it, then load, keeping the distance honest. And train the weaker hand's share deliberately - swap the heavier bag to the weaker side every other round. Grip endurance is one of the fastest qualities you will ever build, because the plumbing adapts in weeks. Expect your retest to embarrass your first attempt. Test your progress on the road, not just in the session. Stairs, curbs and corners all tax the grip differently - every turn swings the load and your fingers must re-win it at speed. A carry that survives corners is worth ten that survive a straight line. When your training distance doubles, take the same load around the block. The block is the final exam the hallway cannot give.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "SHOULDERS DOWN, ALWAYS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "SHRUGGING TO YOUR EARS",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "DISTANCE FIRST, THEN LOAD",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "3 DAYS THIS WEEK",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR CARRY",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR METERS",
+      "label": "WHAT YOUR CARRY DISTANCE MEANS",
+      "sub": "under 50 m: sprinter - 50 to 100: building - over 100: enduring",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your distance mean? Under fifty meters, your grip is a sprinter - impressive in a handshake, absent on a journey - and endurance is the fastest quality you will ever fix. Between fifty and one hundred, you are building a working grip: the plumbing clears waste almost as fast as your steps create it, and the last meters are a negotiation you are learning to win. Over one hundred meters at a real load, your grip can be trusted - with luggage, with tools, with a partner's hand on a cliff edge of a day. Retest in thirty days with the exact same load, weighed or counted, because the load is the ruler. Comment your meters and your load below. Both numbers, or it did not happen.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "SAME LOAD = SAME RULER",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT METERS + LOAD",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR CARRY",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Anyone can squeeze. Carrying is what squeezing was invented for. Today you measured the version of grip that life actually uses, and it trains in weeks. Thirty days of walking heavy, then we measure the road again. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST YOUR METERS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR CARRY",
+      "check": 3
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "id": "236",
+  "v5": true,
+  "title": "Your Pause Push-Up Number Reveals Your Hidden Strength",
+  "description": "Push-ups are easy to fake. Add a strict three-second pause at the bottom and the faking ends. Your pause push-up number measures nerve control - the ability to build force from a dead stop, with no bounce, no stretch reflex and nowhere to hide.",
+  "tags": [
+    "pause push-ups",
+    "dead stop reps",
+    "pause rep test",
+    "push-up control",
+    "nerve control",
+    "tempo push-ups",
+    "strict push-ups"
+  ],
+  "hashtags": [
+    "pause push-ups",
+    "dead stop",
+    "push-up test",
+    "nerve control",
+    "strict reps",
+    "tempo training"
+  ],
+  "category": "isometrics",
+  "badge": "EP 236 - THE PAUSE PUSH-UP TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE CONTROL",
+    "YOUR PAUSE"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_bottom.webp",
+    "big": "12 REPS",
+    "hook": "PAUSE OR ZERO",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "music": "dark",
+      "narration": "Top of a push-up. | Lower down slowly. | Stop one inch up. | Chest hovering, not resting. | Now count the pause. | One thousand one. | One thousand two. | One thousand three. | Now press back up. | That is one rep. | Every rep pauses. | Every single one. | No bounce allowed. | No resting allowed. | When you cannot rise | without squirming or bouncing, | the test is over. | Count only honest reps. | That is your number. | Remember it well. | We grade it soon.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "CHEST HOVERS, NEVER RESTS",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "3 FULL SECONDS",
+          "lines": [
+            "Count them out loud if you must."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "chip",
+          "text": "NO BOUNCE ALLOWED",
+          "pos": "tr"
+        },
+        {
+          "at": 18,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "12 REPS",
+      "label": "THE LINE FOR DEAD-STOP CONTROL",
+      "sub": "under 6: bounce-dependent - 6 to 12: building - over 15: total control",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Twelve strict pause reps is where a push-up stops being a bounce and becomes a demonstration of control. Under six reps, you are bounce-dependent: most of your normal push-up strength was borrowed from elasticity and momentum, and the pause just repossessed it. Between six and twelve, your dead-stop strength is real but the later reps get shaky, because restarting from zero is a nerve skill that tires like a muscle. Over fifteen pause reps, you own every inch of the movement. There is no angle in the push-up where you are weak, because the pause visits all of them and interrogates each one separately. Compare this number to your normal push-up max. The gap between them is the size of your cheat.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 6 = BOUNCE-DEPENDENT",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "15+ REPS",
+          "label": "EVERY INCH OWNED",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "THE GAP IS YOUR CHEAT SIZE",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. A normal push-up is partly a trampoline trick. As you descend, your tendons and muscles stretch and store elastic energy, and your nervous system times a stretch reflex that adds free force to the way up. It is a beautiful system, and it lies to you about your strength. The three-second pause deletes the lie. Elastic energy fades within about a second of holding still. The reflex quiets. What remains at the bottom is you, at your mechanically weakest, with nothing but voluntary nerve signal to restart the movement. That restart is NERVE CONTROL in its purest home form: building force from zero, on command, at the worst angle. Every pause rep is a rep of that, and your number counts how many times your control can do it before it frays. One more thing the pause exposes: your breathing strategy. In bouncing reps you can hide a sloppy breath anywhere. In a pause rep there is nowhere to hide it - you must breathe while hovering at your weakest, brace and breathe at the same time, which is a skill most lifters never practice. If your pauses fell apart when you exhaled, you found a fourth gap, and it is the cheapest one to fix: exhale in a thin stream during the pause, never all at once.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "THE TRAMPOLINE LIES",
+          "lines": [
+            "Elastic energy fades in ~1 second.",
+            "The pause deletes it."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_pushup_bottom.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "RESTART FROM ZERO",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "0 HELP",
+          "label": "FROM BOUNCE OR REFLEX",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE CONTROL",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The science of the dead stop explains a mystery from your normal training: why the first inches off the floor feel hardest. At the bottom of a push-up, your chest and triceps are at long lengths and poor leverage - the exact position where force is most expensive. In a bouncing rep, you pass through that expensive zone carried by momentum, like a cyclist coasting through a dip. In a pause rep, you start inside the dip with no speed at all. Studies of paused versus bouncing lifts find the same pattern everywhere: remove the bounce and performance drops, but the strength built is more honest and transfers better, because it was built by muscle and nerve instead of timing. Your pause number is your strength with the accounting done properly. Lower than your normal max - and worth ten times more as information. There is a long game here too. Tendons and joints love the pause. The bottom position, held under control, is where connective tissue receives the slow, honest loading that bouncing never gives it. Lifters who add pause work often report their shoulders and elbows feeling better, not worse - the dead stop removes the violent yank at the turnaround, the exact moment tissues complain about. Control is not just a performance skill. It is a maintenance plan.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "STARTING INSIDE THE DIP",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "BOUNCE MAX",
+              100
+            ],
+            [
+              "PAUSE MAX",
+              68
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "HONEST ACCOUNTING",
+          "lines": [
+            "Lower number.",
+            "Worth more as information."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE CONTROL",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Watch where your pause reps died, because the death has an address. If rep one after the pause barely moved - a centimeter of rise, then a stall - your control at the very bottom is the gap, and it is the most common one. If the reps rose fine but each pause got shorter in your head, your honesty is the gap, and a phone timer with a beep will fix what willpower cannot. And if your hips started sagging during the pauses, your trunk left the team and turned a push-up into two exercises arguing. Name the address. Bottom control, counting honesty, or trunk tension. The protocol in a moment has a specific drill for each, because pause training fails when it is generic and works when it is aimed.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "DEATH HAS AN ADDRESS",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_pushup_weak.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "SHORTENED PAUSES = HONESTY GAP",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "AIM THE DRILL",
+          "lines": [
+            "Generic fails. Aimed works."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE CONTROL",
+      "check": 2
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "music": "dark",
+      "narration": "Here is your advantage. | Pause reps cost bodyweight. | Yours is cheap to pause. | More reps per set. | More restarts practiced. | Restarts are the skill. | The heavy guy's pauses | end in five reps. | Five restarts learned. | You get twelve plus. | Twelve lessons per set. | Light buys repetitions. | Repetitions build control.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "MORE RESTARTS PER SET",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "fact",
+          "title": "RESTARTS ARE THE SKILL",
+          "lines": [
+            "Each pause is one lesson."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "LIGHT BUYS REPETITIONS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE CONTROL",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_bottom.webp",
+      "exercise": "PAUSE PUSH-UPS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "music": "drive",
+      "narration": "We build dead-stop control together. Three rounds. Every rep: lower, hover, count a true three seconds out loud, then press. If a rep needs a bounce, it does not count - rest instead and make the next one honest.",
+      "section": "YOUR PAUSE",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: pause push-ups on three days, and the rules are the training. Rule one: the chest hovers. If it touches and rests, the pause was a nap, not a test. Rule two: count out loud or use a beeping timer, because a tired brain counts three seconds in one and a half and calls it close enough. Rule three: every rep locks out fully at the top, because control includes the finish. For the bottom-control gap, add five extra reps that only rise the first five centimeters, pause again, then finish. For the trunk gap, brace before every descent like the brace episode taught you. Progress here is not more reps at any cost - it is the same reps with longer, quieter, more honest pauses, until twelve feels like a warm-up. Finally, guard the count with your life. A pause that shrinks to one second by rep six is not a pause rep with an asterisk - it is a normal rep wearing your protocol's clothes, and your retest will expose the costume. If you cannot hold the pause, end the set. Three honest sets of six will rebuild you faster than five sets of self-deception, and your future self, watching the retest, will know the difference.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "CHEST HOVERS, NEVER RESTS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "CHEST ON FLOOR = NAP",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_pushup_bottom.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "COUNT OUT LOUD",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "3 DAYS A WEEK",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR PAUSE",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR NUMBER",
+      "label": "WHAT YOUR PAUSE COUNT MEANS",
+      "sub": "under 6: bounce-dependent - 6 to 12: building - over 12: controlled",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your number mean? Under six, you are bounce-dependent, and now you know exactly how much of your push-up was a trampoline - which means you know exactly what to build. Between six and twelve, your control is building: the dead stop is yours for a while, then the signal frays, and fraying later each week is the progress to chase. Over twelve strict pause reps, you own the push-up completely - top, bottom and the dead air in between - and that ownership transfers to every pressing movement you will ever do. Retest in thirty days with a beeping timer and zero mercy. Comment your number below, next to your normal push-up max. The pair of numbers together tells the truth neither tells alone.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "REPORT BOTH NUMBERS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT YOUR PAUSE COUNT",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR PAUSE",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "A bounce is a loan. A pause is cash. Today you counted how much of your strength is actually yours, and cash is the kind that compounds. Thirty days of honest pauses, then we count again. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR PAUSE",
+      "check": 3
+    }
+  ]
+}

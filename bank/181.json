@@ -1,0 +1,453 @@
+{
+  "id": "181",
+  "v5": true,
+  "title": "Your 10-Second Negative Test Reveals the Truth About Your nerve braking",
+  "description": "Anyone can drop. Lowering yourself for a full ten seconds without speeding up is a nerve skill, and the count of clean negatives you own exposes it. Here is what braking strength really is, why skinny guys build it faster, and the protocol that wires it in.",
+  "tags": [
+    "slow negatives",
+    "eccentric training",
+    "10 second negative",
+    "push-up test",
+    "nerve control",
+    "braking strength",
+    "eccentric strength"
+  ],
+  "hashtags": [
+    "slow negatives",
+    "eccentric training",
+    "nerve control",
+    "push-up test",
+    "braking strength",
+    "isometrics"
+  ],
+  "category": "isometrics",
+  "badge": "EP 181 - THE 10-SECOND NEGATIVE",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE BRAKES",
+    "YOUR NEGATIVE"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_mid.webp",
+    "big": "10 SEC",
+    "hook": "LOWER IN TEN",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Top of a push-up. | Arms locked, body straight. | Now start lowering. | Ten full seconds. | Count them honestly. | No speeding up | at the bottom. | Most people collapse | by second four. | The floor rushes up | and gravity wins. | How many can you do? | Ten seconds down, | stand up, reset, | and go again. | Count only the clean ones. | The rep where you dropped | does not count. | That number | is your BRAKE score. | Keep it safe. | At the | end of this video | I will tell you | what it says | about your nervous system.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "TEN FULL SECONDS DOWN",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "NO SPEEDING AT THE BOTTOM",
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "stat",
+          "text": "COUNT",
+          "label": "ONLY THE CLEAN ONES",
+          "pos": "tr"
+        },
+        {
+          "at": 19,
+          "kind": "fact",
+          "title": "THE BRAKE SCORE",
+          "lines": [
+            "Dropping is gravity.",
+            "Lowering slowly is nerves."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "3 REPS",
+      "label": "CLEAN 10-SECOND NEGATIVES",
+      "sub": "zero clean: brakes untrained - 5 plus: elite braking control",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Three clean ten-second negatives, back to back with a short rest, is a braking system that works. One or two means the brakes engage but fade, and fading brakes are why your push-ups feel strong at the top and chaotic at the bottom. Zero clean reps is the most common score on earth, and it is not a strength problem. Lowering slowly asks almost nothing of muscle size. It asks your nervous system to release force in tiny, controlled steps instead of all at once. That is a software skill, and software retrains fast.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "NOT SIZE - SOFTWARE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "1-2: BRAKES THAT FADE",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "5 PLUS",
+          "label": "ELITE BRAKING CONTROL",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE BRAKES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Follow the signal. Lifting a weight is your nerves shouting GO: motor units fire, fibres contract, force climbs. Lowering is the opposite art. Your nervous system must keep firing while the muscle lengthens, metering the release like a brake pedal instead of a cliff edge. Physiologists call this eccentric control, and it is the highest-force mode your body owns: a muscle lowering a load can resist far more than the same muscle lifting it. That surplus is why negatives build strength so efficiently, and why they leave you sore in a new place. The brake system is also your injury insurance. Landings, decelerations, catching yourself when you slip: all braking. The ten-second test simply makes the invisible system visible, one second at a time.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LIFTING = GO. LOWERING = BRAKE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "fact",
+          "title": "THE STRONGEST MODE",
+          "lines": [
+            "Lowering resists more than lifting.",
+            "That surplus builds strength fast."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "ren_pushup_bottom.webp"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "BRAKES ARE INJURY INSURANCE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "section": "THE BRAKES",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is what the research keeps finding. Eccentric training produces strength gains that carry over to the lifting side, builds muscle at least as well as normal training, and strengthens the tendon along with the muscle, because the tendon is the cable transmitting every braked Newton. But the deeper adaptation is neural. In the first weeks of negative training, most of the gain is your nervous system learning finer control: recruiting units in smaller steps, releasing them in smaller steps, smoothing the whole descent. Watch a beginner's negative and it stutters, three drops stitched together. Watch a trained one and it pours. That smoothness is literally your brake score becoming visible, and it is trainable at any age, with no equipment, starting today.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "TENDON TRAINS WITH THE MUSCLE",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "bars",
+          "title": "THE DESCENT",
+          "items": [
+            [
+              "BEGINNER: STUTTERS",
+              30,
+              "red"
+            ],
+            [
+              "TRAINED: POURS",
+              90,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "NEURAL FIRST",
+          "lines": [
+            "Early gains are control, not size.",
+            "Finer steps on, finer steps off."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 25,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "THE BRAKES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Zoom out from the push-up and you will see braking everywhere. Every landing from a jump is a negative your legs perform in a quarter of a second. Every change of direction in sport is braking, then re-accelerating. Even walking downstairs is a series of single-leg negatives, which is why stairs expose weak brakes in older legs long before weakness shows anywhere else. The ten-second push-up is just the laboratory version of a universal skill: absorbing force without collapsing. Train it slowly and it protects you at full speed, because the nervous system uses the same metering software at every tempo. Slow is not the opposite of fast here. Slow is how fast gets built without breaking.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "LANDINGS ARE NEGATIVES",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "fact",
+          "title": "ONE SKILL, EVERY TEMPO",
+          "lines": [
+            "Stairs, landings, direction changes.",
+            "Same metering software."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "ren_sprint.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "SLOW BUILDS FAST",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "section": "THE BRAKES",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "One detail separates good negatives from wasted ones: the speed must be honest everywhere, especially the last five centimetres. That bottom zone is where braking is hardest, because the muscle is longest and the leverage is worst, and it is exactly where beginners accelerate and rob themselves. Film one rep from the side if you can. Your body should cross every centimetre at the same speed, a lift descending, not a stone falling with manners. If the bottom rushes, shorten the range for a week: lower in ten seconds to a stack of books, and raise the stack as the brakes learn. Range is earned by control, never borrowed from gravity.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE LAST 5 CM DECIDE IT",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "fact",
+          "title": "EARN THE RANGE",
+          "lines": [
+            "Rushing bottom? Raise the floor.",
+            "Books today, floor next month."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "mark",
+          "text": "A LIFT, NOT A STONE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "YOUR NEGATIVE",
+      "check": 3,
+      "music": "calm",
+      "narration": "Now the skinny advantage, | and it is real. | A negative is braking | your own bodyweight. | The heavier the body, | the more force | every second demands. | Your lighter frame | means your brakes | train at a load | they can actually control. | The big guy's negatives | collapse into drops | for months. | Yours can be clean | in week one. | Clean reps are the signal. | Sloppy reps are noise. | You start this season | with the perfect load: | heavy enough to matter, | light enough to steer.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "YOUR LOAD IS STEERABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "CLEAN NEGATIVES, WEEK ONE",
+          "items": [
+            [
+              "HEAVY FRAME",
+              25,
+              "red"
+            ],
+            [
+              "YOUR FRAME",
+              80,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "CLEAN REPS ARE THE SIGNAL",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_bottom.webp",
+      "exercise": "NEGATIVE PUSH-UPS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "YOUR NEGATIVE",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Ten seconds down, reset at the top, repeat inside the work window. Forty seconds on, twenty off, three rounds. Slow is the whole point. Go."
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "YOUR NEGATIVE",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: negatives three days, never two days in a row, because braked muscle soreness peaks late and the system needs its repair window. Each session, five sets of three clean ten-second negatives, resting enough that every rep stays honest. When three clean sets become easy, the progression is not more reps, it is slower reps: twelve seconds, then fifteen. Three mistakes burn the programme down. Counting reps that dropped at the bottom. Training negatives daily and wondering why the score falls. And skipping the reset at the top, turning a braking drill into sloppy fatigue push-ups. This is control work. If your shoulders or elbows ache sharply during negatives, or a joint pain does not settle within a few days of stopping, see a professional if it persists. Brakes should burn muscle, never pinch joints.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "SLOWER, NOT MORE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "NEVER COUNT A DROPPED REP",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "3 DAYS A WEEK, NEVER BACK TO BACK",
+          "pos": "tr"
+        },
+        {
+          "at": 26,
+          "kind": "fact",
+          "title": "THE WEEK",
+          "lines": [
+            "5 sets of 3 clean negatives.",
+            "Progress: 12s, then 15s.",
+            "Rest is part of braking."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "section": "YOUR NEGATIVE",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Zero clean negatives: your brakes are untrained, full stop, and you own the fastest improvement curve in this entire season. One to two: the system engages but fades under time, and two honest weeks usually doubles it. Three or more: your braking is wired, and your progression is slower descents and harder variations. Whatever you scored, notice what the test proved: the limiting factor was never the size of the engine. It was the quality of the brakes, and brakes are pure nervous system, the most trainable tissue you own. Retest in thirty days, same floor, same honest count, and put both numbers in the comments. And one prediction to hold onto: your second test will not just beat your first, it will feel different. The stutters smooth out first, then the time stretches. When a descent pours instead of dripping, you are watching your nervous system rewrite itself in real time. Bring a metronome mindset to the retest: count the seconds out loud, slowly, because silent counting always cheats toward fast.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "ZERO: FASTEST CURVE HERE",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "ren_pushup_bottom.webp"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "YOUR NEGATIVE",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of honest ten-second descents and your brakes will tell a different story. Slow down to get strong. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "SLOW DOWN TO GET STRONG",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "SEE YOU AT THE RETEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 7,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

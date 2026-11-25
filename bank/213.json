@@ -1,0 +1,451 @@
+{
+ "badge": "EP 213 - NEGATIVES DONE WRONG",
+ "category": "isometrics",
+ "checklist": [
+  "THE TEST",
+  "THE NUMBER",
+  "THE BRAKES",
+  "THE RIGHT WAY"
+ ],
+ "description": "Chin over the bar, then lower for ten full seconds. The pull-up negative is the purest braking test there is. Here is the nerve braking system behind it, the mistakes that turn it into a drop, and the thirty-day fix.",
+ "hashtags": [
+  "pull-up negatives",
+  "slow negatives",
+  "eccentric strength",
+  "nerve braking",
+  "first pull-up",
+  "calisthenics"
+ ],
+ "id": "213",
+ "scenes": [
+  {
+   "beats": [
+    {
+     "at": 2,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "JUST A BAR"
+    },
+    {
+     "at": 7,
+     "kind": "chip",
+     "pos": "br",
+     "text": "START AT THE TOP"
+    },
+    {
+     "at": 12,
+     "kind": "fact",
+     "lines": [
+      "Falling halfway is still data.",
+      "Note exactly where it happens."
+     ],
+     "pos": "br",
+     "title": "THE DROP POINT"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "REMEMBER THE DROP POINT"
+    },
+    {
+     "at": 23,
+     "kind": "stat",
+     "label": "THE FULL LOWER",
+     "pos": "br",
+     "text": "10 SEC"
+    }
+   ],
+   "check": 0,
+   "cycle": 5.0,
+   "music": "dark",
+   "narration": "Get to the bar. | Jump or step up. | Chin over the bar. | Grip it hard. | This is your start. | Now lower yourself. | Take TEN full seconds. | Count out loud. | One. Two. Three. | Elbows opening slowly. | Four. Five. Six. | No free-fall. | Seven. Eight. Nine. | Arms straight at ten. | Now be honest. | Was it one smooth line? | Or did you DROP | somewhere in the middle? | Everyone has a drop point. | A place the brakes quit. | Remember exactly where. | We retest in thirty days. | By the end, you'll see | what that point means | and how to erase it. | Grip the bar harder | than feels necessary. | The chain starts there.",
+   "poses": [
+    "ren_pullup_top.webp",
+    "ren_pullup_mid.webp",
+    "ren_hang_side_relaxed.webp"
+   ],
+   "section": "THE TEST",
+   "type": "anim"
+  },
+  {
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "A DROP = A MAP PIN"
+    },
+    {
+     "at": 9,
+     "kind": "chip",
+     "pos": "br",
+     "text": "SMOOTH 10 = BRAKES WIRED"
+    },
+    {
+     "at": 15,
+     "kind": "stat",
+     "label": "ELITE BRAKING TERRITORY",
+     "pos": "br",
+     "text": "15 SEC"
+    }
+   ],
+   "big": "10 SEC",
+   "card": "bignum",
+   "check": 1,
+   "label": "ONE LOWER, TEN SECONDS, NO DROPS",
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Here is the line. Ten smooth seconds from chin-over-bar to straight arms is what trained braking looks like at full bodyweight. If you dropped in the first half, your brakes currently work at partial loads only, which is the normal starting point for almost everyone. A full ten with shaking means the system works and needs polish. And if you can stretch the lower to fifteen seconds without a single drop, your braking is genuinely elite, stronger relative to your weight than most lifters will ever own. Keep your drop point in mind, the exact elbow angle where control ended. At the end I will tell you how we erase it. A word about fairness: this test scales with your bodyweight, because your body is the load. A heavier beginner is braking more absolute weight and will usually score lower through no fault of his wiring. Compare yourself to your own retest, never to someone else's number.",
+   "section": "THE NUMBER",
+   "sub": "drops at halfway: partial brakes - smooth 10: wired",
+   "type": "card"
+  },
+  {
+   "asset": "forearm_anatomy_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GRIP IS THE FIRST BRAKE"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 8,
+     "kind": "swap"
+    },
+    {
+     "at": 13,
+     "kind": "fact",
+     "lines": [
+      "If the hands open, the back",
+      "never gets to brake at all."
+     ],
+     "pos": "br",
+     "title": "THE FIRST LINK"
+    },
+    {
+     "at": 19,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THEN LATS, THEN ARMS"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "BRAKING IS A CHAIN"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Here is the braking chain, link by link. A pull-up negative is not one muscle lowering you. It is your grip holding the bar, your forearms feeding tension upward, your lats and upper back controlling the shoulder, and your arms metering the elbow open, all firing in sequence while they lengthen. Braking force is the highest force your body produces, which is why a slow negative can train you at loads ABOVE what you can pull up. But the chain has a rule: it is graded by its weakest link. For most people that link is the grip, quietly opening while the back still has plenty to give. Train the chain in order and the whole negative transforms. The chain also explains a common frustration: people whose backs are strong enough but whose negatives still collapse. The back was never the failing link. The chain broke upstream, at the hands, and the back got the blame because it is the biggest link.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "nerve_pathway_plate.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "STRONGER THAN YOUR ENGINE"
+    },
+    {
+     "at": 9,
+     "items": [
+      [
+       "PULLING UP",
+       100,
+       "red"
+      ],
+      [
+       "LOWERING DOWN",
+       140,
+       "cyan"
+      ]
+     ],
+     "kind": "bars",
+     "pos": "br",
+     "title": "FORCE: UP VS DOWN"
+    },
+    {
+     "asset": "ren_pullup_mid.webp",
+     "at": 15,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Negatives build the pull-up",
+      "from above your current max."
+     ],
+     "pos": "br",
+     "title": "TRAINING FROM THE FUTURE"
+    },
+    {
+     "at": 26,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE CLASSIC FIRST PULL-UP TOOL"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "Now compare the directions, because this is the entire strategy. Pulling up, you are limited by your concentric strength, the weakest of your force abilities. Lowering down, your eccentric braking force runs up to forty percent higher. That gap is a gift: it means a slow negative lets your nerves and tendons practice at loads your pull-up cannot reach yet. This is why the slow negative has been the classic first-pull-up tool for generations. You rehearse the exact movement, at higher-than-max tension, with your braking system doing the teaching. Every smooth lower deposits strength in the bank, and one day the account is full enough to pull up from the bottom. The brakes build the engine. There is a tendon dividend here as well. Slow eccentrics are the best-studied loading pattern for tendon remodeling, which means your negatives are quietly upgrading the cables of your elbows and shoulders while your brakes learn. Strength and armor in the same seconds.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "THE MIDDLE IS THE EXAM"
+    },
+    {
+     "asset": "ren_pullup_mid.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Mid-range is where leverage",
+      "and length gang up on you."
+     ],
+     "pos": "br",
+     "title": "WHY THERE?"
+    },
+    {
+     "at": 20,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "LINGER AT THE DROP POINT"
+    },
+    {
+     "at": 25,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "EXPOSURE ERASES IT"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Why does the drop happen in the middle? Because mid-range is where the exam gets hard: your elbows are half open, the lats are stretched long, and leverage is at its most honest. Near the top you are fresh and compact. Near the bottom the arms are nearly straight and the load eases. The middle is where braking force must peak, and peaks are where untrained systems quit. The fix is targeted exposure. When you find your drop point, do not just note it, train it: pause for two seconds exactly there during your negatives, turning your weakest angle into your most practiced one. Within weeks, the drop point migrates downward, then disappears, and the lower becomes one smooth line. Your drop point also moves with fatigue and even with time of day, so test under similar conditions each time. A morning drop point and an evening drop point are cousins, not twins. Consistency of conditions is what makes the migration meaningful.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "YOUR WHOLE LOAD IS LIGHT"
+    },
+    {
+     "at": 9,
+     "kind": "stat",
+     "label": "NEGATIVE PRACTICE PER WEEK",
+     "pos": "br",
+     "text": "MORE"
+    },
+    {
+     "asset": "ren_pullup_top.webp",
+     "at": 14,
+     "kind": "swap"
+    },
+    {
+     "at": 20,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "BRAKES LOVE FREQUENCY"
+    },
+    {
+     "at": 25,
+     "kind": "chip",
+     "pos": "br",
+     "text": "THE SKINNY FAST TRACK"
+    }
+   ],
+   "check": 2,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Your advantage on the bar is total. A negative loads your braking system with your entire bodyweight, and your bodyweight is the lightest full load in the gym. The heavy guy's negatives are a near-maximal event he can only survive a few times a week. Yours are hard but recoverable, which means you can practice them almost daily, and braking is a skill that grows with practice frequency more than with load. This is the skinny fast track to a first pull-up, and it is not close: more smooth lowers per week, each one depositing strength above your current max. While the heavy beginner is still resting from Monday, you have banked three more sessions of brakes. And when the first full pull-up finally arrives, notice what it feels like: not like a new strength appeared, but like a door unlocked. It was the brakes' account reaching the required balance. Almost everyone who earns a first pull-up this way says the same thing.",
+   "section": "THE BRAKES",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "check": 3,
+   "exercise": "PULL-UP NEGATIVES",
+   "music": "drive",
+   "narration": "Now we brake together. Three rounds. Jump to the top, then lower for a full ten seconds, pausing two seconds at your drop point. Smooth is the whole game. If you free-fall, restart the rep. Go.",
+   "rest": 20,
+   "rounds": 3,
+   "section": "THE RIGHT WAY",
+   "type": "timer",
+   "work": 40
+  },
+  {
+   "asset": "ren_pullup_mid.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "FREE-FALL SECOND HALF"
+    },
+    {
+     "at": 8,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "SWINGING FOR MOMENTUM"
+    },
+    {
+     "asset": "ren_grip_closeup.webp",
+     "at": 13,
+     "kind": "swap"
+    },
+    {
+     "at": 18,
+     "kind": "mark",
+     "ok": false,
+     "pos": "tr",
+     "text": "IGNORING THE GRIP LINK"
+    },
+    {
+     "at": 23,
+     "kind": "mark",
+     "ok": true,
+     "pos": "br",
+     "text": "PAUSE AT THE DROP POINT"
+    },
+    {
+     "at": 28,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "TIMED, EVERY REP"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "dark",
+   "narration": "Now the wrong way versus the right way. Wrong way one: free-falling the second half, which deletes the exact range where your pull-up will one day be won. Wrong way two: swinging and kicking, borrowing momentum that your brakes then never learn to replace. Wrong way three: blaming your back while your grip quietly opens first, misdiagnosing the weakest link in the chain. The right way is timed and targeted: a genuine ten-second count on every rep, a two-second pause parked exactly on your drop point, and grip work on the side if your hands are the traitors. Negatives done this way stop being a descent and become the most productive strength work in your week. If no bar is available on a given day, the doorframe row negative from earlier this season is your understudy: same chain, friendlier angle. Braking practice should never be cancelled for lack of a bar. It should just change altitude.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "ren_pullup_top.webp",
+   "beats": [
+    {
+     "at": 3,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "A DROP POINT IS A TARGET"
+    },
+    {
+     "asset": "ren_pullup_mid.webp",
+     "at": 9,
+     "kind": "swap"
+    },
+    {
+     "at": 14,
+     "kind": "stat",
+     "label": "THEN WE RETEST",
+     "pos": "br",
+     "text": "30 DAYS"
+    },
+    {
+     "at": 20,
+     "kind": "fact",
+     "lines": [
+      "Drops early: partial brakes.",
+      "Smooth 10: the engine is coming."
+     ],
+     "pos": "br",
+     "title": "YOUR VERDICT"
+    },
+    {
+     "at": 26,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "lead_pause": 1.2,
+   "music": "calm",
+   "narration": "So, your verdict. If you dropped in the first half, your brakes are partial, and that is not a verdict on your potential, it is a map pin showing exactly where training starts. Expect the drop point to migrate within two to three weeks of honest negatives. If you made ten seconds with shaking and one small drop, you are close, and drop-point pauses are your prescription. And if your lower was one smooth ten-second line, your braking system is stronger than your pull-up, which means the engine is coming and the bar should be nervous. Whatever your drop point was, describe it in the comments with your seconds. In thirty days we lower again, and we will see how far the pin has moved. Track the drop point in writing, with the date. Three data points in, you will see the migration with your own eyes, and few graphs in training are as motivating as watching a weakness physically move down the rep and out of existence.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  },
+  {
+   "asset": "ren_hang_side_active.webp",
+   "beats": [
+    {
+     "at": 1,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "RETEST IN 30 DAYS"
+    },
+    {
+     "at": 4,
+     "kind": "stat",
+     "label": "SAME BAR, SMOOTH LINE",
+     "pos": "br",
+     "text": "DAY 30"
+    },
+    {
+     "at": 7,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "COMMENT YOUR NUMBER"
+    }
+   ],
+   "check": 3,
+   "music": "calm",
+   "narration": "Thirty days of timed lowers and the drop that used to end your negative will be just another inch you own. Same bar, same body, completely different brakes. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+   "section": "THE RIGHT WAY",
+   "type": "art"
+  }
+ ],
+ "tags": [
+  "pull-up negatives",
+  "slow negatives",
+  "eccentric training",
+  "nerve braking",
+  "first pull-up",
+  "negative reps",
+  "skinny guy pull-up"
+ ],
+ "thumb": {
+  "accent": "violet",
+  "asset": "ren_pullup_top.webp",
+  "big": "10 SEC",
+  "hook": "BRAKE DON'T DROP"
+ },
+ "title": "Stop Doing slow negatives Wrong: Train Your nerve braking Instead",
+ "v5": true
+}

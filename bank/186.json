@@ -1,0 +1,458 @@
+{
+  "id": "186",
+  "v5": true,
+  "title": "Your Intent Speed Test Reveals the Truth About Your fast nerve firing",
+  "description": "Twenty seconds, every rep attempted at maximum speed. The reps you produce measure something muscle size cannot fake: how fast your nerves fire. Here is the science of intent, why trying to move fast builds strength even when the load moves slow, and how to train it.",
+  "tags": [
+    "explosive push-ups",
+    "intent training",
+    "rate of force",
+    "fast twitch",
+    "speed test",
+    "plyometric intent",
+    "nerve firing rate"
+  ],
+  "hashtags": [
+    "explosive intent",
+    "speed training",
+    "fast twitch",
+    "push-up test",
+    "rate coding",
+    "isometrics"
+  ],
+  "category": "isometrics",
+  "badge": "EP 186 - THE INTENT SPEED TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE FIRING",
+    "YOUR SPEED"
+  ],
+  "thumb": {
+    "asset": "ren_punch.webp",
+    "big": "20 SEC",
+    "hook": "EVERY REP FULL SEND",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Push-up position. | Clock set for twenty. | Here is the rule: | every single rep | attempted at MAXIMUM speed. | Not fast-ish. Maximum. | Like the floor insulted you. | Press the ground away | as hard as you can. | The reps will slow. | That is expected. | The intent must not. | Count every full rep | before the clock dies. | Chest down, arms straight. | No sagging, no half reps. | That count | is your FIRING score. | Keep it safe. | At the | end of this video | I will tell you | what it reveals | about your nervous system.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "MAXIMUM INTENT, EVERY REP",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "chip",
+          "text": "REPS SLOW - INTENT DOESN'T",
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "stat",
+          "text": "COUNT",
+          "label": "FULL REPS IN 20 SEC",
+          "pos": "tr"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "INTENT IS THE TEST",
+          "lines": [
+            "The load is your body.",
+            "The variable is your signal speed."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "15 REPS",
+      "label": "OF FULL-INTENT PUSH-UPS IN 20 SECONDS",
+      "sub": "under 9: the fast signal is asleep - 18 plus: elite firing speed",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Fifteen full-intent reps in twenty seconds means your nervous system can summon force at speed, repeatedly. Nine to fifteen is the normal middle: the fast fibres exist, but they arrive late to each rep and leave early. Under nine, assuming your normal push-ups are decent, the issue is not strength and it is not endurance. It is firing speed. Your muscles are being ordered at conversational volume when the task demands a shout. The shout is trainable, and it is trained exactly the way you just tested: maximum intent, short sets, full recovery.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "ORDERED AT A WHISPER",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "chip",
+          "text": "9-15: THE NORMAL MIDDLE",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "18 PLUS",
+          "label": "ELITE FIRING SPEED",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE FIRING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the physiology that makes intent real and not motivational poster talk. Force is produced by motor units, and the speed of force is produced by how fast those units fire, a property called RATE CODING. A unit firing slowly contributes a ripple of force. The same unit firing at maximum frequency contributes a fused, powerful contraction, and your biggest, strongest units only join when the firing command is aggressive. Slow, comfortable reps never send that command, which is why people can train for years and leave their fastest fibres essentially unemployed. Intent is the recruitment poster for those fibres. When you genuinely try to move at maximum speed, even against a load too heavy to move fast, the nervous system practises its highest gear, and the highest gear is where explosive strength lives.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RATE CODING: FIRING SPEED = FORCE SPEED",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "THE HIGHEST GEAR",
+          "lines": [
+            "Big units join only on aggressive orders.",
+            "Comfortable reps never send them."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_punch.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "INTENT RECRUITS THE FAST FIBRES",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_punch.webp",
+      "section": "THE FIRING",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The most useful finding in this whole area is almost unfair: the intent matters more than the actual velocity. In studies where people train with heavy loads but maximum intent, trying to move the bar fast even though it crawls, they gain explosive strength nearly as well as people training light and fast. Your body is the perfect laboratory for this. A push-up at your weight will never move like a punch, but the command you send can be identical. This is why intent work belongs in a skinny guy's programme ahead of almost everything: you cannot yet add plates to the bar of your body, but you can upgrade the signal driving the body you have, starting with the very next rep.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "INTENT BEATS ACTUAL SPEED",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "EXPLOSIVE GAINS FROM",
+          "items": [
+            [
+              "LIGHT + FAST",
+              85,
+              "cyan"
+            ],
+            [
+              "HEAVY + MAX INTENT",
+              80,
+              "cyan"
+            ],
+            [
+              "HEAVY + CASUAL",
+              35,
+              "red"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "UPGRADE THE SIGNAL",
+          "lines": [
+            "The load stays your body.",
+            "The command becomes elite."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_jump_peak.webp",
+      "section": "THE FIRING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Intent also explains a puzzle in jumping and sprinting: why two athletes with identical strength numbers can leave the ground at completely different speeds. Strength is the size of the engine's total output. Firing rate is how much of that output arrives in the first two hundred milliseconds, which is all the time a foot spends on the ground or a hand on the floor. Everything after that window is decoration. This is why the twenty-second test predicts explosive ability better than a max-rep test: it samples the window that sport actually uses. Train the window and the whole athlete changes, not just the test.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE 200ms WINDOW",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "fact",
+          "title": "OUTPUT THAT ARRIVES LATE",
+          "lines": [
+            "Doesn't count in sport.",
+            "The window is the skill."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "ren_sprint.webp"
+        },
+        {
+          "at": 21,
+          "kind": "mark",
+          "text": "TRAIN THE WINDOW",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_sprint.webp",
+      "section": "THE FIRING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Watch intent leak into everything once you train it. Sprinting is intent repeated at ground contact. Jumping is one maximal command. Even the dead hang test from season one has an intent component: the speed at which your grip reaches full tension decides whether the first slip happens. Athletes call the quality explosiveness and treat it like a gift. It is mostly a habit of command, practised or neglected. Neglect looks like this: every rep of every exercise performed at the same comfortable tempo, the nervous system never asked for its top gear, the top gear quietly decommissioned. You are about to recommission yours, twenty seconds at a time.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "SPRINTING IS INTENT, REPEATED",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "fact",
+          "title": "A HABIT OF COMMAND",
+          "lines": [
+            "Same tempo forever decommissions speed.",
+            "Short max-intent sets rebuild it."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "RECOMMISSION THE TOP GEAR",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "YOUR SPEED",
+      "check": 3,
+      "music": "calm",
+      "narration": "Now the skinny advantage, | and it is physics. | Explosiveness is force | divided by mass. | Your mass is low. | Every unit of force | you produce accelerates | a lighter body further. | The heavy guy must build | enormous force | to move his mass fast. | You need only wake up | the force you own. | Your ceiling for speed | relative to your size | is higher than his. | Gymnasts, climbers, fighters | in the light classes: | all built on this ratio. | Intent training | is how | you cash it in.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "FORCE DIVIDED BY LOW MASS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "SPEED PER UNIT OF FORCE",
+          "items": [
+            [
+              "HEAVY FRAME",
+              45,
+              "red"
+            ],
+            [
+              "YOUR FRAME",
+              90,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "chip",
+          "text": "WAKE THE FORCE YOU OWN",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_top.webp",
+      "exercise": "INTENT PUSH-UPS",
+      "work": 20,
+      "rest": 40,
+      "rounds": 4,
+      "section": "YOUR SPEED",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Twenty seconds of maximum-intent push-ups, then forty seconds of full rest. Four rounds. The rest is sacred: tired intent is just cardio. Go."
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "YOUR SPEED",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: intent work twice, separated by at least two days, because maximum firing is neurally expensive even when the muscles feel fine. Each session is short: six to eight sets of twenty seconds, full recoveries, every rep attacked. Add intent to one normal exercise per workout: the first rep of every push-up set this month is attempted at maximum speed, whatever the set's tempo. Three mistakes kill the adaptation. Grinding long sets until the reps crawl, which trains the slow gear under a fast name. Skipping the rest periods, which turns speed work into conditioning. And holding back at ninety percent to survive the set, which teaches the nerves that ninety is the ceiling. If maximum-intent work brings sharp joint pain, or wrist or shoulder pain that lingers beyond the session, see a professional if it persists. Speed should feel violent in effort and clean in the joints.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "FULL RECOVERY IS SACRED",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "90% TEACHES A 90% CEILING",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "TWICE A WEEK IS ENOUGH",
+          "pos": "tr"
+        },
+        {
+          "at": 29,
+          "kind": "fact",
+          "title": "THE WEEK",
+          "lines": [
+            "6-8 sets of 20 seconds.",
+            "First rep of sets at max intent.",
+            "Short, sharp, rested."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_punch.webp",
+      "section": "YOUR SPEED",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number. Under nine reps with decent normal push-ups: your firing speed is the bottleneck, and you own one of the fastest-fixing scores in this season. Nine to fifteen: the fast system works and fades, and intent sets will sharpen it within the month. Eighteen or more: your nerves fire at elite speed for your size, and your progression is harder variations at the same intent. Write the count down, and write beside it how the last reps felt, because the feeling changes before the count does: the reps start jumping off the floor instead of grinding. Retest in thirty days, same twenty seconds, same full standard, and put both numbers in the comments. And notice the tiebreaker for the comments: if two people post the same count, the one whose reps stayed tall and violent to the final second owns the better system. Quality at the end is the signature of real firing speed. Same floor, same standard, no excuses.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNDER 9: FIRING IS THE BOTTLENECK",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "swap",
+          "asset": "ren_pushup_top.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "YOUR SPEED",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of attacking every rep and that clock will meet a different nervous system. Send every rep like you mean it. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "EVERY REP, FULL SEND",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "SEE YOU AT THE RETEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

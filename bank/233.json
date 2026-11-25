@@ -1,0 +1,397 @@
+{
+  "id": "233",
+  "v5": true,
+  "title": "Your Intent Speed Test Reveals Your Hidden Strength",
+  "description": "Twenty seconds. Push the floor away so hard your hands leave it, as many times as you can. Your count measures fast nerve firing - the rate your brain can deliver force - and rate, not size, is what makes a strike, a jump and a sprint look explosive.",
+  "tags": [
+    "intent speed test",
+    "explosive push-ups",
+    "rate of force development",
+    "fast twitch activation",
+    "plyometric push-up",
+    "nerve firing rate",
+    "explosive intent"
+  ],
+  "hashtags": [
+    "intent test",
+    "explosive push-ups",
+    "hands leave the floor",
+    "fast firing",
+    "rate of force",
+    "explosive power"
+  ],
+  "category": "isometrics",
+  "badge": "EP 233 - THE INTENT SPEED TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE FIRING",
+    "YOUR SPEED"
+  ],
+  "thumb": {
+    "asset": "ren_punch.webp",
+    "big": "20 SEC",
+    "hook": "PUSH TO FLY",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 2.0,
+      "music": "dark",
+      "narration": "Top of a push-up. | Hands under shoulders. | Body straight and tight. | Here is the mission. | Push the floor away. | As hard as possible. | As fast as possible. | Your hands must fly. | Off the floor completely. | That is one rep. | Land soft, reload, explode. | Twenty seconds only. | Count the flying reps. | Slow reps count zero. | Grinding reps count zero. | Only explosions count. | Three. | Two. | One. | Go. | Remember your number. | We grade it soon.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "HANDS MUST LEAVE THE FLOOR",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "ONLY EXPLOSIONS COUNT",
+          "lines": [
+            "Slow reps score zero."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "chip",
+          "text": "20 SECONDS ONLY",
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "8 REPS",
+      "label": "THE LINE FOR FAST FIRING",
+      "sub": "hands never leave: firing asleep - 1 to 7: waking - 8 plus: fast nerves",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Eight flying reps in twenty seconds is where fast nerves announce themselves. If your hands never left the floor, your firing is asleep - and notice, this is not a strength verdict. You can probably do thirty normal push-ups. What you cannot yet do is deliver your force fast enough to beat your own bodyweight's gravity, and delivery speed is a nerve skill, not a muscle size. Between one and seven, the fast system wakes for a few reps, then the signal slows and the reps turn to grinds. Eight or more, with the last rep flying as high as the first, means your brain can dump force at full speed on repeat. That is the raw material of every explosive athlete.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "NO FLIGHT = DELIVERY PROBLEM",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "8+ REPS",
+          "label": "FAST NERVES TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "SPEED IS A NERVE SKILL",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Force has a speed limit, and the limit is set by your nerves, not your muscles. When you ask for maximum power, your brain fires motor units in volleys, and how quickly those volleys stack up is called RATE CODING. Slow rate coding means your strength arrives like a dimmer switch - eventually bright, useless in a hurry. Fast rate coding is a floodlight: everything, now. Here is the beautiful part for a bodyweight athlete. The trigger for fast firing is not heavy weight. It is INTENT. When you genuinely try to move at maximum speed, your brain recruits its biggest, fastest motor units even against a light load. Your twenty seconds of flying push-ups were not a conditioning test. They were a direct measurement of your brain's top gear. Understand what a flying push-up really asks. In a normal rep you press your weight. In a flying rep you must accelerate your weight upward faster than gravity pulls it down, and still have force left to leave the floor. That extra slice - the acceleration slice - is pure rate coding. No amount of slow strength substitutes for it, which is why strong men regularly score zero on this test the first time they meet it.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "RATE CODING",
+          "lines": [
+            "Force has a speed limit.",
+            "Your nerves set it."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_punch.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "INTENT IS THE TRIGGER",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "TOP GEAR",
+          "label": "MEASURED IN 20 SECONDS",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE FIRING",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_punch.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Why does firing rate matter more than size in the real world? Because almost nothing you admire waits for full strength. A punch lands in a fifth of a second. A jump's push-off is a quarter of a second. A sprinter's foot touches the ground for a tenth. In windows that small, the winner is never the man with the most total force. It is the man whose force arrives first. Studies of strikers and jumpers keep showing the same pattern: the explosive ones are not always the strongest in a slow test, they are the fastest to reach their strength. Your intent test measures arrival time. And arrival time is gloriously trainable, because it lives in the signal, and signals are this channel's whole religion. The quarter-second window shows up in one more place you care about: the first step. Every sprint start, every cut past a defender, every jump for a rebound is decided before slow strength has finished arriving. Train arrival time and you are training the exact quality that makes light athletes look sudden. Sudden is not a body type. It is a firing pattern.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FORCE THAT ARRIVES LATE LOSES",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "FAST ARRIVAL",
+              91
+            ],
+            [
+              "SLOW ARRIVAL",
+              63
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "THE 0.2 SECOND RULE",
+          "lines": [
+            "A punch lands before",
+            "slow strength even arrives."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE FIRING",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now, why did your reps slow down - because they did, even if you scored well. Two systems faded during your twenty seconds. First, the signal itself: firing at maximum rate is metabolically expensive for the nerves, and the volleys spread out as the seconds pass. Second, your landing strategy changed. Early reps, you trusted the explosion. Later reps, you started protecting your wrists and face, and protection is a brake the brain applies without asking you. Both fades are trainable, and both are trained the same way: short, perfect, fully-rested bursts - never long sloppy ones. Grinding through fatigue teaches your nerves that slow is acceptable. We are building the opposite lesson. Every rep in your training from here is either explosive or it does not count. There is also a landing skill hiding in this test. Every flying rep ends with you catching your own bodyweight through your wrists, elbows and shoulders - a tiny plyometric for the whole pushing chain. Soft, quiet landings mean your brakes and your engine agree with each other. Loud, jarring landings mean the brakes are late. Listen to your landings during training; they are a free report on your nervous system, delivered ten times a set.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "WHY THE REPS SLOWED",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_punch.webp"
+        },
+        {
+          "at": 14,
+          "kind": "mark",
+          "text": "GRINDING TEACHES SLOW",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "fact",
+          "title": "THE NEW RULE",
+          "lines": [
+            "Explosive, or it does not count."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE FIRING",
+      "check": 2
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 2.0,
+      "music": "dark",
+      "narration": "Now your advantage. | Flight needs low weight. | Your body is light. | Less mass to launch. | Your hands leave sooner. | Every set, more explosions. | More explosions, more practice. | The heavy guy grinds. | You get to fly. | Flight is the teacher. | Guard it jealously. | Stay light, fire fast.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LIGHT BODIES FLY SOONER",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "fact",
+          "title": "MORE FLIGHT = MORE PRACTICE",
+          "lines": [
+            "Practice is the whole game."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "STAY LIGHT, FIRE FAST",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE FIRING",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_bottom.webp",
+      "exercise": "INTENT PUSHES",
+      "work": 20,
+      "rest": 40,
+      "rounds": 4,
+      "music": "drive",
+      "narration": "We train top gear together. Four rounds of twenty seconds, with long rests - the rest is where the speed lives. Every rep must fly. The moment your hands stop leaving the floor, stop the round, even if the clock is still running.",
+      "section": "YOUR SPEED",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week is built on one law: speed work is never tired work. Three sessions. Each one: five sets of three flying reps, resting a full minute between sets, and the session ends the moment a rep fails to fly - even if that is set two. Add one intent rule to your normal training: on the first rep of every push-up set this week, push with total explosive intent, even if you do not leave the floor. Intent on slow reps still trains the fast wiring; the brain cannot tell the difference between trying to fly and flying. What it can tell is the difference between trying and coasting. Coast and you are practicing slow. From today, coasting is the only real mistake left in your push-ups. Protect the quality ruthlessly. Chalk your hands or use a grippy floor so a slip never teaches your brain to hold back. Keep your wrists warm and your volume low. And film one set a week from the side: on video you can see the exact rep where flight dies, and that rep - not the first, not the average - is your true current level. Train one rep past it, never ten.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "SPEED WORK IS NEVER TIRED WORK",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "GRINDING OUT SLOW REPS",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "ren_punch.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "INTENT ON EVERY FIRST REP",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "5 SETS OF 3, 3 DAYS",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR SPEED",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR REPS",
+      "label": "WHAT YOUR INTENT COUNT MEANS",
+      "sub": "no flight: asleep - 1 to 7: waking - 8 plus: fast",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your count mean? No flight at all means your fast firing is asleep - and that is the best news on this list, because asleep systems improve faster than any muscle grows. One to seven means you are waking: the top gear exists, it just runs out of road quickly, and short perfect bursts will lengthen it. Eight or more flying reps means your rate coding is a genuine weapon. Your strength arrives on time, and that timing will show up in your punch, your jump and your first step before it shows up anywhere else. Retest in thirty days, same twenty seconds, same strict rule - if it does not fly, it does not count. Comment your reps below.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "ASLEEP SYSTEMS IMPROVE FASTEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT YOUR REPS",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR SPEED",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_punch.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Strength that arrives late is just a rumor. Today you measured how fast yours shows up, and speed of signal is the fastest thing you will ever train. Thirty days of flying, then we count again. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST YOUR REPS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR SPEED",
+      "check": 3
+    }
+  ]
+}

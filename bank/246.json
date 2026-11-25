@@ -1,0 +1,395 @@
+{
+  "id": "246",
+  "v5": true,
+  "title": "Your Grip Fade Test Reveals the Truth About Your grip stamina",
+  "description": "One hand. One heavy bag. The truth about grip stamina is not in your best squeeze - it is in the second your fingers start to open, and in the gap between your two hands. Here is the fade test that exposes both.",
+  "tags": [
+    "grip fade test",
+    "one hand hold",
+    "grip stamina",
+    "hand endurance",
+    "grip asymmetry",
+    "bag hold test",
+    "forearm stamina"
+  ],
+  "hashtags": [
+    "grip fade test",
+    "one hand fades first",
+    "grip stamina",
+    "bag hold",
+    "hand gap",
+    "endurance truth"
+  ],
+  "category": "grip",
+  "badge": "EP 246 - THE ONE-HAND FADE TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE STAMINA",
+    "YOUR FADE"
+  ],
+  "thumb": {
+    "asset": "ren_grip_squeeze.webp",
+    "big": "40 SEC",
+    "hook": "ONE HAND FADES FIRST",
+    "accent": "cyan"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Fill a bag with books or bottles until it is honestly heavy - the kind of heavy that makes you respect it. Stand tall, take the handle in one hand, arm straight at your side, and start your clock. Do not watch for the drop. Watch for the fade: the moment your fingers begin to open on their own, the handle starts to slide, and you have to re-grip to survive. That moment is your FADE POINT, and it ends the test - note the seconds. Rest two minutes, then do the other hand with the same bag. You now have two numbers, and the smaller one is your truth. Keep both. At the end I will tell you what the gap between your hands has been hiding from you.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "WATCH FOR THE FADE, NOT THE DROP",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "THE FADE POINT",
+          "lines": [
+            "Fingers opening on their own",
+            "ends the test."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "REMEMBER BOTH NUMBERS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "40 SEC",
+      "label": "THE LINE FOR ONE-HAND STAMINA",
+      "sub": "under 20: stamina is local and low - 20 to 40: building - over 60: all-day hand",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Forty seconds to the fade point, one-handed, at a real load, is where grip stamina becomes trustworthy. Under twenty seconds, your stamina is not just low - it is local, and the truth of this episode is that there is no other kind. Each hand owns its own plumbing, its own tendons, its own recovery. Between twenty and forty, the fade arrives later each week you train it, because this system adapts like a sprinter learning to be a miler. Over sixty seconds per hand, your grip belongs to the all-day class: the hands of men who carry, climb and work from morning to evening without their fingers filing for divorce. And if your two hands disagreed by more than a few seconds, stay for the science - that gap is the most useful number you took today.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 20 = LOCAL AND LOW",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "60+ SEC",
+          "label": "ALL-DAY HAND TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "STAMINA IS PER-HAND",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "forearm_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. Grip stamina is not stored in some central tank that both hands draw from. It lives in each forearm separately: in the local blood vessels that must feed flexor muscles while those muscles squeeze the vessels shut, in the local tendons transmitting force without rest, and in the local nerves that must keep ordering contractions as the chemistry degrades. When your fingers began to open at the fade point, you were not watching weakness. You were watching motor units dropping out one by one as their environment became uninhabitable - the muscle's own version of a city losing power block by block. Stamina training is civil engineering for that city: better supply lines, faster cleanup crews, and a power grid that browns out gracefully instead of failing all at once.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "NO CENTRAL TANK",
+          "lines": [
+            "Each hand owns its plumbing,",
+            "tendons and nerves."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_grip_closeup.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "THE CITY LOSES BLOCKS",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "FADE = DROPOUT",
+          "label": "UNIT BY UNIT",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE STAMINA",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_closeup.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now the gap between your hands, because it tells a story your two-handed life conceals. Most right-handed people carry a stronger, longer-lasting right grip - daily life is a training program your dominant hand attends and your other hand skips. A small gap, around ten percent, is normal wear. A large gap is a liability with a schedule: in any real task - a carry, a climb, a fall caught by one hand - the weak hand is the deadline, and deadlines do not negotiate. What surprises people is that the gap is not talent. It is attendance. The non-dominant hand has simply done fewer hard grips in its life, which means it has the most untrained, fastest-improving stamina you own. Your fade test did not find a bad hand. It found an under-schooled one, and school is cheap. A small experiment proves the locality. Train only your left hand's holds for two weeks and retest both. The right hand will not have improved - not by a second - because stamina does not transfer across the body the way knowledge does. Each hand keeps its own books. That is why this season keeps grading your weaker side: it is not cruelty, it is accounting.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE GAP IS ATTENDANCE, NOT TALENT",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "DOMINANT HAND",
+              100
+            ],
+            [
+              "OTHER HAND",
+              78
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 12,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "THE WEAK HAND IS THE DEADLINE",
+          "lines": [
+            "Real tasks grade",
+            "your worse side."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE STAMINA",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_dead_hang.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Understand the fade point itself, because it is a kinder and smarter limit than the drop. When you hang or carry to total failure, the last seconds are chaos - skin tearing, joints complaining, form gone. The fade point arrives earlier and cleaner: it is the moment sustainable force ends and borrowing begins. Everything after the fade is debt - re-grips, posture tricks, momentum - and debt is where injuries and bad habits live. Training to the fade and stopping is how the professionals in grip sports build volume without wreckage: they harvest the honest seconds and leave the debt unspent. Your test today stopped at the exact moment the honest seconds ran out. That is not quitting early. That is reading the gauge the way engineers do - at the redline, not at the explosion.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE FADE IS THE REDLINE",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "ren_grip_squeeze.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "PAST THE FADE = DEBT",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "HARVEST HONEST SECONDS",
+          "lines": [
+            "Leave the debt unspent."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE STAMINA",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The skinny advantage in stamina work is density. One-hand holds are light on everything except the target: your shoulder rests, your back rests, your other hand rests, so you can train fade points daily in a way that two-handed max work would never allow. A lean man at home with one heavy bag owns a complete stamina laboratory - and because his absolute loads are modest, his tendons tolerate the frequency that makes stamina grow. The heavy lifter must schedule his grip work around his deadlifts. You can do yours while waiting for pasta water. Stamina is built by attendance above all else, and your life, your loads and your recovery all conspire to give you perfect attendance. Conspire back.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "DAILY ATTENDANCE WINS",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 14,
+          "kind": "fact",
+          "title": "A LABORATORY IN ONE BAG",
+          "lines": [
+            "Light loads, daily reps,",
+            "full stamina education."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "PERFECT ATTENDANCE",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE STAMINA",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_grip_squeeze.webp",
+      "exercise": "ONE-HAND HOLDS",
+      "work": 30,
+      "rest": 15,
+      "rounds": 4,
+      "music": "drive",
+      "narration": "We school the fade together. Four rounds, alternating hands, weaker hand first. Thirty-second holds at a load you can just manage - stop each hold at the fade, even if the clock disagrees. The clock works for the fade, not the other way round.",
+      "section": "YOUR FADE",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: one-hand holds on four days, and the weaker hand runs the program. It goes first in every session, and it gets one extra round - always - until the gap closes under ten percent. The load stays identical for both hands, because giving the weak hand a lighter bag is how the gap became permanent in the first place. Two rules keep the schooling honest. Stop at the fade, never at the drop, so every rep you log is an honest second. And keep the arm straight and the shoulder down, because a bent elbow or a shrugged shoulder is just the strong parts of you volunteering to keep the weak hand weak. When both hands fade within a few seconds of each other at a load that used to fade one, your stamina has become the truth this episode promised: the same on both sides, and there when called.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "WEAKER HAND: FIRST + EXTRA ROUND",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "LIGHTER BAG FOR THE WEAK HAND",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "forearm_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "STOP AT THE FADE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "4 DAYS THIS WEEK",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR FADE",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR FADE POINT",
+      "label": "WHAT YOUR SECONDS MEAN",
+      "sub": "under 20: unschooled - 20 to 40: building - over 40: enduring",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what do your seconds mean? Under twenty to the fade, your stamina is unschooled - not weak, unschooled - and the gap between your hands tells you exactly where the school should open. Between twenty and forty, you are building a working hand: the city keeps its lights on longer each week, and the dropout, when it comes, takes fewer blocks with it. Over forty seconds per hand at a serious load, your grip stamina is a settled fact about you - the kind of fact employers, climbing partners and heavy suitcases all discover independently. Retest in thirty days, same bag, same rules, weaker hand reported first. Comment both fade points below. The gap is the story, and I read for the gap.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "UNSCHOOLED IS NOT WEAK",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT BOTH FADE POINTS",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR FADE",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_grip_squeeze.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your best squeeze is a headline. Your fade point is the biography - how long the strength stays, and whether both hands tell the same story. Thirty days of schooling, then we read the biography again. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST BOTH NUMBERS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR FADE",
+      "check": 3
+    }
+  ]
+}

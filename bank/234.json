@@ -1,0 +1,397 @@
+{
+  "id": "234",
+  "v5": true,
+  "title": "Your Iso Lunge Time Reveals Your Hidden Strength",
+  "description": "Drop into a split squat, hold the bottom, and start the clock - on each leg. Your weaker leg's time is the only number that matters, and it measures single-leg nerve drive: the system that actually runs, jumps and climbs in the real world.",
+  "tags": [
+    "isometric lunge",
+    "split squat hold",
+    "single leg strength",
+    "iso lunge test",
+    "leg nerve drive",
+    "unilateral training",
+    "weaker leg"
+  ],
+  "hashtags": [
+    "iso lunge",
+    "split squat hold",
+    "single leg test",
+    "weaker leg",
+    "leg drive",
+    "isometric legs"
+  ],
+  "category": "isometrics",
+  "badge": "EP 234 - THE ISO LUNGE TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE DRIVE",
+    "YOUR LEGS"
+  ],
+  "thumb": {
+    "asset": "ren_split_squat_bottom.webp",
+    "big": "45 SEC",
+    "hook": "ONE LEG TELLS",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_split_squat_top.webp",
+        "ren_split_squat_bottom.webp"
+      ],
+      "cycle": 4.0,
+      "music": "dark",
+      "narration": "Stand tall, feet together. | Step one leg forward. | A long, confident step. | Drop straight down. | Front thigh parallel now. | Back knee hovering low. | Torso tall, hands free. | Start your clock here. | Hold this exact position. | No bouncing, no rising. | The shake is fine. | The shake is honest. | When your form breaks, | or you stand up, | the clock stops dead. | That was leg one. | Now switch sides. | Same depth, same rules. | Your second leg's time | is your real number. | The weaker leg counts. | Remember that time.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "FRONT THIGH PARALLEL",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "fact",
+          "title": "BOTH LEGS, SAME RULES",
+          "lines": [
+            "The weaker leg is your number."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "chip",
+          "text": "THE SHAKE IS HONEST",
+          "pos": "tr"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "THE WEAKER LEG COUNTS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "THE TEST",
+      "check": 0
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "45 SEC",
+      "label": "THE LINE FOR SINGLE-LEG DRIVE",
+      "sub": "under 20: one leg is a passenger - 20 to 45: building - over 60: driven",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Forty five seconds on your weaker leg is where single-leg drive becomes a real quality. Under twenty seconds, that leg is a passenger - it comes along in two-legged movements while its partner does the driving, and it has been getting away with it for years. Between twenty and forty five, the drive is real but the stabilizers quit before the big muscles do, which is why the position starts to wobble before it feels truly heavy. Over sixty seconds, one leg can hold your whole body in the hardest position without drama. That is the strength that running, climbing and cutting sideways are actually made of, because in real life, you are almost never on two legs when it matters.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "UNDER 20 = PASSENGER LEG",
+          "ok": false,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "stat",
+          "text": "60+ SEC",
+          "label": "DRIVEN LEG TERRITORY",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "REAL LIFE IS ONE-LEGGED",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE NUMBER",
+      "check": 1
+    },
+    {
+      "type": "art",
+      "asset": "knee_anatomy_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Here is the hidden system. In a two-legged squat, your nervous system can cheat - the strong side takes fifty five, sixty percent, and the weak side hides. A split squat hold removes the hiding place. One leg must produce all the force, balance the whole body, and protect the knee, alone. That triple job is LEG NERVE DRIVE: not just how hard the quad can fire, but how fast the hip, knee and ankle stabilizers correct the thousand tiny falls you call standing still. Watch the shake in your test - that shake is your drive working, hundreds of micro-corrections per minute, each one a nerve signal arriving just in time. A quiet leg is not a calm leg. It is a leg whose corrections are so fast you cannot see them. That speed is what we are training. A detail on depth: if your front thigh cannot reach parallel yet, hold at the depth you can own with a tall torso, and note that depth. The test grades honesty, not geometry. A shallower hold you truly own will out-train a deep hold you survive by folding, and depth arrives on its own as the drive improves. Own the position first; the position will deepen itself.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "fact",
+          "title": "NO HIDING PLACE",
+          "lines": [
+            "One leg does every job.",
+            "Force, balance, protection."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_split_squat_bottom.webp"
+        },
+        {
+          "at": 14,
+          "kind": "chip",
+          "text": "THE SHAKE IS THE SYSTEM WORKING",
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "stat",
+          "text": "100s",
+          "label": "OF CORRECTIONS PER MINUTE",
+          "pos": "tr"
+        }
+      ],
+      "section": "THE DRIVE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "hip_joint_plate.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Now the asymmetry problem, because your two numbers were not equal, were they? Almost everyone's differ, and research on athletes keeps finding the same warning: the gap matters more than the average. A ten percent gap between legs is normal life. A gap past fifteen or twenty percent quietly rewrites your movement - your strong leg lands harder, cuts quicker and takes the impacts your weak leg avoids, while the weak side's knee and ankle live one bad landing away from trouble. Your body keeps its books balanced by overcharging the strong side. The iso lunge test is an audit of those books. And the fix is not complicated: the weak leg sets the training volume, and the strong leg is only allowed to match it, never exceed it, until the books balance. Here is the part nobody expects. The hold also grades your ankle and foot. A front foot that keeps rolling or a heel that wants to lift is reporting that the bottom of the chain cannot hold its end of the bargain. Drive is a full-chain product: foot, ankle, knee, hip, trunk. Your lunge time is the chain's total, and the wobble tells you which link is spending the most.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE GAP MATTERS MORE THAN THE AVERAGE",
+          "pos": "tr"
+        },
+        {
+          "at": 7,
+          "kind": "bars",
+          "items": [
+            [
+              "STRONG LEG",
+              100
+            ],
+            [
+              "WEAK LEG",
+              76
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "THE AUDIT RULE",
+          "lines": [
+            "The weak leg sets the volume.",
+            "The strong leg only matches."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE DRIVE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_split_squat_bottom.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look closer at where your hold actually failed, because the lunge keeps receipts. If your front knee kept diving inward, your hip stabilizers are the gap - the knee is just where their failure becomes visible. If your torso folded forward, your back side ran out of drive and your body went looking for a cheaper position. If the burn in the front quad ended you while the position still looked perfect, congratulations: your drive is honest and the muscle endurance is the limit, which is the simplest limit to train. Three different failures, three different fixes, one thirty-second test. This is why we hold still and measure, instead of guessing from how a squat looks at full speed.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "KNEE DIVES IN = HIP GAP",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "swap",
+          "asset": "hip_joint_plate.webp"
+        },
+        {
+          "at": 13,
+          "kind": "mark",
+          "text": "TORSO FOLDS = DRIVE GAP",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "fact",
+          "title": "RECEIPTS, NOT GUESSES",
+          "lines": [
+            "The failure names the fix."
+          ],
+          "pos": "tr"
+        }
+      ],
+      "section": "THE DRIVE",
+      "check": 2
+    },
+    {
+      "type": "art",
+      "asset": "ren_sprint.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your skinny advantage in this test is time. An iso hold is bought with bodyweight, and yours is cheap: every second costs you less absolute force than it costs a heavy man, so you can accumulate far more high-quality holding time before your form breaks. Time under drive is the training stimulus itself, which means the light guy gets more of the medicine per session. There is a second edge. Sprinting, your secret weapon as a light athlete, is single-leg strength expressed at high speed - every stride is a one-legged landing and launch. The leg you are auditing today is the leg that will sprint you past bigger men. Build its drive in stillness, then let it spend that drive at speed.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "CHEAP SECONDS, MORE MEDICINE",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "swap",
+          "asset": "ren_split_squat_top.webp"
+        },
+        {
+          "at": 14,
+          "kind": "fact",
+          "title": "SPRINTING IS THIS TEST, FAST",
+          "lines": [
+            "One leg lands. One leg launches."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "mark",
+          "text": "STILLNESS FIRST, SPEED SECOND",
+          "ok": true,
+          "pos": "tr"
+        }
+      ],
+      "section": "THE DRIVE",
+      "check": 2
+    },
+    {
+      "type": "timer",
+      "asset": "ren_split_squat_bottom.webp",
+      "exercise": "ISO LUNGE HOLD",
+      "work": 30,
+      "rest": 15,
+      "rounds": 4,
+      "music": "drive",
+      "narration": "We build drive together. Four rounds - two per leg, weaker leg first. Thirty seconds in the hole, same depth as your test. If your knee dives in, come up, reset, and start the round again.",
+      "section": "YOUR LEGS",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_split_squat_bottom.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week runs on one rule: the weaker leg is the boss. Three sessions. Each one: three holds per leg, starting with the weaker side, and the strong leg does exactly the same seconds - never more, even though it could. Depth stays honest: front thigh to parallel, torso tall, knee tracking over the toes, because a hold that drifts upward is a hold that ended early and lied about it. When the weaker leg adds five seconds, celebrate - that is the gap closing, and the gap closing is the entire point. Add one harder day where you hold ten seconds longer per leg at a slightly higher position if depth is not there yet. In a month, most people do not just add time. Their two numbers walk toward each other, and walking, running and stairs start feeling strangely even. After each session, walk around for a minute and notice your legs. Most people feel the weaker leg as strangely more awake - warmer, more present, easier to trust on the stairs. That feeling is the drive waking up in real time. Chase that feeling across the month. When both legs feel equally awake after a session, your audit numbers are about to agree with each other.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "WEAKER LEG GOES FIRST",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "mark",
+          "text": "STRONG LEG DOES EXTRA",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 13,
+          "kind": "swap",
+          "asset": "knee_anatomy_plate.webp"
+        },
+        {
+          "at": 17,
+          "kind": "mark",
+          "text": "KNEE TRACKS OVER TOES",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "chip",
+          "text": "3 HOLDS PER LEG, 3 DAYS",
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR LEGS",
+      "check": 3
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "YOUR WEAKER LEG",
+      "label": "WHAT YOUR LUNGE TIME MEANS",
+      "sub": "under 20: passenger - 20 to 45: building - over 45: driven",
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So what does your weaker leg's time mean? Under twenty seconds, that leg is a passenger, and your strong leg has been quietly paying its fare for years - expect it to be the tired, achy one. Between twenty and forty five, you are building real single-leg drive, and the gap between your legs is now your most important training number. Over forty five seconds on the weak side, your drive is balanced and honest: two legs, both working, no hidden debt. Retest in thirty days and report both numbers, not just the good one. Comment your weaker leg's time below. Everyone has a passenger leg - the comments will prove you are not the only one carrying one.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "UNTIL THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "mark",
+          "text": "REPORT BOTH NUMBERS",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "chip",
+          "text": "COMMENT YOUR WEAK LEG",
+          "pos": "tr"
+        }
+      ],
+      "section": "YOUR LEGS",
+      "check": 3
+    },
+    {
+      "type": "art",
+      "asset": "ren_split_squat_bottom.webp",
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Two legs walked into this test. One of them has been doing the other's job. Now you know which, and knowing is most of the fix. Thirty days of honest holds, then we audit again. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RETEST IN 30 DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 4,
+          "kind": "stat",
+          "text": "DAY 30",
+          "label": "THE RETEST",
+          "pos": "tr"
+        },
+        {
+          "at": 6,
+          "kind": "mark",
+          "text": "POST BOTH NUMBERS",
+          "ok": true,
+          "pos": "br"
+        }
+      ],
+      "section": "YOUR LEGS",
+      "check": 3
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "id": "189",
+  "v5": true,
+  "title": "Your Pause Push-Up Number Reveals the Truth About Your nerve control",
+  "description": "A push-up with a three-second pause at the bottom is a different exercise wearing the same name. Your paused rep count exposes how much of your strength is real nerve control and how much was borrowed momentum. Here is the truth about the bounce, and how to stop needing it.",
+  "tags": [
+    "pause push-ups",
+    "paused reps",
+    "push-up test",
+    "dead stop reps",
+    "nerve control",
+    "tempo training",
+    "push-up form"
+  ],
+  "hashtags": [
+    "pause push-ups",
+    "tempo training",
+    "push-up test",
+    "dead stop",
+    "nerve control",
+    "isometrics"
+  ],
+  "category": "isometrics",
+  "badge": "EP 189 - THE PAUSE PUSH-UP TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE CONTROL",
+    "YOUR PAUSE"
+  ],
+  "thumb": {
+    "asset": "ren_pushup_bottom.webp",
+    "big": "10 REPS",
+    "hook": "PAUSE AT THE BOTTOM",
+    "accent": "violet"
+  },
+  "scenes": [
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "narration": "Push-up position. | Lower down slowly. | Chest an inch | from the floor. | Now stop. | Full stop. | Count three seconds. | Nothing moves. | Then press up. | That is one rep. | No bounce allowed. | No elastic help. | Every rep restarts | from zero speed. | Count how many | you can do clean. | When the pause shortens | or the hips sag, | the test is over. | That number | is your CONTROL score. | Keep it safe. | At the | end of this video | I will tell you | what it exposes | about your strength.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "FULL STOP: THREE SECONDS",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "EVERY REP RESTARTS FROM ZERO",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "COUNT",
+          "label": "CLEAN PAUSED REPS",
+          "pos": "tr"
+        },
+        {
+          "at": 20,
+          "kind": "fact",
+          "title": "NO BOUNCE ALLOWED",
+          "lines": [
+            "Momentum is not invited.",
+            "Only control counts."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "10 REPS",
+      "label": "WITH A TRUE 3-SECOND PAUSE",
+      "sub": "under 5: momentum was doing the work - 15 plus: elite dead-stop control",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line, and compare it honestly with your normal push-up count, because the gap between the two numbers is the whole episode. Ten paused reps is control that owns the bottom of the push-up outright. Five to ten is the building middle. Under five, especially if your normal count is twenty or more, means a large share of your strength is borrowed: elastic recoil and momentum have been co-signing your reps for years. Borrowed strength is not fake, but it disappears exactly when you need strength most, in slow, heavy, grinding efforts where there is no bounce to borrow. The pause tells the truth, and the truth is trainable.",
+      "beats": [
+        {
+          "at": 4,
+          "kind": "mark",
+          "text": "COMPARE IT TO YOUR NORMAL COUNT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "chip",
+          "text": "5-10: THE BUILDING MIDDLE",
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "stat",
+          "text": "THE GAP",
+          "label": "IS THE WHOLE EPISODE",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "THE CONTROL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "What exactly does the pause steal from you? Two accomplices. The first is the stretch reflex: when you drop into the bottom of a push-up quickly, the stretched muscles rebound like springs, and sensors in the muscle trigger a reflexive contraction that adds free force to the press. The second is simple momentum, mass already moving up needs less force to keep moving. A three-second pause lets the reflex fully decay and the momentum fully die, so the press that follows is one hundred percent voluntary nerve drive, recruited from a dead stop in the mechanically weakest position. That is why paused reps feel disproportionately hard. You are not weaker at the bottom. You are finally alone with your actual strength there.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "THE PAUSE STEALS TWO ACCOMPLICES",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "fact",
+          "title": "REFLEX AND MOMENTUM",
+          "lines": [
+            "Both die in three seconds.",
+            "What remains is pure drive."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 16,
+          "kind": "swap",
+          "asset": "ren_pushup_bottom.webp"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "ALONE WITH YOUR REAL STRENGTH",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "section": "THE CONTROL",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The training effect of dead-stop work is specific and valuable. Starting from zero forces your nervous system to recruit fast and fully at the very beginning of the press, the exact skill that sticking points, heavy singles and real-world efforts demand. Research on pause training shows strength gains concentrated at and around the paused angle, which means paused push-ups build a floor under the weakest part of your press. It also exposes the truth about tempo: most people who add pauses discover their normal reps were twice as fast as they believed. Slow the descent, own the pause, and the press that follows becomes a skill instead of a bounce with good branding.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "RECRUIT FAST, FROM ZERO",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "WHERE PAUSE GAINS LIVE",
+          "items": [
+            [
+              "AT THE PAUSED ANGLE",
+              90,
+              "cyan"
+            ],
+            [
+              "ELSEWHERE",
+              45,
+              "gold"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "A FLOOR UNDER THE WEAK POINT",
+          "lines": [
+            "Gains concentrate where you pause.",
+            "The weakest angle gets rebuilt."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_squat_mid.webp",
+      "section": "THE CONTROL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "The pause is not a push-up trick; it is a universal audit you can run on any lift. Pause a squat at the bottom and the same two accomplices vanish, which is why paused squats expose glute and drive weaknesses that bouncing squats conceal for years. Pause a row at the chest and the back must author the rep alone. Pause a lunge at depth and the leg's relay stands revealed. Coaches call this dead-stop training and prescribe it exactly when an athlete's numbers look better than their strength. If this episode's gap shocked you, run the audit on one new lift each week. Every pause is a lie detector, and your programme improves fastest where the lies were biggest.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "A UNIVERSAL AUDIT",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "EVERY PAUSE IS A LIE DETECTOR",
+          "lines": [
+            "Squat, row, lunge: same exposure.",
+            "Train where the lies were biggest."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "swap",
+          "asset": "nerve_pathway_plate.webp"
+        },
+        {
+          "at": 23,
+          "kind": "mark",
+          "text": "AUDIT ONE LIFT A WEEK",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_mid.webp",
+      "section": "THE CONTROL",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "One technique detail decides whether the pause counts: the body must stay a plank through the entire stop. The classic cheat is invisible on a rep counter: the hips drop a centimetre during the pause, the lower back sags into a small rest, and the press becomes a two-part lift, hips first, chest second. Film yourself from the side for one set. If the line from shoulders to heels moves at all during the three seconds, the rep was a rest, not a pause. The honest version keeps glutes squeezed and ribs down for the whole stop, which is why three seconds feels like thirty. Shorten the pause to two seconds before you ever shorten the standard.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE HIPS TELL ON YOU",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "PAUSE OR REST?",
+          "lines": [
+            "Line moves = it was a rest.",
+            "Shorten the pause, never the standard."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 22,
+          "kind": "mark",
+          "text": "GLUTES ON FOR THE WHOLE STOP",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "anim",
+      "poses": [
+        "ren_pushup_top.webp",
+        "ren_pushup_mid.webp",
+        "ren_pushup_bottom.webp"
+      ],
+      "cycle": 3.0,
+      "section": "YOUR PAUSE",
+      "check": 3,
+      "music": "calm",
+      "narration": "Now the skinny advantage, | and pauses love it. | Dead-stop strength | is force from zero, | and force from zero | accelerates your mass. | Less mass, more speed | out of the hole. | The heavy guy's pause | is a strength contest | against his own weight. | Yours is a control drill | you can repeat | set after set. | Control grows from reps | of perfect practice. | You can afford | far more perfect reps. | Every other lifter | pays for this skill | in fatigue. | You pay in patience.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "FORCE FROM ZERO, LIGHT MASS",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "PERFECT REPS PER SESSION",
+          "items": [
+            [
+              "HEAVY FRAME",
+              40,
+              "red"
+            ],
+            [
+              "YOUR FRAME",
+              85,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 18,
+          "kind": "chip",
+          "text": "YOU PAY IN PATIENCE, NOT FATIGUE",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_pushup_bottom.webp",
+      "exercise": "PAUSE PUSH-UPS",
+      "work": 40,
+      "rest": 20,
+      "rounds": 3,
+      "section": "YOUR PAUSE",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Down slow, three-second dead stop, press. Forty seconds of paused reps, twenty to rest, three rounds. When the pause dies, the set is done. Go."
+    },
+    {
+      "type": "art",
+      "asset": "nerve_pathway_plate.webp",
+      "section": "YOUR PAUSE",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: paused push-ups twice, with a third optional day of single paused reps sprinkled through the day, one perfect rep at a time. In the main sessions, use sets of five paused reps, resting generously, because control work dies tired. Progress by pause length before rep count: three seconds, then five, and only then chase bigger sets. Three mistakes keep the bounce in charge. Shortening the pause as fatigue builds, which is just momentum with extra steps. Counting sagging reps, which teaches the hips to cheat on command. And testing your normal push-up max weekly to feel better, instead of trusting the paused number that is actually building the strength. If paused work brings wrist pain at the bottom or a pinching shoulder, use fists or an incline, and see a professional if it persists. Control should burn in the chest and triceps, not complain in the joints.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "PAUSE LENGTH BEFORE REP COUNT",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "mark",
+          "text": "A SHORT PAUSE IS JUST MOMENTUM",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "chip",
+          "text": "SETS OF FIVE, RESTED",
+          "pos": "tr"
+        },
+        {
+          "at": 30,
+          "kind": "fact",
+          "title": "THE WEEK",
+          "lines": [
+            "Paused sessions twice.",
+            "Singles through the day.",
+            "3 seconds, then 5."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_bottom.webp",
+      "section": "YOUR PAUSE",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your number, and say it next to your normal count. Under five paused reps: momentum has been your training partner for years, and dismissing it will feel like starting over for exactly two weeks, then like unlocking something. Five to ten: control is building, and the gap between your two counts is closing, which is the real graph to watch. Fifteen or more with true three-second stops: your dead-stop control is elite, and harder variations, feet elevated, longer pauses, are your country now. Retest in thirty days, same pause standard counted out loud, and put both numbers in the comments: paused and normal. The day they meet is the day your strength stops being borrowed. Film the retest set from the side. The camera will grade the pauses more honestly than your memory, and watching your own hips stay frozen for three full seconds is the kind of proof that keeps a programme alive.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "UNDER 5: DISMISS THE PARTNER",
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "swap",
+          "asset": "ren_pushup_mid.webp"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "COMMENT BOTH NUMBERS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_pushup_top.webp",
+      "section": "YOUR PAUSE",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of dead stops and the bottom of your push-up becomes home ground instead of a trampoline. Pause honestly, press purely. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "OWN THE BOTTOM",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "SEE YOU AT THE RETEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}

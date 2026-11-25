@@ -1,0 +1,445 @@
+{
+  "id": "178",
+  "v5": true,
+  "title": "Your Shoulder Reach Test Reveals Your Hidden Strength",
+  "description": "Reach behind your back and the distance your fingers stop from your spine is a score your shoulder cannot fake. Here is what that reach says about your shoulder tendons, why they heal slowly and surely, and the wall work that buys the range back.",
+  "tags": [
+    "shoulder mobility test",
+    "shoulder pain relief",
+    "rotator cuff healing",
+    "behind back reach",
+    "shoulder stretches",
+    "frozen shoulder help",
+    "shoulder tendon"
+  ],
+  "hashtags": [
+    "shoulder mobility",
+    "rotator cuff",
+    "shoulder pain",
+    "reach test",
+    "tendon healing",
+    "healing"
+  ],
+  "category": "healing",
+  "badge": "EP 178 - THE SHOULDER REACH TEST",
+  "checklist": [
+    "THE TEST",
+    "THE NUMBER",
+    "THE HEALING",
+    "YOUR REACH"
+  ],
+  "thumb": {
+    "asset": "ren_wall_slide.webp",
+    "big": "FULL REACH",
+    "hook": "HOW CLOSE DO YOU GET?",
+    "accent": "green"
+  },
+  "scenes": [
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "THE TEST",
+      "check": 0,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Stand up. Reach one hand up and over your shoulder, fingers walking down your back. Reach the other hand up from below, fingers climbing. Now measure the gap between your fingertips, in centimetres, honestly. That gap is your number. A free shoulder closes it or overlaps. An aching, guarded shoulder can leave a gap of twenty centimetres or more, and the size of the gap tracks the state of the tendons inside better than the ache does, because aches lie and distances do not. Test both sides and keep the worse one. At the end, I will tell you what your gap says about your shoulder tendons and how they heal.",
+      "beats": [
+        {
+          "at": 1,
+          "kind": "chip",
+          "text": "ONE HAND DOWN, ONE UP",
+          "pos": "tr"
+        },
+        {
+          "at": 8,
+          "kind": "chip",
+          "text": "MEASURE THE GAP IN CM",
+          "pos": "br"
+        },
+        {
+          "at": 14,
+          "kind": "stat",
+          "text": "THE GAP",
+          "label": "YOUR HONEST SCORE",
+          "pos": "tr"
+        },
+        {
+          "at": 21,
+          "kind": "fact",
+          "title": "ACHES LIE",
+          "lines": [
+            "Pain rises and falls daily.",
+            "Distance tells the truth."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 25,
+          "kind": "mark",
+          "text": "REMEMBER YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "card",
+      "card": "bignum",
+      "big": "0 CM",
+      "label": "FINGERTIPS MEET OR OVERLAP",
+      "sub": "gap over 15 cm: guarded, healing shoulder - under 5: nearly free",
+      "section": "THE NUMBER",
+      "check": 1,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Here is the line. Fingertips touching, a gap of zero, is a shoulder with its full internal rotation alive. Five to fifteen centimetres is the guarded middle, where most aching shoulders live. Over fifteen, the tendons and capsule have been protected for so long that protection itself became the limit. Hear this clearly: a big gap is not a torn shoulder and it is not a life sentence. In shoulders that are stiff and sore rather than injured, the gap is mostly guarding and shortened tissue, and both of those answer to patient, daily loading.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "A BIG GAP IS NOT A TEAR",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "5-15 CM: THE GUARDED MIDDLE",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "stat",
+          "text": "OVER 15 CM",
+          "label": "PROTECTION BECAME THE LIMIT",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "shoulder_anatomy_plate.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Look inside the joint. Your shoulder is a golf ball balanced on a tee, and the only thing keeping it centred is a cuff of four tendons, the ROTATOR CUFF, hugging the ball from every side. Those tendons work in a tight space, and they heal in a slow one: tendon tissue has a fraction of the blood supply of muscle, so its repair crews arrive late and leave early. When the cuff gets irritated, the whole system guards. Muscles tighten, the ball rides up, the reach behind your back shortens, and the shoulder protects itself out of its own range. The gap you measured is that protection, made visible. Healing means convincing the cuff, load by load, that the range is safe to give back.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "A BALL ON A TEE",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "fact",
+          "title": "THE CUFF",
+          "lines": [
+            "Four tendons centre the joint.",
+            "Tendons heal on a slow blood supply."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "swap",
+          "asset": "ren_wall_slide.webp"
+        },
+        {
+          "at": 24,
+          "kind": "mark",
+          "text": "THE GAP IS PROTECTION",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "The science of tendon healing is stubbornly consistent. Tendons do not heal by rest alone; they heal by load, dosed correctly. Mechanical tension is the signal that tells tendon cells to lay down new collagen, and studies of tendon rehabilitation keep landing on the same tools: slow, heavy-ish, controlled work, especially ISOMETRICS for pain and slow eccentrics for rebuilding. Too little load and the new collagen is a tangled patch. Too much, too soon, and the irritation restarts. The dose is the medicine. That is why the protocol in a minute uses wall slides and holds you can grade centimetre by centimetre, instead of stretches you yank and hope.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "LOAD IS THE SIGNAL",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "bars",
+          "title": "COLLAGEN QUALITY",
+          "items": [
+            [
+              "REST ONLY",
+              30,
+              "red"
+            ],
+            [
+              "DOSED LOAD",
+              85,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "THE DOSE IS THE MEDICINE",
+          "lines": [
+            "Isometrics calm pain.",
+            "Slow work rebuilds the tendon."
+          ],
+          "pos": "tr"
+        },
+        {
+          "at": 22,
+          "kind": "swap",
+          "asset": "shoulder_anatomy_plate.webp"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "shoulder_anatomy_plate.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "One more structure decides your reach and almost nobody mentions it: the shoulder blade. Every centimetre of behind-back reach is shared between the ball-and-socket joint and the blade gliding around your ribcage. When the blade gets stiff and lazy, the joint is forced to donate range it does not have, and the cuff pays the difference in irritation. That is why the wall slides in your programme are not really arm exercises. Sliding the hands up a wall drags the blade through its full glide, upward, around, and back, retraining the partnership. Watch for the cheat: the whole body leaning back to fake the last centimetres. Pin your ribs down and let the blade do the travelling. Shoulders that recover their blade glide recover their reach, and shoulders that skip it plateau at the same stubborn gap for months.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "chip",
+          "text": "THE BLADE SHARES THE REACH",
+          "pos": "tr"
+        },
+        {
+          "at": 12,
+          "kind": "fact",
+          "title": "THE PARTNERSHIP",
+          "lines": [
+            "Joint donates what the blade won't.",
+            "Wall slides retrain the glide."
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 21,
+          "kind": "swap",
+          "asset": "ren_wall_slide.webp"
+        },
+        {
+          "at": 27,
+          "kind": "mark",
+          "text": "RIBS DOWN, BLADE TRAVELS",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "shoulder_anatomy_plate.webp",
+      "section": "THE HEALING",
+      "check": 2,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Expect the honest timeline. Tendon collagen turns over slowly, and a guarded shoulder usually needs eight to twelve weeks of steady dosing before the gap visibly shrinks, then keeps improving for months. The progress is not linear. Week three often feels worse than week two, because you are loading tissue that is mid-repair, and repair tissue is sensitive tissue. Judge the programme by the gap, measured every two weeks, never by the ache of a single day. People who measure the gap stay. People who measure daily aches quit in the sensitive weeks, inches from the part where it turns.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "stat",
+          "text": "8-12 WEEKS",
+          "label": "BEFORE THE GAP MOVES",
+          "pos": "tr"
+        },
+        {
+          "at": 10,
+          "kind": "chip",
+          "text": "MEASURE EVERY 2 WEEKS",
+          "pos": "br"
+        },
+        {
+          "at": 17,
+          "kind": "fact",
+          "title": "JUDGE BY THE GAP",
+          "lines": [
+            "Daily aches mislead.",
+            "The centimetres do not."
+          ],
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "YOUR REACH",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Your advantage is leverage, literally. Shoulder rehab loads are relative, and a lighter arm is a lighter load. Every wall slide, every reach, every hold asks your healing cuff to manage the weight of your arm, and your arm weighs less than the big guy's. That means your daily dose lands in the healing zone more easily, with less spillover into irritation. It also means the functional prize, a full reach, full overhead range, a shoulder that stops negotiating, is closer for you than for almost anyone. The cuff does not care how big the rest of you is. It cares about dose, and your dose is naturally well-sized.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "mark",
+          "text": "A LIGHTER ARM = A KINDER DOSE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "bars",
+          "title": "LOAD PER REHAB REP",
+          "items": [
+            [
+              "HEAVY ARM",
+              85,
+              "red"
+            ],
+            [
+              "YOUR ARM",
+              50,
+              "cyan"
+            ]
+          ],
+          "pos": "br"
+        },
+        {
+          "at": 20,
+          "kind": "chip",
+          "text": "THE DOSE FITS YOU NATURALLY",
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "timer",
+      "asset": "ren_wall_slide.webp",
+      "exercise": "WALL SLIDES",
+      "work": 30,
+      "rest": 15,
+      "rounds": 3,
+      "section": "YOUR REACH",
+      "check": 3,
+      "music": "drive",
+      "narration": "Train with me. Back to the wall, arms in a W, slide up only as high as stays comfortable, and down slowly. Thirty seconds on, fifteen off, three rounds. Go."
+    },
+    {
+      "type": "art",
+      "asset": "shoulder_anatomy_plate.webp",
+      "section": "YOUR REACH",
+      "check": 3,
+      "music": "dark",
+      "lead_pause": 1.2,
+      "narration": "Your week: wall slides daily, three rounds like the ones we just did, range always comfortable. Towel reach practice every other day, the test position itself, using the top hand to gently help the bottom hand climb one centimetre further, never forcing. Isometric holds, palm pressing into a doorframe in two or three directions, twenty seconds each, most days. Three mistakes stall healing shoulders. Stretching aggressively into pain, which the cuff reads as threat. Loading heavy overhead before the reach returns. And total rest, which calms the ache while the tendon heals weaker. If your shoulder pain followed a fall or a pop, if the arm feels weak rather than stiff, if night pain wakes you nightly or nothing improves in six weeks, see a professional if it persists. Those shoulders need examining, not dosing.",
+      "beats": [
+        {
+          "at": 3,
+          "kind": "mark",
+          "text": "RANGE ALWAYS COMFORTABLE",
+          "ok": true,
+          "pos": "tr"
+        },
+        {
+          "at": 11,
+          "kind": "mark",
+          "text": "NEVER FORCE THE REACH",
+          "ok": false,
+          "pos": "br"
+        },
+        {
+          "at": 19,
+          "kind": "chip",
+          "text": "ISOMETRICS MOST DAYS",
+          "pos": "tr"
+        },
+        {
+          "at": 27,
+          "kind": "fact",
+          "title": "THE WEEK",
+          "lines": [
+            "Daily wall slides.",
+            "Towel reach every other day.",
+            "Doorframe presses."
+          ],
+          "pos": "br"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "YOUR REACH",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "So, your gap. Over fifteen centimetres: your cuff is guarded and deconditioned, and you are exactly who this programme is built for. Five to fifteen: you are mid-healing, the tissue is responding, and consistency is now the whole game. Under five or touching: your shoulder has its range back, and your job is keeping the cuff loaded so it stays. Measure again in thirty days, same position, same honest centimetres, and put both numbers in the comments. A shrinking gap is tendon healing you can hold in your hand. Expect the two sides to heal at different speeds, too. The dominant shoulder usually leads, because it has been loaded more for a lifetime, and the shy side follows a few weeks behind. Train both, measure both, and let the worse side set the pace of the programme. A shoulder is not finished when the good side touches. It is finished when the honest side closes its gap, and that day the reach behind your back stops being something you think about at all.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "OVER 15: BUILT FOR YOU",
+          "pos": "tr"
+        },
+        {
+          "at": 9,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "THEN WE RETEST",
+          "pos": "br"
+        },
+        {
+          "at": 15,
+          "kind": "swap",
+          "asset": "shoulder_anatomy_plate.webp"
+        },
+        {
+          "at": 20,
+          "kind": "mark",
+          "text": "COMMENT YOUR NUMBER",
+          "ok": true,
+          "pos": "tr"
+        }
+      ]
+    },
+    {
+      "type": "art",
+      "asset": "ren_wall_slide.webp",
+      "section": "YOUR REACH",
+      "check": 3,
+      "music": "calm",
+      "lead_pause": 1.2,
+      "narration": "Thirty days of dosed, patient loading and that gap will have something to say. Slide daily, force nothing, measure honestly. Subscribe so the retest finds you. This is {channel}. Train the cable.",
+      "beats": [
+        {
+          "at": 2,
+          "kind": "chip",
+          "text": "DOSE, DON'T FORCE",
+          "pos": "tr"
+        },
+        {
+          "at": 5,
+          "kind": "mark",
+          "text": "SEE YOU AT THE RETEST",
+          "ok": true,
+          "pos": "br"
+        },
+        {
+          "at": 8,
+          "kind": "stat",
+          "text": "30 DAYS",
+          "label": "RETEST DAY",
+          "pos": "tr"
+        }
+      ]
+    }
+  ]
+}
