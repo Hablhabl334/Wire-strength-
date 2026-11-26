@@ -1,7 +1,7 @@
 name: wire-strength-daily
 on:
   schedule:
-    - cron: "0 11 * * 1,3,5"   # Mon/Wed/Fri 15:00 Cairo ~ peak US morning (3 episodes/week, 780-episode bank = 5 years)
+    - cron: "0 11 * * *"   # Mon/Wed/Fri 15:00 Cairo ~ peak US morning (3 episodes/week, 780-episode bank = 5 years)
   workflow_dispatch:
 permissions:
   contents: write
