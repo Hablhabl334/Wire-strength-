@@ -1,5 +1,6 @@
 """Code-only thumbnail composer. NO AI/LLM calls anywhere.
 
+
 Every episode gets a unique 1280x720 thumbnail built by PIL from the
 episode's own banked spec (meta["thumb"]):
   asset  - hero Ren artwork for this episode (fresh per video)
@@ -11,7 +12,7 @@ on one side, one giant number, almost no words, dark background, one
 accent color. Fallbacks derive a spec from badge/scenes so even an
 episode without an explicit thumb spec still gets a valid thumbnail.
 """
-import os
+import json, os
 from PIL import Image, ImageDraw, ImageFont, ImageEnhance
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -83,12 +84,50 @@ def derive_spec(meta):
     return spec
 
 
+LAST_THUMB = None  # asset actually used by the latest make_thumbnail call
+
+
+def _recent_thumb_assets():
+    """Hero assets used by the last 2 published episodes, so a thumbnail
+    never repeats the picture the previous episodes just showed. Reads
+    state.json (the machine's own record); episodes published before the
+    'thumb' field existed fall back to their banked authored asset."""
+    recent = []
+    try:
+        state = json.load(open(os.path.join(ROOT, "state.json")))
+        for entry in state.get("published", [])[-2:]:
+            asset = entry.get("thumb")
+            if not asset and entry.get("script"):
+                prev = json.load(open(os.path.join(ROOT, "bank", entry["script"])))
+                asset = (prev.get("thumb") or {}).get("asset")
+            if asset:
+                recent.append(asset)
+    except Exception:
+        pass
+    return recent
+
+
 def make_thumbnail(meta, out_path):
     """GAP 9 thumbnail discipline (measured on Rep Theory): black
     background, ONE huge bright pose, at most 2 lines of huge tease
     text (white, then red), ONE hand-drawn red arrow. No number, no
     badge chip, no brand bar - one idea only."""
+    global LAST_THUMB
     spec = derive_spec(meta)
+    # Anti-repeat: if the authored hero was the thumbnail of one of the
+    # last 2 episodes, take the episode's next own picture instead.
+    recent = _recent_thumb_assets()
+    if spec.get("asset") in recent:
+        cands = []
+        for sc in meta.get("scenes", []):
+            for a in (sc.get("poses") or []) + ([sc["asset"]] if sc.get("asset") else []):
+                if a not in cands:
+                    cands.append(a)
+        for a in cands:
+            if a not in recent and os.path.exists(os.path.join(ROOT, "assets", a)):
+                spec["asset"] = a
+                break
+    LAST_THUMB = spec.get("asset")
     RED = (255, 59, 48)
     img = Image.new("RGB", (W, H), (5, 5, 7))
 
