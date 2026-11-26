@@ -1,68 +1,73 @@
 {
- "badge": "EP 3 - NERVES OVER MUSCLE",
+ "badge": "EP 4 - THE DEAD HANG TEST",
  "category": "tests",
  "checklist": [
   "THE TEST",
   "THE NUMBER",
-  "THE HIDDEN SENSORS",
+  "THE CABLES",
   "YOUR VERDICT"
  ],
- "description": "You can squat heavy and still fold in five seconds on one leg. Balance is not limited by muscle, it is limited by the sensors that tell your brain where your ankle is. Run the test, meet the hidden sensor system, and learn why one sprain can quietly ruin it, and how training brings it back.",
+ "description": "Grab a bar and hang until your grip gives out. That time is not really about your hands, it is about the tendons that run from your forearm to your fingers and how much load they can hold. Run the test, see what the clock is actually grading, and learn the hanging protocol that builds grip cables fast.",
  "hashtags": [
-  "ankle nerves",
-  "proprioception",
-  "balance test",
-  "ankle sprain prevention",
-  "nerve training",
+  "dead hang",
+  "grip strength",
+  "dead hang test",
+  "forearm training",
+  "tendon training",
   "calisthenics"
  ],
  "id": "003",
  "scenes": [
   {
-   "asset": "ren_balance_test.webp",
    "beats": [
     {
      "at": 2,
      "kind": "chip",
      "pos": "tr",
-     "text": "NO EQUIPMENT NEEDED"
+     "text": "ANY BAR WORKS"
     },
     {
-     "at": 8,
+     "at": 7,
      "kind": "chip",
      "pos": "br",
-     "text": "ONE FOOT. ONE CLOCK."
+     "text": "FULL BODYWEIGHT"
     },
     {
-     "at": 14,
+     "at": 12,
      "kind": "stat",
      "label": "WRITE IT DOWN",
      "pos": "tr",
      "text": "YOUR TIME"
     },
     {
-     "at": 22,
+     "at": 19,
      "kind": "fact",
      "lines": [
-      "Strong legs fail this test.",
-      "Weak sensors are why."
+      "The clock grades tendons,",
+      "not hand size."
      ],
      "pos": "br",
-     "title": "NOT A MUSCLE TEST"
+     "title": "WHAT THE CLOCK GRADES"
     },
     {
-     "at": 30,
+     "at": 27,
      "kind": "mark",
      "ok": true,
      "pos": "tr",
-     "text": "MEET YOUR SENSORS"
+     "text": "KEEP YOUR NUMBER"
     }
    ],
    "check": 0,
+   "cycle": 3.0,
    "music": "dark",
-   "narration": "Stand up. | One foot down. | One foot floating. | Knee soft. | Eyes forward. | Clock on. | Hold it | as long as you can | without touching down. | No wall. | No hopping. | One honest attempt. | That is your number. | Now here is | the strange part. | Guys with huge legs | fail this test | in five seconds. | Guys with thin legs | sometimes hold | a full minute. | If balance | were about muscle, | that would be | impossible. | It is not | about muscle. | It is about | the hidden sensors | inside your ankle, | and today | yours get graded.",
+   "narration": "Find a bar. | Jump up. | Grip it hard. | Arms straight. | Feet off the floor. | Start your clock. | Now just hang. | No swinging. | No bent elbows. | Hang until | your grip gives out. | That time | is your number. | Got it? | Remember it. | Because this test | looks like | a hand test, | but it is not. | Your fingers | have almost | no muscle in them. | The real workers | are the cables | running from | your forearm | to your fingertips. | Today the clock | grades those cables. | And at the end, | your number | gets its verdict.",
+   "poses": [
+    "ren_hang_side_relaxed.webp",
+    "ren_hang_side_active.webp",
+    "ren_hang_side_tuck.webp"
+   ],
    "section": "THE TEST",
-   "type": "art"
+   "type": "anim"
   },
   {
    "beats": [
@@ -70,311 +75,322 @@
      "at": 3,
      "kind": "chip",
      "pos": "tr",
-     "text": "EYES OPEN. NO TOUCHES."
+     "text": "ARMS STRAIGHT. NO SWING."
     },
     {
      "at": 9,
      "kind": "stat",
-     "label": "ELITE CONTROL",
+     "label": "ELITE GRIP TERRITORY",
      "pos": "br",
-     "text": "60+ SEC"
+     "text": "90+ SEC"
     },
     {
      "at": 15,
      "kind": "mark",
      "ok": true,
      "pos": "tr",
-     "text": "SENSORS ARE TRAINABLE"
+     "text": "UNTRAINED = FIXABLE"
     },
     {
      "at": 20,
      "kind": "chip",
      "pos": "br",
-     "text": "SIZE DOES NOT PREDICT IT"
+     "text": "CABLES ADAPT TO LOAD"
     }
    ],
-   "big": "30 SEC",
+   "big": "60 SEC",
    "card": "bignum",
    "check": 1,
-   "label": "THE LINE BETWEEN WOBBLY AND WIRED",
+   "label": "THE LINE BETWEEN WEAK AND WIRED",
    "lead_pause": 1.2,
    "music": "calm",
-   "narration": "The line is thirty seconds: one leg, eyes open, no touches, no hops. Under fifteen seconds, the sensors in your ankle are undertrained, whatever your legs look like. Fifteen to thirty, they report, but slowly. Over sixty, your ankle sends information so cleanly that balance stops feeling like effort at all. Notice what the line does not measure. Not your squat. Not your calf size. Not your weight. It measures the speed and quality of information flowing from one small joint to your brain. That is a completely different system from the one the gym trains, and it is the system this episode is about.",
+   "narration": "Here is the line. Sixty seconds of clean hanging is where an untrained grip becomes a trained one. Under thirty seconds, your grip tendons are simply new to load, and new is fixable. Thirty to sixty, the cables are waking up and learning their job. Over ninety, you hold a grip that most bigger guys never build, because most bigger guys never hang. Notice the honesty of this test. The bar does not care about your sleeves or your mirror. It asks one question: how long can your cables carry you? Your number is the answer, and answers can be trained.",
    "section": "THE NUMBER",
-   "sub": "under 15: untrained sensors - over 60: elite control",
+   "sub": "under 30: untrained cables - over 90: elite grip",
    "type": "card"
   },
   {
-   "asset": "nerve_pathway_plate.webp",
+   "asset": "ren_grip_closeup.webp",
    "beats": [
     {
      "at": 4,
      "kind": "chip",
      "pos": "tr",
-     "text": "THREE SENSOR TYPES"
+     "text": "FINGERS: ALMOST NO MUSCLE"
     },
     {
+     "asset": "ren_finger_hang.webp",
      "at": 11,
-     "kind": "fact",
-     "lines": [
-      "Stretch, pressure, position.",
-      "Reported hundreds of times a second."
-     ],
-     "pos": "br",
-     "title": "THE SENSOR CREW"
-    },
-    {
-     "asset": "ren_balance_test.webp",
-     "at": 19,
      "kind": "swap"
     },
     {
-     "at": 27,
-     "kind": "stat",
-     "label": "FROM ANKLE TO BRAIN AND BACK",
+     "at": 14,
+     "kind": "fact",
+     "lines": [
+      "Forearm pulls the cable.",
+      "The cable closes the finger."
+     ],
      "pos": "br",
-     "text": "1 LOOP"
+     "title": "THE CHAIN"
     },
     {
-     "at": 35,
+     "at": 22,
+     "kind": "stat",
+     "label": "PULLS ON EVERY FINGER CABLE",
+     "pos": "br",
+     "text": "YOUR WEIGHT"
+    },
+    {
+     "at": 30,
      "kind": "chip",
      "pos": "tr",
-     "text": "BAD DATA = BAD BALANCE"
+     "text": "FOREARM = THE ENGINE"
     },
     {
-     "at": 41,
+     "at": 37,
      "kind": "mark",
      "ok": true,
      "pos": "br",
-     "text": "INFORMATION IS STRENGTH"
+     "text": "CABLES THICKEN UNDER LOAD"
     }
    ],
    "check": 2,
    "lead_pause": 1.2,
    "music": "dark",
-   "narration": "Meet the crew. Your ankle is wrapped in three kinds of sensors. Some measure stretch in the muscles and tendons. Some measure pressure through the sole and the joint. Some measure the exact angle of the ankle itself. Together they build a live map of where your foot is and what it is doing, refreshed constantly, without a single conscious thought from you. Your brain trusts that map completely. When you walk on uneven ground in the dark, you are walking on sensor data, not eyesight. Now the key insight: muscles can only act on the information they receive. A powerful calf getting a blurry map will correct in the wrong direction, or too late, or too hard. A modest calf getting a sharp map corrects early and gently, and looks effortlessly steady. Balance is an information problem before it is a strength problem. That is why nerves matter more than muscle here. One more fact about this crew: the sensors also guard your joints when you are not thinking about balance at all. Every landing, cut and stumble in your life is negotiated by this same reporting system in the background. Training it in a quiet test is like updating the software your whole body runs on.",
-   "section": "THE HIDDEN SENSORS",
+   "narration": "Look at the hand honestly. Your fingers are almost pure bone, skin and tendon. There is barely any muscle in them to train. The muscles that close your hand live in your forearm, and they reach your fingers through long tendons, cables that slide through the wrist and attach at each fingertip. When you hang, your entire bodyweight hangs off those cables. And cables answer load the way rope does: under repeated tension, the body lays down more material. The tendon gets thicker, stiffer and better at holding. This is slow biology, tendons adapt more slowly than muscles, but it is reliable biology. It is also why squeezing toys and light grippers never build a real hang. The cable only upgrades when the load is serious, and your own bodyweight is the most serious load a grip can get. One more thing the hang quietly trains: your forearms learn to share work between the deep finger flexors and the wrist stabilizers, so the load spreads across the whole system instead of burning out one cable. That sharing is why experienced hangers look relaxed at times that make beginners shake. Relaxation here is not the absence of effort. It is effort, perfectly distributed.",
+   "section": "THE CABLES",
    "type": "art"
   },
   {
-   "asset": "ren_balance_test.webp",
+   "asset": "forearm_anatomy_plate.webp",
    "beats": [
     {
      "at": 4,
      "kind": "chip",
      "pos": "tr",
-     "text": "THE SPRAIN CYCLE"
+     "text": "THE FOREARM ENGINE ROOM"
     },
     {
+     "asset": "ren_grip_squeeze.webp",
      "at": 11,
+     "kind": "swap"
+    },
+    {
+     "at": 15,
      "items": [
       [
-       "SHARP SENSORS",
-       85,
-       "cyan"
+       "LIGHT GRIPPERS",
+       20,
+       "red"
       ],
       [
-       "AFTER A SPRAIN",
-       35,
-       "red"
+       "BODYWEIGHT HANGS",
+       90,
+       "cyan"
       ]
      ],
      "kind": "bars",
      "pos": "br",
-     "title": "SENSOR QUALITY"
+     "title": "WHAT THE CABLE FEELS"
     },
     {
-     "asset": "nerve_pathway_plate.webp",
-     "at": 19,
-     "kind": "swap"
-    },
-    {
-     "at": 27,
+     "at": 24,
      "kind": "stat",
-     "label": "BALANCE TRAINING AFTER SPRAINS",
+     "label": "FOR CABLES TO ADAPT",
      "pos": "tr",
-     "text": "REHAB"
+     "text": "DAILY LOAD"
     },
     {
-     "at": 35,
-     "kind": "mark",
-     "ok": false,
+     "at": 32,
+     "kind": "chip",
      "pos": "br",
-     "text": "A WEAK ANKLE IS A DEAF ANKLE"
+     "text": "SHOULDERS GET QUIETER TOO"
+    },
+    {
+     "at": 39,
+     "kind": "mark",
+     "ok": true,
+     "pos": "tr",
+     "text": "HANGING BUILDS MORE THAN GRIP"
     }
    ],
    "check": 2,
    "lead_pause": 1.2,
    "music": "calm",
-   "narration": "This is also the hidden story behind the ankle that keeps spraining. When you roll an ankle, you do not just tear tissue. You damage sensors. The joint heals, the swelling fades, but the map comes back blurry. Now the ankle reports late, the next roll becomes more likely, and each sprain makes the sensors worse. Doctors call the result chronic instability, and it is why balance training is standard rehab after ankle sprains: not to strengthen the ankle, but to re-teach it to listen. If you have one ankle that always gives way, this episode is probably about you. The good news is that sensors retrain at any age with exactly the kind of practice this channel uses: small leans, slow corrections, daily minutes. If an ankle stays painful or unstable, though, get it checked by a professional. Sensors we can train. Damage needs a diagnosis. Researchers who study balance training keep landing on the same surprise: the improvements transfer. Train single-leg control and people do not just stand better; they land softer, twist less and report fewer ankle problems in their sports. The map is shared by every movement you own, so sharpening it anywhere sharpens it almost everywhere.",
-   "section": "THE HIDDEN SENSORS",
+   "narration": "There is more hanging off this bar than grip. A dead hang puts your shoulders in their fullest overhead position, gently loading the tendons and tissues that most desk bodies never stretch or strengthen. It teaches your shoulder blades to sit quiet under load, which is the base of every pull you will ever do. And it trains something invisible: your nervous system's trust. The first hangs end early partly because your brain panics and orders a release. Hang daily, and the brain learns the position is safe, letting the cables work closer to their real limit. That is why beginners often double their hang time in the first weeks. The tendons did not transform overnight. The wiring stopped quitting early. Both parts keep improving for months after that, which makes this one of the highest-return habits on this channel. Grip also has a famous party trick worth knowing: it tracks with overall body strength better than almost any other single measure, which is why researchers use it as a quick health marker in big population studies. Nobody fully agrees why, but a body that maintains a strong grip tends to be a body that still loads itself in daily life. Your hang time is a rough window into that whole picture.",
+   "section": "THE CABLES",
    "type": "art"
   },
   {
-   "asset": "nerve_pathway_plate.webp",
+   "asset": "ren_grip_squeeze.webp",
    "beats": [
     {
      "at": 2,
      "kind": "chip",
      "pos": "tr",
-     "text": "WHEN SYSTEMS ARGUE"
+     "text": "THE MOST USED STRENGTH"
     },
     {
-     "at": 9,
+     "at": 8,
      "kind": "fact",
      "lines": [
-      "Eyes guess. Ears guess.",
-      "The ankle knows."
+      "Carries, climbs, tools, rails.",
+      "All forearm tendons."
      ],
      "pos": "br",
-     "title": "THE TIEBREAKER"
+     "title": "EVERYDAY GRIP"
     },
     {
-     "asset": "ren_balance_test.webp",
-     "at": 15,
+     "asset": "ren_dead_hang.webp",
+     "at": 14,
      "kind": "swap"
     },
     {
-     "at": 21,
+     "at": 20,
      "kind": "chip",
      "pos": "tr",
-     "text": "HEAD COLDS WRECK BALANCE"
+     "text": "FIRST STRENGTH LOST WITH AGE"
     },
     {
-     "at": 27,
+     "at": 26,
      "kind": "mark",
      "ok": true,
      "pos": "br",
-     "text": "SHARP ANKLE ENDS ARGUMENTS"
+     "text": "TRAIN WHAT LIFE USES"
     }
    ],
    "check": 2,
    "lead_pause": 1.2,
    "music": "dark",
-   "narration": "Balance has two other contributors worth meeting, because they explain your strangest test days. Your inner ear senses head movement and tilt, which is why head turns make standing harder and why a head cold can quietly wreck your balance. Your eyes anchor you to the horizon, which is why a moving crowd or a passing train can pull you sideways. On a good day all three systems agree and you feel solid. On a bad day they argue, and you feel drunk on flat ground. The ankle sensors are the tiebreaker, because they alone report what the ground is truly doing. When they are sharp, arguments end quickly. When they are dull, every disagreement becomes a wobble.",
-   "section": "THE HIDDEN SENSORS",
+   "narration": "Take this test out of the gym for a second. Grip is the most used strength in daily life and the least trained. Suitcases, jars, tools, carrying a child, holding a railing on a moving train: all of it is forearm tendons doing quiet work. It is also the strength people lose first as they age, because modern life keeps removing reasons to hold anything heavy. The dead hang is the antidote in its purest form: your full weight, your two hands, no machinery between you and the truth. Ten honest seconds added to this number is ten seconds of capability added to every carry, climb and hold in your actual life.",
+   "section": "THE CABLES",
    "type": "art"
   },
   {
-   "asset": "ren_balance_test.webp",
+   "asset": "ren_dead_hang.webp",
    "beats": [
     {
      "at": 4,
      "kind": "chip",
      "pos": "tr",
-     "text": "LESS MASS, CLEANER SIGNAL"
+     "text": "LESS WEIGHT, LONGER HANGS"
     },
     {
-     "asset": "ren_sprint.webp",
+     "asset": "ren_hang_side_active.webp",
      "at": 11,
-     "kind": "pip",
-     "label": "SENSORS AT FULL SPEED",
-     "pos": "br"
+     "kind": "swap"
     },
     {
-     "at": 19,
+     "at": 15,
      "items": [
       [
-       "LIGHT FRAME",
-       80,
+       "LIGHT BODY",
+       90,
        "cyan"
       ],
       [
-       "HEAVY FRAME",
-       45,
+       "HEAVY BODY",
+       40,
        "red"
       ]
      ],
      "kind": "bars",
-     "pos": "tr",
-     "title": "SIGNAL VS LOAD"
+     "pos": "br",
+     "title": "HANG TIME BY BODYWEIGHT"
     },
     {
-     "at": 28,
+     "at": 24,
+     "kind": "stat",
+     "label": "MORE TRAINING PER WEEK",
+     "pos": "tr",
+     "text": "MORE REPS"
+    },
+    {
+     "at": 31,
      "kind": "mark",
      "ok": true,
      "pos": "br",
-     "text": "YOUR EDGE IS REAL"
+     "text": "SKINNY IS AN EDGE HERE"
     }
    ],
    "check": 2,
    "lead_pause": 1.2,
    "music": "dark",
-   "narration": "Now your advantage, because there is one. The sensors report the lean, but the correction still has to move your body. The lighter the body, the smaller the correction, and the more a sharp signal is worth. Big lifters often carry ankles trained for straight-line force, not for information. Their maps can be surprisingly blurry for their size, because nothing in heavy bilateral lifting asks the ankle to report anything interesting. Your lighter frame, trained with single-leg work, builds the sharpest map per kilo of anyone in the gym. Skinny was never the problem. An untrained sensor system was, and unlike your frame, that is completely fixable. That transfer is why this episode is not really about standing still. It is about upgrading the one information system every other strength you build will have to travel through.",
-   "section": "THE HIDDEN SENSORS",
+   "narration": "Now the skinny advantage, and on this test it is enormous. Hanging is a strength-to-weight contest. Every kilo you do not carry is load your cables never feel. A heavy guy with strong hands fights his own mass on every second of the clock. You fight far less, so you hang longer, recover faster, and can train the position almost daily without beating yourself up. More quality hangs per week means faster tendon adaptation. This is why climbers, gymnasts and fighters are rarely the biggest people in the room: their sports grade the same ratio this test does. Your frame was built for this number. The only thing missing is the training, and that part is entirely in your control. So the number on your clock is doing double duty: grading your cables today, and hinting at the training age of your whole body.",
+   "section": "THE CABLES",
    "type": "art"
   },
   {
-   "asset": "ren_balance_test.webp",
+   "asset": "ren_hang_side_relaxed.webp",
    "check": 3,
-   "exercise": "SINGLE-LEG BALANCE",
+   "exercise": "DEAD HANG",
    "music": "drive",
-   "narration": "Feel the sensors work. One foot down, knee soft. Let the ankle make its tiny corrections and just notice them. Thirty seconds a side, twice. Go.",
-   "rest": 10,
-   "rounds": 4,
+   "narration": "Now hang with me. Thirty seconds. Arms straight, shoulders quiet, breathe slow. This is the exact position that builds the cables. Go.",
+   "rest": 30,
+   "rounds": 3,
    "section": "YOUR VERDICT",
    "type": "timer",
    "work": 30
   },
   {
-   "asset": "nerve_pathway_plate.webp",
+   "asset": "ren_hang_side_active.webp",
    "beats": [
     {
-     "at": 4,
+     "at": 5,
      "kind": "mark",
      "ok": true,
      "pos": "tr",
-     "text": "HEAD TURNS"
+     "text": "HANG EVERY DAY"
     },
     {
-     "at": 11,
-     "kind": "mark",
-     "ok": true,
-     "pos": "br",
-     "text": "SLOW REACHES"
-    },
-    {
-     "asset": "ren_balance_test.webp",
-     "at": 17,
-     "kind": "swap"
-    },
-    {
-     "at": 20,
-     "kind": "mark",
-     "ok": true,
-     "pos": "tr",
-     "text": "EYES CLOSED: 3 SEC BURSTS"
-    },
-    {
-     "at": 26,
+     "at": 12,
      "kind": "mark",
      "ok": false,
      "pos": "br",
-     "text": "ONLY HEAVY LIFTING"
+     "text": "ONE MAX HANG A WEEK"
     },
     {
-     "at": 33,
+     "asset": "ren_grip_closeup.webp",
+     "at": 19,
+     "kind": "swap"
+    },
+    {
+     "at": 22,
      "kind": "mark",
      "ok": true,
      "pos": "tr",
-     "text": "ONE LEG, EVERY DAY"
+     "text": "STOP 10 SEC EARLY"
     },
     {
-     "at": 38,
-     "kind": "chip",
+     "at": 29,
+     "kind": "mark",
+     "ok": true,
      "pos": "br",
-     "text": "SHARPEN THE MAP"
+     "text": "ADD ACTIVE HANGS"
+    },
+    {
+     "at": 36,
+     "kind": "chip",
+     "pos": "tr",
+     "text": "GREASE THE GROOVE"
+    },
+    {
+     "at": 41,
+     "kind": "mark",
+     "ok": false,
+     "pos": "br",
+     "text": "CHALK AND GLOVES EARLY"
     }
    ],
    "check": 3,
    "lead_pause": 1.2,
    "music": "dark",
-   "narration": "Sharpening the map takes minutes, not equipment. Every day, stand on one leg and give the sensors work: slow head turns, gentle reaches with the free arm, tiny weight shifts you catch early. Once thirty seconds feels easy, add three-second bursts with your eyes closed, opening them before you fall, so the ankle learns to work without vision doing the job. Twice a week, single-leg calf raises teach the muscles to answer the sharper signals with real force. What does not sharpen the map: more heavy two-leg lifting. It builds the engine and ignores the dashboard. Train both, but know which system this test grades. Two minutes a day is enough to start, and the first changes usually show within a few weeks. One caution to add to the plan. Train both sides, always, and judge yourself by the worse ankle. The body loves to let the good side do the demonstrating while the weak side, the one that will actually roll on a dark trail, stays blurry and untested.",
+   "narration": "Here is the protocol that moves the number. Hang a little, often. Several short hangs spread through the day beat one heroic hang to failure, because tendons grow from total quality load, not from suffering. Stop each hang about ten seconds before your grip would fail, and your forearms stay fresh enough to repeat it tomorrow. Build to a few minutes of total hanging a day. Twice a week, add active hangs: from the straight-arm position, pull your shoulder blades down without bending the elbows, hold five seconds, release. That teaches the shoulders their job for pull-ups later. Skip gloves, they steal the signal from your hands. Chalk if the bar is slippery, nothing more. Simple, daily, boring, and in thirty days your first number will look like a different person's. One practical upgrade once sixty seconds feels friendly: hang from thicker bars or towels sometimes, and let one hand do slightly more of the work by shifting your weight toward it. Small asymmetries, trained gently, are how two-hand hangs grow into the one-hand world without wrecking your shoulders.",
    "section": "YOUR VERDICT",
    "type": "art"
   },
   {
-   "asset": "ren_balance_test.webp",
+   "asset": "ren_dead_hang.webp",
    "beats": [
     {
      "at": 4,
@@ -387,8 +403,8 @@
      "at": 10,
      "kind": "fact",
      "lines": [
-      "Under 15: blurry map.",
-      "Over 30: sharp sensors."
+      "Under 30: untrained cables.",
+      "Over 60: you own it."
      ],
      "pos": "tr",
      "title": "YOUR VERDICT"
@@ -404,31 +420,31 @@
      "at": 25,
      "kind": "chip",
      "pos": "tr",
-     "text": "INFORMATION IS STRENGTH"
+     "text": "JUST THE SECONDS"
     }
    ],
    "check": 3,
    "lead_pause": 1.2,
    "music": "calm",
-   "narration": "So, your number. Under fifteen seconds: your map is blurry, and no amount of leg size was going to fix that. Now you know what will. Fifteen to thirty: the sensors report, but the picture is soft around the edges. Daily corrections sharpen it fast. Thirty to sixty: your ankle talks to your brain like a good teammate, early and clear. Over sixty: elite information flow, the kind that keeps athletes upright in chaos. Comment your number, just the number, and retest in thirty days. Same foot, same floor. If the number jumps, you will know it was never about muscle. It was about the wiring. Post both ankles at retest if you can: left and right. The smaller number is your true grade, and watching it climb is the most satisfying graph on this channel.",
+   "narration": "So, your time. Under thirty seconds: your cables are untrained, not weak in any permanent way, and daily hanging usually moves this number fast. Thirty to sixty: the tendons are adapting and the wiring is calming down. Sixty to ninety: you are wired, holding a grip most gym members cannot match. Over ninety: elite territory, the kind of grip that shows up in every pull, carry and climb you ever do. Put your seconds in the comments. Just the number. Retest in thirty days, same bar, same rules, and let the clock grade the cables again. Numbers do not lie, and this one is about to improve. Post it as a pair at retest: old seconds, new seconds. Grip progress is slow, steady and incredibly satisfying to watch in pairs.",
    "section": "YOUR VERDICT",
    "type": "art"
   },
   {
-   "asset": "nerve_pathway_plate.webp",
+   "asset": "ren_grip_squeeze.webp",
    "beats": [
     {
      "at": 2,
      "kind": "chip",
      "pos": "tr",
-     "text": "SHARPEN THE MAP"
+     "text": "A LITTLE, OFTEN"
     },
     {
      "at": 4,
      "kind": "stat",
      "label": "COMMENT YOUR NUMBER",
      "pos": "tl",
-     "text": "BALANCE TEST"
+     "text": "DEAD HANG"
     },
     {
      "at": 7,
@@ -446,26 +462,26 @@
    ],
    "check": 3,
    "music": "calm",
-   "narration": "Two minutes a day of honest wobbling beats an hour of standing still. Sharpen the sensors, and the clock will prove it in thirty days. Subscribe for the tests that measure the systems nobody trains. This is {channel}. Train the cable.",
+   "narration": "Hang a little every day, stop before failure, and let the cables do their slow, reliable work. In thirty days we hang again and compare clocks. Subscribe for the tests that grade what actually matters. This is {channel}. Train the cable.",
    "section": "YOUR VERDICT",
    "type": "art"
   }
  ],
  "tags": [
-  "ankle nerves",
-  "proprioception",
-  "balance test",
-  "ankle stability",
-  "chronic ankle instability",
+  "dead hang",
+  "grip strength",
+  "dead hang benefits",
+  "forearm tendons",
+  "how to hang longer",
   "calisthenics",
   "skinny guy fitness"
  ],
  "thumb": {
-  "accent": "violet",
-  "asset": "ren_balance_test.webp",
-  "big": "30 SEC",
-  "hook": "NERVES NOT MUSCLE"
+  "accent": "cyan",
+  "asset": "ren_dead_hang.webp",
+  "big": "60 SEC",
+  "hook": "HOW LONG?"
  },
- "title": "Why Your ankle nerves Matter More Than Muscle (The balance test Episode)",
+ "title": "Your Dead Hang Time Reveals the Truth About Your grip tendons",
  "v5": true
 }
