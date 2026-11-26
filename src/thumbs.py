@@ -84,76 +84,63 @@ def derive_spec(meta):
 
 
 def make_thumbnail(meta, out_path):
+    """GAP 9 thumbnail discipline (measured on Rep Theory): black
+    background, ONE huge bright pose, at most 2 lines of huge tease
+    text (white, then red), ONE hand-drawn red arrow. No number, no
+    badge chip, no brand bar - one idea only."""
     spec = derive_spec(meta)
-    accent = ACCENTS.get(spec.get("accent", "cyan"), ACCENTS["cyan"])
+    RED = (255, 59, 48)
+    img = Image.new("RGB", (W, H), (5, 5, 7))
 
-    # --- background: hero art, cover-fit, darkened, left side darker ---
+    # --- hero art: large, BRIGHT, right side, left edge faded out ---
     art_path = os.path.join(ROOT, "assets", spec.get("asset", ""))
     if spec.get("asset") and os.path.exists(art_path):
-        img = Image.open(art_path).convert("RGB")
-        scale = max(W / img.width, H / img.height)
-        img = img.resize((int(img.width * scale) + 1, int(img.height * scale) + 1))
-        # anchor the character to the right half
-        x = max(0, img.width - W)
-        img = img.crop((x, 0, x + W, H))
-    else:
-        img = Image.new("RGB", (W, H), (10, 12, 16))
-    img = ImageEnhance.Brightness(img).enhance(0.8)
-    # horizontal shade: strong on the left (text side), light on the right
-    import numpy as np
-    ramp = np.linspace(238, 36, W, dtype=np.uint8)
-    mask = Image.fromarray(np.tile(ramp, (H, 1)), "L")
-    dark = Image.new("RGB", (W, H), (4, 5, 8))
-    img = Image.composite(dark, img, mask)
+        art = Image.open(art_path).convert("RGB")
+        scale = (H * 1.04) / art.height
+        art = art.resize((int(art.width * scale) + 1, int(art.height * scale) + 1))
+        art = ImageEnhance.Brightness(art).enhance(1.28)
+        art = ImageEnhance.Color(art).enhance(1.12)
+        ax = W - art.width + 60
+        if ax < W // 3:  # very wide art: anchor right edge instead
+            ax = W - art.width
+        img.paste(art, (ax, -8))
+        import numpy as np
+        fx = max(ax, 0)
+        fw = min(200, W - fx)
+        if fw > 0:
+            alpha = np.tile(np.linspace(255, 0, fw, dtype=np.uint8), (H, 1))
+            img.paste(Image.new("RGB", (fw, H), (5, 5, 7)), (fx, 0),
+                      Image.fromarray(alpha, "L"))
     d = ImageDraw.Draw(img, "RGBA")
 
-    # --- giant number / big element (top-left block) ---
-    big = spec.get("big", "")
-    hook_y = 40
-    if big:
-        f = _fit(d, big, 660, 280)
-        d.text((46, 26), big, font=f, fill=accent, stroke_width=6, stroke_fill=(0, 0, 0))
-        hook_y = 26 + int(f.size * 1.08) + 18
-
-    # --- hook words: shrink until the whole block clears the brand bar ---
-    hook = (spec.get("hook") or "").upper()
-    lines, lh = [], 0
-    for size in (118, 106, 94, 84, 74, 64):
-        lines = _wrap(d, hook, 640, size)[:3]
-        lh = int(size * 1.05)
-        if hook_y + lh * len(lines) <= H - 96:
+    # --- tease text: max 2 lines, huge; line 1 white, line 2 red ---
+    hook = (spec.get("hook") or "THE TEST").upper()
+    words = hook.split()
+    if len(words) <= 2:
+        lines = [" ".join(words)]
+    else:
+        half = (len(words) + 1) // 2
+        lines = [" ".join(words[:half]), " ".join(words[half:])]
+    size = 196
+    while size > 60:
+        f = _font(size)
+        if all(d.textlength(ln, font=f) <= 700 for ln in lines):
             break
-    y = hook_y
-    for ln in lines:
-        f = _fit(d, ln, 640, size)
-        d.text((48, y), ln, font=f, fill=(255, 255, 255), stroke_width=5, stroke_fill=(0, 0, 0))
+        size -= 8
+    f = _font(size)
+    lh = int(size * 1.04)
+    y = (H - lh * len(lines)) // 2 - 10
+    for i, ln in enumerate(lines):
+        d.text((52, y), ln, font=f, fill=(255, 255, 255) if i == 0 else RED,
+               stroke_width=7, stroke_fill=(0, 0, 0))
         y += lh
 
-    # --- episode badge chip (top-right) ---
-    badge = (meta.get("badge") or "").strip()
-    if badge:
-        f = _font(34)
-        tw = d.textlength(badge, font=f)
-        d.rounded_rectangle([W - tw - 56, 26, W - 26, 84], radius=12, fill=(0, 0, 0, 190))
-        d.text((W - tw - 41, 38), badge, font=f, fill=accent)
-
-    # --- brand bar (bottom) ---
-    d.rectangle([0, H - 64, W, H], fill=(0, 0, 0, 200))
-    d.rectangle([0, H - 68, W, H - 64], fill=accent + (255,))
-    try:
-        import json
-        cfg = json.load(open(os.path.join(ROOT, "channel.json")))
-        name = cfg.get("name", "")
-        tagline = cfg.get("tagline", "")
-    except Exception:
-        name, tagline = "", ""
-    if name:
-        f = _font(36)
-        d.text((46, H - 52), name.upper(), font=f, fill=(255, 255, 255))
-        if tagline:
-            f2 = _font(28)
-            tw = d.textlength(tagline, font=f2)
-            d.text((W - tw - 46, H - 48), tagline, font=f2, fill=accent)
+    # --- one hand-drawn red arrow: text -> character ---
+    ay = H // 2 + lh // 2 + 64
+    pts = [(150, ay + 26), (300, ay + 6), (452, ay + 18)]
+    d.line(pts, fill=RED, width=15, joint="curve")
+    hx, hy = 452, ay + 18
+    d.polygon([(hx, hy - 30), (hx + 58, hy + 8), (hx - 6, hy + 40)], fill=RED)
 
     img.save(out_path, "JPEG", quality=90)
     return out_path
