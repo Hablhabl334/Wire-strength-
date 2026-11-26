@@ -54,13 +54,80 @@ def phrases5(text):
         if words: out.append(" ".join(words))
     return out
 
+def _parse_bands(sub):
+    """Parse a bignum card's sub line into scale bands, e.g.
+    'under 15: untrained ankles - over 60: elite control' or the 3-band
+    'under 5: untrained - 5 to 15: building - over 15: wired'.
+    Returns [(lo, hi_or_None, label), ...] or None when the line does
+    not carry a usable scale (the chart is then simply not drawn)."""
+    if not sub:
+        return None
+    bands = []
+    for seg in sub.split(" - "):
+        m = re.match(r"\s*under\s+(\d+)\s*:\s*(.+)", seg, re.I)
+        if m:
+            bands.append((0, int(m.group(1)), m.group(2).strip())); continue
+        m = re.match(r"\s*(\d+)\s*to\s*(\d+)\s*:\s*(.+)", seg, re.I)
+        if m:
+            bands.append((int(m.group(1)), int(m.group(2)), m.group(3).strip())); continue
+        m = re.match(r"\s*over\s+(\d+)\s*:\s*(.+)", seg, re.I)
+        if m:
+            bands.append((int(m.group(1)), None, m.group(2).strip())); continue
+        return None
+    return bands if len(bands) >= 2 else None
+
+def _draw_band_steps(d, bands, big_text):
+    """GAP 4 instrument: an ascending step-chart of the card's own scale
+    bands (Rep Theory's 2->5->10s staircase) with a slider track under
+    it and a gold marker where the card's big number - THE LINE - falls.
+    Geometry stays above y=990: the hud checklist bar owns y>=1016."""
+    x0, x1, base = 140, W - 140, 950
+    n = len(bands)
+    cols = [(200, 60, 60), GOLD, CYAN] if n == 3 else [(200, 60, 60), CYAN]
+    sw = (x1 - x0) // n
+    m = re.match(r"\s*~?(\d+)", big_text or "")
+    line_v = int(m.group(1)) if m else None
+    for i, (lo, hi, label) in enumerate(bands):
+        hgt = 64 + i * 58
+        xa, xb = x0 + i * sw + 6, x0 + (i + 1) * sw - 6
+        d.rounded_rectangle([xa, base - hgt, xb, base], 10, fill=(26, 26, 26), outline=cols[i], width=4)
+        rng = f"UNDER {hi}" if lo == 0 else (f"OVER {lo}" if hi is None else f"{lo}-{hi}")
+        d.text((xa + 22, base - hgt + 14), rng, font=F(fit_size(rng, 40, sw - 44)), fill=cols[i])
+        lab = label.upper()
+        lf = F(fit_size(lab, 30, sw - 44, False), False)
+        if hgt >= 120:
+            d.text((xa + 22, base - hgt + 66), lab, font=lf, fill=WHITE)
+        else:
+            # short step: the label rides above the box instead of inside
+            d.text((xa + 22, base - hgt - 40), lab, font=lf, fill=cols[i])
+        if line_v is not None and lo <= line_v and (hi is None or line_v < hi):
+            tag = "THE LINE"
+            tw = d.textlength(tag, font=F(28))
+            d.text((xb - tw - 20, base - hgt + 16), tag, font=F(28), fill=GOLD)
+    # slider track under the steps, gold triangle at THE LINE's value
+    top = bands[-1][0]
+    scale_max = max(top * 1.3, 1)
+    ty = base + 22
+    d.rounded_rectangle([x0, ty, x1, ty + 14], 7, fill=(40, 40, 40))
+    for i, (lo, hi, label) in enumerate(bands):
+        xa = x0 + (x1 - x0) * lo / scale_max
+        xb = x1 if hi is None else x0 + (x1 - x0) * hi / scale_max
+        d.rounded_rectangle([int(xa), ty, int(xb), ty + 14], 7, fill=cols[i])
+    if line_v is not None and 0 <= line_v <= scale_max:
+        mx = int(x0 + (x1 - x0) * line_v / scale_max)
+        d.polygon([(mx - 11, ty - 18), (mx + 11, ty - 18), (mx, ty - 3)], fill=GOLD)
+
 def card_image4(scene, reveal=99):
     im = Image.new("RGB", (W, H), DARK); d = ImageDraw.Draw(im)
     kind = scene["card"]
     if kind == "bignum":
         d.text((140, 300), scene["big"], font=F(230), fill=CYAN)
         if reveal >= 1: d.text((146, 580), scene["label"], font=F(64), fill=WHITE)
-        if reveal >= 2: d.text((146, 680), scene.get("sub", ""), font=F(38, False), fill=GREY)
+        if reveal >= 2:
+            d.text((146, 680), scene.get("sub", ""), font=F(38, False), fill=GREY)
+            bands = _parse_bands(scene.get("sub", ""))
+            if bands:
+                _draw_band_steps(d, bands, scene.get("big", ""))
     elif kind == "study":
         d.rounded_rectangle([240, 200, W - 240, 820], 24, fill=(24, 24, 24), outline=GREY, width=2)
         d.rectangle([240, 200, W - 240, 290], fill=RED)
@@ -126,6 +193,163 @@ _MANIFEST = None
 _USED = Counter()
 _RECENT = set()   # pictures used by the last few episodes (from state.json)
 LAST_USED = []    # pictures this episode used (main.py records them)
+
+# Gap 3: annotation ON the picture. assets/anchors.json (authored at
+# build time) maps asset file -> body part -> [fx, fy] in SOURCE-image
+# fractions. At render time the point is mapped through the same
+# cover-crop the picture itself gets, so the ring lands on the joint in
+# frame space; points the crop hides are skipped automatically.
+_ANCHORS = None
+_PART_ALIAS = {"toes": "toe", "fingers": "finger", "grip": "hand",
+               "grips": "hand", "tendon": "achilles", "tendons": "achilles",
+               "feet": "foot", "hands": "hand", "ankles": "ankle",
+               "knees": "knee", "wrists": "wrist", "elbows": "elbow",
+               "shoulders": "shoulder", "hips": "hip", "calves": "calf",
+               "heels": "heel", "arms": "arm"}
+_PART_LABEL = {"achilles": "ACHILLES TENDON", "back": "LOWER BACK",
+               "toe": "TOES", "finger": "FINGERS"}
+
+def _anchors():
+    global _ANCHORS
+    if _ANCHORS is None:
+        try:
+            _ANCHORS = json.load(open(os.path.join(ROOT, "assets", "anchors.json")))
+        except Exception:
+            _ANCHORS = {}
+    return _ANCHORS
+
+# ---------- GAP 5: study citations (Rep Theory's receipt format) -------
+# assets/citations.json holds REAL, verified studies (authors, year,
+# journal, sample - checked against the published records at build
+# time). Once per episode, the fact card whose scene best matches a
+# study's topic keys grows a citation block: red STUDY pill, the cite,
+# the journal, the sample pill and the study's own finding. Nothing is
+# invented at render time - if no study matches, no card is extended.
+_CITATIONS = None
+_EP_CITE = None
+_EP_CITE_SCENE = -1
+_EP_CITE_AT = -1
+_EP_CITE_TITLE = None
+
+def _citations():
+    global _CITATIONS
+    if _CITATIONS is None:
+        try:
+            _CITATIONS = json.load(open(os.path.join(ROOT, "assets", "citations.json")))
+        except Exception:
+            _CITATIONS = []
+    return _CITATIONS
+
+def _pick_citation(script):
+    global _EP_CITE, _EP_CITE_SCENE, _EP_CITE_AT, _EP_CITE_TITLE
+    _EP_CITE, _EP_CITE_SCENE, _EP_CITE_AT, _EP_CITE_TITLE = None, -1, -1, None
+    scenes = [sc for sc in script.get("scenes", []) if sc.get("type") != "anim"]
+    # Stage 1: the EPISODE's topic picks the study - a citation must
+    # belong to what the whole video is about, not win on one stray
+    # word in one scene.
+    best_cite, best_ep = None, 2  # require >= 3 episode-level key hits
+    for cite in _citations():
+        keys = set(cite.get("keys", []))
+        if not keys:
+            continue
+        hits = 0
+        for sc in scenes:
+            nw = set(re.findall(r"[a-z]+", sc.get("narration", "").lower()))
+            hits += len(keys & nw)
+            for b in sc.get("beats", []):
+                if b.get("kind") == "fact":
+                    fw = set(re.findall(r"[a-z]+", (b.get("title", "") + " " +
+                                 " ".join(b.get("lines", []))).lower()))
+                    hits += 2 * len(keys & fw)
+        if hits > best_ep:
+            best_cite, best_ep = cite, hits
+    if best_cite is None:
+        return
+    # Stage 2: inside that study's topic, the fact card whose scene
+    # matches it best carries the citation.
+    keys = set(best_cite.get("keys", []))
+    best = None  # (score, -scene_idx, scene_idx, beat)
+    for si, sc in enumerate(script.get("scenes", [])):
+        if sc.get("type") == "anim":
+            continue
+        facts = [b for b in sc.get("beats", []) if b.get("kind") == "fact"]
+        if not facts:
+            continue
+        narr_words = set(re.findall(r"[a-z]+", sc.get("narration", "").lower()))
+        for b in facts:
+            fact_words = set(re.findall(r"[a-z]+", (b.get("title", "") + " " +
+                                 " ".join(b.get("lines", []))).lower()))
+            score = 2 * len(keys & fact_words) + len(keys & narr_words)
+            if score >= 1:
+                cand = (score, -si, si, b)
+                if best is None or cand[:2] > best[:2]:
+                    best = cand
+    if best:
+        _EP_CITE = best_cite
+        _EP_CITE_SCENE = best[2]
+        _EP_CITE_AT = best[3].get("at", 0)
+        _EP_CITE_TITLE = best[3].get("title")
+
+def _fact_visible(beats, j):
+    """True when a fact card is among the beats on screen at phrase j.
+    Mirrors draw_beats exactly: swap beats are never drawn, and the 2
+    most recent remaining beats stay visible. A focus ring must never
+    fire under a card - the annotation would land on the card's text
+    instead of the joint."""
+    vis = [b for b in beats if b.get("kind") != "swap" and b.get("at", 0) <= j][-2:]
+    return any(b.get("kind") == "fact" for b in vis)
+
+def _focus_plan(phrase_tags, beats, scene, resolved, sizes, bounds):
+    """phrase index -> (part, frame_x, frame_y): when the narration names
+    a body part that has an anchor on the picture currently on screen,
+    that joint gets annotated. At most one focus per part per scene and
+    at least 5s between focuses, so it never turns into clutter."""
+    plan = {}
+    last_t, seen = -10.0, set()
+    for j, tags in enumerate(phrase_tags):
+        if bounds[j] - last_t < 5.0:
+            continue
+        if _fact_visible(beats, j):
+            continue
+        cur = resolved.get(current_swap(beats, j, scene["asset"]), scene["asset"])
+        anch = _anchors().get(cur)
+        if not anch:
+            continue
+        iw, ih = sizes.get(cur, (W, H))
+        s = max(W / iw, H / ih)
+        ox, oy = (iw * s - W) / 2, (ih * s - H) / 2
+        for w in sorted(tags):
+            part = _PART_ALIAS.get(w, w)
+            if part in anch and part not in seen:
+                fx, fy = anch[part]
+                px, py = fx * iw * s - ox, fy * ih * s - oy
+                if 60 <= px <= W - 60 and 130 <= py <= H - 210:
+                    plan[j] = (part, int(px), int(py))
+                    seen.add(part); last_t = bounds[j]
+                    break
+    return plan
+
+def _draw_focus(fr, part, px, py, tt):
+    d = ImageDraw.Draw(fr)
+    r = 36 + int(5 * math.sin(tt * 5.0))
+    d.ellipse([px - r, py - r, px + r, py + r], outline=RED, width=6)
+    d.ellipse([px - r - 13, py - r - 13, px + r + 13, py + r + 13], outline=WHITE, width=2)
+    d.ellipse([px - 5, py - 5, px + 5, py + 5], fill=RED)
+    label = _PART_LABEL.get(part, part.upper())
+    fnt = F(30)
+    tw = d.textlength(label, font=fnt)
+    left_side = px < W / 2
+    lx = px + 130 if left_side else px - 130 - int(tw) - 36
+    ly = max(120, py - 120)
+    x0, y0 = px + (62 if left_side else -62), py - 18
+    x1, y1 = lx + (0 if left_side else int(tw) + 36), ly + 24
+    steps = 26
+    for k in range(0, steps, 2):
+        xa = x0 + (x1 - x0) * k / steps; ya = y0 + (y1 - y0) * k / steps
+        xb = x0 + (x1 - x0) * (k + 1) / steps; yb = y0 + (y1 - y0) * (k + 1) / steps
+        d.line([xa, ya, xb, yb], fill=WHITE, width=3)
+    d.rounded_rectangle([lx, ly, lx + tw + 36, ly + 48], 8, fill=(8, 10, 12), outline=CYAN, width=2)
+    d.text((lx + 18, ly + 8), label, font=fnt, fill=WHITE)
 def _manifest():
     global _MANIFEST
     if _MANIFEST is None:
@@ -355,20 +579,36 @@ def _prev_opener():
     except Exception:
         return None
 
-def draw_beats(fr, beats, j):
+def draw_beats(fr, beats, j, scene_idx=None):
     d = ImageDraw.Draw(fr, "RGBA")
     probe = ImageDraw.Draw(Image.new("RGB", (10, 10)))
     visible = [b for b in beats if b.get("kind") != "swap" and j >= b.get("at", 0)][-2:]
     for b in visible:
         kind = b["kind"]; pos = b.get("pos", "tr")
         if kind == "fact":
-            w_, h_ = 860, 300
+            cited = (_EP_CITE is not None and scene_idx == _EP_CITE_SCENE
+                     and b.get("at", 0) == _EP_CITE_AT and b.get("title") == _EP_CITE_TITLE)
+            w_ = 860
+            h_ = 452 if cited else 300
             x, y = _beat_xy(pos, w_, h_)
             d.rounded_rectangle([x, y, x + w_, y + h_], 18, fill=(18, 18, 18, 240), outline=GOLD, width=3)
             d.text((x + 28, y + 22), b.get("title", ""), font=F(fit_size(b.get("title", ""), 46, w_ - 56)), fill=GOLD)
             yy = y + 92
             for ln in b.get("lines", [])[:2]:
                 d.text((x + 28, yy), ln, font=F(fit_size(ln, 36, w_ - 56, False), False), fill=WHITE); yy += 62
+            if cited:
+                # GAP 5: the receipt - red STUDY pill, cite, journal,
+                # sample pill and the study's own finding, in the card.
+                cy = y + 296
+                d.line([x + 28, cy, x + w_ - 28, cy], fill=GREY, width=2)
+                d.rounded_rectangle([x + 28, cy + 16, x + 158, cy + 56], 8, fill=RED)
+                tw = probe.textlength("STUDY", font=F(26))
+                d.text((x + 93 - tw / 2, cy + 23), "STUDY", font=F(26), fill=WHITE)
+                d.text((x + 176, cy + 21), _EP_CITE["cite"], font=F(30), fill=WHITE)
+                sub = f"{_EP_CITE['journal']} · {_EP_CITE['pill']}"
+                d.text((x + 28, cy + 68), sub, font=F(fit_size(sub, 25, w_ - 56, False), False), fill=GREY)
+                d.text((x + 28, cy + 100), _EP_CITE["finding"],
+                       font=F(fit_size(_EP_CITE["finding"], 28, w_ - 56, False), False), fill=GOLD)
             continue
         if kind == "chip":
             t = b["text"]; w_ = int(probe.textlength(t, font=F(40))) + 56
@@ -376,12 +616,34 @@ def draw_beats(fr, beats, j):
             d.rounded_rectangle([x, y, x + w_, y + 84], 18, fill=(18, 18, 18, 235), outline=CYAN, width=3)
             d.text((x + 28, y + 20), t, font=F(40), fill=WHITE)
         elif kind == "stat":
-            t = b["text"]; w_ = 430
-            x, y = _beat_xy(pos, w_, 190)
-            d.rounded_rectangle([x, y, x + w_, y + 190], 18, fill=(18, 18, 18, 235), outline=CYAN, width=3)
-            d.text((x + 28, y + 16), t, font=F(fit_size(t, 84, w_ - 56)), fill=CYAN)
-            _lbl = b.get("label", "")
-            d.text((x + 30, y + 122), _lbl, font=F(fit_size(_lbl, 30, w_ - 58, False), False), fill=GREY)
+            t = b["text"]
+            gm = re.match(r"\s*[~+]?(\d+)%\s*\+?\s*$", t)
+            if gm:
+                # GAP 4 instrument: a percentage stat becomes a gauge -
+                # a ring filled to the value, the % in the middle.
+                pct = min(int(gm.group(1)), 100)
+                w_, h_ = 430, 300
+                x, y = _beat_xy(pos, w_, h_)
+                d.rounded_rectangle([x, y, x + w_, y + h_], 18, fill=(18, 18, 18, 235), outline=CYAN, width=3)
+                cx, cy, rad = x + w_ // 2, y + 128, 84
+                d.arc([cx - rad, cy - rad, cx + rad, cy + rad], start=0, end=360, fill=GREY, width=18)
+                if pct:
+                    d.arc([cx - rad, cy - rad, cx + rad, cy + rad], start=-90, end=-90 + 3.6 * pct, fill=CYAN, width=18)
+                pt = f"{pct}%"
+                tw = probe.textlength(pt, font=F(48))
+                d.text((cx - tw / 2, cy - 32), pt, font=F(48), fill=WHITE)
+                _lbl = b.get("label", "")
+                if _lbl:
+                    lf = F(fit_size(_lbl, 28, w_ - 48, False), False)
+                    tw = probe.textlength(_lbl, font=lf)
+                    d.text((x + (w_ - tw) / 2, y + 240), _lbl, font=lf, fill=GREY)
+            else:
+                w_ = 430
+                x, y = _beat_xy(pos, w_, 190)
+                d.rounded_rectangle([x, y, x + w_, y + 190], 18, fill=(18, 18, 18, 235), outline=CYAN, width=3)
+                d.text((x + 28, y + 16), t, font=F(fit_size(t, 84, w_ - 56)), fill=CYAN)
+                _lbl = b.get("label", "")
+                d.text((x + 30, y + 122), _lbl, font=F(fit_size(_lbl, 30, w_ - 58, False), False), fill=GREY)
         elif kind == "mark":
             sym = "✓" if b.get("ok", True) else "✗"
             col = CYAN if b.get("ok", True) else RED
@@ -506,6 +768,14 @@ def hud5(script, scene, done_upto):
             x += d.textlength(t, font=F(26)) + 46
         t = "THE STRENGTH TEST"
         d.text((W - d.textlength(t, font=F(26)) - 40, H - 48), t, font=F(26), fill=GOLD + (255,))
+        # GAP 8: Rep Theory's permanent safety strip - a small gold
+        # pill above the checklist bar, on from the second section.
+        if done_upto >= 1:
+            st = "BE SAFE - STOP IF IT HURTS"
+            sw = d.textlength(st, font=F(22)) + 36
+            d.rounded_rectangle([36, H - 106, 36 + sw, H - 72], 8,
+                                fill=(32, 27, 8, 225), outline=GOLD + (255,), width=2)
+            d.text((54, H - 100), st, font=F(22), fill=GOLD + (255,))
     return im
 
 def narrated_frames(script, scene, tmp, idx):
@@ -514,6 +784,8 @@ def narrated_frames(script, scene, tmp, idx):
     is_card = scene["type"] == "card"
     base_art = None
     swap_cache = {}
+    sizes = {}
+    focus = {}
     beats = list(scene.get("beats", []))
     resolved = {}
     pre = {}
@@ -561,7 +833,14 @@ def narrated_frames(script, scene, tmp, idx):
             if j in authored:
                 cur = authored[j].get("asset", cur); shown.add(cur); last = bounds[j]
             held = bounds[j] - last
-            if held >= 6:
+            # GAP 6 (hook density): Rep Theory cuts a new still every
+            # 2-3s across the first seconds. In the opening scene's
+            # first 12s the semantic swap may fire after 2.5s instead
+            # of 6s, and if the words offer no match for 5s a
+            # same-family refresh fires anyway - the hook never sits
+            # on one picture. After 12s the normal rules return.
+            sprint = idx == 0 and bounds[j] < 12
+            if held >= (2.5 if sprint else 6):
                 best, sc_ = _best_match(phrase_tags[j], exclude=cur, context=scene_tags)
                 if best and sc_ >= 2:
                     beats.append({"at": j, "kind": "swap", "asset": best})
@@ -569,6 +848,15 @@ def narrated_frames(script, scene, tmp, idx):
                     _USED[best] += 1
                     shown.add(best); cur = best; last = bounds[j]
                     print(f"match scene {idx} @{bounds[j]:.0f}s: '{phs[j][:44]}' -> {best} (score {sc_})")
+                    continue
+            if sprint and held >= 5:
+                pick = _auto_pick(cur, shown)
+                if pick:
+                    beats.append({"at": j, "kind": "swap", "asset": pick})
+                    pre[pick] = pick
+                    _USED[pick] += 1
+                    shown.add(pick); cur = pick; last = bounds[j]
+                    print(f"sprint refresh scene {idx} @{bounds[j]:.0f}s -> {pick}")
                     continue
             if held >= cap:
                 pick = None
@@ -592,16 +880,30 @@ def narrated_frames(script, scene, tmp, idx):
                 resolved[a] = pre[a] if a in pre else (
                     _base_resolve(a, scene_tags) if a == scene["asset"]
                     else _rotate(a, scene_tags))
-        base_art = fit_cover(Image.open(os.path.join(ROOT, "assets", resolved[scene["asset"]])).convert("RGB"), W, H)
+        _bim = Image.open(os.path.join(ROOT, "assets", resolved[scene["asset"]]))
+        sizes[resolved[scene["asset"]]] = _bim.size
+        base_art = fit_cover(_bim.convert("RGB"), W, H)
         # v5: pre-load every swap target so the picture can change mid-scene.
         # Cache is keyed by the AUTHORED name; the image is the resolved one.
         for b in beats:
             if b.get("kind") == "swap" and b.get("asset"):
-                swap_cache[b["asset"]] = fit_cover(
-                    Image.open(os.path.join(ROOT, "assets", resolved[b["asset"]])).convert("RGB"), W, H)
+                _sim = Image.open(os.path.join(ROOT, "assets", resolved[b["asset"]]))
+                sizes[resolved[b["asset"]]] = _sim.size
+                swap_cache[b["asset"]] = fit_cover(_sim.convert("RGB"), W, H)
+        focus = _focus_plan(phrase_tags, beats, scene, resolved, sizes, bounds)
+    # GAP 4 layout: on a bignum card WITH a parsed scale, the step-chart
+    # owns the bottom of the frame, so the phrase strip moves to the
+    # card's empty top band instead of crossing the steps - and any
+    # top-right beat drops to mid-right so the two never collide.
+    phrase_y = 830
+    if is_card and scene.get("card") == "bignum" and _parse_bands(scene.get("sub", "")):
+        phrase_y = 108
     draw_beat_list = [dict(b, asset=resolved[b["asset"]])
                       if b.get("kind") == "pip" and b.get("asset") in resolved else b
                       for b in beats]
+    if phrase_y == 108:
+        draw_beat_list = [dict(b, pos="mr") if b.get("pos") == "tr" else b
+                          for b in draw_beat_list]
     hud_im = hud5(script, scene, scene.get("check", 0))
     fdir = os.path.join(tmp, f"ff{idx}"); os.makedirs(fdir, exist_ok=True)
     pp_cache = [phrase_png(ph) for ph in phs]
@@ -620,10 +922,13 @@ def narrated_frames(script, scene, tmp, idx):
             cur = current_swap(beats, j, scene["asset"])
             fr.paste(swap_cache.get(cur, base_art), (sway, 0))
             g = glow_cache[fi % 20]; fr.paste(g, (0, 0), g)
-        draw_beats(fr, draw_beat_list, j)
+        draw_beats(fr, draw_beat_list, j, scene_idx=idx)
+        if j in focus:
+            _part, _px, _py = focus[j]
+            _draw_focus(fr, _part, _px + (0 if is_card else sway), _py, tt)
         if tt >= scene.get("lead_pause", 0.0):
             pp = pp_cache[j]
-            fr.paste(pp, (0, 830), pp)
+            fr.paste(pp, (0, phrase_y), pp)
         fr.paste(hud_im, (0, 0), hud_im)
         d = ImageDraw.Draw(fr)
         d.rectangle([60, 92, 60 + int(300 * min(1.0, tt / total)), 100], fill=CYAN)
@@ -773,6 +1078,178 @@ def roadmap_segment(script, current, line, tmp, tag, final=False):
     print(f"roadmap {tag}: current={current} final={final} {d:.1f}s")
     return seg, d
 
+def _band_range(b):
+    lo, hi, _label = b
+    if hi is None:
+        return f"OVER {lo:g}"
+    if lo == 0:
+        return f"UNDER {hi:g}"
+    return f"{lo:g}-{hi:g}"
+
+def _route_rows(script, bands):
+    """Personal routing from the viewer's own number (GAP 7): each
+    scoring band of the episode's number card maps to a starting point.
+    The lowest band walks the whole map, the top band maintains and
+    retests, a middle band goes straight to the work section."""
+    checks = script.get("checklist", [])
+    work = "GO STRAIGHT TO THE WORK"
+    for sc in script.get("scenes", []):
+        if sc.get("type") == "timer":
+            ci = sc.get("check", 0)
+            if 0 <= ci < len(checks):
+                work = f"GO STRAIGHT TO {checks[ci].upper()}"
+            break
+    rows = []
+    n = len(bands)
+    for i, b in enumerate(bands):
+        if i == 0:
+            r = "START AT STOP 1 - THE FULL MAP"
+        elif i == n - 1:
+            r = "MAINTAIN - RETEST IN 7 DAYS"
+        else:
+            r = work
+        rows.append((_band_range(b), b[2].upper(), r,
+                     [(200, 60, 60), GOLD, CYAN][min(i, 2)]))
+    return rows
+
+def tease_image(script, bands, check):
+    """GAP 7 locked tease: the viewer's full breakdown, shown blurred
+    under a padlock right after the number - the payoff is promised,
+    withheld, and paid by the route card at the end."""
+    from PIL import ImageFilter
+    im = Image.new("RGB", (W, H), DARK)
+    d = ImageDraw.Draw(im)
+    t = "YOUR FULL BREAKDOWN"
+    d.text(((W - d.textlength(t, font=F(64))) / 2, 140), t, font=F(64), fill=GOLD)
+    rows = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    rd = ImageDraw.Draw(rows)
+    y = 300
+    for rng, lab, _r, col in _route_rows(script, bands):
+        rd.rounded_rectangle([300, y, W - 300, y + 118], 16,
+                             fill=(26, 26, 32, 255), outline=col + (255,), width=3)
+        rd.text((340, y + 20), rng, font=F(46), fill=col + (255,))
+        rd.text((340, y + 72), lab, font=F(32), fill=(230, 230, 230, 255))
+        y += 148
+    rows = rows.filter(ImageFilter.GaussianBlur(9))
+    im.paste(rows, (0, 0), rows)
+    d = ImageDraw.Draw(im)
+    cx, cy = W // 2, 300 + (y - 300) // 2 - 20
+    d.arc([cx - 48, cy - 100, cx + 48, cy + 6], 180, 360, fill=GOLD, width=13)
+    d.rounded_rectangle([cx - 74, cy - 12, cx + 74, cy + 88], 14, fill=GOLD)
+    d.ellipse([cx - 13, cy + 18, cx + 13, cy + 44], fill=(10, 10, 12))
+    d.rectangle([cx - 6, cy + 34, cx + 6, cy + 62], fill=(10, 10, 12))
+    t = "LOCKED - YOUR ROUTE UNLOCKS AT THE END"
+    d.text(((W - d.textlength(t, font=F(36))) / 2, y + 56), t, font=F(36), fill=GOLD)
+    hud_im = hud5(script, {"section": "THE NUMBER", "check": check}, check)
+    im.paste(hud_im, (0, 0), hud_im)
+    return im
+
+def tease_segment(script, bands, check, tmp):
+    ip = os.path.join(tmp, "tease.png")
+    tease_image(script, bands, check).save(ip)
+    line = ("That number is only the headline. Your full breakdown stays "
+            "locked until the end. Finish the map, and I will show you "
+            "exactly what your number means - and your first move.")
+    wav = tts(line, os.path.join(tmp, "tease"))
+    dd = dur(wav) + 0.6
+    seg = os.path.join(tmp, "tease.mp4")
+    run(["ffmpeg", "-y", "-loop", "1", "-framerate", "30", "-i", ip, "-i", wav,
+         "-t", f"{dd:.2f}", "-vf", "format=yuv420p", "-c:v", "libx264", "-c:a", "aac", seg])
+    print(f"tease segment: {dd:.1f}s")
+    return seg, dd
+
+def route_image(script, bands, check, section):
+    """GAP 7 personal routing: the payoff card before the verdict -
+    every band of the viewer's number routed to its starting point."""
+    im = Image.new("RGB", (W, H), DARK)
+    d = ImageDraw.Draw(im)
+    t = "YOUR ROUTE"
+    d.text(((W - d.textlength(t, font=F(64))) / 2, 140), t, font=F(64), fill=CYAN)
+    y = 300
+    for rng, lab, route, col in _route_rows(script, bands):
+        d.rounded_rectangle([220, y, W - 220, y + 128], 16,
+                            fill=(22, 22, 27), outline=col, width=3)
+        d.text((260, y + 18), rng, font=F(44), fill=col)
+        d.text((260, y + 74), lab, font=F(30), fill=GREY)
+        rt = "-> " + route
+        d.text((W - 260 - d.textlength(rt, font=F(38)), y + 42), rt, font=F(38), fill=WHITE)
+        y += 162
+    t = "EVERY ROUTE ENDS AT THE RETEST"
+    d.text(((W - d.textlength(t, font=F(30))) / 2, y + 40), t, font=F(30), fill=GREY)
+    hud_im = hud5(script, {"section": section, "check": check}, check)
+    im.paste(hud_im, (0, 0), hud_im)
+    return im
+
+def route_segment(script, bands, check, section, tmp):
+    ip = os.path.join(tmp, "route.png")
+    route_image(script, bands, check, section).save(ip)
+    parts = []
+    for rng, _lab, route, _c in _route_rows(script, bands):
+        parts.append(f"{rng.lower()}: {route.lower()}")
+    line = "Here is your route. " + ". ".join(parts) + "."
+    wav = tts(line, os.path.join(tmp, "route"))
+    dd = dur(wav) + 0.6
+    seg = os.path.join(tmp, "route.mp4")
+    run(["ffmpeg", "-y", "-loop", "1", "-framerate", "30", "-i", ip, "-i", wav,
+         "-t", f"{dd:.2f}", "-vf", "format=yuv420p", "-c:v", "libx264", "-c:a", "aac", seg])
+    print(f"route segment: {dd:.1f}s")
+    return seg, dd
+
+def end_segment(script, tmp):
+    """GAP 8 end card: push the NEXT episode by name (read from the
+    next bank script) instead of ending on a comment prompt. Returns
+    (seg, dur) or None when there is no next episode."""
+    try:
+        nid = int(script.get("id", 0)) + 1
+    except (TypeError, ValueError):
+        return None
+    nxt = os.path.join(ROOT, "bank", f"{nid:03d}.json")
+    if not os.path.exists(nxt):
+        return None
+    try:
+        title = json.load(open(nxt)).get("title", "")
+    except Exception:
+        return None
+    if not title:
+        return None
+    im = Image.new("RGB", (W, H), DARK)
+    d = ImageDraw.Draw(im)
+    t = "NEXT ON THE STRENGTH TEST"
+    d.text(((W - d.textlength(t, font=F(34))) / 2, 268), t, font=F(34), fill=GOLD)
+    words, lines, cur = title.split(), [], ""
+    for w_ in words:
+        cand = (cur + " " + w_).strip()
+        if d.textlength(cand, font=F(58)) <= W - 360 or not cur:
+            cur = cand
+        else:
+            lines.append(cur); cur = w_
+    if cur:
+        lines.append(cur)
+    y = 360
+    for ln in lines[:3]:
+        d.text(((W - d.textlength(ln, font=F(58))) / 2, y), ln, font=F(58), fill=WHITE)
+        y += 76
+    ay = y + 44
+    d.polygon([(W // 2 - 95, ay), (W // 2 + 35, ay), (W // 2 + 35, ay - 24),
+               (W // 2 + 115, ay + 24), (W // 2 + 35, ay + 72), (W // 2 + 35, ay + 48),
+               (W // 2 - 95, ay + 48)], fill=CYAN)
+    t = "YOUR NEXT NUMBER IS WAITING"
+    d.text(((W - d.textlength(t, font=F(30))) / 2, H - 190), t, font=F(30), fill=GREY)
+    last = script["scenes"][-1]
+    hud_im = hud5(script, {"section": last.get("section", ""), "check": last.get("check", 0)},
+                  last.get("check", 0))
+    im.paste(hud_im, (0, 0), hud_im)
+    ip = os.path.join(tmp, "end.png")
+    im.save(ip)
+    spoken = re.sub(r"\([^)]*\)", "", title).strip()
+    wav = tts(f"Next test: {spoken}.", os.path.join(tmp, "end"))
+    dd = dur(wav) + 1.2
+    seg = os.path.join(tmp, "end.mp4")
+    run(["ffmpeg", "-y", "-loop", "1", "-framerate", "30", "-i", ip, "-i", wav,
+         "-t", f"{dd:.2f}", "-vf", "format=yuv420p", "-c:v", "libx264", "-c:a", "aac", seg])
+    print(f"end card: next ep {nid} '{title[:50]}' {dd:.1f}s")
+    return seg, dd
+
 def render5(script_path, out_path):
     global _EP_NUM
     # Timer segments are drawn inside render2.timer_segment, which pastes
@@ -781,6 +1258,7 @@ def render5(script_path, out_path):
     import render2 as _r2
     _r2.hud = hud5
     script = json.load(open(script_path))
+    _pick_citation(script)
     _USED.clear()
     # Cross-episode memory: pictures the last 3 episodes used (recorded in
     # state.json by main.py) -- the matcher penalises them so a picture
@@ -802,7 +1280,20 @@ def render5(script_path, out_path):
     scenes = script["scenes"]
     timer_idx = next((k for k, s in enumerate(scenes) if s["type"] == "timer"), None)
     n_items = len(script.get("checklist", []))
+    # GAP 7: the episode's number card drives the locked tease (after
+    # the card) and the personal route card (before the verdict).
+    bignum_idx, ep_bands = None, None
+    for k, s in enumerate(scenes):
+        if s.get("type") == "card" and s.get("card") == "bignum":
+            pb = _parse_bands(s.get("sub", ""))
+            if pb:
+                bignum_idx, ep_bands = k, pb
+                break
     for i, sc in enumerate(scenes):
+        if ep_bands and bignum_idx is not None and i == bignum_idx + 1 and i != 1:
+            seg, dd = tease_segment(script, ep_bands,
+                                    scenes[bignum_idx].get("check", 0), tmp)
+            segs.append(seg); plan.append(("calm", dd))
         # Gap 2: the roadmap returns between sections with updated state.
         if i == 1 and n_items >= 2:
             names = ", ".join(nm.lower() for nm in script["checklist"])
@@ -821,9 +1312,19 @@ def render5(script_path, out_path):
                 "The map is complete. Every stop checked. One thing left: your new number.",
                 tmp, "final", final=True)
             segs.append(seg); plan.append(("calm", dd))
+        if ep_bands and i == len(scenes) - 1 and i >= 3 and i != timer_idx:
+            seg, dd = route_segment(script, ep_bands, sc.get("check", 0),
+                                    sc.get("section", ""), tmp)
+            segs.append(seg); plan.append(("calm", dd))
         cached = os.path.join(tmp, f"seg{i}.mp4")
+        cached_ok = False
         if os.path.exists(cached) and os.path.getsize(cached) > 10000:
-            segs.append(cached); plan.append((sc.get("music", "calm"), dur(cached)))
+            try:
+                cd_ = dur(cached); cached_ok = True
+            except Exception:
+                os.remove(cached)  # truncated by an interrupted run: re-render
+        if cached_ok:
+            segs.append(cached); plan.append((sc.get("music", "calm"), cd_))
             print(f"scene {i} cached"); continue
         if sc["type"] == "timer":
             segs.append(timer_segment(script, sc, tmp, i)); plan.append(("drive", dur(segs[-1])))
@@ -831,6 +1332,9 @@ def render5(script_path, out_path):
             seg, mk, tt = anim_frames(script, sc, tmp, i); segs.append(seg); plan.append((mk, tt))
         else:
             seg, mk, tt = narrated_frames(script, sc, tmp, i); segs.append(seg); plan.append((mk, tt))
+    es = end_segment(script, tmp)
+    if es:
+        segs.append(es[0]); plan.append(("calm", es[1]))
     body = os.path.join(tmp, "body.mp4")
     inputs = []
     for s in segs: inputs += ["-i", s]
