@@ -1,1 +1,91 @@
-IiIiRGFpbHkgZW50cnkgcG9pbnQuIFJlbmRlcnMgdGhlIG5leHQgYmFua2VkIHNjcmlwdDsgdXBsb2FkcyBvbmx5IGlmIHRoZSB0aHJlZQpZb3VUdWJlIHNlY3JldHMgZXhpc3QuIFdpdGhvdXQgc2VjcmV0cyBpdCByZW5kZXJzIGFuZCBleGl0cyBjbGVhbmx5IChkcnkgcnVuKS4iIiIKaW1wb3J0IGdsb2IsIGpzb24sIG9zLCBzeXMKUk9PVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKFJPT1QsICJzcmMiKSkKZnJvbSByZW5kZXIgaW1wb3J0IHJlbmRlcgpmcm9tIHJlbmRlcjIgaW1wb3J0IHJlbmRlcjIKZnJvbSByZW5kZXIzIGltcG9ydCByZW5kZXIzCmZyb20gcmVuZGVyNCBpbXBvcnQgcmVuZGVyNApmcm9tIHJlbmRlcjUgaW1wb3J0IHJlbmRlcjUKZnJvbSBsZWFybiBpbXBvcnQgc2NvcmVfcXVldWUKCnN0YXRlX3AgPSBvcy5wYXRoLmpvaW4oUk9PVCwgInN0YXRlLmpzb24iKQpzdGF0ZSA9IGpzb24ubG9hZChvcGVuKHN0YXRlX3ApKSBpZiBvcy5wYXRoLmV4aXN0cyhzdGF0ZV9wKSBlbHNlIHsicHVibGlzaGVkIjogW10sICJkb25lX3NjcmlwdHMiOiBbXX0Kc2NyaXB0cyA9IHNvcnRlZChnbG9iLmdsb2Iob3MucGF0aC5qb2luKFJPT1QsICJiYW5rIiwgIlswLTldKi5qc29uIikpKQp0b2RvID0gW3MgZm9yIHMgaW4gc2NyaXB0cyBpZiBvcy5wYXRoLmJhc2VuYW1lKHMpIG5vdCBpbiBzdGF0ZVsiZG9uZV9zY3JpcHRzIl1dCmlmIG5vdCB0b2RvOgogICAgcHJpbnQoIkJBTksgRU1QVFk6IG5vIHVucmVuZGVyZWQgc2NyaXB0cyBsZWZ0LiBSZWZpbGwgYmFuay8gYXQgYnVpbGQgdGltZS4iKQogICAgc3lzLmV4aXQoMCkKc2NyaXB0X3BhdGggPSB0b2RvWzBdCnJhd19tZXRhID0ganNvbi5sb2FkKG9wZW4oc2NyaXB0X3BhdGgpKQoKIyBDaGFubmVsIGlkZW50aXR5IGxpdmVzIGluIGNoYW5uZWwuanNvbiBvbmx5LiBTY3JpcHRzIGNhcnJ5IHRoZSB0b2tlbgojIHtjaGFubmVsfTsgaXQgaXMgcmVzb2x2ZWQgaGVyZSwgYXQgcHVibGlzaCB0aW1lLCBzbyBvbmUgZWRpdCBpbgojIGNoYW5uZWwuanNvbiByZW5hbWVzIHRoZSBlbnRpcmUgYmFuayAoYWxsIDc4MCBlcGlzb2RlcykuCl9jZmdfcGF0aCA9IG9zLnBhdGguam9pbihST09ULCAiY2hhbm5lbC5qc29uIikKX2NmZyA9IGpzb24ubG9hZChvcGVuKF9jZmdfcGF0aCkpIGlmIG9zLnBhdGguZXhpc3RzKF9jZmdfcGF0aCkgZWxzZSB7fQpfY2hhbm5lbF9uYW1lID0gX2NmZy5nZXQoIm5hbWUiLCAiIikKCmRlZiBfc3Vic3Qobyk6CiAgICBpZiBpc2luc3RhbmNlKG8sIHN0cik6CiAgICAgICAgcmV0dXJuIG8ucmVwbGFjZSgie2NoYW5uZWx9IiwgX2NoYW5uZWxfbmFtZSkKICAgIGlmIGlzaW5zdGFuY2UobywgbGlzdCk6CiAgICAgICAgcmV0dXJuIFtfc3Vic3QoeCkgZm9yIHggaW4gb10KICAgIGlmIGlzaW5zdGFuY2UobywgZGljdCk6CiAgICAgICAgcmV0dXJuIHtrOiBfc3Vic3QodikgZm9yIGssIHYgaW4gby5pdGVtcygpfQogICAgcmV0dXJuIG8KCm1ldGEgPSBfc3Vic3QocmF3X21ldGEpCnJlc29sdmVkX3BhdGggPSBvcy5wYXRoLmpvaW4oUk9PVCwgIm91dCIsICJfcmVzb2x2ZWQuanNvbiIpCm9zLm1ha2VkaXJzKG9zLnBhdGguZGlybmFtZShyZXNvbHZlZF9wYXRoKSwgZXhpc3Rfb2s9VHJ1ZSkKanNvbi5kdW1wKG1ldGEsIG9wZW4ocmVzb2x2ZWRfcGF0aCwgInciKSwgaW5kZW50PTIpCm91dCA9IG9zLnBhdGguam9pbihST09ULCAib3V0IiwgInZpZGVvLm1wNCIpCiMgUHJlLWZsaWdodDogaWYgc2VjcmV0cyBleGlzdCwgcHJvdmUgdGhlIFlvdVR1YmUgdG9rZW4gZXhjaGFuZ2Ugd29ya3MgQkVGT1JFCiMgc3BlbmRpbmcgfjQwIG1pbnV0ZXMgcmVuZGVyaW5nIChmYWlsIGluIHNlY29uZHMsIHdpdGggR29vZ2xlJ3MgZXJyb3IgcHJpbnRlZCkuCmlmIGFsbChvcy5lbnZpcm9uLmdldChrKSBmb3IgayBpbiAoIllUX0NMSUVOVF9JRCIsICJZVF9DTElFTlRfU0VDUkVUIiwgIllUX1JFRlJFU0hfVE9LRU4iKSk6CiAgICBmcm9tIHVwbG9hZCBpbXBvcnQgYWNjZXNzX3Rva2VuCiAgICBhY2Nlc3NfdG9rZW4oKQogICAgcHJpbnQoInByZS1mbGlnaHQ6IFlvdVR1YmUgdG9rZW4gZXhjaGFuZ2UgT0siKQpyZW5kZXI1KHJlc29sdmVkX3BhdGgsIG91dCkgaWYgbWV0YS5nZXQoInY1IikgZWxzZSAocmVuZGVyNChyZXNvbHZlZF9wYXRoLCBvdXQpIGlmIG1ldGEuZ2V0KCJ2NCIpIGVsc2UgKHJlbmRlcjMocmVzb2x2ZWRfcGF0aCwgb3V0KSBpZiBtZXRhLmdldCgidjMiKSBlbHNlIChyZW5kZXIyKHJlc29sdmVkX3BhdGgsIG91dCkgaWYgbWV0YS5nZXQoInYyIikgZWxzZSByZW5kZXIocmVzb2x2ZWRfcGF0aCwgb3V0KSkpKQp0cnk6CiAgICBmcm9tIHRodW1icyBpbXBvcnQgbWFrZV90aHVtYm5haWwKICAgIG1ha2VfdGh1bWJuYWlsKG1ldGEsIG9zLnBhdGguam9pbihST09ULCAib3V0IiwgInRodW1ibmFpbC5qcGciKSkKICAgIHByaW50KCJ0aHVtYm5haWwgY29tcG9zZWQiKQpleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICBwcmludCgidGh1bWJuYWlsIHNraXBwZWQgKHVwbG9hZCBwcm9jZWVkcyB3aXRob3V0IGl0KToiLCBlKQp0cnk6CiAgICBmcm9tIHJlbmRlciBpbXBvcnQgZHVyCiAgICBfdG1wID0gb3MucGF0aC5qb2luKFJPT1QsICJvdXQiLCBmInRtcDVfe21ldGFbJ2lkJ119IikKICAgIF9jaGFwdGVycywgX3QgPSBbXSwgMC4wCiAgICBmb3IgX2ksIF9zYyBpbiBlbnVtZXJhdGUobWV0YVsic2NlbmVzIl0pOgogICAgICAgIF9zZWcgPSBvcy5wYXRoLmpvaW4oX3RtcCwgZiJzZWd7X2l9Lm1wNCIpCiAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKF9zZWcpOgogICAgICAgICAgICBfY2hhcHRlcnMgPSBbXQogICAgICAgICAgICBicmVhawogICAgICAgIF9sYWJlbCA9IChfc2MuZ2V0KCJzZWN0aW9uIikgb3IgX3NjLmdldCgidHlwZSIsICIiKSkudGl0bGUoKQogICAgICAgIGlmIF9sYWJlbCBhbmQgKG5vdCBfY2hhcHRlcnMgb3IgX2NoYXB0ZXJzWy0xXVsxXSAhPSBfbGFiZWwpOgogICAgICAgICAgICBfY2hhcHRlcnMuYXBwZW5kKChfdCwgX2xhYmVsKSkKICAgICAgICBfdCArPSBkdXIoX3NlZykKICAgIGlmIGxlbihfY2hhcHRlcnMpID49IDM6CiAgICAgICAgbWV0YVsiX2NoYXB0ZXJzIl0gPSBfY2hhcHRlcnMKICAgICAgICBwcmludChmImNoYXB0ZXJzOiB7bGVuKF9jaGFwdGVycyl9IGZyb20gcmVhbCBzZWdtZW50IHRpbWluZ3MiKQpleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICBwcmludCgiY2hhcHRlcnMgc2tpcHBlZDoiLCBlKQplbnRyeSA9IHsic2NyaXB0Ijogb3MucGF0aC5iYXNlbmFtZShzY3JpcHRfcGF0aCksICJ0aXRsZSI6IG1ldGFbInRpdGxlIl0sCiAgICAgICAgICJjYXRlZ29yeSI6IG1ldGEuZ2V0KCJjYXRlZ29yeSIsICIiKSwgInZpZGVvX2lkIjogTm9uZSwgInZpZXdzIjogTm9uZSwgImRheXNfbGl2ZSI6IDB9CnRyeToKICAgIGltcG9ydCByZW5kZXI1IGFzIF9yNW1vZAogICAgZW50cnlbImFydCJdID0gbGlzdChfcjVtb2QuTEFTVF9VU0VEKQpleGNlcHQgRXhjZXB0aW9uOgogICAgZW50cnlbImFydCJdID0gW10KaWYgYWxsKG9zLmVudmlyb24uZ2V0KGspIGZvciBrIGluICgiWVRfQ0xJRU5UX0lEIiwgIllUX0NMSUVOVF9TRUNSRVQiLCAiWVRfUkVGUkVTSF9UT0tFTiIpKToKICAgIGZyb20gdXBsb2FkIGltcG9ydCB1cGxvYWQKICAgIGVudHJ5WyJ2aWRlb19pZCJdID0gdXBsb2FkKG91dCwgbWV0YSwgb3MucGF0aC5qb2luKFJPT1QsICJvdXQiLCAidGh1bWJuYWlsLmpwZyIpKQogICAgcHJpbnQoInVwbG9hZGVkOiIsIGVudHJ5WyJ2aWRlb19pZCJdKQplbHNlOgogICAgcHJpbnQoIkRSWSBSVU46IG5vIFlvdVR1YmUgc2VjcmV0cyBwcmVzZW50LCB2aWRlbyByZW5kZXJlZCBvbmx5LiIpCnN0YXRlWyJwdWJsaXNoZWQiXS5hcHBlbmQoZW50cnkpCnN0YXRlWyJkb25lX3NjcmlwdHMiXS5hcHBlbmQob3MucGF0aC5iYXNlbmFtZShzY3JpcHRfcGF0aCkpCmpzb24uZHVtcChzdGF0ZSwgb3BlbihzdGF0ZV9wLCAidyIpLCBpbmRlbnQ9MikKc2NvcmVfcXVldWUoc3RhdGUpCg==
+"""Daily entry point. Renders the next banked script; uploads only if the three
+YouTube secrets exist. Without secrets it renders and exits cleanly (dry run)."""
+import glob, json, os, sys
+ROOT = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(ROOT, "src"))
+from render import render
+from render2 import render2
+from render3 import render3
+from render4 import render4
+from render5 import render5
+from learn import score_queue
+
+state_p = os.path.join(ROOT, "state.json")
+state = json.load(open(state_p)) if os.path.exists(state_p) else {"published": [], "done_scripts": []}
+scripts = sorted(glob.glob(os.path.join(ROOT, "bank", "[0-9]*.json")))
+todo = [s for s in scripts if os.path.basename(s) not in state["done_scripts"]]
+if not todo:
+    print("BANK EMPTY: no unrendered scripts left. Refill bank/ at build time.")
+    sys.exit(0)
+script_path = todo[0]
+raw_meta = json.load(open(script_path))
+
+# Channel identity lives in channel.json only. Scripts carry the token
+# {channel}; it is resolved here, at publish time, so one edit in
+# channel.json renames the entire bank (all 780 episodes).
+_cfg_path = os.path.join(ROOT, "channel.json")
+_cfg = json.load(open(_cfg_path)) if os.path.exists(_cfg_path) else {}
+_channel_name = _cfg.get("name", "")
+
+def _subst(o):
+    if isinstance(o, str):
+        return o.replace("{channel}", _channel_name)
+    if isinstance(o, list):
+        return [_subst(x) for x in o]
+    if isinstance(o, dict):
+        return {k: _subst(v) for k, v in o.items()}
+    return o
+
+meta = _subst(raw_meta)
+resolved_path = os.path.join(ROOT, "out", "_resolved.json")
+os.makedirs(os.path.dirname(resolved_path), exist_ok=True)
+json.dump(meta, open(resolved_path, "w"), indent=2)
+out = os.path.join(ROOT, "out", "video.mp4")
+# Pre-flight: if secrets exist, prove the YouTube token exchange works BEFORE
+# spending ~40 minutes rendering (fail in seconds, with Google's error printed).
+if all(os.environ.get(k) for k in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN")):
+    from upload import access_token
+    access_token()
+    print("pre-flight: YouTube token exchange OK")
+render5(resolved_path, out) if meta.get("v5") else (render4(resolved_path, out) if meta.get("v4") else (render3(resolved_path, out) if meta.get("v3") else (render2(resolved_path, out) if meta.get("v2") else render(resolved_path, out))))
+try:
+    from thumbs import make_thumbnail
+    make_thumbnail(meta, os.path.join(ROOT, "out", "thumbnail.jpg"))
+    print("thumbnail composed")
+except Exception as e:
+    print("thumbnail skipped (upload proceeds without it):", e)
+try:
+    from render import dur
+    _tmp = os.path.join(ROOT, "out", f"tmp5_{meta['id']}")
+    _chapters, _t = [], 0.0
+    for _i, _sc in enumerate(meta["scenes"]):
+        _seg = os.path.join(_tmp, f"seg{_i}.mp4")
+        if not os.path.exists(_seg):
+            _chapters = []
+            break
+        _label = (_sc.get("section") or _sc.get("type", "")).title()
+        if _label and (not _chapters or _chapters[-1][1] != _label):
+            _chapters.append((_t, _label))
+        _t += dur(_seg)
+    if len(_chapters) >= 3:
+        meta["_chapters"] = _chapters
+        print(f"chapters: {len(_chapters)} from real segment timings")
+except Exception as e:
+    print("chapters skipped:", e)
+entry = {"script": os.path.basename(script_path), "title": meta["title"],
+         "category": meta.get("category", ""), "video_id": None, "views": None, "days_live": 0}
+try:
+    import render5 as _r5mod
+    entry["art"] = list(_r5mod.LAST_USED)
+except Exception:
+    entry["art"] = []
+if all(os.environ.get(k) for k in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN")):
+    from upload import upload
+    entry["video_id"] = upload(out, meta, os.path.join(ROOT, "out", "thumbnail.jpg"))
+    print("uploaded:", entry["video_id"])
+else:
+    print("DRY RUN: no YouTube secrets present, video rendered only.")
+state["published"].append(entry)
+state["done_scripts"].append(os.path.basename(script_path))
+json.dump(state, open(state_p, "w"), indent=2)
+score_queue(state)
