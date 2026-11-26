@@ -86,25 +86,83 @@ def derive_spec(meta):
 
 LAST_THUMB = None  # asset actually used by the latest make_thumbnail call
 
+_THEME_FAMS = {
+    "ankle": {"calf", "shin", "balance"},
+    "balance": {"calf", "shin", "balance"},
+    "grip": {"grip", "hang"},
+    "hang": {"hang", "grip"},
+    "knee": {"calf", "hip", "jump"},
+    "shoulder": {"pushup", "hang"},
+    "elbow": {"grip", "pushup"},
+}
+
 
 def _recent_thumb_assets():
-    """Hero assets used by the last 2 published episodes, so a thumbnail
-    never repeats the picture the previous episodes just showed. Reads
-    state.json (the machine's own record); episodes published before the
-    'thumb' field existed fall back to their banked authored asset."""
-    recent = []
+    """Everything the last 2 published episodes already showed: their
+    thumbnail heroes AND every picture used inside those videos. A
+    thumbnail must never repeat any of it (the Rep Theory standard:
+    a fresh pose of the character, every time)."""
+    recent = set()
     try:
         state = json.load(open(os.path.join(ROOT, "state.json")))
         for entry in state.get("published", [])[-2:]:
-            asset = entry.get("thumb")
-            if not asset and entry.get("script"):
+            if entry.get("thumb"):
+                recent.add(entry["thumb"])
+            recent.update(entry.get("art") or [])
+            if entry.get("script"):
                 prev = json.load(open(os.path.join(ROOT, "bank", entry["script"])))
-                asset = (prev.get("thumb") or {}).get("asset")
-            if asset:
-                recent.append(asset)
+                a = (prev.get("thumb") or {}).get("asset")
+                if a:
+                    recent.add(a)
     except Exception:
         pass
     return recent
+
+
+def _pick_hero(meta, spec):
+    """Choose the thumbnail hero: the authored picture if it is fresh,
+    else the episode's own fresh Ren pose, else a fresh Ren pose from
+    the episode's own families, else any fresh own picture. Anatomy
+    plates are a last resort - the character sells the click."""
+    authored = spec.get("asset")
+    recent = _recent_thumb_assets()
+    if authored and authored not in recent:
+        return authored
+    try:
+        man = {it["file"]: it for it in
+               json.load(open(os.path.join(ROOT, "assets", "manifest.json")))["images"]}
+    except Exception:
+        man = {}
+
+    def is_pose(f):
+        return f in man and man[f].get("role") in ("still", "cycle", "closeup")
+
+    own = []
+    for sc in meta.get("scenes", []):
+        for a in (sc.get("poses") or []) + ([sc["asset"]] if sc.get("asset") else []):
+            if a not in own:
+                own.append(a)
+    for a in own:
+        if is_pose(a) and a not in recent:
+            return a
+    fams = {man[a].get("family") for a in own if a in man}
+    for f in man:
+        if man[f].get("family") in fams and is_pose(f) and f not in recent:
+            return f
+    # Theme pool: families belonging to the episode's subject (an ankle
+    # episode may draw on calf/shin poses - the ankle complex).
+    theme_fams = set()
+    text = (meta.get("title", "") + " " + meta.get("badge", "")).lower()
+    for token, fs in _THEME_FAMS.items():
+        if token in text:
+            theme_fams.update(fs)
+    for f in man:
+        if man[f].get("family") in theme_fams and is_pose(f) and f not in recent:
+            return f
+    for a in own:
+        if a not in recent and os.path.exists(os.path.join(ROOT, "assets", a)):
+            return a
+    return authored
 
 
 def make_thumbnail(meta, out_path):
@@ -114,19 +172,7 @@ def make_thumbnail(meta, out_path):
     badge chip, no brand bar - one idea only."""
     global LAST_THUMB
     spec = derive_spec(meta)
-    # Anti-repeat: if the authored hero was the thumbnail of one of the
-    # last 2 episodes, take the episode's next own picture instead.
-    recent = _recent_thumb_assets()
-    if spec.get("asset") in recent:
-        cands = []
-        for sc in meta.get("scenes", []):
-            for a in (sc.get("poses") or []) + ([sc["asset"]] if sc.get("asset") else []):
-                if a not in cands:
-                    cands.append(a)
-        for a in cands:
-            if a not in recent and os.path.exists(os.path.join(ROOT, "assets", a)):
-                spec["asset"] = a
-                break
+    spec["asset"] = _pick_hero(meta, spec)
     LAST_THUMB = spec.get("asset")
     RED = (255, 59, 48)
     img = Image.new("RGB", (W, H), (5, 5, 7))
