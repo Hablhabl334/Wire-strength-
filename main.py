@@ -79,6 +79,11 @@ try:
     entry["art"] = list(_r5mod.LAST_USED)
 except Exception:
     entry["art"] = []
+try:
+    import thumbs as _thmod
+    entry["thumb"] = _thmod.LAST_THUMB
+except Exception:
+    entry["thumb"] = None
 if all(os.environ.get(k) for k in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN")):
     from upload import upload
     entry["video_id"] = upload(out, meta, os.path.join(ROOT, "out", "thumbnail.jpg"))
