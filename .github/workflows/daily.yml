@@ -1,7 +1,7 @@
 name: wire-strength-daily
 on:
   schedule:
-    - cron: "0 11 * * *"   # Mon/Wed/Fri 15:00 Cairo ~ peak US morning (3 episodes/week, 780-episode bank = 5 years)
+    - cron: "0 11 * * *"   # DAILY 13:00 Cairo / 11:00 UTC, publish 15:00 Cairo (first 50 episodes, then Mon/Wed/Fri)
   workflow_dispatch:
 permissions:
   contents: write
@@ -11,6 +11,10 @@ jobs:
     timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
+      - name: Verify repo files are plain (not encoded)
+        run: |
+          python3 -m py_compile main.py src/learn.py src/metadata.py src/render.py src/render2.py src/render3.py src/render4.py src/render5.py src/thumbs.py src/upload.py
+          python3 -c "import json; json.load(open('state.json')); json.load(open('channel.json')); json.load(open('bank/topics.json')); print('files OK')"
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - name: Cache voice models (Kokoro 325MB + Piper fallback)
@@ -19,17 +23,18 @@ jobs:
           path: assets/voices
           key: voice-models-v1
       - name: Install deps
+        timeout-minutes: 12
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
-          pip install -r requirements.txt
+          sudo apt-get update -qq -o Acquire::http::Timeout=30 -o Acquire::Retries=3 && sudo apt-get install -y -qq -o Acquire::http::Timeout=30 -o Acquire::Retries=3 ffmpeg fonts-dejavu-core
+          pip install --timeout 60 --retries 3 -r requirements.txt
           mkdir -p assets/voices
           # Voice models: restored from cache on most runs; downloaded only on a
           # cache miss. At launch the Kokoro files also live in a Release of THIS
           # repo (trap-3 fix) - switch these two URLs to that release then.
-          test -f assets/voices/en_US-ryan-high.onnx || curl -sL -o assets/voices/en_US-ryan-high.onnx "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high/en_US-ryan-high.onnx"
-          test -f assets/voices/en_US-ryan-high.onnx.json || curl -sL -o assets/voices/en_US-ryan-high.onnx.json "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high/en_US-ryan-high.onnx.json"
-          test -f assets/voices/kokoro-v1.0.onnx || curl -sL -o assets/voices/kokoro-v1.0.onnx "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx"
-          test -f assets/voices/voices-v1.0.bin || curl -sL -o assets/voices/voices-v1.0.bin "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin"
+          test -f assets/voices/en_US-ryan-high.onnx || curl -fsSL --max-time 240 --retry 3 --retry-delay 5 -o assets/voices/en_US-ryan-high.onnx "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high/en_US-ryan-high.onnx"
+          test -f assets/voices/en_US-ryan-high.onnx.json || curl -fsSL --max-time 240 --retry 3 --retry-delay 5 -o assets/voices/en_US-ryan-high.onnx.json "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high/en_US-ryan-high.onnx.json"
+          test -f assets/voices/kokoro-v1.0.onnx || curl -fsSL --max-time 240 --retry 3 --retry-delay 5 -o assets/voices/kokoro-v1.0.onnx "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx"
+          test -f assets/voices/voices-v1.0.bin || curl -fsSL --max-time 240 --retry 3 --retry-delay 5 -o assets/voices/voices-v1.0.bin "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin"
       - name: Render next banked video (and upload if secrets exist)
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
