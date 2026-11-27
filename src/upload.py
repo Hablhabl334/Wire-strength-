@@ -4,19 +4,16 @@ Secrets (set by the channel owner in GitHub Secrets, never in code/chat):
 Quota: one upload = 1600 units of the free 10,000/day. Hard gate below.
 """
 import json, os, sys, urllib.request, urllib.parse, urllib.error
-from datetime import datetime, timedelta, timezone
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from metadata import build_description, build_tags
+from compute_publish_at import compute_publish_at
 
-def next_publish_at():
-    """Next 13:00 UTC (15:00 Cairo) strictly in the future, ISO 8601.
-    Runs start Mon/Wed/Fri 11:00 UTC, so this is same-day 13:00 UTC; the
-    +1 day fallback only covers a manual dispatch after 13:00 UTC."""
-    now = datetime.now(timezone.utc)
-    target = now.replace(hour=13, minute=0, second=0, microsecond=0)
-    if target <= now:
-        target += timedelta(days=1)
-    return target.strftime("%Y-%m-%dT%H:%M:%SZ")
+def publish_at():
+    """Scheduled publish time, ISO 8601. Delegates to compute_publish_at
+    (PUBLISH_MODE env, set to next-day by the workflow): publishAt is
+    always tomorrow's 13:00 UTC, >=30 min in the future - the ep-4-early
+    bug (same-day slot already reached) is structurally impossible."""
+    return compute_publish_at().strftime("%Y-%m-%dT%H:%M:%SZ")
 
 def access_token():
     _rt = os.environ["YT_REFRESH_TOKEN"]; _cid = os.environ["YT_CLIENT_ID"]
@@ -42,11 +39,22 @@ def access_token():
 MUSIC_CREDIT = ("\n\nMusic: 'Wallpaper', 'Cold Funk', 'Deep and Dirty' by Kevin MacLeod "
                 "(incompetech.com), licensed under CC BY 4.0.")
 
+def music_credit(meta):
+    """CC BY credit naming the tracks THIS episode actually used
+    (meta['_music'], set by main.py from render5.LAST_MUSIC). Falls back
+    to the static original-beds credit when no titles are available."""
+    titles = (meta or {}).get("_music") or []
+    if titles:
+        quoted = ", ".join("'%s'" % t for t in titles)
+        return ("\n\nMusic: %s by Kevin MacLeod "
+                "(incompetech.com), licensed under CC BY 4.0." % quoted)
+    return MUSIC_CREDIT
+
 def upload(video_path, meta, thumb_path=None):
     tok = access_token()
-    body = {"snippet": {"title": meta["title"], "description": build_description(meta) + MUSIC_CREDIT,
+    body = {"snippet": {"title": meta["title"], "description": build_description(meta) + music_credit(meta),
                         "tags": build_tags(meta), "categoryId": "17"},
-            "status": {"privacyStatus": "private", "publishAt": next_publish_at(),
+            "status": {"privacyStatus": "private", "publishAt": publish_at(),
                        "selfDeclaredMadeForKids": False}}
     req = urllib.request.Request(
         "https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
