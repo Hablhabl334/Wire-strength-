@@ -210,6 +210,39 @@ _MANIFEST = None
 _USED = Counter()
 _RECENT = set()   # pictures used by the last few episodes (from state.json)
 LAST_USED = []    # pictures this episode used (main.py records them)
+LAST_CHAPTERS = []  # [(start_sec, section)] on the real assembled timeline
+                    # (main.py turns them into YouTube chapters)
+LAST_MUSIC = []   # music titles this episode used, in order of first use
+                  # (main.py passes them to upload.py for the CC BY credit)
+
+# Music rotation (MUSIC_EXPANSION.md): a pool of 5 tracks per mood, the
+# original bed at slot 0. Deterministic by episode id - every mood resolves
+# to pool[int(id) % 5], the same slot across moods within one episode, so
+# consecutive episodes never share a bed and a track repeats only every
+# 5 episodes. Stateless: re-renders reproduce the same episode sound.
+# The mix downstream is LOCKED (0.16 volume, per-scene auto-cut,
+# -stream_loop -1 + atrim + 0.8s fades, -14 LUFS master) - only the file
+# each mood resolves to changes.
+MUSIC_POOLS = {
+    "calm": ["bed_calm.mp3", "calm_sovereign.mp3", "calm_clean-soul.mp3",
+             "calm_sincerely.mp3", "calm_beauty-flow.mp3"],
+    "drive": ["bed_drive.mp3", "drive_funkorama.mp3", "drive_loopster.mp3",
+              "drive_style-funk.mp3", "drive_got-funk.mp3"],
+    "dark": ["bed_dark.mp3", "dark_crypto.mp3", "dark_stay-the-course.mp3",
+             "dark_lightless-dawn.mp3", "dark_oppressive-gloom.mp3"],
+}
+MUSIC_TITLES = {
+    "bed_calm.mp3": "Wallpaper", "calm_sovereign.mp3": "Sovereign",
+    "calm_clean-soul.mp3": "Clean Soul", "calm_sincerely.mp3": "Sincerely",
+    "calm_beauty-flow.mp3": "Beauty Flow",
+    "bed_drive.mp3": "Cold Funk", "drive_funkorama.mp3": "Funkorama",
+    "drive_loopster.mp3": "Loopster", "drive_style-funk.mp3": "Style Funk",
+    "drive_got-funk.mp3": "Got Funk",
+    "bed_dark.mp3": "Deep and Dirty", "dark_crypto.mp3": "Crypto",
+    "dark_stay-the-course.mp3": "Stay the Course",
+    "dark_lightless-dawn.mp3": "Lightless Dawn",
+    "dark_oppressive-gloom.mp3": "Oppressive Gloom",
+}
 
 # Gap 3: annotation ON the picture. assets/anchors.json (authored at
 # build time) maps asset file -> body part -> [fx, fy] in SOURCE-image
@@ -916,9 +949,10 @@ def hud5(script, scene, done_upto):
             d.text((54, H - 100), st, font=F(22), fill=GOLD + (255,))
     return im
 
-def narrated_frames(script, scene, tmp, idx):
-    phs = phrases5(scene["narration"])
-    aud, bounds, total = scene_audio(phs, tmp, f"s{idx}", scene.get("lead_pause", 0.0))
+def narrated_frames(script, scene, tmp, idx, tag=None, scene_idx=None):
+    ftag = idx if tag is None else tag
+    phs = scene.get("_phrases") or phrases5(scene["narration"])
+    aud, bounds, total = scene_audio(phs, tmp, f"s{ftag}", scene.get("lead_pause", 0.0))
     is_card = scene["type"] == "card"
     base_art = None
     swap_cache = {}
@@ -1053,7 +1087,7 @@ def narrated_frames(script, scene, tmp, idx):
         draw_beat_list = [dict(b, pos="mr") if b.get("pos") == "tr" else b
                           for b in draw_beat_list]
     hud_im = hud5(script, scene, scene.get("check", 0))
-    fdir = os.path.join(tmp, f"ff{idx}"); os.makedirs(fdir, exist_ok=True)
+    fdir = os.path.join(tmp, f"ff{ftag}"); os.makedirs(fdir, exist_ok=True)
     pp_cache = [phrase_png(ph) for ph in phs]
     glow_cache = [glow_overlay(k / FPS_A) for k in range(20)]
     n_items = len(scene.get("lines", scene.get("layers", []))) or 3
@@ -1077,7 +1111,8 @@ def narrated_frames(script, scene, tmp, idx):
             # new content fades/scales in, in place - the cut itself
             # stays hard, the arrival is soft).
             fr = Image.blend(Image.new("RGB", (W, H), DARK), fr, max(0.0, tt / 0.4))
-        draw_beats(fr, draw_beat_list, j, scene_idx=idx, tt=tt, bounds=bounds)
+        draw_beats(fr, draw_beat_list, j, scene_idx=idx if scene_idx is None else scene_idx,
+                   tt=tt, bounds=bounds)
         if j in focus:
             _part, _px, _py = focus[j]
             _draw_focus(fr, _part, _px + (0 if is_card else sway), _py, tt, age=tt - bounds[j])
@@ -1088,16 +1123,17 @@ def narrated_frames(script, scene, tmp, idx):
         d = ImageDraw.Draw(fr)
         d.rectangle([60, 92, 60 + int(300 * min(1.0, tt / total)), 100], fill=CYAN)
         fr.save(os.path.join(fdir, f"f{fi:04d}.png"))
-    seg = os.path.join(tmp, f"seg{idx}.mp4")
+    seg = os.path.join(tmp, f"seg{ftag}.mp4")
     run(["ffmpeg", "-y", "-framerate", str(FPS_A), "-i", os.path.join(fdir, "f%04d.png"),
          "-i", aud, "-vf", "fps=30,format=yuv420p", "-c:v", "libx264", "-c:a", "aac",
          "-shortest", seg])
     print(f"scene {idx} ({scene['type']}) {total:.1f}s {len(phs)} phrases")
     return seg, scene.get("music", "calm"), total
 
-def anim_frames(script, scene, tmp, idx):
-    phs = phrases5(scene["narration"])
-    aud, bounds, total = scene_audio(phs, tmp, f"a{idx}", scene.get("lead_pause", 0.0))
+def anim_frames(script, scene, tmp, idx, tag=None):
+    ftag = idx if tag is None else tag
+    phs = scene.get("_phrases") or phrases5(scene["narration"])
+    aud, bounds, total = scene_audio(phs, tmp, f"a{ftag}", scene.get("lead_pause", 0.0))
     angle_sets = scene.get("angles") or [scene["poses"]]
     # HARD RULE: cycle poses obey the cross-episode ban too -- drop the
     # poses the last episodes showed when the set keeps at least 2 fresh
@@ -1116,7 +1152,7 @@ def anim_frames(script, scene, tmp, idx):
     cycle = scene.get("cycle", 2.4); every = scene.get("angle_every", 3)
     hud_im = hud5(script, scene, scene.get("check", 0))
     pp_cache = [phrase_png(ph) for ph in phs]
-    fdir = os.path.join(tmp, f"af{idx}"); os.makedirs(fdir, exist_ok=True)
+    fdir = os.path.join(tmp, f"af{ftag}"); os.makedirs(fdir, exist_ok=True)
     for fi in range(int(total * FPS_A)):
         tt = fi / FPS_A
         j = max(0, int(np.searchsorted(bounds, tt, side="right") - 1))
@@ -1131,17 +1167,28 @@ def anim_frames(script, scene, tmp, idx):
             pp = pp_cache[j]; fr.paste(pp, (0, 830), pp)
         fr.paste(hud_im, (0, 0), hud_im)
         fr.save(os.path.join(fdir, f"f{fi:04d}.png"))
-    seg = os.path.join(tmp, f"seg{idx}.mp4")
+    seg = os.path.join(tmp, f"seg{ftag}.mp4")
     run(["ffmpeg", "-y", "-framerate", str(FPS_A), "-i", os.path.join(fdir, "f%04d.png"),
          "-i", aud, "-vf", "fps=30,format=yuv420p", "-c:v", "libx264", "-c:a", "aac",
          "-shortest", seg])
     print(f"scene {idx} (anim) {total:.1f}s angles={len(sets)}")
     return seg, scene.get("music", "drive"), total
 
-def music_track(plan, total, tmp):
+def music_track(plan, total, tmp, ep_id=0):
     """plan: list of (kind, seconds). Build a ducked bed: consecutive same-kind
-    sections merged, each trimmed + faded, joined with the concat filter."""
-    files = {"dark": "bed_dark.mp3", "calm": "bed_calm.mp3", "drive": "bed_drive.mp3"}
+    sections merged, each trimmed + faded, joined with the concat filter.
+    Each mood resolves to MUSIC_POOLS[kind][int(ep_id) % 5] (rotation by
+    episode id); the resolved titles land in LAST_MUSIC for attribution."""
+    try:
+        slot = int(ep_id) % 5
+    except (TypeError, ValueError):
+        slot = 0
+    files = {kind: pool[slot % len(pool)] for kind, pool in MUSIC_POOLS.items()}
+    LAST_MUSIC[:] = []
+    for kind, _secs in plan:
+        title = MUSIC_TITLES.get(files[kind])
+        if title and title not in LAST_MUSIC:
+            LAST_MUSIC.append(title)
     merged = []
     for kind, secs in plan:
         if merged and merged[-1][0] == kind:
@@ -1319,11 +1366,19 @@ def tease_segment(script, bands, check, tmp):
     print(f"tease segment: {dd:.1f}s")
     return seg, dd
 
-def route_image(script, bands, check, section):
+def _dimc(c, f):
+    return tuple(max(0, min(255, int(v * f))) for v in c)
+
+def route_image(script, bands, check, section, active=None, done=frozenset(),
+                glow=1.0, lit_all=True):
     """GAP 7 personal routing, restyled v6 to the model's YOUR RESULT
     card: one row per band of the viewer's number, a coloured border
     down the row's left edge, and the row's own mini step-ladder with
-    its step lit - the viewer finds their row and their step at once."""
+    its step lit - the viewer finds their row and their step at once.
+    v6.2: rows carry a narration state - the row the voice is naming
+    right now glows (active), rows already named stay lit but calmer
+    (done), rows not yet named sit dim. With lit_all=True (the legacy
+    static call) every row renders in the calm lit style."""
     im = Image.new("RGB", (W, H), DARK)
     d = ImageDraw.Draw(im)
     t = "YOUR RESULT"
@@ -1332,12 +1387,34 @@ def route_image(script, bands, check, section):
     n = max(1, len(items))
     y = 280
     for i, (rng, lab, route, col) in enumerate(_route_rows(script, bands)):
-        d.rounded_rectangle([220, y, W - 220, y + 150], 16,
-                            fill=(22, 22, 27), outline=(70, 70, 76), width=2)
-        d.rectangle([220, y + 10, 234, y + 140], fill=col)
-        d.text((272, y + 16), rng, font=F(46), fill=col)
-        d.text((272, y + 76), lab, font=F(30), fill=GREY)
-        d.text((272, y + 110), route, font=F(28), fill=WHITE)
+        if active is not None and i == active:
+            state = "active"
+        elif i in done or (active is None and lit_all):
+            state = "done"
+        else:
+            state = "up"
+        if state == "active":
+            # the glow: a halo ring in the row's own colour, brightening
+            # in over ~0.25s (glow 0..1), then the row itself, border
+            # thick in the row colour.
+            halo = _dimc(col, 0.25 + 0.75 * glow)
+            d.rounded_rectangle([212, y - 8, W - 212, y + 158], 22, outline=halo, width=4)
+            bord = tuple(int((70 + (c - 70) * glow)) for c in col)
+            d.rounded_rectangle([220, y, W - 220, y + 150], 16,
+                                fill=(28, 28, 35), outline=bord, width=5)
+            bar_c, rng_c, lab_c, rte_c = col, col, WHITE, WHITE
+        elif state == "done":
+            d.rounded_rectangle([220, y, W - 220, y + 150], 16,
+                                fill=(22, 22, 27), outline=_dimc(col, 0.75), width=2)
+            bar_c, rng_c, lab_c, rte_c = col, col, GREY, WHITE
+        else:
+            d.rounded_rectangle([220, y, W - 220, y + 150], 16,
+                                fill=(15, 15, 18), outline=(46, 46, 52), width=2)
+            bar_c, rng_c, lab_c, rte_c = _dimc(col, 0.35), _dimc(col, 0.5), (95, 95, 95), (115, 115, 115)
+        d.rectangle([220, y + 10, 234, y + 140], fill=bar_c)
+        d.text((272, y + 16), rng, font=F(46), fill=rng_c)
+        d.text((272, y + 76), lab, font=F(30), fill=lab_c)
+        d.text((272, y + 110), route, font=F(28), fill=rte_c)
         # the row's mini ladder: n ascending bars, this row's step lit
         bw_, bgap, base = 26, 9, y + 122
         lx = W - 272 - (n * bw_ + (n - 1) * bgap)
@@ -1345,7 +1422,10 @@ def route_image(script, bands, check, section):
         for k in range(n):
             bh = 14 + int(26 * (k + 1) / n)
             x = lx + k * (bw_ + bgap)
-            if k < lit:
+            if state == "up":
+                d.rounded_rectangle([x, base - bh, x + bw_, base], 4,
+                                    outline=(70, 70, 76), width=2)
+            elif k < lit:
                 d.rounded_rectangle([x, base - bh, x + bw_, base], 4,
                                     fill=tuple(c // 2 for c in col))
             elif k == lit:
@@ -1361,19 +1441,35 @@ def route_image(script, bands, check, section):
     return im
 
 def route_segment(script, bands, check, section, tmp):
-    ip = os.path.join(tmp, "route.png")
-    route_image(script, bands, check, section).save(ip)
-    parts = []
-    for rng, _lab, route, _c in _route_rows(script, bands):
-        parts.append(f"{rng.lower()}: {route.lower()}")
-    line = "Here is your route. " + ". ".join(parts) + "."
-    wav = tts(line, os.path.join(tmp, "route"))
-    dd = dur(wav) + 0.6
+    """v6.2: the route card is an ANIMATED segment, like the model's
+    result chapter - the narration is synthesised per band (intro +
+    one sentence per row), and each row lights as the voice names it:
+    rows start dim, the named row's border glows in over ~0.25s, rows
+    already named stay lit but calmer."""
+    rows = _route_rows(script, bands)
+    units = ["Here is your route."] + \
+            [f"{rng.lower()}: {route.lower()}." for rng, _l, route, _c in rows]
+    aud, bounds, total = scene_audio(units, tmp, "route")
+    tail = 0.6
+    fdir = os.path.join(tmp, "routef"); os.makedirs(fdir, exist_ok=True)
+    for fi in range(int((total + tail) * FPS_A)):
+        tt = fi / FPS_A
+        j = max(0, int(np.searchsorted(bounds, tt, side="right") - 1))
+        active = j - 1 if j >= 1 else None
+        done = frozenset(range(active)) if active else frozenset()
+        glow = min(1.0, (tt - bounds[j]) / 0.25) if active is not None else 1.0
+        fr = route_image(script, bands, check, section,
+                         active=active, done=done, glow=glow, lit_all=False)
+        if tt < 0.4:
+            fr = Image.blend(Image.new("RGB", (W, H), DARK), fr, max(0.0, tt / 0.4))
+        fr.save(os.path.join(fdir, f"f{fi:04d}.png"))
     seg = os.path.join(tmp, "route.mp4")
-    run(["ffmpeg", "-y", "-loop", "1", "-framerate", "30", "-i", ip, "-i", wav,
-         "-t", f"{dd:.2f}", "-vf", "format=yuv420p", "-c:v", "libx264", "-c:a", "aac", seg])
-    print(f"route segment: {dd:.1f}s")
-    return seg, dd
+    run(["ffmpeg", "-y", "-framerate", str(FPS_A), "-i", os.path.join(fdir, "f%04d.png"),
+         "-i", aud, "-af", f"apad=pad_dur={tail}", "-vf", "fps=30,format=yuv420p",
+         "-c:v", "libx264", "-c:a", "aac", "-t", f"{total + tail:.2f}", seg])
+    print(f"route segment: {total + tail:.1f}s rows light at "
+          f"{[round(bounds[k + 1], 1) for k in range(len(rows))]}")
+    return seg, total + tail
 
 def end_segment(script, tmp):
     """GAP 8 end card: push the NEXT episode by name (read from the
@@ -1523,8 +1619,91 @@ def safety_segment(script, tmp):
     print(f"safety card: {dd:.1f}s")
     return seg, dd
 
+def _scene0_parts(scene, tmp):
+    """v6.2 (item 2): the intro roadmap must land by ~0:40 like the
+    model's (theirs: 0:36), but it is inserted after scene 0 - and a
+    long scene 0 pushes it late. When scene 0's narration would run
+    past ~45s, split it at the sentence boundary nearest to (never
+    after) 40s and return two half-scenes; the caller puts the intro
+    roadmap between them. No mid-sentence cuts: the split follows the
+    speech units scene_audio itself will use, and beats are remapped
+    to the half they belong to. Short scene 0 returns unchanged."""
+    if scene.get("type") == "timer" or not scene.get("narration"):
+        return [scene]
+    phs = phrases5(scene["narration"])
+    units = _speech_units(phs)
+    if len(units) < 2:
+        return [scene]
+    ends, t = [], scene.get("lead_pause", 0.0)
+    for k, (utext, _idxs) in enumerate(units):
+        t += dur(tts(utext, os.path.join(tmp, f"probe0_u{k}")))
+        ends.append(t)
+        t += 0.5  # scene_audio's inter-sentence gap
+    total = ends[-1]
+    if total <= 45:
+        return [scene]
+    k = 1  # units in part A: the last boundary at or before 40s
+    for i, e in enumerate(ends):
+        if e <= 40 and i < len(units) - 1:
+            k = i + 1
+    split_phrase = sum(len(idxs) for _t, idxs in units[:k])
+    A, B = dict(scene), dict(scene)
+    A["narration"] = " ".join(t for t, _ in units[:k])
+    B["narration"] = " ".join(t for t, _ in units[k:])
+    # Carry the ORIGINAL phrase list into each half: bank narration is
+    # author-chunked (often "|" separated), so re-running phrases5 on a
+    # half's joined text would re-chunk it differently and knock every
+    # beat index out of alignment. narrated_frames/anim_frames honour
+    # the "_phrases" override, so each half speaks and times exactly
+    # the phrases the probe measured.
+    A["_phrases"] = phs[:split_phrase]
+    B["_phrases"] = phs[split_phrase:]
+    def _remap(beats, part):
+        out = []
+        for b in beats:
+            at = b.get("at", 0)
+            if part == "A" and at < split_phrase:
+                out.append(dict(b))
+            elif part == "B" and at >= split_phrase:
+                nb = dict(b); nb["at"] = at - split_phrase; out.append(nb)
+        return out
+    A["beats"] = _remap(scene.get("beats", []), "A")
+    B["beats"] = _remap(scene.get("beats", []), "B")
+    B.pop("lead_pause", None)
+    print(f"scene 0 split: {total:.1f}s -> A {ends[k - 1]:.1f}s + "
+          f"B {total - ends[k - 1] - 0.5:.1f}s (sentence {k}/{len(units)})")
+    return [A, B]
+
+def _seg_cached(tmp, tag):
+    p = os.path.join(tmp, f"seg{tag}.mp4")
+    if os.path.exists(p) and os.path.getsize(p) > 10000:
+        try:
+            dur(p); return True
+        except Exception:
+            return False
+    return False
+
+def _render_scene(script, sc, tmp, idx, tag, scene_idx=None):
+    """One scene segment, with the same cache rule the main loop has
+    always used (a cached seg<tag>.mp4 that probes clean is reused).
+    Returns (seg_path, music_kind, seconds)."""
+    cached = os.path.join(tmp, f"seg{tag}.mp4")
+    if os.path.exists(cached) and os.path.getsize(cached) > 10000:
+        try:
+            cd_ = dur(cached)
+            print(f"scene {tag} cached")
+            return cached, sc.get("music", "calm"), cd_
+        except Exception:
+            os.remove(cached)  # truncated by an interrupted run: re-render
+    if sc["type"] == "timer":
+        seg = timer_segment(script, sc, tmp, idx)
+        return seg, "drive", dur(seg)
+    if sc["type"] == "anim":
+        return anim_frames(script, sc, tmp, idx, tag=tag)
+    return narrated_frames(script, sc, tmp, idx, tag=tag, scene_idx=scene_idx)
+
 def render5(script_path, out_path):
-    global _EP_NUM
+    global _EP_NUM, LAST_CHAPTERS
     # Timer segments are drawn inside render2.timer_segment, which pastes
     # render2.hud; point that call at hud5 so every frame type carries
     # the same progress furniture.
@@ -1533,6 +1712,7 @@ def render5(script_path, out_path):
     script = json.load(open(script_path))
     _pick_citation(script)
     _USED.clear()
+    LAST_CHAPTERS = []
     # Cross-episode memory: pictures the last 5 episodes used (recorded in
     # state.json by main.py) -- HARD RULE: the matcher never picks them
     # while a fresh picture exists (see _best_match).
@@ -1549,7 +1729,7 @@ def render5(script_path, out_path):
         _EP_NUM = 0
     sid = script.get("id", "x")
     tmp = os.path.join(ROOT, "out", f"tmp5_{sid}"); os.makedirs(tmp, exist_ok=True)
-    segs, plan = [], []
+    segs, plan, marks = [], [], []
     scenes = script["scenes"]
     timer_idx = next((k for k, s in enumerate(scenes) if s["type"] == "timer"), None)
     n_items = len(script.get("checklist", []))
@@ -1563,57 +1743,78 @@ def render5(script_path, out_path):
                 bignum_idx, ep_bands = k, pb
                 break
     tseg, td, thero = title_segment(script, tmp)
-    segs.append(tseg); plan.append(("drive", td))
+    segs.append(tseg); plan.append(("drive", td)); marks.append(None)
     if thero:
         _USED[thero] += 1  # the title card shows it: record it like any picture
+    names = ", ".join(nm.lower() for nm in script["checklist"])
+    cw_ = {2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six",
+           7: "Seven", 8: "Eight"}.get(n_items, str(n_items))
+    def _intro_roadmap(check):
+        seg, dd = roadmap_segment(script, check,
+            f"Here is the map. {cw_} stops: {names}. Finish the map, and you finish with a new number.",
+            tmp, "intro")
+        segs.append(seg); plan.append(("calm", dd)); marks.append(None)
+    # v6.2 item 2: scene 0 renders first - possibly in two halves with
+    # the intro roadmap between them, so the map lands by ~0:40 even
+    # when the opening narration runs long (see _scene0_parts).
+    intro_done = False
+    # An unsplit seg0.mp4 in cache means a previous run of this same
+    # script already decided no split - skip the probe synthesis.
+    parts0 = [scenes[0]] if scenes and _seg_cached(tmp, "0") else \
+        (_scene0_parts(scenes[0], tmp) if scenes else [])
+    for pi, psc in enumerate(parts0):
+        tag = "0" if len(parts0) == 1 else ("0a" if pi == 0 else "0b")
+        seg, mk, tt = _render_scene(script, psc, tmp, 0 if pi == 0 else tag, tag,
+                                    scene_idx=0)
+        segs.append(seg); plan.append((mk, tt)); marks.append(scenes[0].get("section"))
+        if len(parts0) == 2 and pi == 0 and n_items >= 2:
+            _intro_roadmap((scenes[1] if len(scenes) > 1 else psc).get("check", 1))
+            intro_done = True
     for i, sc in enumerate(scenes):
+        if i == 0:
+            continue
         if ep_bands and bignum_idx is not None and i == bignum_idx + 1 and i != 1:
             seg, dd = tease_segment(script, ep_bands,
                                     scenes[bignum_idx].get("check", 0), tmp)
-            segs.append(seg); plan.append(("calm", dd))
+            segs.append(seg); plan.append(("calm", dd)); marks.append(None)
         # Gap 2: the roadmap returns between sections with updated state.
-        if i == 1 and n_items >= 2:
-            names = ", ".join(nm.lower() for nm in script["checklist"])
-            cw_ = {2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six",
-                   7: "Seven", 8: "Eight"}.get(n_items, str(n_items))
-            seg, dd = roadmap_segment(script, sc.get("check", 1),
-                f"Here is the map. {cw_} stops: {names}. Finish the map, and you finish with a new number.",
-                tmp, "intro")
-            segs.append(seg); plan.append(("calm", dd))
+        if i == 1 and n_items >= 2 and not intro_done:
+            _intro_roadmap(sc.get("check", 1))
         elif timer_idx is not None and i == timer_idx and i > 1 and sc.get("check", 0) >= 2:
             seg, dd = roadmap_segment(script, sc.get("check", 0),
                 "Map check. The first stops are done. Now the real work.", tmp, "mid")
-            segs.append(seg); plan.append(("calm", dd))
+            segs.append(seg); plan.append(("calm", dd)); marks.append(None)
         elif i == len(scenes) - 1 and i >= 3 and i != timer_idx:
             seg, dd = roadmap_segment(script, sc.get("check", max(0, n_items - 1)),
                 "The map is complete. Every stop checked. One thing left: your new number.",
                 tmp, "final", final=True)
-            segs.append(seg); plan.append(("calm", dd))
+            segs.append(seg); plan.append(("calm", dd)); marks.append(None)
         if ep_bands and i == len(scenes) - 1 and i >= 3 and i != timer_idx:
             seg, dd = route_segment(script, ep_bands, sc.get("check", 0),
                                     sc.get("section", ""), tmp)
-            segs.append(seg); plan.append(("calm", dd))
-        cached = os.path.join(tmp, f"seg{i}.mp4")
-        cached_ok = False
-        if os.path.exists(cached) and os.path.getsize(cached) > 10000:
-            try:
-                cd_ = dur(cached); cached_ok = True
-            except Exception:
-                os.remove(cached)  # truncated by an interrupted run: re-render
-        if cached_ok:
-            segs.append(cached); plan.append((sc.get("music", "calm"), cd_))
-            print(f"scene {i} cached"); continue
-        if sc["type"] == "timer":
-            segs.append(timer_segment(script, sc, tmp, i)); plan.append(("drive", dur(segs[-1])))
-        elif sc["type"] == "anim":
-            seg, mk, tt = anim_frames(script, sc, tmp, i); segs.append(seg); plan.append((mk, tt))
-        else:
-            seg, mk, tt = narrated_frames(script, sc, tmp, i); segs.append(seg); plan.append((mk, tt))
+            segs.append(seg); plan.append(("calm", dd)); marks.append(None)
+        seg, mk, tt = _render_scene(script, sc, tmp, i, str(i), scene_idx=i)
+        segs.append(seg); plan.append((mk, tt)); marks.append(sc.get("section"))
     es = end_segment(script, tmp)
     if es:
-        segs.append(es[0]); plan.append(("calm", es[1]))
+        segs.append(es[0]); plan.append(("calm", es[1])); marks.append(None)
     sseg, sd = safety_segment(script, tmp)
-    segs.append(sseg); plan.append(("calm", sd))
+    segs.append(sseg); plan.append(("calm", sd)); marks.append(None)
+    # v6.2 item 3: YouTube chapters from the REAL assembled timeline -
+    # marks[i] is segs[i]'s section (None for inserted segments) and
+    # plan[i] its seconds, so title/roadmap/tease/route time is counted
+    # (the old scene-only walk in main.py drifted by all of it). The
+    # first chapter is pinned to 0:00: YouTube requires exactly 0:00.
+    LAST_CHAPTERS = []
+    _ct, _clab = 0.0, None
+    for _sec, (_mk, _dd) in zip(marks, plan):
+        if _sec and _sec != _clab:
+            LAST_CHAPTERS.append((_ct, _sec)); _clab = _sec
+        _ct += _dd
+    if LAST_CHAPTERS:
+        LAST_CHAPTERS[0] = (0.0, LAST_CHAPTERS[0][1])
+    print("chapters (renderer timeline):",
+          [(f"{s:.1f}", l) for s, l in LAST_CHAPTERS])
     body = os.path.join(tmp, "body.mp4")
     inputs = []
     for s in segs: inputs += ["-i", s]
@@ -1624,7 +1825,7 @@ def render5(script_path, out_path):
     run(["ffmpeg", "-y"] + inputs + ["-filter_complex", fc, "-map", "[v]", "-map", "[a]",
          "-c:v", "libx264", "-c:a", "aac", body])
     total = dur(body)
-    mus = music_track(plan, total, tmp)
+    mus = music_track(plan, total, tmp, _EP_NUM)
     # Mastering chain measured against the reference channel (-14.1..-14.5 LUFS):
     # hard voice compression first (their narrator has a low crest factor), then
     # mix, make-up gain and a true limiter with level compensation OFF.
