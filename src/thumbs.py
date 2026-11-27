@@ -98,14 +98,23 @@ _THEME_FAMS = {
 
 
 def _recent_thumb_assets():
-    """Everything the last 2 published episodes already showed: their
-    thumbnail heroes AND every picture used inside those videos. A
-    thumbnail must never repeat any of it (the Rep Theory standard:
-    a fresh pose of the character, every time)."""
-    recent = set()
+    """(recent_art, hero_history) from state.json. recent_art = every
+    picture shown by the last 3 episodes (their in-video art + their
+    thumbnail heroes) - a new thumbnail must never repeat any of it.
+    hero_history = every thumbnail hero ever used - a hero that already
+    sold a click once is only a last resort."""
+    recent, heroes = set(), set()
     try:
         state = json.load(open(os.path.join(ROOT, "state.json")))
-        for entry in state.get("published", [])[-2:]:
+        pubs = state.get("published", [])
+        for entry in pubs:
+            hero = entry.get("thumb")
+            if not hero and entry.get("script"):
+                prev = json.load(open(os.path.join(ROOT, "bank", entry["script"])))
+                hero = (prev.get("thumb") or {}).get("asset")
+            if hero:
+                heroes.add(hero)
+        for entry in pubs[-3:]:
             if entry.get("thumb"):
                 recent.add(entry["thumb"])
             recent.update(entry.get("art") or [])
@@ -116,18 +125,20 @@ def _recent_thumb_assets():
                     recent.add(a)
     except Exception:
         pass
-    return recent
+    return recent, heroes
 
 
 def _pick_hero(meta, spec):
-    """Choose the thumbnail hero: the authored picture if it is fresh,
-    else the episode's own fresh Ren pose, else a fresh Ren pose from
-    the episode's own families, else any fresh own picture. Anatomy
-    plates are a last resort - the character sells the click."""
+    """Choose the thumbnail hero under Habl's HARD RULE (2026-11-27):
+    NEVER a repeated picture. The hero must not appear anywhere in the
+    last 3 episodes (thumbnail or in-video) while any fresh picture
+    exists, and a picture that was already a thumbnail hero once is a
+    last resort. Chain: the authored picture, the episode's own Ren
+    poses, same-family poses, subject-theme poses, any own picture.
+    Anatomy plates sit at the end of the chain - the character sells
+    the click, exactly like the model channel."""
     authored = spec.get("asset")
-    recent = _recent_thumb_assets()
-    if authored and authored not in recent:
-        return authored
+    recent, heroes = _recent_thumb_assets()
     try:
         man = {it["file"]: it for it in
                json.load(open(os.path.join(ROOT, "assets", "manifest.json")))["images"]}
@@ -142,27 +153,40 @@ def _pick_hero(meta, spec):
         for a in (sc.get("poses") or []) + ([sc["asset"]] if sc.get("asset") else []):
             if a not in own:
                 own.append(a)
+    chain = []
+    def add(f):
+        if f and f not in chain and os.path.exists(os.path.join(ROOT, "assets", f)):
+            chain.append(f)
+    add(authored)
     for a in own:
-        if is_pose(a) and a not in recent:
-            return a
+        if is_pose(a):
+            add(a)
     fams = {man[a].get("family") for a in own if a in man}
     for f in man:
-        if man[f].get("family") in fams and is_pose(f) and f not in recent:
-            return f
-    # Theme pool: families belonging to the episode's subject (an ankle
-    # episode may draw on calf/shin poses - the ankle complex).
+        if man[f].get("family") in fams and is_pose(f):
+            add(f)
     theme_fams = set()
     text = (meta.get("title", "") + " " + meta.get("badge", "")).lower()
     for token, fs in _THEME_FAMS.items():
         if token in text:
             theme_fams.update(fs)
     for f in man:
-        if man[f].get("family") in theme_fams and is_pose(f) and f not in recent:
-            return f
+        if man[f].get("family") in theme_fams and is_pose(f):
+            add(f)
     for a in own:
-        if a not in recent and os.path.exists(os.path.join(ROOT, "assets", a)):
-            return a
-    return authored
+        add(a)
+    if not chain:
+        return authored
+    clean = [f for f in chain if f not in recent]
+    if clean:
+        for f in clean:
+            if f not in heroes:
+                return f
+        return clean[0]
+    for f in chain:
+        if f not in heroes:
+            return f
+    return chain[0]
 
 
 def make_thumbnail(meta, out_path):
@@ -198,27 +222,25 @@ def make_thumbnail(meta, out_path):
                       Image.fromarray(alpha, "L"))
     d = ImageDraw.Draw(img, "RGBA")
 
-    # --- tease text: max 2 lines, huge; line 1 white, line 2 red ---
+    # --- tease text: EXACTLY the model channel's grammar - at most 2
+    # words (the hook's punch lands last, so the last 2 words), ONE
+    # line, first word white, second word red ---
     hook = (spec.get("hook") or "THE TEST").upper()
-    words = hook.split()
-    if len(words) <= 2:
-        lines = [" ".join(words)]
-    else:
-        half = (len(words) + 1) // 2
-        lines = [" ".join(words[:half]), " ".join(words[half:])]
+    words = hook.split()[-2:]
     size = 196
     while size > 60:
         f = _font(size)
-        if all(d.textlength(ln, font=f) <= 700 for ln in lines):
+        if d.textlength(" ".join(words), font=f) <= 700:
             break
         size -= 8
     f = _font(size)
-    lh = int(size * 1.04)
-    y = (H - lh * len(lines)) // 2 - 10
-    for i, ln in enumerate(lines):
-        d.text((52, y), ln, font=f, fill=(255, 255, 255) if i == 0 else RED,
+    y = (H - int(size * 1.04)) // 2 - 10
+    x = 52
+    for i, w in enumerate(words):
+        d.text((x, y), w, font=f, fill=(255, 255, 255) if i == 0 else RED,
                stroke_width=7, stroke_fill=(0, 0, 0))
-        y += lh
+        x += d.textlength(w + " ", font=f)
+    lh = int(size * 1.04)
 
     # --- one hand-drawn red arrow: text -> character ---
     ay = H // 2 + lh // 2 + 64
