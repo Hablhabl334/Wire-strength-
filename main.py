@@ -49,6 +49,16 @@ if all(os.environ.get(k) for k in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRE
     print("pre-flight: YouTube token exchange OK")
 render5(resolved_path, out) if meta.get("v5") else (render4(resolved_path, out) if meta.get("v4") else (render3(resolved_path, out) if meta.get("v3") else (render2(resolved_path, out) if meta.get("v2") else render(resolved_path, out))))
 try:
+    # Music rotation: the renderer's resolved track titles ride the meta
+    # dict to upload.py, which credits exactly the tracks this episode
+    # used (CC BY 4.0). Empty for non-v5 renderers -> static fallback.
+    import render5 as _r5mus
+    if getattr(_r5mus, "LAST_MUSIC", None):
+        meta["_music"] = list(_r5mus.LAST_MUSIC)
+        print("music credit:", meta["_music"])
+except Exception as e:
+    print("music credit skipped:", e)
+try:
     from thumbs import make_thumbnail
     make_thumbnail(meta, os.path.join(ROOT, "out", "thumbnail.jpg"))
     print("thumbnail composed")
@@ -56,20 +66,30 @@ except Exception as e:
     print("thumbnail skipped (upload proceeds without it):", e)
 try:
     from render import dur
-    _tmp = os.path.join(ROOT, "out", f"tmp5_{meta['id']}")
     _chapters, _t = [], 0.0
-    for _i, _sc in enumerate(meta["scenes"]):
-        _seg = os.path.join(_tmp, f"seg{_i}.mp4")
-        if not os.path.exists(_seg):
-            _chapters = []
-            break
-        _label = (_sc.get("section") or _sc.get("type", "")).title()
-        if _label and (not _chapters or _chapters[-1][1] != _label):
-            _chapters.append((_t, _label))
-        _t += dur(_seg)
+    # v6.2: prefer the renderer's own assembled timeline (it counts the
+    # title card, roadmaps, tease and route segments the scene-only
+    # walk below cannot see, so its boundaries are the true ones).
+    if meta.get("v5"):
+        import render5 as _r5ch
+        _lc = getattr(_r5ch, "LAST_CHAPTERS", None) or []
+        if len(_lc) >= 3:
+            _chapters = [(float(_s), str(_l).title()) for _s, _l in _lc]
+            print(f"chapters: {len(_chapters)} from renderer timeline")
+    if not _chapters:
+        _tmp = os.path.join(ROOT, "out", f"tmp5_{meta['id']}")
+        for _i, _sc in enumerate(meta["scenes"]):
+            _seg = os.path.join(_tmp, f"seg{_i}.mp4")
+            if not os.path.exists(_seg):
+                _chapters = []
+                break
+            _label = (_sc.get("section") or _sc.get("type", "")).title()
+            if _label and (not _chapters or _chapters[-1][1] != _label):
+                _chapters.append((_t, _label))
+            _t += dur(_seg)
     if len(_chapters) >= 3:
         meta["_chapters"] = _chapters
-        print(f"chapters: {len(_chapters)} from real segment timings")
+        print(f"chapters ready: {len(_chapters)}")
 except Exception as e:
     print("chapters skipped:", e)
 entry = {"script": os.path.basename(script_path), "title": meta["title"],
