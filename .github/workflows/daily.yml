@@ -1,50 +1,190 @@
 name: wire-strength-daily
+
+# ---------------------------------------------------------------------------
+# The Strength Test — daily episode render + upload (next-day publish).
+# Option B (LOCKED): every episode is rendered one day ahead and scheduled
+# for tomorrow 13:00 UTC. A late run can never publish a video early.
+#
+# Layers of redundancy against GitHub's scheduled-workflow queue:
+#   Layer 1 (this file) — three off-top-of-hour cron triggers + idempotency.
+#   Layer 2 (guardian.yml) — 11:52 UTC check; dispatches this workflow if
+#                             nothing ran / succeeded today.
+#   Layer 3 (cron-job.org) — external 11:20 UTC dispatch via fine-grained PAT.
+#   Layer 4 (src/compute_publish_at.py) — publishAt is always a future
+#                             13:00 UTC.
+#
+# Merge note (Bestie review of GLM's package, 2026-11-27): the render job
+# keeps this repo's proven steps verbatim (verify-plain, voice-model cache,
+# hardened install with ffmpeg + fonts, Commit state with contents: write)
+# and adds an in-render idempotency re-check: a backup trigger that queued
+# behind a long render re-checks for a success before rendering, so a slow
+# day can never render two episodes.
+# ---------------------------------------------------------------------------
+
 on:
   schedule:
-    - cron: "0 11 * * *"   # DAILY 13:00 Cairo / 11:00 UTC, publish 15:00 Cairo (first 50 episodes, then Mon/Wed/Fri)
+    - cron: '7 11 * * *'    # 11:07 UTC — primary (off the top of the hour).
+    - cron: '37 11 * * *'   # 11:37 UTC — backup 1.
+    - cron: '7 12 * * *'    # 12:07 UTC — backup 2 (not an extra episode:
+                            # the idempotency check skips it if a run
+                            # already succeeded today).
   workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force a run even if one already succeeded today'
+        required: false
+        default: 'false'
+        type: choice
+        options: ['false', 'true']
+
 permissions:
-  contents: write
+  contents: read
+  actions: read
+
+env:
+  TZ: UTC
+  PUBLISH_MODE: 'next-day'   # LOCKED: option B. 'same-day' is available in
+                              # src/compute_publish_at.py but NOT selected.
+  REPO: Hablhabl334/Wire-strength-
+
 jobs:
-  run:
+  prepare:
+    name: Idempotency check (skip if today's episode is already done)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      actions: read
+    outputs:
+      date: ${{ steps.date.outputs.date }}
+      should_run: ${{ steps.check.outputs.should_run }}
+    steps:
+      - name: Today's date (UTC)
+        id: date
+        run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Has a run of this workflow already succeeded today?
+        id: check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TODAY: ${{ steps.date.outputs.date }}
+        run: |
+          set -eu
+          FORCE="${{ inputs.force }}"
+          echo "force=${FORCE:-false}"
+          if [ "${FORCE:-false}" = "true" ]; then
+            echo "should_run=true  (workflow_dispatch with force=true)"
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          RESPONSE=$(curl -sS \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$REPO/actions/workflows/daily.yml/runs?created=>=$TODAY&status=completed&per_page=100")
+          SUCCESS=$(echo "$RESPONSE" | jq '[.workflow_runs[] | select(.conclusion == "success")] | length' 2>/dev/null || echo "0")
+          echo "Successful runs today: $SUCCESS"
+          if [ "$SUCCESS" -gt 0 ]; then
+            echo "should_run=false"
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_run=true"
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  render:
+    name: Render + upload episode
+    needs: prepare
+    if: needs.prepare.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 150
+    permissions:
+      contents: write   # the Commit state step pushes state.json
+      actions: read     # the re-check below lists today's runs
+    concurrency:
+      group: wire-strength-${{ needs.prepare.outputs.date }}
+      cancel-in-progress: false
+    env:
+      PUBLISH_MODE: 'next-day'
     steps:
-      - uses: actions/checkout@v4
-      - name: Verify repo files are plain (not encoded)
+      - name: Re-check idempotency (a queued backup must not re-render)
+        id: guard
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python3 -m py_compile main.py src/learn.py src/metadata.py src/render.py src/render2.py src/render3.py src/render4.py src/render5.py src/thumbs.py src/upload.py
+          set -eu
+          FORCE="${{ inputs.force }}"
+          if [ "${FORCE:-false}" = "true" ]; then
+            echo "proceed=true  (force)"
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          TODAY=$(date -u +%Y-%m-%d)
+          RESPONSE=$(curl -sS \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$REPO/actions/workflows/daily.yml/runs?created=>=$TODAY&status=completed&per_page=100")
+          SUCCESS=$(echo "$RESPONSE" | jq '[.workflow_runs[] | select(.conclusion == "success")] | length' 2>/dev/null || echo "0")
+          echo "Successful runs today (re-check): $SUCCESS"
+          if [ "$SUCCESS" -gt 0 ]; then
+            echo "proceed=false"
+            echo "proceed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "proceed=true"
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.guard.outputs.proceed == 'true'
+
+      - name: Verify repo files are plain (not encoded)
+        if: steps.guard.outputs.proceed == 'true'
+        run: |
+          python3 -m py_compile main.py src/learn.py src/metadata.py src/render.py src/render2.py src/render3.py src/render4.py src/render5.py src/thumbs.py src/upload.py src/compute_publish_at.py
           python3 -c "import json; json.load(open('state.json')); json.load(open('channel.json')); json.load(open('bank/topics.json')); print('files OK')"
+
       - uses: actions/setup-python@v5
-        with: {python-version: "3.12"}
+        if: steps.guard.outputs.proceed == 'true'
+        with: {python-version: "3.12", cache: 'pip'}
+
       - name: Cache voice models (Kokoro 325MB + Piper fallback)
+        if: steps.guard.outputs.proceed == 'true'
         uses: actions/cache@v4
         with:
           path: assets/voices
           key: voice-models-v1
+
       - name: Install deps
+        if: steps.guard.outputs.proceed == 'true'
         timeout-minutes: 12
         run: |
           sudo apt-get update -qq -o Acquire::http::Timeout=30 -o Acquire::Retries=3 && sudo apt-get install -y -qq -o Acquire::http::Timeout=30 -o Acquire::Retries=3 ffmpeg fonts-dejavu-core
-          pip install --timeout 60 --retries 3 -r requirements.txt
+          pip install --timeout 60 --retries 3 --no-cache-dir -r requirements.txt
           mkdir -p assets/voices
-          # Voice models: restored from cache on most runs; downloaded only on a
-          # cache miss. At launch the Kokoro files also live in a Release of THIS
-          # repo (trap-3 fix) - switch these two URLs to that release then.
           test -f assets/voices/en_US-ryan-high.onnx || curl -fsSL --max-time 240 --retry 3 --retry-delay 5 -o assets/voices/en_US-ryan-high.onnx "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high/en_US-ryan-high.onnx"
           test -f assets/voices/en_US-ryan-high.onnx.json || curl -fsSL --max-time 240 --retry 3 --retry-delay 5 -o assets/voices/en_US-ryan-high.onnx.json "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high/en_US-ryan-high.onnx.json"
           test -f assets/voices/kokoro-v1.0.onnx || curl -fsSL --max-time 240 --retry 3 --retry-delay 5 -o assets/voices/kokoro-v1.0.onnx "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx"
           test -f assets/voices/voices-v1.0.bin || curl -fsSL --max-time 240 --retry 3 --retry-delay 5 -o assets/voices/voices-v1.0.bin "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin"
+
       - name: Render next banked video (and upload if secrets exist)
+        if: steps.guard.outputs.proceed == 'true'
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
         run: python main.py
+
       - name: Commit state
+        if: steps.guard.outputs.proceed == 'true'
         run: |
           git config user.name "wire-strength-bot"
           git config user.email "bot@users.noreply.github.com"
           git add state.json bank/topics.json
           git commit -m "daily run" || echo "nothing to commit"
           git push || true
+
+      - name: Summary
+        run: |
+          echo "### Daily episode" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Date: ${{ needs.prepare.outputs.date }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Publish mode: next-day (tomorrow 13:00 UTC)" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Triggered by: ${{ github.event_name }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Proceeded: ${{ steps.guard.outputs.proceed }}" >> "$GITHUB_STEP_SUMMARY"
