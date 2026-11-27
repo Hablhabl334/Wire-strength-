@@ -1,0 +1,68 @@
+name: wire-strength-guardian
+
+on:
+  schedule:
+    - cron: '52 11 * * *'   # 11:52 UTC — primary should have fired by now; early
+                            # enough that a dispatched render finishes well before
+                            # tomorrow's 13:00 UTC publish deadline (option B).
+                            # Under option A (not selected), timing is tighter.
+  workflow_dispatch: {}
+
+permissions:
+  actions: write   # list today's runs (read) + dispatch workflow_dispatch (write)
+  contents: read   # defensive
+
+env:
+  TZ: UTC
+
+jobs:
+  check-and-dispatch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check today's daily.yml status; dispatch if no success and nothing in flight
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -eu
+          TODAY=$(date -u +%Y-%m-%d)
+          echo "Guardian check for $REPO on $TODAY"
+
+          RESPONSE=$(curl -sS \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$REPO/actions/workflows/daily.yml/runs?created=>=$TODAY&per_page=100")
+
+          TOTAL=$(echo "$RESPONSE" | jq '.workflow_runs | length')
+          SUCCESS=$(echo "$RESPONSE" | jq '[.workflow_runs[] | select(.conclusion == "success")] | length')
+          IN_PROGRESS=$(echo "$RESPONSE" | jq '[.workflow_runs[] | select(.status == "in_progress")] | length')
+          QUEUED=$(echo "$RESPONSE" | jq '[.workflow_runs[] | select(.status == "queued")] | length')
+
+          echo "Today's daily.yml runs: total=$TOTAL success=$SUCCESS in_progress=$IN_PROGRESS queued=$QUEUED"
+
+          # Don't dispatch if a run is in flight — let it finish.
+          if [ "$IN_PROGRESS" -gt 0 ] || [ "$QUEUED" -gt 0 ]; then
+            echo "A run is in progress or queued. Not dispatching."
+            exit 0
+          fi
+
+          # Don't dispatch if today already succeeded.
+          if [ "$SUCCESS" -gt 0 ]; then
+            echo "Today already succeeded. Not dispatching."
+            exit 0
+          fi
+
+          # No success, nothing in flight. Dispatch.
+          echo "No successful run today and nothing in flight. Dispatching workflow_dispatch..."
+          HTTP_CODE=$(curl -sS -o /dev/null -w "%{http_code}" -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$REPO/actions/workflows/daily.yml/dispatches" \
+            -d '{"ref":"main"}')
+          echo "Dispatch HTTP status: $HTTP_CODE"
+          if [ "$HTTP_CODE" != "204" ]; then
+            echo "WARNING: expected HTTP 204 (No Content) from dispatch endpoint, got $HTTP_CODE."
+            exit 1
+          fi
+          echo "Dispatch sent successfully."
