@@ -117,12 +117,29 @@ def _draw_band_steps(d, bands, big_text):
         mx = int(x0 + (x1 - x0) * line_v / scale_max)
         d.polygon([(mx - 11, ty - 18), (mx + 11, ty - 18), (mx, ty - 3)], fill=GOLD)
 
+def _draw_stopwatch(d, cx, cy, r):
+    """v6 device (L-sit video): a stopwatch face for a number that is
+    a time - white ring, tick marks, red hand, red crown button."""
+    d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=WHITE, width=9)
+    d.rectangle([cx - 15, cy - r - 30, cx + 15, cy - r + 2], fill=GREY)
+    d.rounded_rectangle([cx - 36, cy - r - 54, cx + 36, cy - r - 28], 6, fill=(200, 60, 60))
+    for k in range(12):
+        a = math.radians(k * 30)
+        d.line([cx + (r - 18) * math.sin(a), cy - (r - 18) * math.cos(a),
+                cx + (r - 38) * math.sin(a), cy - (r - 38) * math.cos(a)], fill=GREY, width=5)
+    a = math.radians(50)
+    d.line([cx, cy, cx + (r - 46) * math.sin(a), cy - (r - 46) * math.cos(a)], fill=(200, 60, 60), width=9)
+    d.ellipse([cx - 13, cy - 13, cx + 13, cy + 13], fill=WHITE)
+
 def card_image4(scene, reveal=99):
     im = Image.new("RGB", (W, H), DARK); d = ImageDraw.Draw(im)
     kind = scene["card"]
     if kind == "bignum":
         d.text((140, 300), scene["big"], font=F(230), fill=CYAN)
         if reveal >= 1: d.text((146, 580), scene["label"], font=F(64), fill=WHITE)
+        if reveal >= 1 and re.search(r"\bSEC\b|\bSECONDS?\b",
+                                     (scene.get("big", "") + " " + scene.get("label", "")).upper()):
+            _draw_stopwatch(d, W - 350, 350, 140)
         if reveal >= 2:
             d.text((146, 680), scene.get("sub", ""), font=F(38, False), fill=GREY)
             bands = _parse_bands(scene.get("sub", ""))
@@ -329,12 +346,17 @@ def _focus_plan(phrase_tags, beats, scene, resolved, sizes, bounds):
                     break
     return plan
 
-def _draw_focus(fr, part, px, py, tt):
+def _draw_focus(fr, part, px, py, tt, age=9.0):
+    # v6.1: the model's target rings brighten in over ~1s, they do not
+    # snap on - scale the ink up from the dark ground while age < 0.8s.
+    f = 1.0 if age >= 0.8 else max(0.15, age / 0.8)
+    def C(c):
+        return tuple(int(v * f) for v in c)
     d = ImageDraw.Draw(fr)
     r = 36 + int(5 * math.sin(tt * 5.0))
-    d.ellipse([px - r, py - r, px + r, py + r], outline=RED, width=6)
-    d.ellipse([px - r - 13, py - r - 13, px + r + 13, py + r + 13], outline=WHITE, width=2)
-    d.ellipse([px - 5, py - 5, px + 5, py + 5], fill=RED)
+    d.ellipse([px - r, py - r, px + r, py + r], outline=C(RED), width=6)
+    d.ellipse([px - r - 13, py - r - 13, px + r + 13, py + r + 13], outline=C(WHITE), width=2)
+    d.ellipse([px - 5, py - 5, px + 5, py + 5], fill=C(RED))
     label = _PART_LABEL.get(part, part.upper())
     fnt = F(30)
     tw = d.textlength(label, font=fnt)
@@ -347,9 +369,17 @@ def _draw_focus(fr, part, px, py, tt):
     for k in range(0, steps, 2):
         xa = x0 + (x1 - x0) * k / steps; ya = y0 + (y1 - y0) * k / steps
         xb = x0 + (x1 - x0) * (k + 1) / steps; yb = y0 + (y1 - y0) * (k + 1) / steps
-        d.line([xa, ya, xb, yb], fill=WHITE, width=3)
-    d.rounded_rectangle([lx, ly, lx + tw + 36, ly + 48], 8, fill=(8, 10, 12), outline=CYAN, width=2)
-    d.text((lx + 18, ly + 8), label, font=fnt, fill=WHITE)
+        d.line([xa, ya, xb, yb], fill=C(WHITE), width=3)
+    # v6: the model's annotations end in an arrow, not a bare line -
+    # a bold orange arrowhead where the leader meets the ring.
+    ang = math.atan2(y0 - y1, x0 - x1)
+    ah = 27
+    d.polygon([(x0, y0),
+               (x0 - ah * math.cos(ang - 0.42), y0 - ah * math.sin(ang - 0.42)),
+               (x0 - ah * math.cos(ang + 0.42), y0 - ah * math.sin(ang + 0.42))],
+              fill=C((255, 140, 0)))
+    d.rounded_rectangle([lx, ly, lx + tw + 36, ly + 48], 8, fill=(8, 10, 12), outline=C(CYAN), width=2)
+    d.text((lx + 18, ly + 8), label, font=fnt, fill=C(WHITE))
 def _manifest():
     global _MANIFEST
     if _MANIFEST is None:
@@ -361,7 +391,33 @@ def _rotate(asset, context=None):
     man = _manifest()
     if asset not in man:
         return asset
-    if _USED[asset] == 0:
+    if _USED[asset] == 0 and asset not in _RECENT:
+        _USED[asset] += 1
+        return asset
+    if _USED[asset] == 0 and asset in _RECENT:
+        # HARD RULE (Habl, 2026-11-27): even a FIRST use this episode is
+        # a repeat if the last episodes showed it -- rotate away to a
+        # fresh same-role picture, else a fresh same-family one. Only
+        # when the whole family/role pool is recent does it stay.
+        role, fam = man[asset].get("role"), man[asset].get("family")
+        order = {f: i for i, f in enumerate(man)}
+        preds = (lambda im: im.get("role") == role,
+                 lambda im: im.get("family") == fam
+                 and im.get("role") in ("still", "closeup", "anatomy", "cycle"),
+                 lambda im: im.get("role") in ("still", "closeup", "cycle")
+                 and context is not None and _score(im["file"], context) >= 2)
+        for pred in preds:
+            cands = [f for f, im in man.items()
+                     if pred(im) and f != asset and f not in _RECENT and _USED[f] < 2]
+            if cands:
+                cands.sort(key=lambda f: (-((_score(f, context) if context else 0)),
+                                          _USED[f],
+                                          0 if man[f].get("family") == fam else 1,
+                                          order[f]))
+                pick = cands[0]
+                _USED[pick] += 1
+                print(f"art rotation (recent): {asset} -> {pick}")
+                return pick
         _USED[asset] += 1
         return asset
     role, fam = man[asset].get("role"), man[asset].get("family")
@@ -370,6 +426,11 @@ def _rotate(asset, context=None):
     fresh = [f for f in cands if _USED[f] < 2]
     if fresh:
         cands = fresh
+    # HARD RULE: never rotate onto a picture the last episodes showed
+    # while a fresh alternative exists.
+    nonrecent = [f for f in cands if f not in _RECENT]
+    if nonrecent:
+        cands = nonrecent
     if not cands:
         _USED[asset] += 1
         return asset
@@ -438,6 +499,20 @@ def _base_resolve(asset, context=None):
             _USED[pick] += 1
             print(f"base obey-recent: {asset} -> {pick}")
             return pick
+        # Same-role pool exhausted (e.g. every anatomy plate aired in the
+        # last episodes): a fresh picture from the same FAMILY in another
+        # role still beats repeating the authored base.
+        fams = [f for f, im in man.items()
+                if im.get("family") == fam
+                and im.get("role") in ("still", "closeup", "anatomy", "cycle")
+                and f != asset and f not in _RECENT and _USED[f] < 2]
+        if fams:
+            fams.sort(key=lambda f: (-(_score(f, context) if context else 0),
+                                     _USED[f], order[f]))
+            pick = fams[0]
+            _USED[pick] += 1
+            print(f"base obey-recent (family): {asset} -> {pick}")
+            return pick
     return _rotate(asset, context)
 
 def _auto_pick(cur, shown):
@@ -452,7 +527,25 @@ def _auto_pick(cur, shown):
              if im.get("role") == role and f != cur and f not in shown]
     if not cands:
         return None
-    cands.sort(key=lambda f: (_USED[f], 0 if man[f].get("family") == fam else 1, order[f]))
+    nonrecent = [f for f in cands if f not in _RECENT]
+    if nonrecent:
+        cands = nonrecent
+    else:
+        # HARD RULE: every same-role candidate is a repeat from the last
+        # episodes (the anatomy role runs dry exactly like this - all 11
+        # plates appeared in eps 1-3). Widen to ANY fresh picture before
+        # ever repeating a recent one; plates stay last resort inside the
+        # widened pool.
+        wide = [f for f, im in man.items()
+                if im.get("role") in ("still", "closeup", "cycle", "anatomy")
+                and f != cur and f not in shown and f not in _RECENT]
+        if wide:
+            wide.sort(key=lambda f: (_USED[f],
+                                     0 if man[f].get("family") == fam else 1,
+                                     1 if man[f].get("role") == "anatomy" else 0,
+                                     order[f]))
+            return wide[0]
+    cands.sort(key=lambda f: (1 if f in _RECENT else 0, _USED[f], 0 if man[f].get("family") == fam else 1, order[f]))
     return cands[0]
 
 # ---------- semantic picture matching ----------
@@ -469,6 +562,8 @@ _EXTRA_TAGS = {
     "achilles_anatomy_plate.webp": {"ankle", "heel", "tendon", "calf", "achilles"},
     "ren_achilles_profile.webp": {"ankle", "heel", "tendon", "achilles"},
     "ren_eccentric_drop.webp": {"heel", "calf", "ankle", "tendon", "drop"},
+    "ren_grip_closeup.webp": {"forearm", "grip", "tendon", "hand", "fingers"},
+    "ren_pinch_hold.webp": {"grip", "pinch", "fingers", "forearm"},
     "ren_balance_test.webp": {"ankle", "foot", "stand", "standing", "leg", "balance"},
     "ren_calf_raise.webp": {"ankle", "heel", "foot", "calf"},
     "ren_calf_raise_front.webp": {"ankle", "heel", "foot", "calf"},
@@ -537,23 +632,19 @@ def _score(asset, tagset):
     primary, secondary = _img_tags().get(asset, (set(), set()))
     return 2 * len(primary & tagset) + len(secondary & tagset)
 
-_POOL_ROLES = {"still", "anatomy", "closeup"}
-def _best_match(tagset, exclude, context=None):
-    """Best picture for these words (never `exclude`). Habl's rules:
-    something NEW beats a repeat -- a picture already shown this episode
-    only comes back if it matches clearly better (by 2+) and has not
-    already appeared twice; a picture the last episodes used is penalised
-    so cross-episode repeats stay RARE. Returns (file, effective score):
-    the raw word-match score minus the recent-episode penalty."""
+_POOL_ROLES = {"still", "anatomy", "closeup", "cycle"}
+def _match_in_pool(pool, tagset, exclude, context=None):
+    """The within-episode selection over one candidate pool: an unseen
+    picture wins when it matches the words (score >= 2); a picture shown
+    this episode may return only if it clearly out-matches (by 2+) and
+    has not already appeared twice."""
     man = _manifest()
     order = {f: i for i, f in enumerate(man)}
     cur_fam = man.get(exclude, {}).get("family")
-    pool = [f for f, im in man.items()
-            if im.get("role") in _POOL_ROLES and f != exclude]
     if not pool:
         return None, 0
     def eff(f):
-        return _score(f, tagset) - (2 if f in _RECENT else 0)
+        return _score(f, tagset)
     def key(f):
         return (-eff(f), -(_score(f, context) if context else 0),
                 0 if man[f].get("family") == cur_fam else 1, _USED[f], order[f])
@@ -569,6 +660,22 @@ def _best_match(tagset, exclude, context=None):
         return seen[0], eff(seen[0])
     return None, 0
 
+def _best_match(tagset, exclude, context=None):
+    """Best picture for these words (never `exclude`). HARD RULE (Habl,
+    2026-11-27): a picture shown by any of the last 5 episodes NEVER
+    comes back while a fresh picture exists -- the fresh pool is matched
+    first, and a recent picture can only win when the fresh pool is
+    completely empty."""
+    man = _manifest()
+    pool = [f for f, im in man.items()
+            if im.get("role") in _POOL_ROLES and f != exclude]
+    if not pool:
+        return None, 0
+    fresh = [f for f in pool if f not in _RECENT]
+    if fresh:
+        return _match_in_pool(fresh, tagset, exclude, context)
+    return _match_in_pool(pool, tagset, exclude, context)
+
 def _prev_opener():
     if _EP_NUM <= 1:
         return None
@@ -579,12 +686,30 @@ def _prev_opener():
     except Exception:
         return None
 
-def draw_beats(fr, beats, j, scene_idx=None):
-    d = ImageDraw.Draw(fr, "RGBA")
+def _beat_fade(age):
+    """v6.1 (measured from the model by pixel analysis): elements do
+    NOT grow from small and never bounce - they fade in fast, in place
+    (small widgets ~0.25s, pills/cards ~0.7s; 0.35s is our middle)."""
+    if age is None or age >= 0.35:
+        return 1.0
+    return max(0.0, age / 0.35)
+
+def _pop_paste(fr, layer, box, fade):
+    x, y, w, h = box
+    crop = layer.crop((x, y, x + w, y + h))
+    if fade < 1.0:
+        a = crop.split()[3].point(lambda v: int(v * fade))
+        crop.putalpha(a)
+    fr.paste(crop, (x, y), crop)
+
+def draw_beats(fr, beats, j, scene_idx=None, tt=None, bounds=None):
+    layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(layer, "RGBA")
     probe = ImageDraw.Draw(Image.new("RGB", (10, 10)))
     visible = [b for b in beats if b.get("kind") != "swap" and j >= b.get("at", 0)][-2:]
     for b in visible:
         kind = b["kind"]; pos = b.get("pos", "tr")
+        age = (tt - bounds[b.get("at", 0)]) if (tt is not None and bounds is not None) else None
         if kind == "fact":
             cited = (_EP_CITE is not None and scene_idx == _EP_CITE_SCENE
                      and b.get("at", 0) == _EP_CITE_AT and b.get("title") == _EP_CITE_TITLE)
@@ -609,9 +734,10 @@ def draw_beats(fr, beats, j, scene_idx=None):
                 d.text((x + 28, cy + 68), sub, font=F(fit_size(sub, 25, w_ - 56, False), False), fill=GREY)
                 d.text((x + 28, cy + 100), _EP_CITE["finding"],
                        font=F(fit_size(_EP_CITE["finding"], 28, w_ - 56, False), False), fill=GOLD)
+            _pop_paste(fr, layer, (x, y, w_, h_), _beat_fade(age))
             continue
         if kind == "chip":
-            t = b["text"]; w_ = int(probe.textlength(t, font=F(40))) + 56
+            t = b["text"]; w_ = int(probe.textlength(t, font=F(40))) + 56; h_ = 84
             x, y = _beat_xy(pos, w_, 84)
             d.rounded_rectangle([x, y, x + w_, y + 84], 18, fill=(18, 18, 18, 235), outline=CYAN, width=3)
             d.text((x + 28, y + 20), t, font=F(40), fill=WHITE)
@@ -638,7 +764,7 @@ def draw_beats(fr, beats, j, scene_idx=None):
                     tw = probe.textlength(_lbl, font=lf)
                     d.text((x + (w_ - tw) / 2, y + 240), _lbl, font=lf, fill=GREY)
             else:
-                w_ = 430
+                w_ = 430; h_ = 190
                 x, y = _beat_xy(pos, w_, 190)
                 d.rounded_rectangle([x, y, x + w_, y + 190], 18, fill=(18, 18, 18, 235), outline=CYAN, width=3)
                 d.text((x + 28, y + 16), t, font=F(fit_size(t, 84, w_ - 56)), fill=CYAN)
@@ -647,7 +773,7 @@ def draw_beats(fr, beats, j, scene_idx=None):
         elif kind == "mark":
             sym = "✓" if b.get("ok", True) else "✗"
             col = CYAN if b.get("ok", True) else RED
-            t = b.get("text", ""); w_ = int(probe.textlength(t, font=F(40))) + 170
+            t = b.get("text", ""); w_ = int(probe.textlength(t, font=F(40))) + 170; h_ = 110
             x, y = _beat_xy(pos, w_, 110)
             d.rounded_rectangle([x, y, x + w_, y + 110], 18, fill=(18, 18, 18, 235), outline=col, width=3)
             d.text((x + 26, y + 14), sym, font=F(72), fill=col)
@@ -666,14 +792,16 @@ def draw_beats(fr, beats, j, scene_idx=None):
                 d.text((x + 200 + bw, yy), f"{pct}", font=F(32), fill=col)
                 yy += 66
         elif kind == "pip":
-            img = Image.open(os.path.join(ROOT, "assets", b["asset"])).convert("RGB")
+            img = Image.open(os.path.join(ROOT, "assets", b["asset"])).convert("RGBA")
             img = fit_cover(img, 500, 290)
+            w_, h_ = 500, 290
             x, y = _beat_xy(pos, 500, 290)
-            fr.paste(img, (x, y))
+            layer.paste(img, (x, y))
             d.rectangle([x, y, x + 500, y + 290], outline=CYAN, width=4)
             if b.get("label"):
                 d.rectangle([x, y + 244, x + 500, y + 290], fill=(0, 0, 0))
                 d.text((x + 16, y + 250), b["label"], font=F(30), fill=WHITE)
+        _pop_paste(fr, layer, (x, y, w_, h_), _beat_fade(age))
     return fr
 
 def _speech_units(phs):
@@ -731,33 +859,43 @@ def scene_audio(phs, tmp, tag, lead_pause=0.0):
     return out, bounds, total
 
 def hud5(script, scene, done_upto):
-    """Progress furniture (Rep Theory gap 1): TL = red bar + section
-    title; TR = SECTION n/N + progress dots (cyan = done, ringed =
-    current, grey = upcoming) instead of the episode-title badge;
-    bottom = the checklist bar with the channel name corrected."""
+    """Progress furniture: TL = the chapter banner in the model's exact
+    grammar (white bold caps on a dark bar, red stripe at the bar's left
+    edge); TR = the step ladder (ascending bars, current lit, last one
+    gold, YOUR STEP under it); bottom = the checklist bar + brand."""
     im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
-    d.rectangle([36, 30, 46, 78], fill=RED + (255,))
-    d.text((60, 34), scene.get("section", ""), font=F(34), fill=WHITE + (255,))
+    sec = scene.get("section", "")
+    if sec:
+        tw0 = d.textlength(sec, font=F(34))
+        d.rounded_rectangle([30, 24, 66 + tw0 + 26, 88], 10, fill=(14, 14, 14, 238))
+        d.rectangle([30, 24, 44, 88], fill=RED + (255,))
+        d.text((62, 38), sec, font=F(34), fill=WHITE + (255,))
     items = script.get("checklist", [])
     n = len(items)
     if n:
         cur = max(0, min(done_upto, n - 1))
-        label = f"SECTION {cur + 1}/{n}"
-        tw = d.textlength(label, font=F(26))
-        r, gap = 11, 16
-        dots_w = n * (2 * r) + (n - 1) * gap
-        x0 = W - 36 - dots_w
-        d.text((x0 - tw - 24, 40), label, font=F(26), fill=WHITE + (255,))
-        cy = 54
+        # The ladder: n ascending bars at top-right. Done = cyan,
+        # current = white, upcoming = grey outline, the final bar gold.
+        bw_, bgap = 30, 12
+        total_w = n * bw_ + (n - 1) * bgap
+        x0 = W - 36 - total_w
+        base_y = 84
         for i in range(n):
-            cx = x0 + r + i * (2 * r + gap)
+            bh = 18 + int(34 * (i + 1) / n)
+            x = x0 + i * (bw_ + bgap)
+            last = i == n - 1
             if i < cur:
-                d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=CYAN + (255,))
+                d.rounded_rectangle([x, base_y - bh, x + bw_, base_y], 5, fill=CYAN + (255,))
             elif i == cur:
-                d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=WHITE + (255,), width=3)
-                d.ellipse([cx - 5, cy - 5, cx + 5, cy + 5], fill=CYAN + (255,))
+                d.rounded_rectangle([x, base_y - bh, x + bw_, base_y], 5, fill=WHITE + (255,))
             else:
-                d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=GREY + (255,), width=3)
+                d.rounded_rectangle([x, base_y - bh, x + bw_, base_y], 5,
+                                    outline=GOLD + (255,) if last else GREY + (255,), width=3)
+            if last and i <= cur:
+                d.rounded_rectangle([x, base_y - bh, x + bw_, base_y], 5, fill=GOLD + (255,))
+        lab = "YOUR STEP"
+        tw = d.textlength(lab, font=F(22))
+        d.text((W - 36 - tw, base_y + 10), lab, font=F(22), fill=WHITE + (255,))
         d.rectangle([0, H - 64, W, H], fill=(0, 0, 0, 190))
         x = 40
         for i, it in enumerate(items):
@@ -806,13 +944,16 @@ def narrated_frames(script, scene, tmp, idx):
             order = {f: i for i, f in enumerate(man)}
             # The opener is a hero frame: a Ren picture, never an anatomy
             # plate (plates enter later, when the words go anatomical).
-            cands = [f for f, im in man.items() if im.get("role") in ("still", "closeup")]
+            cands = [f for f, im in man.items() if im.get("role") in ("still", "closeup", "cycle")]
             def _okey(f):
-                s = _score(f, open_tags) - (1 if f == prev_o else 0) - (2 if f in _RECENT else 0)
+                s = _score(f, open_tags) - (1 if f == prev_o else 0)
                 return (-s, 1 if f == prev_o else 0, _USED[f], order[f])
-            pick = min(cands, key=_okey) if cands else opener
-            if _score(pick, open_tags) <= 0 and pick != opener:
-                pick = opener  # nothing matches the words: keep the author's
+            # HARD RULE: the opener comes from pictures the last episodes
+            # did NOT show, whenever such a picture exists.
+            fresh_c = [f for f in cands if f not in _RECENT]
+            pick = min(fresh_c, key=_okey) if fresh_c else (min(cands, key=_okey) if cands else opener)
+            if _score(pick, open_tags) <= 0 and pick != opener and opener not in _RECENT:
+                pick = opener  # nothing fresh matches the words: keep the author's (if it is not itself a repeat)
             if pick == opener and opener == prev_o:
                 pick = _opener_shift(opener)  # no match anywhere + a repeat: shift
             if pick != opener:
@@ -824,6 +965,12 @@ def narrated_frames(script, scene, tmp, idx):
         # flickers). If a picture still holds past the cap (15s hook scene,
         # 25s later) with no better match in the words, fall back to the
         # authored picture, else the least-used same-family picture.
+        # HARD RULE: resolve the scene's base picture NOW, through the
+        # no-repeat rotation, so the cap fallback below returns to the
+        # RESOLVED (fresh) base - never to the authored file when the
+        # last episodes already showed it.
+        if opener not in resolved:
+            resolved[opener] = pre[opener] if opener in pre else _base_resolve(opener, scene_tags)
         cap = 15 if idx == 0 else 25
         cur = pre.get(opener, opener)
         shown = {cur}
@@ -860,14 +1007,15 @@ def narrated_frames(script, scene, tmp, idx):
                     continue
             if held >= cap:
                 pick = None
-                if pre.get(opener, opener) != cur:
-                    pick = pre.get(opener, opener)
+                if cur != opener:
+                    pick = opener  # back to the base (drawn via its resolved, fresh image)
                 else:
                     pick = _auto_pick(cur, shown)
                 if pick:
                     beats.append({"at": j, "kind": "swap", "asset": pick})
-                    pre[pick] = pick
-                    _USED[pick] += 1
+                    if pick != opener:
+                        pre[pick] = pick
+                        _USED[pick] += 1
                     shown.add(pick); cur = pick; last = bounds[j]
                     print(f"auto-refresh (no match) scene {idx} @{bounds[j]:.0f}s -> {pick}")
         beats.sort(key=lambda b: b.get("at", 0))
@@ -919,13 +1067,20 @@ def narrated_frames(script, scene, tmp, idx):
             sway = int(3 * math.sin(2 * math.pi * tt / 3.2))
             fr = Image.new("RGB", (W, H), DARK)
             # v5: the main picture swaps when a swap beat is reached.
+            # v6.1: the swap is a HARD CUT - pixel analysis of the model
+            # showed no blur, no flash, no fade between poses, ever.
             cur = current_swap(beats, j, scene["asset"])
             fr.paste(swap_cache.get(cur, base_art), (sway, 0))
             g = glow_cache[fi % 20]; fr.paste(g, (0, 0), g)
-        draw_beats(fr, draw_beat_list, j, scene_idx=idx)
+        if tt < 0.4:
+            # v6.1: scenes fade IN from black over ~0.4s (the model's
+            # new content fades/scales in, in place - the cut itself
+            # stays hard, the arrival is soft).
+            fr = Image.blend(Image.new("RGB", (W, H), DARK), fr, max(0.0, tt / 0.4))
+        draw_beats(fr, draw_beat_list, j, scene_idx=idx, tt=tt, bounds=bounds)
         if j in focus:
             _part, _px, _py = focus[j]
-            _draw_focus(fr, _part, _px + (0 if is_card else sway), _py, tt)
+            _draw_focus(fr, _part, _px + (0 if is_card else sway), _py, tt, age=tt - bounds[j])
         if tt >= scene.get("lead_pause", 0.0):
             pp = pp_cache[j]
             fr.paste(pp, (0, phrase_y), pp)
@@ -944,6 +1099,14 @@ def anim_frames(script, scene, tmp, idx):
     phs = phrases5(scene["narration"])
     aud, bounds, total = scene_audio(phs, tmp, f"a{idx}", scene.get("lead_pause", 0.0))
     angle_sets = scene.get("angles") or [scene["poses"]]
+    # HARD RULE: cycle poses obey the cross-episode ban too -- drop the
+    # poses the last episodes showed when the set keeps at least 2 fresh
+    # ones (a cycle needs motion; a fully-recent set stays whole).
+    angle_sets = [[a for a in s if a not in _RECENT] if len([a for a in s if a not in _RECENT]) >= 2 else s
+                  for s in angle_sets]
+    for s in angle_sets:
+        for a in s:
+            _USED[a] += 1  # record cycle poses as used, like every picture
     sets = [[fit_cover(Image.open(os.path.join(ROOT, "assets", a)).convert("RGB"), W, H) for a in s]
             for s in angle_sets]
     seqs = []
@@ -961,7 +1124,9 @@ def anim_frames(script, scene, tmp, idx):
         s = sets[si]; sq = seqs[si]
         pose = s[sq[int(tt / (cycle / len(sq))) % len(sq)]]
         fr = pose.copy()
-        draw_beats(fr, scene.get("beats", []), j)
+        if tt < 0.4:
+            fr = Image.blend(Image.new("RGB", (W, H), DARK), fr, max(0.0, tt / 0.4))
+        draw_beats(fr, scene.get("beats", []), j, tt=tt, bounds=bounds)
         if tt >= scene.get("lead_pause", 0.0):
             pp = pp_cache[j]; fr.paste(pp, (0, 830), pp)
         fr.paste(hud_im, (0, 0), hud_im)
@@ -996,72 +1161,68 @@ def music_track(plan, total, tmp):
     return out
 
 def roadmap_image(script, current, final=False):
-    """Gap 2: the episode roadmap -- the checklist as a chain of stop
-    cards. Done stops get a cyan check, the current stop glows, future
-    stops are padlocked. final=True stamps MAP COMPLETE in gold."""
+    """Gap 2 roadmap, restyled v6 as the model's road signs: three
+    signs on posts over a road strip - FIRST / THEN / the last stop,
+    which stays a dim "?" until the final appearance reveals it.
+    Passed signs earn a check under the post."""
     items = script.get("checklist", [])
     n = len(items)
     im = Image.new("RGB", (W, H), DARK); d = ImageDraw.Draw(im)
     t = "TODAY'S MAP"
-    d.text(((W - d.textlength(t, font=F(66))) / 2, 96), t, font=F(66), fill=WHITE)
+    d.text(((W - d.textlength(t, font=F(66))) / 2, 92), t, font=F(66), fill=WHITE)
     t2 = "FINISH EVERY STOP. EARN YOUR NEW NUMBER."
-    d.text(((W - d.textlength(t2, font=F(30))) / 2, 186), t2, font=F(30), fill=GOLD)
-    y0, y1 = 350, 690
-    cw = min(370, (1760 - (n - 1) * 36) // max(1, n))
-    total_w = n * cw + (n - 1) * 36
+    d.text(((W - d.textlength(t2, font=F(30))) / 2, 182), t2, font=F(30), fill=GOLD)
+    d.rectangle([0, 800, W, 900], fill=(24, 24, 28))
+    for x in range(40, W - 120, 180):
+        d.rectangle([x, 844, x + 100, 856], fill=(200, 200, 200))
+    stage = 2 if final else (0 if current <= 0 else 1)
+    signs = [
+        (items[0] if n > 0 else "", "FIRST", RED, True),
+        (items[1] if n > 1 else "", "THEN", (255, 140, 0), stage >= 1),
+        (items[-1] if n > 0 else "", "LAST", CYAN, final),
+    ]
+    sw_, sh_, gap_ = 500, 210, 110
+    total_w = 3 * sw_ + 2 * gap_
     x0 = (W - total_w) // 2
-    cy = (y0 + y1) // 2
-    d.line([x0 + cw // 2, cy, x0 + total_w - cw // 2, cy], fill=(70, 80, 88), width=6)
-    for k, name in enumerate(items):
-        x = x0 + k * (cw + 36)
-        done = final or k < current
-        cur = (not final) and k == current
-        if cur:
-            for g in range(3):
-                d.rounded_rectangle([x - 6 + g * 2, y0 - 6 + g * 2, x + cw + 6 - g * 2, y1 + 6 - g * 2],
-                                    18, outline=CYAN)
-        d.rounded_rectangle([x, y0, x + cw, y1], 16, fill=(16, 20, 24),
-                            outline=CYAN if cur else (90, 100, 108), width=4 if cur else 2)
-        num = str(k + 1)
-        ncol = CYAN if (done or cur) else GREY
-        d.text((x + (cw - d.textlength(num, font=F(84))) / 2, y0 + 22), num, font=F(84), fill=ncol)
-        size = 34
-        while size > 18 and d.textlength(name, font=F(size)) > cw - 28:
-            size -= 2
-        words = name.split()
-        lines, ln = [], ""
-        for w_ in words:
-            cand = (ln + " " + w_).strip()
-            if d.textlength(cand, font=F(size)) <= cw - 28 or not ln:
-                ln = cand
-            else:
-                lines.append(ln); ln = w_
-        if ln: lines.append(ln)
-        ly = y0 + 138
-        for L in lines[:2]:
-            d.text((x + (cw - d.textlength(L, font=F(size))) / 2, ly), L, font=F(size), fill=WHITE)
-            ly += size + 8
-        sy = y1 - 78
-        if done:
-            d.ellipse([x + cw / 2 - 62, sy, x + cw / 2 - 10, sy + 52], fill=CYAN)
-            d.text((x + cw / 2 - 62 + (52 - d.textlength("✓", font=F(36))) / 2, sy + 4), "✓", font=F(36), fill=(0, 0, 0))
-            d.text((x + cw / 2 + 2, sy + 10), "DONE", font=F(30), fill=CYAN)
-        elif cur:
-            t3 = "YOU ARE HERE"
-            d.text((x + (cw - d.textlength(t3, font=F(29))) / 2, sy + 10), t3, font=F(29), fill=GOLD)
+    sy = 400
+    for k, (name, tag, col, lit) in enumerate(signs):
+        x = x0 + k * (sw_ + gap_)
+        d.rectangle([x + sw_ // 2 - 9, sy + sh_, x + sw_ // 2 + 9, 806], fill=(110, 110, 116))
+        oc = col if lit else (90, 90, 96)
+        d.rounded_rectangle([x, sy, x + sw_, sy + sh_], 18, fill=(14, 14, 16),
+                            outline=oc, width=5 if lit else 3)
+        tw = d.textlength(tag, font=F(30))
+        d.text((x + (sw_ - tw) / 2, sy - 52), tag, font=F(30), fill=col if lit else GREY)
+        if k == 2 and not final:
+            q = "?"
+            d.text((x + (sw_ - d.textlength(q, font=F(120))) / 2, sy + 34), q, font=F(120), fill=(90, 90, 96))
         else:
-            lx = x + cw / 2 - 66
-            d.arc([lx + 8, sy - 12, lx + 36, sy + 22], start=180, end=360, fill=GREY, width=5)
-            d.rounded_rectangle([lx, sy + 8, lx + 44, sy + 46], 6, fill=GREY)
-            d.ellipse([lx + 19, sy + 20, lx + 25, sy + 26], fill=DARK)
-            d.text((lx + 54, sy + 8), "LOCKED", font=F(28), fill=GREY)
+            size = fit_size(name, 54, sw_ - 48)
+            words = name.split(); lines, ln = [], ""
+            for w_ in words:
+                cand = (ln + " " + w_).strip()
+                if d.textlength(cand, font=F(size)) <= sw_ - 48 or not ln:
+                    ln = cand
+                else:
+                    lines.append(ln); ln = w_
+            if ln: lines.append(ln)
+            ly = sy + (sh_ - len(lines[:2]) * (size + 10)) // 2
+            for L in lines[:2]:
+                d.text((x + (sw_ - d.textlength(L, font=F(size))) / 2, ly), L,
+                       font=F(size), fill=WHITE if lit else GREY)
+                ly += size + 10
+        if k < 2:
+            ch = ">>>"
+            d.text((x + sw_ + (gap_ - d.textlength(ch, font=F(44))) / 2, sy + sh_ // 2 - 26),
+                   ch, font=F(44), fill=GREY)
+        if lit and (final or k < stage):
+            d.ellipse([x + sw_ // 2 - 26, sy + sh_ + 118, x + sw_ // 2 + 26, sy + sh_ + 170], fill=CYAN)
+            ck = "✓"
+            d.text((x + sw_ // 2 - d.textlength(ck, font=F(36)) / 2, sy + sh_ + 124),
+                   ck, font=F(36), fill=(0, 0, 0))
     if final:
-        layer = Image.new("RGBA", (1240, 300), (0, 0, 0, 0)); ld = ImageDraw.Draw(layer)
-        ld.rounded_rectangle([36, 36, 1204, 264], 26, outline=GOLD + (255,), width=8)
         t4 = "MAP COMPLETE"
-        ld.text(((1240 - ld.textlength(t4, font=F(92))) / 2, 92), t4, font=F(92), fill=GOLD + (255,))
-        layer = layer.rotate(10, resample=Image.BICUBIC, expand=True)
-        im.paste(layer, ((W - layer.width) // 2, 872 - layer.height // 2), layer)
+        d.text(((W - d.textlength(t4, font=F(54))) / 2, 936), t4, font=F(54), fill=GOLD)
     fake = {"section": items[current] if 0 <= current < n else "", "check": current}
     h = hud5(script, fake, current)
     im.paste(h, (0, 0), h)
@@ -1159,23 +1320,42 @@ def tease_segment(script, bands, check, tmp):
     return seg, dd
 
 def route_image(script, bands, check, section):
-    """GAP 7 personal routing: the payoff card before the verdict -
-    every band of the viewer's number routed to its starting point."""
+    """GAP 7 personal routing, restyled v6 to the model's YOUR RESULT
+    card: one row per band of the viewer's number, a coloured border
+    down the row's left edge, and the row's own mini step-ladder with
+    its step lit - the viewer finds their row and their step at once."""
     im = Image.new("RGB", (W, H), DARK)
     d = ImageDraw.Draw(im)
-    t = "YOUR ROUTE"
-    d.text(((W - d.textlength(t, font=F(64))) / 2, 140), t, font=F(64), fill=CYAN)
-    y = 300
-    for rng, lab, route, col in _route_rows(script, bands):
-        d.rounded_rectangle([220, y, W - 220, y + 128], 16,
-                            fill=(22, 22, 27), outline=col, width=3)
-        d.text((260, y + 18), rng, font=F(44), fill=col)
-        d.text((260, y + 74), lab, font=F(30), fill=GREY)
-        rt = "-> " + route
-        d.text((W - 260 - d.textlength(rt, font=F(38)), y + 42), rt, font=F(38), fill=WHITE)
-        y += 162
+    t = "YOUR RESULT"
+    d.text(((W - d.textlength(t, font=F(64))) / 2, 130), t, font=F(64), fill=GOLD)
+    items = script.get("checklist", [])
+    n = max(1, len(items))
+    y = 280
+    for i, (rng, lab, route, col) in enumerate(_route_rows(script, bands)):
+        d.rounded_rectangle([220, y, W - 220, y + 150], 16,
+                            fill=(22, 22, 27), outline=(70, 70, 76), width=2)
+        d.rectangle([220, y + 10, 234, y + 140], fill=col)
+        d.text((272, y + 16), rng, font=F(46), fill=col)
+        d.text((272, y + 76), lab, font=F(30), fill=GREY)
+        d.text((272, y + 110), route, font=F(28), fill=WHITE)
+        # the row's mini ladder: n ascending bars, this row's step lit
+        bw_, bgap, base = 26, 9, y + 122
+        lx = W - 272 - (n * bw_ + (n - 1) * bgap)
+        lit = min(i, n - 1)
+        for k in range(n):
+            bh = 14 + int(26 * (k + 1) / n)
+            x = lx + k * (bw_ + bgap)
+            if k < lit:
+                d.rounded_rectangle([x, base - bh, x + bw_, base], 4,
+                                    fill=tuple(c // 2 for c in col))
+            elif k == lit:
+                d.rounded_rectangle([x, base - bh, x + bw_, base], 4, fill=col)
+            else:
+                d.rounded_rectangle([x, base - bh, x + bw_, base], 4,
+                                    outline=GOLD if k == n - 1 else GREY, width=2)
+        y += 176
     t = "EVERY ROUTE ENDS AT THE RETEST"
-    d.text(((W - d.textlength(t, font=F(30))) / 2, y + 40), t, font=F(30), fill=GREY)
+    d.text(((W - d.textlength(t, font=F(30))) / 2, y + 30), t, font=F(30), fill=GREY)
     hud_im = hud5(script, {"section": section, "check": check}, check)
     im.paste(hud_im, (0, 0), hud_im)
     return im
@@ -1250,6 +1430,99 @@ def end_segment(script, tmp):
     print(f"end card: next ep {nid} '{title[:50]}' {dd:.1f}s")
     return seg, dd
 
+def title_image(script):
+    """v6 opening card (the model's 0:00 frame): the test's name in
+    giant white type behind the hero pose - one beat of pure packaging
+    before anything is said. No HUD, no other text."""
+    word, hero = "", None
+    for sc in script.get("scenes", []):
+        if sc.get("type") == "timer" and sc.get("exercise"):
+            word = sc["exercise"].upper()
+            hero = hero or sc.get("asset")
+    sc0 = script["scenes"][0] if script.get("scenes") else {}
+    hero = hero or sc0.get("asset") or (sc0.get("poses") or [None])[0]
+    if not word:
+        word = (script.get("checklist") or ["THE TEST"])[0]
+    im = Image.new("RGB", (W, H), DARK)
+    d = ImageDraw.Draw(im)
+    size = fit_size(word, 300, W - 120)
+    d.text(((W - d.textlength(word, font=F(size))) / 2, (H - size) // 2 - 30),
+           word, font=F(size), fill=WHITE)
+    if hero:
+        try:
+            pic = Image.open(os.path.join(ROOT, "assets", hero)).convert("RGB")
+            nh = int(H * 0.92)
+            pic = pic.resize((int(pic.width * nh / pic.height), nh), Image.BICUBIC)
+            # The art is bright line-work on pure black: key the black
+            # out so the giant word stays visible AROUND and BEHIND the
+            # figure, the way the model's title card layers it.
+            alpha = pic.convert("L").point(lambda v: 0 if v < 14 else min(255, int((v - 14) * 1.6)))
+            im.paste(pic, ((W - pic.width) // 2, (H - pic.height) // 2), alpha)
+        except Exception:
+            pass
+    return im, hero
+
+def title_segment(script, tmp):
+    ip = os.path.join(tmp, "title.png")
+    im, hero = title_image(script)
+    im.save(ip)
+    wav = os.path.join(tmp, "title.wav")
+    run(["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo", "-t", "1.5", wav])
+    seg = os.path.join(tmp, "title.mp4")
+    run(["ffmpeg", "-y", "-loop", "1", "-framerate", "30", "-i", ip, "-i", wav,
+         "-t", "1.5", "-vf", "format=yuv420p", "-c:v", "libx264", "-c:a", "aac", seg])
+    print("title card: 1.5s")
+    return seg, 1.5, hero
+
+def safety_image(script):
+    """v6 closing card (the model's last frame): warning triangle,
+    SAFETY NOTE pill, the not-licensed lines, ANY PAIN? in orange,
+    and the episode's pose in a gold-ringed circle, bottom-right."""
+    im = Image.new("RGB", (W, H), DARK)
+    d = ImageDraw.Draw(im)
+    cx = W // 2
+    d.polygon([(cx - 52, 172), (cx + 52, 172), (cx, 84)], outline=GOLD, width=7)
+    d.text((cx - d.textlength("!", font=F(56)) / 2, 116), "!", font=F(56), fill=GOLD)
+    pill = "SAFETY NOTE"
+    pw = d.textlength(pill, font=F(34)) + 56
+    d.rounded_rectangle([cx - pw / 2, 214, cx + pw / 2, 272], 29, outline=GOLD, width=3)
+    d.text((cx - d.textlength(pill, font=F(34)) / 2, 226), pill, font=F(34), fill=WHITE)
+    lines = [("WE'RE NOT LICENSED", 84, WHITE), ("PROFESSIONALS", 84, WHITE),
+             ("TRAIN AT YOUR OWN RISK", 64, WHITE), ("ANY PAIN?", 84, (255, 110, 40)),
+             ("STOP. SEE A LICENSED PHYSICIAN.", 36, GREY)]
+    y = 336
+    for txt, size, col in lines:
+        d.text((cx - d.textlength(txt, font=F(size)) / 2, y), txt, font=F(size), fill=col)
+        y += size + 34
+    hero = None
+    for sc in script.get("scenes", []):
+        if sc.get("type") == "timer" and sc.get("asset"):
+            hero = sc["asset"]; break
+    if hero:
+        try:
+            pic = Image.open(os.path.join(ROOT, "assets", hero)).convert("RGB")
+            pic = fit_cover(pic, 300, 300)
+            mask = Image.new("L", (300, 300), 0)
+            ImageDraw.Draw(mask).ellipse([0, 0, 300, 300], fill=255)
+            im.paste(pic, (W - 380, H - 380), mask)
+            d.ellipse([W - 380, H - 380, W - 80, H - 80], outline=GOLD, width=6)
+        except Exception:
+            pass
+    return im
+
+def safety_segment(script, tmp):
+    ip = os.path.join(tmp, "safety.png")
+    safety_image(script).save(ip)
+    line = ("Safety note. We are not licensed professionals. Train at "
+            "your own risk. Any pain? Stop, and see a licensed physician.")
+    wav = tts(line, os.path.join(tmp, "safety"))
+    dd = dur(wav) + 0.6
+    seg = os.path.join(tmp, "safety.mp4")
+    run(["ffmpeg", "-y", "-loop", "1", "-framerate", "30", "-i", ip, "-i", wav,
+         "-t", f"{dd:.2f}", "-vf", "format=yuv420p", "-c:v", "libx264", "-c:a", "aac", seg])
+    print(f"safety card: {dd:.1f}s")
+    return seg, dd
+
 def render5(script_path, out_path):
     global _EP_NUM
     # Timer segments are drawn inside render2.timer_segment, which pastes
@@ -1260,13 +1533,13 @@ def render5(script_path, out_path):
     script = json.load(open(script_path))
     _pick_citation(script)
     _USED.clear()
-    # Cross-episode memory: pictures the last 3 episodes used (recorded in
-    # state.json by main.py) -- the matcher penalises them so a picture
-    # from an old video comes back only rarely, when it clearly matches.
+    # Cross-episode memory: pictures the last 5 episodes used (recorded in
+    # state.json by main.py) -- HARD RULE: the matcher never picks them
+    # while a fresh picture exists (see _best_match).
     _RECENT.clear()
     try:
         st = json.load(open(os.path.join(ROOT, "state.json")))
-        for e in st.get("published", [])[-3:]:
+        for e in st.get("published", [])[-5:]:
             _RECENT.update(e.get("art", []))
     except Exception:
         pass
@@ -1289,6 +1562,10 @@ def render5(script_path, out_path):
             if pb:
                 bignum_idx, ep_bands = k, pb
                 break
+    tseg, td, thero = title_segment(script, tmp)
+    segs.append(tseg); plan.append(("drive", td))
+    if thero:
+        _USED[thero] += 1  # the title card shows it: record it like any picture
     for i, sc in enumerate(scenes):
         if ep_bands and bignum_idx is not None and i == bignum_idx + 1 and i != 1:
             seg, dd = tease_segment(script, ep_bands,
@@ -1335,6 +1612,8 @@ def render5(script_path, out_path):
     es = end_segment(script, tmp)
     if es:
         segs.append(es[0]); plan.append(("calm", es[1]))
+    sseg, sd = safety_segment(script, tmp)
+    segs.append(sseg); plan.append(("calm", sd))
     body = os.path.join(tmp, "body.mp4")
     inputs = []
     for s in segs: inputs += ["-i", s]
